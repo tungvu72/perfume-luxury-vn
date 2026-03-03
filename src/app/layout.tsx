@@ -18,8 +18,8 @@ const inter = Inter({
   weight: ["300", "400", "500", "600", "700"],
 });
 
-const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
-const GSC_VERIFICATION_CODE = process.env.NEXT_PUBLIC_GSC_VERIFICATION_CODE || "YOUR_GSC_VERIFICATION_CODE";
+const GA_ID = "G-8DCZC9TD49";
+const GSC_VERIFICATION_CODE = "2v7xR50gvaL9u1mDddvOL3gl8qQUe5BFnmesiPmLQts";
 
 export const metadata: Metadata = {
   title: "Maison de SON | Danh gia nuoc hoa chuyen sau #1 Viet Nam",
