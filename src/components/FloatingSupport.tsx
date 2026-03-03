@@ -1,13 +1,13 @@
-﻿"use client";
+"use client";
 
 import { useState } from "react";
 import Link from "next/link";
 import { MessageCircle, Phone, X } from "lucide-react";
 import { trackClick } from "@/lib/tracking";
 
-// TODO: Update với số Zalo thật của Chủ tịch
-const ZALO_NUMBER = "0901234567";
-const HOTLINE = "0901234567";
+// TODO: Update v?i s? Zalo th?t c?a Ch? t?ch
+const ZALO_NUMBER = "0961226169";
+const HOTLINE = "0961226169";
 
 export default function FloatingSupport() {
     const [isOpen, setIsOpen] = useState(false);
@@ -32,7 +32,7 @@ export default function FloatingSupport() {
                         </div>
                         <div>
                             <div className="text-xs font-bold">Chat Zalo</div>
-                            <div className="text-[10px] text-gray-400">Phản hồi trong 5 phút</div>
+                            <div className="text-[10px] text-gray-400">Ph?n h?i trong 5 ph�t</div>
                         </div>
                     </Link>
                     <Link
@@ -57,10 +57,11 @@ export default function FloatingSupport() {
                     ? "bg-gray-800 text-white rotate-0"
                     : "bg-[#0068FF] text-white hover:scale-110"
                     }`}
-                aria-label="Hỗ trợ khách hàng"
+                aria-label="H? tr? kh�ch h�ng"
             >
                 {isOpen ? <X size={22} /> : <MessageCircle size={22} />}
             </button>
         </div>
     );
 }
+
