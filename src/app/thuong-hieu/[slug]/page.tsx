@@ -93,7 +93,7 @@ export default async function BrandPage({ params }: { params: Promise<{ slug: st
                                     <div className="flex text-primary">
                                         {[...Array(5)].map((_, i) => <StarIcon key={i} size={10} fill="currentColor" />)}
                                     </div>
-                                    <span className="text-[10px] text-gray-400 font-bold uppercase tracking-[0.5px]">{product.reviewCount || 0} đánh giá</span>
+                                    <span className="text-[10px] text-gray-400 font-bold uppercase tracking-[0.5px]">Đánh giá</span>
                                 </div>
                                 <div className="text-lg font-serif">{product.basePrice.toLocaleString()} VNĐ</div>
                             </div>
