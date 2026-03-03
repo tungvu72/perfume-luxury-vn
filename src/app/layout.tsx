@@ -25,10 +25,6 @@ export const metadata: Metadata = {
   title: "Maison de SON | Đánh giá nước hoa chuyên sâu #1 Việt Nam",
   description: "Khám phá thế giới mùi hương với đánh giá chuyên sâu từ chuyên gia.",
   manifest: "/manifest.json",
-  themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#FFFFFF" },
-    { media: "(prefers-color-scheme: dark)", color: "#1C1C1C" },
-  ],
   verification: {
     google: GSC_VERIFICATION_CODE,
   },
@@ -47,6 +43,10 @@ export const viewport: Viewport = {
   initialScale: 1,
   maximumScale: 5,
   userScalable: true,
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#FFFFFF" },
+    { media: "(prefers-color-scheme: dark)", color: "#1C1C1C" },
+  ],
 };
 
 export default function RootLayout({

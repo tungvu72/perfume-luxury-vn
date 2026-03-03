@@ -14,12 +14,22 @@ export async function generateStaticParams() {
 }
 
 export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params;
-  if (!slug || slug === 'undefined' || slug === 'null') notFound();
+  const resolvedParams = await params;
+  const slug = resolvedParams?.slug;
+  
+  if (!slug || typeof slug !== 'string') {
+    return notFound();
+  }
+  
   const filePath = path.join(process.cwd(), 'content', 'buying-guides', slug + '.md');
-  if (!fs.existsSync(filePath)) notFound();
+  
+  if (!fs.existsSync(filePath)) {
+    return notFound();
+  }
+  
   const content = fs.readFileSync(filePath, 'utf-8');
   const title = content.split('\n')[0].replace(/^#\s*/, '');
+  
   return (
     <article className="max-w-4xl mx-auto px-4 py-8">
       <a href="/kien-thuc" className="text-blue-600 hover:underline mb-4 inline-block">← Quay lại</a>
