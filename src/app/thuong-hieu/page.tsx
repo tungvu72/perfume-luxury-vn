@@ -6,7 +6,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "Thương hiệu nước hoa - Maison de SON",
-    description: "Khám phá các thương hiệu nước hoa cao cấp chính hãng. Đánh giá chuyên sâu từ chuyên gia.",
+    description: "Khám phá các thương hiệu nước hoa cao cấp chính hãng...",
 };
 
 // Danh sÃ¡ch Ä‘áº§y Ä‘á»§ cÃ¡c brand (káº¿t há»£p data tháº­t + placeholder cho SEO)
