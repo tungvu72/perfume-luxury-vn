@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premium Concept - PLV</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Montserrat:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #C5A059;
+            --text-main: #1C1C1C;
+            --text-light: #666666;
+            --bg: #FFFFFF;
+            --card-bg: #F9F9F9;
+            --border: #E8E8E8;
+            --shopee: #EE4D2D;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background: var(--bg);
+            color: var(--text-main);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* HEADER */
+        header {
+            padding: 30px 0;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 28px;
+            font-weight: 700;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+        }
+
+        /* PRODUCT SECTION */
+        .product-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 80px;
+            padding: 60px 0;
+        }
+
+        /* LEFT: IMAGE HERO */
+        .product-gallery {
+            position: sticky;
+            top: 40px;
+        }
+
+        .main-image {
+            width: 100%;
+            aspect-ratio: 4/5;
+            background: #f4f4f4;
+            border-radius: 4px;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        .main-image img {
+            width: 90%;
+            height: auto;
+            transition: transform 0.6s ease;
+        }
+
+        .main-image:hover img {
+            transform: scale(1.05);
+        }
+
+        /* RIGHT: CONTENT */
+        .brand-brand {
+            font-size: 14px;
+            letter-spacing: 3px;
+            color: var(--primary);
+            text-transform: uppercase;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        .product-title {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 52px;
+            line-height: 1.1;
+            margin-bottom: 25px;
+        }
+
+        /* SCORE DASHBOARD */
+        .score-row {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+
+        .score-circle {
+            width: 100px;
+            height: 100px;
+            border: 2px solid var(--primary);
+            border-radius: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .score-num {
+            font-size: 36px;
+            font-weight: 700;
+            color: var(--primary);
+            font-family: 'Cormorant Garamond', serif;
+        }
+
+        .score-label {
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-light);
+        }
+
+        .score-verdict {
+            font-size: 14px;
+            color: var(--text-light);
+            border-left: 1px solid var(--border);
+            padding-left: 20px;
+        }
+
+        .score-verdict b {
+            color: var(--text-main);
+            font-size: 16px;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        /* VOLUME PICKER */
+        .volume-section {
+            margin-bottom: 40px;
+        }
+
+        .section-h {
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+            color: #888;
+        }
+
+        .vol-list {
+            display: flex;
+            gap: 12px;
+        }
+
+        .vol-item {
+            padding: 12px 25px;
+            border: 1px solid var(--border);
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: 0.3s;
+            background: white;
+        }
+
+        .vol-item:hover {
+            border-color: var(--primary);
+        }
+
+        .vol-item.active {
+            background: var(--text-main);
+            color: white;
+            border-color: var(--text-main);
+        }
+
+        /* VIBE TAGS */
+        .vibe-row {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 50px;
+        }
+
+        .vibe-tag {
+            padding: 8px 16px;
+            background: #F2EEED;
+            border-radius: 100px;
+            font-size: 12px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        /* SHOPEE MARKETPLACE HUB (Lấy cảm hứng từ eBay/Fragrantica) */
+        .shopee-hub {
+            background: #fafafa;
+            padding: 30px;
+            border-radius: 12px;
+            margin-top: 40px;
+        }
+
+        .hub-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .hub-title {
+            font-weight: 700;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .hub-title svg {
+            height: 20px;
+            fill: var(--shopee);
+        }
+
+        .market-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+        }
+
+        .market-card {
+            background: white;
+            padding: 10px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            text-decoration: none;
+            color: inherit;
+            transition: 0.3s;
+        }
+
+        .market-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+        }
+
+        .m-img {
+            width: 100%;
+            aspect-ratio: 1;
+            background: #eee;
+            border-radius: 4px;
+            margin-bottom: 10px;
+            background-size: cover;
+        }
+
+        .m-name {
+            font-size: 11px;
+            font-weight: 500;
+            height: 32px;
+            overflow: hidden;
+            margin-bottom: 8px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+
+        .m-price {
+            color: var(--shopee);
+            font-weight: 700;
+            font-size: 14px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .m-arrow {
+            font-size: 12px;
+            opacity: 0.5;
+        }
+
+        /* FLOATING ZALO STYLIST */
+        .zalo-stylist {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: white;
+            padding: 12px 20px;
+            border-radius: 100px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            cursor: pointer;
+            text-decoration: none;
+            border: 1px solid var(--border);
+            transition: 0.4s;
+            z-index: 1000;
+        }
+
+        .zalo-stylist:hover {
+            transform: scale(1.05);
+            border-color: #0068FF;
+        }
+
+        .z-icon {
+            width: 32px;
+            height: 32px;
+            background: #0068FF;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 700;
+            font-size: 12px;
+        }
+
+        .z-text {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-main);
+        }
+
+        .z-status {
+            width: 8px;
+            height: 8px;
+            background: #2ECC71;
+            border-radius: 50%;
+        }
+
+        @media (max-width: 900px) {
+            .product-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .market-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        /* MICRO-INTERACTIONS & ANIMATIONS */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes scaleIn {
+            from {
+                opacity: 0;
+                transform: scale(0.9);
+            }
+
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        .product-title,
+        .brand-brand,
+        .score-row,
+        .vibe-row,
+        .volume-section,
+        .shopee-hub {
+            animation: fadeInUp 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+        }
+
+        .brand-brand {
+            animation-delay: 0.1s;
+        }
+
+        .product-title {
+            animation-delay: 0.2s;
+        }
+
+        .score-row {
+            animation-delay: 0.3s;
+        }
+
+        .vibe-row {
+            animation-delay: 0.4s;
+        }
+
+        .volume-section {
+            animation-delay: 0.5s;
+        }
+
+        .shopee-hub {
+            animation-delay: 0.6s;
+        }
+
+        .main-image {
+            animation: scaleIn 1.2s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+        }
+
+        /* Hover effects for Nav */
+        nav span {
+            position: relative;
+            cursor: pointer;
+            transition: color 0.3s;
+        }
+
+        nav span::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 1px;
+            background: var(--primary);
+            transition: width 0.3s;
+        }
+
+        nav span:hover {
+            color: var(--primary);
+        }
+
+        nav span:hover::after {
+            width: 100%;
+        }
+
+        /* Smooth active state for Volume */
+        .vol-item {
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .vol-item:active {
+            transform: scale(0.95);
+        }
+
+        /* Shopee Hub Micro-glow */
+        .market-card:hover {
+            border-color: var(--shopee);
+            box-shadow: 0 15px 30px rgba(238, 77, 45, 0.08);
+        }
+
+        /* Score Circle Pulse */
+        .score-circle {
+            transition: transform 0.3s ease;
+        }
+
+        .score-circle:hover {
+            transform: scale(1.05);
+        }
+
+        .price-display {
+            transition: opacity 0.3s ease;
+        }
+    </style>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Volume Picker Logic
+            const volItems = document.querySelectorAll('.vol-item');
+            const priceTag = document.querySelector('.price-display');
+
+            const prices = {
+                '10ml Chiết': '350.000 VNĐ',
+                '20ml Chiết': '680.000 VNĐ',
+                'Fullbox 100ml': '3.450.000 VNĐ'
+            };
+
+            volItems.forEach(item => {
+                item.addEventListener('click', () => {
+                    volItems.forEach(i => i.classList.remove('active'));
+                    item.classList.add('active');
+
+                    // Smooth price update
+                    priceTag.style.opacity = '0';
+                    setTimeout(() => {
+                        priceTag.textContent = prices[item.textContent.trim()];
+                        priceTag.style.opacity = '1';
+                    }, 200);
+                });
+            });
+        });
+    </script>
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <div class="logo">LUX PERFUME</div>
+            <nav style="font-size: 12px; font-weight: 600; letter-spacing: 1px; display: flex; gap: 30px;">
+                <span>NAM</span><span>NỮ</span><span>UNISEX</span><span>HÃNG</span><span>BLOG</span>
+            </nav>
+        </header>
+
+        <div class="product-grid">
+            <!-- ẢNH GALLERY CAO CẤP -->
+            <div class="product-gallery">
+                <div class="main-image">
+                    <img src="https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=1000"
+                        alt="Bleu de Chanel">
+                </div>
+            </div>
+
+            <!-- THÔNG TIN CHUYÊN SÂU -->
+            <div class="product-info">
+                <div class="brand-brand">CHANEL</div>
+                <h1 class="product-title">Bleu de Chanel<br>Eau de Parfum</h1>
+
+                <div class="score-row">
+                    <div class="score-circle">
+                        <span class="score-num">9.2</span>
+                        <span class="score-label">Chuyên gia</span>
+                    </div>
+                    <div class="score-verdict">
+                        <b>KIỆT TÁC HIỆN ĐẠI</b>
+                        <span>Đây là tiêu chuẩn vàng cho nước hoa nam giới trong thập kỷ qua. Sang trọng và đa
+                            dụng.</span>
+                    </div>
+                </div>
+
+                <div class="vibe-row">
+                    <div class="vibe-tag">👔 <span>Thanh lịch</span></div>
+                    <div class="vibe-tag">🍸 <span>Tiệc tối</span></div>
+                    <div class="vibe-tag" style="background:#E3F2FD;">💼 <span>Công sở</span></div>
+                </div>
+
+                <div class="volume-section">
+                    <div class="section-h">Lựa chọn của bạn:</div>
+                    <div class="vol-list">
+                        <div class="vol-item">10ml Chiết</div>
+                        <div class="vol-item">20ml Chiết</div>
+                        <div class="vol-item active">Fullbox 100ml</div>
+                    </div>
+                </div>
+
+                <div class="price-display"
+                    style="font-size: 28px; font-weight: 400; margin-bottom: 40px; font-family: 'Cormorant Garamond', serif;">
+                    3.450.000 VNĐ
+                </div>
+
+                <!-- SHOPEE HUB - CHUYÊN GIA DẪN DẮT THỊ TRƯỜNG -->
+                <div class="shopee-hub">
+                    <div class="hub-header">
+                        <div class="hub-title">
+                            <svg viewBox="0 0 24 24">
+                                <path
+                                    d="M21 21.5H3c-1.1 0-2-.9-2-2V7.5c0-1.1.9-2 2-2h3c.3-2.5 2.4-4.5 4.9-4.5s4.6 2 4.9 4.5h3c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2zM10.9 3c-1.4.1-2.5 1.1-2.8 2.5h5.8c-.3-1.4-1.4-2.4-2.8-2.5h-.2z" />
+                            </svg>
+                            THAM KHẢO GIÁ SHOPEE
+                        </div>
+                    </div>
+                    <div class="market-grid">
+                        <a href="#" class="market-card">
+                            <div class="m-img"
+                                style="background-image: url('https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=200');">
+                            </div>
+                            <div class="m-name">Chanel Bleu EDP 100ml - Mall Phunams..</div>
+                            <div class="m-price">3.250k <span class="m-arrow">→</span></div>
+                        </a>
+                        <a href="#" class="market-card">
+                            <div class="m-img"
+                                style="background-image: url('https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=200');">
+                            </div>
+                            <div class="m-name">Nước hoa nam Bleu de Chanel 10ml Chiết</div>
+                            <div class="m-price">350k <span class="m-arrow">→</span></div>
+                        </a>
+                        <a href="#" class="market-card">
+                            <div class="m-img"
+                                style="background-image: url('https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=200');">
+                            </div>
+                            <div class="m-name">Fullbox Bleu EDP Chính hãng - KenPerf..</div>
+                            <div class="m-price">3.400k <span class="m-arrow">→</span></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- STYLIST FLOATING ACTION -->
+    <a href="#" class="zalo-stylist">
+        <div class="z-icon">Zá</div>
+        <div class="z-text">Nhận tư vấn từ Stylist</div>
+        <div class="z-status"></div>
+    </a>
+
+</body>
+
+</html>

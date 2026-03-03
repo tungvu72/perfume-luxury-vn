@@ -1,0 +1,34 @@
+{
+  "name": "perfume-luxury-vn",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@sanity/image-url": "^2.0.3",
+    "@sanity/vision": "^5.12.0",
+    "framer-motion": "^12.34.3",
+    "lucide-react": "^0.575.0",
+    "next": "15.1.6",
+    "next-sanity": "11.6.12",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "sanity": "^4.22.0",
+    "styled-components": "^6.3.11"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.6",
+    "jsdom": "^28.1.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
