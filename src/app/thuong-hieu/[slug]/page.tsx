@@ -58,8 +58,7 @@ export default async function BrandPage({ params }: { params: Promise<{ slug: st
                 <div className="container mx-auto px-5 py-4 flex justify-between items-center text-[10px] font-bold uppercase tracking-[2px]">
                     <div className="flex gap-8">
                         <span className="text-primary cursor-pointer hover:underline underline-offset-4">Tất cả</span>
-                        <span className="text-gray-400 cursor-pointer hover:text-foreground">Phổ biến</span>
-                        <span className="text-gray-400 cursor-pointer hover:text-foreground">Đánh giá cao</span>
+                        
                     </div>
                     <div className="flex gap-2 items-center text-gray-400">
                         Sắp xếp: <span className="text-foreground">Mới nhất ▼</span>
@@ -94,7 +93,7 @@ export default async function BrandPage({ params }: { params: Promise<{ slug: st
                                     <div className="flex text-primary">
                                         {[...Array(5)].map((_, i) => <StarIcon key={i} size={10} fill="currentColor" />)}
                                     </div>
-                                    <span className="text-[10px] text-gray-400 font-bold uppercase tracking-[0.5px]">840 Đánh giá</span>
+                                    <span className="text-[10px] text-gray-400 font-bold uppercase tracking-[0.5px]">{product.reviewCount || 0} đánh giá</span>
                                 </div>
                                 <div className="text-lg font-serif">{product.basePrice.toLocaleString()} VNĐ</div>
                             </div>

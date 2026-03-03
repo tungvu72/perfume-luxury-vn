@@ -124,7 +124,7 @@ const Header = () => {
                 <div className="border-b border-[var(--border)]">
                     <div className="max-w-[1200px] mx-auto px-5 flex justify-between items-center py-4">
                         {/* MOBILE MENU BUTTON */}
-                        <button className="md:hidden" onClick={() => setIsMenuOpen(true)} aria-label="Mở menu">
+                        <button className="md:hidden p-2 min-h-[44px] min-w-[44px] flex items-center justify-center" onClick={() => setIsMenuOpen(true)} aria-label="Mở menu">
                             <Menu size={22} />
                         </button>
 
@@ -349,7 +349,7 @@ const Header = () => {
 
                         {/* Mobile Zalo CTA */}
                         <div className="mt-auto pt-8 border-t border-gray-100">
-                            <a href="https://zalo.me" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-sm text-gray-500 hover:text-primary transition-colors">
+                            <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-sm text-gray-500 hover:text-primary transition-colors">
                                 <span className="text-lg">💬</span>
                                 Tư vấn qua Zalo
                             </a>

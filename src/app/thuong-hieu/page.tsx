@@ -5,8 +5,8 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Danh SÃ¡ch ThÆ°Æ¡ng Hiá»‡u NÆ°á»›c Hoa A-Z | Maison de SON",
-    description: "Tra cá»©u nhanh táº¥t cáº£ thÆ°Æ¡ng hiá»‡u nÆ°á»›c hoa tá»« A Ä‘áº¿n Z: Chanel, Dior, Creed, HermÃ¨s, Louis Vuitton vÃ  hÆ¡n tháº¿ ná»¯a.",
+    title: "Thương hiệu nước hoa - Maison de SON",
+    description: "Khám phá các thương hiệu nước hoa cao cấp chính hãng. Đánh giá chuyên sâu từ chuyên gia.",
 };
 
 // Danh sÃ¡ch Ä‘áº§y Ä‘á»§ cÃ¡c brand (káº¿t há»£p data tháº­t + placeholder cho SEO)

@@ -1,33 +1,67 @@
-import { MetadataRoute } from 'next';
-import { MASTER_PERFUMES } from '@/constants/mockData';
+﻿import { MetadataRoute } from 'next';
 
-export default function sitemap(): MetadataRoute.Sitemap {
-    const baseUrl = 'https://maisondeson.com';
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+  const baseUrl = 'https://maisondeson.com';
+  
+  // Static pages - always available
+  const staticPages: MetadataRoute.Sitemap = [
+    {
+      url: baseUrl,
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 1,
+    },
+    {
+      url: baseUrl + '/bang-xep-hang',
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
+      url: baseUrl + '/thuong-hieu',
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.7,
+    },
+    {
+      url: baseUrl + '/kien-thuc',
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.7,
+    },
+    {
+      url: baseUrl + '/gioi-thieu',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
+    {
+      url: baseUrl + '/nam-gioi',
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.7,
+    },
+    {
+      url: baseUrl + '/nu-gioi',
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.7,
+    },
+    {
+      url: baseUrl + '/unisex',
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.7,
+    },
+  ];
 
-    // Thêm các trang tĩnh
-    const staticPages = [
-        '',
-        '/nam-gioi',
-        '/nu-gioi',
-        '/unisex',
-        '/bang-xep-hang',
-        '/gioi-thieu',
-        '/thuong-hieu',
-        '/kien-thuc',
-    ].map((route) => ({
-        url: `${baseUrl}${route}`,
-        lastModified: new Date(),
-        changeFrequency: 'daily' as const,
-        priority: route === '' ? 1 : 0.8,
-    }));
+  // Note: Dynamic pages (products, brands, articles) will be added
+  // when API endpoints are available. For now, return static pages only.
+  // 
+  // To add dynamic pages, ensure these API endpoints exist:
+  // - /api/products (returns array of { id, _updatedAt })
+  // - /api/brands (returns array of { slug, _updatedAt })
+  // - /api/articles (returns array of { id, _updatedAt })
 
-    // Thêm các trang sản phẩm động
-    const productPages = MASTER_PERFUMES.map((product) => ({
-        url: `${baseUrl}/product/${product.id}`,
-        lastModified: new Date(),
-        changeFrequency: 'weekly' as const,
-        priority: 0.9,
-    }));
-
-    return [...staticPages, ...productPages];
+  return staticPages;
 }

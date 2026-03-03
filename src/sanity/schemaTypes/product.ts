@@ -1,4 +1,4 @@
-import { defineField, defineType } from 'sanity'
+﻿import { defineField, defineType } from 'sanity'
 
 export const productType = defineType({
     name: 'product',
@@ -10,7 +10,7 @@ export const productType = defineType({
         { name: 'notes', title: '🌸 Nốt hương & Accords' },
         { name: 'performance', title: '📊 Hiệu năng (Fragrantica)' },
         { name: 'media', title: '📸 Ảnh & Media' },
-        { name: 'commerce', title: '💰 Giá & Affiliate' },
+        { name: 'commerce', title: '💰 Giá & Nơi mua' },
         { name: 'content', title: '📝 Nội dung & SEO' },
     ],
     fields: [
@@ -302,7 +302,7 @@ export const productType = defineType({
         }),
 
         // ═══════════════════════════════════════
-        // 💰 GIÁ & AFFILIATE
+        // 💰 Giá & Nơi mua
         // ═══════════════════════════════════════
         defineField({
             name: 'sizes',

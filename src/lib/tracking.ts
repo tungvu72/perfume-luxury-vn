@@ -1,5 +1,5 @@
 ﻿/**
- * Affiliate Link Tracking Utility
+ * Shopping Link Tracking Utility
  * Track clicks on Shopee, TikTok, Lazada links
  */
 
@@ -25,8 +25,8 @@ export function trackClick(platform: ClickEvent['platform'], productId: string) 
 
   // Send to GA4 if available
   if (typeof window !== 'undefined' && (window as any).gtag) {
-    (window as any).gtag('event', 'affiliate_click', {
-      event_category: 'affiliate',
+    (window as any).gtag('event', 'shopping_click', {
+      event_category: 'shopping',
       event_label: platform,
       product_id: productId,
     });

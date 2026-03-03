@@ -5,7 +5,6 @@ import Link from "next/link";
 import { MessageCircle, Phone, X } from "lucide-react";
 import { trackClick } from "@/lib/tracking";
 
-// TODO: Update v?i s? Zalo th?t c?a Ch? t?ch
 const ZALO_NUMBER = "0961226169";
 const HOTLINE = "0961226169";
 
@@ -18,7 +17,6 @@ export default function FloatingSupport() {
 
     return (
         <div className="fixed bottom-5 right-5 z-[100] flex flex-col items-end gap-3">
-            {/* Expanded options */}
             {isOpen && (
                 <div className="flex flex-col gap-2 animate-fade-up">
                     <Link
@@ -32,7 +30,7 @@ export default function FloatingSupport() {
                         </div>
                         <div>
                             <div className="text-xs font-bold">Chat Zalo</div>
-                            <div className="text-[10px] text-gray-400">Ph?n h?i trong 5 phút</div>
+                            <div className="text-[10px] text-gray-400">Phan hoi trong 5 phut</div>
                         </div>
                     </Link>
                     <Link
@@ -50,18 +48,16 @@ export default function FloatingSupport() {
                 </div>
             )}
 
-            {/* Main button */}
             <button
                 onClick={() => setIsOpen(!isOpen)}
                 className={`w-14 h-14 rounded-full flex items-center justify-center shadow-lg transition-all active:scale-90 ${isOpen
                     ? "bg-gray-800 text-white rotate-0"
                     : "bg-[#0068FF] text-white hover:scale-110"
                     }`}
-                aria-label="H? tr? khách hàng"
+                aria-label="Ho tro khach hang"
             >
                 {isOpen ? <X size={22} /> : <MessageCircle size={22} />}
             </button>
         </div>
     );
 }
-

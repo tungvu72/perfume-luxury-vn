@@ -3,22 +3,28 @@
 # Leader cập nhật sau mỗi quyết định lớn
 
 ## 📌 TRẠNG THÁI HIỆN TẠI
-**Cập nhật lúc:** (agents tự điền)
-**Task đang chạy:** Không có
-**Ai đang làm gì:** Rảnh
+**Cập nhật lúc:** 2026-03-03 11:29 (Antigravity - Code Audit)
+**Task đang chạy:** [Jamie] Fix bugs theo Review #002
+**Ai đang làm gì:** Jamie → FIX-001 encoding + FIX-002 hardcode
 
 ---
 
 ## 🔄 TASK QUEUE (Hàng đợi công việc)
 | ID | Task | Giao cho | Trạng thái | Deadline |
 |----|------|---------|-----------|---------|
-| — | Chờ task mới | — | — | — |
+| FIX-001 | Fix encoding bug metadata thuong-hieu/page.tsx | Jamie | 🔴 PENDING | ASAP |
+| FIX-002 | Xoá hardcode "840 Đánh giá" brand detail page | Jamie | 🔴 PENDING | ASAP |
+| 2702-04 | Search Bar thông minh trên Header | Jamie | ⏳ Chờ fix xong | — |
+| 2702-03 | Filter logic trang bang-xep-hang | Jamie | ⏳ Backlog | — |
 
 ---
 
 ## ✅ COMPLETED (Hoàn thành gần đây)
 | Ngày | Task | Kết quả |
 |------|------|---------|
+| 2026-03-03 | Brand Index A-Z + Brand Detail Page | ⚠️ Conditional — pending encoding fix |
+| 2026-03-03 | CompareSystem + /so-sanh page | ✅ Accepted (77/100) |
+| 2026-03-03 | Global Loading Screen | ✅ Accepted |
 | 2026-03-03 | Setup AI Team | ✅ 3 agents deployed |
 
 ---

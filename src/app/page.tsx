@@ -189,7 +189,7 @@ export default async function Home() {
       {/* ZALO FLOATING BUTTON */}
       <div className="fixed bottom-6 right-6 z-[100]">
         <Link
-          href="https://zalo.me/your-number"
+          href="https://zalo.me/0961226169"
           className="flex items-center gap-3 bg-white border border-[var(--border)] px-5 py-3 rounded-full shadow-lg hover:scale-105 transition-transform"
         >
           <div className="w-8 h-8 bg-[#0068FF] rounded-full flex items-center justify-center text-white text-[10px] font-bold shadow">

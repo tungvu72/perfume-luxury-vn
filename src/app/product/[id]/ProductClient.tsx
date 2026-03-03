@@ -379,7 +379,7 @@ export default function ProductClient({ product, relatedProducts }: { product: P
 
                     {/* NÚT HÀNH ĐỘNG */}
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-10">
-                        <Link href="https://zalo.me/your-number" rel="nofollow" target="_blank" className="flex items-center justify-center gap-2 bg-[#0068FF] text-white py-4 rounded-xl font-bold text-sm hover:opacity-90 active:scale-95 transition-all shadow-lg shadow-blue-100">
+                        <Link href="https://zalo.me/0961226169" rel="nofollow" target="_blank" className="flex items-center justify-center gap-2 bg-[#0068FF] text-white py-4 rounded-xl font-bold text-sm hover:opacity-90 active:scale-95 transition-all shadow-lg shadow-blue-100">
                             <MessageSquare size={18} /> Nhận tư vấn qua Zalo
                         </Link>
                         <button
@@ -488,7 +488,7 @@ export default function ProductClient({ product, relatedProducts }: { product: P
                                     return product.article.split('\n\n').map((para, i) => {
                                         // 1. Xử lý Heading (###)
                                         if (para.startsWith('###')) {
-                                            return <h3 key={i} className="text-xl font-serif text-gray-900 mt-8 mb-4">{para.replace('###', '').trim()}</h3>;
+                                            return <h3 key={i} className="text-xl md:text-2xl font-serif text-gray-900 mt-10 mb-5">{para.replace('###', '').trim()}</h3>;
                                         }
 
                                         // 2. Xử lý Bold (**)
@@ -511,7 +511,7 @@ export default function ProductClient({ product, relatedProducts }: { product: P
                                                 linkInserted = true;
                                                 // Chia nội dung đã xử lý bold thành mảng để chèn link
                                                 return (
-                                                    <p key={i} className="mb-4 text-sm leading-relaxed">
+                                                    <p key={i} className="mb-6 text-[16px] md:text-base leading-[1.75] text-gray-900">
                                                         {content.map((cPart: any, cIdx: number) => {
                                                             if (typeof cPart === 'string') {
                                                                 const subParts = cPart.split(regex);
@@ -531,7 +531,7 @@ export default function ProductClient({ product, relatedProducts }: { product: P
                                             }
                                         }
 
-                                        return <p key={i} className="mb-4 text-sm leading-relaxed">{content}</p>;
+                                        return <p key={i} className="mb-6 text-[16px] md:text-base leading-[1.75] text-gray-900">{content}</p>;
                                     });
                                 })()}
                             </div>
@@ -567,7 +567,7 @@ export default function ProductClient({ product, relatedProducts }: { product: P
                             )) : (
                                 <div className="col-span-3 text-center py-8">
                                     <p className="text-xs text-gray-400 italic">Đang cập nhật giá từ các shop uy tín trên Shopee...</p>
-                                    <Link href="https://zalo.me/your-number" className="inline-block mt-3 text-[10px] font-bold text-primary underline">
+                                    <Link href="https://zalo.me/0961226169" className="inline-block mt-3 text-[10px] font-bold text-primary underline">
                                         Hỏi giá trực tiếp qua Zalo →
                                     </Link>
                                 </div>
