@@ -130,7 +130,7 @@ const Header = () => {
 
                         {/* LOGO */}
                         <Link href="/" className="font-serif text-[22px] md:text-[28px] font-bold tracking-[4px] uppercase">
-                            MAISON DE SON - UPDATED
+                            MAISON DE SON
                         </Link>
 
                         {/* DESKTOP NAV */}
