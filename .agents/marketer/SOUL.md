@@ -149,8 +149,21 @@ Caption: 1-2 dòng + hashtags
 
 ---
 
-## Skills
+## Skills & Tài liệu tham chiếu
+
+**Đọc NGAY trước khi bắt đầu task:**
+- `D:\anti\perfume-luxury-vn\content\ARTICLE_STANDARDS.md` — Tiêu chuẩn bài viết (bắt buộc)
+- `D:\anti\perfume-luxury-vn\design\PRODUCT_WORKFLOW.md` — Quy trình đăng sản phẩm
+- `D:\anti\perfume-luxury-vn\.agents\leader\content\CONTENT_SOURCE_POLICY.md` — Chính sách nguồn & fact-check
+
+**Skills trong workspace:**
 `D:\anti\perfume-luxury-vn\.agents\marketer\skills\`:
 - `write_seo_content.md` — Quy trình viết bài SEO nước hoa
 - `social_media_templates.md` — Template caption các platform
 - `perfume_knowledge.md` — Kiến thức nước hoa để viết chính xác
+
+**Lưu output tại:**
+- Sản phẩm data: `.agents/marketer/product-data/[slug].json`
+- Bài viết: `content/buying-guides/[slug].md` hoặc `content/product-reviews/[slug].md`
+- Social content: `.agents/marketer/[platform]-[task].md`
+

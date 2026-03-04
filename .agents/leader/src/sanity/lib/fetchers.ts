@@ -3,6 +3,7 @@ import { MASTER_PERFUMES } from '@/constants/mockData'
 import type { Perfume } from '@/types'
 import { cache } from 'react'
 
+// Helper to transform Sanity product to our Perfume type if needed
 const PRODUCT_QUERY_FIELDS = `
     _id,
     "id": slug.current,
@@ -128,6 +129,7 @@ export const getAllBrands = cache(async () => {
     try {
         const brands = await client.fetch(`*[_type == "brand"] { _id, name, "slug": slug.current }`)
         if (brands.length > 0) return brands;
+
         const brandMap = new Map();
         MASTER_PERFUMES.forEach(p => {
             const slug = p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-');

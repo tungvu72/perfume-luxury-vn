@@ -6,11 +6,11 @@ import { getAllPosts } from "@/sanity/lib/posts";
 import Newsletter from "@/components/Newsletter";
 
 export const metadata: Metadata = {
-    title: "Ki?n Th?c Nu?c Hoa - Review & Hu?ng D?n | Maison de SON",
-    description: "C?m nang t? Maison de SON: review nu?c hoa, hu?ng d?n ch?n m�i, ph�n bi?t th?t gi?, top picks theo ng�n s�ch.",
+    title: "Kiến Thức Nước Hoa - Review & Hướng Dẫn | Maison de SON",
+    description: "Cẩm nang từ Maison de SON: review nước hoa, hướng dẫn chọn mùi, phân biệt thật giả, top picks theo ngân sách.",
     openGraph: {
-        title: "Ki?n Th?c Nu?c Hoa | Maison de SON",
-        description: "Review & hu?ng d?n ch?n nu?c hoa chuy�n s�u t? Maison de SON",
+        title: "Kiến Thức Nước Hoa | Maison de SON",
+        description: "Review & hướng dẫn chọn nước hoa chuyên sâu từ Maison de SON",
     }
 };
 
@@ -27,8 +27,8 @@ export default async function BlogPage() {
             <section className="bg-[#F9F9F9] py-12 md:py-16 border-b border-[var(--border)]">
                 <div className="max-w-[1200px] mx-auto px-5">
                     <p className="text-xs font-bold tracking-widest text-primary uppercase mb-3">Editorial</p>
-                    <h1 className="text-3xl md:text-5xl font-serif mb-3">Ki?n th?c nu?c hoa</h1>
-                    <p className="text-sm text-gray-500">Tr? th�nh chuy�n gia m�i huong c�ng Maison de SON. {posts.length > 0 ? `${posts.length} b�i vi?t` : ''}</p>
+                    <h1 className="text-3xl md:text-5xl font-serif mb-3">Kiến thức nước hoa</h1>
+                    <p className="text-sm text-gray-500">Trở thành chuyên gia mùi hương cùng Maison de SON. {posts.length > 0 ? `${posts.length} bài viết` : ''}</p>
                 </div>
             </section>
 
@@ -49,7 +49,7 @@ export default async function BlogPage() {
                                         unoptimized={post.mainImage?.includes('fragrantica') || post.mainImage?.includes('unsplash')}
                                     />
                                     <div className="absolute top-3 left-3 bg-white/90 px-3 py-1 rounded-full text-[10px] font-bold tracking-wider uppercase text-primary z-10">
-                                        {post.category || 'Ki?n th?c'}
+                                        {post.category || 'Kiến thức'}
                                     </div>
                                 </div>
 
@@ -57,9 +57,9 @@ export default async function BlogPage() {
                                 <div className="text-[10px] text-gray-400 font-semibold mb-2 flex items-center gap-2">
                                     {post.publishedAt
                                         ? new Date(post.publishedAt).toLocaleDateString('vi-VN')
-                                        : 'M?i c?p nh?t'
+                                        : 'Mới cập nhật'
                                     }
-                                    <span>�</span>
+                                    <span>•</span>
                                     <span>{post.readTime}</span>
                                 </div>
 
@@ -77,9 +77,9 @@ export default async function BlogPage() {
                     </div>
                 ) : (
                     <div className="py-20 text-center text-gray-400">
-                        <p className="text-4xl mb-4">??</p>
-                        <p className="font-semibold">Chua c� b�i vi?t n�o trong m?c ki?n th?c.</p>
-                        <p className="text-sm mt-1">Team dang chu?n b? n?i dung, quay l?i s?m nh�!</p>
+                        <p className="text-4xl mb-4">📝</p>
+                        <p className="font-semibold">Chưa có bài viết nào trong mục kiến thức.</p>
+                        <p className="text-sm mt-1">Team đang chuẩn bị nội dung, quay lại sớm nhé!</p>
                     </div>
                 )}
             </section>
@@ -88,4 +88,3 @@ export default async function BlogPage() {
         </main>
     );
 }
-
