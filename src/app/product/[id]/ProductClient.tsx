@@ -372,10 +372,10 @@ export default function ProductClient({ product, relatedProducts }: { product: P
                         </div>
                     </div>
 
-                    {/* GIÁ - Tạm thời ẩn theo yêu cầu của Sếp */}
-                    {/* {product.basePrice > 0 && (
+                    {/* GIÁ */}
+                    {product.basePrice > 0 && (
                         <div className="text-3xl font-serif mb-6">{product.basePrice.toLocaleString()} VNĐ</div>
-                    )} */}
+                    )}
 
                     {/* NÚT HÀNH ĐỘNG */}
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-10">
