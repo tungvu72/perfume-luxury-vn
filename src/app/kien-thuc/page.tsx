@@ -6,11 +6,11 @@ import { getAllPosts } from "@/sanity/lib/posts";
 import Newsletter from "@/components/Newsletter";
 
 export const metadata: Metadata = {
-    title: "Kiến Thức Nước Hoa - Review & Hướng Dẫn | Maison de SON",
-    description: "Cẩm nang từ Maison de SON: review nước hoa, hướng dẫn chọn mùi, phân biệt thật giả, top picks theo ngân sách.",
+    title: "Ki&#7871;n Th&#7913;c N&#432;&#7833;c Hoa - Review & H&#432;&#7899;ng D&#7851;n | Maison de SON",
+    description: "C&#7813;m nang t&#7915; Maison de SON: review n&#432;&#7833;c hoa, h&#432;&#7899;ng d&#7851;n ch&#7885;n mùi, phân bi&#7879;t th&#7853;t gi&#7843;, top picks theo ngân sách.",
     openGraph: {
-        title: "Kiến Thức Nước Hoa | Maison de SON",
-        description: "Review & hướng dẫn chọn nước hoa chuyên sâu từ Maison de SON",
+        title: "Ki&#7871;n Th&#7913;c N&#432;&#7833;c Hoa | Maison de SON",
+        description: "Review & h&#432;&#7899;ng d&#7851;n ch&#7885;n n&#432;&#7833;c hoa chuyên sâu t&#7915; Maison de SON",
     }
 };
 
@@ -27,8 +27,8 @@ export default async function BlogPage() {
             <section className="bg-[#F9F9F9] py-12 md:py-16 border-b border-[var(--border)]">
                 <div className="max-w-[1200px] mx-auto px-5">
                     <p className="text-xs font-bold tracking-widest text-primary uppercase mb-3">Editorial</p>
-                    <h1 className="text-3xl md:text-5xl font-serif mb-3">Kiến thức nước hoa</h1>
-                    <p className="text-sm text-gray-500">Trở thành chuyên gia mùi hương cùng Maison de SON. {posts.length > 0 ? `${posts.length} bài viết` : ""}</p>
+                    <h1 className="text-3xl md:text-5xl font-serif mb-3">Ki&#7871;n th&#7913;c n&#432;&#7833;c hoa</h1>
+                    <p className="text-sm text-gray-500">Tr&#7903; thành chuyên gia mùi h&#432;&#417;ng cùng Maison de SON. {posts.length > 0 ? `${posts.length} bài vi&#7871;t` : ""}</p>
                 </div>
             </section>
 
@@ -49,7 +49,7 @@ export default async function BlogPage() {
                                         unoptimized={post.mainImage?.includes("fragrantica") || post.mainImage?.includes("unsplash")}
                                     />
                                     <div className="absolute top-3 left-3 bg-white/90 px-3 py-1 rounded-full text-[10px] font-bold tracking-wider uppercase text-primary z-10">
-                                        {post.category || "Kiến thức"}
+                                        {post.category || "Ki&#7871;n th&#7913;c"}
                                     </div>
                                 </div>
 
@@ -57,7 +57,7 @@ export default async function BlogPage() {
                                 <div className="text-[10px] text-gray-400 font-semibold mb-2 flex items-center gap-2">
                                     {post.publishedAt
                                         ? new Date(post.publishedAt).toLocaleDateString("vi-VN")
-                                        : "Mới cập nhật"
+                                        : "M&#7899;i c&#7853;p nh&#7853;t"
                                     }
                                     <span>•</span>
                                     <span>{post.readTime}</span>
@@ -77,9 +77,9 @@ export default async function BlogPage() {
                     </div>
                 ) : (
                     <div className="py-20 text-center text-gray-400">
-                        <p className="text-4xl mb-4">📖</p>
-                        <p className="font-semibold text-lg text-gray-600">Chưa có bài viết nào trong mục kiến thức.</p>
-                        <p className="text-sm mt-1">Team đang chuẩn bị nội dung, quay lại sớm nhé!</p>
+                        <p className="text-4xl mb-4">&#128214;</p>
+                        <p className="font-semibold text-lg text-gray-600">Ch&#432;a có bài vi&#7871;t nào trong m&#7909;c ki&#7871;n th&#7913;c.</p>
+                        <p className="text-sm mt-1">Team &#273;ang chu&#7849;n b&#7883; n&#7893;i dung, quay l&#7841;i s&#7899;m nhé!</p>
                     </div>
                 )}
             </section>
