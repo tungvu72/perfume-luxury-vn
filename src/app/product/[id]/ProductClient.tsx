@@ -373,9 +373,11 @@ export default function ProductClient({ product, relatedProducts }: { product: P
                     </div>
 
                     {/* GIÁ */}
-                    {product.basePrice > 0 && (
-                        <div className="text-3xl font-serif mb-6">{product.basePrice.toLocaleString()} VNĐ</div>
-                    )}
+                    <div className="text-3xl font-serif mb-6">
+                        {(product.basePrice || 0) > 0
+                            ? `${product.basePrice.toLocaleString()} VNĐ`
+                            : 'Liên hệ tư vấn giá'}
+                    </div>
 
                     {/* NÚT HÀNH ĐỘNG */}
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-10">
