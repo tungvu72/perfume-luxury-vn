@@ -3,15 +3,23 @@ import { MASTER_PERFUMES } from '@/constants/mockData'
 import type { Perfume } from '@/types'
 import { cache } from 'react'
 
+// ─── GROQ query fields — aligned with actual Sanity product schema ───────────
+// Schema notes:
+//   brand       → reference to brand doc  → use brand->name, brand->slug.current
+//   mainImage   → image asset             → "image": mainImage.asset->url
+//   score       → flat fields: scoreScents, scoreUniqueness, scoreCompliments, scoreValue
+//   seasons     → flat fields: seasonSpring, seasonSummer, seasonFall, seasonWinter
+//   dayNight    → flat fields: dayUse, nightUse
+//   notes       → arrays of strings (topNotes, middleNotes, baseNotes)
 const PRODUCT_QUERY_FIELDS = `
     _id,
     "id": slug.current,
-    brand,
-    "brandSlug": brandSlug,
+    "brand": brand->name,
+    "brandSlug": brand->slug.current,
     name,
     subName,
     gender,
-    "image": image.asset->url,
+    "image": mainImage.asset->url,
     "images": images[]{
         "url": asset->url,
         caption,
@@ -20,20 +28,34 @@ const PRODUCT_QUERY_FIELDS = `
     description,
     verdict,
     verdictShort,
-    score,
+    "score": {
+        "scent": scoreScents,
+        "uniqueness": scoreUniqueness,
+        "compliments": scoreCompliments,
+        "value": scoreValue,
+        "total": round((scoreScents + scoreUniqueness + scoreCompliments + scoreValue) / 4 * 10) / 10
+    },
     vibes,
     longevity,
     sillage,
-    seasons,
-    dayNight,
-    topNotes,
-    middleNotes,
-    baseNotes,
+    "seasons": {
+        "spring": seasonSpring,
+        "summer": seasonSummer,
+        "fall": seasonFall,
+        "winter": seasonWinter
+    },
+    "dayNight": {
+        "day": dayUse,
+        "night": nightUse
+    },
+    "topNotes": topNotes[]{ "name": @ },
+    "middleNotes": middleNotes[]{ "name": @ },
+    "baseNotes": baseNotes[]{ "name": @ },
     accords,
     tags,
     sizes,
     basePrice,
-    shopeeOffers
+    "shopeeOffers": marketPlaceLinks[]{ "label": platform, "seller": platform, "price": price, "link": url, "image": "" }
 `
 
 export const getAllProducts = cache(async (): Promise<Perfume[]> => {
@@ -74,7 +96,7 @@ export const getProductsByGender = cache(async (gender: string): Promise<Perfume
 export const getProductsByBrand = cache(async (brandSlug: string): Promise<Perfume[]> => {
     try {
         const products = await client.fetch(
-            `*[_type == "product" && (brandSlug == $brandSlug || brand == $brandSlug)] { ${PRODUCT_QUERY_FIELDS} }`,
+            `*[_type == "product" && brand->slug.current == $brandSlug] { ${PRODUCT_QUERY_FIELDS} }`,
             { brandSlug }
         )
         return products.length > 0 ? products : MASTER_PERFUMES.filter(p => (p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-')) === brandSlug);
@@ -86,7 +108,7 @@ export const getProductsByBrand = cache(async (brandSlug: string): Promise<Perfu
 export const searchProducts = async (searchTerm: string): Promise<Perfume[]> => {
     try {
         const products = await client.fetch(
-            `*[_type == "product" && (name match $searchTerm || brand match $searchTerm || $searchTerm in tags)] { ${PRODUCT_QUERY_FIELDS} }`,
+            `*[_type == "product" && (name match $searchTerm || brand->name match $searchTerm || $searchTerm in tags)] { ${PRODUCT_QUERY_FIELDS} }`,
             { searchTerm: `*${searchTerm}*` }
         )
         return products.length > 0 ? products : MASTER_PERFUMES.filter(p =>

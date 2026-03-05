@@ -121,4 +121,172 @@ export const MASTER_PERFUMES: Perfume[] = [
         shopeeOffers: []
     }
 
+    ,
+    {
+        id: "bleu-de-chanel-edp",
+        brand: "CHANEL",
+        name: "Bleu de Chanel",
+        subName: "Eau de Parfum",
+        gender: "nam",
+        image: "https://fimgs.net/images/perfume/o.20477.jpg",
+        images: [
+            { url: "https://fimgs.net/photogram/p1200/r0/jh/v3WD9dpMHiKQCANv.jpg", source: "fragram", caption: "Bleu de Chanel trong khong gian hien dai" }
+        ],
+        description: "Mui huong nam tinh co dien va bat hu cua Chanel — tuoi mat, sach se, du chieu sau de khong bao gio loi thoi.",
+        article: "## Cau Chuyen Ra Doi\n\nBleu de Chanel ra mat nam 2010, duoc tao ra boi Olivier Polge (Polge con). Day la chai danh dau su chuyen giao the he tai House of Chanel — tu Jacques Polge (cha, CDO 1978-2015) sang Olivier Polge. Chai duoc dat ten Bleu (xanh) — mau cua tu do, bau troi va su sang tao.\n\n## Thong Tin Co Ban\n\n| | |\n|---|---|\n| **Nha san xuat** | Chanel (Phap) |\n| **Nam ra mat** | 2010 (EDT), 2016 (EDP), 2018 (Parfum) |\n| **Perfumer** | Olivier Polge |\n| **Concentration** | EDP — 15-18% aromatic compounds |\n| **Xuat xu** | Phap |\n\n## Cac Phien Ban\n\n- **Bleu de Chanel EDT (2010)** — phien ban goc, tuoi mat nhat\n- **Bleu de Chanel EDP (2016)** — sau hon, goi cam hon, them patchouli va sandalwood\n- **Bleu de Chanel Parfum (2018)** — dung do cao nhat, dau dan huong Mysore, long hoa binh\n\n## Do Noi Tieng\n\nTren Fragrantica: 4.01/5 voi hon 38.000 ratings. Thuong xuyen nam trong Top 5 nuoc hoa nam ban chay nhat the gioi tu 2012-2026. Con so nay noi len tat ca — day la chai nuoc hoa cua so dong.\n\n## DNA Mui Huong\n\nTang dau: Chanh, bergamot, buoi — tuoi sang. Tang giua: Go tuyet tung (cedarwood) + nhu huong (frankincense) — chieu sau va lich su. Drydown: Go dan huong + gung + xa huong — am ap tinh te.\n\n## Hieu Nang\n\nLongevity 7-9 tieng. Sillage vua phai — van phong to. Khong phai beast mode nhung ben va on dinh.\n\n## Verdict Maison de SON\n\nBleu de Chanel EDP la 'gray suit' cua nuoc hoa — khong bao gio sai, khong bao gio loi thoi. Chai all-rounder so 1 cho nguoi moi bat dau va ca collector ky tinh.",
+        verdict: "Versatile so 1 cho moi bo suu tap nam. Clean, sang trong, khong bao gio gay phien — the tuc nhung khong nham.",
+        verdictShort: "THANH LICH BAT HU",
+        score: { scent: 8.8, uniqueness: 7.5, compliments: 9.0, value: 8.0, total: 8.4 },
+        vibes: [{ label: "Van phong", icon: "💼" }, { label: "Hen ho casual", icon: "☕" }, { label: "Quanh nam", icon: "🔄" }],
+        longevity: 8, sillage: 7,
+        seasons: { spring: 80, summer: 70, fall: 85, winter: 75 },
+        dayNight: { day: 80, night: 60 },
+        topNotes: [{ name: "Chanh" }, { name: "Cam Bergamot" }, { name: "Buoi" }],
+        middleNotes: [{ name: "Go tuyet tung" }, { name: "Gung" }, { name: "Nhu huong" }],
+        baseNotes: [{ name: "Go dan huong" }, { name: "Xa huong" }, { name: "Labdanum" }],
+        accords: [
+            { name: "Go", value: 95, color: "#8B4513" },
+            { name: "Citrus", value: 80, color: "#f7c242" },
+            { name: "Aromatic", value: 75, color: "#2c7a4b" },
+            { name: "Fresh", value: 70, color: "#5bc8f5" }
+        ],
+        tags: ["All-rounder", "Van Phong", "Classy", "Bestseller"],
+        sizes: ["10ml Chiet", "50ml Fullbox", "100ml Fullbox"],
+        basePrice: 4200000,
+        shopeeOffers: []
+    },
+    {
+        id: "ysl-black-opium",
+        brand: "YVES SAINT LAURENT",
+        name: "Black Opium",
+        subName: "Eau de Parfum",
+        gender: "nu",
+        image: "https://fimgs.net/images/perfume/o.34170.jpg",
+        images: [
+            { url: "https://fimgs.net/photogram/p1200/pg/do/gPZJu6HCF1k6vNi0.jpg", source: "fragram", caption: "Black Opium trong khong gian toi bi an" }
+        ],
+        description: "Huyen thoai nuoc hoa nu cua YSL — ca phe den, hoa trang va vani tao rock-chic, tao bao nhung van nu tinh. Bestseller toan cau hon mot thap ky.",
+        article: "## Cau Chuyen Ra Doi\n\nBlack Opium ra mat nam 2013 boi YSL Beauty, duoc tao ra boi Nathalie Lorson (Firmenich), Marie Salamagne, Olivier Cresp va Toward Lavole. Day la su doi moi hoan toan so voi Opium goc (1977) — thay vi floral oriental co dien, Black Opium chon ca phe + rock aesthetic. Quang cao chau au: nguoi phu nu lam chiet phuc dan ong bang mui huong cua minh.\n\n## Thong Tin Co Ban\n\n| | |\n|---|---|\n| **Nha san xuat** | YSL Beauty / L'Oreal Group |\n| **Nam ra mat** | 2013 |\n| **Perfumers** | Nathalie Lorson, Marie Salamagne, Olivier Cresp |\n| **Concentration** | EDP |\n| **Nguon goc** | Ca phe, hoa trang, vani |\n\n## Cac Phien Ban Chinh\n\n- **Black Opium EDP (2013)** — ban goc, ca phe + hoa nhài + vani\n- **Black Opium Floral Shock (2016)** — them hoa anh tuc hot pink, tre trung hon\n- **Black Opium Extreme (2020)** — dam hon, them cinnamon\n- **Black Opium Le Parfum (2021)** — extrait, bam da 14+ tieng\n- **Black Opium Over Red (2023)** — phien ban moi nhat, cherry + ca phe\n\n## Do Noi Tieng\n\n4.17/5 voi hon 62.000 ratings tren Fragrantica — top 10 nuoc hoa nu duoc rating nhieu nhat moi thoi. Do nam 2023, con so tren TikTok #blackopium vuot 2.8 ty luot xem.\n\n## DNA Mui Huong\n\nTang dau: Ca phe espresso den — gay an tuong ngay lap tuc. Tang giua: Hoa nhai + orange blossom — nu tinh giua mui ca phe. Drydown: Vanilla + patchouli — am ap, quyen ru, bam da.\n\n## Hieu Nang\n\nLongevity 8-10 tieng. Sillage moderate-strong. Compliment magnet manh nhat trong list — dac biet vao ban toi.\n\n## Verdict Maison de SON\n\nNeu ban muon mot chai nu co dau an ca nhan khong the nham lan — Black Opium la chuan. Ca phe + hoa + vani la cong thuc khong the quen.",
+        verdict: "Dinh nghia lai nuoc hoa nu hien dai. Bestseller co ly do — ca phe + hoa + vani = khong the nham lan voi bat ky chai nao.",
+        verdictShort: "ROCK-CHIC FEMININITY",
+        score: { scent: 9.2, uniqueness: 8.8, compliments: 9.5, value: 8.5, total: 9.0 },
+        vibes: [{ label: "Hen ho", icon: "🖤" }, { label: "Tiec toi", icon: "🍸" }, { label: "Ca tinh", icon: "⚡" }],
+        longevity: 8, sillage: 8,
+        seasons: { spring: 60, summer: 40, fall: 90, winter: 95 },
+        dayNight: { day: 40, night: 95 },
+        topNotes: [{ name: "Ca phe" }, { name: "Qua le" }, { name: "Hoa cam" }],
+        middleNotes: [{ name: "Hoa nhai" }, { name: "Hoa cam trang" }, { name: "Cay bach xu" }],
+        baseNotes: [{ name: "Vani" }, { name: "Hoac huong" }, { name: "Go tuyet tung" }],
+        accords: [
+            { name: "Ngot ngao", value: 100, color: "#8B0000" },
+            { name: "Ca phe", value: 95, color: "#3e1f00" },
+            { name: "Hoa", value: 75, color: "#e75480" },
+            { name: "Vani", value: 70, color: "#f5deb3" }
+        ],
+        tags: ["Best Seller", "Hen Ho", "Tiec Toi", "Thu Dong"],
+        sizes: ["10ml Chiet", "30ml Fullbox", "90ml Fullbox"],
+        basePrice: 3800000,
+        shopeeOffers: []
+    },
+    {
+        id: "creed-aventus",
+        brand: "CREED",
+        name: "Aventus",
+        subName: "Eau de Parfum",
+        gender: "nam",
+        image: "https://fimgs.net/images/perfume/o.9828.jpg",
+        images: [
+            { url: "https://fimgs.net/photogram/p1200/xh/ea/B2pTPj9ytDVenm98.jpg", source: "fragram", caption: "Creed Aventus — huyen thoai nuoc hoa nam" },
+            { url: "https://fimgs.net/photogram/p1200/mc/qx/aNatsz0VTWmOw49w.jpg", source: "fragram", caption: "Thiet ke chai Creed dac trung" }
+        ],
+        description: "Vua nuoc hoa — Creed Aventus la chai duoc rating nhieu nhat Fragrantica. DNA dua + birch smoke + ambergris khong co dupe nao that su thay the.",
+        article: "## Cau Chuyen Ra Doi\n\nAventus ra mat thang 9 nam 2010, duoc sang tac boi Olivier Creed va con trai Erwin Creed. Ten goi Aventus (tieng Latin: 'toi den, toi bat dau') — duoc cam hung tu cuoc doi Napoleon Bonaparte: chien thang, manh me, khat vong. House of Creed thanh lap tu 1760 tai London, sau do chuyen sang Paris, la nha nuoc hoa 'tailor-made' cho hoang gia chau Au.\n\n## Thong Tin Co Ban\n\n| | |\n|---|---|\n| **Nha san xuat** | House of Creed (Phap, 1760) |\n| **Nam ra mat** | 2010 |\n| **Perfumers** | Olivier Creed & Erwin Creed |\n| **Gia dinh huong** | Aromatic Fougere |\n| **Gia** | ~8.500.000 VND / 100ml |\n\n## Cac Phien Ban\n\n- **Aventus EDP (2010)** — ban goc va van la bestseller\n- **Aventus Cologne (2017)** — nhe nhat, tuoi mat, dung EDT-style\n- **Aventus for Her (2016)** — phien ban nu, floral + fruity\n- **Silver Mountain Water (2003)** — chai gan nhat DNA Aventus, xanh son\n\n**Batch controversy:** Aventus bat dau thay doi cong thuc sau 2015. Birch smoky intensity giam, longevity thap hon. Day la chu de nong nhat tren r/fragrance moi nam.\n\n## Do Noi Tieng\n\n50.000+ ratings tren Fragrantica (dieu chua chai nao dat truoc do). Diem trung binh 4.28/5. Duoc bau chon la Best Masculine Fragrance nhieu lan tren Basenotes.net.\n\n## DNA Mui Huong\n\nTang dau: Dua tuoi phuc tap (khong phai dua keo synthetic) + bergamot + ly chua den. Tang giua: Hoa hong + hoa nhai + GO bach duong chay (birch) — mut khoi lanh dac trung. Drydown: Ambergris + xa huong + dia y + vani — am ap bam da.\n\n## Hieu Nang\n\nLongevity 7-8 tieng (batch 2023+). Sillage moderate — projection vua phai, khong beast mode.\n\n## Verdict Maison de SON\n\nAventus khong phai chai 'wow ngay' — la chai ban muon deo mai sau nhieu lan thu. DNA birch smoky la thu khong bao gio tim duoc o noi khac.",
+        verdict: "DNA birch smoke + pine apple khong the clone hoan toan. Collector phai co it nhat 1 lan — khong phai vi hype ma vi no thuc su unique.",
+        verdictShort: "HUYEN THOAI BAT HU",
+        score: { scent: 9.5, uniqueness: 9.8, compliments: 9.0, value: 6.0, total: 8.2 },
+        vibes: [{ label: "Dang cap", icon: "👑" }, { label: "All-occasion", icon: "🔄" }, { label: "Collector", icon: "💎" }],
+        longevity: 7, sillage: 7,
+        seasons: { spring: 70, summer: 50, fall: 90, winter: 85 },
+        dayNight: { day: 75, night: 80 },
+        topNotes: [{ name: "Dua" }, { name: "Cam Bergamot" }, { name: "Ly chua den" }],
+        middleNotes: [{ name: "Hoa hong" }, { name: "Go bach duong" }, { name: "Hoac huong" }],
+        baseNotes: [{ name: "Long dien huong" }, { name: "Xa huong" }, { name: "Dia y" }, { name: "Vani" }],
+        accords: [
+            { name: "Trai cay", value: 90, color: "#f39c12" },
+            { name: "Fresh", value: 80, color: "#2ecc71" },
+            { name: "Go khoi", value: 75, color: "#616161" },
+            { name: "Aromatic", value: 65, color: "#1abc9c" }
+        ],
+        tags: ["Niche", "Flagship", "Thu Dong", "Collector"],
+        sizes: ["5ml Chiet", "10ml Chiet", "100ml Fullbox"],
+        basePrice: 8500000,
+        shopeeOffers: []
+    },
+    {
+        id: "mfk-baccarat-rouge-540",
+        brand: "MAISON FRANCIS KURKDJIAN",
+        name: "Baccarat Rouge 540",
+        subName: "Eau de Parfum",
+        gender: "unisex",
+        image: "https://fimgs.net/images/perfume/o.57088.jpg",
+        images: [
+            { url: "https://fimgs.net/photogram/p1200/kx/1f/hjWb9IjXjjnGgG5Z.jpg", source: "fragram", caption: "Baccarat Rouge 540 — chai cua thap ky" }
+        ],
+        description: "Hien tuong nuoc hoa cua thap ky. Amberwood + hoa nhai + nhua thong = mui huong khong the dinh nghia nhung khong the quen.",
+        article: "## Cau Chuyen Ra Doi\n\nNam 2015, nha Baccarat (lam pha le tu 1764) ky niem 250 nam thanh lap. Ho lien he Francis Kurkdjian — perfumer nguoi Phap goc Armenia, nguoi da tao ra Jean Paul Gaultier Le Male nam 1995 luc 25 tuoi — de tao ra mot mui huong doc quyen. Con so 540 la nhiet do nung pha le Baccarat do F de co mau do dac trung. Ban dau chi 250 chai toan cau, gia 250 EUR/chai.\n\n## Thong Tin Co Ban\n\n| | |\n|---|---|\n| **Nha san xuat** | Maison Francis Kurkdjian (tu 2009, mua lai boi LVMH 2017) |\n| **Nam ra mat** | 2015 (exclusive), 2017 (mo rong) |\n| **Perfumer** | Francis Kurkdjian |\n| **Gia dinh huong** | Floral Amber |\n| **Gia** | ~7.000.000 VND / 70ml EDP |\n\n## Cac Phien Ban\n\n- **Baccarat Rouge 540 EDP (2015)** — ban goc\n- **Baccarat Rouge 540 Extrait (2017)** — nong do cao hon, bam da 14+ tieng\n- **Baccarat Rouge 540 Limited chai Baccarat crystal (2023)** — phien ban suu tap, chai pha le that\n\n## Do Noi Tieng\n\n4.09/5 voi 43.000+ ratings. Hashtag #baccarat rouge540 tren TikTok: 2.4 ty views. Day la chai nuoc hoa dau tien tro thanh viral trendsetter hoan toan nho social media. Clone fragrances cua BR540 tao nen mot nganh rieng — Lattafa Fakhar, Maison Alhambra Rouge 540, Rasasi Rumz Al Rasasi ban hang trieu chai.\n\n## DNA Mui Huong\n\nTang dau: Hoa nhai + nghe tay (saffron) am. Tang giua: Amberwood — not quan trong nhat, tao ra mui am ngot go thuoc dac trung khong chai nao co. Drydown: Nhua thong + xa huong — warm woody sweet bam lau.\n\n## Hieu Nang\n\nLongevity 10-14 tieng — xuat sac. Sillage moderate. Tot dac biet tren vai.\n\n## Verdict Maison de SON\n\nBR540 la cultural phenomenon. Xung dang voi gia tien neu ban hieu minh dang mua gi va da san sang cho muc niche.",
+        verdict: "Cultural phenomenon cua nuoc hoa hien dai. Amberwood + jasmine + fir = khong the dinh nghia nhung khong the quen. Benchmark ma moi chai ngot deu bi so sanh.",
+        verdictShort: "PHENOMENON CUA THAP KY",
+        score: { scent: 9.8, uniqueness: 9.5, compliments: 9.2, value: 7.5, total: 9.0 },
+        vibes: [{ label: "Sang trong", icon: "💎" }, { label: "Dem", icon: "🌙" }, { label: "Memorable", icon: "✨" }],
+        longevity: 9, sillage: 8,
+        seasons: { spring: 65, summer: 45, fall: 90, winter: 95 },
+        dayNight: { day: 55, night: 95 },
+        topNotes: [{ name: "Hoa nhai" }, { name: "Nghe tay" }],
+        middleNotes: [{ name: "Amberwood" }, { name: "Long dien huong" }],
+        baseNotes: [{ name: "Nhua thong" }, { name: "Xa huong" }],
+        accords: [
+            { name: "Ho phach", value: 100, color: "#d4a017" },
+            { name: "Ngot am", value: 90, color: "#FF6D00" },
+            { name: "Hoa", value: 70, color: "#e75480" },
+            { name: "Go khoi", value: 65, color: "#614326" }
+        ],
+        tags: ["Niche", "Unisex", "Bestseller", "Statement"],
+        sizes: ["5ml Chiet", "10ml Chiet", "70ml EDP", "70ml Extrait"],
+        basePrice: 6500000,
+        shopeeOffers: []
+    },
+    {
+        id: "tom-ford-noir-extreme",
+        brand: "TOM FORD",
+        name: "Noir Extreme",
+        subName: "Eau de Parfum",
+        gender: "nam",
+        image: "https://fimgs.net/images/perfume/o.30516.jpg",
+        images: [
+            { url: "https://fimgs.net/photogram/p1200/oi/vc/EqaG5B5K1A7gIOsc.jpg", source: "fragram", caption: "Tom Ford Noir Extreme — bong toi sang trong" }
+        ],
+        description: "Tom Ford Noir Extreme la cau tra loi cho ai muon ngot ngao exotic nhung van giu dang cap luxury. Cardamom + hoa nhai + sandalwood = bi an, quyen ru, sang trong.",
+        article: "## Cau Chuyen Ra Doi\n\nNoir Extreme ra mat nam 2015 nhu su mo rong cua dòng Noir (2012). Tom Ford, nguoi sang lap thuong hieu vao 2005 sau khi roi Gucci/YSL, muon tao ra mot mui huong 'cuc do cua su quyen ru toi toi' — dam hon, spicy hon va exotic hon Noir goc. Triết ly Tom Ford: nuoc hoa phai gay cam giac skin-to-skin, sensual va unpredictable.\n\n## Thong Tin Co Ban\n\n| | |\n|---|---|\n| **Nha san xuat** | Tom Ford Beauty / Estee Lauder Group |\n| **Nam ra mat** | 2015 |\n| **Perfumer** | Rodrigo Flores-Roux (Givaudan) |\n| **Gia dinh huong** | Floral Oriental Spicy |\n| **Gia** | ~5.200.000 VND / 100ml |\n\n## Cac Phien Ban Noir\n\n- **Tom Ford Noir EDT (2012)** — ban goc, spicy floral\n- **Tom Ford Noir EDP (2013)** — sau hon, oriental\n- **Tom Ford Noir Extreme EDP (2015)** — exotic oriental, ngot va spicy nhat\n- **Tom Ford Noir Extreme Parfum (2021)** — nong do cao nhat, sandalwood led\n\n## Do Noi Tieng\n\n4.12/5 voi 15.000+ ratings — top rated trong dong Tom Ford Private Blend/Designer. Duoc nhieu fashion editor va grooming journalist chon la 'best date night fragrance' 2015-2019.\n\n## DNA Mui Huong\n\nTang dau: Bach dau khau + nhuc dau khau + tieu — warm spicy ngay lap tuc. Tang giua: Hoa hong + hoa nhai + hoa dien vy (orris) + ho phach — floral exotic. Drydown: Go dan huong Mysore + co vetiver + benzoin — am, creamy, bam lau.\n\n## Hieu Nang\n\nLongevity 9-11 tieng. Sillage medium — khong qua manh, phu hop da dang moi truong. Compliment getter manh vao ban toi.\n\n## Verdict Maison de SON\n\nNoir Extreme la chai Tom Ford 'de yeu' nhat — khong dang so nhu Oud Wood, khong qua mainstream nhu Tobacco Vanille. Sweet spot cua luxury fragrance.",
+        verdict: "Spicy oriental refined — khong beast, khong vanilla, ma la luxury statement thuc su. Tom Ford dinh nhat cho buoi toi exotic.",
+        verdictShort: "LUXURY ORIENTAL",
+        score: { scent: 9.0, uniqueness: 8.5, compliments: 9.3, value: 7.8, total: 8.7 },
+        vibes: [{ label: "Tiec toi", icon: "🍸" }, { label: "Su kien", icon: "🎭" }, { label: "Exotic", icon: "🌙" }],
+        longevity: 9, sillage: 8,
+        seasons: { spring: 50, summer: 25, fall: 90, winter: 100 },
+        dayNight: { day: 30, night: 100 },
+        topNotes: [{ name: "Bach dau khau" }, { name: "Nhuc dau khau" }, { name: "Tieu" }],
+        middleNotes: [{ name: "Hoa hong" }, { name: "Hoa nhai" }, { name: "Hoa dien vy" }, { name: "Ho phach" }],
+        baseNotes: [{ name: "Go dan huong" }, { name: "Co vetiver" }, { name: "Benzoin" }, { name: "Xa huong" }],
+        accords: [
+            { name: "Gia vi am", value: 95, color: "#e67e22" },
+            { name: "Ngot exotic", value: 85, color: "#8B0000" },
+            { name: "Go", value: 80, color: "#8B4513" },
+            { name: "Hoa", value: 65, color: "#e75480" }
+        ],
+        tags: ["Tom Ford", "Niche", "Tiec Toi", "Thu Dong"],
+        sizes: ["5ml Chiet", "10ml Chiet", "50ml EDP", "100ml EDP"],
+        basePrice: 5200000,
+        shopeeOffers: []
+    }
+
 ];
