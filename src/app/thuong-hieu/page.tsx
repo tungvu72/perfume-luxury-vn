@@ -6,10 +6,10 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "Thương hiệu nước hoa - Maison de SON",
-    description: "Khám phá các thương hiệu nước hoa cao cấp chính hãng...",
+    description: "Khám phá các thương hiệu nước hoa cao cấp chính hãng từ Dior, Chanel, Tom Ford đến các dòng Niche hiếm. Đánh giá chuyên sâu từ Maison de SON.",
 };
 
-// Danh sÃ¡ch Ä‘áº§y Ä‘á»§ cÃ¡c brand (káº¿t há»£p data tháº­t + placeholder cho SEO)
+// Danh sách đầy đủ các brand (kết hợp data thật + placeholder cho SEO)
 const SEO_PLACEHOLDER_BRANDS = [
     "AMOUAGE", "ARMANI", "BURBERRY",
     "CHANEL", "CREED",
@@ -31,15 +31,15 @@ const SEO_PLACEHOLDER_BRANDS = [
 ];
 
 export default async function BrandsIndexPage() {
-    // Láº¥y danh sÃ¡ch brand tá»« Sanity
+    // Lấy danh sách brand từ Sanity
     const sanityBrands = await getAllBrands();
     const activeBrandsMap = new Map(sanityBrands.map((b: any) => [b.name.toUpperCase(), b]));
 
-    // Gá»™p táº¥t cáº£ brand (tháº­t + placeholder), loáº¡i bá» trÃ¹ng láº·p
+    // Gộp tất cả brand (thật + placeholder), loại bỏ trùng lặp
     const allBrandNamesSet = new Set([...SEO_PLACEHOLDER_BRANDS, ...sanityBrands.map((b: any) => b.name.toUpperCase())]);
     const allBrandNames = Array.from(allBrandNamesSet).sort();
 
-    // NhÃ³m theo chá»¯ cÃ¡i Ä‘áº§u
+    // Nhóm theo chữ cái đầu
     const grouped: Record<string, string[]> = {};
     allBrandNames.forEach(brand => {
         const letter = brand.charAt(0).toUpperCase();
@@ -57,10 +57,10 @@ export default async function BrandsIndexPage() {
             {/* PAGE HEADER */}
             <section className="border-b border-[var(--border)] py-10 md:py-14">
                 <div className="max-w-[1200px] mx-auto px-5">
-                    <Breadcrumbs items={[{ label: 'ThÆ°Æ¡ng hiá»‡u' }]} />
-                    <h1 className="text-3xl md:text-4xl font-serif mb-2">ThÆ°Æ¡ng hiá»‡u nÆ°á»›c hoa</h1>
+                    <Breadcrumbs items={[{ label: 'Thương hiệu' }]} />
+                    <h1 className="text-3xl md:text-4xl font-serif mb-2">Thương hiệu nước hoa</h1>
                     <p className="text-sm text-gray-400">
-                        Tra cá»©u {allBrandNames.length} thÆ°Æ¡ng hiá»‡u tá»« A Ä‘áº¿n Z Â· {totalProducts} sáº£n pháº©m Ä‘Ã£ Ä‘Ã¡nh giÃ¡
+                        Tra cứu {allBrandNames.length} thương hiệu từ A đến Z · {totalProducts} sản phẩm đã đánh giá
                     </p>
                 </div>
             </section>
@@ -107,7 +107,7 @@ export default async function BrandsIndexPage() {
                                                 {brandName}
                                             </span>
                                             <span className="text-[11px] font-bold text-gray-400 bg-gray-100 px-2.5 py-1 rounded-full">
-                                                {brandData.productCount || 0} sáº£n pháº©m
+                                                {brandData.productCount || 0} sản phẩm
                                             </span>
                                         </Link>
                                     );
@@ -122,7 +122,7 @@ export default async function BrandsIndexPage() {
                                             {brandName}
                                         </span>
                                         <span className="text-[10px] text-gray-300 italic">
-                                            Sáº¯p cÃ³
+                                            Sắp có
                                         </span>
                                     </div>
                                 );
@@ -134,7 +134,3 @@ export default async function BrandsIndexPage() {
         </main>
     );
 }
-
-
-
-
