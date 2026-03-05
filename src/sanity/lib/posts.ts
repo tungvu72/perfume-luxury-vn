@@ -74,10 +74,15 @@ export const getAllPosts = cache(async (): Promise<any[]> => {
                 const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
                 const fm = parseFrontmatter(raw);
 
+                // Body: nếu có --- block thì lấy phần sau; không thì dùng toàn bộ raw
+                const hasFrontmatter = raw.trimStart().startsWith('---') && raw.split('---').length >= 3;
                 const parts = raw.split('---');
-                const body = parts.length >= 3 ? parts.slice(2).join('---') : raw;
+                const body = hasFrontmatter ? parts.slice(2).join('---').trim() : raw.trim();
 
-                const firstH1 = raw.match(/^#\s+(.+)/m)?.[1] || slug;
+                // Title: ưu tiên frontmatter → H1 trong file → slug
+                const firstH1Match = raw.match(/^#\s+(.+)/m);
+                const firstH1 = firstH1Match ? firstH1Match[1].trim() : null;
+
                 const firstPara = body
                     .replace(/^#+.+$/gm, '')
                     .replace(/[#*\[\]]/g, '')
@@ -87,10 +92,9 @@ export const getAllPosts = cache(async (): Promise<any[]> => {
 
                 allPosts.push({
                     slug,
-                    // Thêm prefix dir vào slug để tránh trùng + biết nguồn
                     fullSlug: `${dirName}__${slug}`,
                     sourceDir: dirName,
-                    title: fm['title'] || fm['Title'] || firstH1,
+                    title: fm['title'] || fm['Title'] || firstH1 || slug,
                     excerpt: fm['Meta Description'] || fm['description'] || fm['Description'] || firstPara.slice(0, 160),
                     mainImage: fm['Featured Image'] || fm['image'] || fm['featuredImage'] || null,
                     publishedAt: fm['Ngày cập nhật'] || fm['date'] || fm['Date'] || fm['publishedAt'] || null,
@@ -122,15 +126,19 @@ export const getPostBySlug = cache(async (slug: string): Promise<any | null> => 
             const raw = fs.readFileSync(filePath, 'utf-8');
             const fm = parseFrontmatter(raw);
 
+            // Body: nếu có --- block thì lấy phần sau; không thì dùng toàn bộ raw
+            const hasFrontmatter = raw.trimStart().startsWith('---') && raw.split('---').length >= 3;
             const parts = raw.split('---');
-            const body = parts.length >= 3 ? parts.slice(2).join('---') : raw;
+            const body = hasFrontmatter ? parts.slice(2).join('---').trim() : raw.trim();
 
-            const firstH1 = raw.match(/^#\s+(.+)/m)?.[1] || slug;
+            // Title: ưu tiên frontmatter → H1 trong file → slug
+            const firstH1Match = raw.match(/^#\s+(.+)/m);
+            const firstH1 = firstH1Match ? firstH1Match[1].trim() : null;
 
             return {
                 slug,
                 sourceDir: dirName,
-                title: fm['title'] || fm['Title'] || firstH1,
+                title: fm['title'] || fm['Title'] || firstH1 || slug,
                 excerpt: fm['Meta Description'] || fm['description'] || fm['Description'] || '',
                 mainImage: fm['Featured Image'] || fm['image'] || fm['featuredImage'] || null,
                 publishedAt: fm['Ngày cập nhật'] || fm['date'] || fm['Date'] || fm['publishedAt'] || null,
