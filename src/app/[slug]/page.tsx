@@ -100,19 +100,21 @@ export default async function ArticleRootPage({ params }: { params: Promise<{ sl
                 <ScrollProgress />
                 <Header />
 
-                {/* HERO */}
-                <div className="w-full h-[260px] md:h-[440px] relative overflow-hidden bg-gray-100">
-                    <Image
-                        src={post.mainImage || PLACEHOLDER_IMAGE}
-                        alt={post.title}
-                        fill sizes="100vw"
-                        className="object-cover"
-                        priority
-                        unoptimized={!post.mainImage || post.mainImage.startsWith('http')}
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
+                {/* HERO — object-contain để không bị crop, bg tối để fill khoảng trống */}
+                <div className="w-full relative overflow-hidden" style={{ background: '#111', minHeight: '240px' }}>
+                    <div className="relative w-full" style={{ paddingTop: 'min(55%, 480px)' }}>
+                        <Image
+                            src={post.mainImage || PLACEHOLDER_IMAGE}
+                            alt={post.title}
+                            fill sizes="100vw"
+                            className="object-cover object-center"
+                            priority
+                            unoptimized={!post.mainImage || post.mainImage.startsWith('http')}
+                        />
+                        <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/20 to-transparent" />
+                    </div>
                     {post.category && (
-                        <div className="absolute top-5 left-5">
+                        <div className="absolute top-4 left-4">
                             <span className={`text-[10px] font-bold tracking-[2px] uppercase px-3 py-1.5 rounded-full border ${tagColorClass}`}>
                                 {post.category}
                             </span>
@@ -150,25 +152,25 @@ export default async function ArticleRootPage({ params }: { params: Promise<{ sl
                                 )}
                             </div>
 
-                            {/* ARTICLE BODY — supports HTML + Markdown */}
+                            {/* ARTICLE BODY — Fragrantica-style: clean, nhất quán */}
                             <article className="
-                prose prose-sm md:prose-base max-w-none
-                prose-headings:font-serif prose-headings:font-bold prose-headings:text-gray-900
-                prose-h2:text-2xl md:prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-5 prose-h2:pb-3 prose-h2:border-b prose-h2:border-gray-100
-                prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
-                prose-p:text-gray-700 prose-p:leading-[1.85] prose-p:my-5 prose-p:text-[15px]
-                prose-a:text-primary prose-a:no-underline hover:prose-a:underline
-                prose-strong:text-gray-900 prose-strong:font-semibold
-                prose-ul:text-gray-700 prose-ol:text-gray-700 prose-li:my-2 prose-li:text-[15px]
-                prose-blockquote:border-l-4 prose-blockquote:border-primary
-                prose-blockquote:bg-amber-50 prose-blockquote:py-3 prose-blockquote:px-5
-                prose-blockquote:rounded-r-xl prose-blockquote:text-gray-700 prose-blockquote:not-italic prose-blockquote:my-8
-                prose-hr:border-[var(--border)] prose-hr:my-10
-                prose-table:text-sm prose-table:w-full
-                prose-th:bg-gray-50 prose-th:font-bold prose-th:p-3 prose-th:border prose-th:border-gray-200 prose-th:text-left
-                prose-td:p-3 prose-td:border prose-td:border-gray-100 prose-td:align-top
-                prose-img:rounded-xl prose-img:shadow-md prose-img:my-8 prose-img:w-full prose-img:object-cover
-              ">
+                                prose prose-base max-w-none
+                                prose-headings:font-serif prose-headings:text-gray-900 prose-headings:font-semibold
+                                prose-h1:text-2xl prose-h1:mb-4
+                                prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:border-b prose-h2:border-gray-100 prose-h2:pb-2
+                                prose-h3:text-lg prose-h3:mt-7 prose-h3:mb-3
+                                prose-p:text-[15px] prose-p:text-gray-700 prose-p:leading-[1.8] prose-p:my-4
+                                prose-li:text-[15px] prose-li:text-gray-700 prose-li:leading-[1.8] prose-li:my-1
+                                prose-strong:text-gray-900 prose-strong:font-semibold
+                                prose-a:text-primary prose-a:no-underline hover:prose-a:underline
+                                prose-blockquote:border-l-4 prose-blockquote:border-gray-300
+                                prose-blockquote:pl-4 prose-blockquote:text-gray-600 prose-blockquote:not-italic prose-blockquote:my-6
+                                prose-hr:border-gray-200 prose-hr:my-8
+                                prose-img:rounded-lg prose-img:my-6 prose-img:w-full
+                                prose-table:text-sm prose-table:w-full
+                                prose-th:p-3 prose-th:border prose-th:border-gray-200 prose-th:bg-gray-50 prose-th:font-semibold prose-th:text-left
+                                prose-td:p-3 prose-td:border prose-td:border-gray-100
+                            ">
                                 <ReactMarkdown
                                     remarkPlugins={[remarkGfm]}
                                     rehypePlugins={[rehypeRaw]}

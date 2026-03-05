@@ -305,14 +305,14 @@ export default async function Home() {
         </section>
       )}
 
-      {/* ─── ZALO FLOATING ──────────────────────────────────────────────── */}
-      <div className="fixed bottom-20 md:bottom-6 right-4 md:right-6 z-[100]">
+      {/* ─── ZALO FLOATING ─ Desktop only ──────────────────────────────── */}
+      <div className="hidden md:block fixed bottom-6 right-6 z-[100]">
         <Link href="https://zalo.me/0961226169" rel="nofollow" target="_blank"
           className="flex items-center gap-2.5 bg-white border border-[var(--border)] px-4 py-2.5 rounded-full shadow-lg hover:scale-105 transition-transform active:scale-95">
           <div className="w-7 h-7 bg-[#0068FF] rounded-full flex items-center justify-center text-white text-[9px] font-bold shadow flex-shrink-0">
             ZL
           </div>
-          <div className="hidden md:block">
+          <div>
             <span className="text-xs font-semibold block">Tư vấn Stylist</span>
             <div className="flex items-center gap-1 mt-0.5">
               <span className="w-1.5 h-1.5 bg-green-500 rounded-full animate-pulse" />
@@ -321,6 +321,7 @@ export default async function Home() {
           </div>
         </Link>
       </div>
+
 
       {/* ─── MOBILE BOTTOM NAV ──────────────────────────────────────────── */}
       <nav className="fixed bottom-0 left-0 w-full border-t border-[var(--border)] bg-white/95 backdrop-blur-sm flex md:hidden z-50 py-1 safe-area-pb">
