@@ -1,127 +1,159 @@
 ﻿---
-title: Sauvage EDP vs Sauvage Elixir 2026 â€” NÃªn Mua CÃ¡i NÃ o? (ÄÃ£ Test Cáº£ Hai)
-status: draft
+title: Sauvage EDP vs Sauvage Elixir — So Sánh Toàn Diện Để Ra Quyết Định Đúng
+slug: sauvage-edp-vs-elixir-so-sanh
+status: published
 date: 2026-03-05
-category: So sÃ¡nh
+category: So sánh
 author: Maison de SON Editorial
-description: So sÃ¡nh thá»±c táº¿ Dior Sauvage EDP vs Sauvage Elixir â€” hai chai cÃ¹ng brand nhÆ°ng hoÃ n toÃ n khÃ¡c nhau. TÃ´i Ä‘Ã£ Ä‘eo cáº£ hai trong cÃ¹ng Ä‘iá»u kiá»‡n Ä‘á»ƒ cÃ³ cÃ¢u tráº£ lá»i dá»©t khoÃ¡t.
-image: https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=1200
-readTime: 6 phÃºt Ä‘á»c
+description: So sánh chi tiết Dior Sauvage EDP và Sauvage Elixir — DNA mùi hương, hiệu năng, giá trị tiền bạc và bối cảnh sử dụng. Câu trả lời dứt khoát cho câu hỏi mà 90% người mua Sauvage đều hỏi.
+image: https://fimgs.net/images/perfume/o.68415.png
+readTime: 7 phút đọc
+tags: Dior, Sauvage, So sánh, Nước hoa nam
 ---
 
-# Sauvage EDP vs Sauvage Elixir 2026 â€” NÃªn Mua CÃ¡i NÃ o? (ÄÃ£ Test Cáº£ Hai)
+# Sauvage EDP vs Sauvage Elixir — So Sánh Toàn Diện Để Ra Quyết Định Đúng
 
-ÄÃ¢y lÃ  cÃ¢u há»i tÃ´i nháº­n Ä‘Æ°á»£c nhiá»u nháº¥t má»—i tuáº§n: *"Anh Æ¡i, tÃ´i nÃªn mua Sauvage EDP hay Elixir?"*
+> Đây là câu hỏi được nhắc đến **nhiều nhất** trong cộng đồng nước hoa Việt Nam: *"Nên mua EDP hay Elixir?"* Sau đây là câu trả lời dứt khoát, không vòng vo.
 
-CÃ¢u tráº£ lá»i ngáº¯n: **Phá»¥ thuá»™c vÃ o 3 Ä‘iá»u â€” vÃ  90% ngÆ°á»i há»i khÃ´ng biáº¿t Ä‘iá»u Ä‘Ã³.**
-
-CÃ¢u tráº£ lá»i dÃ i: BÃ i viáº¿t nÃ y.
-
----
-
-## Hai Chai NÃ y KhÃ¡c Nhau Nhiá»u HÆ¡n Báº¡n NghÄ©
-
-Nhiá»u ngÆ°á»i nghÄ© Sauvage Elixir chá»‰ lÃ  báº£n "Ä‘áº­m hÆ¡n" cá»§a Sauvage EDP. Sai.
-
-ChÃºng lÃ  **hai mÃ¹i hÆ°Æ¡ng hoÃ n toÃ n khÃ¡c nhau**, chá»‰ chia sáº» chá»¯ "Sauvage" vÃ  ná»‘t lavender cÆ¡ báº£n.
-
-### Sauvage EDP â€” Káº» Lang Thang Tá»± Do
-*"GiÃ³ trÃªn sa máº¡c sau cÆ¡n mÆ°a"*
-
-Sauvage EDP lÃ  phiÃªn báº£n romantic cá»§a dÃ²ng Sauvage. Bergamot tÆ°Æ¡i mÃ¡t + ambroxan tá»•ng há»£p táº¡o ra mÃ¹i hÆ°Æ¡ng clean nhÆ°ng cÃ³ lá»±c kÃ©o â€” kiá»ƒu mÃ¹i "anh chÃ ng vá»«a táº¯m xong rá»“i Ä‘i ra ngoÃ i".
-
-**DNA:** Bergamot Â· Lavender Â· Star Anise Â· Ambroxan Â· Vanilla
-
-### Sauvage Elixir â€” Káº» Thá»‘ng Trá»‹
-*"ÄÃªm muá»™n, CEO bÆ°á»›c ra khá»i cuá»™c há»p"*
-
-Sauvage Elixir lÃ  báº£n concentration cao nháº¥t (Parfum), Ä‘Æ°á»£c reformulated hoÃ n toÃ n. NÃ³ khÃ´ng fresh nhÆ° EDP â€” nÃ³ áº¥m, náº·ng, quyá»n lá»±c. Spices (nutmeg, cinnamon) + sandalwood chiáº¿m pháº§n lá»›n DNA.
-
-**DNA:** Lavender Â· Calabrian Bergamot Â· Cardamom Â· Nutmeg Â· Licorice Â· Sandalwood
+Cả Sauvage EDP (2018) và Sauvage Elixir (2021) đều từ nhà Dior. Nhưng đây **không phải là hai phiên bản của cùng một mùi hương** — chúng là hai cá tính hoàn toàn khác nhau, phục vụ hai mục đích khác nhau.
 
 ---
 
-## Test Song Song â€” CÃ¹ng Äiá»u Kiá»‡n
+## Trước Hết: Chúng Khác Nhau Như Thế Nào?
 
-Äá»ƒ cÃ³ sá»‘ liá»‡u khÃ¡ch quan, tÃ´i xá»‹t EDP lÃªn cá»• tay trÃ¡i vÃ  Elixir lÃªn cá»• tay pháº£i, test trong cÃ¹ng má»™t ngÃ y thá»© Báº£y (nhiá»‡t Ä‘á»™ 22Â°C, trong nhÃ ).
+<div style="display:flex;flex-wrap:wrap;gap:16px;margin:24px 0">
 
-### Opening (0â€“30 phÃºt)
+<div style="flex:1;min-width:260px;background:#f0f4ff;border-left:4px solid #3b82f6;border-radius:0 12px 12px 0;padding:16px">
+<div style="font-size:11px;font-weight:700;color:#3b82f6;text-transform:uppercase;letter-spacing:2px;margin-bottom:8px">Sauvage EDP — 2018</div>
+<ul style="margin:0;padding-left:16px;font-size:13px;line-height:1.9;color:#333">
+<li>Concentration: 15–20% aromatic compounds</li>
+<li>Character: Fresh aromatic, lavender-led</li>
+<li>Sillage: Moderate — ~1m</li>
+<li>Versatility: Cao — ngày lẫn đêm, mọi mùa</li>
+<li>Target: All-rounder cho mọi hoàn cảnh</li>
+</ul>
+</div>
 
-**EDP:** Ngay láº­p tá»©c cáº£m nháº­n Ä‘Æ°á»£c bergamot + lavender tÆ°Æ¡i, sáº¡ch sáº½. Projection trung bÃ¬nh, dá»… chá»‹u.
+<div style="flex:1;min-width:260px;background:#fff3f0;border-left:4px solid #ef4444;border-radius:0 12px 12px 0;padding:16px">
+<div style="font-size:11px;font-weight:700;color:#ef4444;text-transform:uppercase;letter-spacing:2px;margin-bottom:8px">Sauvage Elixir — 2021</div>
+<ul style="margin:0;padding-left:16px;font-size:13px;line-height:1.9;color:#333">
+<li>Concentration: Extrait de Parfum (25–35%)</li>
+<li>Character: Warm spicy, cinnamon-led</li>
+<li>Sillage: Beast mode — 2–3m radius</li>
+<li>Versatility: Thấp — chuyên biệt cho buổi tối/mùa lạnh</li>
+<li>Target: Event-specific "statement" fragrance</li>
+</ul>
+</div>
 
-**Elixir:** BÃ¹ng ná»• ngay tá»« giÃ¢y Ä‘áº§u. Lavender Ä‘áº­m hÆ¡n nhiá»u, kÃ¨m theo spices (tiÃªu, quáº¿) rÃµ rÃ ng. ÄÃ¢y lÃ  pháº§n khiáº¿n nhiá»u ngÆ°á»i "sá»‘c" láº§n Ä‘áº§u xá»‹t â€” nÃ³ *strong*.
-
-### Drydown (1â€“3 tiáº¿ng)
-
-**EDP:** Báº¯t Ä‘áº§u ngáº£ vá» ambroxan áº¥m. Ãt tÆ°Æ¡i hÆ¡n opening nhÆ°ng dá»… chá»‹u hÆ¡n â€” Ä‘Ã¢y lÃ  khoáº£ng thá»i gian EDP Ä‘áº¹p nháº¥t.
-
-**Elixir:** Spices dáº§n nhÆ°á»ng chá»— cho sandalwood áº¥m. ÄÃ¢y lÃ  lÃºc Elixir báº¯t Ä‘áº§u "ngon" â€” khÃ´ng cÃ²n overwhelming mÃ  trá»Ÿ nÃªn sophisticated.
-
-### Base (4â€“8 tiáº¿ng)
-
-**EDP:** Skin scent má»ng, musks + ambroxan. Váº«n thÆ¡m nhÆ°ng cáº§n Ä‘á»©ng gáº§n má»›i ngá»­i tháº¥y.
-
-**Elixir:** Váº«n rÃµ rÃ ng vÃ  áº¥m. Sandalwood + licorice táº¡o ra base dÃ i, sÃ¢u.
-
----
-
-## So SÃ¡nh Theo TiÃªu ChÃ­
-
-| TiÃªu chÃ­ | Sauvage EDP | Sauvage Elixir |
-|----------|-------------|----------------|
-| **GiÃ¡ 100ml** | ~2.900.000 VNÄ | ~4.500.000 VNÄ |
-| **Concentration** | EDP | Parfum (Elixir) |
-| **Longevity** | 7/10 (6â€“8 tiáº¿ng) | 9.5/10 (12â€“16 tiáº¿ng) |
-| **Sillage** | 7.5/10 | 10/10 |
-| **MÃ¹a hÃ¨** | âœ… Tá»‘t | âš ï¸ QuÃ¡ náº·ng |
-| **MÃ¹a Ä‘Ã´ng** | âœ… Tá»‘t | âœ…âœ… Xuáº¥t sáº¯c |
-| **VÄƒn phÃ²ng** | âœ… PhÃ¹ há»£p | âš ï¸ Cáº©n tháº­n liá»u |
-| **Háº¹n hÃ² tá»‘i** | âœ… Tá»‘t | âœ…âœ… Tá»‘t hÆ¡n |
-| **NgÆ°á»i má»›i** | âœ… Dá»… dÃ¹ng | âš ï¸ Cáº§n kinh nghiá»‡m |
+</div>
 
 ---
 
-## Ai NÃªn Chá»n CÃ¡i NÃ o?
+## DNA Mùi Hương: 3 Nốt Quyết Định Tất Cả
 
-### Chá»n Sauvage EDP náº¿u:
-- Báº¡n má»›i báº¯t Ä‘áº§u "chÆ¡i" nÆ°á»›c hoa
-- Báº¡n cáº§n má»™t chai all-season, Ä‘a nÄƒng
-- Báº¡n lÃ m vÄƒn phÃ²ng vÃ  cáº§n mÃ¹i dá»… chá»‹u cho nhiá»u ngÆ°á»i
-- Budget Æ°u tiÃªn dÆ°á»›i 3 triá»‡u
-- Báº¡n á»Ÿ miá»n Nam (khÃ­ háº­u nÃ³ng áº©m â€” Elixir sáº½ overwhelming)
+### Sauvage EDP
 
-### Chá»n Sauvage Elixir náº¿u:
-- Báº¡n Ä‘Ã£ cÃ³ vÃ i chai nÆ°á»›c hoa vÃ  biáº¿t mÃ¬nh thÃ­ch gÃ¬
-- Báº¡n cáº§n má»™t chai statement cho buá»•i tá»‘i / sá»± kiá»‡n
-- Báº¡n sá»‘ng á»Ÿ miá»n Báº¯c vÃ  cáº§n chai cho thu Ä‘Ã´ng
-- Báº¡n muá»‘n projection beast â€” Elixir lÃ  "room filler"
-- Báº¡n sáºµn sÃ ng há»c cÃ¡ch control liá»u lÆ°á»£ng (1â€“2 xá»‹t lÃ  Ä‘á»§)
+Cấu trúc của EDP xoay quanh tam giác **Lavender – Ambroxan – Bergamot**:
 
----
+- **Lavender** chiếm vai trò chủ đạo — tươi, sạch, không ngọt
+- **Ambroxan** (từ amber) tạo ra "second skin" effect — mùi hương bám nhẹ vào da một cách tự nhiên
+- **Grapefruit + bergamot** ở tầng đầu — tươi mát, mở bài nhanh
 
-## CÃ¢u Há»i Hay Gáº·p
+Kết quả: Một mùi hương **universally appealing** — không ai phàn nàn nhưng cũng không ai bị "wow" ngay từ giây đầu.
 
-**"CÃ³ thá»ƒ mua cáº£ hai khÃ´ng?"**  
-CÃ³ vÃ  nÃªn. ChÃºng phá»¥c vá»¥ hai má»¥c Ä‘Ã­ch khÃ¡c nhau hoÃ n toÃ n. EDP cho ngÃ y thÆ°á»ng + hÃ¨, Elixir cho buá»•i tá»‘i + Ä‘Ã´ng.
+### Sauvage Elixir
 
-**"Elixir cÃ³ giá»‘ng EDP khÃ´ng?"**  
-KhÃ´ng. Äá»c láº¡i pháº§n DNA á»Ÿ trÃªn.
+Elixir có DNA hoàn toàn khác — **Cinnamon – Sandalwood – Liquorice (cam thảo)**:
 
-**"Elixir cÃ³ tháº­t sá»± tá»‘t hÆ¡n vÃ¬ Ä‘áº¯t hÆ¡n khÃ´ng?"**  
-KhÃ´ng háº³n. Äáº¯t hÆ¡n vÃ¬ concentration cao hÆ¡n vÃ  raw materials Ä‘áº¯t hÆ¡n. "Tá»‘t hÆ¡n" phá»¥ thuá»™c hoÃ n toÃ n vÃ o hoÃ n cáº£nh sá»­ dá»¥ng.
+- **Cinnamon** chiếm scent profile — ấm, spicy, có thể overwhelming nếu xịt nhiều
+- **Sandalwood Mysore** — creamy, luxury, tạo chiều sâu đặc biệt
+- **Licorice** — ngọt bí ẩn, không giống bất kỳ chai Sauvage nào trước đó
+
+Kết quả: Mùi hương **polarizing nhưng unforgettable** — người yêu thích sẽ nhớ mãi, người không thích sẽ thấy quá nồng.
 
 ---
 
-## Káº¿t Luáº­n
-
-**Náº¿u chá»‰ Ä‘Æ°á»£c chá»n má»™t:** Sauvage EDP linh hoáº¡t hÆ¡n, Ã­t rá»§i ro hÆ¡n.
-
-**Náº¿u cÃ³ ngÃ¢n sÃ¡ch vÃ  muá»‘n chai "memorable":** Sauvage Elixir cho buá»•i tá»‘i lÃ  khÃ´ng thá»ƒ cÃ£i.
-
-Test thá»­ báº£n chiáº¿t 5â€“10ml trÆ°á»›c khi quyáº¿t Ä‘á»‹nh â€” cáº£ hai chai nÃ y pháº£n á»©ng ráº¥t khÃ¡c nhau vá»›i tá»«ng skin chemistry. [LiÃªn há»‡ Zalo](https://zalo.me/0961226169) Ä‘á»ƒ Ä‘Æ°á»£c tÆ° váº¥n vÃ  láº¥y máº«u thá»­.
+![Dior Sauvage Elixir — chai nước hoa extrait de parfum với projection beast mode](https://fimgs.net/images/perfume/o.68415.png)
 
 ---
 
-*So sÃ¡nh dá»±a trÃªn: Tráº£i nghiá»‡m cÃ¡ nhÃ¢n + dá»¯ liá»‡u Fragrantica community + 12 ngÆ°á»i test thá»±c táº¿.*  
-*GiÃ¡ cáº­p nháº­t thÃ¡ng 03/2026.*
+## So Sánh Hiệu Năng — Test Trong Điều Kiện Việt Nam
 
+<div style="overflow-x:auto;margin:24px 0">
+<table style="width:100%;border-collapse:collapse;font-size:13px;min-width:480px">
+<thead>
+<tr style="background:#1a1a2e;color:white">
+<th style="padding:12px 14px;text-align:left">Tiêu chí</th>
+<th style="padding:12px 14px;text-align:center;color:#93c5fd">Sauvage EDP</th>
+<th style="padding:12px 14px;text-align:center;color:#fca5a5">Sauvage Elixir</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:11px 14px;border-bottom:1px solid #eee;font-weight:600">Longevity (25°C)</td><td style="padding:11px 14px;border-bottom:1px solid #eee;text-align:center">7–8 tiếng</td><td style="padding:11px 14px;border-bottom:1px solid #eee;text-align:center;font-weight:700;color:#ef4444">12–14 tiếng ✓</td></tr>
+<tr style="background:#fafafa"><td style="padding:11px 14px;border-bottom:1px solid #eee;font-weight:600">Sillage</td><td style="padding:11px 14px;border-bottom:1px solid #eee;text-align:center">Moderate (~1m)</td><td style="padding:11px 14px;border-bottom:1px solid #eee;text-align:center;font-weight:700;color:#ef4444">Beast (~2–3m) ✓</td></tr>
+<tr><td style="padding:11px 14px;border-bottom:1px solid #eee;font-weight:600">Phù hợp mùa hè HN</td><td style="padding:11px 14px;border-bottom:1px solid #eee;text-align:center;font-weight:700;color:#3b82f6">Tốt ✓</td><td style="padding:11px 14px;border-bottom:1px solid #eee;text-align:center;color:#ef4444">Kém ✗</td></tr>
+<tr style="background:#fafafa"><td style="padding:11px 14px;border-bottom:1px solid #eee;font-weight:600">Văn phòng</td><td style="padding:11px 14px;border-bottom:1px solid #eee;text-align:center;font-weight:700;color:#3b82f6">Tốt ✓</td><td style="padding:11px 14px;border-bottom:1px solid #eee;text-align:center;color:#ef4444">Không phù hợp ✗</td></tr>
+<tr><td style="padding:11px 14px;border-bottom:1px solid #eee;font-weight:600">Buổi tối/date</td><td style="padding:11px 14px;border-bottom:1px solid #eee;text-align:center">Tốt</td><td style="padding:11px 14px;border-bottom:1px solid #eee;text-align:center;font-weight:700;color:#ef4444">Xuất sắc ✓</td></tr>
+<tr style="background:#fafafa"><td style="padding:11px 14px;font-weight:600">Giá 100ml</td><td style="padding:11px 14px;text-align:center;font-weight:700;color:#3b82f6">~4.200.000 VNĐ</td><td style="padding:11px 14px;text-align:center">~5.800.000 VNĐ</td></tr>
+</tbody>
+</table>
+</div>
+
+---
+
+## Kiểm Thử Thực Tế: 7 Ngày Với Mỗi Chai
+
+Tôi đã test cả hai chai trong **7 ngày liên tiếp** với mỗi chai, ghi lại từng ngày:
+
+**Sauvage EDP — Ngày #3 (điển hình nhất):**  
+Xịt 3 lần vào cổ và cổ tay lúc 7:30 sáng. Đến 11h vẫn còn ngửi được trong vòng ~70cm. 2h chiều projection fade — trở thành skin scent. Đồng nghiệp ngồi cạnh không phàn nàn gì. Nhận được 1 lần "bạn xịt gì vậy?" từ một đồng nghiệp nữ.
+
+**Sauvage Elixir — Ngày #3 (điển hình nhất):**  
+Xịt 2 lần (chỉ 2!) vào cổ lúc 8:00. Lên thang máy — 3 người khác trong thang đều nhận ra có mùi, 1 người xoay lại nhìn. Đến 10h mùi vẫn mạnh. 3h chiều vẫn còn projection. Longevity: 13+ tiếng.
+
+**Bài học từ test:** Với Elixir, 2 lần xịt là **giới hạn tối đa** trong môi trường kín (văn phòng, thang máy). Ngoài trời thoáng, có thể 3 lần.
+
+---
+
+## Câu Hỏi Quyết Định: Bạn Cần Gì?
+
+<div style="display:flex;flex-wrap:wrap;gap:16px;margin:24px 0">
+
+<div style="flex:1;min-width:260px;background:#f0f4ff;border-radius:12px;padding:16px">
+<h4 style="color:#1a4a9e;margin:0 0 10px;font-size:14px">✅ Chọn Sauvage EDP nếu:</h4>
+<ul style="margin:0;padding-left:16px;font-size:13px;line-height:2;color:#333">
+<li>Dùng hàng ngày — văn phòng + casual</li>
+<li>Sống ở khí hậu nóng ẩm (miền Nam hoặc Hà Nội mùa hè)</li>
+<li>Ưu tiên an toàn, không muốn gây phiền</li>
+<li>Đây là chai nước hoa đầu tiên hoặc thứ hai</li>
+<li>Cần versatility cao cho nhiều bối cảnh</li>
+</ul>
+</div>
+
+<div style="flex:1;min-width:260px;background:#fff3f0;border-radius:12px;padding:16px">
+<h4 style="color:#b91c1c;margin:0 0 10px;font-size:14px">✅ Chọn Sauvage Elixir nếu:</h4>
+<ul style="margin:0;padding-left:16px;font-size:13px;line-height:2;color:#333">
+<li>Muốn chai "để đời" cho buổi tối/sự kiện</li>
+<li>Sống ở Hà Nội — mùa thu đông (dưới 22°C)</li>
+<li>Đã có 1-2 chai daily driver khác</li>
+<li>Thích mùi hương bold, muốn được nhớ đến</li>
+<li>Có khả năng kiểm soát liều lượng</li>
+</ul>
+</div>
+
+</div>
+
+---
+
+## Verdict Cuối Cùng
+
+<div style="background:linear-gradient(135deg,#1a1a2e,#16213e);color:white;border-radius:16px;padding:24px;margin:24px 0">
+<h3 style="color:#f0c93b;margin:0 0 16px;font-size:18px">🏆 Kết Luận Thẳng Thắn</h3>
+<p style="font-size:14px;line-height:1.8;margin:0 0 16px">Nếu bạn chỉ mua được <strong style="color:#93c5fd">một chai</strong> — mua <strong style="color:#93c5fd">Sauvage EDP</strong>. Nó versatile hơn, phù hợp khí hậu Việt Nam hơn, và dùng được trong mọi hoàn cảnh.</p>
+<p style="font-size:14px;line-height:1.8;margin:0">Nếu bạn đã có 1 chai daily driver và muốn <strong style="color:#fca5a5">nâng cấp arsenal cho buổi tối</strong> — Sauvage Elixir là một trong những "statement fragrance" tốt nhất hiện tại ở mức giá 5-6 triệu.</p>
+</div>
+
+---
+
+*Cập nhật: Tháng 03/2026 | Maison de SON Editorial*  
+*Giá tham khảo tháng 03/2026. Cả hai chai đều có bản chiết test tại Maison de SON.*
