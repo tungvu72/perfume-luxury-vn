@@ -113,8 +113,8 @@ const Header = () => {
         { name: "Nam", href: "/nam-gioi" },
         { name: "Nữ", href: "/nu-gioi" },
         { name: "Unisex", href: "/unisex" },
-        { name: "Giới thiệu", href: "/gioi-thieu" },
-        { name: "Kiến thức", href: "/kien-thuc" }
+        { name: "Kiến thức", href: "/kien-thuc" },
+        { name: "Về chúng tôi", href: "/gioi-thieu" },
     ];
 
     return (
