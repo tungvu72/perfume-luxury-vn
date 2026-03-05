@@ -7,6 +7,7 @@ import ScrollProgress from "@/components/ScrollProgress";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
 import RelatedProducts from "@/components/RelatedProducts";
+import RelatedArticles from "@/components/RelatedArticles";
 
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
     const { id: slug } = await params;
@@ -87,6 +88,11 @@ export default async function ProductDetailPage({ params }: { params: Promise<{ 
                     relatedProducts={
                         <Suspense fallback={<div className="h-40 animate-pulse bg-gray-50 rounded-xl mt-10" />}>
                             <RelatedProducts current={product} />
+                        </Suspense>
+                    }
+                    relatedArticles={
+                        <Suspense fallback={null}>
+                            <RelatedArticles product={product} />
                         </Suspense>
                     }
                 />

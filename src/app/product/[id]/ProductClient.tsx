@@ -28,7 +28,7 @@ const SOURCE_LABELS: Record<string, string> = {
     owner: '🙋 Chủ shop',
 };
 
-export default function ProductClient({ product, relatedProducts }: { product: Perfume, relatedProducts: React.ReactNode }) {
+export default function ProductClient({ product, relatedProducts, relatedArticles }: { product: Perfume, relatedProducts: React.ReactNode, relatedArticles?: React.ReactNode }) {
     const [mounted, setMounted] = useState(false);
     const [selectedSize, setSelectedSize] = useState("");
     const { add, items } = useCompare();
@@ -521,7 +521,7 @@ export default function ProductClient({ product, relatedProducts }: { product: P
                                                                 return subParts.map((sp, sIdx) => {
                                                                     if (sp.toLowerCase() === searchName.toLowerCase() && !linked) {
                                                                         linked = true;
-                                                                        return <Link key={sIdx} href={`/product/${product.id}`} className="text-primary font-bold border-b border-primary/30 hover:border-primary transition-colors">{sp}</Link>;
+                                                                        return <Link key={sIdx} href={`/san-pham/${product.id}`} className="text-primary font-bold border-b border-primary/30 hover:border-primary transition-colors">{sp}</Link>;
                                                                     }
                                                                     return sp;
                                                                 });
@@ -578,6 +578,14 @@ export default function ProductClient({ product, relatedProducts }: { product: P
                     </section>
 
                     {relatedProducts}
+
+                    {/* ===== BÀI VIẾT LIÊN QUAN ===== */}
+                    {relatedArticles && (
+                        <section className="border-t border-[var(--border)] pt-10 mt-10">
+                            <h2 className="text-2xl font-serif mb-6">📖 Bài viết liên quan</h2>
+                            {relatedArticles}
+                        </section>
+                    )}
 
                 </div>
             </div>
