@@ -49,7 +49,7 @@ export default function ComparePage() {
             label: "Hành động",
             icon: null,
             render: (p: typeof items[0]) => (
-                <Link href={`/product/${p.id}`} className="inline-block bg-black text-white px-4 py-2 rounded-full text-[10px] font-bold uppercase tracking-wider hover:bg-primary transition-colors active:scale-95">
+                <Link href={`/san-pham/${p.id}`} className="inline-block bg-black text-white px-4 py-2 rounded-full text-[10px] font-bold uppercase tracking-wider hover:bg-primary transition-colors active:scale-95">
                     Xem chi tiết
                 </Link>
             )
@@ -79,7 +79,7 @@ export default function ComparePage() {
                                 <th className="w-[120px] md:w-[160px] p-3 text-left text-[10px] font-bold text-gray-400 uppercase tracking-wider"></th>
                                 {items.map(p => (
                                     <th key={p.id} className="p-3 text-center">
-                                        <Link href={`/product/${p.id}`} className="group">
+                                        <Link href={`/san-pham/${p.id}`} className="group">
                                             <div className="w-20 h-20 md:w-24 md:h-24 bg-gray-50 rounded-xl mx-auto mb-3 overflow-hidden relative">
                                                 <Image src={p.image} alt={p.name} fill sizes="96px" className="object-contain p-2 group-hover:scale-110 transition-transform" />
                                             </div>

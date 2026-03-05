@@ -311,7 +311,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                   <h3 className="text-xs font-bold tracking-[2px] uppercase text-gray-400 mb-4">🧴 Sản phẩm nổi bật</h3>
                   <div className="space-y-4">
                     {relatedProducts.map(product => (
-                      <Link key={product.id} href={`/product/${product.id}`} className="flex items-center gap-3 group">
+                      <Link key={product.id} href={`/san-pham/${product.id}`} className="flex items-center gap-3 group">
                         <div className="w-14 h-14 bg-[#F7F7F7] rounded-xl overflow-hidden flex-shrink-0 relative">
                           <Image
                             src={product.image}

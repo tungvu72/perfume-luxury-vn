@@ -89,7 +89,7 @@ export default async function Home() {
         </div>
         <div className="flex overflow-x-auto gap-4 pb-4 -mx-5 px-5 md:mx-0 md:px-0 md:grid md:grid-cols-6 md:gap-4 scrollbar-hide">
           {trendingProducts.map((p) => (
-            <Link key={p.id} href={`/product/${p.id}`} className="min-w-[130px] md:min-w-0 group bg-white rounded-xl hover:shadow-xl transition-all p-1">
+            <Link key={p.id} href={`/san-pham/${p.id}`} className="min-w-[130px] md:min-w-0 group bg-white rounded-xl hover:shadow-xl transition-all p-1">
               <div className="aspect-square bg-[#F7F7F7] rounded-xl overflow-hidden mb-2 relative">
                 <Image
                   src={p.image}
@@ -126,7 +126,7 @@ export default async function Home() {
           {monthlyRanking.map((product, i) => (
             <Link
               key={product.id}
-              href={`/product/${product.id}`}
+              href={`/san-pham/${product.id}`}
               className="min-w-[160px] md:min-w-0 group cursor-pointer bg-white rounded-xl hover:shadow-xl transition-all p-2"
             >
               <div className="aspect-square bg-[#F7F7F7] rounded-xl overflow-hidden mb-3 relative">
@@ -161,7 +161,7 @@ export default async function Home() {
           {latestReviews.map((product, i) => (
             <Link
               key={product.id}
-              href={`/product/${product.id}`}
+              href={`/san-pham/${product.id}`}
               className="flex gap-5 p-4 border border-[var(--border)] rounded-xl hover:border-primary/50 hover:shadow-xl hover:-translate-y-1 transition-all group bg-white"
             >
               <div className="w-[80px] h-[80px] flex-shrink-0 bg-[#F7F7F7] rounded-lg overflow-hidden relative">

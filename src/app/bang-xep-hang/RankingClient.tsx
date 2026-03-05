@@ -315,7 +315,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                 <div className="flex flex-col gap-4">
                     {displayedProducts.map((product, i) => (
                         <div key={product.id} className="relative group/card">
-                            <Link href={`/product/${product.id}`}
+                            <Link href={`/san-pham/${product.id}`}
                                 className="flex items-center gap-4 md:gap-6 p-4 border border-[var(--border)] rounded-xl hover:border-primary/50 hover:shadow-xl hover:-translate-y-0.5 transition-all group bg-white">
                                 <div className="w-8 text-center font-serif text-xl md:text-2xl font-bold text-gray-200 group-hover:text-primary/30 transition-colors">
                                     {String(i + 1).padStart(2, '0')}

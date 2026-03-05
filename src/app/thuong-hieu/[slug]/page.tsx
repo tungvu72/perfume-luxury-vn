@@ -58,7 +58,7 @@ export default async function BrandPage({ params }: { params: Promise<{ slug: st
                 <div className="container mx-auto px-5 py-4 flex justify-between items-center text-[10px] font-bold uppercase tracking-[2px]">
                     <div className="flex gap-8">
                         <span className="text-primary cursor-pointer hover:underline underline-offset-4">Tất cả</span>
-                        
+
                     </div>
                     <div className="flex gap-2 items-center text-gray-400">
                         Sắp xếp: <span className="text-foreground">Mới nhất ▼</span>
@@ -70,7 +70,7 @@ export default async function BrandPage({ params }: { params: Promise<{ slug: st
             <section className="container mx-auto px-5 py-24">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-16">
                     {brandProducts.length > 0 ? brandProducts.map((product, i) => (
-                        <Link key={i} href={`/product/${product.id}`} className="group animate-fade-up" style={{ animationDelay: `${i * 0.1}s` }}>
+                        <Link key={i} href={`/san-pham/${product.id}`} className="group animate-fade-up" style={{ animationDelay: `${i * 0.1}s` }}>
                             <div className="aspect-[3/4] bg-[#F7F7F7] rounded-3xl overflow-hidden mb-8 relative">
                                 <Image
                                     src={product.image}

@@ -74,6 +74,13 @@ export const getAllPosts = cache(async (): Promise<any[]> => {
                 const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
                 const fm = parseFrontmatter(raw);
 
+                // ─── DRAFT GATE ──────────────────────────────────────────────
+                // Chỉ hiển thị bài có status: published
+                // Bài không có status hoặc status: draft sẽ bị ẩn
+                const status = (fm['status'] || fm['Status'] || '').toLowerCase().trim();
+                if (status !== 'published') continue;
+                // ─────────────────────────────────────────────────────────────
+
                 // Body: nếu có --- block thì lấy phần sau; không thì dùng toàn bộ raw
                 const hasFrontmatter = raw.trimStart().startsWith('---') && raw.split('---').length >= 3;
                 const parts = raw.split('---');

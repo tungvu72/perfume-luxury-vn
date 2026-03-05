@@ -13,7 +13,7 @@ export default async function RelatedProducts({ current }: { current: Perfume })
             <h2 className="text-2xl font-serif mb-8">Có thể bạn cũng thích</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
                 {related.map((p) => (
-                    <Link key={p.id} href={`/product/${p.id}`} className="group">
+                    <Link key={p.id} href={`/san-pham/${p.id}`} className="group">
                         <div className="aspect-[3/4] bg-[#F5F5F5] rounded-xl overflow-hidden mb-3 relative">
                             <Image
                                 src={p.image}
