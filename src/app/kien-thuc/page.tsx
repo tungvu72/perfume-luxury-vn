@@ -14,6 +14,9 @@ export const metadata: Metadata = {
     }
 };
 
+export const revalidate = 3600; // ISR: re-generate sau 1 tiếng
+
+
 const PLACEHOLDER_IMAGE = "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=800";
 
 export default async function BlogPage() {

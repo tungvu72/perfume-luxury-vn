@@ -19,6 +19,8 @@ import RelatedProducts from '@/components/RelatedProducts';
 import RelatedArticles from '@/components/RelatedArticles';
 
 export const dynamicParams = true;
+export const revalidate = 3600; // ISR: re-generate sau 1 tiếng, đảm bảo content mới lên live không cần redeploy
+
 
 // Detect content type từ slug
 async function resolveSlug(slug: string) {

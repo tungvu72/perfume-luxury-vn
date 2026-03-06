@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   keywords: ["review nước hoa", "nước hoa chính hãng", "giá nước hoa", "maison de son", "scent dna"],
 };
 
+export const revalidate = 3600; // ISR: re-generate sau 1 tiếng
+
+
 // Giới tính icons — SVG stroke-based, hiện đại
 const GenderIcons = {
   male: (
