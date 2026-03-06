@@ -55,7 +55,8 @@ const PRODUCT_QUERY_FIELDS = `
     tags,
     sizes,
     basePrice,
-    "shopeeOffers": marketPlaceLinks[]{ "label": platform, "seller": platform, "price": price, "link": url, "image": "" }
+    "shopeeOffers": marketPlaceLinks[]{ "label": platform, "seller": platform, "price": price, "link": url, "image": "" },
+    perfumer
 `
 
 export const getAllProducts = cache(async (): Promise<Perfume[]> => {

@@ -215,9 +215,14 @@ export default function ProductClient({ product, relatedProducts, relatedArticle
                     <h1 className="text-4xl md:text-[52px] font-serif leading-[1.1] mb-2">
                         {product.name}
                     </h1>
-                    <div className="text-base text-gray-400 mb-3">{product.subName}</div>
-
-
+                    <div className="text-base text-gray-400 mb-1">{product.subName}</div>
+                    {product.perfumer && (
+                        <div className="flex items-center gap-1.5 text-xs text-gray-400 mb-4">
+                            <span className="text-gray-300">✦</span>
+                            <span>Tác giả:</span>
+                            <span className="font-semibold text-gray-600">{product.perfumer}</span>
+                        </div>
+                    )}
 
                     {/* BẢNG ĐIỂM TỔNG QUÁT */}
                     <div className="flex items-center gap-6 mb-8 p-5 bg-[#F9F9F9] rounded-xl">
