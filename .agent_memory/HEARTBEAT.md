@@ -3,12 +3,22 @@
 ## Khi bắt đầu mỗi session (MANDATORY)
 - [ ] Đọc `.agent_memory/MEMORY.md` — project state hiện tại
 - [ ] Đọc `.agent_memory/memory/[hôm-nay].md` — công việc đang dở
-- [ ] Check https://www.maisondeson.com/ — live site đang hiển thị gì?
+- [ ] Check **https://www.maisondeson.com/** — live site đang hiển thị gì? 🚫 **KHÔNG ĐƯỢC mở localhost:3000**
 - [ ] `git status` — có uncommitted changes không?
+- [ ] Nếu file log ngày hôm nay chưa tồn tại → copy `_TEMPLATE.md` → tạo `YYYY-MM-DD.md` mới
 - [ ] Báo cáo cho user: "Đang làm X, dở Y, vấn đề Z"
 
-## Sau mỗi hành động (MANDATORY — KHÔNG NGOẠI LỆ)
-Append vào `.agent_memory/memory/[YYYY-MM-DD].md`:
+## ⚡ KHI USER GIAO TASK MỚI (BẮT BUỘC — TRƯỚC KHI LÀM BẤT CỨ GÌ)
+1. Thêm task vào bảng "⏳ TODO HÔM NAY" trong `.agent_memory/memory/[YYYY-MM-DD].md` với trạng thái `⏳ Chưa làm`
+2. Chuyển sang `🔄 ĐANG LÀM` khi bắt đầu
+3. Ghi kết quả vào "✅ ĐÃ LÀM" khi xong
+
+## ⚠️ SAU MỖI TASK HOÀN THÀNH — BẮT BUỘC GHI LOG (KHÔNG NGOẠI LỆ)
+Append row vào bảng "✅ ĐÃ LÀM" trong `.agent_memory/memory/[YYYY-MM-DD].md`:
+```
+| N | HH:MM | Tên task | File/URL thay đổi | ✅/❌/⏳ |
+```
+Nếu action quan trọng (quyết định kiến trúc, chốt URL, thay đổi data) → update thêm `.agent_memory/MEMORY.md`
 ```
 ## HH:MM — [Action]
 - Làm gì: ...

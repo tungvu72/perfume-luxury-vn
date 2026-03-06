@@ -3,6 +3,7 @@ import { Perfume } from "../types";
 export const MASTER_PERFUMES: Perfume[] = [
     {
         id: "sauvage-elixir",
+        brandSlug: "dior",
         brand: "DIOR",
         name: "Sauvage Elixir",
         subName: "Parfum",
@@ -135,6 +136,7 @@ SWYI là chai "không thể sai" cho mùa lạnh. Ngọt ngào, sang trọng và
     },
     {
         id: "lattafa-khamrah",
+        brandSlug: "lattafa",
         brand: "LATTAFA",
         name: "Khamrah",
         subName: "Eau de Parfum",
@@ -206,7 +208,7 @@ Khamrah là món hời thực sự — budget chai nhưng trải nghiệm luxury
         subName: "Eau de Parfum",
         perfumer: "Olivier Polge",
         gender: "nam",
-        image: "https://fimgs.net/images/perfume/o.20477.jpg",
+        image: "https://fimgs.net/images/perfume/o.20477.jpg?v=2",
         images: [
             { url: "https://fimgs.net/photogram/p1200/r0/jh/v3WD9dpMHiKQCANv.jpg", source: "fragram", caption: "Bleu de Chanel trong không gian hiện đại" },
             { url: "https://fimgs.net/photogram/p1200/tx/uc/StD7ym9jNPfntflA.jpg", source: "fragram", caption: "Chai Bleu de Chanel EDP sang trọng" },
@@ -262,12 +264,13 @@ Bleu de Chanel EDP là "bộ vest xám" của nước hoa — không bao giờ s
     },
     {
         id: "ysl-black-opium",
+        brandSlug: "ysl",
         brand: "YVES SAINT LAURENT",
         name: "Black Opium",
         subName: "Eau de Parfum",
         perfumer: "Nathalie Lorson, Marie Salamagne, Olivier Cresp & Honorine Blanc",
         gender: "nu",
-        image: "https://fimgs.net/images/perfume/o.34170.jpg",
+        image: "https://fimgs.net/images/perfume/o.34170.jpg?v=2",
         images: [
             { url: "https://fimgs.net/photogram/p1200/pg/do/gPZJu6HCF1k6vNi0.jpg", source: "fragram", caption: "Black Opium trong không gian tối bí ẩn" },
             { url: "https://fimgs.net/photogram/p1200/gv/cm/oIBaXWckCsljEWm0.jpg", source: "fragram", caption: "Cận cảnh chai Black Opium quyến rũ" },
@@ -325,6 +328,7 @@ Nếu bạn muốn một chai nữ có dấu ấn cá nhân không thể nhầm 
     },
     {
         id: "creed-aventus",
+        brandSlug: "creed",
         brand: "CREED",
         name: "Aventus",
         subName: "Eau de Parfum",
@@ -395,7 +399,7 @@ Aventus không phải chai "wow ngay" — là chai bạn muốn đeo mãi sau nh
         subName: "Eau de Parfum",
         perfumer: "Francis Kurkdjian",
         gender: "unisex",
-        image: "https://fimgs.net/images/perfume/o.57088.jpg",
+        image: "https://fimgs.net/images/perfume/o.57088.jpg?v=2",
         images: [
             { url: "https://fimgs.net/photogram/p1200/kx/1f/hjWb9IjXjjnGgG5Z.jpg", source: "fragram", caption: "Baccarat Rouge 540 — chai của thập kỷ" },
             { url: "https://fimgs.net/photogram/p1200/dt/hc/MUpUzcXkyrz09FHQ.jpg", source: "fragram", caption: "Cận cảnh chai pha lê Baccarat" },
@@ -451,12 +455,13 @@ BR540 là cultural phenomenon xứng đáng với giá tiền nếu bạn hiểu
     },
     {
         id: "tom-ford-noir-extreme",
+        brandSlug: "tom-ford",
         brand: "TOM FORD",
         name: "Noir Extreme",
         subName: "Eau de Parfum",
         perfumer: "Sonia Constant (Givaudan)",
         gender: "nam",
-        image: "https://fimgs.net/images/perfume/o.30516.jpg",
+        image: "https://fimgs.net/images/perfume/o.30516.jpg?v=2",
         images: [
             { url: "https://fimgs.net/photogram/p1200/oi/vc/EqaG5B5K1A7gIOsc.jpg", source: "fragram", caption: "Tom Ford Noir Extreme — bóng tối sang trọng" },
             { url: "https://fimgs.net/photogram/p1200/os/ig/0pYeqgAhpFvBveOW.jpg", source: "fragram", caption: "Cận cảnh chai đen bóng Tom Ford" },

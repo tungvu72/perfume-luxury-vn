@@ -1,5 +1,5 @@
 # MEMORY.md — Bộ Não Chính của Antigravity Agent
-*Cập nhật: 2026-03-05 23:12 ICT*
+*Cập nhật: 2026-03-06 13:55 ICT*
 
 ---
 
@@ -138,7 +138,7 @@ openclaw/
 
 ## ❌ SAI LẦM CẦN TRÁNH
 1. **Đừng sửa fetchers.ts không cần thiết** — website đang dùng mockData fallback, hoạt động tốt
-2. **Đừng làm với localhost mà quên live site** — luôn kiểm tra https://www.maisondeson.com/
+2. **🚫 TUYỆT ĐỐI KHÔNG check localhost** — Luôn kiểm tra trực tiếp https://www.maisondeson.com/ trên browser. Đừng bao giờ mở localhost:3000 để verify.
 3. **Đừng commit code chưa test build** — phải `npm run build` hoặc dev server OK trước
 4. **mockData.ts article field** — phải là string hợp lệ, không để text rơi ra ngoài
 5. **ĐỪNG dùng `&&` trong PowerShell** — dùng `;` thay thế

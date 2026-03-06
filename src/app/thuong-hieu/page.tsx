@@ -100,7 +100,7 @@ export default async function BrandsIndexPage() {
                                     return (
                                         <Link
                                             key={brandName}
-                                            href={`/thuong-hieu/${brandData.slug}`}
+                                            href={`/${brandData.slug}`}
                                             className="flex items-center justify-between py-3 px-3 -mx-3 rounded-lg hover:bg-gray-50 transition-colors group"
                                         >
                                             <span className="text-sm font-semibold tracking-wide uppercase group-hover:text-primary transition-colors">
