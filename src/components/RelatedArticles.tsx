@@ -26,7 +26,7 @@ export default async function RelatedArticles({ product }: { product: Perfume })
             {related.map(post => (
                 <Link
                     key={post.fullSlug}
-                    href={`/kien-thuc/${post.fullSlug}`}
+                    href={`/${post.fullSlug}`}
                     className="flex items-start gap-4 group hover:bg-gray-50 rounded-xl p-3 -mx-3 transition-colors"
                 >
                     <div className="flex-shrink-0 w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center text-lg">

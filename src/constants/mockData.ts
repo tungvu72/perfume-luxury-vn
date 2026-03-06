@@ -273,8 +273,8 @@ Bleu de Chanel EDP là "bộ vest xám" của nước hoa — không bao giờ s
         image: "https://fimgs.net/images/perfume/o.34170.jpg?v=2",
         images: [
             { url: "https://fimgs.net/photogram/p1200/pg/do/gPZJu6HCF1k6vNi0.jpg", source: "fragram", caption: "Black Opium trong không gian tối bí ẩn" },
-            { url: "https://fimgs.net/photogram/p1200/gv/cm/oIBaXWckCsljEWm0.jpg", source: "fragram", caption: "Cận cảnh chai Black Opium quyến rũ" },
-            { url: "https://fimgs.net/photogram/p1200/nq/ek/Re6LnbncJKFXlTaY.jpg", source: "fragram", caption: "Black Opium — huyền thoại nước hoa nữ" }
+            { url: "https://fimgs.net/photogram/p1200/yb/yz/Y0Y4yQtuzSrnukfa.jpg", source: "fragram", caption: "Cận cảnh chai Black Opium quyến rũ" },
+            { url: "https://fimgs.net/photogram/p1200/ar/ho/x0nQ7ILJhEsUUMvt.jpg", source: "fragram", caption: "Black Opium — huyền thoại nước hoa nữ" }
         ],
         description: "Huyền thoại nước hoa nữ của YSL — cà phê đen, hoa nhài và vani tạo rock-chic, táo bạo nhưng vẫn nữ tính. Bestseller toàn cầu hơn một thập kỷ.",
         article: `YSL Black Opium — Định nghĩa lại nước hoa nữ hiện đại.
@@ -402,7 +402,7 @@ Aventus không phải chai "wow ngay" — là chai bạn muốn đeo mãi sau nh
         image: "https://fimgs.net/images/perfume/o.57088.jpg?v=2",
         images: [
             { url: "https://fimgs.net/photogram/p1200/kx/1f/hjWb9IjXjjnGgG5Z.jpg", source: "fragram", caption: "Baccarat Rouge 540 — chai của thập kỷ" },
-            { url: "https://fimgs.net/photogram/p1200/dt/hc/MUpUzcXkyrz09FHQ.jpg", source: "fragram", caption: "Cận cảnh chai pha lê Baccarat" },
+            { url: "https://fimgs.net/photogram/p1200/ay/ib/PMAZHYUMNNXlNvIY.jpg", source: "fragram", caption: "Cận cảnh chai pha lê Baccarat trứ danh" },
             { url: "https://fimgs.net/photogram/p1200/oo/rz/huWZtIG3jiBsGFRL.jpg", source: "fragram", caption: "BR540 — hiện tượng văn hóa nước hoa" }
         ],
         description: "Hiện tượng nước hoa của thập kỷ. Amberwood + hoa nhài + nhựa thông = mùi hương không thể định nghĩa nhưng không thể quên.",

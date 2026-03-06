@@ -155,7 +155,7 @@ export default async function AuthorProfilePage(
                                 {authorPosts.map(post => (
                                     <Link
                                         key={post.slug}
-                                        href={`/kien-thuc/${post.slug}`}
+                                        href={`/${post.slug}`}
                                         className="group flex gap-4 p-4 border border-[var(--border)] rounded-xl hover:shadow-md hover:border-primary/20 transition-all"
                                     >
                                         {/* Thumbnail */}
