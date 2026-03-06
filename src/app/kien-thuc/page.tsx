@@ -40,7 +40,7 @@ export default async function BlogPage() {
                 {posts.length > 0 ? (
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {posts.map((post) => (
-                            <Link key={post.slug} href={`/${post.slug}`} className="group flex flex-col">
+                            <Link key={post.fullSlug} href={`/${post.fullSlug}`} className="group flex flex-col">
                                 {/* Image */}
                                 <div className="aspect-[16/10] bg-gray-100 rounded-xl overflow-hidden mb-4 relative flex-shrink-0">
                                     <Image
