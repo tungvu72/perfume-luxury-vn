@@ -526,7 +526,7 @@ export default function ProductClient({ product, relatedProducts, relatedArticle
                                                                 return subParts.map((sp, sIdx) => {
                                                                     if (sp.toLowerCase() === searchName.toLowerCase() && !linked) {
                                                                         linked = true;
-                                                                        return <Link key={sIdx} href={`/san-pham/${product.id}`} className="text-primary font-bold border-b border-primary/30 hover:border-primary transition-colors">{sp}</Link>;
+                                                                        return <Link key={sIdx} href={`/${product.id}`} className="text-primary font-bold border-b border-primary/30 hover:border-primary transition-colors">{sp}</Link>;
                                                                     }
                                                                     return sp;
                                                                 });
@@ -541,6 +541,47 @@ export default function ProductClient({ product, relatedProducts, relatedArticle
                                         return <p key={i} className="mb-6 text-[16px] md:text-base leading-[1.75] text-gray-900">{content}</p>;
                                     });
                                 })()}
+                            </div>
+                        </section>
+                    )}
+
+                    {/* ===== BẢNG GIÁ THEO SIZE ===== */}
+                    {product.sizes && product.sizes.length > 0 && (
+                        <section className="border border-[var(--border)] rounded-xl overflow-hidden mb-8">
+                            <div className="flex items-center justify-between px-5 py-3 bg-[#F9F9F9] border-b border-[var(--border)]">
+                                <h3 className="text-xs font-bold uppercase tracking-wider text-gray-500">💰 Bảng giá tham khảo</h3>
+                                <span className="text-[10px] text-gray-400 italic">Nguồn: kenperfume.com · {currentMonthYear}</span>
+                            </div>
+                            <div className="divide-y divide-[var(--border)]">
+                                {product.sizes.map((size, i) => {
+                                    const isDecant = size.toLowerCase().includes('chiết');
+                                    // Tính giá tương đối theo size (estimate)
+                                    const ml = parseInt(size);
+                                    const pricePerMl = product.basePrice > 0 ? product.basePrice / (product.sizes.find(s => !s.toLowerCase().includes('chiết')) ? parseInt(product.sizes.find(s => !s.toLowerCase().includes('chiết')) || '100') : 100) : 0;
+                                    const estimatedPrice = isDecant && ml ? Math.round(pricePerMl * ml / 10000) * 10000 : null;
+                                    return (
+                                        <div key={i} className="flex items-center justify-between px-5 py-3 hover:bg-gray-50 transition-colors">
+                                            <div className="flex items-center gap-3">
+                                                <span className={`text-[9px] font-bold px-2 py-0.5 rounded-full ${isDecant ? 'bg-blue-50 text-blue-600' : 'bg-amber-50 text-amber-600'}`}>
+                                                    {isDecant ? 'CHIẾT' : 'FULLBOX'}
+                                                </span>
+                                                <span className="text-sm font-semibold">{size}</span>
+                                            </div>
+                                            <div className="text-right">
+                                                {i === product.sizes.length - 1 && product.basePrice > 0 ? (
+                                                    <span className="text-sm font-bold text-gray-900">{product.basePrice.toLocaleString()}đ</span>
+                                                ) : estimatedPrice ? (
+                                                    <span className="text-sm font-semibold text-gray-500">~{estimatedPrice.toLocaleString()}đ</span>
+                                                ) : (
+                                                    <span className="text-xs text-gray-400 italic">Liên hệ</span>
+                                                )}
+                                            </div>
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                            <div className="px-5 py-3 bg-[#F9F9F9] border-t border-[var(--border)]">
+                                <p className="text-[10px] text-gray-400">⚠️ Giá tham khảo, có thể thay đổi. <Link href="https://zalo.me/0961226169" className="text-primary font-bold hover:underline">Hỏi giá chính xác qua Zalo →</Link></p>
                             </div>
                         </section>
                     )}
