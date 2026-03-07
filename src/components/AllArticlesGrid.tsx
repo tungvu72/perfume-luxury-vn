@@ -15,6 +15,7 @@ type Post = {
 
 type Props = {
   posts: Post[];
+  excludeSlugs?: string[];
 };
 
 function formatDate(date?: string | null) {
@@ -24,7 +25,11 @@ function formatDate(date?: string | null) {
   return parsed.toLocaleDateString("vi-VN");
 }
 
-export default function AllArticlesGrid({ posts }: Props) {
+export default function AllArticlesGrid({ posts, excludeSlugs = [] }: Props) {
+  const filtered = posts.filter((p) => !excludeSlugs.includes(p.fullSlug));
+
+  if (filtered.length === 0) return null;
+
   return (
     <section id="tat-ca-bai-viet" className="mx-auto max-w-[1200px] px-4 py-8 sm:px-5 sm:py-10 lg:py-12">
       <div className="mb-5 flex items-end justify-between gap-4">
@@ -35,7 +40,7 @@ export default function AllArticlesGrid({ posts }: Props) {
       </div>
 
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6">
-        {posts.map((post) => (
+        {filtered.map((post) => (
           <Link
             key={post.fullSlug}
             href={`/${post.fullSlug}`}
@@ -53,11 +58,13 @@ export default function AllArticlesGrid({ posts }: Props) {
             </div>
 
             <div className="flex flex-1 flex-col p-5">
-              <div className="mb-3 flex flex-wrap items-center gap-2 text-[10px] font-semibold uppercase tracking-[0.16em] text-gray-400">
-                <span className="rounded-full bg-[#f5efe8] px-3 py-1 text-primary">{post.category || "Kiến thức"}</span>
-                <span>{formatDate(post.publishedAt)}</span>
-                <span>•</span>
-                <span>{post.readTime}</span>
+              <div className="mb-3 flex flex-wrap items-center gap-x-2 gap-y-1">
+                <span className="rounded-full bg-[#f5efe8] px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-[0.12em] text-primary">
+                  {post.category || "Kiến thức"}
+                </span>
+                <span className="text-[10px] text-gray-400">
+                  {formatDate(post.publishedAt)} · {post.readTime}
+                </span>
               </div>
 
               <h3 className="line-clamp-2 text-base font-semibold leading-7 text-[var(--foreground)] transition group-hover:text-primary">

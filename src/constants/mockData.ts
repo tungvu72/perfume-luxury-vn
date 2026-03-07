@@ -67,7 +67,7 @@ Dior Sauvage Elixir là khoản đầu tư xứng đáng. Hiệu năng vượt x
             { name: "Oải hương", value: 65, color: "#9b59b6" }
         ],
         sizes: ["10ml Chiết", "60ml Fullbox", "100ml Fullbox"],
-        basePrice: 4200000,
+        basePrice: 5400000,
         tags: ["Sát Thủ Hẹn Hò", "Siêu Lưu Toả", "Tiệc Tối", "Mùa Đông"],
         shopeeOffers: []
     },
@@ -323,7 +323,7 @@ Nếu bạn muốn một chai nữ có dấu ấn cá nhân không thể nhầm 
         ],
         tags: ["Best Seller", "Hẹn Hò", "Tiệc Tối", "Thu Đông"],
         sizes: ["10ml Chiết", "30ml Fullbox", "90ml Fullbox"],
-        basePrice: 3800000,
+        basePrice: 2550000,
         shopeeOffers: []
     },
     {
@@ -388,7 +388,7 @@ Aventus không phải chai "wow ngay" — là chai bạn muốn đeo mãi sau nh
         ],
         tags: ["Niche", "Flagship", "Thu Đông", "Collector"],
         sizes: ["5ml Chiết", "10ml Chiết", "100ml Fullbox"],
-        basePrice: 8500000,
+        basePrice: 8000000,
         shopeeOffers: []
     },
     {
@@ -450,7 +450,7 @@ BR540 là cultural phenomenon xứng đáng với giá tiền nếu bạn hiểu
         ],
         tags: ["Niche", "Unisex", "Bestseller", "Statement"],
         sizes: ["5ml Chiết", "10ml Chiết", "70ml EDP", "70ml Extrait"],
-        basePrice: 6500000,
+        basePrice: 6700000,
         shopeeOffers: []
     },
     {
@@ -513,7 +513,7 @@ Noir Extreme là chai Tom Ford "dễ yêu" nhất — không đáng sợ như Ou
         ],
         tags: ["Tom Ford", "Niche", "Tiệc Tối", "Thu Đông"],
         sizes: ["5ml Chiết", "10ml Chiết", "50ml EDP", "100ml EDP"],
-        basePrice: 5200000,
+        basePrice: 4000000,
         shopeeOffers: []
     }
 ];

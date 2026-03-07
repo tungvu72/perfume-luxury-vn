@@ -29,6 +29,11 @@ export default async function BlogPage() {
   const secondary = posts.slice(1, 3);
   const starterPath = posts.slice(0, Math.min(posts.length, 4));
 
+  // Slugs của bài đã featured — để AllArticlesGrid loại trùng
+  const featuredSlugs = [featured, ...secondary]
+    .filter(Boolean)
+    .map((p: any) => p.fullSlug);
+
   return (
     <main className="min-h-screen bg-white pb-20">
       <Header />
@@ -36,10 +41,11 @@ export default async function BlogPage() {
       <KnowledgeChips />
       <FeaturedArticles featured={featured} secondary={secondary} />
       <StarterPath posts={starterPath} />
-      <AllArticlesGrid posts={posts} />
+      <AllArticlesGrid posts={posts} excludeSlugs={featuredSlugs} />
       <MaisonMethodBlock />
       <KnowledgeCTA />
       <Footer />
     </main>
   );
 }
+

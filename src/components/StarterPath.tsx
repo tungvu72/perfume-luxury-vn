@@ -1,5 +1,14 @@
 ﻿import Link from "next/link";
 
+// Thứ tự editorial cố định — curated by Coder Bot
+// 1. Kiến thức nền → 2. Ứng dụng thực tế → 3. Học cách so sánh → 4. Chiều sâu
+const CURATED_ORDER = [
+  "mau-d5-how-to-edp-edt-khac-nhau",
+  "mau-d2-buying-guide-nuoc-hoa-van-phong",
+  "mau-d4-so-sanh-sauvage-edp-vs-elixir",
+  "mau-d6-brand-story-maison-francis-kurkdjian",
+];
+
 type Post = {
   fullSlug: string;
   title: string;
@@ -12,6 +21,16 @@ type Props = {
 export default function StarterPath({ posts }: Props) {
   if (!posts.length) return null;
 
+  // Sắp xếp theo thứ tự curated — bài nào không có thì lấy theo thứ tự gốc
+  const curated = CURATED_ORDER
+    .map((slug) => posts.find((p) => p.fullSlug === slug))
+    .filter(Boolean) as Post[];
+
+  // Nếu curated thiếu bài, bổ sung từ posts gốc (không trùng)
+  const curatedSlugs = new Set(curated.map((p) => p.fullSlug));
+  const extras = posts.filter((p) => !curatedSlugs.has(p.fullSlug));
+  const display = [...curated, ...extras].slice(0, 4);
+
   return (
     <section id="bat-dau" className="mx-auto max-w-[1200px] px-4 py-4 sm:px-5 sm:py-6">
       <div className="rounded-3xl border border-[var(--border)] bg-[#fcfbf9] p-5 sm:p-6 lg:p-8">
@@ -22,7 +41,7 @@ export default function StarterPath({ posts }: Props) {
         </p>
 
         <div className="mt-6 grid gap-3 md:grid-cols-2">
-          {posts.map((post, index) => (
+          {display.map((post, index) => (
             <Link
               key={post.fullSlug}
               href={`/${post.fullSlug}`}

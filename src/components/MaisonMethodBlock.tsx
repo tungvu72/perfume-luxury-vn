@@ -2,7 +2,7 @@
 
 export default function MaisonMethodBlock() {
   return (
-    <section className="mx-auto max-w-[1200px] px-4 py-4 sm:px-5 sm:py-6">
+    <section id="maison-method" className="mx-auto max-w-[1200px] px-4 py-4 sm:px-5 sm:py-6">
       <div className="rounded-3xl border border-[var(--border)] bg-[#111111] p-5 text-white sm:p-6 lg:p-8">
         <p className="text-[11px] font-bold uppercase tracking-[0.24em] text-white/70">Maison Method</p>
         <h2 className="mt-2 text-2xl font-serif">Maison De Son review nước hoa như thế nào?</h2>

@@ -29,7 +29,7 @@ export default function FeaturedArticles({ featured, secondary }: Props) {
   if (!featured) return null;
 
   return (
-    <section className="mx-auto max-w-[1200px] px-4 py-8 sm:px-5 sm:py-10 lg:py-12">
+    <section id="featured" className="mx-auto max-w-[1200px] px-4 py-8 sm:px-5 sm:py-10 lg:py-12">
       <div className="mb-5 flex items-end justify-between gap-4">
         <div>
           <p className="text-[11px] font-bold uppercase tracking-[0.24em] text-primary">Nổi bật</p>
@@ -53,11 +53,9 @@ export default function FeaturedArticles({ featured, secondary }: Props) {
             />
           </div>
           <div className="p-5 sm:p-6">
-            <div className="mb-3 flex flex-wrap items-center gap-2 text-[11px] font-semibold uppercase tracking-[0.18em] text-gray-400">
-              <span className="rounded-full bg-[#f5efe8] px-3 py-1 text-primary">{featured.category || "Kiến thức"}</span>
-              <span>{formatDate(featured.publishedAt)}</span>
-              <span>•</span>
-              <span>{featured.readTime}</span>
+            <div className="mb-3 flex flex-wrap items-center gap-x-2 gap-y-1">
+              <span className="rounded-full bg-[#f5efe8] px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-[0.12em] text-primary">{featured.category || "Kiến thức"}</span>
+              <span className="text-[10px] text-gray-400">{formatDate(featured.publishedAt)} · {featured.readTime}</span>
             </div>
             <h3 className="text-xl font-semibold leading-snug text-[var(--foreground)] transition group-hover:text-primary sm:text-2xl">
               {featured.title}
@@ -87,9 +85,9 @@ export default function FeaturedArticles({ featured, secondary }: Props) {
                 />
               </div>
               <div className="min-w-0 flex-1">
-                <div className="mb-2 flex flex-wrap items-center gap-2 text-[10px] font-semibold uppercase tracking-[0.16em] text-gray-400">
-                  <span className="rounded-full bg-[#f5efe8] px-2.5 py-1 text-primary">{post.category || "Kiến thức"}</span>
-                  <span>{post.readTime}</span>
+                <div className="mb-2 flex flex-wrap items-center gap-x-2 gap-y-1">
+                  <span className="rounded-full bg-[#f5efe8] px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-[0.12em] text-primary">{post.category || "Kiến thức"}</span>
+                  <span className="text-[10px] text-gray-400">{post.readTime}</span>
                 </div>
                 <h3 className="line-clamp-2 text-sm font-semibold leading-6 text-[var(--foreground)] transition group-hover:text-primary sm:text-base">
                   {post.title}
