@@ -303,15 +303,16 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                             <article className="
                                 prose prose-base max-w-none
                                 prose-headings:font-serif prose-headings:text-gray-900 prose-headings:font-semibold
-                                prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:border-b prose-h2:border-gray-100 prose-h2:pb-2
-                                prose-h3:text-lg prose-h3:mt-7 prose-h3:mb-3
-                                prose-p:text-[15px] prose-p:text-gray-700 prose-p:leading-[1.8] prose-p:my-4
-                                prose-li:text-[15px] prose-li:text-gray-700 prose-li:leading-[1.8]
+                                prose-h2:text-xl prose-h2:mt-12 prose-h2:mb-5 prose-h2:border-b prose-h2:border-gray-100 prose-h2:pb-3
+                                prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-4
+                                prose-p:text-base prose-p:text-gray-700 prose-p:leading-[1.9] prose-p:my-5
+                                prose-li:text-base prose-li:text-gray-700 prose-li:leading-[1.9] prose-li:mb-1
+                                prose-ul:my-5 prose-ol:my-5 prose-ul:space-y-1 prose-ol:space-y-1
                                 prose-strong:text-gray-900 prose-strong:font-semibold
                                 prose-a:text-primary prose-a:no-underline hover:prose-a:underline
-                                prose-blockquote:border-l-4 prose-blockquote:border-gray-300 prose-blockquote:pl-4 prose-blockquote:text-gray-600
-                                prose-hr:border-gray-200 prose-hr:my-8
-                                prose-img:rounded-lg prose-img:my-6 prose-img:w-full
+                                prose-blockquote:border-l-4 prose-blockquote:border-primary/30 prose-blockquote:pl-5 prose-blockquote:py-1 prose-blockquote:text-gray-600 prose-blockquote:bg-[#faf8f5] prose-blockquote:rounded-r-lg prose-blockquote:not-italic
+                                prose-hr:border-gray-200 prose-hr:my-10
+                                prose-img:rounded-xl prose-img:my-8 prose-img:w-full
                                 prose-table:text-sm prose-th:p-3 prose-th:border prose-th:border-gray-200 prose-th:bg-gray-50 prose-th:font-semibold
                                 prose-td:p-3 prose-td:border prose-td:border-gray-100
                             ">
