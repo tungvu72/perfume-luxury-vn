@@ -161,28 +161,37 @@ Nếu bạn thích hướng ngọt ấm, nổi bật và muốn trải nghiệm 
     gender: "nam",
     image: "https://fimgs.net/images/perfume/o.20477.jpg?v=2",
     images: [
-      { url: "https://fimgs.net/photogram/p1200/r0/jh/v3WD9dpMHiKQCANv.jpg", source: "fragram", caption: "Bleu de Chanel trong bối cảnh hiện đại" },
-      { url: "https://fimgs.net/photogram/p1200/tx/uc/StD7ym9jNPfntflA.jpg", source: "fragram", caption: "Chai Bleu de Chanel EDP" },
-      { url: "https://fimgs.net/photogram/p1200/lp/0x/Tcp2wAYGZrFnrLwl.jpg", source: "fragram", caption: "Một trong những chai nam dễ dùng nhất của Chanel" }
+      { url: "https://fimgs.net/images/perfume/o.20477.jpg?v=2", source: "studio", caption: "Bleu de Chanel Eau de Parfum - ảnh packshot chính diện" },
+      { url: "https://fimgs.net/images/perfume/o.20477.jpg?v=2", source: "studio", caption: "Bleu de Chanel EDP với thiết kế xanh đen đặc trưng" },
+      { url: "https://fimgs.net/images/perfume/o.20477.jpg?v=2", source: "studio", caption: "Phiên bản Eau de Parfum của Bleu de Chanel" }
     ],
     description: "Bleu de Chanel EDP là kiểu nước hoa nam rất dễ giới thiệu cho người mới: sạch, chỉn chu, có chiều sâu vừa đủ và dùng được trong nhiều hoàn cảnh mà không bị quá nặng.",
-    article: `Bleu de Chanel EDP là một trong những chai nam an toàn nhưng vẫn đáng tiền nhất nếu bạn cần một mùi hương có thể dùng lâu dài.
+    article: `Bleu de Chanel Eau de Parfum là một trong những chai nam quan trọng nhất của Chanel ở thời hiện đại, và cũng là phiên bản được nhiều người xem là cân bằng nhất trong cả dòng Bleu de Chanel.
+
+### Nguồn gốc và xuất xứ
+Bleu de Chanel thuộc nhà Chanel - thương hiệu thời trang và làm đẹp cao cấp của Pháp. Dòng Bleu de Chanel được định vị là trục nước hoa nam hiện đại, lịch sự và dễ ứng dụng rộng rãi hơn các dòng cổ điển trước đó của hãng.
+
+### Ra mắt khi nào?
+Bleu de Chanel Eau de Toilette ra mắt trước vào năm 2010, do Jacques Polge sáng tạo. Phiên bản Eau de Parfum ra mắt năm 2014, do Olivier Polge phát triển thêm theo hướng sâu hơn, ấm hơn và trưởng thành hơn. Sau đó dòng này có thêm bản Parfum ra mắt năm 2018.
+
+### Câu chuyện ra đời
+Bleu de Chanel được xây trên ý tưởng về sự tự do, độc lập và nam tính hiện đại theo ngôn ngữ của Chanel. Nếu bản EDT thiên về cảm giác tươi, sắc và dễ bật lên ngay từ đầu, thì bản EDP đi theo hướng mượt hơn, sang hơn và linh hoạt hơn trong sử dụng thực tế.
+
+### Dòng Bleu de Chanel hiện có những phiên bản nào?
+- Bleu de Chanel EDT (2010): tươi hơn, sáng hơn, sắc nét hơn
+- Bleu de Chanel EDP (2014): cân bằng giữa độ tươi, chiều sâu và sự đa dụng
+- Bleu de Chanel Parfum (2018): ấm hơn, dày hơn, thiên buổi tối hơn
 
 ### Mùi hương mang lại cảm giác gì?
-Mở đầu là citrus sáng, sạch và gọn. Sau đó mùi chuyển sang hướng gỗ thơm và trầm hương nhẹ, tạo cảm giác nam tính, lịch sự và dễ gần hơn nhiều chai quá sắc hoặc quá ngọt.
+Bleu de Chanel EDP mở đầu bằng citrus sạch và sáng, sau đó chuyển sang gừng, nhục đậu khấu, gỗ và trầm hương nhẹ. Tổng thể cho cảm giác nam tính, lịch sự, gọn gàng và dễ tạo thiện cảm trong nhiều môi trường khác nhau.
 
 ### Khi nào nên dùng?
 - Đi làm, gặp khách, môi trường văn phòng
 - Hẹn hò nhẹ nhàng hoặc đi chơi buổi tối không quá formal
 - Người muốn một chai nam sang nhưng ít rủi ro khi blind buy
 
-### Điểm mạnh nổi bật
-- Dễ dùng quanh năm
-- Hợp nhiều độ tuổi
-- Giữ được cảm giác sang và sạch mà không quá phô trương
-
 ### Maison de SON verdict
-Nếu chỉ giữ một chai designer nam để dùng đa dụng, Bleu de Chanel EDP gần như luôn nằm trong nhóm đáng cân nhắc đầu tiên.`,
+Nếu chỉ giữ một chai designer nam để dùng đa dụng, Bleu de Chanel EDP gần như luôn nằm trong nhóm đáng cân nhắc đầu tiên vì nó cân bằng tốt giữa sự sang, độ an toàn và tính ứng dụng.`,
     verdict: "Một chai nam đa dụng rất mạnh: sạch, sang, lịch sự và đủ chiều sâu để không bị nhạt. Hợp cho người cần sự an toàn nhưng vẫn muốn có đẳng cấp.",
     verdictShort: "ĐA DỤNG, SẠCH VÀ SANG",
     score: { scent: 8.9, uniqueness: 7.4, compliments: 9.1, value: 7.8, total: 8.3 },
