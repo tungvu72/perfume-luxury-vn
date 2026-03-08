@@ -326,11 +326,11 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
     return (
         <>
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-            <main className="min-h-screen bg-white pb-20">
+            <main className="min-h-screen bg-[#fcfaf7] pb-20">
                 <ScrollProgress />
                 <Header />
                 <div className="w-full relative overflow-hidden" style={{ background: '#111', minHeight: '240px' }}>
-                    <div className="relative w-full" style={{ paddingTop: 'min(55%, 480px)' }}>
+                    <div className="relative w-full" style={{ paddingTop: 'min(52%, 460px)' }}>
                         <Image
                             src={post.mainImage || PLACEHOLDER_IMAGE}
                             alt={post.title}
@@ -358,15 +358,24 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 <span>/</span>
                                 <span className="text-gray-600 line-clamp-1">{post.title}</span>
                             </nav>
-                            <h1 className="text-3xl md:text-[40px] font-serif font-bold mt-2 mb-4 leading-tight text-gray-900">{post.title}</h1>
-                            <div className="flex flex-wrap items-center gap-3 text-[11px] text-gray-400 font-semibold mb-6 pb-5 border-b border-[var(--border)]">
-                                <Link href="/maison-editorial" className="text-gray-600 hover:text-primary transition-colors">{post.author || 'Maison de SON Editorial'}</Link>
-                                {formattedDate && <><span>•</span><span>{formattedDate}</span></>}
-                                {post.readTime && <><span>•</span><span>⏱ {post.readTime}</span></>}
-                                {post.publishedAt && (Date.now() - new Date(post.publishedAt).getTime()) < 7 * 24 * 60 * 60 * 1000 && (
-                                    <span className="bg-emerald-100 text-emerald-700 px-2 py-0.5 rounded-full text-[9px] font-bold">🟢 MỚI</span>
-                                )}
-                            </div>
+
+                            <section className="mb-8 rounded-[28px] border border-[#eadfce] bg-white p-6 shadow-[0_18px_45px_rgba(27,18,13,0.04)] md:p-8">
+                                <div className="flex flex-wrap items-center gap-3">
+                                    {post.category && (
+                                        <span className={`text-[10px] font-bold tracking-[2px] uppercase px-3 py-1.5 rounded-full border ${tagColorClass}`}>{post.category}</span>
+                                    )}
+                                    {post.publishedAt && (Date.now() - new Date(post.publishedAt).getTime()) < 7 * 24 * 60 * 60 * 1000 && (
+                                        <span className="bg-emerald-100 text-emerald-700 px-2.5 py-1 rounded-full text-[10px] font-bold">Mới cập nhật</span>
+                                    )}
+                                </div>
+                                <h1 className="text-3xl md:text-[44px] font-serif font-bold mt-4 leading-tight text-gray-900">{post.title}</h1>
+                                <p className="mt-4 max-w-3xl text-sm leading-7 text-gray-600 md:text-base">{post.excerpt || 'Bài viết chia sẻ kiến thức, trải nghiệm thực tế và góc nhìn chọn mua nước hoa rõ ràng hơn cho người Việt.'}</p>
+                                <div className="mt-5 flex flex-wrap items-center gap-3 text-[11px] text-gray-400 font-semibold border-t border-[var(--border)] pt-5">
+                                    <Link href="/maison-editorial" className="text-gray-600 hover:text-primary transition-colors">{post.author || 'Maison de SON Editorial'}</Link>
+                                    {formattedDate && <><span>•</span><span>{formattedDate}</span></>}
+                                    {post.readTime && <><span>•</span><span>⏱ {post.readTime}</span></>}
+                                </div>
+                            </section>
                             <article className="
                                 prose prose-base max-w-none
                                 prose-headings:font-serif prose-headings:text-gray-900 prose-headings:font-semibold
@@ -400,7 +409,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                             <div className="mt-6 pt-5 border-t border-[var(--border)]">
                                 <ArticleShare title={post.title} />
                             </div>
-                            <div className="mt-6 p-5 bg-[#FAFAFA] rounded-2xl border border-[var(--border)] flex gap-4 items-start">
+                            <div className="mt-6 p-5 bg-white rounded-2xl border border-[#eadfce] flex gap-4 items-start shadow-[0_12px_35px_rgba(27,18,13,0.03)]">
                                 <div className="w-12 h-12 rounded-full overflow-hidden flex-shrink-0 bg-gray-100 relative">
                                     <Image src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100&h=100" alt="Maison de SON" fill sizes="48px" className="object-cover" />
                                 </div>
@@ -410,11 +419,12 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     <Link href="/maison-editorial" className="text-[10px] font-bold text-primary mt-1 inline-block hover:underline">Xem tất cả bài viết →</Link>
                                 </div>
                             </div>
-                            <section className="mt-8 pt-6 border-t border-[var(--border)]">
-                                <h2 className="text-lg font-serif font-bold mb-2">Bạn có câu hỏi về bài này?</h2>
-                                <p className="text-sm text-gray-500 mb-4">Review thực tế của bạn có khác? Hãy chia sẻ — tao đọc và phản hồi mọi tin nhắn.</p>
+                            <section className="mt-8 rounded-[28px] border border-[#eadfce] bg-[#f7f2eb] p-5 sm:p-6">
+                                <h2 className="text-lg font-serif font-bold mb-2 text-[#1b120d]">Cần gợi ý mùi phù hợp sau khi đọc bài này?</h2>
+                                <p className="text-sm text-gray-600 mb-4 leading-7">Nếu bạn vẫn đang phân vân giữa vài lựa chọn, cứ nhắn Zalo. Maison de SON sẽ gợi ý theo gu mùi, ngân sách và hoàn cảnh dùng thực tế.</p>
                                 <div className="flex flex-col sm:flex-row gap-3">
                                     <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 px-5 py-3 bg-[#0068FF] text-white text-sm font-bold rounded-full hover:opacity-90">💬 Hỏi qua Zalo</a>
+                                    <Link href="/bang-xep-hang" className="flex items-center justify-center gap-2 px-5 py-3 border border-[#decfbd] text-[#4b3b30] text-sm font-bold rounded-full hover:border-primary hover:text-primary">Xem bảng xếp hạng</Link>
                                 </div>
                             </section>
                             <div className="mt-8">
@@ -440,8 +450,8 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                         </div>
                         <aside className="lg:w-[300px] flex-shrink-0">
                             <div className="sticky top-[140px] space-y-6">
-                                <div className="border border-[var(--border)] rounded-2xl p-5">
-                                    <h3 className="text-xs font-bold tracking-[2px] uppercase text-gray-400 mb-4">🧴 Sản phẩm nổi bật</h3>
+                                <div className="border border-[#eadfce] bg-white rounded-2xl p-5 shadow-[0_12px_35px_rgba(27,18,13,0.03)]">
+                                    <h3 className="text-xs font-bold tracking-[2px] uppercase text-gray-400 mb-4">🧴 Sản phẩm nên xem tiếp</h3>
                                     <div className="space-y-4">
                                         {relatedProducts.map(product => (
                                             <Link key={product.id} href={`/${product.id}`} className="flex items-center gap-3 group">
@@ -458,7 +468,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     </div>
                                     <Link href="/bang-xep-hang" className="block text-center text-[10px] font-bold text-primary hover:underline mt-4 pt-3 border-t border-[var(--border)]">Xem tất cả →</Link>
                                 </div>
-                                <div className="border border-[var(--border)] rounded-2xl p-5">
+                                <div className="border border-[#eadfce] bg-white rounded-2xl p-5 shadow-[0_12px_35px_rgba(27,18,13,0.03)]">
                                     <h3 className="text-xs font-bold tracking-[2px] uppercase text-gray-400 mb-3">🏷️ Chủ đề</h3>
                                     <div className="flex flex-wrap gap-2">
                                         {['Nước hoa Nam', 'Nước hoa Nữ', 'Niche', 'Designer', 'Mùa Hè', 'Mùa Đông', 'Hẹn hò', 'Công sở'].map(tag => (
@@ -466,11 +476,11 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                         ))}
                                     </div>
                                 </div>
-                                <div className="bg-[#0068FF] text-white rounded-2xl p-5">
+                                <div className="rounded-2xl border border-[#e6d8c7] bg-[#1c130f] p-5 text-white shadow-[0_20px_50px_rgba(27,18,13,0.16)]">
                                     <div className="text-lg mb-2">🎯</div>
                                     <h3 className="text-sm font-bold mb-1">Tư vấn chọn nước hoa</h3>
-                                    <p className="text-xs opacity-80 mb-4">Kể gu của bạn — sẽ có gợi ý phù hợp ngay</p>
-                                    <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="block text-center text-xs font-bold bg-white text-[#0068FF] px-4 py-2.5 rounded-full hover:opacity-90">Chat ngay</a>
+                                    <p className="text-xs opacity-80 mb-4 leading-6">Kể gu của bạn, ngân sách và hoàn cảnh dùng — Maison de SON sẽ gợi ý mùi phù hợp hơn.</p>
+                                    <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="block text-center text-xs font-bold bg-white text-[#1c130f] px-4 py-2.5 rounded-full hover:opacity-90">Nhắn Zalo ngay</a>
                                 </div>
                             </div>
                         </aside>
