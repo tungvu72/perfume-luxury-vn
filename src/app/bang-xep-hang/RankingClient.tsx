@@ -296,8 +296,11 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                     </div>
                 )}
 
-                <div className="flex items-center justify-between mb-6">
-                    <span className="text-sm text-gray-400">{filteredProducts.length} kết quả</span>
+                <div className="mb-6 flex flex-col gap-3 rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_12px_35px_rgba(27,18,13,0.03)] md:flex-row md:items-center md:justify-between">
+                    <div>
+                        <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Kết quả hiện tại</div>
+                        <span className="mt-1 block text-sm text-gray-500">{filteredProducts.length} lựa chọn phù hợp với bộ lọc đang chọn</span>
+                    </div>
                     <div className="flex items-center gap-2">
                         <ArrowUpDown size={12} className="text-gray-400" />
                         <select value={sortBy} onChange={(e) => setSortBy(e.target.value as SortOption)}
@@ -315,8 +318,8 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                 <div className="flex flex-col gap-4">
                     {displayedProducts.map((product, i) => (
                         <div key={product.id} className="relative group/card">
-                            <Link href={`/san-pham/${product.id}`}
-                                className="flex items-center gap-4 md:gap-6 p-4 border border-[var(--border)] rounded-xl hover:border-primary/50 hover:shadow-xl hover:-translate-y-0.5 transition-all group bg-white">
+                            <Link href={`/${product.id}`}
+                                className="flex items-center gap-4 md:gap-6 rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_12px_35px_rgba(27,18,13,0.03)] transition-all hover:-translate-y-0.5 hover:border-primary/50 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)] group">
                                 <div className="w-8 text-center font-serif text-xl md:text-2xl font-bold text-gray-200 group-hover:text-primary/30 transition-colors">
                                     {String(i + 1).padStart(2, '0')}
                                 </div>
@@ -355,7 +358,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                                 </div>
                                 <div className="flex flex-col items-end gap-1">
                                     <div className="text-lg md:text-2xl font-serif font-bold text-primary">{product.score.total}</div>
-                                    <div className="text-[8px] text-gray-400 font-bold uppercase tracking-wider">/ 10</div>
+                                    <div className="text-[8px] text-gray-400 font-bold uppercase tracking-wider">Điểm tổng</div>
                                 </div>
                             </Link>
                             <CompareButton product={product} />
@@ -371,7 +374,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                             >
                                 <div className="absolute inset-0 bg-white/10 translate-y-full group-hover:translate-y-0 transition-transform duration-300" />
                                 <span className="relative text-sm font-bold uppercase tracking-widest">
-                                    + Show more results
+                                    Xem thêm lựa chọn
                                 </span>
                             </button>
                         </div>
