@@ -9,13 +9,13 @@ const NAV_CHIPS = [
 export default function KnowledgeChips() {
   return (
     <section className="border-b border-[var(--border)] bg-white">
-      <div className="mx-auto max-w-[1200px] px-4 py-4 sm:px-5">
-        <div className="no-scrollbar flex gap-2 overflow-x-auto pb-1 pr-14 sm:pr-0">
+      <div className="mx-auto max-w-[1200px] px-4 py-3 sm:px-5 sm:py-4">
+        <div className="no-scrollbar flex gap-2 overflow-x-auto pb-1">
           {NAV_CHIPS.map((chip, index) => (
             <a
               key={chip.label}
               href={chip.href}
-              className={`whitespace-nowrap rounded-full border px-4 py-2 text-sm font-medium transition ${index === 0
+              className={`shrink-0 whitespace-nowrap rounded-full border px-3 py-1.5 text-[13px] font-medium transition sm:px-4 sm:py-2 sm:text-sm ${index === 0
                   ? "border-primary bg-primary text-white hover:opacity-90"
                   : "border-[var(--border)] bg-[#fafafa] text-gray-700 hover:border-primary hover:text-primary"
                 }`}
