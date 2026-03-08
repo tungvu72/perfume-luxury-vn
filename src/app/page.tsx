@@ -147,7 +147,7 @@ export default async function Home() {
     <main className="min-h-screen bg-[#fcfaf7] text-[#1b120d]">
       <Header />
 
-      <section className="mx-auto max-w-[1200px] px-4 pt-4 pb-8 md:pt-6 md:pb-12">
+      <section className="mx-auto max-w-[1200px] px-4 pt-3 pb-6 md:pt-6 md:pb-12">
         <div className="relative overflow-hidden rounded-[28px] border border-[#e7ddd3] bg-[#f3ece4]">
           <Image
             src="/hero-main-v2.png"
@@ -159,22 +159,19 @@ export default async function Home() {
           />
           <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(255,255,255,0.7),transparent_45%),linear-gradient(135deg,rgba(24,15,10,0.96),rgba(24,15,10,0.8)_50%,rgba(24,15,10,0.38)_100%)]" />
 
-          <div className="relative z-10 grid gap-8 px-5 py-8 md:grid-cols-[minmax(0,1.15fr)_minmax(300px,0.85fr)] md:px-10 md:py-14 lg:px-14">
+          <div className="relative z-10 grid gap-5 px-4 py-6 md:grid-cols-[minmax(0,1.15fr)_minmax(300px,0.85fr)] md:px-10 md:py-14 lg:px-14">
             <div className="max-w-2xl">
-              <span className="inline-flex rounded-full border border-white/15 bg-white/10 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.24em] text-[#d9bc94] backdrop-blur">
+              <span className="inline-flex rounded-full border border-white/15 bg-white/10 px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-[#f1d7b4] backdrop-blur sm:text-[11px] sm:tracking-[0.24em]">
                 Kiến thức thực tế • Review chọn lọc • Dành cho người Việt
               </span>
-              <h1 className="mt-5 text-3xl font-serif leading-tight text-white md:text-5xl md:leading-[1.1]">
+              <h1 className="mt-4 text-[28px] font-serif leading-[1.12] text-white sm:text-3xl md:text-5xl md:leading-[1.1]">
                 Trang nước hoa giúp bạn thực sự hiểu một chai nước hoa
               </h1>
-              <p className="mt-4 max-w-2xl text-sm leading-7 text-white/80 md:text-base">
-                Maison de Son là nơi chia sẻ kiến thức, trải nghiệm thực tế và
-                review nước hoa theo cách dễ hiểu với người Việt. Tại đây bạn có thể
-                xem bảng xếp hạng chọn lọc, hiểu rõ cá tính mùi hương, độ lưu hương,
-                độ tỏa hương và tham khảo nơi mua nước hoa chính hãng với mức giá hợp lý.
+              <p className="mt-3 max-w-2xl text-sm leading-6 text-white/80 md:text-base md:leading-7">
+                Maison de Son chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa theo cách dễ hiểu với người Việt. Xem bảng xếp hạng chọn lọc, hiểu mùi nào hợp mình và tham khảo nơi mua chính hãng giá hợp lý.
               </p>
 
-              <div className="mt-7 flex flex-col gap-3 sm:flex-row">
+              <div className="mt-5 flex flex-col gap-2.5 sm:flex-row">
                 <Link
                   href="/bang-xep-hang"
                   className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 text-sm font-bold text-[#1b120d] transition hover:bg-[#d7b48c] hover:text-white"
@@ -190,7 +187,7 @@ export default async function Home() {
               </div>
             </div>
 
-            <div className="grid gap-3 rounded-[24px] border border-white/10 bg-white/8 p-4 backdrop-blur md:p-5">
+            <div className="hidden md:grid gap-3 rounded-[24px] border border-white/10 bg-white/8 p-4 backdrop-blur md:p-5">
               <div className="flex items-start justify-between gap-3 border-b border-white/10 pb-3">
                 <div>
                   <p className="text-[11px] font-bold uppercase tracking-[0.24em] text-[#d9bc94]">
@@ -227,7 +224,7 @@ export default async function Home() {
           </div>
         </div>
 
-        <div className="mt-4 grid gap-3 md:mt-5 md:grid-cols-4">
+        <div className="mt-3 grid gap-3 md:mt-5 md:grid-cols-4">
           {trustItems.map((item) => (
             <div
               key={item.title}
@@ -405,12 +402,12 @@ export default async function Home() {
           description="Thay vì bắt đầu từ tên chai, hãy đi từ nhu cầu thật: đi làm, hẹn hò, mùa hè nóng ẩm hay một mùi sang trọng dễ dùng lâu dài."
         />
 
-        <div className="flex flex-wrap gap-3">
+        <div className="flex flex-wrap gap-2.5">
           {needPaths.map((item) => (
             <Link
               key={item.label}
               href={item.href}
-              className="rounded-full border border-[#decfbd] bg-white px-4 py-2.5 text-sm font-semibold text-[#4b3b30] transition hover:border-primary hover:text-primary"
+              className="rounded-full border border-[#decfbd] bg-white px-3.5 py-2 text-xs font-semibold text-[#4b3b30] transition hover:border-primary hover:text-primary sm:px-4 sm:py-2.5 sm:text-sm"
             >
               {item.label}
             </Link>
@@ -476,7 +473,7 @@ export default async function Home() {
                 href={`/${featuredPosts[0].urlSlug}`}
                 className="group overflow-hidden rounded-[28px] border border-[#eadfce] bg-white shadow-[0_20px_50px_rgba(27,18,13,0.06)] transition duration-300 hover:-translate-y-1"
               >
-                <div className="relative h-[240px] bg-[#f7f3ee] md:h-[340px]">
+                <div className="relative h-[220px] bg-[#f7f3ee] md:h-[340px]">
                   <Image
                     src={featuredPosts[0].mainImage || PLACEHOLDER}
                     alt={featuredPosts[0].title}
@@ -487,7 +484,7 @@ export default async function Home() {
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
                   <span
-                    className={`absolute left-5 top-5 rounded-full px-3 py-1 text-[11px] font-bold uppercase tracking-[0.18em] ${CATEGORY_TAG_COLORS[featuredPosts[0].category] || "bg-gray-100 text-gray-700"}`}
+                    className={`absolute left-4 top-4 rounded-full px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.12em] ${CATEGORY_TAG_COLORS[featuredPosts[0].category] || "bg-gray-100 text-gray-700"}`}
                   >
                     {featuredPosts[0].category}
                   </span>

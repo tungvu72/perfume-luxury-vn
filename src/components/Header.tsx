@@ -121,14 +121,14 @@ const Header = () => {
             <header className={`sticky top-0 z-50 bg-white transition-all duration-300 ${scrolled ? 'shadow-md' : ''}`}>
                 {/* ROW 1: Logo + Nav + Icons */}
                 <div className="border-b border-[var(--border)]">
-                    <div className="max-w-[1200px] mx-auto px-5 flex justify-between items-center py-4">
+                    <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex justify-between items-center py-3 md:py-4">
                         {/* MOBILE MENU BUTTON */}
                         <button className="md:hidden p-2 min-h-[44px] min-w-[44px] flex items-center justify-center" onClick={() => setIsMenuOpen(true)} aria-label="Mở menu">
                             <Menu size={22} />
                         </button>
 
                         {/* LOGO */}
-                        <Link href="/" className="font-serif text-[22px] md:text-[28px] font-bold tracking-[4px] uppercase">
+                        <Link href="/" className="font-serif text-[18px] sm:text-[22px] md:text-[28px] font-bold tracking-[2px] sm:tracking-[4px] uppercase">
                             MAISON DE SON
                         </Link>
 
@@ -152,14 +152,14 @@ const Header = () => {
 
                 {/* ROW 2: SEARCH BAR - Enhanced */}
                 <div className="border-b border-[var(--border)] bg-[#FAFAFA]">
-                    <div className="max-w-[1200px] mx-auto px-5 py-2.5" ref={searchRef}>
+                    <div className="max-w-[1200px] mx-auto px-4 sm:px-5 py-2" ref={searchRef}>
                         <div className="relative">
-                            <div className={`flex items-center gap-3 bg-white border rounded-lg px-4 py-2.5 transition-all duration-200 ${isSearchFocused ? 'border-primary shadow-lg shadow-primary/5' : 'border-gray-200'}`}>
+                            <div className={`flex items-center gap-2.5 bg-white border rounded-lg px-3 py-2 transition-all duration-200 ${isSearchFocused ? 'border-primary shadow-lg shadow-primary/5' : 'border-gray-200'}`}>
                                 <Search size={16} className={`flex-shrink-0 transition-colors ${isSearchFocused ? 'text-primary' : 'text-gray-400'}`} />
                                 <input
                                     ref={inputRef}
                                     type="text"
-                                    placeholder="Tìm nước hoa, thương hiệu, nốt hương, phong cách mùi..."
+                                    placeholder="Tìm nước hoa, thương hiệu, nốt hương..."
                                     value={searchQuery}
                                     onChange={(e) => setSearchQuery(e.target.value)}
                                     onFocus={() => setIsSearchFocused(true)}
