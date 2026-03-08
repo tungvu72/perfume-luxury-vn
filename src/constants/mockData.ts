@@ -165,39 +165,48 @@ Nếu bạn thích hướng ngọt ấm, nổi bật và muốn trải nghiệm 
       { url: "https://fimgs.net/photogram/p1200/tx/uc/StD7ym9jNPfntflA.jpg", source: "fragram", caption: "Chai Bleu de Chanel EDP" },
       { url: "https://fimgs.net/photogram/p1200/lp/0x/Tcp2wAYGZrFnrLwl.jpg", source: "fragram", caption: "Một trong những chai nam dễ dùng nhất của Chanel" }
     ],
-    description: "Bleu de Chanel EDP là lựa chọn an toàn nhưng vẫn sang. Citrus, gỗ và incense tạo cảm giác sạch, chỉn chu và dễ dùng hơn rất nhiều chai nam khác.",
-    article: `Bleu de Chanel EDP là một trong những chai nam dễ giới thiệu nhất cho người mới lẫn người đã chơi lâu.
+    description: "Bleu de Chanel EDP là kiểu nước hoa nam rất dễ giới thiệu cho người mới: sạch, chỉn chu, có chiều sâu vừa đủ và dùng được trong nhiều hoàn cảnh mà không bị quá nặng.",
+    article: `Bleu de Chanel EDP là một trong những chai nam an toàn nhưng vẫn đáng tiền nhất nếu bạn cần một mùi hương có thể dùng lâu dài.
 
-### Điểm đáng chú ý
-- Sạch, chỉn chu và dễ dùng quanh năm
-- Hợp đi làm, đi chơi, hẹn hò nhẹ nhàng
-- Không quá phá cách nhưng rất ổn định và ít rủi ro
+### Mùi hương mang lại cảm giác gì?
+Mở đầu là citrus sáng, sạch và gọn. Sau đó mùi chuyển sang hướng gỗ thơm và trầm hương nhẹ, tạo cảm giác nam tính, lịch sự và dễ gần hơn nhiều chai quá sắc hoặc quá ngọt.
+
+### Khi nào nên dùng?
+- Đi làm, gặp khách, môi trường văn phòng
+- Hẹn hò nhẹ nhàng hoặc đi chơi buổi tối không quá formal
+- Người muốn một chai nam sang nhưng ít rủi ro khi blind buy
+
+### Điểm mạnh nổi bật
+- Dễ dùng quanh năm
+- Hợp nhiều độ tuổi
+- Giữ được cảm giác sang và sạch mà không quá phô trương
 
 ### Maison de SON verdict
-Nếu cần một chai nam dùng được trong nhiều hoàn cảnh mà vẫn giữ cảm giác sang và gọn gàng, Bleu de Chanel EDP gần như luôn là lựa chọn an toàn.`,
-    verdict: "Sạch, sang và rất dễ dùng. Đây là kiểu chai ít gây tranh cãi nhưng vẫn đủ chất để giữ lâu trong bộ sưu tập.",
-    verdictShort: "SẠCH, SANG, DỄ DÙNG QUANH NĂM",
-    score: { scent: 8.8, uniqueness: 7.4, compliments: 9.0, value: 7.9, total: 8.3 },
+Nếu chỉ giữ một chai designer nam để dùng đa dụng, Bleu de Chanel EDP gần như luôn nằm trong nhóm đáng cân nhắc đầu tiên.`,
+    verdict: "Một chai nam đa dụng rất mạnh: sạch, sang, lịch sự và đủ chiều sâu để không bị nhạt. Hợp cho người cần sự an toàn nhưng vẫn muốn có đẳng cấp.",
+    verdictShort: "ĐA DỤNG, SẠCH VÀ SANG",
+    score: { scent: 8.9, uniqueness: 7.4, compliments: 9.1, value: 7.8, total: 8.3 },
     vibes: [
       { label: "Văn phòng", icon: "💼" },
-      { label: "Quanh năm", icon: "🔄" },
-      { label: "Thanh lịch", icon: "🕴️" }
+      { label: "Daily wear", icon: "🧴" },
+      { label: "Thanh lịch", icon: "🕴️" },
+      { label: "All-rounder", icon: "🔄" }
     ],
     longevity: 8,
     sillage: 7,
-    seasons: { spring: 82, summer: 72, fall: 85, winter: 74 },
-    dayNight: { day: 82, night: 58 },
-    topNotes: [{ name: "Bưởi" }, { name: "Chanh" }, { name: "Bạc hà" }, { name: "Cam bergamot" }],
-    middleNotes: [{ name: "Gừng" }, { name: "Hạt nhục đậu khấu" }, { name: "Hoa nhài" }, { name: "Iso E Super" }],
-    baseNotes: [{ name: "Incense" }, { name: "Gỗ đàn hương" }, { name: "Hoắc hương" }, { name: "Labdanum" }, { name: "Gỗ tuyết tùng" }],
+    seasons: { spring: 84, summer: 74, fall: 86, winter: 72 },
+    dayNight: { day: 84, night: 56 },
+    topNotes: [{ name: "Bưởi" }, { name: "Chanh" }, { name: "Bạc hà" }, { name: "Hồng tiêu" }],
+    middleNotes: [{ name: "Gừng" }, { name: "Nhục đậu khấu" }, { name: "Hoa nhài" }, { name: "Iso E Super" }],
+    baseNotes: [{ name: "Trầm hương" }, { name: "Gỗ đàn hương" }, { name: "Hoắc hương" }, { name: "Labdanum" }, { name: "Gỗ tuyết tùng" }],
     accords: [
       { name: "Woody", value: 95, color: "#8B4513" },
-      { name: "Citrus", value: 78, color: "#f7c242" },
-      { name: "Aromatic", value: 73, color: "#2c7a4b" },
-      { name: "Amber", value: 58, color: "#c58a2b" }
+      { name: "Citrus", value: 76, color: "#f7c242" },
+      { name: "Aromatic", value: 72, color: "#2c7a4b" },
+      { name: "Fresh spicy", value: 56, color: "#c58a2b" }
     ],
-    tags: ["Văn phòng", "All-rounder", "Designer", "Nam"],
-    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+    tags: ["Văn phòng", "All-rounder", "Designer", "Nam", "Dễ dùng"],
+    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
     basePrice: 4200000,
     shopeeOffers: []
   },
