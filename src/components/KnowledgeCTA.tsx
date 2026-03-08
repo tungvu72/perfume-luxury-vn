@@ -10,7 +10,7 @@ export default function KnowledgeCTA() {
             Chưa biết nên bắt đầu từ chai nào?
           </h2>
           <p className="mt-3 text-sm leading-6 text-gray-700 sm:text-base">
-            Nhắn Zalo để được gợi ý theo gu mùi, ngân sách và hoàn cảnh sử dụng. Maison De Son ưu tiên tư vấn thực tế, không ép chốt theo kiểu bán hàng đại trà.
+            Nhắn Zalo để được gợi ý theo gu mùi, ngân sách và hoàn cảnh sử dụng. Maison de SON ưu tiên tư vấn thực tế, rõ ràng và không nói quá để ép chốt.
           </p>
         </div>
 

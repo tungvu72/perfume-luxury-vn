@@ -5,14 +5,14 @@ export default function MaisonMethodBlock() {
     <section id="maison-method" className="mx-auto max-w-[1200px] px-4 py-4 sm:px-5 sm:py-6">
       <div className="rounded-3xl border border-[var(--border)] bg-[#111111] p-5 text-white sm:p-6 lg:p-8">
         <p className="text-[11px] font-bold uppercase tracking-[0.24em] text-white/70">Maison Method</p>
-        <h2 className="mt-2 text-2xl font-serif">Maison De Son review nước hoa như thế nào?</h2>
+        <h2 className="mt-2 text-2xl font-serif">Maison de SON nhìn một mùi hương như thế nào?</h2>
         <p className="mt-3 max-w-3xl text-sm leading-6 text-white/75 sm:text-base">
-          Chúng tôi không chỉ chấm mùi hay hay dở. Mỗi bài viết được xây trên DNA mùi hương, độ bám tỏa trong điều kiện sử dụng thực tế tại Việt Nam, giá trị tiền bỏ ra và bối cảnh dùng phù hợp.
+          Chúng tôi không chỉ nói mùi hay hay dở. Mỗi bài viết được xây trên cảm nhận thực tế, cấu trúc mùi hương, độ lưu và độ tỏa trong điều kiện sử dụng tại Việt Nam, cùng câu hỏi cuối cùng: chai này có thật sự đáng để bạn quan tâm hay không.
         </p>
 
         <div className="mt-6 grid gap-3 sm:grid-cols-2">
           {[
-            "DNA mùi hương và cấu trúc top / mid / base",
+            "Cá tính mùi hương và cấu trúc top / mid / base",
             "Hiệu năng trong khí hậu nóng ẩm, môi trường dùng thực tế tại Việt Nam",
             "Giá trị tiền bỏ ra, độ đáng mua và mức độ dễ dùng",
             "Ngữ cảnh phù hợp: đi làm, hẹn hò, đi chơi, dùng hằng ngày",
