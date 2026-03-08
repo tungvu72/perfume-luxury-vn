@@ -84,7 +84,7 @@ export default function ComparePage() {
                                 <th className="w-[120px] md:w-[160px] p-3 text-left text-[10px] font-bold text-gray-400 uppercase tracking-wider"></th>
                                 {items.map(p => (
                                     <th key={p.id} className="p-3 text-center">
-                                        <Link href={`/san-pham/${p.id}`} className="group">
+                                        <Link href={`/${p.id}`} className="group">
                                             <div className="relative mx-auto mb-3 h-16 w-16 overflow-hidden rounded-xl bg-gray-50 md:h-24 md:w-24">
                                                 <Image src={p.image} alt={p.name} fill sizes="96px" className="object-contain p-2 group-hover:scale-110 transition-transform" />
                                             </div>

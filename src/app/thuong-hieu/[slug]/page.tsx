@@ -33,7 +33,7 @@ export default async function BrandPage({ params }: { params: Promise<{ slug: st
     }
 
     const brandName = brand.name;
-    const brandDescription = brand.description || `Thương hiệu ${brandName} luôn nằm trong top những dòng nước hoa được săn đón nhất tại Việt Nam. Với phong cách thiết kế độc bản và mùi hương đầy mê hoặc, mỗi chai nước hoa của hãng là một kiệt tác nghệ thuật thực thụ.`;
+    const brandDescription = brand.description || `Khám phá nước hoa ${brandName} qua review, trải nghiệm thực tế và những lựa chọn nổi bật được Maison de SON chọn lọc cho người Việt.`;
 
     return (
         <main className="min-h-screen bg-white">
@@ -99,11 +99,11 @@ export default async function BrandPage({ params }: { params: Promise<{ slug: st
                             </div>
                         </Link>
                     )) : (
-                        <div className="col-span-3 py-24 text-center border-2 border-dashed border-gray-100 rounded-3xl">
-                            <div className="text-4xl mb-4">🏺</div>
-                            <h3 className="text-xl font-serif mb-2 text-gray-400 italic">Dữ liệu cho {brandName} đang được nạp...</h3>
-                            <p className="text-xs text-gray-400 max-w-xs mx-auto">Chuyên gia đang tiến hành thẩm định và chấm điểm các chai nước hoa cực phẩm từ hãng này.</p>
-                            <Link href="/" className="mt-8 text-xs font-bold text-primary underline block uppercase tracking-[2px]">Trở lại trang chủ</Link>
+                        <div className="col-span-3 rounded-3xl border-2 border-dashed border-gray-100 py-24 text-center">
+                            <div className="mb-4 text-4xl">🏺</div>
+                            <h3 className="mb-2 text-xl font-serif italic text-gray-400">Nội dung về {brandName} đang được cập nhật thêm</h3>
+                            <p className="mx-auto max-w-xs text-xs text-gray-400">Maison de SON đang bổ sung review và lựa chọn nổi bật để trang này hữu ích hơn cho người xem Việt.</p>
+                            <Link href="/" className="mt-8 block text-xs font-bold uppercase tracking-[2px] text-primary underline">Trở lại trang chủ</Link>
                         </div>
                     )}
                 </div>

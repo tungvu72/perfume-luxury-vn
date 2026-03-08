@@ -23,14 +23,14 @@ export const BLOG_POSTS: BlogPost[] = [
         img: "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=1200"
     },
     {
-        id: "scent-dna-la-gi",
-        title: "Scent DNA: Hiểu về cấu trúc mùi hương chuẩn quốc tế",
-        excerpt: "Tại sao chai nước hoa này lại có mùi trà, còn chai kia lại mang hơi thở của gỗ tuyết tùng?",
-        content: `Mỗi chai nước hoa đều có một "mã gen" riêng được gọi là Scent DNA. Nó bao gồm 3 tầng hương truyền thống:
+        id: "cau-truc-mui-huong-la-gi",
+        title: "Cấu trúc mùi hương là gì? Cách hiểu một chai nước hoa dễ hơn",
+        excerpt: "Vì sao chai này mở ra mùi cam chanh, rồi dần ấm hơn với gỗ và xạ hương?",
+        content: `Mỗi chai nước hoa đều có một cấu trúc mùi hương riêng. Bạn có thể hiểu nó qua 3 tầng hương cơ bản:
         
         - Hương đầu (Top Notes): Những gì bạn cảm nhận đầu tiên.
-        - Hương giữa (Heart Notes): Linh hồn của chai nước hoa.
-        - Hương cuối (Base Notes): Sự vương vấn cuối cùng trên da thịt.`,
+        - Hương giữa (Heart Notes): Phần trung tâm tạo nên tính cách chính của mùi.
+        - Hương cuối (Base Notes): Lớp hương lưu lại lâu nhất trên da và quần áo.`,
         category: "Kiến thức",
         date: "25/02/2026",
         img: "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=1200"
