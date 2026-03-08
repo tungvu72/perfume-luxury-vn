@@ -108,11 +108,10 @@ const Header = () => {
     const showResults = isSearchFocused && (searchQuery.trim().length >= 2 || searchQuery.trim().length === 0);
 
     const menuItems = [
-        { name: "Khám phá", href: "/bang-xep-hang" },
+        { name: "Bảng xếp hạng", href: "/bang-xep-hang" },
+        { name: "Theo nốt hương", href: "/bang-xep-hang" },
         { name: "Thương hiệu", href: "/thuong-hieu" },
-        { name: "Nam", href: "/nam-gioi" },
-        { name: "Nữ", href: "/nu-gioi" },
-        { name: "Unisex", href: "/unisex" },
+        { name: "So sánh", href: "/so-sanh" },
         { name: "Kiến thức", href: "/kien-thuc" },
         { name: "Về chúng tôi", href: "/gioi-thieu" },
     ];
@@ -160,7 +159,7 @@ const Header = () => {
                                 <input
                                     ref={inputRef}
                                     type="text"
-                                    placeholder="Tìm nước hoa, thương hiệu, nốt hương..."
+                                    placeholder="Tìm nước hoa, thương hiệu, nốt hương, phong cách mùi..."
                                     value={searchQuery}
                                     onChange={(e) => setSearchQuery(e.target.value)}
                                     onFocus={() => setIsSearchFocused(true)}

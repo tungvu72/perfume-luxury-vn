@@ -14,7 +14,7 @@ export default function Footer() {
                             Maison de SON
                         </Link>
                         <p className="text-xs text-gray-500 leading-relaxed mb-6">
-                            Thư viện đánh giá nước hoa chuyên sâu số 1 Việt Nam. Chúng tôi thẩm định mùi hương bằng kiến thức chuyên môn và trải nghiệm thực tế.
+                            Trang web chia sẻ kiến thức, trải nghiệm thực tế và định hướng chọn mua nước hoa cho người Việt. Maison de SON ưu tiên thông tin rõ ràng, dễ hiểu và hữu ích trước khi nói đến chuyện mua bán.
                         </p>
                         <div className="flex gap-4">
                             <Link href="#" className="p-3 min-h-[44px] min-w-[44px] flex items-center justify-center bg-white rounded-full border border-gray-200 text-gray-400 hover:text-primary hover:border-primary transition-all">
@@ -71,7 +71,7 @@ export default function Footer() {
 
                 <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
                     <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">
-                        © {currentYear} Maison de SON · Review & Scent DNA
+                        © {currentYear} Maison de SON · Kiến thức, review & trải nghiệm thực tế
                     </p>
                     <div className="flex gap-6 text-[10px] text-gray-400 font-bold uppercase tracking-wider">
                         <Link href="#" className="hover:text-primary transition-colors py-1 block">Privacy Policy</Link>
