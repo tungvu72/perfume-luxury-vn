@@ -8,6 +8,14 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
     title: "Về Maison de SON | Sứ mệnh định nghĩa lại Review nước hoa Việt Nam",
     description: "Khám phá hành trình xây dựng cộng đồng nước hoa Maison de SON. Nơi kiến thức chuyên sâu và sự minh bạch được đặt lên hàng đầu.",
+    alternates: {
+        canonical: "https://www.maisondeson.com/gioi-thieu",
+    },
+    openGraph: {
+        title: "Về Maison de SON | Sứ mệnh định nghĩa lại Review nước hoa Việt Nam",
+        description: "Khám phá hành trình xây dựng cộng đồng nước hoa Maison de SON. Nơi kiến thức chuyên sâu và sự minh bạch được đặt lên hàng đầu.",
+        url: "https://www.maisondeson.com/gioi-thieu",
+    },
 };
 
 export default function AboutPage() {

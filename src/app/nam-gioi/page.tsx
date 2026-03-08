@@ -9,6 +9,9 @@ const currentMonthYear = `${(now.getMonth() + 1).toString().padStart(2, '0')}/${
 export const metadata: Metadata = {
     title: `Nước hoa Nam Chính Hãng - Review & Bảng Giá ${currentMonthYear} | Maison de SON`,
     description: "Bộ sưu tập nước hoa nam chính hãng từ Niche đến Designer: Sauvage, Bleu de Chanel, Aventus... Đánh giá chuyên sâu và so sánh giá thực tế.",
+    alternates: {
+        canonical: "https://www.maisondeson.com/nam-gioi",
+    },
 };
 
 export default async function NamGioiPage() {

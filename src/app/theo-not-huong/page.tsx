@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   title: "Theo nốt hương | Maison de SON",
   description:
     "Khám phá nước hoa theo nốt hương tại Maison de SON. Bắt đầu từ vani, gỗ đàn hương, cam bergamot, hoa hồng, xạ hương và các nhóm mùi quen thuộc với người Việt.",
+  alternates: {
+    canonical: "https://www.maisondeson.com/theo-not-huong",
+  },
 };
 
 const noteGroups = [

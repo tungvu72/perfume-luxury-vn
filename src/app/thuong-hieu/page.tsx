@@ -7,6 +7,9 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
     title: "Thương hiệu nước hoa đáng xem | Maison de SON",
     description: "Khám phá các thương hiệu nước hoa nổi bật tại Maison de SON. Xem review, lựa chọn đáng chú ý và định hướng chọn mùi phù hợp cho người Việt.",
+    alternates: {
+        canonical: "https://www.maisondeson.com/thuong-hieu",
+    },
 };
 
 // Danh sách đầy đủ các brand (kết hợp data thật + placeholder cho SEO)

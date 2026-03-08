@@ -9,6 +9,9 @@ const currentMonthYear = `${(now.getMonth() + 1).toString().padStart(2, '0')}/${
 export const metadata: Metadata = {
     title: `Nước hoa Unisex Chính Hãng - Review & Bảng Giá ${currentMonthYear} | Maison de SON`,
     description: "Bộ sưu tập nước hoa Unisex chính hãng: Baccarat Rouge 540, Santal 33, Another 13... Đánh giá chi tiết cho cả Nam và Nữ.",
+    alternates: {
+        canonical: "https://www.maisondeson.com/unisex",
+    },
 };
 
 export default async function UnisexPage() {

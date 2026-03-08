@@ -372,7 +372,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 <h1 className="mt-3 text-[30px] font-serif font-bold leading-tight text-gray-900 sm:mt-4 md:text-[44px]">{post.title}</h1>
                                 <p className="mt-3 max-w-3xl text-sm leading-6 text-gray-600 md:text-base md:leading-7">{post.excerpt || 'Bài viết chia sẻ kiến thức, trải nghiệm thực tế và góc nhìn chọn mua nước hoa rõ ràng hơn cho người Việt.'}</p>
                                 <div className="mt-5 flex flex-wrap items-center gap-3 text-[11px] text-gray-400 font-semibold border-t border-[var(--border)] pt-5">
-                                    <Link href="/maison-editorial" className="text-gray-600 hover:text-primary transition-colors">{post.author || 'Maison de SON Editorial'}</Link>
+                                    <Link href="/tac-gia/maison-editorial" className="text-gray-600 hover:text-primary transition-colors">{post.author || 'Maison de SON Editorial'}</Link>
                                     {formattedDate && <><span>•</span><span>{formattedDate}</span></>}
                                     {post.readTime && <><span>•</span><span>⏱ {post.readTime}</span></>}
                                 </div>
@@ -415,9 +415,9 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     <Image src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100&h=100" alt="Maison de SON" fill sizes="48px" className="object-cover" />
                                 </div>
                                 <div className="flex-1">
-                                    <Link href="/maison-editorial" className="text-sm font-bold hover:text-primary">{post.author || 'Maison de SON Editorial'}</Link>
+                                    <Link href="/tac-gia/maison-editorial" className="text-sm font-bold hover:text-primary">{post.author || 'Maison de SON Editorial'}</Link>
                                     <p className="text-xs text-gray-500 mt-0.5 leading-relaxed">Đội ngũ biên tập Maison de SON — review thực tế, không sponsored, verify số liệu từ ≥ 2 nguồn độc lập.</p>
-                                    <Link href="/maison-editorial" className="text-[10px] font-bold text-primary mt-1 inline-block hover:underline">Xem tất cả bài viết →</Link>
+                                    <Link href="/tac-gia/maison-editorial" className="text-[10px] font-bold text-primary mt-1 inline-block hover:underline">Xem tất cả bài viết →</Link>
                                 </div>
                             </div>
                             <section className="mt-7 rounded-[24px] border border-[#eadfce] bg-[#f7f2eb] p-4 sm:mt-8 sm:rounded-[28px] sm:p-6">

@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   title: "Chọn nước hoa theo nhu cầu | Maison de SON",
   description:
     "Tìm nước hoa theo nhu cầu thực tế tại Maison de SON: đi làm, hẹn hò, mùa hè nóng ẩm, sang trọng, dễ dùng hằng ngày và theo tầm giá phù hợp.",
+  alternates: {
+    canonical: "https://www.maisondeson.com/theo-nhu-cau",
+  },
 };
 
 const useCases = [
