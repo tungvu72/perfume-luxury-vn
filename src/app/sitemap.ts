@@ -17,12 +17,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${baseUrl}/gioi-thieu`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.4 },
   ];
 
-  // Dynamic product pages — /san-pham/[id]
+  // Dynamic product pages — /[id]
   let productPages: MetadataRoute.Sitemap = [];
   try {
     const products = await getAllProducts();
     productPages = products.map((p) => ({
-      url: `${baseUrl}/san-pham/${p.id}`,
+      url: `${baseUrl}/${p.id}`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.9,

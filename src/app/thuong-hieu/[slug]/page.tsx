@@ -16,8 +16,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     }
 
     return {
-        title: `Nước hoa ${brand.name} Chính Hãng - Review & Bảng Giá 2026 | Maison de SON`,
-        description: brand.description || `Khám phá bộ sưu tập nước hoa ${brand.name} cao cấp tại Maison de SON. Tuyển chọn những mùi hương kinh điển, đánh giá chuyên sâu từ chuyên gia.`,
+        title: `Nước hoa ${brand.name} | Review & Gợi ý chọn mùi 2026 | Maison de SON`,
+        description: brand.description || `Khám phá nước hoa ${brand.name} tại Maison de SON với review, trải nghiệm thực tế và gợi ý chọn mùi phù hợp cho người Việt.`,
     };
 }
 
@@ -70,7 +70,7 @@ export default async function BrandPage({ params }: { params: Promise<{ slug: st
             <section className="container mx-auto px-5 py-24">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-16">
                     {brandProducts.length > 0 ? brandProducts.map((product, i) => (
-                        <Link key={i} href={`/san-pham/${product.id}`} className="group animate-fade-up" style={{ animationDelay: `${i * 0.1}s` }}>
+                        <Link key={i} href={`/${product.id}`} className="group animate-fade-up" style={{ animationDelay: `${i * 0.1}s` }}>
                             <div className="aspect-[3/4] bg-[#F7F7F7] rounded-3xl overflow-hidden mb-8 relative">
                                 <Image
                                     src={product.image}
@@ -119,8 +119,8 @@ export default async function BrandPage({ params }: { params: Promise<{ slug: st
                         </p>
                         <ul>
                             <li>100% Sản phẩm chính hãng, cam kết chất lượng tuyệt đối.</li>
-                            <li>Bảng điểm chuyên gia (PLV Score) giúp bạn chọn đúng mùi hương phù hợp.</li>
-                            <li>Check-list nốt hương chi tiết (Scent DNA) chuẩn quốc tế.</li>
+                            <li>Đánh giá rõ ràng để bạn chọn đúng mùi hương phù hợp.</li>
+                            <li>Giải thích nốt hương và cảm nhận thực tế theo cách dễ hiểu.</li>
                             <li>Tư vấn Stylist cá nhân 24/7 qua Zalo.</li>
                         </ul>
                     </div>

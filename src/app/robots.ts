@@ -7,7 +7,8 @@ export default function robots(): MetadataRoute.Robots {
         userAgent: '*',
         allow: [
           '/',
-          '/san-pham/',
+          '/theo-not-huong',
+          '/theo-nhu-cau',
           '/thuong-hieu/',
           '/bang-xep-hang',
           '/kien-thuc/',

@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
         title: `Mua nước hoa ${product.brand} ${product.name} ${product.subName || ''} chính hãng - Giá tốt ${currentMonthYear} | Maison de SON`,
         description: `Mua nước hoa ${product.brand} ${product.name} chính hãng giá tốt. Đánh giá chuyên sâu từ Maison de SON: Điểm ${product.score.total}/10. Độ lưu hương ${(product.longevity ?? 0) >= 8 ? 'Rất lâu' : 'Khá'}, tỏa hương ${(product.sillage ?? 0) >= 8 ? 'Cực mạnh' : 'Tốt'}. Có sẵn bản 10ml chiết dùng thử.`,
         keywords: [product.brand, product.name, "chiết 10ml", "giá nước hoa", "mua chính hãng", "review nước hoa"],
-        alternates: { canonical: `https://maisondeson.com/san-pham/${product.id}` },
+        alternates: { canonical: `https://maisondeson.com/${product.id}` },
         openGraph: {
             title: `Bán ${product.brand} ${product.name} ${product.subName || ''} Chính Hãng`,
             description: product.verdict,
@@ -61,7 +61,7 @@ export default async function ProductDetailPage({ params }: { params: Promise<{ 
         },
         "offers": {
             "@type": "Offer",
-            "url": `https://maisondeson.com/san-pham/${product.id}`,
+            "url": `https://maisondeson.com/${product.id}`,
             "priceCurrency": "VND",
             "price": product.basePrice,
             "priceValidUntil": "2026-12-31",
