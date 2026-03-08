@@ -155,7 +155,7 @@ export default async function Home() {
           {/* Horizontal scroll on mobile, grid on desktop */}
           <div className="flex overflow-x-auto gap-3 pb-3 -mx-4 px-4 md:mx-0 md:px-0 md:grid md:grid-cols-6 md:gap-4 scrollbar-hide">
             {trendingSection.map((p: any) => (
-              <Link key={p.id} href={`/san-pham/${p.id}`}
+              <Link key={p.id} href={`/${p.slug || p.id}`}
                 className="min-w-[120px] md:min-w-0 group bg-white rounded-xl hover:shadow-xl transition-all duration-300 p-1 flex-shrink-0">
                 <div className="aspect-square bg-[#F7F7F7] rounded-xl overflow-hidden mb-2 relative">
                   <Image src={p.image} alt={p.name} fill sizes="(max-width:768px) 120px, 180px"
@@ -186,7 +186,7 @@ export default async function Home() {
           </div>
           <div className="flex overflow-x-auto gap-3 pb-3 -mx-4 px-4 md:mx-0 md:px-0 md:grid md:grid-cols-3 md:gap-6 scrollbar-hide">
             {rankingSection.slice(0, 6).map((product: any, i: number) => (
-              <Link key={product.id} href={`/san-pham/${product.id}`}
+              <Link key={product.id} href={`/${product.slug || product.id}`}
                 className="min-w-[155px] md:min-w-0 group bg-white rounded-xl hover:shadow-xl transition-all duration-300 p-2 flex-shrink-0">
                 <div className="aspect-square bg-[#F7F7F7] rounded-xl overflow-hidden mb-3 relative">
                   <span className="absolute top-3 left-3 font-serif text-3xl opacity-8 font-black text-gray-200">
@@ -288,7 +288,7 @@ export default async function Home() {
           <h2 className="text-xl md:text-3xl font-serif mb-5 md:mb-8">Đánh giá mới nhất</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 md:gap-6">
             {latestReviews.map((product: any) => (
-              <Link key={product.id} href={`/san-pham/${product.id}`}
+              <Link key={product.id} href={`/${product.slug || product.id}`}
                 className="flex gap-4 p-3 md:p-4 border border-[var(--border)] rounded-xl hover:border-primary/40 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-300 group bg-white">
                 <div className="w-[72px] h-[72px] md:w-[80px] md:h-[80px] flex-shrink-0 bg-[#F7F7F7] rounded-lg overflow-hidden relative">
                   <Image src={product.image} alt={product.name} fill sizes="80px"
