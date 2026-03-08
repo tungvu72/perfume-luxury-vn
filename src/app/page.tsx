@@ -162,13 +162,13 @@ export default async function Home() {
           <div className="relative z-10 grid gap-5 px-4 py-6 md:grid-cols-[minmax(0,1.15fr)_minmax(300px,0.85fr)] md:px-10 md:py-14 lg:px-14">
             <div className="max-w-2xl">
               <span className="inline-flex rounded-full border border-white/15 bg-white/10 px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-[#f1d7b4] backdrop-blur sm:text-[11px] sm:tracking-[0.24em]">
-                Kiến thức thực tế • Review chọn lọc • Dành cho người Việt
+                Kiến thức thực tế • Review chọn lọc • Gợi ý đáng xem
               </span>
               <h1 className="mt-4 text-[28px] font-serif leading-[1.12] text-white sm:text-3xl md:text-5xl md:leading-[1.1]">
                 Trang nước hoa giúp bạn thực sự hiểu một chai nước hoa
               </h1>
               <p className="mt-3 max-w-2xl text-sm leading-6 text-white/80 md:text-base md:leading-7">
-                Maison de Son chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa theo cách dễ hiểu với người Việt. Xem bảng xếp hạng chọn lọc, hiểu mùi nào hợp mình và tham khảo nơi mua chính hãng giá hợp lý.
+                Maison de Son chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa theo cách dễ hiểu. Xem bảng xếp hạng chọn lọc, tìm mùi hợp mình và tham khảo nơi mua chính hãng giá hợp lý.
               </p>
 
               <div className="mt-5 flex flex-col gap-2.5 sm:flex-row">
@@ -182,7 +182,7 @@ export default async function Home() {
                   href="/kien-thuc"
                   className="inline-flex items-center justify-center rounded-full border border-white/30 px-6 py-3 text-sm font-bold text-white transition hover:bg-white/10"
                 >
-                  Học trước khi mua
+                  Xem kiến thức chọn mùi
                 </Link>
               </div>
             </div>
@@ -591,39 +591,19 @@ export default async function Home() {
                   target="_blank"
                   className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 text-sm font-bold text-[#1b120d] transition hover:bg-[#d7b48c] hover:text-white"
                 >
-                  Nhắn Zalo để được tư vấn
+                  Nhắn Zalo
                 </Link>
                 <Link
-                  href="/bang-xep-hang"
+                  href="tel:0961226169"
                   className="inline-flex items-center justify-center rounded-full border border-white/20 px-6 py-3 text-sm font-bold text-white transition hover:bg-white/10"
                 >
-                  Xem toàn bộ bảng xếp hạng
+                  Gọi 0961 226 169
                 </Link>
               </div>
             </div>
           </div>
         </div>
       </section>
-
-      <div className="hidden md:block fixed bottom-6 right-6 z-[100]">
-        <Link
-          href="https://zalo.me/0961226169"
-          rel="nofollow"
-          target="_blank"
-          className="flex items-center gap-3 rounded-full border border-[#eadfce] bg-white px-4 py-3 shadow-[0_16px_40px_rgba(27,18,13,0.12)] transition hover:scale-[1.02]"
-        >
-          <div className="flex h-8 w-8 items-center justify-center rounded-full bg-[#0068FF] text-[10px] font-bold text-white">
-            ZL
-          </div>
-          <div>
-            <div className="text-xs font-semibold text-[#1b120d]">Tư vấn qua Zalo</div>
-            <div className="mt-0.5 flex items-center gap-1 text-[11px] text-gray-500">
-              <span className="h-1.5 w-1.5 rounded-full bg-emerald-500" />
-              Online
-            </div>
-          </div>
-        </Link>
-      </div>
 
       <nav className="fixed bottom-0 left-0 z-50 flex w-full border-t border-[#eadfce] bg-white/95 py-1 backdrop-blur-sm md:hidden safe-area-pb shadow-[0_-8px_30px_rgba(27,18,13,0.08)]">
         {[
