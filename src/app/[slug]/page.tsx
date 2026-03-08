@@ -329,8 +329,8 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
             <main className="min-h-screen bg-[#fcfaf7] pb-20">
                 <ScrollProgress />
                 <Header />
-                <div className="w-full relative overflow-hidden" style={{ background: '#111', minHeight: '240px' }}>
-                    <div className="relative w-full" style={{ paddingTop: 'min(52%, 460px)' }}>
+                <div className="w-full relative overflow-hidden" style={{ background: '#111', minHeight: '200px' }}>
+                    <div className="relative w-full" style={{ paddingTop: 'min(48%, 420px)' }}>
                         <Image
                             src={post.mainImage || PLACEHOLDER_IMAGE}
                             alt={post.title}
@@ -348,7 +348,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                     )}
                 </div>
 
-                <div className="max-w-[1200px] mx-auto px-5 py-8">
+                <div className="max-w-[1200px] mx-auto px-4 sm:px-5 py-6 sm:py-8">
                     <div className="flex flex-col lg:flex-row gap-12">
                         <div className="flex-1 min-w-0">
                             <nav className="text-xs text-gray-400 flex items-center gap-1.5 mb-4">
@@ -359,7 +359,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 <span className="text-gray-600 line-clamp-1">{post.title}</span>
                             </nav>
 
-                            <section className="mb-8 rounded-[28px] border border-[#eadfce] bg-white p-6 shadow-[0_18px_45px_rgba(27,18,13,0.04)] md:p-8">
+                            <section className="mb-6 rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_18px_45px_rgba(27,18,13,0.04)] sm:mb-8 sm:rounded-[28px] sm:p-6 md:p-8">
                                 <div className="flex flex-wrap items-center gap-3">
                                     {post.category && (
                                         <span className={`text-[10px] font-bold tracking-[2px] uppercase px-3 py-1.5 rounded-full border ${tagColorClass}`}>{post.category}</span>
@@ -368,8 +368,8 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                         <span className="bg-emerald-100 text-emerald-700 px-2.5 py-1 rounded-full text-[10px] font-bold">Mới cập nhật</span>
                                     )}
                                 </div>
-                                <h1 className="text-3xl md:text-[44px] font-serif font-bold mt-4 leading-tight text-gray-900">{post.title}</h1>
-                                <p className="mt-4 max-w-3xl text-sm leading-7 text-gray-600 md:text-base">{post.excerpt || 'Bài viết chia sẻ kiến thức, trải nghiệm thực tế và góc nhìn chọn mua nước hoa rõ ràng hơn cho người Việt.'}</p>
+                                <h1 className="mt-3 text-[30px] font-serif font-bold leading-tight text-gray-900 sm:mt-4 md:text-[44px]">{post.title}</h1>
+                                <p className="mt-3 max-w-3xl text-sm leading-6 text-gray-600 md:text-base md:leading-7">{post.excerpt || 'Bài viết chia sẻ kiến thức, trải nghiệm thực tế và góc nhìn chọn mua nước hoa rõ ràng hơn cho người Việt.'}</p>
                                 <div className="mt-5 flex flex-wrap items-center gap-3 text-[11px] text-gray-400 font-semibold border-t border-[var(--border)] pt-5">
                                     <Link href="/maison-editorial" className="text-gray-600 hover:text-primary transition-colors">{post.author || 'Maison de SON Editorial'}</Link>
                                     {formattedDate && <><span>•</span><span>{formattedDate}</span></>}
@@ -377,11 +377,11 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 </div>
                             </section>
                             <article className="
-                                prose prose-base max-w-none
+                                prose prose-sm sm:prose-base max-w-none
                                 prose-headings:font-serif prose-headings:text-gray-900 prose-headings:font-semibold
                                 prose-h2:text-xl prose-h2:mt-12 prose-h2:mb-5 prose-h2:border-b prose-h2:border-gray-100 prose-h2:pb-3
                                 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-4
-                                prose-p:text-base prose-p:text-gray-700 prose-p:leading-[1.9] prose-p:my-5
+                                prose-p:text-[15px] prose-p:text-gray-700 prose-p:leading-[1.8] prose-p:my-4 sm:prose-p:text-base sm:prose-p:leading-[1.9] sm:prose-p:my-5
                                 prose-li:text-base prose-li:text-gray-700 prose-li:leading-[1.9] prose-li:mb-1
                                 prose-ul:my-5 prose-ol:my-5 prose-ul:space-y-1 prose-ol:space-y-1
                                 prose-strong:text-gray-900 prose-strong:font-semibold
@@ -419,7 +419,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     <Link href="/maison-editorial" className="text-[10px] font-bold text-primary mt-1 inline-block hover:underline">Xem tất cả bài viết →</Link>
                                 </div>
                             </div>
-                            <section className="mt-8 rounded-[28px] border border-[#eadfce] bg-[#f7f2eb] p-5 sm:p-6">
+                            <section className="mt-7 rounded-[24px] border border-[#eadfce] bg-[#f7f2eb] p-4 sm:mt-8 sm:rounded-[28px] sm:p-6">
                                 <h2 className="text-lg font-serif font-bold mb-2 text-[#1b120d]">Cần gợi ý mùi phù hợp sau khi đọc bài này?</h2>
                                 <p className="text-sm text-gray-600 mb-4 leading-7">Nếu bạn vẫn đang phân vân giữa vài lựa chọn, cứ nhắn Zalo. Maison de SON sẽ gợi ý theo gu mùi, ngân sách và hoàn cảnh dùng thực tế.</p>
                                 <div className="flex flex-col sm:flex-row gap-3">

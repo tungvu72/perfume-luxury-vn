@@ -134,9 +134,9 @@ function ProductHero({
   const activeSource = activeImage > 0 ? getImageSource(allImages[activeImage]) : undefined;
 
   return (
-    <section className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1.05fr)_minmax(420px,0.95fr)] lg:gap-12">
+    <section className="grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1.05fr)_minmax(420px,0.95fr)] lg:gap-12">
       <div className="h-fit lg:sticky lg:top-24">
-        <div className="rounded-[28px] border border-[var(--border)] bg-[#faf8f6] p-3 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-4">
+        <div className="rounded-[24px] border border-[var(--border)] bg-[#faf8f6] p-2.5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:rounded-[28px] sm:p-4">
           <div
             className="group relative aspect-[4/5] cursor-zoom-in overflow-hidden rounded-[24px] bg-white"
             onClick={() => setLightboxOpen(true)}
@@ -193,7 +193,7 @@ function ProductHero({
         </div>
 
         <div className="mt-4">
-          <h1 className="text-4xl font-serif leading-[1.06] tracking-[-0.02em] text-gray-950 sm:text-5xl lg:text-[58px]">
+          <h1 className="text-[34px] font-serif leading-[1.08] tracking-[-0.02em] text-gray-950 sm:text-5xl lg:text-[58px]">
             {product.name}
           </h1>
           {product.subName && <p className="mt-3 text-base text-gray-500 sm:text-lg">{product.subName}</p>}
@@ -211,7 +211,7 @@ function ProductHero({
           </div>
         </div>
 
-        <div className="mt-6 rounded-[28px] border border-[var(--border)] bg-white p-5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-6">
+        <div className="mt-5 rounded-[24px] border border-[var(--border)] bg-white p-4 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:mt-6 sm:rounded-[28px] sm:p-6">
           <div className="grid gap-5 sm:grid-cols-[120px_minmax(0,1fr)] sm:items-center">
             <div className="flex h-[110px] w-[110px] flex-col items-center justify-center rounded-full border border-primary/20 bg-[#fbf4ee] text-center">
               <div className={`font-serif text-4xl leading-none ${scoreTone(product.score.total)}`}>{product.score.total}</div>
@@ -220,7 +220,7 @@ function ProductHero({
             <div>
               <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Verdict nhanh</div>
               <h2 className="mt-2 text-xl font-semibold leading-snug text-gray-950 sm:text-2xl">{product.verdictShort}</h2>
-              <p className="mt-3 text-sm leading-7 text-gray-600 sm:text-[15px]">{product.verdict}</p>
+              <p className="mt-3 text-sm leading-6 text-gray-600 sm:text-[15px] sm:leading-7">{product.verdict}</p>
               <div className="mt-4 grid gap-3 sm:grid-cols-2">
                 <div className="rounded-2xl bg-[#f7f3ef] px-4 py-3 text-sm text-gray-700">
                   <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Hợp với ai</div>
@@ -256,7 +256,7 @@ function ProductHero({
           ))}
         </div>
 
-        <div className="mt-6 rounded-[28px] border border-[var(--border)] bg-[#fcfbf9] p-5 sm:p-6">
+        <div className="mt-5 rounded-[24px] border border-[var(--border)] bg-[#fcfbf9] p-4 sm:mt-6 sm:rounded-[28px] sm:p-6">
           <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
             <div>
               <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Giá tham khảo</div>
