@@ -165,7 +165,7 @@ export default async function Home() {
           <div className="relative z-10 grid gap-5 px-4 py-6 md:grid-cols-[minmax(0,1.15fr)_minmax(300px,0.85fr)] md:px-10 md:py-14 lg:px-14">
             <div className="max-w-2xl">
               <span className="inline-flex rounded-full border border-white/15 bg-white/10 px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-[#f1d7b4] backdrop-blur sm:text-[11px] sm:tracking-[0.24em]">
-                Kiến thức thực tế • Review chọn lọc • Gợi ý đáng xem
+                Kiến thức thực tế • Review chọn lọc • Gợi ý mua online chính hãng
               </span>
               <h1 className="mt-4 text-[28px] font-serif leading-[1.12] text-white sm:text-3xl md:text-5xl md:leading-[1.1]">
                 Trang nước hoa giúp bạn thực sự hiểu một chai nước hoa
