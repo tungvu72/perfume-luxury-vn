@@ -181,8 +181,9 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
 // ─── BRAND PAGE (render khi slug là thương hiệu) ─────────────
 async function BrandPage({ brand, slug }: { brand: any; slug: string }) {
     const products = await getProductsByBrand(slug);
+    const featuredProducts = products.slice(0, 4);
     return (
-        <main className="min-h-screen bg-white pb-20">
+        <main className="min-h-screen bg-[#fcfaf7] pb-20">
             <ScrollProgress />
             <Header />
             <div className="max-w-[1200px] mx-auto px-5 py-10">
@@ -190,26 +191,92 @@ async function BrandPage({ brand, slug }: { brand: any; slug: string }) {
                     { label: 'Thương hiệu', href: '/thuong-hieu' },
                     { label: brand.name },
                 ]} />
-                <div className="mt-8 mb-12">
-                    <h1 className="text-4xl md:text-6xl font-serif mb-3">Nước hoa {brand.name}</h1>
-                    <p className="text-gray-500">Khám phá các bài review và lựa chọn nổi bật từ <strong>{brand.name}</strong> tại Maison de SON — hiện có {products.length} sản phẩm</p>
-                </div>
-                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
-                    {products.map((p: Perfume) => (
-                        <Link key={p.id} href={`/${p.id}`} className="group border border-[var(--border)] rounded-2xl p-4 hover:shadow-lg transition-all hover:-translate-y-1">
-                            <div className="aspect-square bg-[#F7F7F7] rounded-xl overflow-hidden relative mb-3">
-                                <Image src={p.image} alt={p.name} fill sizes="200px" className="object-contain p-3 group-hover:scale-105 transition-transform duration-500" />
+
+                <section className="mt-8 overflow-hidden rounded-[32px] border border-[#eadfce] bg-white shadow-[0_20px_60px_rgba(17,17,17,0.05)]">
+                    <div className="grid gap-6 px-6 py-7 md:grid-cols-[minmax(0,1.1fr)_320px] md:px-8 md:py-9">
+                        <div>
+                            <div className="text-[11px] font-bold uppercase tracking-[0.24em] text-primary">Brand Spotlight</div>
+                            <h1 className="mt-3 text-4xl font-serif leading-tight text-[#1b120d] md:text-6xl">Nước hoa {brand.name}</h1>
+                            <p className="mt-4 max-w-3xl text-sm leading-7 text-gray-600 md:text-base">
+                                Khám phá những lựa chọn nổi bật từ <strong>{brand.name}</strong> tại Maison de SON. Đây là nơi tổng hợp review, trải nghiệm thực tế và gợi ý chọn mùi phù hợp cho người Việt — dễ hiểu, gọn và đủ để ra quyết định.
+                            </p>
+
+                            <div className="mt-5 flex flex-wrap gap-3 text-sm">
+                                <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">{products.length} sản phẩm đang có</span>
+                                <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Review chọn lọc</span>
+                                <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Gợi ý mua chính hãng</span>
                             </div>
-                            <div className="text-[9px] font-bold text-primary tracking-wider uppercase mb-0.5">{p.brand}</div>
-                            <div className="text-sm font-semibold leading-tight group-hover:text-primary transition-colors">{p.name}</div>
-                            <div className="text-[10px] text-gray-400 mt-1">{p.subName}</div>
-                            <div className="flex items-center justify-between mt-2">
-                                <span className="text-xs font-bold">★ {p.score.total}/10</span>
-                                <span className="text-[10px] text-gray-400">{p.basePrice > 0 ? `${p.basePrice.toLocaleString()}đ` : 'Liên hệ'}</span>
+                        </div>
+
+                        <div className="grid gap-3 rounded-[24px] border border-[#eadfce] bg-[#fcfaf7] p-4">
+                            <div className="rounded-2xl bg-white p-4">
+                                <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Maison de SON đọc brand này như thế nào?</div>
+                                <p className="mt-2 text-sm leading-6 text-gray-600">Ưu tiên cảm nhận thực tế, độ dễ dùng, mức độ đáng tiền và hoàn cảnh sử dụng tại Việt Nam thay vì chỉ nhìn hype.</p>
                             </div>
-                        </Link>
-                    ))}
-                </div>
+                            <div className="rounded-2xl bg-white p-4">
+                                <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Phù hợp cho ai</div>
+                                <p className="mt-2 text-sm leading-6 text-gray-600">Người muốn bắt đầu từ thương hiệu trước, rồi mới chọn ra chai hợp gu, hợp túi tiền và hợp hoàn cảnh dùng.</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                {featuredProducts.length > 0 && (
+                    <section className="mt-8 mb-10">
+                        <div className="mb-5 flex flex-col gap-2 md:flex-row md:items-end md:justify-between">
+                            <div>
+                                <div className="text-[11px] font-bold uppercase tracking-[0.22em] text-primary">Lựa chọn nổi bật</div>
+                                <h2 className="mt-2 text-2xl font-serif text-[#1b120d] md:text-3xl">Những chai nên xem trước</h2>
+                            </div>
+                            <p className="text-sm text-gray-500">Bắt đầu từ các lựa chọn dễ tham khảo nhất trước khi đi sâu hơn.</p>
+                        </div>
+                        <div className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-4">
+                            {featuredProducts.map((p: Perfume) => (
+                                <Link key={p.id} href={`/${p.id}`} className="group overflow-hidden rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_16px_40px_rgba(27,18,13,0.04)] transition-all hover:-translate-y-1 hover:shadow-[0_20px_50px_rgba(27,18,13,0.08)]">
+                                    <div className="relative mb-4 aspect-square overflow-hidden rounded-2xl bg-[#f7f3ee]">
+                                        <Image src={p.image} alt={p.name} fill sizes="(max-width: 1280px) 50vw, 25vw" className="object-contain p-4 group-hover:scale-105 transition-transform duration-500" />
+                                    </div>
+                                    <div className="text-[10px] font-bold uppercase tracking-[0.18em] text-primary">{p.brand}</div>
+                                    <div className="mt-2 text-base font-semibold leading-tight text-[#1b120d] group-hover:text-primary transition-colors">{p.name}</div>
+                                    <div className="mt-1 text-xs text-gray-400">{p.subName}</div>
+                                    <p className="mt-3 line-clamp-2 text-sm leading-6 text-gray-600">{p.verdictShort || p.verdict}</p>
+                                    <div className="mt-4 flex items-center justify-between text-sm">
+                                        <span className="font-semibold text-primary">★ {p.score.total}/10</span>
+                                        <span className="text-gray-400">{p.basePrice > 0 ? `${p.basePrice.toLocaleString()}đ` : 'Liên hệ'}</span>
+                                    </div>
+                                </Link>
+                            ))}
+                        </div>
+                    </section>
+                )}
+
+                <section>
+                    <div className="mb-5 flex flex-col gap-2 md:flex-row md:items-end md:justify-between">
+                        <div>
+                            <div className="text-[11px] font-bold uppercase tracking-[0.22em] text-primary">Toàn bộ sản phẩm</div>
+                            <h2 className="mt-2 text-2xl font-serif text-[#1b120d] md:text-3xl">Khám phá theo chai cụ thể</h2>
+                        </div>
+                        <p className="text-sm text-gray-500">Danh sách hiện có từ {brand.name} trên Maison de SON.</p>
+                    </div>
+
+                    <div className="grid grid-cols-2 gap-5 md:grid-cols-3 lg:grid-cols-4">
+                        {products.map((p: Perfume) => (
+                            <Link key={p.id} href={`/${p.id}`} className="group rounded-2xl border border-[#eadfce] bg-white p-4 shadow-[0_12px_35px_rgba(27,18,13,0.03)] transition-all hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)]">
+                                <div className="relative mb-3 aspect-square overflow-hidden rounded-xl bg-[#F7F7F7]">
+                                    <Image src={p.image} alt={p.name} fill sizes="200px" className="object-contain p-3 group-hover:scale-105 transition-transform duration-500" />
+                                </div>
+                                <div className="text-[9px] font-bold text-primary tracking-wider uppercase mb-0.5">{p.brand}</div>
+                                <div className="text-sm font-semibold leading-tight group-hover:text-primary transition-colors">{p.name}</div>
+                                <div className="text-[10px] text-gray-400 mt-1">{p.subName}</div>
+                                <div className="flex items-center justify-between mt-3">
+                                    <span className="text-xs font-bold">★ {p.score.total}/10</span>
+                                    <span className="text-[10px] text-gray-400">{p.basePrice > 0 ? `${p.basePrice.toLocaleString()}đ` : 'Liên hệ'}</span>
+                                </div>
+                            </Link>
+                        ))}
+                    </div>
+                </section>
+
                 {products.length === 0 && (
                     <div className="text-center py-20 text-gray-400">
                         <p>Chưa có sản phẩm {brand.name}. <Link href="https://zalo.me/0961226169" className="text-primary underline">Hỏi qua Zalo →</Link></p>
