@@ -8,53 +8,115 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Maison de SON | Review Nước Hoa Chính Hãng & Giải Mã Scent DNA",
-  description: "Cơ sở dữ liệu đánh giá nước hoa chuyên sâu (Niche, Designer & Dupe). Cam kết review trung thực, so sánh giá nước hoa chính hãng, tư vấn Zalo 24/7.",
-  keywords: ["review nước hoa", "nước hoa chính hãng", "giá nước hoa", "maison de son", "scent dna"],
+  description:
+    "Cơ sở dữ liệu đánh giá nước hoa chuyên sâu tại Việt Nam. Xem review trung thực, bảng xếp hạng, phân tích DNA mùi hương và nhận tư vấn qua Zalo.",
+  keywords: [
+    "review nước hoa",
+    "nước hoa chính hãng",
+    "giá nước hoa",
+    "maison de son",
+    "scent dna",
+  ],
 };
 
-export const revalidate = 3600; // ISR: re-generate sau 1 tiếng
+export const revalidate = 3600;
 
-
-// Giới tính icons — SVG stroke-based, hiện đại
-const GenderIcons = {
-  male: (
-    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-      <circle cx="13" cy="19" r="7" />
-      <line x1="18.9" y1="13.1" x2="27" y2="5" />
-      <polyline points="22 5 27 5 27 10" />
-    </svg>
-  ),
-  female: (
-    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-      <circle cx="16" cy="12" r="7" />
-      <line x1="16" y1="19" x2="16" y2="28" />
-      <line x1="11" y1="23.5" x2="21" y2="23.5" />
-    </svg>
-  ),
-  unisex: (
-    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-      <circle cx="10.5" cy="19" r="5.5" />
-      <circle cx="21.5" cy="12" r="5.5" />
-      <line x1="15.4" y1="16.6" x2="16.6" y2="14.4" />
-    </svg>
-  ),
-  bestseller: (
-    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-      <path d="M16 3l3.09 6.26L26 10.27l-5 4.87 1.18 6.88L16 18.77l-6.18 3.25L11 15.14 6 10.27l6.91-1.01L16 3z" />
-    </svg>
-  ),
-};
+const PLACEHOLDER =
+  "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=1200";
 
 const CATEGORY_TAG_COLORS: Record<string, string> = {
-  'Product Review': 'bg-amber-100 text-amber-700',
-  'Buying Guide': 'bg-blue-100 text-blue-700',
-  'How-to': 'bg-green-100 text-green-700',
-  'Trend': 'bg-rose-100 text-rose-700',
-  'So sánh': 'bg-orange-100 text-orange-700',
-  'Brand Story': 'bg-indigo-100 text-indigo-700',
+  "Product Review": "bg-amber-100 text-amber-800",
+  "Buying Guide": "bg-blue-100 text-blue-800",
+  "How-to": "bg-emerald-100 text-emerald-800",
+  Trend: "bg-rose-100 text-rose-800",
+  "So sánh": "bg-orange-100 text-orange-800",
+  "Brand Story": "bg-indigo-100 text-indigo-800",
 };
 
-const PLACEHOLDER = 'https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=800';
+const trustItems = [
+  {
+    title: "Review độc lập",
+    desc: "Nói rõ điểm mạnh, điểm yếu và độ đáng tiền thay vì khen cho có.",
+  },
+  {
+    title: "Phân tích DNA mùi hương",
+    desc: "Đi sâu vào nhóm hương, nốt hương và cảm giác thực tế khi dùng.",
+  },
+  {
+    title: "Hiệu năng tại Việt Nam",
+    desc: "Đánh giá trong bối cảnh nóng ẩm, đi làm, đi chơi và dùng hằng ngày.",
+  },
+  {
+    title: "Tư vấn qua Zalo",
+    desc: "Cần chốt nhanh chai phù hợp, cứ nhắn để được gợi ý theo nhu cầu thật.",
+  },
+];
+
+const quickPaths = [
+  {
+    title: "Tìm chai phù hợp",
+    desc: "Bắt đầu từ nhu cầu thật như đi làm, hẹn hò, mùa hè hay mùi sang trọng dễ dùng.",
+    href: "/bang-xep-hang",
+    cta: "Khám phá theo nhu cầu",
+  },
+  {
+    title: "Xem top nước hoa tốt nhất",
+    desc: "Xem những chai có điểm tổng cao, hiệu năng ổn và đáng đọc nhất tháng này.",
+    href: "/bang-xep-hang",
+    cta: "Vào bảng xếp hạng",
+  },
+  {
+    title: "Học trước khi mua",
+    desc: "Đọc kiến thức nền tảng để hiểu độ lưu hương, độ tỏa hương và cách chọn đúng chai.",
+    href: "/kien-thuc",
+    cta: "Vào khu kiến thức",
+  },
+];
+
+const needPaths = [
+  { label: "Cho nam", href: "/nam-gioi" },
+  { label: "Cho nữ", href: "/nu-gioi" },
+  { label: "Unisex", href: "/unisex" },
+  { label: "Đi làm văn phòng", href: "/bang-xep-hang" },
+  { label: "Hẹn hò buổi tối", href: "/bang-xep-hang" },
+  { label: "Mùa hè nóng ẩm", href: "/bang-xep-hang" },
+  { label: "Mùi sang trọng", href: "/bang-xep-hang" },
+  { label: "Dễ dùng hằng ngày", href: "/bang-xep-hang" },
+];
+
+function SectionHeading({
+  eyebrow,
+  title,
+  description,
+  href,
+  cta,
+}: {
+  eyebrow: string;
+  title: string;
+  description: string;
+  href?: string;
+  cta?: string;
+}) {
+  return (
+    <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between mb-6 md:mb-8">
+      <div className="max-w-2xl">
+        <span className="mb-2 block text-[11px] font-bold uppercase tracking-[0.28em] text-primary">
+          {eyebrow}
+        </span>
+        <h2 className="text-2xl md:text-4xl font-serif text-[#1b120d]">{title}</h2>
+        <p className="mt-2 text-sm md:text-base leading-7 text-gray-600">{description}</p>
+      </div>
+      {href && cta ? (
+        <Link
+          href={href}
+          className="inline-flex items-center text-sm font-semibold text-primary hover:underline"
+        >
+          {cta} →
+        </Link>
+      ) : null}
+    </div>
+  );
+}
 
 export default async function Home() {
   const [allProducts, topRanked, allPosts] = await Promise.all([
@@ -63,217 +125,248 @@ export default async function Home() {
     getAllPosts(),
   ]);
 
-  // ─── SECTION DATA RULES ───────────────────────────────────────────────────
-  // 1. XU HƯỚNG: Top rated theo score.total — dùng topRanked slice 6
-  const trendingSection = topRanked.length > 0 ? topRanked.slice(0, 6) : allProducts.slice(0, 6);
-
-  // 2. BẢNG XẾP HẠNG: Sắp xếp theo score.total desc (khác trending — lấy tiếp theo)
   const rankingSection = [...allProducts]
     .sort((a, b) => b.score.total - a.score.total)
-    .slice(0, 6);
+    .slice(0, 5);
 
-  // 3. ĐÁNH GIÁ MỚI NHẤT: Lấy các sản phẩm có updatedAt mới nhất (không trùng top trending)
-  const trendingIds = new Set(trendingSection.map((p: any) => p.id));
-  const latestReviews = allProducts
-    .filter((p: any) => !trendingIds.has(p.id))
+  const featuredProduct = rankingSection[0];
+  const rankingRest = rankingSection.slice(1, 5);
+
+  const latestReviews = [...allProducts]
+    .filter((product) => product.id !== featuredProduct?.id)
     .slice(0, 4);
 
-  // 4. BÀI VIẾT MỚI NHẤT: 3 bài viết nổi bật từ content/
   const featuredPosts = allPosts.slice(0, 3);
 
   const now = new Date();
-  const currentMonthYear = `${(now.getMonth() + 1).toString().padStart(2, '0')}/${now.getFullYear()}`;
+  const currentMonthYear = `${(now.getMonth() + 1)
+    .toString()
+    .padStart(2, "0")}/${now.getFullYear()}`;
 
   return (
-    <main className="min-h-screen bg-white">
+    <main className="min-h-screen bg-[#fcfaf7] text-[#1b120d]">
       <Header />
 
-      {/* ─── HERO ─────────────────────────────────────────────────────────── */}
-      <section className="max-w-[1200px] mx-auto px-4 py-4 md:py-6">
-        <div className="relative rounded-2xl overflow-hidden bg-[#F5F0EB] h-[300px] md:h-[500px] flex flex-col justify-end p-6 md:p-14 group">
+      <section className="mx-auto max-w-[1200px] px-4 pt-4 pb-8 md:pt-6 md:pb-12">
+        <div className="relative overflow-hidden rounded-[28px] border border-[#e7ddd3] bg-[#f3ece4]">
           <Image
             src="/hero-main-v2.png"
-            alt="Maison de SON — Luxury Fragrance"
-            fill sizes="100vw" priority
-            className="object-cover object-right opacity-60 group-hover:scale-105 transition-transform duration-1000"
+            alt="Maison de SON"
+            fill
+            priority
+            sizes="100vw"
+            className="object-cover object-right opacity-20"
           />
-          {/* Gradient */}
-          <div className="absolute inset-0 bg-gradient-to-r from-[#1a0e0a]/80 via-[#1a0e0a]/40 to-transparent" />
-          <div className="relative z-10 max-w-sm md:max-w-lg">
-            <span className="text-[10px] md:text-[11px] font-bold text-[#c9a97a] tracking-[3px] uppercase mb-2 md:mb-3 block">
-              Xu hướng tháng {currentMonthYear}
-            </span>
-            <h1 className="text-2xl md:text-5xl font-serif text-white leading-tight mb-4 md:mb-8">
-              Đỉnh cao của sự thanh lịch hiện đại
-            </h1>
-            <div className="flex flex-wrap gap-3">
-              <Link href="/bang-xep-hang"
-                className="inline-block bg-white text-[#1a0e0a] px-5 md:px-8 py-2.5 md:py-3.5 rounded-full text-xs md:text-sm font-bold hover:bg-[#c9a97a] hover:text-white transition-colors active:scale-95">
-                Khám phá ngay
-              </Link>
-              <Link href="/kien-thuc"
-                className="inline-block border border-white/50 text-white px-5 md:px-8 py-2.5 md:py-3.5 rounded-full text-xs md:text-sm font-bold hover:bg-white/10 transition-colors active:scale-95">
-                Đọc kiến thức
-              </Link>
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(255,255,255,0.7),transparent_45%),linear-gradient(135deg,rgba(24,15,10,0.96),rgba(24,15,10,0.8)_50%,rgba(24,15,10,0.38)_100%)]" />
+
+          <div className="relative z-10 grid gap-8 px-5 py-8 md:grid-cols-[minmax(0,1.15fr)_minmax(300px,0.85fr)] md:px-10 md:py-14 lg:px-14">
+            <div className="max-w-2xl">
+              <span className="inline-flex rounded-full border border-white/15 bg-white/10 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.24em] text-[#d9bc94] backdrop-blur">
+                Review chuyên sâu • Data-driven • Việt Nam
+              </span>
+              <h1 className="mt-5 text-3xl font-serif leading-tight text-white md:text-5xl md:leading-[1.1]">
+                Trang nước hoa giúp bạn thực sự hiểu một chai nước hoa
+              </h1>
+              <p className="mt-4 max-w-2xl text-sm leading-7 text-white/80 md:text-base">
+                Maison de Son đánh giá nước hoa theo DNA mùi hương, độ lưu hương,
+                độ tỏa hương và mức độ phù hợp với thời tiết Việt Nam. Xem review
+                trung thực, bảng xếp hạng chọn lọc và nhận tư vấn qua Zalo khi cần
+                chốt nhanh chai phù hợp.
+              </p>
+
+              <div className="mt-7 flex flex-col gap-3 sm:flex-row">
+                <Link
+                  href="/bang-xep-hang"
+                  className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 text-sm font-bold text-[#1b120d] transition hover:bg-[#d7b48c] hover:text-white"
+                >
+                  Xem bảng xếp hạng
+                </Link>
+                <Link
+                  href="/kien-thuc"
+                  className="inline-flex items-center justify-center rounded-full border border-white/30 px-6 py-3 text-sm font-bold text-white transition hover:bg-white/10"
+                >
+                  Học trước khi mua
+                </Link>
+              </div>
+            </div>
+
+            <div className="grid gap-3 rounded-[24px] border border-white/10 bg-white/8 p-4 backdrop-blur md:p-5">
+              <div className="flex items-start justify-between gap-3 border-b border-white/10 pb-3">
+                <div>
+                  <p className="text-[11px] font-bold uppercase tracking-[0.24em] text-[#d9bc94]">
+                    Xu hướng tháng {currentMonthYear}
+                  </p>
+                  <p className="mt-2 text-lg font-serif text-white">Bắt đầu từ những gì đáng xem nhất</p>
+                </div>
+                <span className="rounded-full bg-white/10 px-3 py-1 text-xs font-semibold text-white/80">
+                  Maison Method
+                </span>
+              </div>
+
+              <div className="grid gap-3 text-sm text-white/85">
+                <div className="rounded-2xl bg-white/8 p-4">
+                  <div className="text-[11px] font-bold uppercase tracking-[0.2em] text-[#d9bc94]">
+                    01 • DNA mùi hương
+                  </div>
+                  <p className="mt-2 leading-6">Phân tích cảm giác mùi, nhóm hương và độ dễ dùng ngoài đời thật.</p>
+                </div>
+                <div className="rounded-2xl bg-white/8 p-4">
+                  <div className="text-[11px] font-bold uppercase tracking-[0.2em] text-[#d9bc94]">
+                    02 • Hiệu năng tại VN
+                  </div>
+                  <p className="mt-2 leading-6">Đánh giá trong bối cảnh nóng ẩm, công sở, hẹn hò và dùng hằng ngày.</p>
+                </div>
+                <div className="rounded-2xl bg-white/8 p-4">
+                  <div className="text-[11px] font-bold uppercase tracking-[0.2em] text-[#d9bc94]">
+                    03 • Giá trị sử dụng
+                  </div>
+                  <p className="mt-2 leading-6">Không chỉ thơm, mà phải hợp nhu cầu và xứng đáng với số tiền bỏ ra.</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
+
+        <div className="mt-4 grid gap-3 md:mt-5 md:grid-cols-4">
+          {trustItems.map((item) => (
+            <div
+              key={item.title}
+              className="rounded-2xl border border-[#eadfce] bg-white p-4 shadow-[0_10px_30px_rgba(27,18,13,0.04)]"
+            >
+              <h2 className="text-sm font-semibold text-[#1b120d]">{item.title}</h2>
+              <p className="mt-1 text-sm leading-6 text-gray-600">{item.desc}</p>
+            </div>
+          ))}
+        </div>
       </section>
 
-      {/* ─── QUICK CATEGORIES ────────────────────────────────────────────── */}
-      <section className="max-w-[1200px] mx-auto px-4 py-6 md:py-8">
-        <div className="grid grid-cols-4 gap-2 md:gap-5">
-          {[
-            { icon: GenderIcons.male, label: "Cho Nam", href: "/nam-gioi", accent: "group-hover:text-blue-600 group-hover:border-blue-200 group-hover:bg-blue-50" },
-            { icon: GenderIcons.female, label: "Cho Nữ", href: "/nu-gioi", accent: "group-hover:text-pink-600 group-hover:border-pink-200 group-hover:bg-pink-50" },
-            { icon: GenderIcons.unisex, label: "Unisex", href: "/unisex", accent: "group-hover:text-purple-600 group-hover:border-purple-200 group-hover:bg-purple-50" },
-            { icon: GenderIcons.bestseller, label: "Best Seller", href: "/bang-xep-hang", accent: "group-hover:text-primary group-hover:border-primary/20 group-hover:bg-primary/5" },
-          ].map((cat, i) => (
-            <Link key={i} href={cat.href}
-              className={`group flex flex-col items-center justify-center p-3 md:p-6 border border-[var(--border)] rounded-2xl transition-all duration-200 active:scale-95 bg-white ${cat.accent}`}>
-              <div className="mb-1.5 md:mb-3 transition-transform duration-200 group-hover:scale-110 group-hover:-translate-y-0.5 text-gray-500 group-hover:text-inherit">
-                {cat.icon}
+      <section className="mx-auto max-w-[1200px] px-4 py-4 md:py-6">
+        <div className="grid gap-4 md:grid-cols-3">
+          {quickPaths.map((path) => (
+            <Link
+              key={path.title}
+              href={path.href}
+              className="group rounded-[24px] border border-[#eadfce] bg-white p-5 transition duration-300 hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)] md:p-6"
+            >
+              <div className="text-[11px] font-bold uppercase tracking-[0.24em] text-primary">
+                Lối vào nhanh
               </div>
-              <span className="text-[10px] md:text-xs font-bold tracking-wider uppercase text-gray-600 group-hover:text-inherit">{cat.label}</span>
+              <h2 className="mt-3 text-2xl font-serif text-[#1b120d]">{path.title}</h2>
+              <p className="mt-3 text-sm leading-7 text-gray-600">{path.desc}</p>
+              <span className="mt-5 inline-flex items-center text-sm font-semibold text-primary group-hover:underline">
+                {path.cta} →
+              </span>
             </Link>
           ))}
         </div>
       </section>
 
-      {/* ─── XU HƯỚNG HIỆN NAY ───────────────────────────────────────────── */}
-      {trendingSection.length > 0 && (
-        <section className="max-w-[1200px] mx-auto px-4 py-6 md:py-8 border-t border-[var(--border)]">
-          <div className="flex justify-between items-end mb-5 md:mb-6">
-            <div>
-              <span className="text-[10px] font-bold text-primary tracking-[3px] uppercase block mb-1">🔥 Hot tháng {currentMonthYear}</span>
-              <h2 className="text-xl md:text-3xl font-serif">Xu hướng hiện nay</h2>
-            </div>
-            <Link href="/bang-xep-hang" className="text-[11px] font-bold text-primary tracking-wider hover:underline uppercase">
-              Tất cả →
-            </Link>
-          </div>
-          {/* Horizontal scroll on mobile, grid on desktop */}
-          <div className="flex overflow-x-auto gap-3 pb-3 -mx-4 px-4 md:mx-0 md:px-0 md:grid md:grid-cols-6 md:gap-4 scrollbar-hide">
-            {trendingSection.map((p: any) => (
-              <Link key={p.id} href={`/${p.slug || p.id}`}
-                className="min-w-[120px] md:min-w-0 group bg-white rounded-xl hover:shadow-xl transition-all duration-300 p-1 flex-shrink-0">
-                <div className="aspect-square bg-[#F7F7F7] rounded-xl overflow-hidden mb-2 relative">
-                  <Image src={p.image} alt={p.name} fill sizes="(max-width:768px) 120px, 180px"
-                    className="object-contain p-3 group-hover:scale-110 transition-transform duration-500" />
-                  <div className="absolute top-1.5 right-1.5 bg-primary text-white w-7 h-7 rounded-full flex items-center justify-center text-[9px] font-bold shadow">
-                    {p.score.total}
-                  </div>
-                </div>
-                <div className="px-1 text-[8px] font-bold text-gray-400 tracking-wider uppercase">{p.brand}</div>
-                <div className="px-1 text-xs font-semibold truncate group-hover:text-primary transition-colors">{p.name}</div>
-              </Link>
-            ))}
-          </div>
-        </section>
-      )}
+      {featuredProduct && (
+        <section className="mx-auto max-w-[1200px] px-4 py-8 md:py-12">
+          <SectionHeading
+            eyebrow="Top picks"
+            title="Những chai đáng xem nhất tháng này"
+            description="Bắt đầu từ các lựa chọn có điểm tổng cao, hiệu năng ổn và đủ lý do để người mới lẫn người chơi lâu năm phải bấm vào đọc tiếp."
+            href="/bang-xep-hang"
+            cta="Xem bảng xếp hạng đầy đủ"
+          />
 
-      {/* ─── BẢNG XẾP HẠNG ──────────────────────────────────────────────── */}
-      {rankingSection.length > 0 && (
-        <section className="max-w-[1200px] mx-auto px-4 py-6 md:py-8 border-t border-[var(--border)]">
-          <div className="flex justify-between items-end mb-5 md:mb-6">
-            <div>
-              <span className="text-[10px] font-bold text-gray-400 tracking-[3px] uppercase block mb-1">📊 Điểm cao nhất</span>
-              <h2 className="text-xl md:text-3xl font-serif">Bảng xếp hạng tháng {currentMonthYear}</h2>
-            </div>
-            <Link href="/bang-xep-hang" className="text-[11px] font-bold text-primary tracking-wider hover:underline uppercase">
-              Đầy đủ →
-            </Link>
-          </div>
-          <div className="flex overflow-x-auto gap-3 pb-3 -mx-4 px-4 md:mx-0 md:px-0 md:grid md:grid-cols-3 md:gap-6 scrollbar-hide">
-            {rankingSection.slice(0, 6).map((product: any, i: number) => (
-              <Link key={product.id} href={`/${product.slug || product.id}`}
-                className="min-w-[155px] md:min-w-0 group bg-white rounded-xl hover:shadow-xl transition-all duration-300 p-2 flex-shrink-0">
-                <div className="aspect-square bg-[#F7F7F7] rounded-xl overflow-hidden mb-3 relative">
-                  <span className="absolute top-3 left-3 font-serif text-3xl opacity-8 font-black text-gray-200">
-                    {String(i + 1).padStart(2, '0')}
-                  </span>
-                  <Image src={product.image} alt={product.name} fill
-                    sizes="(max-width:768px) 155px, 350px"
-                    className="object-contain p-5 group-hover:scale-105 transition-transform duration-500" />
-                  <div className="absolute bottom-3 left-3 bg-white/90 backdrop-blur-sm px-2.5 py-1 rounded-full text-[10px] font-bold shadow-sm">
-                    ★ {product.score.total}/10
-                  </div>
-                </div>
-                <div className="px-1">
-                  <span className="text-[9px] font-bold text-gray-400 tracking-[2px] uppercase">{product.brand}</span>
-                  <h3 className="text-sm font-semibold group-hover:text-primary transition-colors mt-0.5 line-clamp-1">{product.name}</h3>
-                  <div className="text-xs text-gray-500 mt-1">{product.basePrice > 0 ? product.basePrice.toLocaleString() + ' VNĐ' : 'Liên hệ'}</div>
-                </div>
-              </Link>
-            ))}
-          </div>
-        </section>
-      )}
-
-      {/* ─── BÀI VIẾT KIẾN THỨC MỚI ─────────────────────────────────────── */}
-      {featuredPosts.length > 0 && (
-        <section className="max-w-[1200px] mx-auto px-4 py-6 md:py-10 border-t border-[var(--border)]">
-          <div className="flex justify-between items-end mb-5 md:mb-6">
-            <div>
-              <span className="text-[10px] font-bold text-primary tracking-[3px] uppercase block mb-1">📖 Kiến thức</span>
-              <h2 className="text-xl md:text-3xl font-serif">Bài viết mới nhất</h2>
-            </div>
-            <Link href="/kien-thuc" className="text-[11px] font-bold text-primary tracking-wider hover:underline uppercase">
-              Xem tất cả →
-            </Link>
-          </div>
-
-          {/* Featured post (large) + 2 small */}
-          <div className="flex flex-col md:flex-row gap-4 md:gap-6">
-            {/* Main feature */}
-            {featuredPosts[0] && (
-              <Link href={`/${featuredPosts[0].urlSlug}`}
-                className="group flex-1 min-w-0 flex flex-col rounded-2xl overflow-hidden border border-[var(--border)] hover:shadow-xl hover:-translate-y-1 transition-all duration-300 bg-white">
-                <div className="relative h-[180px] md:h-[240px] bg-gray-100 overflow-hidden flex-shrink-0">
+          <div className="grid gap-4 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,0.9fr)]">
+            <Link
+              href={`/${featuredProduct.id}`}
+              className="group overflow-hidden rounded-[28px] border border-[#eadfce] bg-white shadow-[0_20px_50px_rgba(27,18,13,0.06)] transition duration-300 hover:-translate-y-1"
+            >
+              <div className="grid h-full md:grid-cols-[0.9fr_1.1fr]">
+                <div className="relative min-h-[280px] bg-[#f7f3ee] md:min-h-[420px]">
                   <Image
-                    src={featuredPosts[0].mainImage || PLACEHOLDER}
-                    alt={featuredPosts[0].title} fill
-                    sizes="(max-width:768px) 100vw, 50vw"
-                    className="object-cover group-hover:scale-105 transition-transform duration-700"
-                    unoptimized={!featuredPosts[0].mainImage || featuredPosts[0].mainImage.startsWith('http')}
+                    src={featuredProduct.image}
+                    alt={featuredProduct.name}
+                    fill
+                    sizes="(max-width: 768px) 100vw, 40vw"
+                    className="object-contain p-8 transition duration-500 group-hover:scale-105"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
-                  <span className={`absolute top-3 left-3 text-[9px] font-bold tracking-wider uppercase px-2.5 py-1 rounded-full ${CATEGORY_TAG_COLORS[featuredPosts[0].category] || 'bg-gray-100 text-gray-600'}`}>
-                    {featuredPosts[0].category}
-                  </span>
                 </div>
-                <div className="p-4 md:p-5 flex flex-col flex-1">
-                  <h3 className="font-serif font-bold text-base md:text-lg leading-snug group-hover:text-primary transition-colors line-clamp-2 mb-2">
-                    {featuredPosts[0].title}
-                  </h3>
-                  <p className="text-xs text-gray-500 line-clamp-2 flex-1">{featuredPosts[0].excerpt}</p>
-                  <div className="text-[10px] text-gray-400 font-semibold mt-3">⏱ {featuredPosts[0].readTime}</div>
-                </div>
-              </Link>
-            )}
+                <div className="flex flex-col justify-between p-6 md:p-8">
+                  <div>
+                    <div className="flex flex-wrap items-center gap-2">
+                      <span className="rounded-full bg-[#f4ede4] px-3 py-1 text-[11px] font-bold uppercase tracking-[0.18em] text-primary">
+                        Top 01 tháng {currentMonthYear}
+                      </span>
+                      <span className="rounded-full bg-[#111]/[0.03] px-3 py-1 text-xs font-semibold text-gray-700">
+                        ★ {featuredProduct.score.total}/10
+                      </span>
+                    </div>
+                    <div className="mt-4 text-sm font-semibold uppercase tracking-[0.18em] text-gray-400">
+                      {featuredProduct.brand}
+                    </div>
+                    <h3 className="mt-2 text-3xl font-serif leading-tight text-[#1b120d] md:text-4xl">
+                      {featuredProduct.name}
+                    </h3>
+                    <p className="mt-4 text-sm leading-7 text-gray-600 md:text-base">
+                      {featuredProduct.verdictShort || featuredProduct.verdict}
+                    </p>
+                  </div>
 
-            {/* 2 smaller posts */}
-            <div className="flex flex-col gap-4 md:w-[300px] flex-shrink-0">
-              {featuredPosts.slice(1, 3).map(post => (
-                <Link key={post.urlSlug} href={`/${post.urlSlug}`}
-                  className="group flex gap-3 p-3 border border-[var(--border)] rounded-xl hover:border-primary/30 hover:shadow-md transition-all bg-white">
-                  <div className="w-[80px] h-[80px] flex-shrink-0 bg-gray-100 rounded-lg overflow-hidden relative">
+                  <div className="mt-6 grid gap-3 sm:grid-cols-2">
+                    <div className="rounded-2xl bg-[#faf6f1] p-4">
+                      <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">
+                        Hợp với ai
+                      </div>
+                      <p className="mt-2 text-sm leading-6 text-gray-700">
+                        Người cần một lựa chọn dễ gây thiện cảm, chỉn chu và đủ khác biệt để nhớ lâu.
+                      </p>
+                    </div>
+                    <div className="rounded-2xl bg-[#faf6f1] p-4">
+                      <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">
+                        Mức giá tham khảo
+                      </div>
+                      <p className="mt-2 text-sm leading-6 text-gray-700">
+                        {featuredProduct.basePrice > 0
+                          ? `${featuredProduct.basePrice.toLocaleString()} VNĐ`
+                          : "Liên hệ để cập nhật"}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </Link>
+
+            <div className="grid gap-4">
+              {rankingRest.map((product, index) => (
+                <Link
+                  key={product.id}
+                  href={`/${product.id}`}
+                  className="group grid grid-cols-[96px_minmax(0,1fr)] items-center gap-4 rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_16px_40px_rgba(27,18,13,0.04)] transition duration-300 hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)] md:grid-cols-[110px_minmax(0,1fr)]"
+                >
+                  <div className="relative aspect-square overflow-hidden rounded-2xl bg-[#f7f3ee]">
                     <Image
-                      src={post.mainImage || PLACEHOLDER} alt={post.title}
-                      fill sizes="80px" className="object-cover"
-                      unoptimized={!post.mainImage || post.mainImage.startsWith('http')}
+                      src={product.image}
+                      alt={product.name}
+                      fill
+                      sizes="110px"
+                      className="object-contain p-3 transition duration-300 group-hover:scale-105"
                     />
                   </div>
-                  <div className="flex-1 min-w-0 flex flex-col justify-between py-0.5">
-                    <div>
-                      <span className={`text-[8px] font-bold tracking-wider uppercase px-2 py-0.5 rounded-full ${CATEGORY_TAG_COLORS[post.category] || 'bg-gray-100 text-gray-600'}`}>
-                        {post.category}
-                      </span>
-                      <h3 className="text-[13px] font-semibold leading-snug group-hover:text-primary transition-colors line-clamp-2 mt-1.5">
-                        {post.title}
-                      </h3>
+                  <div className="min-w-0">
+                    <div className="flex flex-wrap items-center gap-2 text-xs text-gray-500">
+                      <span className="font-semibold uppercase tracking-[0.16em]">Top 0{index + 2}</span>
+                      <span>•</span>
+                      <span className="font-semibold uppercase tracking-[0.16em]">{product.brand}</span>
                     </div>
-                    <div className="text-[10px] text-gray-400 font-medium">⏱ {post.readTime}</div>
+                    <h3 className="mt-2 text-lg font-semibold text-[#1b120d] transition group-hover:text-primary line-clamp-1">
+                      {product.name}
+                    </h3>
+                    <p className="mt-2 line-clamp-2 text-sm leading-6 text-gray-600">
+                      {product.verdictShort || product.verdict}
+                    </p>
+                    <div className="mt-3 flex flex-wrap items-center gap-3 text-sm text-gray-500">
+                      <span className="font-semibold text-primary">★ {product.score.total}/10</span>
+                      <span>
+                        {product.basePrice > 0
+                          ? `${product.basePrice.toLocaleString()} VNĐ`
+                          : "Liên hệ"}
+                      </span>
+                    </div>
                   </div>
                 </Link>
               ))}
@@ -282,25 +375,84 @@ export default async function Home() {
         </section>
       )}
 
-      {/* ─── ĐÁNH GIÁ MỚI NHẤT ──────────────────────────────────────────── */}
+      <section className="mx-auto max-w-[1200px] px-4 py-8 md:py-12">
+        <SectionHeading
+          eyebrow="Maison Method"
+          title="Vì sao bảng xếp hạng này đáng tin"
+          description="Chúng tôi không chỉ chấm mùi hương. Mỗi chai được nhìn qua cấu trúc mùi, hiệu năng thực tế, độ linh hoạt khi sử dụng và giá trị nhận lại so với mức giá."
+        />
+
+        <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
+          {trustItems.map((item, index) => (
+            <div
+              key={`${item.title}-${index}`}
+              className="rounded-[24px] border border-[#eadfce] bg-white p-5 shadow-[0_14px_40px_rgba(27,18,13,0.04)]"
+            >
+              <div className="text-[11px] font-bold uppercase tracking-[0.2em] text-primary">
+                0{index + 1}
+              </div>
+              <h3 className="mt-3 text-xl font-serif text-[#1b120d]">{item.title}</h3>
+              <p className="mt-3 text-sm leading-7 text-gray-600">{item.desc}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-[1200px] px-4 py-8 md:py-12">
+        <SectionHeading
+          eyebrow="Theo nhu cầu"
+          title="Khám phá nhanh theo hoàn cảnh sử dụng"
+          description="Thay vì bắt đầu từ tên chai, hãy đi từ nhu cầu thật: đi làm, hẹn hò, mùa hè nóng ẩm hay một mùi sang trọng dễ dùng lâu dài."
+        />
+
+        <div className="flex flex-wrap gap-3">
+          {needPaths.map((item) => (
+            <Link
+              key={item.label}
+              href={item.href}
+              className="rounded-full border border-[#decfbd] bg-white px-4 py-2.5 text-sm font-semibold text-[#4b3b30] transition hover:border-primary hover:text-primary"
+            >
+              {item.label}
+            </Link>
+          ))}
+        </div>
+      </section>
+
       {latestReviews.length > 0 && (
-        <section className="max-w-[1200px] mx-auto px-4 py-6 md:py-10 border-t border-[var(--border)]">
-          <h2 className="text-xl md:text-3xl font-serif mb-5 md:mb-8">Đánh giá mới nhất</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-3 md:gap-6">
-            {latestReviews.map((product: any) => (
-              <Link key={product.id} href={`/${product.slug || product.id}`}
-                className="flex gap-4 p-3 md:p-4 border border-[var(--border)] rounded-xl hover:border-primary/40 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-300 group bg-white">
-                <div className="w-[72px] h-[72px] md:w-[80px] md:h-[80px] flex-shrink-0 bg-[#F7F7F7] rounded-lg overflow-hidden relative">
-                  <Image src={product.image} alt={product.name} fill sizes="80px"
-                    className="object-contain p-1 group-hover:scale-110 transition-transform duration-300" />
+        <section className="mx-auto max-w-[1200px] px-4 py-8 md:py-12">
+          <SectionHeading
+            eyebrow="Review nổi bật"
+            title="Những bài đánh giá đáng đọc trước khi xuống tiền"
+            description="Tập trung vào những chai đang được quan tâm, có giá trị tham khảo cao và đủ thông tin để bạn hiểu rõ trước khi quyết định."
+          />
+
+          <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
+            {latestReviews.map((product) => (
+              <Link
+                key={product.id}
+                href={`/${product.id}`}
+                className="group overflow-hidden rounded-[24px] border border-[#eadfce] bg-white shadow-[0_16px_40px_rgba(27,18,13,0.04)] transition duration-300 hover:-translate-y-1 hover:shadow-[0_20px_50px_rgba(27,18,13,0.08)]"
+              >
+                <div className="relative aspect-[4/3] bg-[#f7f3ee]">
+                  <Image
+                    src={product.image}
+                    alt={product.name}
+                    fill
+                    sizes="(max-width: 768px) 100vw, 25vw"
+                    className="object-contain p-5 transition duration-300 group-hover:scale-105"
+                  />
                 </div>
-                <div className="flex-1 min-w-0">
-                  <div className="flex items-center gap-2 mb-1">
-                    <span className="text-[9px] font-bold text-primary tracking-wider uppercase">{product.brand}</span>
-                    <span className="text-[9px] text-gray-400">★ {product.score.total}/10</span>
+                <div className="p-5">
+                  <div className="flex items-center justify-between gap-2 text-xs text-gray-500">
+                    <span className="font-semibold uppercase tracking-[0.16em]">{product.brand}</span>
+                    <span className="font-semibold text-primary">★ {product.score.total}/10</span>
                   </div>
-                  <h3 className="text-sm font-semibold mb-1 group-hover:text-primary transition-colors line-clamp-1">{product.name}</h3>
-                  <p className="text-[11px] text-gray-400 line-clamp-2 leading-relaxed">{product.verdict}</p>
+                  <h3 className="mt-3 text-lg font-semibold leading-snug text-[#1b120d] transition group-hover:text-primary line-clamp-2">
+                    {product.name}
+                  </h3>
+                  <p className="mt-3 line-clamp-3 text-sm leading-7 text-gray-600">
+                    {product.verdictShort || product.verdict}
+                  </p>
                 </div>
               </Link>
             ))}
@@ -308,60 +460,227 @@ export default async function Home() {
         </section>
       )}
 
-      {/* ─── ZALO FLOATING ─ Desktop only ──────────────────────────────── */}
+      {featuredPosts.length > 0 && (
+        <section className="mx-auto max-w-[1200px] px-4 py-8 md:py-12">
+          <SectionHeading
+            eyebrow="Kiến thức nền"
+            title="Đọc trước khi mua để đỡ chọn sai"
+            description="Nếu bạn chưa chắc mình hợp nhóm hương nào hoặc chưa hiểu cách chọn nước hoa theo thời tiết, hãy bắt đầu từ các bài kiến thức nền tảng này."
+            href="/kien-thuc"
+            cta="Xem toàn bộ kiến thức"
+          />
+
+          <div className="grid gap-4 lg:grid-cols-[minmax(0,1.05fr)_minmax(0,0.95fr)]">
+            {featuredPosts[0] && (
+              <Link
+                href={`/${featuredPosts[0].urlSlug}`}
+                className="group overflow-hidden rounded-[28px] border border-[#eadfce] bg-white shadow-[0_20px_50px_rgba(27,18,13,0.06)] transition duration-300 hover:-translate-y-1"
+              >
+                <div className="relative h-[240px] bg-[#f7f3ee] md:h-[340px]">
+                  <Image
+                    src={featuredPosts[0].mainImage || PLACEHOLDER}
+                    alt={featuredPosts[0].title}
+                    fill
+                    sizes="(max-width: 1024px) 100vw, 50vw"
+                    className="object-cover transition duration-500 group-hover:scale-105"
+                    unoptimized={!featuredPosts[0].mainImage || featuredPosts[0].mainImage.startsWith("http")}
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
+                  <span
+                    className={`absolute left-5 top-5 rounded-full px-3 py-1 text-[11px] font-bold uppercase tracking-[0.18em] ${CATEGORY_TAG_COLORS[featuredPosts[0].category] || "bg-gray-100 text-gray-700"}`}
+                  >
+                    {featuredPosts[0].category}
+                  </span>
+                </div>
+                <div className="p-6 md:p-7">
+                  <h3 className="text-2xl font-serif leading-snug text-[#1b120d] transition group-hover:text-primary md:text-3xl">
+                    {featuredPosts[0].title}
+                  </h3>
+                  <p className="mt-3 line-clamp-3 text-sm leading-7 text-gray-600 md:text-base">
+                    {featuredPosts[0].excerpt}
+                  </p>
+                  <div className="mt-4 text-sm font-medium text-gray-500">⏱ {featuredPosts[0].readTime}</div>
+                </div>
+              </Link>
+            )}
+
+            <div className="grid gap-4">
+              {featuredPosts.slice(1, 3).map((post) => (
+                <Link
+                  key={post.urlSlug}
+                  href={`/${post.urlSlug}`}
+                  className="group grid grid-cols-[110px_minmax(0,1fr)] gap-4 rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_16px_40px_rgba(27,18,13,0.04)] transition duration-300 hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)]"
+                >
+                  <div className="relative aspect-square overflow-hidden rounded-2xl bg-[#f7f3ee]">
+                    <Image
+                      src={post.mainImage || PLACEHOLDER}
+                      alt={post.title}
+                      fill
+                      sizes="110px"
+                      className="object-cover"
+                      unoptimized={!post.mainImage || post.mainImage.startsWith("http")}
+                    />
+                  </div>
+                  <div className="min-w-0">
+                    <span
+                      className={`inline-flex rounded-full px-3 py-1 text-[11px] font-bold uppercase tracking-[0.16em] ${CATEGORY_TAG_COLORS[post.category] || "bg-gray-100 text-gray-700"}`}
+                    >
+                      {post.category}
+                    </span>
+                    <h3 className="mt-3 text-lg font-semibold leading-snug text-[#1b120d] transition group-hover:text-primary line-clamp-2">
+                      {post.title}
+                    </h3>
+                    <p className="mt-2 line-clamp-2 text-sm leading-6 text-gray-600">{post.excerpt}</p>
+                    <div className="mt-3 text-sm font-medium text-gray-500">⏱ {post.readTime}</div>
+                  </div>
+                </Link>
+              ))}
+
+              <div className="rounded-[24px] border border-[#eadfce] bg-[#f7f2eb] p-5 md:p-6">
+                <div className="text-[11px] font-bold uppercase tracking-[0.2em] text-primary">Lộ trình cho người mới</div>
+                <h3 className="mt-3 text-2xl font-serif text-[#1b120d]">Không biết bắt đầu từ đâu?</h3>
+                <p className="mt-3 text-sm leading-7 text-gray-600">
+                  Hãy bắt đầu từ các bài giúp bạn hiểu độ lưu hương, độ tỏa hương, cách chọn theo thời tiết và cách mua nước hoa ít rủi ro hơn.
+                </p>
+                <Link
+                  href="/kien-thuc"
+                  className="mt-5 inline-flex items-center text-sm font-semibold text-primary hover:underline"
+                >
+                  Vào khu kiến thức →
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
+      <section className="mx-auto max-w-[1200px] px-4 py-8 md:py-12">
+        <div className="overflow-hidden rounded-[28px] border border-[#e6d8c7] bg-[#1c130f] text-white shadow-[0_22px_60px_rgba(27,18,13,0.16)]">
+          <div className="grid gap-6 px-5 py-7 md:grid-cols-[minmax(0,1fr)_minmax(320px,0.8fr)] md:px-8 md:py-10 lg:px-10">
+            <div>
+              <span className="text-[11px] font-bold uppercase tracking-[0.24em] text-[#d9bc94]">
+                Trust + Commerce
+              </span>
+              <h2 className="mt-3 text-3xl font-serif leading-tight md:text-4xl">
+                Tư vấn thật, hàng xách tay chính hãng 100%
+              </h2>
+              <p className="mt-4 max-w-2xl text-sm leading-7 text-white/75 md:text-base">
+                Khi cần chốt nhanh, bạn có thể nhắn Zalo để được tư vấn theo ngân sách,
+                gu mùi và hoàn cảnh sử dụng. Ngoài ra vẫn có thể tham khảo giá trên các
+                kênh phù hợp trước khi quyết định.
+              </p>
+            </div>
+
+            <div className="grid gap-3 md:gap-4">
+              <div className="rounded-2xl border border-white/10 bg-white/6 p-4">
+                <div className="text-sm font-semibold">Cam kết đền 10 triệu nếu phát hiện hàng giả</div>
+              </div>
+              <div className="rounded-2xl border border-white/10 bg-white/6 p-4">
+                <div className="text-sm font-semibold">Tư vấn qua Zalo, không ép mua, tập trung chọn đúng chai</div>
+              </div>
+              <div className="rounded-2xl border border-white/10 bg-white/6 p-4">
+                <div className="text-sm font-semibold">Có thể tham khảo giá Shopee hoặc TikTok Shop khi phù hợp</div>
+              </div>
+            </div>
+          </div>
+
+          <div className="border-t border-white/10 px-5 py-5 md:px-10">
+            <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
+              <p className="text-sm text-white/75">Chưa biết bắt đầu từ đâu? Chọn một hướng đi rõ ràng thay vì lướt vô định.</p>
+              <div className="flex flex-col gap-3 sm:flex-row">
+                <Link
+                  href="https://zalo.me/0961226169"
+                  rel="nofollow"
+                  target="_blank"
+                  className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 text-sm font-bold text-[#1b120d] transition hover:bg-[#d7b48c] hover:text-white"
+                >
+                  Nhắn Zalo để được tư vấn
+                </Link>
+                <Link
+                  href="/bang-xep-hang"
+                  className="inline-flex items-center justify-center rounded-full border border-white/20 px-6 py-3 text-sm font-bold text-white transition hover:bg-white/10"
+                >
+                  Xem toàn bộ bảng xếp hạng
+                </Link>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <div className="hidden md:block fixed bottom-6 right-6 z-[100]">
-        <Link href="https://zalo.me/0961226169" rel="nofollow" target="_blank"
-          className="flex items-center gap-2.5 bg-white border border-[var(--border)] px-4 py-2.5 rounded-full shadow-lg hover:scale-105 transition-transform active:scale-95">
-          <div className="w-7 h-7 bg-[#0068FF] rounded-full flex items-center justify-center text-white text-[9px] font-bold shadow flex-shrink-0">
+        <Link
+          href="https://zalo.me/0961226169"
+          rel="nofollow"
+          target="_blank"
+          className="flex items-center gap-3 rounded-full border border-[#eadfce] bg-white px-4 py-3 shadow-[0_16px_40px_rgba(27,18,13,0.12)] transition hover:scale-[1.02]"
+        >
+          <div className="flex h-8 w-8 items-center justify-center rounded-full bg-[#0068FF] text-[10px] font-bold text-white">
             ZL
           </div>
           <div>
-            <span className="text-xs font-semibold block">Tư vấn Stylist</span>
-            <div className="flex items-center gap-1 mt-0.5">
-              <span className="w-1.5 h-1.5 bg-green-500 rounded-full animate-pulse" />
-              <span className="text-[9px] text-gray-400">Online</span>
+            <div className="text-xs font-semibold text-[#1b120d]">Tư vấn qua Zalo</div>
+            <div className="mt-0.5 flex items-center gap-1 text-[11px] text-gray-500">
+              <span className="h-1.5 w-1.5 rounded-full bg-emerald-500" />
+              Online
             </div>
           </div>
         </Link>
       </div>
 
-
-      {/* ─── MOBILE BOTTOM NAV ──────────────────────────────────────────── */}
-      <nav className="fixed bottom-0 left-0 w-full border-t border-[var(--border)] bg-white/95 backdrop-blur-sm flex md:hidden z-50 py-1 safe-area-pb">
+      <nav className="fixed bottom-0 left-0 z-50 flex w-full border-t border-[#eadfce] bg-white/95 py-1 backdrop-blur-sm md:hidden safe-area-pb">
         {[
           {
             icon: (
               <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z" /><polyline points="9 22 9 12 15 12 15 22" />
+                <path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z" />
+                <polyline points="9 22 9 12 15 12 15 22" />
               </svg>
-            ), label: "Trang chủ", href: "/"
+            ),
+            label: "Trang chủ",
+            href: "/",
           },
           {
             icon: (
               <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z" />
+                <path d="M12 20h9" />
+                <path d="M12 4h9" />
+                <path d="M4 9h16" />
+                <path d="M4 15h16" />
               </svg>
-            ), label: "Bộ sưu tập", href: "/bang-xep-hang"
+            ),
+            label: "Xếp hạng",
+            href: "/bang-xep-hang",
           },
           {
             icon: (
               <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M2 3h6a4 4 0 014 4v14a3 3 0 00-3-3H2z" /><path d="M22 3h-6a4 4 0 00-4 4v14a3 3 0 013-3h7z" />
+                <path d="M2 3h6a4 4 0 014 4v14a3 3 0 00-3-3H2z" />
+                <path d="M22 3h-6a4 4 0 00-4 4v14a3 3 0 013-3h7z" />
               </svg>
-            ), label: "Kiến thức", href: "/kien-thuc"
+            ),
+            label: "Kiến thức",
+            href: "/kien-thuc",
           },
           {
             icon: (
               <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z" />
               </svg>
-            ), label: "Tư vấn", href: "https://zalo.me/0961226169"
+            ),
+            label: "Tư vấn",
+            href: "https://zalo.me/0961226169",
           },
-        ].map((item, i) => (
-          <Link key={i} href={item.href}
-            className={`flex-1 text-center flex flex-col items-center py-2 ${i === 0 ? 'text-primary' : 'text-gray-400 hover:text-primary'} transition-colors`}>
+        ].map((item, index) => (
+          <Link
+            key={index}
+            href={item.href}
+            className={`flex flex-1 flex-col items-center py-2 text-center transition-colors ${
+              index === 0 ? "text-primary" : "text-gray-400 hover:text-primary"
+            }`}
+          >
             {item.icon}
-            <span className="text-[9px] font-semibold mt-0.5">{item.label}</span>
+            <span className="mt-0.5 text-[10px] font-semibold">{item.label}</span>
           </Link>
         ))}
       </nav>
