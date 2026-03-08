@@ -11,15 +11,20 @@ export default function ComparePage() {
 
     if (items.length < 2) {
         return (
-            <main className="min-h-screen bg-white pb-20">
+            <main className="min-h-screen bg-[#fcfaf7] pb-20">
                 <Header />
-                <div className="max-w-[800px] mx-auto px-5 py-20 text-center">
-                    <div className="text-5xl mb-6">⚖️</div>
-                    <h1 className="text-3xl font-serif mb-4">So sánh nước hoa</h1>
-                    <p className="text-sm text-gray-400 mb-8">Hãy chọn ít nhất 2 chai nước hoa từ Bảng xếp hạng hoặc trang Chi tiết để bắt đầu so sánh.</p>
-                    <Link href="/bang-xep-hang" className="inline-flex items-center gap-2 text-sm font-bold text-primary hover:underline">
-                        <ArrowLeft size={14} /> Đến Bảng xếp hạng
-                    </Link>
+                <div className="max-w-[900px] mx-auto px-4 sm:px-5 py-12 sm:py-20 text-center">
+                    <div className="rounded-[28px] border border-[#eadfce] bg-white px-5 py-10 shadow-[0_20px_60px_rgba(27,18,13,0.05)] sm:px-8">
+                        <div className="text-5xl mb-5">⚖️</div>
+                        <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.24em] text-primary">Compare Tool</p>
+                        <h1 className="text-3xl font-serif mb-4 leading-tight sm:text-4xl">So sánh nước hoa trước khi xuống tiền</h1>
+                        <p className="mx-auto max-w-2xl text-sm leading-7 text-gray-500 mb-8 sm:text-base">
+                            Chọn ít nhất 2 chai từ bảng xếp hạng hoặc trang chi tiết để đặt cạnh nhau về mùi hương, độ lưu, độ tỏa, mức giá và mức độ đáng tiền.
+                        </p>
+                        <Link href="/bang-xep-hang" className="inline-flex items-center gap-2 rounded-full border border-[#decfbd] px-5 py-3 text-sm font-bold text-[#4b3b30] hover:border-primary hover:text-primary">
+                            <ArrowLeft size={14} /> Đến Bảng xếp hạng
+                        </Link>
+                    </div>
                 </div>
             </main>
         );
@@ -49,7 +54,7 @@ export default function ComparePage() {
             label: "Hành động",
             icon: null,
             render: (p: typeof items[0]) => (
-                <Link href={`/san-pham/${p.id}`} className="inline-block bg-black text-white px-4 py-2 rounded-full text-[10px] font-bold uppercase tracking-wider hover:bg-primary transition-colors active:scale-95">
+                <Link href={`/${p.id}`} className="inline-block rounded-full bg-black px-4 py-2 text-[10px] font-bold uppercase tracking-wider text-white transition-colors hover:bg-primary active:scale-95">
                     Xem chi tiết
                 </Link>
             )
@@ -57,22 +62,22 @@ export default function ComparePage() {
     ];
 
     return (
-        <main className="min-h-screen bg-white pb-20">
+        <main className="min-h-screen bg-[#fcfaf7] pb-20">
             <Header />
-            <div className="max-w-[1200px] mx-auto px-5 py-8">
-                <div className="flex items-center justify-between mb-8">
+            <div className="max-w-[1200px] mx-auto px-4 sm:px-5 py-6 sm:py-8">
+                <div className="mb-6 flex items-center justify-between rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_12px_35px_rgba(27,18,13,0.03)] sm:mb-8 sm:p-5">
                     <div>
                         <Link href="/bang-xep-hang" className="inline-flex items-center gap-1 text-xs text-gray-400 hover:text-primary mb-2">
                             <ArrowLeft size={12} /> Quay lại
                         </Link>
-                        <h1 className="text-3xl font-serif">So sánh nước hoa</h1>
+                        <h1 className="text-[28px] font-serif leading-tight sm:text-3xl">So sánh nước hoa</h1>
                     </div>
                     <button onClick={clear} className="text-xs text-gray-400 hover:text-red-500 font-semibold">Xoá tất cả</button>
                 </div>
 
                 {/* COMPARISON TABLE */}
-                <div className="overflow-x-auto -mx-5 px-5" style={{ scrollbarWidth: 'none' }}>
-                    <table className="w-full min-w-[500px]">
+                <div className="overflow-x-auto -mx-4 px-4 sm:-mx-5 sm:px-5" style={{ scrollbarWidth: 'none' }}>
+                    <table className="w-full min-w-[560px] overflow-hidden rounded-[24px] border border-[#eadfce] bg-white shadow-[0_16px_40px_rgba(27,18,13,0.04)]">
                         {/* HEADER: Product images & names */}
                         <thead>
                             <tr className="border-b border-gray-100">
@@ -80,13 +85,13 @@ export default function ComparePage() {
                                 {items.map(p => (
                                     <th key={p.id} className="p-3 text-center">
                                         <Link href={`/san-pham/${p.id}`} className="group">
-                                            <div className="w-20 h-20 md:w-24 md:h-24 bg-gray-50 rounded-xl mx-auto mb-3 overflow-hidden relative">
+                                            <div className="relative mx-auto mb-3 h-16 w-16 overflow-hidden rounded-xl bg-gray-50 md:h-24 md:w-24">
                                                 <Image src={p.image} alt={p.name} fill sizes="96px" className="object-contain p-2 group-hover:scale-110 transition-transform" />
                                             </div>
                                             <div className="text-[9px] font-bold text-primary tracking-wider uppercase">{p.brand}</div>
-                                            <div className="text-sm font-serif font-semibold group-hover:text-primary transition-colors">{p.name}</div>
+                                            <div className="text-xs font-serif font-semibold leading-snug group-hover:text-primary transition-colors md:text-sm">{p.name}</div>
                                         </Link>
-                                        <button onClick={() => remove(p.id)} className="text-[9px] text-gray-400 hover:text-red-500 mt-1">Xoá</button>
+                                        <button onClick={() => remove(p.id)} className="mt-1 text-[10px] text-gray-400 hover:text-red-500">Xoá</button>
                                     </th>
                                 ))}
                             </tr>
@@ -94,14 +99,14 @@ export default function ComparePage() {
                         <tbody>
                             {rows.map((row, ri) => (
                                 <tr key={ri} className={`border-b border-gray-50 ${ri === 0 ? 'bg-primary/5' : ''}`}>
-                                    <td className="p-3 text-xs font-semibold text-gray-500">
+                                    <td className="p-3 text-[11px] font-semibold text-gray-500 md:text-xs">
                                         <div className="flex items-center gap-2">
                                             {row.icon}
                                             {row.label}
                                         </div>
                                     </td>
                                     {items.map(p => (
-                                        <td key={p.id} className="p-3 text-center text-sm text-gray-700">
+                                        <td key={p.id} className="p-3 text-center text-xs text-gray-700 md:text-sm">
                                             {row.render(p)}
                                         </td>
                                     ))}

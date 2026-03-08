@@ -40,19 +40,19 @@ export function useCompare() {
 // Bottom Bar UI
 function CompareBar({ items, remove, clear }: { items: Perfume[]; remove: (id: string) => void; clear: () => void }) {
     return (
-        <div className="fixed bottom-0 left-0 right-0 z-[90] bg-white border-t-2 border-primary shadow-2xl animate-fade-up">
-            <div className="max-w-[1200px] mx-auto px-5 py-3 flex items-center gap-4">
+        <div className="fixed bottom-0 left-0 right-0 z-[90] animate-fade-up border-t-2 border-primary bg-white shadow-2xl">
+            <div className="mx-auto flex max-w-[1200px] items-center gap-3 px-4 py-2.5 sm:px-5 sm:py-3">
                 <Scale size={16} className="text-primary flex-shrink-0" />
                 <span className="text-[10px] font-bold text-gray-400 uppercase tracking-wider flex-shrink-0 hidden md:block">
                     So sánh ({items.length}/3)
                 </span>
-                <div className="flex gap-3 flex-1 overflow-x-auto">
+                <div className="flex flex-1 gap-2 overflow-x-auto sm:gap-3">
                     {items.map(p => (
-                        <div key={p.id} className="flex items-center gap-2 bg-gray-50 px-3 py-1.5 rounded-full flex-shrink-0">
+                        <div key={p.id} className="flex flex-shrink-0 items-center gap-2 rounded-full bg-gray-50 px-2.5 py-1.5 sm:px-3">
                             <div className="w-7 h-7 bg-gray-100 rounded-full overflow-hidden relative">
                                 <Image src={p.image} alt={p.name} fill sizes="28px" className="object-cover" />
                             </div>
-                            <span className="text-[10px] font-semibold truncate max-w-[100px]">{p.name}</span>
+                            <span className="max-w-[78px] truncate text-[10px] font-semibold sm:max-w-[100px]">{p.name}</span>
                             <button onClick={() => remove(p.id)}><X size={10} className="text-gray-400" /></button>
                         </div>
                     ))}
@@ -60,7 +60,7 @@ function CompareBar({ items, remove, clear }: { items: Perfume[]; remove: (id: s
                 <div className="flex gap-2 flex-shrink-0">
                     <button onClick={clear} className="text-[10px] font-bold text-gray-400 hover:text-red-500 transition-colors">Xoá</button>
                     {items.length >= 2 && (
-                        <Link href="/so-sanh" className="text-[10px] font-bold text-white bg-primary px-4 py-2 rounded-full hover:bg-primary/90 transition-colors">
+                        <Link href="/so-sanh" className="rounded-full bg-primary px-3.5 py-2 text-[10px] font-bold text-white transition-colors hover:bg-primary/90 sm:px-4">
                             So sánh
                         </Link>
                     )}
