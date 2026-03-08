@@ -7,15 +7,15 @@ import Newsletter from "@/components/Newsletter";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Maison de SON | Review Nước Hoa Chính Hãng & Giải Mã Scent DNA",
+  title: "Maison de SON | Kiến Thức, Review Nước Hoa & Gợi Ý Mua Chính Hãng",
   description:
-    "Cơ sở dữ liệu đánh giá nước hoa chuyên sâu tại Việt Nam. Xem review trung thực, bảng xếp hạng, phân tích DNA mùi hương và nhận tư vấn qua Zalo.",
+    "Trang web chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa cho người Việt. Xem bảng xếp hạng, chọn mùi phù hợp và tham khảo nơi mua chính hãng giá tốt.",
   keywords: [
     "review nước hoa",
     "nước hoa chính hãng",
     "giá nước hoa",
     "maison de son",
-    "scent dna",
+    "kinh nghiệm chọn nước hoa",
   ],
 };
 
@@ -39,7 +39,7 @@ const trustItems = [
     desc: "Nói rõ điểm mạnh, điểm yếu và độ đáng tiền thay vì khen cho có.",
   },
   {
-    title: "Phân tích DNA mùi hương",
+    title: "Phân tích cá tính mùi hương",
     desc: "Đi sâu vào nhóm hương, nốt hương và cảm giác thực tế khi dùng.",
   },
   {
@@ -162,16 +162,16 @@ export default async function Home() {
           <div className="relative z-10 grid gap-8 px-5 py-8 md:grid-cols-[minmax(0,1.15fr)_minmax(300px,0.85fr)] md:px-10 md:py-14 lg:px-14">
             <div className="max-w-2xl">
               <span className="inline-flex rounded-full border border-white/15 bg-white/10 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.24em] text-[#d9bc94] backdrop-blur">
-                Review chuyên sâu • Data-driven • Việt Nam
+                Kiến thức thực tế • Review chọn lọc • Dành cho người Việt
               </span>
               <h1 className="mt-5 text-3xl font-serif leading-tight text-white md:text-5xl md:leading-[1.1]">
                 Trang nước hoa giúp bạn thực sự hiểu một chai nước hoa
               </h1>
               <p className="mt-4 max-w-2xl text-sm leading-7 text-white/80 md:text-base">
-                Maison de Son đánh giá nước hoa theo DNA mùi hương, độ lưu hương,
-                độ tỏa hương và mức độ phù hợp với thời tiết Việt Nam. Xem review
-                trung thực, bảng xếp hạng chọn lọc và nhận tư vấn qua Zalo khi cần
-                chốt nhanh chai phù hợp.
+                Maison de Son là nơi chia sẻ kiến thức, trải nghiệm thực tế và
+                review nước hoa theo cách dễ hiểu với người Việt. Tại đây bạn có thể
+                xem bảng xếp hạng chọn lọc, hiểu rõ cá tính mùi hương, độ lưu hương,
+                độ tỏa hương và tham khảo nơi mua nước hoa chính hãng với mức giá hợp lý.
               </p>
 
               <div className="mt-7 flex flex-col gap-3 sm:flex-row">
@@ -206,7 +206,7 @@ export default async function Home() {
               <div className="grid gap-3 text-sm text-white/85">
                 <div className="rounded-2xl bg-white/8 p-4">
                   <div className="text-[11px] font-bold uppercase tracking-[0.2em] text-[#d9bc94]">
-                    01 • DNA mùi hương
+                    01 • Cá tính mùi hương
                   </div>
                   <p className="mt-2 leading-6">Phân tích cảm giác mùi, nhóm hương và độ dễ dùng ngoài đời thật.</p>
                 </div>
@@ -378,8 +378,8 @@ export default async function Home() {
       <section className="mx-auto max-w-[1200px] px-4 py-8 md:py-12">
         <SectionHeading
           eyebrow="Maison Method"
-          title="Vì sao bảng xếp hạng này đáng tin"
-          description="Chúng tôi không chỉ chấm mùi hương. Mỗi chai được nhìn qua cấu trúc mùi, hiệu năng thực tế, độ linh hoạt khi sử dụng và giá trị nhận lại so với mức giá."
+          title="Vì sao những gợi ý này đáng tin"
+          description="Chúng tôi không chỉ nhìn mùi hương trên giấy. Mỗi chai được xem xét qua cảm nhận thực tế, độ lưu hương, độ tỏa hương, độ dễ dùng và giá trị nhận lại so với mức giá."
         />
 
         <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
@@ -562,7 +562,7 @@ export default async function Home() {
                 Trust + Commerce
               </span>
               <h2 className="mt-3 text-3xl font-serif leading-tight md:text-4xl">
-                Tư vấn thật, hàng xách tay chính hãng 100%
+                Chia sẻ thật, tư vấn thật, định hướng mua nước hoa chính hãng
               </h2>
               <p className="mt-4 max-w-2xl text-sm leading-7 text-white/75 md:text-base">
                 Khi cần chốt nhanh, bạn có thể nhắn Zalo để được tư vấn theo ngân sách,
