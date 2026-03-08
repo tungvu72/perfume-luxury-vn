@@ -30,7 +30,7 @@ Trải qua 7 thế hệ, Creed phục vụ cho các hoàng gia và người nổ
 **Vibe:** Đẳng cấp, thành đạt, lãnh đạo
 **Đánh giá:** 9.5/10
 
-[Xem chi tiết sản phẩm](/product/creed-aventus)
+[Xem chi tiết sản phẩm](/creed-aventus)
 
 ---
 

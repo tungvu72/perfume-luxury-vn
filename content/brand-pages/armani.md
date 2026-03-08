@@ -64,7 +64,7 @@ Armani Parfums ra mắt chai nước hoa đầu tiên năm 1982 - Armani Eau de 
 **Vibe:** Mạnh mẽ, ấm áp, nam tính
 **Đánh giá:** 8/10
 
-[Xem chi tiết sản phẩm](/product/armani-stronger-with-you)
+[Xem chi tiết sản phẩm](/armani-stronger-with-you-intensely)
 
 ---
 

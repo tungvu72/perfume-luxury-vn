@@ -39,7 +39,7 @@ Chanel Parfums thuộc sở hữu gia đình Wertheimer và vẫn độc lập v
 **Vibe:** Thanh lịch, hiện đại, nam tính
 **Đánh giá:** 9/10
 
-[Xem chi tiết sản phẩm](/product/bleu-de-chanel-edp)
+[Xem chi tiết sản phẩm](/bleu-chanel-edp)
 
 ---
 
