@@ -109,8 +109,8 @@ const Header = () => {
 
     const menuItems = [
         { name: "Bảng xếp hạng", href: "/bang-xep-hang" },
+        { name: "Theo nhu cầu", href: "/theo-nhu-cau" },
         { name: "Theo nốt hương", href: "/theo-not-huong" },
-        { name: "Thương hiệu", href: "/thuong-hieu" },
         { name: "So sánh", href: "/so-sanh" },
         { name: "Kiến thức", href: "/kien-thuc" },
         { name: "Về chúng tôi", href: "/gioi-thieu" },
