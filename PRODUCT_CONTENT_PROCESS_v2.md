@@ -33,7 +33,7 @@ Bắt buộc có các mục:
 - Nhận xét của Maison de SON
 
 ## 3. Rule anchor text bắt buộc
-Mỗi bài product detail phải có tối thiểu 3 link nội bộ cơ bản:
+Mỗi bài product detail phải có tối thiểu 4 link nội bộ cơ bản:
 1. Link về **trang chủ**
    - Anchor: `Maison de SON`
    - URL: `/`
@@ -43,11 +43,15 @@ Mỗi bài product detail phải có tối thiểu 3 link nội bộ cơ bản:
    - Nữ: `nước hoa nữ` → `/nu-gioi`
    - Unisex: `nước hoa unisex` → `/unisex`
 
-3. Link về **chính sản phẩm đó**
+3. Link về **brand chứa nó**
+   - Anchor: tên brand, ví dụ `Chanel`, `Dior`, `Creed`
+   - URL: `/${product.brandSlug}`
+
+4. Link về **chính sản phẩm đó**
    - Anchor: đúng tên sản phẩm
    - URL: `/${product.id}`
 
-Nếu thiếu 1 trong 3 link trên → chưa pass.
+Nếu thiếu 1 trong 4 link trên → chưa pass.
 
 ## 4. Những từ/cụm phải tránh
 - DNA
@@ -70,12 +74,12 @@ Một product page chỉ pass khi đủ:
 - [ ] Không còn từ `verdict` lộ ra ngoài UI
 - [ ] Tóm tắt đầu trang đọc tự nhiên như người thật
 - [ ] Bài chi tiết có đủ 6 mục thông tin chính
-- [ ] Có 3 internal links cơ bản: home / category / self
+- [ ] Có 4 internal links cơ bản: home / category / brand / self
 - [ ] Ảnh đúng phiên bản hoặc đang bị block an toàn
 
 ## 7. Thứ tự sửa từ giờ
 1. Fix UI + wording trước
 2. Fix article theo process mới
-3. Chèn anchor text đủ 3 link
+3. Chèn anchor text đủ 4 link
 4. Đọc lại như người dùng phổ thông
 5. Nếu còn cảm giác AI → viết lại
