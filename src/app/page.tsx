@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "Maison de SON | Kiến Thức, Review Nước Hoa & Gợi Ý Mua Chính Hãng",
   description:
     "Trang web chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa cho người Việt. Xem bảng xếp hạng, chọn mùi phù hợp và tham khảo nơi mua chính hãng giá tốt.",
+  alternates: {
+    canonical: "https://www.maisondeson.com/",
+  },
   keywords: [
     "review nước hoa",
     "nước hoa chính hãng",

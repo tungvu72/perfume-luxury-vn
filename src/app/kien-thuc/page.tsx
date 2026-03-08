@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   title: "Kiến Thức Nước Hoa - Review & Hướng Dẫn | Maison de SON",
   description:
     "Cẩm nang từ Maison de SON: review nước hoa, hướng dẫn chọn mùi, phân biệt thật giả, top picks theo ngân sách.",
+  alternates: {
+    canonical: "https://www.maisondeson.com/kien-thuc",
+  },
   openGraph: {
     title: "Kiến Thức Nước Hoa | Maison de SON",
     description: "Review và hướng dẫn chọn nước hoa chuyên sâu từ Maison de SON",

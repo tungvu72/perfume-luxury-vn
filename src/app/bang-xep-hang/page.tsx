@@ -7,6 +7,9 @@ import { Suspense } from "react";
 export const metadata = {
     title: "Bảng Xếp Hạng Nước Hoa Đáng Xem Nhất 2026 | Maison de SON",
     description: "Khám phá những chai nước hoa đáng xem nhất tại Maison de SON. So sánh theo mùi hương, độ lưu, độ tỏa, tầm giá và hoàn cảnh sử dụng thực tế tại Việt Nam.",
+    alternates: {
+        canonical: "https://www.maisondeson.com/bang-xep-hang",
+    },
 };
 
 export default async function RankingPage() {

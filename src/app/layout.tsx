@@ -22,6 +22,7 @@ const GA_ID = "G-8DCZC9TD49";
 const GSC_VERIFICATION_CODE = "2v7xR50gvaL9u1mDddvOL3gl8qQUe5BFnmesiPmLQts";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.maisondeson.com"),
   title: "Maison de SON | Đánh giá nước hoa chuyên sâu #1 Việt Nam",
   description: "Khám phá thế giới mùi hương với đánh giá chuyên sâu từ chuyên gia.",
   manifest: "/manifest.json",

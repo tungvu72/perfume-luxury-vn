@@ -60,7 +60,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
             title: `${product.name} ${product.subName || ''} — Giá tốt ${mm_yyyy} | Maison de SON`,
             description: `${product.name}: Review chuyên sâu, phân tích cá tính mùi hương, giá tham khảo ${mm_yyyy}. Điểm đánh giá: ${product.score.total}/10. Tư vấn chọn nước hoa chính hãng qua Zalo.`,
             keywords: [product.name, product.brand, `mua ${product.name} chính hãng`, `giá ${product.name}`, `${product.name} ở đâu`],
-            alternates: { canonical: `https://maisondeson.com/${product.id}` },
+            alternates: { canonical: `${CANONICAL_BASE}/${product.id}` },
             openGraph: {
                 title: `${product.brand} ${product.name} — Maison de SON`,
                 description: product.verdict,
@@ -73,14 +73,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
             title: `Nước hoa ${brand.name} chính hãng — Bộ sưu tập | Maison de SON`,
             description: `Khám phá nước hoa ${brand.name} tại Maison de SON với review, trải nghiệm thực tế, giá tham khảo và gợi ý chọn mua chính hãng cho người Việt.`,
             keywords: [brand.name, `nước hoa ${brand.name}`, `${brand.name} chính hãng`, `mua ${brand.name}`],
-            alternates: { canonical: `https://maisondeson.com/${brand.slug}` },
+            alternates: { canonical: `${CANONICAL_BASE}/${brand.slug}` },
         };
     }
     if (post) {
         return {
             title: `${post.title} | Maison de SON`,
             description: post.excerpt || `${post.title} — Maison de SON`,
-            alternates: { canonical: `https://maisondeson.com/${slug}` },
+            alternates: { canonical: `${CANONICAL_BASE}/${slug}` },
             openGraph: {
                 title: post.title,
                 description: post.excerpt || '',
@@ -96,6 +96,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 // ─── CONSTANTS ───────────────────────────────────────────────
 const PLACEHOLDER_IMAGE = 'https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=1200';
 const SITE_URL = 'https://www.maisondeson.com';
+const CANONICAL_BASE = 'https://www.maisondeson.com';
 const TAG_COLORS: Record<string, string> = {
     'Product Review': 'bg-amber-50 text-amber-700 border-amber-200',
     'Buying Guide': 'bg-blue-50 text-blue-700 border-blue-200',
