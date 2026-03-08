@@ -15,28 +15,39 @@ export const MASTER_PERFUMES: Perfume[] = [
     images: [
       { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Dior Sauvage Elixir đang được xác minh lại để tránh dùng sai phiên bản", verified: false }
     ],
-    description: "Phiên bản đậm, ấm và quyền lực nhất của dòng Sauvage. Gia vị, oải hương và gỗ tạo nên cảm giác nam tính rõ, hợp buổi tối và thời tiết mát hơn. Ảnh sản phẩm đang được xác minh lại để đảm bảo đúng phiên bản trước khi cập nhật lên live.",
-    article: `Dior Sauvage Elixir là phiên bản đậm đặc và trưởng thành hơn rõ rệt so với các flankers còn lại của dòng Sauvage.
+    description: "Sauvage Elixir là phiên bản đậm, dày và quyền lực nhất trong dòng Sauvage. Gia vị, lavender và gỗ tạo nên cảm giác nam tính rõ, hợp buổi tối, thời tiết mát và người thích mùi có độ hiện diện mạnh. Ảnh sản phẩm đang được xác minh lại để đảm bảo đúng phiên bản trước khi cập nhật lên live.",
+    article: `Dior Sauvage Elixir là phiên bản trưởng thành, cô đặc và ít “đại trà” nhất trong toàn bộ gia đình Sauvage. Đây không còn là kiểu fresh designer dễ xịt vô tư như EDT, mà là bản có độ nén cao hơn, gia vị rõ hơn và thiên về phong thái nam tính buổi tối.
 
 ### Nguồn gốc và xuất xứ
-Sauvage là dòng nước hoa nam chủ lực của Dior trong kỷ nguyên hiện đại. Dòng này được định vị như trụ cột thương mại mạnh nhất của Dior ở phân khúc designer nam, với định hướng nam tính, hiện đại và dễ nhận diện.
+Sauvage thuộc Dior - nhà mốt Pháp cao cấp với vị thế rất mạnh trong mảng nước hoa designer. Trong thập kỷ gần đây, Sauvage trở thành trụ cột thương mại quan trọng nhất của Dior ở nhóm nước hoa nam hiện đại.
 
 ### Ra mắt khi nào?
-Sauvage Elixir ra mắt năm 2021. Đây là phiên bản đi theo hướng cô đặc hơn, tối hơn và quyền lực hơn so với các bản Sauvage trước đó.
+Sauvage Elixir ra mắt năm 2021. Đây là bước phát triển đưa DNA Sauvage từ hướng tươi, sạch và dễ dùng sang vùng đậm, tối và có chiều sâu hơn.
+
+### Ai là người đứng sau?
+Phiên bản này gắn với giai đoạn cuối của François Demachy tại Dior. Vì vậy Elixir thường được nhìn như một bản tuyên ngôn mạnh hơn, giàu cá tính hơn trong cùng hệ Sauvage.
 
 ### Câu chuyện ra đời
-Nếu Sauvage EDT và EDP tập trung vào sự tươi, sạch và dễ dùng, thì Elixir sinh ra để đẩy DNA Sauvage sang vùng đậm hơn: ít phổ thông hơn, nhiều gia vị hơn và thiên về cảm giác trưởng thành, buổi tối hơn.
+Nếu EDT và EDP thành công nhờ độ dễ dùng, thì Elixir ra đời để phục vụ người muốn một bản Sauvage bớt phổ thông hơn. Nó giữ tinh thần nhận diện của dòng nhưng nén lại, đậm hơn và tạo dấu ấn mạnh hơn khi dùng ngoài đời thật.
 
 ### Dòng Sauvage hiện có những phiên bản nào?
-- Sauvage EDT: sáng, dễ dùng, phổ thông nhất
-- Sauvage EDP: dày hơn EDT nhưng vẫn đa dụng
-- Sauvage Parfum: ấm hơn, mượt hơn
+- Sauvage EDT: sáng, fresh, phổ thông nhất
+- Sauvage EDP: dày hơn EDT, cân bằng hơn cho số đông
+- Sauvage Parfum: mượt, ấm và ít chói hơn
 - Sauvage Elixir: đậm nhất, tối nhất, có độ hiện diện mạnh nhất
 
+### Mùi hương mang lại cảm giác gì?
+Elixir mở đầu bằng gia vị ấm khá rõ, sau đó lavender xuất hiện theo hướng tối và dày hơn, rồi kết lại với gỗ, cam thảo và amber. Tổng thể cho cảm giác nam tính mạnh, hơi quyền lực, ít thân thiện hơn các bản Sauvage dễ dùng khác nhưng lại đáng nhớ hơn nhiều.
+
+### Khi nào nên dùng?
+- Buổi tối, đi chơi, đi tiệc, không khí lạnh hơn
+- Người muốn mùi nam tính rõ ràng và có độ hiện diện mạnh
+- Không phải lựa chọn tối ưu cho môi trường nóng ẩm ban ngày hoặc văn phòng kín
+
 ### Maison de SON verdict
-Nếu bạn thấy Sauvage EDT quá phổ thông và muốn một bản sâu, dày, nam tính hơn, Elixir là lựa chọn đáng thử nhất trong cả dòng.`,
-    verdict: "Đậm, nam tính và có độ hiện diện rất mạnh. Đây là kiểu chai nên dùng tiết chế nhưng đúng hoàn cảnh thì cực kỳ hiệu quả.",
-    verdictShort: "ĐẬM, NAM TÍNH, RẤT NỔI BẬT",
+Nếu bạn thấy Sauvage EDT quá quen thuộc và muốn một bản trưởng thành hơn, đậm hơn và bớt “ai cũng dùng”, Elixir là hướng nâng cấp đáng thử nhất trong cả dòng.`,
+    verdict: "Một chai nam đậm, dày và có lực rất rõ. Hợp người thích độ hiện diện mạnh, khí chất buổi tối và cảm giác trưởng thành hơn các bản Sauvage còn lại.",
+    verdictShort: "ĐẬM, DÀY, RẤT CÓ LỰC",
     score: { scent: 9.2, uniqueness: 8.9, compliments: 9.4, value: 8.2, total: 8.9 },
     vibes: [
       { label: "Buổi tối", icon: "🌙" },
