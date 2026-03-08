@@ -97,7 +97,7 @@ const Header = () => {
             e.preventDefault();
             const selected = searchResults[selectedIndex];
             if (selected) {
-                window.location.href = `/san-pham/${selected.id}`;
+                window.location.href = `/${selected.id}`;
             }
         }
     }, [searchResults, selectedIndex]);
@@ -205,7 +205,7 @@ const Header = () => {
                                                 {searchResults.map((product, idx) => (
                                                     <Link
                                                         key={product.id}
-                                                        href={`/san-pham/${product.id}`}
+                                                        href={`/${product.id}`}
                                                         onClick={() => { setSearchQuery(""); setIsSearchFocused(false); (document.activeElement as HTMLElement)?.blur(); }}
                                                         className={`flex items-center gap-4 px-4 py-3 transition-colors border-b border-gray-50 last:border-b-0 ${selectedIndex === idx ? 'bg-primary/5' : 'hover:bg-gray-50'}`}
                                                     >

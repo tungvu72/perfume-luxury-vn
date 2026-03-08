@@ -59,9 +59,9 @@ export default function AboutPage() {
                                     <Database size={28} />
                                 </div>
                                 <div>
-                                    <h3 className="text-xl font-bold mb-2">Dữ liệu hóa mùi hương</h3>
+                                    <h3 className="text-xl font-bold mb-2">Giải thích mùi hương rõ ràng</h3>
                                     <p className="text-gray-500 leading-relaxed">
-                                        Không còn những lời mô tả mơ hồ. Maison de SON dùng hệ thống 10 chỉ số từ Scent DNA cho đến hiệu năng (Longevity, Sillage) để bạn có cái nhìn chính xác nhất.
+                                        Không còn những lời mô tả mơ hồ. Maison de SON diễn giải mùi hương bằng ngôn ngữ dễ hiểu, trải nghiệm thực tế và các chỉ số quan trọng như độ lưu hương, độ tỏa hương và mức độ đáng tiền.
                                     </p>
                                 </div>
                             </div>
@@ -103,7 +103,7 @@ export default function AboutPage() {
 
                     <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-8">
                         {[
-                            { step: "01", title: "Phân tích DNA", desc: "Bóc tách từng nốt hương bằng khứu giác nhạy bén của chuyên gia." },
+                            { step: "01", title: "Giải mã cấu trúc mùi", desc: "Bóc tách từng tầng hương và cảm giác thực tế theo cách người Việt dễ hình dung." },
                             { step: "02", title: "Thử nghiệm nóng", desc: "Xịt trực tiếp lên da trong môi trường khí hậu Việt Nam 8-12 tiếng." },
                             { step: "03", title: "Kiểm định thực tế", desc: "Thu thập phản hồi từ người xung quanh để đo lường sức hút (Compliments)." },
                             { step: "04", title: "Đối chiếu thị trường", desc: "Kiểm tra nguồn gốc, phân loại fullbox/chiết và mức giá hợp lý nhất." },
@@ -125,7 +125,7 @@ export default function AboutPage() {
                     <Sparkles className="mx-auto text-primary mb-8" size={48} />
                     <h2 className="text-3xl md:text-5xl font-serif mb-8 italic">"Chúng tôi không bán nước hoa, <br /> chúng tôi bán sự thông thái khi chọn hương."</h2>
                     <p className="text-gray-500 text-lg mb-12">
-                        Đội ngũ Maison de SON tin rằng mỗi mùi hương là một chữ ký cá nhân. Hãy để chúng tôi giúp bạn tìm thấy dấu ấn riêng của mình bằng dữ liệu thực tế nhất.
+                        Đội ngũ Maison de SON tin rằng mỗi mùi hương là một chữ ký cá nhân. Hãy để chúng tôi giúp bạn tìm thấy dấu ấn riêng của mình bằng kiến thức rõ ràng và trải nghiệm thực tế dễ áp dụng.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
                         <Link href="/" className="bg-primary text-white px-10 py-4 rounded-xl font-bold hover:scale-105 transition-transform">
