@@ -15,15 +15,15 @@ export default function Newsletter() {
     };
 
     return (
-        <section className="bg-[#FAF8F5] py-20 border-t border-[var(--border)]">
-            <div className="max-w-[600px] mx-auto px-5 text-center">
-                <span className="text-[10px] font-bold text-primary tracking-[4px] uppercase mb-4 block">
+        <section className="bg-[#FAF8F5] border-t border-[var(--border)] py-14 md:py-20">
+            <div className="max-w-[600px] mx-auto px-4 sm:px-5 text-center">
+                <span className="mb-3 block text-[10px] font-bold uppercase tracking-[3px] text-primary md:mb-4 md:tracking-[4px]">
                     Cộng đồng tinh hoa
                 </span>
-                <h2 className="text-3xl md:text-4xl font-serif mb-4">
+                <h2 className="mb-3 text-[28px] font-serif leading-tight md:mb-4 md:text-4xl">
                     Gia nhập thế giới mùi hương
                 </h2>
-                <p className="text-sm text-gray-500 mb-8 leading-relaxed">
+                <p className="mb-6 text-sm leading-6 text-gray-500 md:mb-8 md:leading-relaxed">
                     Nhận tin về các deal nước hoa độc quyền, bài đánh giá mới nhất
                     và kiến thức chuyên sâu từ Maison de SON.
                 </p>
@@ -33,7 +33,7 @@ export default function Newsletter() {
                         <span>✓</span> Cảm ơn bạn! Chúng tôi sẽ gửi tin sớm nhất.
                     </div>
                 ) : (
-                    <form onSubmit={handleSubmit} className="flex gap-3 max-w-md mx-auto">
+                    <form onSubmit={handleSubmit} className="mx-auto flex max-w-md flex-col gap-3 sm:flex-row">
                         <input
                             type="email"
                             value={email}
@@ -44,7 +44,7 @@ export default function Newsletter() {
                         />
                         <button
                             type="submit"
-                            className="px-6 py-3 bg-foreground text-white text-xs font-bold uppercase tracking-wider rounded-lg hover:bg-primary transition-colors active:scale-95"
+                            className="rounded-lg bg-foreground px-6 py-3 text-xs font-bold uppercase tracking-wider text-white transition-colors hover:bg-primary active:scale-95"
                         >
                             Đăng ký
                         </button>

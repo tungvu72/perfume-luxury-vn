@@ -228,10 +228,10 @@ export default async function Home() {
           {trustItems.map((item) => (
             <div
               key={item.title}
-              className="rounded-2xl border border-[#eadfce] bg-white p-4 shadow-[0_10px_30px_rgba(27,18,13,0.04)]"
+              className="rounded-2xl border border-[#eadfce] bg-white p-3.5 shadow-[0_10px_30px_rgba(27,18,13,0.04)] md:p-4"
             >
-              <h2 className="text-sm font-semibold text-[#1b120d]">{item.title}</h2>
-              <p className="mt-1 text-sm leading-6 text-gray-600">{item.desc}</p>
+              <h2 className="text-[13px] font-semibold text-[#1b120d] md:text-sm">{item.title}</h2>
+              <p className="mt-1 text-[13px] leading-5 text-gray-600 md:text-sm md:leading-6">{item.desc}</p>
             </div>
           ))}
         </div>
@@ -243,13 +243,13 @@ export default async function Home() {
             <Link
               key={path.title}
               href={path.href}
-              className="group rounded-[24px] border border-[#eadfce] bg-white p-5 transition duration-300 hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)] md:p-6"
+              className="group rounded-[24px] border border-[#eadfce] bg-white p-4 transition duration-300 hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)] md:p-6"
             >
               <div className="text-[11px] font-bold uppercase tracking-[0.24em] text-primary">
                 Lối vào nhanh
               </div>
-              <h2 className="mt-3 text-2xl font-serif text-[#1b120d]">{path.title}</h2>
-              <p className="mt-3 text-sm leading-7 text-gray-600">{path.desc}</p>
+              <h2 className="mt-2.5 text-[26px] font-serif leading-tight text-[#1b120d] md:mt-3 md:text-2xl">{path.title}</h2>
+              <p className="mt-2.5 text-sm leading-6 text-gray-600 md:mt-3 md:leading-7">{path.desc}</p>
               <span className="mt-5 inline-flex items-center text-sm font-semibold text-primary group-hover:underline">
                 {path.cta} →
               </span>
@@ -439,7 +439,7 @@ export default async function Home() {
                     className="object-contain p-5 transition duration-300 group-hover:scale-105"
                   />
                 </div>
-                <div className="p-5">
+                <div className="p-4 md:p-5">
                   <div className="flex items-center justify-between gap-2 text-xs text-gray-500">
                     <span className="font-semibold uppercase tracking-[0.16em]">{product.brand}</span>
                     <span className="font-semibold text-primary">★ {product.score.total}/10</span>
@@ -625,7 +625,7 @@ export default async function Home() {
         </Link>
       </div>
 
-      <nav className="fixed bottom-0 left-0 z-50 flex w-full border-t border-[#eadfce] bg-white/95 py-1 backdrop-blur-sm md:hidden safe-area-pb">
+      <nav className="fixed bottom-0 left-0 z-50 flex w-full border-t border-[#eadfce] bg-white/95 py-1 backdrop-blur-sm md:hidden safe-area-pb shadow-[0_-8px_30px_rgba(27,18,13,0.08)]">
         {[
           {
             icon: (
@@ -672,7 +672,7 @@ export default async function Home() {
           <Link
             key={index}
             href={item.href}
-            className={`flex flex-1 flex-col items-center py-2 text-center transition-colors ${
+            className={`flex flex-1 flex-col items-center py-1.5 text-center transition-colors ${
               index === 0 ? "text-primary" : "text-gray-400 hover:text-primary"
             }`}
           >
