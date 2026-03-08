@@ -5,8 +5,8 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Thương hiệu nước hoa - Maison de SON",
-    description: "Khám phá các thương hiệu nước hoa cao cấp chính hãng từ Dior, Chanel, Tom Ford đến các dòng Niche hiếm. Đánh giá chuyên sâu từ Maison de SON.",
+    title: "Thương hiệu nước hoa đáng xem | Maison de SON",
+    description: "Khám phá các thương hiệu nước hoa nổi bật tại Maison de SON. Xem review, lựa chọn đáng chú ý và định hướng chọn mùi phù hợp cho người Việt.",
 };
 
 // Danh sách đầy đủ các brand (kết hợp data thật + placeholder cho SEO)
@@ -55,18 +55,26 @@ export default async function BrandsIndexPage() {
             <Header />
 
             {/* PAGE HEADER */}
-            <section className="border-b border-[var(--border)] py-10 md:py-14">
+            <section className="border-b border-[var(--border)] bg-[#faf8f6] py-10 md:py-14">
                 <div className="max-w-[1200px] mx-auto px-5">
-                    <Breadcrumbs items={[{ label: 'Thương hiệu' }]} />
-                    <h1 className="text-3xl md:text-4xl font-serif mb-2">Thương hiệu nước hoa</h1>
-                    <p className="text-sm text-gray-400">
-                        Tra cứu {allBrandNames.length} thương hiệu từ A đến Z · {totalProducts} sản phẩm đã đánh giá
-                    </p>
+                    <div className="overflow-hidden rounded-[32px] border border-[#eadfce] bg-white px-6 py-8 shadow-[0_20px_60px_rgba(27,18,13,0.05)] md:px-8 md:py-10">
+                        <Breadcrumbs items={[{ label: 'Thương hiệu' }]} />
+                        <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.28em] text-primary">Brand Directory</p>
+                        <h1 className="text-3xl md:text-5xl font-serif mb-4 leading-tight">Thương hiệu nước hoa đáng khám phá</h1>
+                        <p className="max-w-3xl text-sm leading-7 text-gray-600 md:text-base">
+                            Bắt đầu từ thương hiệu nếu bạn muốn hiểu rõ tinh thần, phong cách mùi và các lựa chọn nổi bật trước khi đi vào từng chai cụ thể. Maison de SON ưu tiên cách tiếp cận dễ hiểu, thực tế và hợp người dùng Việt.
+                        </p>
+                        <div className="mt-5 flex flex-wrap gap-3 text-sm">
+                            <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">{allBrandNames.length} thương hiệu A-Z</span>
+                            <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">{totalProducts} sản phẩm đã có</span>
+                            <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Review + định hướng chọn mùi</span>
+                        </div>
+                    </div>
                 </div>
             </section>
 
             {/* ALPHABET QUICK NAV */}
-            <section className="sticky top-[72px] z-40 bg-white/90 backdrop-blur-md border-b border-[var(--border)]">
+            <section className="sticky top-[72px] z-40 border-b border-[var(--border)] bg-white/90 backdrop-blur-md">
                 <div className="max-w-[1200px] mx-auto px-5 py-3 flex flex-wrap gap-1">
                     {letters.map(letter => (
                         <a
@@ -83,7 +91,7 @@ export default async function BrandsIndexPage() {
             {/* BRAND DIRECTORY */}
             <section className="max-w-[1200px] mx-auto px-5 py-8">
                 {letters.map(letter => (
-                    <div key={letter} id={`letter-${letter}`} className="mb-10 scroll-mt-32">
+                    <div key={letter} id={`letter-${letter}`} className="mb-10 scroll-mt-32 rounded-[28px] border border-[#eadfce] bg-white p-5 shadow-[0_12px_35px_rgba(27,18,13,0.03)] md:p-6">
                         {/* Letter Header */}
                         <div className="flex items-center gap-4 mb-4">
                             <span className="text-3xl md:text-4xl font-serif font-bold text-gray-200">{letter}</span>
@@ -101,7 +109,7 @@ export default async function BrandsIndexPage() {
                                         <Link
                                             key={brandName}
                                             href={`/${brandData.slug}`}
-                                            className="flex items-center justify-between py-3 px-3 -mx-3 rounded-lg hover:bg-gray-50 transition-colors group"
+                                            className="flex items-center justify-between rounded-2xl px-4 py-3 transition-colors group hover:bg-[#faf6f1]"
                                         >
                                             <span className="text-sm font-semibold tracking-wide uppercase group-hover:text-primary transition-colors">
                                                 {brandName}
@@ -116,7 +124,7 @@ export default async function BrandsIndexPage() {
                                 return (
                                     <div
                                         key={brandName}
-                                        className="flex items-center justify-between py-3 px-3 -mx-3"
+                                        className="flex items-center justify-between rounded-2xl px-4 py-3"
                                     >
                                         <span className="text-sm font-semibold tracking-wide uppercase text-gray-300">
                                             {brandName}
