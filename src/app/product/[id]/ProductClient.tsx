@@ -40,6 +40,10 @@ function getImageCaption(img: string | GalleryImage): string | undefined {
   return typeof img === "string" ? undefined : img.caption;
 }
 
+function isImageVerified(img: string | GalleryImage): boolean {
+  return typeof img === "string" ? false : img.verified === true;
+}
+
 const SOURCE_LABELS: Record<string, string> = {
   fragram: "Fragram",
   community: "Community",
@@ -155,6 +159,11 @@ function ProductHero({
                 <span className="rounded-full bg-black/65 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.16em] text-white backdrop-blur-sm">
                   {activeImage === 0 ? "Ảnh chính" : SOURCE_LABELS[activeSource || "community"] || "Gallery"}
                 </span>
+                {!isImageVerified(allImages[activeImage]) && (
+                  <span className="rounded-full bg-amber-100 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.16em] text-amber-800">
+                    Chưa xác minh
+                  </span>
+                )}
                 {allImages.length > 1 && (
                   <span className="rounded-full bg-white/80 px-3 py-1.5 text-[10px] font-semibold text-gray-700 backdrop-blur-sm">
                     {activeImage + 1}/{allImages.length}

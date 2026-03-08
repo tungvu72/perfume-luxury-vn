@@ -161,7 +161,7 @@ Nếu bạn thích hướng ngọt ấm, nổi bật và muốn trải nghiệm 
     gender: "nam",
     image: "/placeholders/product-image-pending.svg",
     images: [
-      { url: "/placeholders/product-image-pending.svg", source: "studio", caption: "Ảnh Bleu de Chanel EDP đang được xác minh lại để tránh dùng sai phiên bản" }
+      { url: "/placeholders/product-image-pending.svg", source: "studio", caption: "Ảnh Bleu de Chanel EDP đang được xác minh lại để tránh dùng sai phiên bản", verified: false }
     ],
     description: "Bleu de Chanel EDP là kiểu nước hoa nam rất dễ giới thiệu cho người mới: sạch, chỉn chu, có chiều sâu vừa đủ và dùng được trong nhiều hoàn cảnh mà không bị quá nặng. Ảnh sản phẩm đang được xác minh lại để đảm bảo đúng phiên bản trước khi cập nhật lên live.",
     article: `Bleu de Chanel Eau de Parfum là một trong những chai nam quan trọng nhất của Chanel ở thời hiện đại, và cũng là phiên bản được nhiều người xem là cân bằng nhất trong cả dòng Bleu de Chanel.

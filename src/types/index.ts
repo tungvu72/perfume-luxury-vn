@@ -27,6 +27,7 @@ export interface GalleryImage {
     url: string;
     caption?: string;
     source?: 'studio' | 'fragram' | 'community' | 'owner';
+    verified?: boolean;
 }
 
 export interface ShopeeOffer {
