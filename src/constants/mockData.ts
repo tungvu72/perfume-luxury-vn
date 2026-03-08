@@ -159,13 +159,11 @@ Nếu bạn thích hướng ngọt ấm, nổi bật và muốn trải nghiệm 
     subName: "Eau de Parfum",
     perfumer: "Olivier Polge",
     gender: "nam",
-    image: "https://fimgs.net/images/perfume/o.20477.jpg?v=2",
+    image: "/placeholders/product-image-pending.svg",
     images: [
-      { url: "https://fimgs.net/images/perfume/o.20477.jpg?v=2", source: "studio", caption: "Bleu de Chanel Eau de Parfum - ảnh packshot chính diện" },
-      { url: "https://fimgs.net/images/perfume/o.20477.jpg?v=2", source: "studio", caption: "Bleu de Chanel EDP với thiết kế xanh đen đặc trưng" },
-      { url: "https://fimgs.net/images/perfume/o.20477.jpg?v=2", source: "studio", caption: "Phiên bản Eau de Parfum của Bleu de Chanel" }
+      { url: "/placeholders/product-image-pending.svg", source: "studio", caption: "Ảnh Bleu de Chanel EDP đang được xác minh lại để tránh dùng sai phiên bản" }
     ],
-    description: "Bleu de Chanel EDP là kiểu nước hoa nam rất dễ giới thiệu cho người mới: sạch, chỉn chu, có chiều sâu vừa đủ và dùng được trong nhiều hoàn cảnh mà không bị quá nặng.",
+    description: "Bleu de Chanel EDP là kiểu nước hoa nam rất dễ giới thiệu cho người mới: sạch, chỉn chu, có chiều sâu vừa đủ và dùng được trong nhiều hoàn cảnh mà không bị quá nặng. Ảnh sản phẩm đang được xác minh lại để đảm bảo đúng phiên bản trước khi cập nhật lên live.",
     article: `Bleu de Chanel Eau de Parfum là một trong những chai nam quan trọng nhất của Chanel ở thời hiện đại, và cũng là phiên bản được nhiều người xem là cân bằng nhất trong cả dòng Bleu de Chanel.
 
 ### Nguồn gốc và xuất xứ
