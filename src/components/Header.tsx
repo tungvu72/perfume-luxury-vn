@@ -109,7 +109,7 @@ const Header = () => {
 
     const menuItems = [
         { name: "Bảng xếp hạng", href: "/bang-xep-hang" },
-        { name: "Theo nốt hương", href: "/bang-xep-hang" },
+        { name: "Theo nốt hương", href: "/theo-not-huong" },
         { name: "Thương hiệu", href: "/thuong-hieu" },
         { name: "So sánh", href: "/so-sanh" },
         { name: "Kiến thức", href: "/kien-thuc" },
