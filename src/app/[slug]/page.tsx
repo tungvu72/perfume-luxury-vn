@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     if (product) {
         return {
             title: `${product.name} ${product.subName || ''} — Giá tốt ${mm_yyyy} | Maison de SON`,
-            description: `${product.name}: Đánh giá chuyên sâu, phân tích DNA mùi hương, giá tham khảo ${mm_yyyy}. Điểm PLV: ${product.score.total}/10. Tư vấn mua nước hoa chính hãng qua Zalo.`,
+            description: `${product.name}: Review chuyên sâu, phân tích cá tính mùi hương, giá tham khảo ${mm_yyyy}. Điểm đánh giá: ${product.score.total}/10. Tư vấn chọn nước hoa chính hãng qua Zalo.`,
             keywords: [product.name, product.brand, `mua ${product.name} chính hãng`, `giá ${product.name}`, `${product.name} ở đâu`],
             alternates: { canonical: `https://maisondeson.com/${product.id}` },
             openGraph: {
@@ -71,7 +71,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     if (brand) {
         return {
             title: `Nước hoa ${brand.name} chính hãng — Bộ sưu tập | Maison de SON`,
-            description: `Khám phá toàn bộ bộ sưu tập nước hoa ${brand.name} chính hãng tại Maison de SON. Đánh giá chi tiết, giá cạnh tranh, tư vấn qua Zalo.`,
+            description: `Khám phá nước hoa ${brand.name} tại Maison de SON với review, trải nghiệm thực tế, giá tham khảo và gợi ý chọn mua chính hãng cho người Việt.`,
             keywords: [brand.name, `nước hoa ${brand.name}`, `${brand.name} chính hãng`, `mua ${brand.name}`],
             alternates: { canonical: `https://maisondeson.com/${brand.slug}` },
         };
@@ -192,7 +192,7 @@ async function BrandPage({ brand, slug }: { brand: any; slug: string }) {
                 ]} />
                 <div className="mt-8 mb-12">
                     <h1 className="text-4xl md:text-6xl font-serif mb-3">Nước hoa {brand.name}</h1>
-                    <p className="text-gray-500">Bộ sưu tập <strong>{brand.name}</strong> chính hãng tại Maison de SON — {products.length} sản phẩm</p>
+                    <p className="text-gray-500">Khám phá các bài review và lựa chọn nổi bật từ <strong>{brand.name}</strong> tại Maison de SON — hiện có {products.length} sản phẩm</p>
                 </div>
                 <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
                     {products.map((p: Perfume) => (
