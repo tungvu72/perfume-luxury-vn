@@ -71,6 +71,13 @@ function fitSummary(product: Perfume) {
   return "Dùng linh hoạt cả ngày lẫn đêm";
 }
 
+function avoidSummary(product: Perfume) {
+  if (!product.sillage) return "Người thích mùi thật nổi bật ngay từ đầu.";
+  if (product.sillage >= 8) return "Không hợp môi trường kín hoặc người thích mùi thật nhẹ.";
+  if (product.sillage <= 5) return "Không hợp ai muốn mùi hiện diện mạnh và gây chú ý xa.";
+  return "Không quá hợp nếu bạn cần một mùi thật cá tính hoặc thật bùng nổ.";
+}
+
 type GalleryRailProps = {
   images: (string | GalleryImage)[];
   activeImage: number;
@@ -208,14 +215,23 @@ function ProductHero({
           <div className="grid gap-5 sm:grid-cols-[120px_minmax(0,1fr)] sm:items-center">
             <div className="flex h-[110px] w-[110px] flex-col items-center justify-center rounded-full border border-primary/20 bg-[#fbf4ee] text-center">
               <div className={`font-serif text-4xl leading-none ${scoreTone(product.score.total)}`}>{product.score.total}</div>
-              <div className="mt-2 text-[11px] font-bold uppercase tracking-[0.2em] text-gray-400">PLV / 10</div>
+              <div className="mt-2 text-[11px] font-bold uppercase tracking-[0.2em] text-gray-400">Điểm tổng / 10</div>
             </div>
             <div>
               <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Verdict nhanh</div>
               <h2 className="mt-2 text-xl font-semibold leading-snug text-gray-950 sm:text-2xl">{product.verdictShort}</h2>
               <p className="mt-3 text-sm leading-7 text-gray-600 sm:text-[15px]">{product.verdict}</p>
-              <div className="mt-4 flex flex-wrap gap-2 text-xs text-gray-500">
-                <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 font-semibold text-gray-700">{fitSummary(product)}</span>
+              <div className="mt-4 grid gap-3 sm:grid-cols-2">
+                <div className="rounded-2xl bg-[#f7f3ef] px-4 py-3 text-sm text-gray-700">
+                  <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Hợp với ai</div>
+                  <div className="mt-1 font-semibold">{fitSummary(product)}</div>
+                </div>
+                <div className="rounded-2xl bg-[#f7f3ef] px-4 py-3 text-sm text-gray-700">
+                  <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Không hợp nếu</div>
+                  <div className="mt-1 font-semibold">{avoidSummary(product)}</div>
+                </div>
+              </div>
+              <div className="mt-3 flex flex-wrap gap-2 text-xs text-gray-500">
                 {product.longevity && <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 font-semibold text-gray-700">Lưu hương {product.longevity}/10</span>}
                 {product.sillage && <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 font-semibold text-gray-700">Tỏa hương {product.sillage}/10</span>}
               </div>
@@ -393,8 +409,8 @@ export default function ProductClient({ product, relatedProducts, relatedArticle
           </div>
 
           <aside className="h-fit space-y-6 lg:sticky lg:top-24">
-            <div className="rounded-[28px] border border-[var(--border)] bg-white p-5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-6"><h3 className="text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Mô tả nhanh</h3><p className="mt-3 text-sm leading-7 text-gray-600">{product.description}</p></div>
-            <div className="rounded-[28px] border border-[var(--border)] bg-white p-5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-6"><h3 className="mb-4 text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Size đang có</h3><div className="flex flex-wrap gap-2">{product.sizes.map((s) => { const isDecant = s.toLowerCase().includes("chiết"); const capacityLabel = s.split(" ")[0] || s; return <button key={s} onClick={() => setSelectedSize(s)} className={`min-w-[96px] rounded-2xl border px-4 py-3 text-left transition ${selectedSize === s ? "border-primary bg-primary text-white shadow-md" : "border-[var(--border)] bg-[#faf8f6] text-gray-700 hover:border-primary/40"}`}><div className="text-sm font-bold">{capacityLabel}</div><div className={`mt-1 text-[10px] font-semibold uppercase tracking-[0.14em] ${selectedSize === s ? "text-white/80" : "text-gray-400"}`}>{isDecant ? "Chiết" : "Fullbox"}</div></button>; })}</div></div>
+            <div className="rounded-[28px] border border-[var(--border)] bg-white p-5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-6"><h3 className="text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Tóm tắt nhanh</h3><p className="mt-3 text-sm leading-7 text-gray-600">{product.description}</p><div className="mt-4 grid gap-2 text-sm"><div className="rounded-2xl bg-[#faf8f6] px-4 py-3"><span className="font-semibold text-gray-900">Phù hợp:</span> <span className="text-gray-600">{fitSummary(product)}</span></div><div className="rounded-2xl bg-[#faf8f6] px-4 py-3"><span className="font-semibold text-gray-900">Lưu / tỏa:</span> <span className="text-gray-600">{product.longevity || "?"}/10 • {product.sillage || "?"}/10</span></div></div></div>
+            <div className="rounded-[28px] border border-[var(--border)] bg-white p-5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-6"><h3 className="mb-4 text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Size đang có</h3><div className="flex flex-wrap gap-2">{product.sizes.map((s) => { const isDecant = s.toLowerCase().includes("chiết"); const capacityLabel = s.split(" ")[0] || s; return <button key={s} onClick={() => setSelectedSize(s)} className={`min-w-[96px] rounded-2xl border px-4 py-3 text-left transition ${selectedSize === s ? "border-primary bg-primary text-white shadow-md" : "border-[var(--border)] bg-[#faf8f6] text-gray-700 hover:border-primary/40"}`}><div className="text-sm font-bold">{capacityLabel}</div><div className={`mt-1 text-[10px] font-semibold uppercase tracking-[0.14em] ${selectedSize === s ? "text-white/80" : "text-gray-400"}`}>{isDecant ? "Chiết" : "Fullbox"}</div></button>; })}</div><p className="mt-3 text-xs leading-5 text-gray-400">Chọn size để dễ hình dung nhu cầu dùng thử, mua fullbox hoặc xin tư vấn nhanh qua Zalo.</p></div>
           </aside>
         </div>
       </div>
