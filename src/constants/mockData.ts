@@ -1895,66 +1895,7 @@ Gừng, vanilla bourbon và gỗ tạo cảm giác ngọt ấm, hơi cay nhẹ v
     basePrice: 2250000,
     shopeeOffers: []
   },
-  {
-    id: "jpg-le-beau-le-parfum",
-    brandSlug: "jean-paul-gaultier",
-    brand: "JEAN PAUL GAULTIER",
-    name: "Le Beau Le Parfum",
-    subName: "Eau de Parfum Intense",
-    perfumer: "Quentin Bisch & Sonia Constant",
-    gender: "nam",
-    image: PENDING_IMAGE,
-    images: [
-      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Le Beau Le Parfum đang được xác minh lại để tránh nhầm Le Beau EDT", verified: false }
-    ],
-    description: "Đây là kiểu mùi nam dừa, ngọt xanh và khá quyến rũ theo hướng trẻ. Hợp đi chơi, du lịch hoặc người thích cảm giác tropical dễ nhớ. Nếu bạn ghét dừa ngọt, bản này sẽ khó hợp.",
-    article: `Tại Maison de SON, Le Beau Le Parfum là một trong những chai nam có màu sắc khá riêng ở nhóm designer phổ biến. Nó vừa có sự tươi sáng lúc đầu, vừa giữ được cảm giác ngọt quyến rũ ở phần sau.
 
-### Nguồn gốc và xuất xứ
-Đây là sản phẩm của Jean Paul Gaultier, thương hiệu Pháp vốn rất mạnh ở các line nước hoa có cá tính rõ và thiết kế dễ nhớ.
-
-### Ra mắt khi nào?
-Le Beau Le Parfum ra mắt năm 2022 như phiên bản đậm hơn của dòng Le Beau.
-
-### Câu chuyện ra đời
-Bản này tiếp tục khai thác hình ảnh nam tính quyến rũ theo hướng trẻ và vui hơn các chai gỗ cổ điển. Nó hợp với nhóm người muốn mùi có màu sắc riêng chứ không chỉ sạch sang.
-
-### Mùi hương mang lại cảm giác gì?
-Dứa, gừng, gỗ và dừa tạo cảm giác vừa tươi vừa ngọt, hơi tropical nhưng vẫn có độ tối vừa đủ. Đây là kiểu mùi lên da khá bắt tai và dễ nhớ.
-
-### Khi nào nên dùng?
-- Đi chơi, du lịch, hẹn hò, tối mát
-- Hợp người thích mùi nam có nét vui và quyến rũ
-- Không hợp lắm nếu bạn ghét dừa hoặc chỉ thích mùi thật nghiêm túc
-
-### Nhận xét của Maison de SON
-Chai này hay ở chỗ có màu rất riêng mà vẫn dễ dùng. Điểm yếu là không phải ai cũng thích sắc dừa ngọt của nó.`,
-    verdict: "Mùi này trẻ, quyến rũ và khá bắt tai. Hợp đi chơi hoặc hẹn hò. Nếu bạn ghét dừa ngọt, bản này không hợp lắm.",
-    verdictShort: "TRẺ, QUYẾN RŨ, KHÁ BẮT TAI",
-    score: { scent: 8.8, uniqueness: 8.4, compliments: 8.9, value: 8.3, total: 8.6 },
-    vibes: [
-      { label: "Đi chơi", icon: "🎉" },
-      { label: "Hẹn hò", icon: "❤️" },
-      { label: "Nhiệt đới", icon: "🌴" }
-    ],
-    longevity: 8,
-    sillage: 7,
-    seasons: { spring: 76, summer: 60, fall: 78, winter: 52 },
-    dayNight: { day: 62, night: 82 },
-    topNotes: [{ name: "Dứa" }, { name: "Gừng" }],
-    middleNotes: [{ name: "Cây bách" }, { name: "Dừa" }],
-    baseNotes: [{ name: "Đậu tonka" }, { name: "Gỗ đàn hương" }, { name: "Hổ phách" }],
-    accords: [
-      { name: "Ngọt", value: 52, color: "#8B0000" },
-      { name: "Dừa", value: 34, color: "#f5deb3" },
-      { name: "Gỗ", value: 28, color: "#8B4513" },
-      { name: "Tropical", value: 24, color: "#1abc9c" }
-    ],
-    tags: ["Nam", "Đi chơi", "Hẹn hò", "Mùi lạ vừa đủ"],
-    sizes: ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
-    basePrice: 3050000,
-    shopeeOffers: []
-  },
   {
     id: "mancera-instant-crush",
     brandSlug: "mancera",
@@ -2075,126 +2016,8 @@ Vanilla 28 dễ sống chung và khá linh hoạt nếu bạn thích nhóm mùi 
     basePrice: 2650000,
     shopeeOffers: []
   },
-  {
-    id: "ysl-y-edp",
-    brandSlug: "ysl",
-    brand: "YVES SAINT LAURENT",
-    name: "Y",
-    subName: "Eau de Parfum",
-    perfumer: "Dominique Ropion",
-    gender: "nam",
-    image: PENDING_IMAGE,
-    images: [
-      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh YSL Y EDP đang được xác minh lại để tránh nhầm Y Le Parfum", verified: false }
-    ],
-    description: "Đây là kiểu mùi nam sạch, ngọt nhẹ và rất dễ dùng cho người trẻ. Hợp đi làm, đi học, gặp gỡ hằng ngày. Nếu bạn cần mùi thật khác biệt, bản này sẽ hơi an toàn.",
-    article: `Tại Maison de SON, Y EDP là một trong những chai nước hoa nam dễ gợi ý nhất cho người mới bắt đầu. Nó sạch, hiện đại và đủ ngọt để tạo thiện cảm mà không quá khó dùng.
 
-### Nguồn gốc và xuất xứ
-Đây là sản phẩm của Yves Saint Laurent, thương hiệu Pháp nổi tiếng với các line nước hoa trẻ và có tính thị trường rất tốt.
 
-### Ra mắt khi nào?
-Y EDP ra mắt năm 2018 và nhanh chóng trở thành một trong những chai nam chủ lực của YSL.
-
-### Câu chuyện ra đời
-Dòng Y được xây cho hình ảnh nam hiện đại, năng động và dễ tiếp cận hơn các hướng mùi cổ điển. Bản EDP là điểm cân bằng tốt giữa sự sạch sẽ và độ hút.
-
-### Mùi hương mang lại cảm giác gì?
-Táo, gừng, xô thơm, amberwood và tonka tạo cảm giác sạch, hơi ngọt và rất dễ tạo thiện cảm. Nó không làm người khác bất ngờ, nhưng rất dễ được khen là thơm.
-
-### Khi nào nên dùng?
-- Đi làm, đi học, gặp khách, dùng hằng ngày
-- Hợp người thích mùi nam trẻ, sáng và dễ dùng
-- Không hợp lắm nếu bạn chỉ săn mùi thật lạ hoặc thật sâu
-
-### Nhận xét của Maison de SON
-Y EDP mạnh ở tính an toàn và hiệu quả đời thực. Điểm yếu là hơi phổ thông nếu bạn đã chơi mùi lâu.`,
-    verdict: "Mùi này sạch, dễ mến và rất dễ dùng. Hợp người mới chơi hoặc cần một chai đa dụng. Nếu bạn thích mùi thật riêng, bản này hơi an toàn.",
-    verdictShort: "SẠCH, DỄ MẾN, RẤT DỄ DÙNG",
-    score: { scent: 8.6, uniqueness: 7.2, compliments: 9.0, value: 8.6, total: 8.4 },
-    vibes: [
-      { label: "Hằng ngày", icon: "🧴" },
-      { label: "Văn phòng", icon: "💼" },
-      { label: "Trẻ trung", icon: "⚡" }
-    ],
-    longevity: 8,
-    sillage: 7,
-    seasons: { spring: 82, summer: 68, fall: 80, winter: 64 },
-    dayNight: { day: 88, night: 54 },
-    topNotes: [{ name: "Táo" }, { name: "Cam bergamot" }, { name: "Gừng" }],
-    middleNotes: [{ name: "Xô thơm" }, { name: "Cây bách xù" }],
-    baseNotes: [{ name: "Amberwood" }, { name: "Đậu tonka" }, { name: "Gỗ tuyết tùng" }],
-    accords: [
-      { name: "Sạch", value: 48, color: "#95a5a6" },
-      { name: "Ngọt nhẹ", value: 34, color: "#8B0000" },
-      { name: "Thơm thảo mộc", value: 28, color: "#2c7a4b" },
-      { name: "Gỗ", value: 20, color: "#8B4513" }
-    ],
-    tags: ["Nam", "Hằng ngày", "Văn phòng", "Dễ dùng"],
-    sizes: ["10ml Chiết", "60ml Fullbox", "100ml Fullbox"],
-    basePrice: 2650000,
-    shopeeOffers: []
-  },
-  {
-    id: "versace-eros-edp",
-    brandSlug: "versace",
-    brand: "VERSACE",
-    name: "Eros",
-    subName: "Eau de Parfum",
-    perfumer: "Olivier Pescheux",
-    gender: "nam",
-    image: PENDING_IMAGE,
-    images: [
-      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Versace Eros EDP đang được xác minh lại để tránh nhầm Eros Flame", verified: false }
-    ],
-    description: "Đây là kiểu mùi nam ngọt mát, bạc hà và tonka rất dễ gây chú ý. Hợp đi chơi, đi tối và người thích mùi nam trẻ có lực. Nếu bạn cần mùi kín đáo, bản này hơi lộ.",
-    article: `Ở Maison de SON, Eros EDP là một trong những chai nam nổi tiếng nhất ở nhóm trẻ, ngọt và dễ gây ấn tượng. Nó không tinh tế kiểu an toàn, mà thiên về cảm giác vui, tự tin và hơi showy một chút.
-
-### Nguồn gốc và xuất xứ
-Eros thuộc Versace, thương hiệu Ý nổi tiếng với phong cách thời trang nổi bật và có phần hào nhoáng. Điều đó cũng hiện khá rõ trong line nước hoa này.
-
-### Ra mắt khi nào?
-Eros bản gốc ra mắt năm 2012, còn EDP ra mắt năm 2020 theo hướng mượt và hiện đại hơn.
-
-### Câu chuyện ra đời
-Dòng Eros được tạo cho hình ảnh nam trẻ, mạnh và thu hút. Bản EDP giữ tinh thần đó nhưng dễ mặc hơn trong đời thực so với EDT.
-
-### Mùi hương mang lại cảm giác gì?
-Bạc hà, táo, vanilla và tonka tạo cảm giác ngọt mát, trẻ và hơi bùng nổ. Đây là kiểu mùi đi club, đi chơi hoặc gặp gỡ đông người khá hợp.
-
-### Khi nào nên dùng?
-- Đi chơi, đi tối, tiệc tùng
-- Hợp người trẻ thích mùi nam nổi và có lực
-- Không hợp lắm nếu bạn cần mùi kín đáo cho văn phòng nhỏ
-
-### Nhận xét của Maison de SON
-Eros EDP hiệu quả nếu mục tiêu là nổi bật và dễ gây chú ý. Điểm yếu là hơi phô nếu xịt quá tay.`,
-    verdict: "Mùi này trẻ, ngọt mát và khá nổi. Hợp đi chơi hoặc đi tối. Nếu bạn cần mùi kín, bản này hơi lộ.",
-    verdictShort: "TRẺ, NGỌT MÁT, KHÁ NỔI",
-    score: { scent: 8.5, uniqueness: 7.4, compliments: 8.9, value: 8.7, total: 8.4 },
-    vibes: [
-      { label: "Đi chơi", icon: "🎉" },
-      { label: "Buổi tối", icon: "🌙" },
-      { label: "Trẻ", icon: "⚡" }
-    ],
-    longevity: 8,
-    sillage: 8,
-    seasons: { spring: 64, summer: 42, fall: 84, winter: 88 },
-    dayNight: { day: 38, night: 96 },
-    topNotes: [{ name: "Bạc hà" }, { name: "Táo" }, { name: "Chanh" }],
-    middleNotes: [{ name: "Xô thơm" }, { name: "Hoa phong lữ" }],
-    baseNotes: [{ name: "Vanilla" }, { name: "Đậu tonka" }, { name: "Gỗ tuyết tùng" }],
-    accords: [
-      { name: "Ngọt", value: 54, color: "#8B0000" },
-      { name: "Tươi", value: 32, color: "#1abc9c" },
-      { name: "Thảo mộc", value: 20, color: "#2c7a4b" },
-      { name: "Ấm", value: 18, color: "#e67e22" }
-    ],
-    tags: ["Nam", "Đi chơi", "Buổi tối", "Trẻ"],
-    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "200ml Fullbox"],
-    basePrice: 2350000,
-    shopeeOffers: []
-  },
   {
     id: "prada-luna-rossa-carbon",
     brandSlug: "prada",
@@ -2255,66 +2078,7 @@ Carbon sống rất dễ trong đời thường. Điểm yếu là thiếu độ
     basePrice: 2150000,
     shopeeOffers: []
   },
-  {
-    id: "dior-homme-intense",
-    brandSlug: "dior",
-    brand: "DIOR",
-    name: "Dior Homme Intense",
-    subName: "Eau de Parfum",
-    perfumer: "François Demachy",
-    gender: "nam",
-    image: PENDING_IMAGE,
-    images: [
-      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Dior Homme Intense đang được xác minh lại để tránh nhầm Dior Homme Original", verified: false }
-    ],
-    description: "Đây là kiểu mùi nam iris, phấn và gỗ rất sang theo hướng dressy. Hợp đi tối, sự kiện hoặc người thích mùi chỉn chu có chiều sâu. Nếu bạn ghét mùi phấn, bản này khó hợp.",
-    article: `Ở Maison de SON, Dior Homme Intense là một trong những chai nam sang theo kiểu trầm và ăn mặc tử tế. Nó không dành cho người chỉ thích mùi tươi sáng, mà hợp với người muốn một thứ mượt, đẹp và có chiều sâu rõ ràng.
 
-### Nguồn gốc và xuất xứ
-Đây là sản phẩm của Dior, thương hiệu Pháp vốn rất mạnh ở nhóm nước hoa nam cao cấp dễ được công nhận về độ chỉn chu.
-
-### Ra mắt khi nào?
-Dior Homme Intense ra mắt năm 2011 và đến nay vẫn là cái tên rất vững trong nhóm nam dressy.
-
-### Câu chuyện ra đời
-Chai này đi theo hướng nâng độ sang và độ mượt của line Dior Homme lên rõ hơn. Iris là chìa khóa khiến nó vừa mềm vừa khác đám mùi nam gỗ thông thường.
-
-### Mùi hương mang lại cảm giác gì?
-Iris, ambrette, lê và gỗ tạo cảm giác phấn nhẹ, mượt và hơi son sáp theo cách rất sang. Đây là kiểu mùi mặc sơ mi, blazer hoặc đi tối sẽ đẹp hơn rất nhiều.
-
-### Khi nào nên dùng?
-- Đi tối, dự tiệc, ăn mặc chỉnh chu
-- Hợp người thích mùi nam sang, mềm và có chiều sâu
-- Không hợp lắm nếu bạn ghét cảm giác phấn hoặc cần chai thể thao hằng ngày
-
-### Nhận xét của Maison de SON
-Dior Homme Intense đẹp và có gu rõ. Điểm yếu là kén người hơn các chai nam sạch phổ thông.`,
-    verdict: "Mùi này sang, mượt và có chiều sâu. Hợp đi tối hoặc ăn mặc chỉn chu. Nếu bạn ghét iris phấn, bản này không hợp.",
-    verdictShort: "SANG, MƯỢT, CÓ CHIỀU SÂU",
-    score: { scent: 9.0, uniqueness: 8.3, compliments: 8.7, value: 8.1, total: 8.5 },
-    vibes: [
-      { label: "Chỉnh chu", icon: "🕴️" },
-      { label: "Buổi tối", icon: "🌙" },
-      { label: "Sang trọng", icon: "💎" }
-    ],
-    longevity: 8,
-    sillage: 7,
-    seasons: { spring: 44, summer: 18, fall: 90, winter: 96 },
-    dayNight: { day: 22, night: 98 },
-    topNotes: [{ name: "Hoa oải hương" }],
-    middleNotes: [{ name: "Iris" }, { name: "Lê" }, { name: "Ambrette" }],
-    baseNotes: [{ name: "Gỗ tuyết tùng Virginia" }, { name: "Cỏ hương bài" }],
-    accords: [
-      { name: "Iris", value: 42, color: "#d7bde2" },
-      { name: "Phấn", value: 30, color: "#c39bd3" },
-      { name: "Gỗ", value: 22, color: "#8B4513" },
-      { name: "Mượt", value: 18, color: "#a1887f" }
-    ],
-    tags: ["Nam", "Buổi tối", "Sang trọng", "Dressy"],
-    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
-    basePrice: 3450000,
-    shopeeOffers: []
-  },
   {
     id: "dolce-gabbana-the-one-edp",
     brandSlug: "dolce-gabbana",
@@ -2373,6 +2137,966 @@ The One EDP đẹp vì nó biết tiết chế. Điểm yếu là hiệu năng k
     tags: ["Nam", "Hẹn hò", "Lịch sự", "Buổi tối"],
     sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
     basePrice: 2350000,
+    shopeeOffers: []
+  },
+  {
+    id: "giorgio-armani-my-way",
+    brandSlug: "giorgio-armani",
+    brand: "GIORGIO ARMANI",
+    name: "My Way",
+    subName: "Eau de Parfum",
+    perfumer: "Carlos Benaim & Bruno Jovanovic",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh My Way dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "My Way dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "burberry-her-edp",
+    brandSlug: "burberry",
+    brand: "BURBERRY",
+    name: "Her",
+    subName: "Eau de Parfum",
+    perfumer: "Francis Kurkdjian",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Her dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Her dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "gucci-bloom-edp",
+    brandSlug: "gucci",
+    brand: "GUCCI",
+    name: "Bloom",
+    subName: "Eau de Parfum",
+    perfumer: "Alberto Morillas",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Bloom dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Bloom dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "miss-dior-blooming-bouquet",
+    brandSlug: "dior",
+    brand: "DIOR",
+    name: "Miss Dior",
+    subName: "Blooming Bouquet",
+    perfumer: "Louise Turner",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Miss Dior dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Miss Dior dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "chloe-signature-edp",
+    brandSlug: "chloe",
+    brand: "CHLOE",
+    name: "Signature",
+    subName: "Eau de Parfum",
+    perfumer: "Amandine Clerc-Marie & Michel Almairac",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Signature dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Signature dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "narciso-rodriguez-for-her-edp",
+    brandSlug: "narciso-rodriguez",
+    brand: "NARCISO RODRIGUEZ",
+    name: "For Her",
+    subName: "Eau de Parfum",
+    perfumer: "Christine Nagel & Francis Kurkdjian",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh For Her dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "For Her dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "ysl-mon-paris-edp",
+    brandSlug: "ysl",
+    brand: "YVES SAINT LAURENT",
+    name: "Mon Paris",
+    subName: "Eau de Parfum",
+    perfumer: "Olivier Cresp, Dora Baghriche & Harry Fremont",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Mon Paris dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Mon Paris dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "versace-bright-crystal",
+    brandSlug: "versace",
+    brand: "VERSACE",
+    name: "Bright Crystal",
+    subName: "Eau de Toilette",
+    perfumer: "Alberto Morillas",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Bright Crystal dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Bright Crystal dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "dolce-gabbana-light-blue-pour-femme",
+    brandSlug: "dolce-gabbana",
+    brand: "DOLCE & GABBANA",
+    name: "Light Blue Pour Femme",
+    subName: "Eau de Toilette",
+    perfumer: "Olivier Cresp",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Light Blue Pour Femme dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Light Blue Pour Femme dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "armani-si-edp",
+    brandSlug: "giorgio-armani",
+    brand: "GIORGIO ARMANI",
+    name: "S�",
+    subName: "Eau de Parfum",
+    perfumer: "Christine Nagel",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh S� dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "S� dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "chanel-coco-mademoiselle-edp",
+    brandSlug: "chanel",
+    brand: "CHANEL",
+    name: "Coco Mademoiselle",
+    subName: "Eau de Parfum",
+    perfumer: "Jacques Polge",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Coco Mademoiselle dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Coco Mademoiselle dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "armaf-club-de-nuit-intense-man",
+    brandSlug: "armaf",
+    brand: "ARMAF",
+    name: "Club de Nuit Intense Man",
+    subName: "Eau de Toilette",
+    perfumer: "Armaf",
+    gender: "nam",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Club de Nuit Intense Man dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Club de Nuit Intense Man dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nam", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nam", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "givenchy-gentleman-reserve-privee",
+    brandSlug: "givenchy",
+    brand: "GIVENCHY",
+    name: "Gentleman",
+    subName: "Reserve Priv�e",
+    perfumer: "Nathalie Lorson & Olivier Cresp",
+    gender: "nam",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Gentleman dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Gentleman dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nam", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nam", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "viktor-rolf-spicebomb-extreme",
+    brandSlug: "viktor-rolf",
+    brand: "VIKTOR&ROLF",
+    name: "Spicebomb Extreme",
+    subName: "Eau de Parfum",
+    perfumer: "Carlos Benaim",
+    gender: "nam",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Spicebomb Extreme dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Spicebomb Extreme dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nam", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nam", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "issey-miyake-leau-dissey-pour-homme",
+    brandSlug: "issey-miyake",
+    brand: "ISSEY MIYAKE",
+    name: "L�Eau d�Issey Pour Homme",
+    subName: "Eau de Toilette",
+    perfumer: "Jacques Cavallier",
+    gender: "nam",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh L�Eau d�Issey Pour Homme dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "L�Eau d�Issey Pour Homme dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nam", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nam", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "bvlgari-man-in-black",
+    brandSlug: "bvlgari",
+    brand: "BVLGARI",
+    name: "Man In Black",
+    subName: "Eau de Parfum",
+    perfumer: "Alberto Morillas",
+    gender: "nam",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Man In Black dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Man In Black dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nam", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nam", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "boss-bottled-edp",
+    brandSlug: "hugo-boss",
+    brand: "HUGO BOSS",
+    name: "Boss Bottled",
+    subName: "Eau de Parfum",
+    perfumer: "Honorine Blanc",
+    gender: "nam",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Boss Bottled dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Boss Bottled dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nam", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nam", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "coach-for-men",
+    brandSlug: "coach",
+    brand: "COACH",
+    name: "For Men",
+    subName: "Eau de Toilette",
+    perfumer: "Anne Flipo & Bruno Jovanovic",
+    gender: "nam",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh For Men dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "For Men dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nam", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nam", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "moschino-toy-boy",
+    brandSlug: "moschino",
+    brand: "MOSCHINO",
+    name: "Toy Boy",
+    subName: "Eau de Parfum",
+    perfumer: "Yann Vasnier",
+    gender: "nam",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Toy Boy dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Toy Boy dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nam", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nam", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "initio-side-effect",
+    brandSlug: "initio",
+    brand: "INITIO",
+    name: "Side Effect",
+    subName: "Eau de Parfum",
+    perfumer: "Initio",
+    gender: "unisex",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Side Effect dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Side Effect dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "unisex", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["unisex", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "xerjoff-erba-pura",
+    brandSlug: "xerjoff",
+    brand: "XERJOFF",
+    name: "Erba Pura",
+    subName: "Eau de Parfum",
+    perfumer: "Christian Carbonnel",
+    gender: "unisex",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Erba Pura dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Erba Pura dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "unisex", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["unisex", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 1990000,
+    shopeeOffers: []
+  },
+  {
+    id: "mugler-alien-edp",
+    brandSlug: "mugler",
+    brand: "MUGLER",
+    name: "Alien",
+    subName: "Eau de Parfum",
+    perfumer: "Dominique Ropion & Laurent Bruyere",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Alien dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Alien dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 2390000,
+    shopeeOffers: []
+  },
+  {
+    id: "elie-saab-le-parfum",
+    brandSlug: "elie-saab",
+    brand: "ELIE SAAB",
+    name: "Le Parfum",
+    subName: "Eau de Parfum",
+    perfumer: "Francis Kurkdjian",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Le Parfum dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Le Parfum dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "nu", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["nu", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 2290000,
+    shopeeOffers: []
+  },
+  {
+    id: "maison-francis-kurkdjian-gentle-fluidity-gold",
+    brandSlug: "maison-francis-kurkdjian",
+    brand: "MAISON FRANCIS KURKDJIAN",
+    name: "Gentle Fluidity Gold",
+    subName: "Eau de Parfum",
+    perfumer: "Francis Kurkdjian",
+    gender: "unisex",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "?nh Gentle Fluidity Gold dang du?c x�c minh d? tr�nh nh?m phi�n b?n", verified: false }
+    ],
+    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+    article: "Gentle Fluidity Gold dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+    verdictShort: "LIVE CATALOG UPDATE",
+    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
+    vibes: [
+      { label: "unisex", icon: "?" },
+      { label: "D? d�ng", icon: "??" },
+      { label: "Catalog live", icon: "??" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
+    dayNight: { day: 58, night: 82 },
+    topNotes: [{ name: "Top note" }],
+    middleNotes: [{ name: "Middle note" }],
+    baseNotes: [{ name: "Base note" }],
+    accords: [
+      { name: "Ch? d?o", value: 58, color: "#8B4513" },
+      { name: "D? d�ng", value: 32, color: "#1abc9c" },
+      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
+      { name: "?m", value: 20, color: "#e67e22" }
+    ],
+    tags: ["unisex", "Catalog", "Live", "2026"],
+    sizes: ["10ml Chi?t", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 4990000,
     shopeeOffers: []
   }
 ];
