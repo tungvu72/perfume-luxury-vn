@@ -260,18 +260,32 @@ async function BrandPage({ brand, slug }: { brand: any; slug: string }) {
                         <p className="text-sm text-gray-500">Danh sách hiện có từ {brand.name} trên Maison de SON.</p>
                     </div>
 
-                    <div className="grid grid-cols-2 gap-5 md:grid-cols-3 lg:grid-cols-4">
+                    <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
                         {products.map((p: Perfume) => (
-                            <Link key={p.id} href={`/${p.id}`} className="group rounded-2xl border border-[#eadfce] bg-white p-4 shadow-[0_12px_35px_rgba(27,18,13,0.03)] transition-all hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)]">
-                                <div className="relative mb-3 aspect-square overflow-hidden rounded-xl bg-[#F7F7F7]">
-                                    <Image src={p.image} alt={p.name} fill sizes="200px" className="object-contain p-3 group-hover:scale-105 transition-transform duration-500" />
-                                </div>
-                                <div className="text-[9px] font-bold text-primary tracking-wider uppercase mb-0.5">{p.brand}</div>
-                                <div className="text-sm font-semibold leading-tight group-hover:text-primary transition-colors">{p.name}</div>
-                                <div className="text-[10px] text-gray-400 mt-1">{p.subName}</div>
-                                <div className="flex items-center justify-between mt-3">
-                                    <span className="text-xs font-bold">★ {p.score.total}/10</span>
-                                    <span className="text-[10px] text-gray-400">{p.basePrice > 0 ? `${p.basePrice.toLocaleString()}đ` : 'Liên hệ'}</span>
+                            <Link key={p.id} href={`/${p.id}`} className="group rounded-[24px] border border-[#eadfce] bg-white p-3 shadow-[0_12px_35px_rgba(27,18,13,0.03)] transition-all hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)] sm:p-4">
+                                <div className="flex items-start gap-3 sm:block">
+                                    <div className="relative h-[92px] w-[92px] flex-shrink-0 overflow-hidden rounded-2xl bg-[#F7F7F7] sm:mb-3 sm:h-auto sm:w-full sm:aspect-square">
+                                        <Image src={p.image} alt={p.name} fill sizes="(max-width: 640px) 92px, 200px" className="object-contain p-3 group-hover:scale-105 transition-transform duration-500" />
+                                    </div>
+                                    <div className="min-w-0 flex-1">
+                                        <div className="flex items-start justify-between gap-3">
+                                            <div className="min-w-0 flex-1">
+                                                <div className="text-[10px] font-bold text-primary tracking-[0.18em] uppercase leading-4">{p.brand}</div>
+                                                <div className="mt-1 text-[17px] font-semibold leading-[1.25] text-[#1b120d] transition-colors group-hover:text-primary sm:text-sm">{p.name}</div>
+                                                <div className="mt-1 text-[11px] text-gray-400 sm:text-[10px]">{p.subName}</div>
+                                            </div>
+                                            <div className="shrink-0 rounded-2xl bg-[#faf6f1] px-3 py-2 text-right sm:px-2.5 sm:py-1.5">
+                                                <div className="text-sm font-bold leading-none text-primary sm:text-xs">{p.score.total}</div>
+                                                <div className="mt-1 text-[9px] font-bold uppercase tracking-[0.12em] text-gray-400">Điểm tổng</div>
+                                            </div>
+                                        </div>
+                                        <div className="mt-3 flex items-center justify-between gap-3 border-t border-[#f1e7da] pt-3">
+                                            <span className="rounded-full bg-[#f7f2eb] px-2.5 py-1 text-[10px] font-semibold text-[#6f5a47]">
+                                                {p.gender === 'nam' ? 'Nam' : p.gender === 'nu' ? 'Nữ' : 'Unisex'}
+                                            </span>
+                                            <span className="text-[11px] font-semibold text-gray-500 sm:text-[10px]">{p.basePrice > 0 ? `${p.basePrice.toLocaleString()}đ` : 'Liên hệ'}</span>
+                                        </div>
+                                    </div>
                                 </div>
                             </Link>
                         ))}
