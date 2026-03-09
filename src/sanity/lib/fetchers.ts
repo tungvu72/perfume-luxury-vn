@@ -1,16 +1,16 @@
-import { client } from './client'
+﻿import { client } from './client'
 import { MASTER_PERFUMES } from '@/constants/mockData'
 import type { Perfume } from '@/types'
 import { cache } from 'react'
 
-// ─── GROQ query fields — aligned with actual Sanity product schema ───────────
+// â”€â”€â”€ GROQ query fields â€” aligned with actual Sanity product schema â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 // Schema notes:
-//   brand       → reference to brand doc  → use brand->name, brand->slug.current
-//   mainImage   → image asset             → "image": mainImage.asset->url
-//   score       → flat fields: scoreScents, scoreUniqueness, scoreCompliments, scoreValue
-//   seasons     → flat fields: seasonSpring, seasonSummer, seasonFall, seasonWinter
-//   dayNight    → flat fields: dayUse, nightUse
-//   notes       → arrays of strings (topNotes, middleNotes, baseNotes)
+//   brand       â†’ reference to brand doc  â†’ use brand->name, brand->slug.current
+//   mainImage   â†’ image asset             â†’ "image": mainImage.asset->url
+//   score       â†’ flat fields: scoreScents, scoreUniqueness, scoreCompliments, scoreValue
+//   seasons     â†’ flat fields: seasonSpring, seasonSummer, seasonFall, seasonWinter
+//   dayNight    â†’ flat fields: dayUse, nightUse
+//   notes       â†’ arrays of strings (topNotes, middleNotes, baseNotes)
 const PRODUCT_QUERY_FIELDS = `
     _id,
     "id": slug.current,
@@ -95,26 +95,58 @@ export const getProductBySlug = cache(async (slug: string): Promise<Perfume | nu
 })
 
 export const getProductsByGender = cache(async (gender: string): Promise<Perfume[]> => {
+    const mockProducts = MASTER_PERFUMES.filter((p) => p.gender === gender);
+
     try {
         const products = await client.fetch(
             `*[_type == "product" && gender == $gender] { ${PRODUCT_QUERY_FIELDS} }`,
             { gender }
         )
-        return products.length > 0 ? products : MASTER_PERFUMES.filter(p => p.gender === gender);
+
+        const merged = new Map<string, Perfume>();
+
+        mockProducts.forEach((product) => {
+            merged.set(product.id, product);
+        });
+
+        products.forEach((product: Perfume) => {
+            if (product?.id) {
+                merged.set(product.id, { ...merged.get(product.id), ...product });
+            }
+        });
+
+        return Array.from(merged.values());
     } catch (error) {
-        return MASTER_PERFUMES.filter(p => p.gender === gender);
+        return mockProducts;
     }
 })
 
 export const getProductsByBrand = cache(async (brandSlug: string): Promise<Perfume[]> => {
+    const mockProducts = MASTER_PERFUMES.filter(
+        (p) => (p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-')) === brandSlug
+    );
+
     try {
         const products = await client.fetch(
             `*[_type == "product" && brand->slug.current == $brandSlug] { ${PRODUCT_QUERY_FIELDS} }`,
             { brandSlug }
         )
-        return products.length > 0 ? products : MASTER_PERFUMES.filter(p => (p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-')) === brandSlug);
+
+        const merged = new Map<string, Perfume>();
+
+        mockProducts.forEach((product) => {
+            merged.set(product.id, product);
+        });
+
+        products.forEach((product: Perfume) => {
+            if (product?.id) {
+                merged.set(product.id, { ...merged.get(product.id), ...product });
+            }
+        });
+
+        return Array.from(merged.values());
     } catch (error) {
-        return MASTER_PERFUMES.filter(p => (p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-')) === brandSlug);
+        return mockProducts;
     }
 })
 
