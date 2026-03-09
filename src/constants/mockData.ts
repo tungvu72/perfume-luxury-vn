@@ -1169,5 +1169,610 @@ Terre d'Hermès EDT rất hay nếu gu của bạn thích sự điềm và tinh 
     sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
     basePrice: 2550000,
     shopeeOffers: []
+  },
+  {
+    id: "dior-homme-intense",
+    brandSlug: "dior",
+    brand: "DIOR",
+    name: "Dior Homme Intense",
+    subName: "Eau de Parfum",
+    perfumer: "François Demachy",
+    gender: "nam",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Dior Homme Intense đang được xác minh lại để tránh nhầm Dior Homme Parfum", verified: false }
+    ],
+    description: "Đây là kiểu mùi nam phấn, iris và khá sang theo hướng chỉnh chu. Hợp người thích vẻ lịch sự, đi tối hoặc trời mát. Nếu bạn chỉ thích mùi sạch thể thao, bản này sẽ hơi điệu hơn gu đó.",
+    article: `Tại Maison de SON, Dior Homme Intense là một trong những chai nước hoa nam nổi tiếng nhất ở nhóm phấn iris. Nó không ồn ào nhưng có sự sang và độ chỉnh chu rất riêng, hợp với người thích vẻ nam tính mềm hơn kiểu thể thao thông thường.
+
+### Nguồn gốc và xuất xứ
+Dior Homme Intense thuộc dòng Dior Homme của Dior, thương hiệu cao cấp đến từ Pháp. Đây là line nam quan trọng của hãng, nổi tiếng với chất iris khác biệt.
+
+### Ra mắt khi nào?
+Dior Homme Intense ra mắt năm 2007 và nhanh chóng trở thành chai tham chiếu ở nhóm mùi phấn sang cho nam.
+
+### Câu chuyện ra đời
+Dòng Dior Homme chọn hướng đi khác với nhiều chai nam đại trà bằng việc nhấn mạnh iris, cacao và cảm giác mềm mịn. Bản Intense là phiên bản dày và sang hơn rõ.
+
+### Có những phiên bản nào trong dòng Dior Homme?
+- Dior Homme EDT: sáng và dễ dùng hơn
+- Dior Homme Intense: phấn, sang, đi tối đẹp
+- Dior Homme Parfum: dày và tối hơn nữa
+
+### Mùi hương mang lại cảm giác gì?
+Iris đi lên rất rõ, đi cùng ambrette, cacao và gỗ tạo cảm giác mềm, phấn, chỉn chu và hơi ăn diện. Đây là kiểu mùi dễ làm người khác thấy bạn có gu hơn bình thường.
+
+### Khi nào nên dùng?
+- Đi tối, hẹn hò, trời mát
+- Hợp người thích mùi phấn sang và khác số đông
+- Không hợp lắm nếu bạn chỉ thích mùi sạch thể thao
+
+### Nhận xét của Maison de SON
+Dior Homme Intense rất đẹp nếu gu của bạn thích sự lịch lãm mềm mại. Điểm yếu là nó không phải kiểu ai cũng hợp ngay từ lần đầu xịt.`,
+    verdict: "Mùi này phấn, sang và khá có gu. Hợp người thích phong cách lịch sự, chỉn chu và đi tối đẹp. Nếu bạn thích mùi thể thao sạch sẽ, bản này hơi điệu hơn gu đó.",
+    verdictShort: "PHẤN, SANG, KHÁ CÓ GU",
+    score: { scent: 9.0, uniqueness: 8.6, compliments: 8.7, value: 8.2, total: 8.6 },
+    vibes: [
+      { label: "Lịch lãm", icon: "🕴️" },
+      { label: "Buổi tối", icon: "🌙" },
+      { label: "Thu đông", icon: "🍂" }
+    ],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 46, summer: 18, fall: 90, winter: 96 },
+    dayNight: { day: 28, night: 95 },
+    topNotes: [{ name: "Lavender" }],
+    middleNotes: [{ name: "Iris" }, { name: "Ambrette" }],
+    baseNotes: [{ name: "Cacao" }, { name: "Vetiver" }, { name: "Gỗ tuyết tùng" }],
+    accords: [
+      { name: "Phấn", value: 80, color: "#d7bde2" },
+      { name: "Iris", value: 72, color: "#c39bd3" },
+      { name: "Gỗ", value: 32, color: "#8B4513" },
+      { name: "Ấm", value: 28, color: "#e67e22" }
+    ],
+    tags: ["Nam", "Lịch lãm", "Buổi tối", "Cao cấp"],
+    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 3400000,
+    shopeeOffers: []
+  },
+  {
+    id: "valentino-uomo-born-in-roma-intense",
+    brandSlug: "valentino",
+    brand: "VALENTINO",
+    name: "Uomo Born In Roma Intense",
+    subName: "Eau de Parfum Intense",
+    perfumer: "Antoine Maisondieu & Guillaume Flavigny",
+    gender: "nam",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Uomo Born In Roma Intense đang được xác minh lại để tránh nhầm EDT", verified: false }
+    ],
+    description: "Đây là kiểu mùi nam ngọt ấm, hiện đại và dễ gây thiện cảm. Hợp đi tối, hẹn hò hoặc người thích mùi nam trẻ mà vẫn lịch sự. Nếu bạn ghét vanilla ngọt, bản này có thể hơi nhiều.",
+    article: `Tại Maison de SON, Uomo Born In Roma Intense là một trong những chai nước hoa nam hiện đại dễ được thích nhanh. Nó ngọt ấm, có vanilla rõ nhưng vẫn giữ được cảm giác sạch sẽ vừa đủ để không quá nặng nề.
+
+### Nguồn gốc và xuất xứ
+Đây là sản phẩm thuộc Valentino, thương hiệu Ý nổi tiếng với hình ảnh thời trang trẻ và sang. Dòng Born In Roma hướng tới sự hiện đại và dễ tiếp cận hơn với số đông.
+
+### Ra mắt khi nào?
+Uomo Born In Roma Intense ra mắt năm 2023 như một phiên bản đậm hơn và thiên tối hơn so với bản gốc.
+
+### Câu chuyện ra đời
+Sau khi Born In Roma được yêu thích nhờ sự trẻ trung, bản Intense ra đời để tăng độ quyến rũ và độ bám, phục vụ tốt hơn cho đi tối và hẹn hò.
+
+### Mùi hương mang lại cảm giác gì?
+Vanilla nổi khá rõ, đi cùng lavender và vetiver tạo cảm giác ngọt ấm, hiện đại và dễ tạo thiện cảm. Nó không quá phức tạp nhưng rất hợp gu số đông.
+
+### Khi nào nên dùng?
+- Hẹn hò, đi tối, trời mát
+- Hợp người thích mùi nam trẻ nhưng vẫn lịch sự
+- Không hợp lắm nếu bạn ghét vanilla ngọt
+
+### Nhận xét của Maison de SON
+Đây là kiểu chai thơm ngay, dễ thích ngay. Điểm yếu là cá tính không quá sâu, nhưng bù lại hiệu quả thực chiến rất tốt.`,
+    verdict: "Mùi này ngọt ấm, hiện đại và dễ mến. Hợp đi tối hoặc lúc muốn tạo thiện cảm nhanh. Nếu bạn ghét vanilla, bản này hơi ngọt.",
+    verdictShort: "NGỌT ẤM, HIỆN ĐẠI, DỄ MẾN",
+    score: { scent: 8.7, uniqueness: 7.8, compliments: 9.1, value: 8.3, total: 8.5 },
+    vibes: [
+      { label: "Hẹn hò", icon: "❤️" },
+      { label: "Hiện đại", icon: "⚡" },
+      { label: "Buổi tối", icon: "🌙" }
+    ],
+    longevity: 8,
+    sillage: 8,
+    seasons: { spring: 55, summer: 20, fall: 88, winter: 94 },
+    dayNight: { day: 34, night: 96 },
+    topNotes: [{ name: "Vanilla" }],
+    middleNotes: [{ name: "Lavender" }],
+    baseNotes: [{ name: "Vetiver" }],
+    accords: [
+      { name: "Ngọt", value: 80, color: "#8B0000" },
+      { name: "Vanilla", value: 72, color: "#f5deb3" },
+      { name: "Thơm thảo mộc", value: 34, color: "#2c7a4b" },
+      { name: "Gỗ", value: 24, color: "#8B4513" }
+    ],
+    tags: ["Nam", "Hẹn hò", "Buổi tối", "Cao cấp"],
+    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 2950000,
+    shopeeOffers: []
+  },
+  {
+    id: "jpg-le-beau-le-parfum",
+    brandSlug: "jean-paul-gaultier",
+    brand: "JEAN PAUL GAULTIER",
+    name: "Le Beau Le Parfum",
+    subName: "Parfum",
+    perfumer: "Quentin Bisch",
+    gender: "nam",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Le Beau Le Parfum đang được xác minh lại để tránh nhầm Le Beau EDT", verified: false }
+    ],
+    description: "Đây là kiểu mùi nam dừa, ngọt và khá gợi cảm theo hướng đi chơi. Hợp người thích mùi tropical nhưng vẫn có độ tối. Nếu bạn ghét dừa hoặc ngọt trái cây, bản này có thể không hợp.",
+    article: `Tại Maison de SON, Le Beau Le Parfum là một trong những chai nước hoa nam đi tối vui và gợi cảm nhất của Jean Paul Gaultier. Nó có nét tropical từ dừa và dứa nhưng được làm dày hơn để không bị quá đơn giản.
+
+### Nguồn gốc và xuất xứ
+Le Beau thuộc Jean Paul Gaultier, thương hiệu Pháp nổi tiếng với những line có cá tính rất rõ. Đây là nhánh nam trẻ trung và vui hơn trong catalog của hãng.
+
+### Ra mắt khi nào?
+Le Beau Le Parfum ra mắt năm 2022, sau khi bản Le Beau gốc tạo được chỗ đứng khá tốt.
+
+### Câu chuyện ra đời
+Bản Le Parfum ra đời để tăng độ quyến rũ và chiều sâu cho công thức tropical của Le Beau, giúp mùi dùng tốt hơn vào buổi tối và trời mát.
+
+### Mùi hương mang lại cảm giác gì?
+Dứa, dừa, đậu tonka và gỗ tạo nên cảm giác ngọt, hơi béo, vui và có chút sexy. Nó không phải kiểu mùi nghiêm túc mà thiên về hưởng thụ rõ hơn.
+
+### Khi nào nên dùng?
+- Đi chơi, đi tối, nghỉ dưỡng
+- Hợp người thích mùi tropical ngọt có điểm nhấn
+- Không hợp lắm nếu bạn ghét dừa hoặc muốn mùi văn phòng an toàn
+
+### Nhận xét của Maison de SON
+Le Beau Le Parfum dễ ghi điểm nếu bạn thích mùi vui và bắt mũi. Điểm yếu là không hợp mọi hoàn cảnh.`,
+    verdict: "Mùi này tropical, ngọt và khá gợi cảm. Hợp đi chơi, đi tối hoặc lúc muốn mùi nam vui hơn bình thường. Nếu bạn ghét dừa, bản này không hợp.",
+    verdictShort: "TROPICAL, NGỌT, KHÁ GỢI CẢM",
+    score: { scent: 8.8, uniqueness: 8.2, compliments: 9.0, value: 8.5, total: 8.6 },
+    vibes: [
+      { label: "Đi chơi", icon: "🏝️" },
+      { label: "Buổi tối", icon: "🌙" },
+      { label: "Quyến rũ", icon: "🔥" }
+    ],
+    longevity: 8,
+    sillage: 8,
+    seasons: { spring: 62, summer: 38, fall: 84, winter: 80 },
+    dayNight: { day: 40, night: 92 },
+    topNotes: [{ name: "Dứa" }, { name: "Gừng" }],
+    middleNotes: [{ name: "Dừa" }, { name: "Gỗ" }],
+    baseNotes: [{ name: "Đậu tonka" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Ngọt", value: 74, color: "#8B0000" },
+      { name: "Tropical", value: 66, color: "#f39c12" },
+      { name: "Hổ phách", value: 32, color: "#d4a017" },
+      { name: "Gỗ", value: 28, color: "#8B4513" }
+    ],
+    tags: ["Nam", "Đi chơi", "Buổi tối", "Cao cấp"],
+    sizes: ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
+    basePrice: 3000000,
+    shopeeOffers: []
+  },
+  {
+    id: "mancera-cedrat-boise",
+    brandSlug: "mancera",
+    brand: "MANCERA",
+    name: "Cedrat Boise",
+    subName: "Eau de Parfum",
+    perfumer: "Pierre Montale",
+    gender: "unisex",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Mancera Cedrat Boise đang được xác minh lại để tránh nhầm Intense Cedrat Boise", verified: false }
+    ],
+    description: "Đây là kiểu mùi citrus, trái cây và gỗ khá đa dụng. Hợp cả nam lẫn nữ nếu thích phong cách sạch sáng nhưng vẫn có chiều sâu. Nếu bạn ghét kiểu citrus hơi synthetic, bản này có thể chưa phải gu.",
+    article: `Tại Maison de SON, Cedrat Boise là một trong những chai nước hoa unisex dễ gợi ý nhất của Mancera vì nó vừa sáng vừa có độ bám tốt. Nó cho cảm giác sạch, sang vừa phải và dùng được nhiều hoàn cảnh hơn vẻ ngoài niche của nó.
+
+### Nguồn gốc và xuất xứ
+Cedrat Boise thuộc Mancera, thương hiệu Pháp nổi tiếng với các mùi hiệu ứng mạnh và độ bền tốt. Đây là một trong những chai nổi tiếng nhất của hãng.
+
+### Ra mắt khi nào?
+Cedrat Boise ra mắt năm 2011 và nhanh chóng trở thành chai tham chiếu của Mancera ở nhóm dễ dùng.
+
+### Câu chuyện ra đời
+Giữa nhiều mùi khá dày của Mancera, Cedrat Boise nổi bật vì cho cảm giác sáng, trái cây và gỗ dễ tiếp cận hơn, nên hợp cả người mới lẫn người đã chơi lâu.
+
+### Mùi hương mang lại cảm giác gì?
+Citrus mở đầu rất rõ, đi cùng trái cây đen, chút khói nhẹ và gỗ. Tổng thể sạch, có lực vừa đủ và khá linh hoạt.
+
+### Khi nào nên dùng?
+- Đi làm, đi chơi, gặp gỡ
+- Hợp cả nam và nữ thích mùi citrus gỗ
+- Không hợp lắm nếu bạn ghét opening hơi synthetic
+
+### Nhận xét của Maison de SON
+Cedrat Boise mạnh ở độ đa dụng và hiệu năng. Điểm yếu là opening không phải ai cũng mê ngay.`,
+    verdict: "Mùi này sáng, trái cây và khá đa dụng. Hợp người muốn một chai unisex dễ dùng mà vẫn có lực. Nếu bạn ghét citrus synthetic, bản này có thể chưa hợp.",
+    verdictShort: "SÁNG, TRÁI CÂY, KHÁ ĐA DỤNG",
+    score: { scent: 8.7, uniqueness: 8.0, compliments: 8.8, value: 8.5, total: 8.5 },
+    vibes: [
+      { label: "Đa dụng", icon: "🔄" },
+      { label: "Unisex", icon: "✨" },
+      { label: "Gặp gỡ", icon: "🤝" }
+    ],
+    longevity: 8,
+    sillage: 8,
+    seasons: { spring: 78, summer: 68, fall: 80, winter: 60 },
+    dayNight: { day: 82, night: 56 },
+    topNotes: [{ name: "Cam chanh" }, { name: "Lý chua đen" }],
+    middleNotes: [{ name: "Trái cây" }, { name: "Lá hoắc hương" }],
+    baseNotes: [{ name: "Gỗ" }, { name: "Da thuộc" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Cam chanh", value: 72, color: "#f7c242" },
+      { name: "Trái cây", value: 58, color: "#f39c12" },
+      { name: "Gỗ", value: 42, color: "#8B4513" },
+      { name: "Da thuộc", value: 20, color: "#6e3b1f" }
+    ],
+    tags: ["Unisex", "Đa dụng", "Cao cấp", "Gặp gỡ"],
+    sizes: ["10ml Chiết", "120ml Fullbox"],
+    basePrice: 2400000,
+    shopeeOffers: []
+  },
+  {
+    id: "maison-margiela-jazz-club",
+    brandSlug: "maison-margiela",
+    brand: "MAISON MARGIELA",
+    name: "Jazz Club",
+    subName: "Eau de Toilette",
+    perfumer: "Aliénor Massenet",
+    gender: "unisex",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Jazz Club đang được xác minh lại để tránh nhầm các bản Replica khác", verified: false }
+    ],
+    description: "Đây là kiểu mùi rum, tobacco và vani rất có không khí. Hợp người thích cảm giác quán bar, buổi tối và thời tiết mát. Nếu bạn thích mùi sạch sáng, bản này sẽ hơi tối.",
+    article: `Tại Maison de SON, Jazz Club là một trong những chai nước hoa Replica nổi tiếng nhất vì nó tạo ra được bối cảnh rất rõ. Chỉ cần ngửi qua là thấy ngay không khí buổi tối, gỗ, đồ uống và chút ấm áp.
+
+### Nguồn gốc và xuất xứ
+Jazz Club thuộc Maison Margiela Replica, thương hiệu Pháp nổi tiếng với các mùi tái hiện lại bối cảnh sống và ký ức. Đây là một trong những bản nổi tiếng nhất của line này.
+
+### Ra mắt khi nào?
+Jazz Club ra mắt năm 2013 và giữ được sức hút rất tốt qua nhiều năm.
+
+### Câu chuyện ra đời
+Mùi này được xây để gợi hình ảnh một quán jazz ấm, có rum, có thuốc lá và gỗ. Nó không cố quá sạch, mà cố tạo không khí.
+
+### Mùi hương mang lại cảm giác gì?
+Rum, tobacco, vanilla và chút tiêu hồng tạo cảm giác ấm, tối, thư giãn và hơi sang. Đây là kiểu mùi có mood rất rõ.
+
+### Khi nào nên dùng?
+- Đi tối, trời mát, không gian chill
+- Hợp người thích mùi có bối cảnh rõ
+- Không hợp lắm nếu bạn cần mùi sáng và đa dụng ban ngày
+
+### Nhận xét của Maison de SON
+Jazz Club hay ở chỗ có mood rất riêng. Điểm yếu là không linh hoạt bằng các chai đa dụng hơn.`,
+    verdict: "Mùi này ấm, có không khí và khá chill. Hợp đi tối hoặc lúc muốn mùi hương có bối cảnh rõ. Nếu bạn thích mùi sáng sạch, bản này hơi tối.",
+    verdictShort: "ẤM, CÓ MOOD, KHÁ CHILL",
+    score: { scent: 8.8, uniqueness: 8.4, compliments: 8.5, value: 8.0, total: 8.4 },
+    vibes: [
+      { label: "Buổi tối", icon: "🌙" },
+      { label: "Chill", icon: "🥃" },
+      { label: "Thu đông", icon: "🍂" }
+    ],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 42, summer: 16, fall: 90, winter: 94 },
+    dayNight: { day: 22, night: 96 },
+    topNotes: [{ name: "Tiêu hồng" }, { name: "Cam neroli" }],
+    middleNotes: [{ name: "Rum" }, { name: "Cây xô thơm" }],
+    baseNotes: [{ name: "Thuốc lá" }, { name: "Vanilla" }, { name: "Styrax" }],
+    accords: [
+      { name: "Thuốc lá", value: 70, color: "#6e3b1f" },
+      { name: "Vanilla", value: 42, color: "#f5deb3" },
+      { name: "Ấm", value: 40, color: "#e67e22" },
+      { name: "Rum", value: 36, color: "#7b4b1f" }
+    ],
+    tags: ["Unisex", "Buổi tối", "Thu đông", "Cao cấp"],
+    sizes: ["10ml Chiết", "30ml Fullbox", "100ml Fullbox"],
+    basePrice: 3200000,
+    shopeeOffers: []
+  },
+  {
+    id: "kilian-angels-share",
+    brandSlug: "kilian",
+    brand: "KILIAN",
+    name: "Angels' Share",
+    subName: "Eau de Parfum",
+    perfumer: "Benoist Lapouza",
+    gender: "unisex",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Kilian Angels' Share đang được xác minh lại để tránh nhầm các bản Kilian khác", verified: false }
+    ],
+    description: "Đây là kiểu mùi cognac, quế và ngọt ấm rất nổi bật. Hợp người thích cảm giác sang, ấm và tiệc tối. Nếu bạn sợ mùi gourmand hoặc ở nơi nóng quanh năm, bản này có thể hơi dày.",
+    article: `Tại Maison de SON, Angels' Share là một trong những chai nước hoa unisex nổi tiếng nhất ở nhóm ngọt ấm sang trọng. Nó tạo ấn tượng rất mạnh ngay từ đầu nhờ cảm giác rượu, gỗ và quế rõ rệt.
+
+### Nguồn gốc và xuất xứ
+Đây là sản phẩm của Kilian, thương hiệu cao cấp nổi tiếng với hình ảnh sang và khá tiệc tối. Angels' Share là một trong những chai ăn khách nhất của hãng.
+
+### Ra mắt khi nào?
+Angels' Share ra mắt năm 2020 và nhanh chóng trở thành hiện tượng trong nhóm gourmand ấm.
+
+### Câu chuyện ra đời
+Tên gọi lấy cảm hứng từ phần rượu bay hơi trong quá trình ủ cognac. Vì vậy toàn bộ mùi được xây xoay quanh cảm giác rượu ấm, quế và gỗ.
+
+### Mùi hương mang lại cảm giác gì?
+Cognac, quế, tonka và vanilla tạo cảm giác ngọt ấm, sang và rất có mặt. Đây là kiểu mùi nhiều người nhớ rất lâu sau khi ngửi.
+
+### Khi nào nên dùng?
+- Đi tối, dịp đặc biệt, trời mát
+- Hợp người thích mùi ngọt ấm sang rõ rệt
+- Không hợp lắm nếu bạn ở môi trường nóng kín cả ngày
+
+### Nhận xét của Maison de SON
+Angels' Share đẹp nếu bạn muốn một mùi có màu sắc rất rõ. Điểm yếu là nó khá dày và khó thành chai dùng hằng ngày.`,
+    verdict: "Mùi này ngọt ấm, sang và rất nổi. Hợp dịp đặc biệt hoặc lúc muốn tạo dấu ấn mạnh. Nếu bạn sợ gourmand dày, bản này hơi quá tay.",
+    verdictShort: "NGỌT ẤM, SANG, RẤT NỔI",
+    score: { scent: 9.2, uniqueness: 8.8, compliments: 9.1, value: 7.6, total: 8.7 },
+    vibes: [
+      { label: "Dịp đặc biệt", icon: "🥂" },
+      { label: "Thu đông", icon: "🍂" },
+      { label: "Sang trọng", icon: "💎" }
+    ],
+    longevity: 9,
+    sillage: 8,
+    seasons: { spring: 34, summer: 10, fall: 94, winter: 100 },
+    dayNight: { day: 18, night: 100 },
+    topNotes: [{ name: "Cognac" }],
+    middleNotes: [{ name: "Quế" }, { name: "Đậu tonka" }, { name: "Gỗ sồi" }],
+    baseNotes: [{ name: "Vanilla" }, { name: "Praline" }, { name: "Gỗ đàn hương" }],
+    accords: [
+      { name: "Ngọt", value: 86, color: "#8B0000" },
+      { name: "Gia vị ấm", value: 68, color: "#e67e22" },
+      { name: "Gỗ", value: 34, color: "#8B4513" },
+      { name: "Rượu", value: 32, color: "#7b4b1f" }
+    ],
+    tags: ["Unisex", "Dịp đặc biệt", "Thu đông", "Cao cấp"],
+    sizes: ["10ml Chiết", "50ml Fullbox"],
+    basePrice: 5600000,
+    shopeeOffers: []
+  },
+  {
+    id: "ysl-libre-edp",
+    brandSlug: "ysl",
+    brand: "YVES SAINT LAURENT",
+    name: "Libre",
+    subName: "Eau de Parfum",
+    perfumer: "Anne Flipo & Carlos Benaïm",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh YSL Libre EDP đang được xác minh lại để tránh nhầm Intense và Le Parfum", verified: false }
+    ],
+    description: "Đây là kiểu mùi nữ lavender, hoa trắng và vanilla rất hiện đại. Hợp người thích sự sang, nữ tính nhưng vẫn có cá tính. Nếu bạn ghét lavender hoặc mùi ngọt hiện đại, bản này có thể chưa hợp.",
+    article: `Tại Maison de SON, Libre EDP là một trong những chai nước hoa nữ hiện đại dễ nhận ra nhất của Yves Saint Laurent. Nó có sự cân bằng khá hay giữa nữ tính, sang và chút cá tính từ lavender.
+
+### Nguồn gốc và xuất xứ
+Libre thuộc Yves Saint Laurent, thương hiệu Pháp nổi tiếng với các line nữ hiện đại, thời trang và dễ tạo dấu ấn. Đây là một trong những trụ cột thương mại lớn của hãng.
+
+### Ra mắt khi nào?
+Libre EDP ra mắt năm 2019 và nhanh chóng phủ rất mạnh ở phân khúc nữ cao cấp dễ tiếp cận.
+
+### Câu chuyện ra đời
+Libre được tạo ra để mang hình ảnh người phụ nữ hiện đại, tự tin và có cá tính hơn những line hoa ngọt truyền thống. Lavender chính là điểm khác biệt rõ của nó.
+
+### Mùi hương mang lại cảm giác gì?
+Lavender, hoa cam và vanilla tạo nên cảm giác vừa sang, vừa nữ tính, vừa có nét hiện đại. Đây là kiểu mùi dễ nhận ra giữa đám đông.
+
+### Khi nào nên dùng?
+- Đi làm, đi chơi, hẹn hò
+- Hợp người thích mùi nữ hiện đại có điểm nhấn
+- Không hợp lắm nếu bạn ghét lavender rõ
+
+### Nhận xét của Maison de SON
+Libre EDP nổi vì có lý do: nó đẹp, dễ dùng và có cá tính vừa đủ. Điểm yếu là độ đụng hàng khá cao.`,
+    verdict: "Mùi này sang, hiện đại và khá dễ nhớ. Hợp người thích mùi nữ vừa đẹp vừa có cá tính. Nếu bạn ghét lavender, bản này có thể chưa hợp.",
+    verdictShort: "SANG, HIỆN ĐẠI, KHÁ DỄ NHỚ",
+    score: { scent: 8.9, uniqueness: 8.1, compliments: 9.0, value: 8.3, total: 8.6 },
+    vibes: [
+      { label: "Nữ hiện đại", icon: "✨" },
+      { label: "Hằng ngày", icon: "🧴" },
+      { label: "Sang trọng", icon: "💎" }
+    ],
+    longevity: 8,
+    sillage: 8,
+    seasons: { spring: 78, summer: 62, fall: 84, winter: 70 },
+    dayNight: { day: 84, night: 64 },
+    topNotes: [{ name: "Lavender" }, { name: "Quýt" }],
+    middleNotes: [{ name: "Hoa cam" }, { name: "Hoa nhài" }],
+    baseNotes: [{ name: "Vanilla" }, { name: "Xạ hương" }, { name: "Gỗ tuyết tùng" }],
+    accords: [
+      { name: "Hoa trắng", value: 72, color: "#e75480" },
+      { name: "Vanilla", value: 42, color: "#f5deb3" },
+      { name: "Thơm thảo mộc", value: 32, color: "#2c7a4b" },
+      { name: "Ngọt", value: 28, color: "#8B0000" }
+    ],
+    tags: ["Nữ", "Hiện đại", "Hằng ngày", "Cao cấp"],
+    sizes: ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
+    basePrice: 2850000,
+    shopeeOffers: []
+  },
+  {
+    id: "parfums-de-marly-delina",
+    brandSlug: "parfums-de-marly",
+    brand: "PARFUMS DE MARLY",
+    name: "Delina",
+    subName: "Eau de Parfum",
+    perfumer: "Quentin Bisch",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Delina đang được xác minh lại để tránh nhầm Delina Exclusif", verified: false }
+    ],
+    description: "Đây là kiểu mùi nữ hoa hồng, trái cây và hơi chua thanh rất dễ nhận ra. Hợp người thích phong cách nữ tính sang, sáng và nổi bật. Nếu bạn ghét hoa hồng rõ, bản này có thể không hợp.",
+    article: `Tại Maison de SON, Delina là một trong những chai nước hoa nữ cao cấp nổi bật nhất vài năm gần đây. Nó được nhớ rất nhanh nhờ chất hoa hồng trái cây vừa nữ tính vừa có độ sang rõ.
+
+### Nguồn gốc và xuất xứ
+Delina thuộc Parfums de Marly, thương hiệu cao cấp của Pháp nổi tiếng với hình ảnh sang và khá xa xỉ. Đây là một trong những chai nữ nổi nhất của hãng.
+
+### Ra mắt khi nào?
+Delina ra mắt năm 2017 và nhanh chóng trở thành cái tên được nhắc rất nhiều ở nhóm nữ cao cấp.
+
+### Câu chuyện ra đời
+Mùi này được tạo ra để nhấn mạnh vẻ nữ tính sang và nổi bật, với hoa hồng là trung tâm nhưng không bị cũ nhờ phần trái cây chua thanh.
+
+### Mùi hương mang lại cảm giác gì?
+Hoa hồng, vải, rhubarb và xạ hương tạo cảm giác nữ tính, sang và có độ tươi khá riêng. Nó vừa đẹp vừa có điểm nhận diện mạnh.
+
+### Khi nào nên dùng?
+- Gặp gỡ, hẹn hò, dịp muốn tạo ấn tượng
+- Hợp người thích hoa hồng cao cấp sáng rõ
+- Không hợp lắm nếu bạn ghét hoa hồng nổi
+
+### Nhận xét của Maison de SON
+Delina đẹp và rất dễ được nhớ, nhưng giá cao và độ đụng hàng ở tệp mê niche nữ cũng không thấp nữa.`,
+    verdict: "Mùi này nữ tính, sang và khá nổi bật. Hợp người thích hoa hồng đẹp, hiện đại và dễ được nhớ. Nếu bạn ghét hoa hồng rõ, bản này không hợp.",
+    verdictShort: "NỮ TÍNH, SANG, KHÁ NỔI BẬT",
+    score: { scent: 9.1, uniqueness: 8.5, compliments: 9.0, value: 7.4, total: 8.5 },
+    vibes: [
+      { label: "Nữ tính", icon: "🌹" },
+      { label: "Sang trọng", icon: "💎" },
+      { label: "Gặp gỡ", icon: "✨" }
+    ],
+    longevity: 8,
+    sillage: 8,
+    seasons: { spring: 92, summer: 68, fall: 80, winter: 56 },
+    dayNight: { day: 82, night: 64 },
+    topNotes: [{ name: "Vải" }, { name: "Rhubarb" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Hoa hồng" }, { name: "Hoa mẫu đơn" }],
+    baseNotes: [{ name: "Xạ hương" }, { name: "Cashmeran" }, { name: "Vanilla" }],
+    accords: [
+      { name: "Hoa hồng", value: 76, color: "#e75480" },
+      { name: "Trái cây", value: 42, color: "#f39c12" },
+      { name: "Xạ hương", value: 34, color: "#95a5a6" },
+      { name: "Chua thanh", value: 28, color: "#f7c242" }
+    ],
+    tags: ["Nữ", "Hoa hồng", "Sang trọng", "Cao cấp"],
+    sizes: ["10ml Chiết", "75ml Fullbox"],
+    basePrice: 5900000,
+    shopeeOffers: []
+  },
+  {
+    id: "carolina-herrera-good-girl",
+    brandSlug: "carolina-herrera",
+    brand: "CAROLINA HERRERA",
+    name: "Good Girl",
+    subName: "Eau de Parfum",
+    perfumer: "Louise Turner",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh Good Girl EDP đang được xác minh lại để tránh nhầm Good Girl Supreme", verified: false }
+    ],
+    description: "Đây là kiểu mùi nữ ngọt, hoa trắng và khá sexy. Hợp đi tối, hẹn hò hoặc người thích mùi nữ hiện đại dễ tạo dấu ấn. Nếu bạn thích mùi mỏng nhẹ, bản này hơi đậm.",
+    article: `Tại Maison de SON, Good Girl là một trong những chai nước hoa nữ đi tối nổi tiếng nhất ở nhóm designer. Nó quyến rũ, dễ nhận ra và hợp với người thích mùi nữ hiện đại có lực rõ.
+
+### Nguồn gốc và xuất xứ
+Good Girl thuộc Carolina Herrera, thương hiệu nổi tiếng với hình ảnh thời trang nữ sang và có cá tính. Đây là line nước hoa nữ rất thành công của hãng.
+
+### Ra mắt khi nào?
+Good Girl EDP ra mắt năm 2016 và nhanh chóng trở thành chai chủ lực ở phân khúc nữ sexy hiện đại.
+
+### Câu chuyện ra đời
+Mùi này được xây theo hình ảnh người phụ nữ vừa tốt vừa nổi loạn, nên mùi có sự pha trộn giữa ngọt, hoa và chút tối quyến rũ.
+
+### Mùi hương mang lại cảm giác gì?
+Hạnh nhân, hoa trắng, tonka và cacao tạo nên cảm giác ngọt, quyến rũ và có độ hiện diện khá rõ. Đây là kiểu mùi đi tối rất dễ tạo dấu ấn.
+
+### Khi nào nên dùng?
+- Hẹn hò, đi tối, sự kiện
+- Hợp người thích mùi nữ sexy, hiện đại
+- Không hợp lắm nếu bạn cần mùi nhẹ để dùng công sở kín
+
+### Nhận xét của Maison de SON
+Good Girl dễ nổi và dễ được nhớ. Điểm yếu là nó không quá tinh tế nếu xịt quá tay.`,
+    verdict: "Mùi này ngọt, sexy và khá nổi. Hợp đi tối hoặc lúc muốn tạo dấu ấn rõ rệt. Nếu bạn thích mùi nhẹ, bản này hơi đậm.",
+    verdictShort: "NGỌT, SEXY, KHÁ NỔI",
+    score: { scent: 8.7, uniqueness: 8.0, compliments: 9.0, value: 8.2, total: 8.5 },
+    vibes: [
+      { label: "Hẹn hò", icon: "❤️" },
+      { label: "Buổi tối", icon: "🌙" },
+      { label: "Sexy", icon: "🔥" }
+    ],
+    longevity: 8,
+    sillage: 8,
+    seasons: { spring: 60, summer: 28, fall: 88, winter: 92 },
+    dayNight: { day: 30, night: 96 },
+    topNotes: [{ name: "Hạnh nhân" }, { name: "Cà phê" }],
+    middleNotes: [{ name: "Hoa huệ" }, { name: "Hoa nhài sambac" }],
+    baseNotes: [{ name: "Đậu tonka" }, { name: "Cacao" }, { name: "Vanilla" }],
+    accords: [
+      { name: "Hoa trắng", value: 60, color: "#e75480" },
+      { name: "Ngọt", value: 54, color: "#8B0000" },
+      { name: "Ấm", value: 32, color: "#e67e22" },
+      { name: "Cacao", value: 22, color: "#5d4037" }
+    ],
+    tags: ["Nữ", "Hẹn hò", "Buổi tối", "Cao cấp"],
+    sizes: ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "80ml Fullbox"],
+    basePrice: 2550000,
+    shopeeOffers: []
+  },
+  {
+    id: "lancome-la-vie-est-belle",
+    brandSlug: "lancome",
+    brand: "LANCOME",
+    name: "La Vie Est Belle",
+    subName: "Eau de Parfum",
+    perfumer: "Olivier Polge, Dominique Ropion & Anne Flipo",
+    gender: "nu",
+    image: PENDING_IMAGE,
+    images: [
+      { url: PENDING_IMAGE, source: "studio", caption: "Ảnh La Vie Est Belle đang được xác minh lại để tránh nhầm L'Extrait", verified: false }
+    ],
+    description: "Đây là kiểu mùi nữ ngọt, hoa và rất đại chúng theo hướng dễ được thích. Hợp người thích mùi nữ rõ ràng, vui và dễ dùng. Nếu bạn ghét kiểu ngọt mainstream, bản này sẽ hơi quen.",
+    article: `Tại Maison de SON, La Vie Est Belle là một trong những chai nước hoa nữ nổi tiếng nhất thế giới ở nhóm ngọt dễ dùng. Nó mang cảm giác vui, sáng và rất hợp với người thích mùi nữ truyền thống hiện đại.
+
+### Nguồn gốc và xuất xứ
+La Vie Est Belle thuộc Lancôme, thương hiệu Pháp lâu đời nổi tiếng ở nhóm mỹ phẩm và nước hoa nữ đại chúng cao cấp. Đây là một trong những line nữ thành công nhất của hãng.
+
+### Ra mắt khi nào?
+La Vie Est Belle EDP ra mắt năm 2012 và nhanh chóng phủ rất rộng trên toàn cầu.
+
+### Câu chuyện ra đời
+Mùi này được xây để mang cảm giác hạnh phúc, dễ gần và nữ tính. Vì vậy công thức ưu tiên sự dễ thích và dễ nhận ra hơn là quá khác biệt.
+
+### Mùi hương mang lại cảm giác gì?
+Lê, hoa iris, hoa trắng, praline và vanilla tạo nên cảm giác ngọt, nữ và khá vui. Đây là kiểu mùi dễ làm người xung quanh thấy quen và dễ chịu.
+
+### Khi nào nên dùng?
+- Đi làm, đi chơi, gặp gỡ thường ngày
+- Hợp người thích mùi nữ ngọt dễ dùng
+- Không hợp lắm nếu bạn ghét mùi mainstream ngọt rõ
+
+### Nhận xét của Maison de SON
+La Vie Est Belle mạnh ở độ đại chúng và dễ dùng. Điểm yếu là không còn quá mới mẻ với người chơi lâu.`,
+    verdict: "Mùi này ngọt, nữ tính và dễ được thích. Hợp người muốn một chai an toàn, dễ dùng và dễ tạo thiện cảm. Nếu bạn ghét ngọt mainstream, bản này hơi quen.",
+    verdictShort: "NGỌT, NỮ TÍNH, DỄ ĐƯỢC THÍCH",
+    score: { scent: 8.5, uniqueness: 7.2, compliments: 8.9, value: 8.4, total: 8.3 },
+    vibes: [
+      { label: "Hằng ngày", icon: "🧴" },
+      { label: "Nữ tính", icon: "✨" },
+      { label: "Dễ dùng", icon: "👍" }
+    ],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 74, summer: 44, fall: 80, winter: 84 },
+    dayNight: { day: 78, night: 58 },
+    topNotes: [{ name: "Lê" }, { name: "Lý chua đen" }],
+    middleNotes: [{ name: "Iris" }, { name: "Hoa nhài" }, { name: "Hoa cam" }],
+    baseNotes: [{ name: "Praline" }, { name: "Vanilla" }, { name: "Hoắc hương" }],
+    accords: [
+      { name: "Ngọt", value: 74, color: "#8B0000" },
+      { name: "Hoa", value: 46, color: "#e75480" },
+      { name: "Phấn", value: 24, color: "#d7bde2" },
+      { name: "Trái cây", value: 22, color: "#f39c12" }
+    ],
+    tags: ["Nữ", "Hằng ngày", "Dễ dùng", "Cao cấp"],
+    sizes: ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 2450000,
+    shopeeOffers: []
   }
 ];
