@@ -148,26 +148,41 @@ export const getRelatedProducts = cache(async (currentSlug: string, brandName: s
 })
 
 export const getAllBrands = cache(async () => {
+    const buildMockBrands = () => {
+        const brandMap = new Map();
+        MASTER_PERFUMES.forEach(p => {
+            const slug = p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-');
+            const existing = brandMap.get(slug);
+            if (existing) {
+                existing.productCount += 1;
+            } else {
+                brandMap.set(slug, { _id: slug, name: p.brand, slug, productCount: 1 });
+            }
+        });
+        return Array.from(brandMap.values());
+    };
+
     try {
         const brands = await client.fetch(`*[_type == "brand"] { _id, name, "slug": slug.current }`)
-        if (brands.length > 0) return brands;
-        const brandMap = new Map();
-        MASTER_PERFUMES.forEach(p => {
-            const slug = p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-');
-            if (!brandMap.has(slug)) {
-                brandMap.set(slug, { _id: slug, name: p.brand, slug: slug });
-            }
+        const mockBrands = buildMockBrands();
+        const merged = new Map<string, any>();
+
+        mockBrands.forEach((brand: any) => {
+            merged.set(brand.slug, brand);
         });
-        return Array.from(brandMap.values());
+
+        brands.forEach((brand: any) => {
+            const existing = merged.get(brand.slug);
+            merged.set(brand.slug, {
+                ...existing,
+                ...brand,
+                productCount: existing?.productCount || 0,
+            });
+        });
+
+        return Array.from(merged.values());
     } catch (error) {
-        const brandMap = new Map();
-        MASTER_PERFUMES.forEach(p => {
-            const slug = p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-');
-            if (!brandMap.has(slug)) {
-                brandMap.set(slug, { _id: slug, name: p.brand, slug: slug });
-            }
-        });
-        return Array.from(brandMap.values());
+        return buildMockBrands();
     }
 })
 
