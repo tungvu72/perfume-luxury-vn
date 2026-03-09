@@ -62,7 +62,19 @@ const PRODUCT_QUERY_FIELDS = `
 export const getAllProducts = cache(async (): Promise<Perfume[]> => {
     try {
         const products = await client.fetch(`*[_type == "product"] { ${PRODUCT_QUERY_FIELDS} }`)
-        return products.length > 0 ? products : MASTER_PERFUMES;
+        const merged = new Map<string, Perfume>();
+
+        MASTER_PERFUMES.forEach((product) => {
+            merged.set(product.id, product);
+        });
+
+        products.forEach((product: Perfume) => {
+            if (product?.id) {
+                merged.set(product.id, { ...merged.get(product.id), ...product });
+            }
+        });
+
+        return Array.from(merged.values());
     } catch (error) {
         console.error("Sanity fetch error (getAllProducts):", error);
         return MASTER_PERFUMES;
