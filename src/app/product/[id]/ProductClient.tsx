@@ -397,42 +397,88 @@ export default function ProductClient({ product, relatedProducts, relatedArticle
               <div className="space-y-3">{product.accords.map((accord, i) => <div key={i} className="flex items-center gap-3"><div className="w-24 text-xs font-semibold text-gray-600">{accord.name}</div><div className="h-4 flex-1 overflow-hidden rounded-full bg-gray-100"><div className="h-full rounded-full transition-all duration-500" style={{ width: `${accord.value}%`, backgroundColor: accord.color }} /></div><div className="w-10 text-right text-xs font-bold text-gray-400">{accord.value}%</div></div>)}</div>
             </section>
 
-            {product.article && <section className="mt-10 border-t border-[var(--border)] pt-10 sm:mt-12 sm:pt-12"><div className="mb-6 border-b border-[var(--border)] pb-5"><p className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Thông tin & cảm nhận thực tế</p><h2 className="mt-2 text-2xl font-serif text-gray-950 sm:text-3xl">Cần biết gì về {product.name}?</h2></div><div className="prose prose-base max-w-none text-gray-900 prose-headings:font-serif prose-headings:text-gray-950 prose-h3:mt-10 prose-h3:mb-4 prose-h3:text-[1.45rem] prose-p:my-0 prose-p:mb-6 prose-p:text-[17px] prose-p:leading-[1.95] prose-li:text-[16px] prose-li:leading-8 prose-ul:my-4 prose-ul:space-y-2 prose-a:text-primary prose-a:no-underline hover:prose-a:underline">{(() => {
-              let selfLinked = false; let homeLinked = false; let categoryLinked = false; let brandLinked = false; return product.article!.split("\n\n").map((para, i) => {
-                if (para.startsWith("###")) return <h3 key={i}>{para.replace("###", "").trim()}</h3>; const searchName = product.name; const categoryLabel = product.gender === "nam" ? "nước hoa nam" : product.gender === "nu" ? "nước hoa nữ" : "nước hoa unisex"; const categoryHref = product.gender === "nam" ? "/nam-gioi" : product.gender === "nu" ? "/nu-gioi" : "/unisex"; const brandLabel = product.brand.split(" ").map((w) => w.charAt(0) + w.slice(1).toLowerCase()).join(" "); const patterns = [
-                  !homeLinked ? { label: "Maison de SON", href: "/", key: "home" } : null,
-                  !categoryLinked ? { label: categoryLabel, href: categoryHref, key: "category" } : null,
-                  !brandLinked ? { label: brandLabel, href: `/${product.brandSlug}`, key: "brand" } : null,
-                  !selfLinked ? { label: searchName, href: `/${product.id}`, key: "self" } : null,
-                ].filter(Boolean) as Array<{ label: string; href: string; key: string }>;
-                const nodes: React.ReactNode[] = [];
-                let cursor = 0;
-                let working = para;
-                while (working.length > 0) {
-                  let best: { index: number; item: { label: string; href: string; key: string } } | null = null;
-                  for (const item of patterns) {
-                    const idx = working.toLowerCase().indexOf(item.label.toLowerCase());
-                    if (idx >= 0 && (!best || idx < best.index)) best = { index: idx, item };
-                  }
-                  if (!best) {
-                    nodes.push(working);
-                    break;
-                  }
-                  if (best.index > 0) nodes.push(working.slice(0, best.index));
-                  const foundLabel = working.slice(best.index, best.index + best.item.label.length);
-                  nodes.push(<Link key={`${best.item.key}-${i}-${cursor}`} href={best.item.href} className="border-b border-primary/30 font-semibold text-primary transition-colors hover:border-primary">{foundLabel}</Link>);
-                  if (best.item.key === "home") homeLinked = true;
-                  if (best.item.key === "category") categoryLinked = true;
-                  if (best.item.key === "brand") brandLinked = true;
-                  if (best.item.key === "self") selfLinked = true;
-                  working = working.slice(best.index + best.item.label.length);
-                  cursor += 1;
-                }
-                return <p key={i}>{nodes}</p>;
-              });
-            })()}</div></section>}
+            {product.article && <section className="mt-10 border-t border-[var(--border)] pt-10 sm:mt-12 sm:pt-12">
+              <div className="mb-8 border-b border-[var(--border)] pb-6">
+                <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Thông tin & cảm nhận thực tế</p>
+                <h2 className="mt-2 text-2xl font-serif text-gray-950 sm:text-3xl">Cần biết gì về {product.name}?</h2>
+              </div>
+              <div className="prose prose-base max-w-none text-gray-900 prose-headings:font-serif prose-headings:text-gray-950 prose-h2:mt-12 prose-h2:mb-5 prose-h2:text-2xl prose-h3:mt-10 prose-h3:mb-4 prose-h3:text-[1.3rem] prose-p:my-0 prose-p:mb-5 prose-p:text-[16px] prose-p:leading-[1.9] sm:prose-p:text-[17px] prose-li:text-[15px] prose-li:leading-7 prose-ul:my-4 prose-ul:space-y-1 prose-a:text-primary prose-a:no-underline hover:prose-a:underline">
+                {(() => {
+                  let selfLinked = false; let homeLinked = false; let categoryLinked = false; let brandLinked = false;
+                  let isFirstPara = true;
+                  const searchName = product.name;
+                  const categoryLabel = product.gender === "nam" ? "nước hoa nam" : product.gender === "nu" ? "nước hoa nữ" : "nước hoa unisex";
+                  const categoryHref = product.gender === "nam" ? "/nam-gioi" : product.gender === "nu" ? "/nu-gioi" : "/unisex";
+                  const brandLabel = product.brand.split(" ").map((w) => w.charAt(0) + w.slice(1).toLowerCase()).join(" ");
 
-            {product.sizes && product.sizes.length > 0 && <section className="mb-8 overflow-hidden rounded-[28px] border border-[var(--border)] bg-white shadow-[0_20px_60px_rgba(17,17,17,0.04)]"><div className="flex flex-col gap-2 border-b border-[var(--border)] bg-[#faf8f6] px-5 py-4 sm:flex-row sm:items-center sm:justify-between sm:px-6"><h3 className="text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Bảng giá tham khảo</h3><span className="text-[11px] italic text-gray-400">Nguồn kenperfume.com • {currentMonthYear}</span></div><div className="divide-y divide-[var(--border)]">{product.sizes.map((size, i) => { const isDecant = size.toLowerCase().includes("chiết"); const ml = parseInt(size); const fullSize = product.sizes.find((s) => !s.toLowerCase().includes("chiết")); const pricePerMl = product.basePrice > 0 ? product.basePrice / (fullSize ? parseInt(fullSize || "100") : 100) : 0; const estimatedPrice = isDecant && ml ? Math.round((pricePerMl * ml) / 10000) * 10000 : null; return <div key={i} className="flex items-center justify-between px-5 py-4 transition-colors hover:bg-gray-50 sm:px-6"><div className="flex items-center gap-3"><span className={`rounded-full px-2.5 py-1 text-[10px] font-bold ${isDecant ? "bg-blue-50 text-blue-600" : "bg-amber-50 text-amber-600"}`}>{isDecant ? "CHIẾT" : "FULLBOX"}</span><span className="text-sm font-semibold text-gray-900">{size}</span></div><div className="text-right">{i === product.sizes.length - 1 && product.basePrice > 0 ? <span className="text-sm font-bold text-gray-900">{product.basePrice.toLocaleString()}đ</span> : estimatedPrice ? <span className="text-sm font-semibold text-gray-500">~{estimatedPrice.toLocaleString()}đ</span> : <span className="text-xs italic text-gray-400">Liên hệ</span>}</div></div>; })}</div><div className="border-t border-[var(--border)] bg-[#faf8f6] px-5 py-3 sm:px-6"><p className="text-[11px] text-gray-400">Giá chỉ mang tính tham khảo. <Link href="https://zalo.me/0961226169" className="font-bold text-primary hover:underline">Hỏi giá chính xác qua Zalo →</Link></p></div></section>}
+                  function addInternalLinks(text: string, paraIdx: number) {
+                    const patterns = [
+                      !homeLinked ? { label: "Maison de SON", href: "/", key: "home" } : null,
+                      !categoryLinked ? { label: categoryLabel, href: categoryHref, key: "category" } : null,
+                      !brandLinked ? { label: brandLabel, href: `/${product.brandSlug}`, key: "brand" } : null,
+                      !selfLinked ? { label: searchName, href: `/${product.id}`, key: "self" } : null,
+                    ].filter(Boolean) as Array<{ label: string; href: string; key: string }>;
+                    const nodes: React.ReactNode[] = [];
+                    let cursor = 0;
+                    let working = text;
+                    while (working.length > 0) {
+                      let best: { index: number; item: { label: string; href: string; key: string } } | null = null;
+                      for (const item of patterns) {
+                        const idx = working.toLowerCase().indexOf(item.label.toLowerCase());
+                        if (idx >= 0 && (!best || idx < best.index)) best = { index: idx, item };
+                      }
+                      if (!best) { nodes.push(working); break; }
+                      if (best.index > 0) nodes.push(working.slice(0, best.index));
+                      const foundLabel = working.slice(best.index, best.index + best.item.label.length);
+                      nodes.push(<Link key={`${best.item.key}-${paraIdx}-${cursor}`} href={best.item.href} className="border-b border-primary/30 font-semibold text-primary transition-colors hover:border-primary">{foundLabel}</Link>);
+                      if (best.item.key === "home") homeLinked = true;
+                      if (best.item.key === "category") categoryLinked = true;
+                      if (best.item.key === "brand") brandLinked = true;
+                      if (best.item.key === "self") selfLinked = true;
+                      working = working.slice(best.index + best.item.label.length);
+                      cursor += 1;
+                    }
+                    return nodes;
+                  }
+
+                  function renderInline(text: string, paraIdx: number) {
+                    /* handle **bold** */
+                    const parts = text.split(/(\*\*[^*]+\*\*)/);
+                    return parts.map((part, pi) => {
+                      if (part.startsWith("**") && part.endsWith("**")) {
+                        return <strong key={pi}>{part.slice(2, -2)}</strong>;
+                      }
+                      return <span key={pi}>{addInternalLinks(part, paraIdx)}</span>;
+                    });
+                  }
+
+                  return product.article!.split("\n\n").map((block, i) => {
+                    const trimmed = block.trim();
+                    if (!trimmed) return null;
+
+                    /* headings */
+                    if (trimmed.startsWith("### ")) return <h3 key={i}>{trimmed.slice(4)}</h3>;
+                    if (trimmed.startsWith("## ")) return <h2 key={i}>{trimmed.slice(3)}</h2>;
+
+                    /* bullet list */
+                    if (trimmed.split("\n").every(l => l.trim().startsWith("- ") || l.trim() === "")) {
+                      return <ul key={i}>{trimmed.split("\n").filter(l => l.trim().startsWith("- ")).map((line, li) => (
+                        <li key={li}>{renderInline(line.trim().slice(2), i)}</li>
+                      ))}</ul>;
+                    }
+
+                    /* normal paragraph — drop cap on first */
+                    const content = renderInline(trimmed, i);
+                    if (isFirstPara) {
+                      isFirstPara = false;
+                      return <p key={i} className="first-letter:text-[2.8em] first-letter:font-serif first-letter:float-left first-letter:mr-2 first-letter:mt-1 first-letter:leading-[0.8] first-letter:text-primary">{content}</p>;
+                    }
+                    return <p key={i}>{content}</p>;
+                  });
+                })()}
+              </div>
+            </section>}
+
 
             <section className="rounded-[28px] border border-[var(--border)] bg-[#fcfbf9] p-5 sm:p-6"><div className="mb-5 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between"><h3 className="flex items-center gap-2 text-sm font-bold text-gray-900"><ShoppingBag size={18} className="text-primary" /> Tham khảo giá sàn TMĐT</h3><span className="text-[11px] font-medium italic text-gray-400">Cập nhật: {currentMonthYear}</span></div><div className="grid grid-cols-2 gap-3 md:grid-cols-3">{product.shopeeOffers.length > 0 ? product.shopeeOffers.map((offer, i) => <Link key={i} href={offer.link} rel="nofollow noreferrer" target="_blank" className="group rounded-2xl border border-[var(--border)] bg-white p-3 transition-all hover:-translate-y-1 hover:shadow-md"><div className="relative mb-3 aspect-square overflow-hidden rounded-xl bg-[#EEE]"><Image src={offer.image} alt={offer.label} fill sizes="(max-width: 768px) 50vw, 150px" className="object-cover" /></div><div className="line-clamp-2 h-9 text-[11px] font-medium leading-tight text-gray-700">{offer.label}</div><div className="mt-2 flex items-center justify-between"><span className="text-xs font-bold text-[#EE4D2D]">{offer.price}</span><MoveRight size={12} className="text-gray-300 transition group-hover:text-primary" /></div></Link>) : <div className="col-span-3 py-8 text-center"><p className="text-xs italic text-gray-400">Đang cập nhật giá từ các shop uy tín trên Shopee...</p><Link href="https://zalo.me/0961226169" className="mt-3 inline-block text-[11px] font-bold text-primary underline">Hỏi giá trực tiếp qua Zalo →</Link></div>}</div></section>
 
