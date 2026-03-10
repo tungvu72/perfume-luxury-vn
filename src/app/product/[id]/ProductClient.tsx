@@ -99,11 +99,10 @@ function GalleryRail({ images, activeImage, setActiveImage }: GalleryRailProps) 
           <button
             key={i}
             onClick={() => setActiveImage(i)}
-            className={`group relative h-20 w-20 flex-shrink-0 overflow-hidden rounded-2xl border transition-all ${
-              activeImage === i
-                ? "border-primary shadow-[0_10px_30px_rgba(196,122,61,0.16)]"
-                : "border-[var(--border)] bg-white opacity-80 hover:opacity-100"
-            }`}
+            className={`group relative h-20 w-20 flex-shrink-0 overflow-hidden rounded-2xl border transition-all ${activeImage === i
+              ? "border-primary shadow-[0_10px_30px_rgba(196,122,61,0.16)]"
+              : "border-[var(--border)] bg-white opacity-80 hover:opacity-100"
+              }`}
           >
             <Image src={getImageUrl(img)} alt={`Thumbnail ${i + 1}`} fill sizes="80px" className="object-cover" />
             <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent px-1.5 py-1 text-left text-[8px] font-bold uppercase tracking-[0.12em] text-white">
@@ -160,7 +159,7 @@ function ProductHero({
                   {activeImage === 0 ? "Ảnh chính" : SOURCE_LABELS[activeSource || "community"] || "Gallery"}
                 </span>
                 {!isImageVerified(allImages[activeImage]) && (
-                  <span className="rounded-full bg-amber-100 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.16em] text-amber-800">
+                  <span className="hidden rounded-full bg-amber-100 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.16em] text-amber-800 sm:inline-block">
                     Chưa xác minh
                   </span>
                 )}
@@ -202,7 +201,7 @@ function ProductHero({
         </div>
 
         <div className="mt-4">
-          <h1 className="text-[34px] font-serif leading-[1.08] tracking-[-0.02em] text-gray-950 sm:text-5xl lg:text-[58px]">
+          <h1 className="text-[28px] font-serif leading-[1.08] tracking-[-0.02em] text-gray-950 sm:text-5xl lg:text-[58px]">
             {product.name}
           </h1>
           {product.subName && <p className="mt-3 text-base text-gray-500 sm:text-lg">{product.subName}</p>}
@@ -218,32 +217,24 @@ function ProductHero({
               {allImages.length} ảnh trong gallery
             </span>
           </div>
+          <div className="mt-3 flex flex-wrap gap-2">
+            <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 text-xs font-semibold text-gray-700">{GENDER_LABELS[product.gender]}</span>
+            {product.longevity && <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 text-xs font-semibold text-gray-700">Lưu hương {product.longevity}/10</span>}
+            {product.sillage && <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 text-xs font-semibold text-gray-700">Tỏa hương {product.sillage}/10</span>}
+          </div>
         </div>
 
-        <div className="mt-5 rounded-[24px] border border-[var(--border)] bg-white p-4 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:mt-6 sm:rounded-[28px] sm:p-6">
-          <div className="grid gap-5 sm:grid-cols-[120px_minmax(0,1fr)] sm:items-center">
-            <div className="flex h-[110px] w-[110px] flex-col items-center justify-center rounded-full border border-primary/20 bg-[#fbf4ee] text-center">
-              <div className={`font-serif text-4xl leading-none ${scoreTone(product.score.total)}`}>{product.score.total}</div>
-              <div className="mt-2 text-[11px] font-bold uppercase tracking-[0.2em] text-gray-400">Điểm tổng / 10</div>
+        <div className="mt-6 border-t border-[var(--border)] pt-6">
+          <div className="flex items-start gap-4">
+            <div className="flex h-[60px] w-[60px] flex-shrink-0 flex-col items-center justify-center rounded-full border border-primary/20 bg-[#fbf4ee]">
+              <div className={`font-serif text-xl leading-none ${scoreTone(product.score.total)}`}>{product.score.total}</div>
+              <div className="mt-1 text-[8px] font-bold uppercase tracking-[0.15em] text-gray-400">/10</div>
             </div>
-            <div>
+            <div className="min-w-0">
               <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Nhận xét nhanh</div>
-              <h2 className="mt-2 text-xl font-semibold leading-snug text-gray-950 sm:text-2xl">{product.verdictShort}</h2>
-              <p className="mt-3 text-sm leading-6 text-gray-600 sm:text-[15px] sm:leading-7">{product.verdict}</p>
-              <div className="mt-4 grid gap-3 sm:grid-cols-2">
-                <div className="rounded-2xl bg-[#f7f3ef] px-4 py-3 text-sm text-gray-700">
-                  <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Hợp với ai</div>
-                  <div className="mt-1 font-semibold">{fitSummary(product)}</div>
-                </div>
-                <div className="rounded-2xl bg-[#f7f3ef] px-4 py-3 text-sm text-gray-700">
-                  <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Không hợp nếu</div>
-                  <div className="mt-1 font-semibold">{avoidSummary(product)}</div>
-                </div>
-              </div>
-              <div className="mt-3 flex flex-wrap gap-2 text-xs text-gray-500">
-                {product.longevity && <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 font-semibold text-gray-700">Lưu hương {product.longevity}/10</span>}
-                {product.sillage && <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 font-semibold text-gray-700">Tỏa hương {product.sillage}/10</span>}
-              </div>
+              <h2 className="mt-1 text-lg font-semibold leading-snug text-gray-950 sm:text-xl">{product.verdictShort}</h2>
+              <p className="mt-2 text-sm leading-6 text-gray-600">{product.verdict}</p>
+              <p className="mt-2 text-xs text-gray-400">{fitSummary(product)}. {avoidSummary(product)}</p>
             </div>
           </div>
         </div>
@@ -255,12 +246,11 @@ function ProductHero({
             { label: "Sức hút", desc: "Khả năng gây thiện cảm", val: product.score.compliments },
             { label: "Đáng tiền", desc: "So với giá bán", val: product.score.value },
           ].map((s) => (
-            <div key={s.label} className="rounded-2xl border border-[var(--border)] bg-white p-4 text-center transition-colors hover:border-primary/30">
+            <div key={s.label} className="py-2 text-center">
               <div className={`font-serif text-2xl ${scoreTone(s.val)}`}>
                 {s.val}<span className="text-sm text-gray-300">/10</span>
               </div>
-              <div className="mt-1 text-[11px] font-bold uppercase tracking-[0.12em] text-gray-600">{s.label}</div>
-              <div className="mt-1 text-[11px] leading-5 text-gray-400">{s.desc}</div>
+              <div className="mt-1 text-[11px] font-bold uppercase tracking-[0.12em] text-gray-500">{s.label}</div>
             </div>
           ))}
         </div>
@@ -280,12 +270,12 @@ function ProductHero({
           </div>
 
           <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2">
-            <Link href="https://zalo.me/0961226169" rel="nofollow" target="_blank" className="inline-flex items-center justify-center gap-2 rounded-2xl bg-[#0068FF] px-5 py-4 text-sm font-bold text-white shadow-lg shadow-blue-100 transition hover:opacity-90">
+            <Link href="https://zalo.me/0961226169" rel="nofollow" target="_blank" className="inline-flex items-center justify-center gap-2 rounded-full bg-[#0068FF] px-6 py-4 text-sm font-bold text-white shadow-lg shadow-blue-100 transition hover:opacity-90">
               <MessageSquare size={18} /> Tư vấn qua Zalo
             </Link>
             <button
               onClick={onCompare}
-              className={`inline-flex items-center justify-center gap-2 rounded-2xl px-5 py-4 text-sm font-bold transition ${isComparing ? "border border-primary bg-primary text-white shadow-lg shadow-orange-50" : "border border-[var(--border)] bg-white text-gray-700 hover:border-primary hover:text-primary"}`}
+              className={`inline-flex items-center justify-center gap-2 rounded-full px-5 py-4 text-sm font-bold transition ${isComparing ? "border border-primary bg-primary text-white shadow-lg shadow-orange-50" : "border border-[var(--border)] bg-white text-gray-700 hover:border-primary hover:text-primary"}`}
             >
               <Scale size={18} /> {isComparing ? "Đã thêm vào so sánh" : "Thêm vào so sánh"}
             </button>
@@ -382,61 +372,65 @@ export default function ProductClient({ product, relatedProducts, relatedArticle
       <div className="animate-in fade-in grid grid-cols-1 gap-10 fill-mode-forwards duration-500" style={{ opacity: 1 }}>
         <ProductHero product={product} allImages={allImages} activeImage={activeImage} setActiveImage={setActiveImage} setLightboxOpen={setLightboxOpen} isComparing={isComparing} onCompare={() => add(product)} />
 
-        <div className="grid grid-cols-1 gap-10 lg:grid-cols-[minmax(0,1fr)_320px] lg:gap-12">
+        <div className="grid grid-cols-1 gap-10">
           <div className="min-w-0">
-            <div className="mb-8 rounded-[28px] border border-[var(--border)] bg-white p-5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-6">
+            <div className="mt-10 border-t border-[var(--border)] pt-10 sm:mt-12 sm:pt-12">
               <h3 className="mb-3 text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Phù hợp khi</h3>
               <div className="flex flex-wrap gap-2.5">{product.vibes.map((vibe, i) => <span key={i} className="inline-flex items-center gap-2 rounded-full bg-[#f7f3ef] px-4 py-2 text-xs font-semibold text-gray-700"><span>{vibe.icon}</span><span>{vibe.label}</span></span>)}</div>
             </div>
 
             {(product.longevity || product.sillage || product.seasons) && (
-              <div className="mb-8 grid grid-cols-1 gap-4 lg:grid-cols-2">
-                {(product.longevity || product.sillage) && <div className="rounded-[28px] border border-[var(--border)] bg-white p-5 sm:p-6"><h3 className="mb-4 text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Hiệu năng thực chiến</h3><div className="space-y-5">{product.longevity && <div><div className="mb-2 flex items-center justify-between text-sm font-semibold text-gray-700"><span className="inline-flex items-center gap-2"><Clock size={15} className="text-primary" /> Độ lưu hương</span><span>{product.longevity}/10</span></div><div className="flex gap-1.5">{Array.from({ length: 10 }).map((_, i) => <div key={i} className={`h-2 flex-1 rounded-full ${i < product.longevity! ? "bg-primary" : "bg-gray-200"}`} />)}</div><p className="mt-2 text-xs text-gray-400">{product.longevity >= 8 ? "Rất lâu, hợp người thích mùi bám rõ." : product.longevity >= 6 ? "Khá ổn cho nhu cầu hằng ngày." : "Thiên về cảm giác gọn, không đeo bám quá mạnh."}</p></div>}{product.sillage && <div><div className="mb-2 flex items-center justify-between text-sm font-semibold text-gray-700"><span className="inline-flex items-center gap-2"><Wind size={15} className="text-primary" /> Độ tỏa hương</span><span>{product.sillage}/10</span></div><div className="flex gap-1.5">{Array.from({ length: 10 }).map((_, i) => <div key={i} className={`h-2 flex-1 rounded-full ${i < product.sillage! ? "bg-primary" : "bg-gray-200"}`} />)}</div><p className="mt-2 text-xs text-gray-400">{product.sillage >= 8 ? "Tỏa mạnh, có độ hiện diện rõ trong không gian." : product.sillage >= 6 ? "Tỏa vừa phải, dễ dùng cho số đông." : "Khá kín, thiên về cảm giác riêng tư hơn."}</p></div>}</div></div>}
+              <div className="mt-10 border-t border-[var(--border)] pt-10 sm:mt-12 sm:pt-12 grid grid-cols-1 gap-4 lg:grid-cols-2">
+                {(product.longevity || product.sillage) && <div className=""><h3 className="mb-4 text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Hiệu năng thực chiến</h3><div className="space-y-5">{product.longevity && <div><div className="mb-2 flex items-center justify-between text-sm font-semibold text-gray-700"><span className="inline-flex items-center gap-2"><Clock size={15} className="text-primary" /> Độ lưu hương</span><span>{product.longevity}/10</span></div><div className="flex gap-1.5">{Array.from({ length: 10 }).map((_, i) => <div key={i} className={`h-2 flex-1 rounded-full ${i < product.longevity! ? "bg-primary" : "bg-gray-200"}`} />)}</div><p className="mt-2 text-xs text-gray-400">{product.longevity >= 8 ? "Rất lâu, hợp người thích mùi bám rõ." : product.longevity >= 6 ? "Khá ổn cho nhu cầu hằng ngày." : "Thiên về cảm giác gọn, không đeo bám quá mạnh."}</p></div>}{product.sillage && <div><div className="mb-2 flex items-center justify-between text-sm font-semibold text-gray-700"><span className="inline-flex items-center gap-2"><Wind size={15} className="text-primary" /> Độ tỏa hương</span><span>{product.sillage}/10</span></div><div className="flex gap-1.5">{Array.from({ length: 10 }).map((_, i) => <div key={i} className={`h-2 flex-1 rounded-full ${i < product.sillage! ? "bg-primary" : "bg-gray-200"}`} />)}</div><p className="mt-2 text-xs text-gray-400">{product.sillage >= 8 ? "Tỏa mạnh, có độ hiện diện rõ trong không gian." : product.sillage >= 6 ? "Tỏa vừa phải, dễ dùng cho số đông." : "Khá kín, thiên về cảm giác riêng tư hơn."}</p></div>}</div></div>}
 
-                {product.seasons && <div className="rounded-[28px] border border-[var(--border)] bg-white p-5 sm:p-6"><h3 className="mb-4 text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Mùa & thời điểm</h3><div className="space-y-3">{[{ label: "Xuân", icon: <Flower2 size={13} />, val: product.seasons.spring }, { label: "Hè", icon: <Sun size={13} />, val: product.seasons.summer }, { label: "Thu", icon: <Leaf size={13} />, val: product.seasons.fall }, { label: "Đông", icon: <Snowflake size={13} />, val: product.seasons.winter }].map((s) => <div key={s.label} className="flex items-center gap-3"><div className="flex w-14 items-center gap-1 text-xs font-semibold text-gray-500">{s.icon}{s.label}</div><div className="h-2 flex-1 overflow-hidden rounded-full bg-gray-200"><div className="h-full rounded-full bg-primary" style={{ width: `${s.val}%` }} /></div><div className="w-10 text-right text-xs font-bold text-gray-400">{s.val}%</div></div>)}</div>{product.dayNight && <div className="mt-5 border-t border-[var(--border)] pt-5"><div className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Ngày hay đêm</div><div className="grid grid-cols-2 gap-3"><div className="rounded-2xl bg-[#faf8f6] p-4"><div className="inline-flex items-center gap-2 text-sm font-semibold text-gray-700"><CloudSun size={15} className="text-amber-500" /> Ban ngày</div><div className="mt-2 text-2xl font-serif text-gray-900">{product.dayNight.day}%</div></div><div className="rounded-2xl bg-[#faf8f6] p-4"><div className="inline-flex items-center gap-2 text-sm font-semibold text-gray-700"><Moon size={15} className="text-indigo-500" /> Buổi tối</div><div className="mt-2 text-2xl font-serif text-gray-900">{product.dayNight.night}%</div></div></div></div>}</div>}
+                {product.seasons && <div className=""><h3 className="mb-4 text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Mùa & thời điểm</h3><div className="space-y-3">{[{ label: "Xuân", icon: <Flower2 size={13} />, val: product.seasons.spring }, { label: "Hè", icon: <Sun size={13} />, val: product.seasons.summer }, { label: "Thu", icon: <Leaf size={13} />, val: product.seasons.fall }, { label: "Đông", icon: <Snowflake size={13} />, val: product.seasons.winter }].map((s) => <div key={s.label} className="flex items-center gap-3"><div className="flex w-14 items-center gap-1 text-xs font-semibold text-gray-500">{s.icon}{s.label}</div><div className="h-2 flex-1 overflow-hidden rounded-full bg-gray-200"><div className="h-full rounded-full bg-primary" style={{ width: `${s.val}%` }} /></div><div className="w-10 text-right text-xs font-bold text-gray-400">{s.val}%</div></div>)}</div>{product.dayNight && <div className="mt-5 border-t border-[var(--border)] pt-5"><div className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Ngày hay đêm</div><div className="grid grid-cols-2 gap-3"><div className="rounded-2xl bg-[#faf8f6] p-4"><div className="inline-flex items-center gap-2 text-sm font-semibold text-gray-700"><CloudSun size={15} className="text-amber-500" /> Ban ngày</div><div className="mt-2 text-2xl font-serif text-gray-900">{product.dayNight.day}%</div></div><div className="rounded-2xl bg-[#faf8f6] p-4"><div className="inline-flex items-center gap-2 text-sm font-semibold text-gray-700"><Moon size={15} className="text-indigo-500" /> Buổi tối</div><div className="mt-2 text-2xl font-serif text-gray-900">{product.dayNight.night}%</div></div></div></div>}</div>}
               </div>
             )}
 
-            <section className="mb-10 rounded-[28px] border border-[var(--border)] bg-white p-5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-6">
+            <section className="mt-10 border-t border-[var(--border)] pt-10 sm:mt-12 sm:pt-12">
               <div className="mb-6 flex items-center gap-3"><div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10 text-primary"><Droplet size={20} /></div><h2 className="text-2xl font-serif text-gray-950 sm:text-3xl">Khám phá các tầng hương</h2></div>
               <div className="relative space-y-8 pl-8 before:absolute before:bottom-2 before:left-[15px] before:top-2 before:w-px before:bg-gradient-to-b before:from-primary/40 before:via-primary/20 before:to-transparent before:content-['']">{[{ title: "Hương đầu", note: "Bay sau 15-30 phút", color: "border-primary", bg: "bg-[#FFF8E7] border-[#F5E6C4]", notes: product.topNotes }, { title: "Hương giữa", note: "Kéo dài 3-5 tiếng", color: "border-rose-400", bg: "bg-[#FEF0F0] border-[#F5D5D5]", notes: product.middleNotes }, { title: "Hương cuối", note: "Bám 6-12+ tiếng", color: "border-gray-400", bg: "bg-gray-50 border-gray-200", notes: product.baseNotes }].map((section) => <div key={section.title} className="relative"><div className={`absolute -left-[31px] top-1.5 z-10 h-4 w-4 rounded-full border-4 bg-white ${section.color}`} /><div className="flex flex-col gap-4 md:flex-row md:items-start"><div className="min-w-[120px]"><div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-800">{section.title}</div><div className="mt-1 text-[11px] italic text-gray-400">{section.note}</div></div><div className="flex flex-wrap gap-2">{section.notes.map((n, i) => <Link key={i} href={`/bang-xep-hang?note=${encodeURIComponent(n.name)}`} className={`rounded-xl border px-4 py-2 text-xs font-semibold text-gray-800 transition hover:border-primary ${section.bg}`}>{n.name}</Link>)}</div></div></div>)}</div>
             </section>
 
-            <section className="mb-10 rounded-[28px] border border-[var(--border)] bg-white p-5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-6">
+            <section className="mt-10 border-t border-[var(--border)] pt-10 sm:mt-12 sm:pt-12">
               <h3 className="mb-5 text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Nhóm hương chính</h3>
               <div className="space-y-3">{product.accords.map((accord, i) => <div key={i} className="flex items-center gap-3"><div className="w-24 text-xs font-semibold text-gray-600">{accord.name}</div><div className="h-4 flex-1 overflow-hidden rounded-full bg-gray-100"><div className="h-full rounded-full transition-all duration-500" style={{ width: `${accord.value}%`, backgroundColor: accord.color }} /></div><div className="w-10 text-right text-xs font-bold text-gray-400">{accord.value}%</div></div>)}</div>
             </section>
 
-            {product.article && <section className="mb-10 rounded-[28px] border border-[var(--border)] bg-white p-5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-6 md:p-8"><div className="mb-6 border-b border-[var(--border)] pb-5"><p className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Thông tin & cảm nhận thực tế</p><h2 className="mt-2 text-2xl font-serif text-gray-950 sm:text-3xl">Cần biết gì về {product.name}?</h2></div><div className="prose prose-base max-w-none text-gray-900 prose-headings:font-serif prose-headings:text-gray-950 prose-h3:mt-10 prose-h3:mb-4 prose-h3:text-[1.45rem] prose-p:my-0 prose-p:mb-6 prose-p:text-[17px] prose-p:leading-[1.95] prose-li:text-[16px] prose-li:leading-8 prose-ul:my-4 prose-ul:space-y-2 prose-a:text-primary prose-a:no-underline hover:prose-a:underline">{(() => { let selfLinked = false; let homeLinked = false; let categoryLinked = false; let brandLinked = false; return product.article!.split("\n\n").map((para, i) => { if (para.startsWith("###")) return <h3 key={i}>{para.replace("###", "").trim()}</h3>; const searchName = product.name; const categoryLabel = product.gender === "nam" ? "nước hoa nam" : product.gender === "nu" ? "nước hoa nữ" : "nước hoa unisex"; const categoryHref = product.gender === "nam" ? "/nam-gioi" : product.gender === "nu" ? "/nu-gioi" : "/unisex"; const brandLabel = product.brand.split(" ").map((w) => w.charAt(0) + w.slice(1).toLowerCase()).join(" "); const patterns = [
-                !homeLinked ? { label: "Maison de SON", href: "/", key: "home" } : null,
-                !categoryLinked ? { label: categoryLabel, href: categoryHref, key: "category" } : null,
-                !brandLinked ? { label: brandLabel, href: `/${product.brandSlug}`, key: "brand" } : null,
-                !selfLinked ? { label: searchName, href: `/${product.id}`, key: "self" } : null,
-              ].filter(Boolean) as Array<{ label: string; href: string; key: string }>;
-              const nodes: React.ReactNode[] = [];
-              let cursor = 0;
-              let working = para;
-              while (working.length > 0) {
-                let best: { index: number; item: { label: string; href: string; key: string } } | null = null;
-                for (const item of patterns) {
-                  const idx = working.toLowerCase().indexOf(item.label.toLowerCase());
-                  if (idx >= 0 && (!best || idx < best.index)) best = { index: idx, item };
+            {product.article && <section className="mt-10 border-t border-[var(--border)] pt-10 sm:mt-12 sm:pt-12"><div className="mb-6 border-b border-[var(--border)] pb-5"><p className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Thông tin & cảm nhận thực tế</p><h2 className="mt-2 text-2xl font-serif text-gray-950 sm:text-3xl">Cần biết gì về {product.name}?</h2></div><div className="prose prose-base max-w-none text-gray-900 prose-headings:font-serif prose-headings:text-gray-950 prose-h3:mt-10 prose-h3:mb-4 prose-h3:text-[1.45rem] prose-p:my-0 prose-p:mb-6 prose-p:text-[17px] prose-p:leading-[1.95] prose-li:text-[16px] prose-li:leading-8 prose-ul:my-4 prose-ul:space-y-2 prose-a:text-primary prose-a:no-underline hover:prose-a:underline">{(() => {
+              let selfLinked = false; let homeLinked = false; let categoryLinked = false; let brandLinked = false; return product.article!.split("\n\n").map((para, i) => {
+                if (para.startsWith("###")) return <h3 key={i}>{para.replace("###", "").trim()}</h3>; const searchName = product.name; const categoryLabel = product.gender === "nam" ? "nước hoa nam" : product.gender === "nu" ? "nước hoa nữ" : "nước hoa unisex"; const categoryHref = product.gender === "nam" ? "/nam-gioi" : product.gender === "nu" ? "/nu-gioi" : "/unisex"; const brandLabel = product.brand.split(" ").map((w) => w.charAt(0) + w.slice(1).toLowerCase()).join(" "); const patterns = [
+                  !homeLinked ? { label: "Maison de SON", href: "/", key: "home" } : null,
+                  !categoryLinked ? { label: categoryLabel, href: categoryHref, key: "category" } : null,
+                  !brandLinked ? { label: brandLabel, href: `/${product.brandSlug}`, key: "brand" } : null,
+                  !selfLinked ? { label: searchName, href: `/${product.id}`, key: "self" } : null,
+                ].filter(Boolean) as Array<{ label: string; href: string; key: string }>;
+                const nodes: React.ReactNode[] = [];
+                let cursor = 0;
+                let working = para;
+                while (working.length > 0) {
+                  let best: { index: number; item: { label: string; href: string; key: string } } | null = null;
+                  for (const item of patterns) {
+                    const idx = working.toLowerCase().indexOf(item.label.toLowerCase());
+                    if (idx >= 0 && (!best || idx < best.index)) best = { index: idx, item };
+                  }
+                  if (!best) {
+                    nodes.push(working);
+                    break;
+                  }
+                  if (best.index > 0) nodes.push(working.slice(0, best.index));
+                  const foundLabel = working.slice(best.index, best.index + best.item.label.length);
+                  nodes.push(<Link key={`${best.item.key}-${i}-${cursor}`} href={best.item.href} className="border-b border-primary/30 font-semibold text-primary transition-colors hover:border-primary">{foundLabel}</Link>);
+                  if (best.item.key === "home") homeLinked = true;
+                  if (best.item.key === "category") categoryLinked = true;
+                  if (best.item.key === "brand") brandLinked = true;
+                  if (best.item.key === "self") selfLinked = true;
+                  working = working.slice(best.index + best.item.label.length);
+                  cursor += 1;
                 }
-                if (!best) {
-                  nodes.push(working);
-                  break;
-                }
-                if (best.index > 0) nodes.push(working.slice(0, best.index));
-                const foundLabel = working.slice(best.index, best.index + best.item.label.length);
-                nodes.push(<Link key={`${best.item.key}-${i}-${cursor}`} href={best.item.href} className="border-b border-primary/30 font-semibold text-primary transition-colors hover:border-primary">{foundLabel}</Link>);
-                if (best.item.key === "home") homeLinked = true;
-                if (best.item.key === "category") categoryLinked = true;
-                if (best.item.key === "brand") brandLinked = true;
-                if (best.item.key === "self") selfLinked = true;
-                working = working.slice(best.index + best.item.label.length);
-                cursor += 1;
-              }
-              return <p key={i}>{nodes}</p>; }); })()}</div></section>}
+                return <p key={i}>{nodes}</p>;
+              });
+            })()}</div></section>}
 
             {product.sizes && product.sizes.length > 0 && <section className="mb-8 overflow-hidden rounded-[28px] border border-[var(--border)] bg-white shadow-[0_20px_60px_rgba(17,17,17,0.04)]"><div className="flex flex-col gap-2 border-b border-[var(--border)] bg-[#faf8f6] px-5 py-4 sm:flex-row sm:items-center sm:justify-between sm:px-6"><h3 className="text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Bảng giá tham khảo</h3><span className="text-[11px] italic text-gray-400">Nguồn kenperfume.com • {currentMonthYear}</span></div><div className="divide-y divide-[var(--border)]">{product.sizes.map((size, i) => { const isDecant = size.toLowerCase().includes("chiết"); const ml = parseInt(size); const fullSize = product.sizes.find((s) => !s.toLowerCase().includes("chiết")); const pricePerMl = product.basePrice > 0 ? product.basePrice / (fullSize ? parseInt(fullSize || "100") : 100) : 0; const estimatedPrice = isDecant && ml ? Math.round((pricePerMl * ml) / 10000) * 10000 : null; return <div key={i} className="flex items-center justify-between px-5 py-4 transition-colors hover:bg-gray-50 sm:px-6"><div className="flex items-center gap-3"><span className={`rounded-full px-2.5 py-1 text-[10px] font-bold ${isDecant ? "bg-blue-50 text-blue-600" : "bg-amber-50 text-amber-600"}`}>{isDecant ? "CHIẾT" : "FULLBOX"}</span><span className="text-sm font-semibold text-gray-900">{size}</span></div><div className="text-right">{i === product.sizes.length - 1 && product.basePrice > 0 ? <span className="text-sm font-bold text-gray-900">{product.basePrice.toLocaleString()}đ</span> : estimatedPrice ? <span className="text-sm font-semibold text-gray-500">~{estimatedPrice.toLocaleString()}đ</span> : <span className="text-xs italic text-gray-400">Liên hệ</span>}</div></div>; })}</div><div className="border-t border-[var(--border)] bg-[#faf8f6] px-5 py-3 sm:px-6"><p className="text-[11px] text-gray-400">Giá chỉ mang tính tham khảo. <Link href="https://zalo.me/0961226169" className="font-bold text-primary hover:underline">Hỏi giá chính xác qua Zalo →</Link></p></div></section>}
 
@@ -445,11 +439,20 @@ export default function ProductClient({ product, relatedProducts, relatedArticle
             {relatedProducts}
             {relatedArticles && <section className="mt-10 border-t border-[var(--border)] pt-10"><h2 className="mb-6 text-2xl font-serif">Bài viết liên quan</h2>{relatedArticles}</section>}
           </div>
+        </div>
+      </div>
 
-          <aside className="h-fit space-y-6 lg:sticky lg:top-24">
-            <div className="rounded-[28px] border border-[var(--border)] bg-white p-5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-6"><h3 className="text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Tóm tắt nhanh</h3><p className="mt-3 text-sm leading-7 text-gray-600">{product.description}</p><div className="mt-4 grid gap-2 text-sm"><div className="rounded-2xl bg-[#faf8f6] px-4 py-3"><span className="font-semibold text-gray-900">Phù hợp:</span> <span className="text-gray-600">{fitSummary(product)}</span></div><div className="rounded-2xl bg-[#faf8f6] px-4 py-3"><span className="font-semibold text-gray-900">Lưu / tỏa:</span> <span className="text-gray-600">{product.longevity || "?"}/10 • {product.sillage || "?"}/10</span></div></div></div>
-            <div className="rounded-[28px] border border-[var(--border)] bg-white p-5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:p-6"><h3 className="mb-4 text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">Size đang có</h3><div className="flex flex-wrap gap-2">{product.sizes.map((s) => { const isDecant = s.toLowerCase().includes("chiết"); const capacityLabel = s.split(" ")[0] || s; return <button key={s} onClick={() => setSelectedSize(s)} className={`min-w-[96px] rounded-2xl border px-4 py-3 text-left transition ${selectedSize === s ? "border-primary bg-primary text-white shadow-md" : "border-[var(--border)] bg-[#faf8f6] text-gray-700 hover:border-primary/40"}`}><div className="text-sm font-bold">{capacityLabel}</div><div className={`mt-1 text-[10px] font-semibold uppercase tracking-[0.14em] ${selectedSize === s ? "text-white/80" : "text-gray-400"}`}>{isDecant ? "Chiết" : "Fullbox"}</div></button>; })}</div><p className="mt-3 text-xs leading-5 text-gray-400">Chọn size để dễ hình dung nhu cầu dùng thử, mua fullbox hoặc xin tư vấn nhanh qua Zalo.</p></div>
-          </aside>
+      {/* Sticky CTA — mobile only */}
+      <div className="fixed bottom-0 inset-x-0 z-50 border-t border-[var(--border)] bg-white/95 backdrop-blur-sm p-3 lg:hidden">
+        <div className="flex items-center gap-3 max-w-[600px] mx-auto">
+          <div className="flex-1 min-w-0">
+            <div className="text-xs text-gray-500">Giá tham khảo</div>
+            <div className="text-lg font-serif font-bold text-gray-950 truncate">{priceLabel(product.basePrice)}</div>
+          </div>
+          <Link href="https://zalo.me/0961226169" rel="nofollow" target="_blank"
+            className="flex-shrink-0 rounded-full bg-[#0068FF] px-6 py-3 text-sm font-bold text-white">
+            Tư vấn Zalo
+          </Link>
         </div>
       </div>
     </>
