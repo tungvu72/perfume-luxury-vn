@@ -409,7 +409,6 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     )}
                                 </div>
                                 <h1 className="text-[26px] font-serif font-bold leading-[1.25] text-[#1a1a1a] sm:text-[34px] md:text-[40px]">{post.title}</h1>
-                                <p className="mt-4 text-[15px] leading-[1.75] text-gray-500 max-w-2xl md:text-base">{post.excerpt || 'Bài viết chia sẻ kiến thức, trải nghiệm thực tế và góc nhìn chọn mua nước hoa rõ ràng hơn cho người Việt.'}</p>
                                 <div className="mt-6 flex flex-wrap items-center gap-4 text-[12px] text-gray-400 font-medium border-t border-gray-100 pt-5">
                                     <Link href="/tac-gia/maison-editorial" className="text-gray-600 hover:text-primary transition-colors font-semibold">{post.author || 'Maison de SON Editorial'}</Link>
                                     {formattedDate && <><span className="text-gray-200">|</span><span>{formattedDate}</span></>}

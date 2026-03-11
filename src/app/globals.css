@@ -131,3 +131,55 @@ h3,
   display: none;
   /* Chrome / Safari / Opera */
 }
+
+/* ─── Article body premium typography ─── */
+.article-body {
+  font-family: var(--font-inter), 'Inter', system-ui, -apple-system, sans-serif !important;
+}
+
+.article-body h1,
+.article-body h2,
+.article-body h3,
+.article-body h4 {
+  font-family: var(--font-inter), 'Inter', system-ui, -apple-system, sans-serif !important;
+  letter-spacing: -0.015em;
+}
+
+.article-body p,
+.article-body li,
+.article-body span,
+.article-body blockquote {
+  font-family: var(--font-inter), 'Inter', system-ui, -apple-system, sans-serif !important;
+}
+
+/* Smooth scroll for TOC anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* First letter drop cap for article intro */
+.article-body>p:first-of-type::first-letter {
+  font-size: 3.2em;
+  font-weight: 700;
+  float: left;
+  line-height: 0.85;
+  margin-right: 8px;
+  margin-top: 6px;
+  color: var(--primary);
+  font-family: var(--font-playfair), serif;
+}
+
+/* Article image hover effect */
+.article-body figure img {
+  transition: transform 0.4s ease;
+}
+
+.article-body figure:hover img {
+  transform: scale(1.02);
+}
+
+/* Selection highlight with brand color */
+.article-body ::selection {
+  background: rgba(197, 160, 89, 0.2);
+  color: inherit;
+}
