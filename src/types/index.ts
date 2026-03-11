@@ -54,6 +54,7 @@ export interface Perfume {
 
     // Bài viết chi tiết
     article?: string;
+    productCopy?: string; // Mô tả sản phẩm chi tiết (300-400 từ)
 
     // Đánh giá chuyên gia
     score: ExpertScore;
