@@ -106,6 +106,15 @@ const TAG_COLORS: Record<string, string> = {
     'So sánh': 'bg-orange-50 text-orange-700 border-orange-200',
     'Brand Story': 'bg-indigo-50 text-indigo-700 border-indigo-200',
 };
+const CATEGORY_LABELS: Record<string, string> = {
+    'Product Review': 'Đánh giá sản phẩm',
+    'Buying Guide': 'Cẩm nang chọn mua',
+    'How-to': 'Hướng dẫn',
+    'Kiến thức': 'Kiến thức',
+    'Trend': 'Xu hướng',
+    'So sánh': 'So sánh',
+    'Brand Story': 'Câu chuyện thương hiệu',
+};
 
 // ─── PRODUCT PAGE (render khi slug là sản phẩm) ──────────────
 async function ProductPage({ product, slug }: { product: Perfume; slug: string }) {
@@ -402,7 +411,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                             <header className="mb-8 rounded-2xl border border-[#e8e0d4] bg-white p-5 shadow-[0_8px_30px_rgba(0,0,0,0.04)] sm:rounded-3xl sm:p-7 md:p-9">
                                 <div className="flex flex-wrap items-center gap-2.5 mb-4">
                                     {post.category && (
-                                        <span className={`text-[10px] font-bold tracking-[2px] uppercase px-3 py-1.5 rounded-full border ${tagColorClass}`}>{post.category}</span>
+                                        <span className={`text-[10px] font-bold tracking-[2px] uppercase px-3 py-1.5 rounded-full border ${tagColorClass}`}>{CATEGORY_LABELS[post.category] || post.category}</span>
                                     )}
                                     {post.publishedAt && (Date.now() - new Date(post.publishedAt).getTime()) < 7 * 24 * 60 * 60 * 1000 && (
                                         <span className="bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full text-[10px] font-bold border border-emerald-200">Mới cập nhật</span>
@@ -444,16 +453,16 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 prose prose-base max-w-none
                                 prose-headings:font-sans prose-headings:text-[#1a1a1a] prose-headings:font-bold prose-headings:tracking-[-0.01em]
                                 prose-h1:text-2xl prose-h1:mt-14 prose-h1:mb-6
-                                prose-h2:text-[22px] prose-h2:mt-14 prose-h2:mb-5 prose-h2:pt-8 prose-h2:border-t-2 prose-h2:border-[#f0ebe4] sm:prose-h2:text-[24px]
-                                prose-h3:text-[18px] prose-h3:mt-10 prose-h3:mb-4 sm:prose-h3:text-[19px]
-                                prose-p:text-[16px] prose-p:text-[#3d3d3d] prose-p:leading-[1.85] prose-p:my-5 sm:prose-p:text-[17px] sm:prose-p:leading-[1.9] sm:prose-p:my-6
-                                prose-li:text-[16px] prose-li:text-[#3d3d3d] prose-li:leading-[1.85] prose-li:my-1.5 sm:prose-li:text-[17px]
-                                prose-ul:my-6 prose-ol:my-6
+                                prose-h2:text-[26px] prose-h2:mt-16 prose-h2:mb-6 prose-h2:pt-10 prose-h2:border-t-2 prose-h2:border-[#f0ebe4] sm:prose-h2:text-[30px] md:prose-h2:text-[32px]
+                                prose-h3:text-[20px] prose-h3:mt-12 prose-h3:mb-5 sm:prose-h3:text-[22px]
+                                prose-p:text-[16px] prose-p:text-[#3d3d3d] prose-p:leading-[1.85] prose-p:my-6 sm:prose-p:text-[17px] sm:prose-p:leading-[1.9] sm:prose-p:my-7
+                                prose-li:text-[16px] prose-li:text-[#3d3d3d] prose-li:leading-[1.85] prose-li:my-2 sm:prose-li:text-[17px]
+                                prose-ul:my-7 prose-ol:my-7
                                 prose-strong:text-[#1a1a1a] prose-strong:font-semibold
                                 prose-a:text-primary prose-a:font-medium prose-a:underline prose-a:decoration-primary/30 prose-a:underline-offset-2 hover:prose-a:decoration-primary/70
-                                prose-blockquote:border-l-[3px] prose-blockquote:border-primary/40 prose-blockquote:pl-5 prose-blockquote:py-2 prose-blockquote:text-[#555] prose-blockquote:bg-[#faf8f5] prose-blockquote:rounded-r-xl prose-blockquote:not-italic prose-blockquote:my-8
-                                prose-hr:border-[#ebe5dc] prose-hr:my-12
-                                prose-img:rounded-2xl prose-img:my-8 prose-img:w-full prose-img:shadow-[0_8px_30px_rgba(0,0,0,0.08)]
+                                prose-blockquote:border-l-[3px] prose-blockquote:border-primary/40 prose-blockquote:pl-5 prose-blockquote:py-2 prose-blockquote:text-[#555] prose-blockquote:bg-[#faf8f5] prose-blockquote:rounded-r-xl prose-blockquote:not-italic prose-blockquote:my-10
+                                prose-hr:border-[#ebe5dc] prose-hr:my-14
+                                prose-img:rounded-2xl prose-img:my-10 prose-img:w-full prose-img:shadow-[0_8px_30px_rgba(0,0,0,0.08)]
                                 prose-table:text-sm prose-th:p-3.5 prose-th:border prose-th:border-gray-200 prose-th:bg-[#faf8f5] prose-th:font-semibold prose-th:text-left
                                 prose-td:p-3.5 prose-td:border prose-td:border-gray-100
                             ">
