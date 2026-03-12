@@ -22,17 +22,11 @@ Danh sách dưới đây không chọn theo kiểu chai nào nổi tiếng thì 
 ## Kết luận nhanh
 
 - Toàn diện nhất: [Bleu de Chanel EDP](/bleu-chanel-edp)
-
 - Đẹp kiểu văn phòng nhất: [Prada L'Homme](/prada-lhomme-edt)
-
 - Hợp mùa nóng nhất: [Acqua di Giò Profondo](/acqua-di-gio-profondo-edp)
-
 - Dễ dùng nhất cho người trẻ: [YSL Y EDP](/ysl-y-edp)
-
 - Trưởng thành và khác số đông nhất: [Terre d'Hermès EDT](/terre-dhermes-edt)
-
 - Thực dụng, dễ sống chung: [Montblanc Explorer](/montblanc-explorer-edp)
-
 - Nhẹ áp lực nhất cho người mới bắt đầu: [Coach for Men](/coach-for-men-edt)
 
 ## Thế nào là một chai nước hoa nam đi làm mùa hè đẹp?
@@ -44,11 +38,8 @@ Danh sách dưới đây không chọn theo kiểu chai nào nổi tiếng thì 
 Một chai nước hoa đi làm đẹp trong mùa hè nên có 4 điểm:
 
 - Mở đầu sạch và gọn để không gây sốc mũi
-
 - Độ tỏa vừa phải để người gần mới cảm nhận rõ
-
 - Tổng thể chỉn chu thay vì sexy quá mức
-
 - Dùng lặp lại không chán vì đây là kiểu chai bạn sẽ cầm lên nhiều sáng trong tuần
 
 Nói thẳng: đi làm không phải lúc để chứng minh bạn chơi nước hoa dữ thế nào. Đi làm là lúc mùi hương nên đứng về phía bạn, không chống lại bạn.
@@ -200,17 +191,11 @@ Không hợp lắm nếu: bạn muốn vibe thật sang hoặc thật trưởng 
 Nếu cần chốt nhanh, Maison De Son chia như này:
 
 - Muốn 1 chai đi làm toàn diện nhất: Bleu de Chanel EDP
-
 - Muốn văn phòng sạch và sang nhất: Prada L'Homme
-
 - Muốn hợp mùa nóng nhất: Acqua di Giò Profondo
-
 - Muốn trẻ, hiện đại, dễ được khen: YSL Y EDP
-
 - Muốn gọn gàng, thực dụng, ít nghĩ nhiều: Montblanc Explorer
-
 - Muốn trưởng thành và khác số đông: Terre d'Hermès EDT
-
 - Muốn nhẹ áp lực, dễ bắt đầu: Coach for Men
 
 ## Kết luận cuối

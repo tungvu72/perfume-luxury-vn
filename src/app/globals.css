@@ -145,6 +145,18 @@ h3,
   letter-spacing: -0.015em;
 }
 
+/* Desktop: heading dùng Playfair Display (serif) để phân biệt với body text */
+@media (min-width: 769px) {
+
+  .article-body h1,
+  .article-body h2,
+  .article-body h3,
+  .article-body h4 {
+    font-family: var(--font-playfair), 'Playfair Display', Georgia, serif !important;
+    letter-spacing: -0.02em;
+  }
+}
+
 .article-body p,
 .article-body li,
 .article-body span,
