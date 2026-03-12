@@ -6,7 +6,6 @@ const CONTENT_DIRS = ['buying-guides', 'product-reviews'];
 
 function parseFrontmatter(content: string): Record<string, string> {
     const result: Record<string, string> = {};
-    const lines = content.split('\n');
     const parts = content.split('---');
     if (parts.length >= 3) {
         const fm = parts[1];
@@ -15,13 +14,15 @@ function parseFrontmatter(content: string): Record<string, string> {
             if (m) result[m[1].trim()] = m[2].trim().replace(/^["']|["']$/g, '');
         }
     }
-    for (const line of lines) {
+    // Only scan body content (after frontmatter) for additional metadata patterns
+    const bodyContent = parts.length >= 3 ? parts.slice(2).join('---') : content;
+    for (const line of bodyContent.split('\n')) {
         const matchBold = line.match(/^\*\*(.+?):\*\*\s*(.+)/);
-        if (matchBold) { result[matchBold[1].trim()] = matchBold[2].trim(); continue; }
+        if (matchBold) { result[matchBold[1].trim()] = matchBold[2].trim().replace(/^["']|["']$/g, ''); continue; }
         const matchDirect = line.match(/^([^#*:\n]+):\s*(.+)/);
         if (matchDirect && !line.startsWith('#')) {
             const key = matchDirect[1].trim();
-            if (key.length < 30) result[key] = matchDirect[2].trim();
+            if (key.length < 30) result[key] = matchDirect[2].trim().replace(/^["']|["']$/g, '');
         }
     }
     return result;
