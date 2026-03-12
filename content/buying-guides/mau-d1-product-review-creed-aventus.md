@@ -1,7 +1,7 @@
 ﻿---
 title: Creed Aventus Review 2026 — Tôi Đã Dùng 3 Tuần và Đây Là Sự Thật
 slug: creed-aventus-review-2026
-status: published
+status: draft
 date: 2026-03-05
 category: Product Review
 author: Maison de SON Editorial
