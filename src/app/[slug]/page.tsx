@@ -480,9 +480,15 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                                 .replace(/\s+/g, '-')
                                                 .replace(/-+/g, '-')
                                                 .slice(0, 60);
-                                            // Special styling for "Kết luận nhanh" section
-                                            const isQuickConclusion = text.includes('Kết luận nhanh') || text.includes('ket luan nhanh');
-                                            return <h2 id={id} className={isQuickConclusion ? 'scroll-mt-32' : 'scroll-mt-32'} {...props}>{children}</h2>;
+                                            return (
+                                                <h2
+                                                    id={id}
+                                                    className="scroll-mt-32 text-[26px] sm:text-[28px] md:text-[32px] font-bold leading-[1.3] text-[#1a1a1a] mt-16 mb-6 pt-10 border-t-2 border-[#e8e0d4]"
+                                                    {...props}
+                                                >
+                                                    {children}
+                                                </h2>
+                                            );
                                         },
                                         h3: ({ children, ...props }) => {
                                             const text = String(children);
@@ -494,7 +500,15 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                                 .replace(/\s+/g, '-')
                                                 .replace(/-+/g, '-')
                                                 .slice(0, 60);
-                                            return <h3 id={id} className="scroll-mt-32" {...props}>{children}</h3>;
+                                            return (
+                                                <h3
+                                                    id={id}
+                                                    className="scroll-mt-32 text-[20px] sm:text-[22px] md:text-[24px] font-semibold leading-[1.35] text-[#1a1a1a] mt-12 mb-5"
+                                                    {...props}
+                                                >
+                                                    {children}
+                                                </h3>
+                                            );
                                         },
                                         // Enhanced image rendering
                                         img: ({ src, alt, ...props }) => (
