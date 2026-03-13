@@ -1,0 +1,750 @@
+[
+    {
+        "id": "hermes-un-jardin-sur-le-nil",
+        "brandSlug": "hermes",
+        "brand": "HERMÈS",
+        "name": "Un Jardin Sur Le Nil",
+        "subName": "Eau de Toilette",
+        "perfumer": "Jean-Claude Ellena",
+        "gender": "unisex",
+        "desc": "Mùi tươi xanh với xoài xanh, cà chua và gỗ. Tự nhiên, nhẹ và rất nghệ thuật.",
+        "verdict": "Xoài xanh, cà chua, gỗ. Tươi tự nhiên, nhẹ nhàng và nghệ thuật.",
+        "short": "XOÀI XANH, TƯƠI, NGHỆ THUẬT",
+        "sc": [
+            8.8,
+            9.2,
+            7.8,
+            8.0,
+            8.5
+        ],
+        "lon": 6,
+        "sil": 6,
+        "sea": [
+            90,
+            82,
+            55,
+            35
+        ],
+        "dn": [
+            85,
+            30
+        ],
+        "topNotes": [
+            "Xoài xanh",
+            "Cam bergamot",
+            "Cà chua"
+        ],
+        "middleNotes": [
+            "Hoa sen",
+            "Hoa cam",
+            "Tiêu"
+        ],
+        "baseNotes": [
+            "Gỗ tuyết tùng",
+            "Xạ hương",
+            "Vetiver"
+        ],
+        "accords": [
+            [
+                "Xanh / Green",
+                95,
+                "#2c7a4b"
+            ],
+            [
+                "Tươi",
+                88,
+                "#2ecc71"
+            ],
+            [
+                "Trái cây",
+                65,
+                "#f39c12"
+            ],
+            [
+                "Gỗ",
+                38,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Tươi",
+                "🌿"
+            ],
+            [
+                "Nghệ thuật",
+                "🎨"
+            ],
+            [
+                "Ban ngày",
+                "☀️"
+            ]
+        ],
+        "tags": [
+            "Unisex",
+            "Tươi",
+            "Green",
+            "Nghệ thuật"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "100ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "dior-dolce-vita",
+        "brandSlug": "dior",
+        "brand": "DIOR",
+        "name": "Dolce Vita",
+        "subName": "Eau de Toilette",
+        "perfumer": "Maurice Roger & Pierre Bourdon",
+        "gender": "nu",
+        "desc": "Mùi nữ cổ điển hoa-gỗ với mận, hoa huệ và gỗ đàn hương. Ấm, sang và rất Ý.",
+        "verdict": "Mận, hoa huệ, gỗ đàn hương. Cổ điển sang, ấm kiểu La Dolce Vita.",
+        "short": "MẬN, HOA HUỆ, SANG CỔ ĐIỂN",
+        "sc": [
+            8.8,
+            8.8,
+            8.0,
+            7.5,
+            8.3
+        ],
+        "lon": 7,
+        "sil": 6,
+        "sea": [
+            60,
+            40,
+            82,
+            75
+        ],
+        "dn": [
+            52,
+            75
+        ],
+        "topNotes": [
+            "Mận",
+            "Quýt",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Hoa huệ",
+            "Hoa hồng",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Vani",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Hoa",
+                88,
+                "#e75480"
+            ],
+            [
+                "Trái cây",
+                72,
+                "#f39c12"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ],
+            [
+                "Ngọt",
+                45,
+                "#FF6D00"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ],
+            [
+                "Ấm",
+                "🍂"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Kinh điển",
+            "Hoa",
+            "Sang"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "nishane-hundred-silent-ways",
+        "brandSlug": "nishane",
+        "brand": "NISHANE",
+        "name": "Hundred Silent Ways",
+        "subName": "Extrait de Parfum",
+        "perfumer": "Murat Katran",
+        "gender": "unisex",
+        "desc": "Mùi niche phấn mềm với iris, vani và xạ hương. Mềm mại, ấm và cực kỳ dễ chịu.",
+        "verdict": "Iris phấn, vani, xạ hương. Mềm ấm niche, cực dễ chịu và sang.",
+        "short": "IRIS PHẤN, MỀM, CỰC DỄ CHỊU",
+        "sc": [
+            9.2,
+            9.0,
+            9.0,
+            8.0,
+            8.8
+        ],
+        "lon": 9,
+        "sil": 7,
+        "sea": [
+            65,
+            42,
+            88,
+            85
+        ],
+        "dn": [
+            52,
+            85
+        ],
+        "topNotes": [
+            "Hồ tiêu hồng",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Iris",
+            "Hoa nhài",
+            "Hoa cam"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Xạ hương",
+            "Gỗ đàn hương",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Phấn / Iris",
+                92,
+                "#9b59b6"
+            ],
+            [
+                "Ngọt",
+                72,
+                "#FF6D00"
+            ],
+            [
+                "Gỗ",
+                58,
+                "#8B4513"
+            ],
+            [
+                "Xạ hương",
+                48,
+                "#9b59b6"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Mềm",
+                "✨"
+            ],
+            [
+                "Dễ chịu",
+                "🧴"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Iris",
+            "Phấn"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 5800000
+    },
+    {
+        "id": "jpg-la-belle-le-parfum",
+        "brandSlug": "jean-paul-gaultier",
+        "brand": "JEAN PAUL GAULTIER",
+        "name": "La Belle Le Parfum",
+        "subName": "Le Parfum",
+        "perfumer": "Quentin Bisch",
+        "gender": "nu",
+        "desc": "Bản đậm của La Belle. Lê, vani và hoa cam mạnh hơn. Gợi cảm sang hơn bản gốc.",
+        "verdict": "Lê, vani, hoa cam. La Belle bản đậm, gợi cảm sang hơn.",
+        "short": "LA BELLE ĐẬM, GỢI CẢM SANG",
+        "sc": [
+            8.8,
+            8.2,
+            9.0,
+            8.0,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 8,
+        "sea": [
+            45,
+            25,
+            90,
+            92
+        ],
+        "dn": [
+            30,
+            95
+        ],
+        "topNotes": [
+            "Lê",
+            "Hoa cam"
+        ],
+        "middleNotes": [
+            "Vani",
+            "Hoa nhài",
+            "Quế"
+        ],
+        "baseNotes": [
+            "Đậu tonka",
+            "Benzoin",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Ngọt",
+                95,
+                "#FF6D00"
+            ],
+            [
+                "Hoa",
+                68,
+                "#e75480"
+            ],
+            [
+                "Trái cây",
+                55,
+                "#f39c12"
+            ],
+            [
+                "Gia vị ấm",
+                42,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Gợi cảm",
+                "✨"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ],
+            [
+                "Sang trọng",
+                "💎"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Ngọt",
+            "Gợi cảm",
+            "Buổi tối"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "80ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "ysl-cinema",
+        "brandSlug": "ysl",
+        "brand": "YVES SAINT LAURENT",
+        "name": "Cinéma",
+        "subName": "Eau de Parfum",
+        "perfumer": "Pierre Wargnye & Jacques Cavallier",
+        "gender": "nu",
+        "desc": "Mùi nữ hoa-gỗ với hoa hồng, hoa nhài và xạ hương trắng. Hollywood sang và quyến rũ.",
+        "verdict": "Hoa hồng, nhài, xạ hương. Hollywood sang, quyến rũ kiểu cổ điển.",
+        "short": "HOLLYWOOD SANG, HOA HỒNG, QUYẾN RŨ",
+        "sc": [
+            8.5,
+            8.2,
+            8.5,
+            7.5,
+            8.2
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            60,
+            40,
+            80,
+            72
+        ],
+        "dn": [
+            48,
+            78
+        ],
+        "topNotes": [
+            "Quýt",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Hoa hồng",
+            "Hoa nhài",
+            "Hoa huệ"
+        ],
+        "baseNotes": [
+            "Xạ hương trắng",
+            "Gỗ đàn hương",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Hoa",
+                92,
+                "#e75480"
+            ],
+            [
+                "Gỗ",
+                58,
+                "#8B4513"
+            ],
+            [
+                "Ngọt",
+                48,
+                "#FF6D00"
+            ],
+            [
+                "Xạ hương",
+                38,
+                "#9b59b6"
+            ]
+        ],
+        "vibes": [
+            [
+                "Sang trọng",
+                "✨"
+            ],
+            [
+                "Quyến rũ",
+                "❤️"
+            ],
+            [
+                "Nữ tính",
+                "💐"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Hoa",
+            "Sang",
+            "Quyến rũ"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "35ml",
+            "50ml",
+            "90ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "dior-diorissimo",
+        "brandSlug": "dior",
+        "brand": "DIOR",
+        "name": "Diorissimo",
+        "subName": "Eau de Toilette",
+        "perfumer": "Edmond Roudnitska",
+        "gender": "nu",
+        "desc": "Huyền thoại hoa linh lan với lá xanh và hoa nhài. Tinh khiết, nhẹ nhàng và đẹp phi thường.",
+        "verdict": "Hoa linh lan tinh khiết. Huyền thoại nhẹ nhàng, đẹp phi thường.",
+        "short": "LINH LAN, TINH KHIẾT, TỐI THƯỢNG",
+        "sc": [
+            9.2,
+            9.5,
+            7.5,
+            7.0,
+            8.3
+        ],
+        "lon": 5,
+        "sil": 5,
+        "sea": [
+            92,
+            75,
+            58,
+            35
+        ],
+        "dn": [
+            85,
+            30
+        ],
+        "topNotes": [
+            "Hoa linh lan"
+        ],
+        "middleNotes": [
+            "Hoa nhài",
+            "Cam bergamot"
+        ],
+        "baseNotes": [
+            "Xạ hương",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Hoa",
+                100,
+                "#e75480"
+            ],
+            [
+                "Xanh / Green",
+                72,
+                "#2c7a4b"
+            ],
+            [
+                "Tươi",
+                65,
+                "#2ecc71"
+            ],
+            [
+                "Phấn",
+                38,
+                "#9b59b6"
+            ]
+        ],
+        "vibes": [
+            [
+                "Huyền thoại",
+                "👑"
+            ],
+            [
+                "Tinh khiết",
+                "✨"
+            ],
+            [
+                "Xuân",
+                "🌸"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Huyền thoại",
+            "Hoa",
+            "Tinh khiết"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml"
+        ],
+        "price": 3500000
+    },
+    {
+        "id": "guerlain-samsara-extrait",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "Samsara Extrait",
+        "subName": "Extrait de Parfum",
+        "perfumer": "Jean-Paul Guerlain",
+        "gender": "nu",
+        "desc": "Bản Extrait đặc của Samsara. Gỗ đàn hương, vani và hoa nhài cô đặc. Xa xỉ tuyệt đối.",
+        "verdict": "Gỗ đàn hương, vani cô đặc. Samsara bản xa xỉ tuyệt đối.",
+        "short": "EXTRAIT ĐẶC, XA XỈ, CÔ ĐẶC",
+        "sc": [
+            9.5,
+            9.2,
+            8.0,
+            6.5,
+            8.3
+        ],
+        "lon": 10,
+        "sil": 7,
+        "sea": [
+            35,
+            15,
+            90,
+            100
+        ],
+        "dn": [
+            15,
+            100
+        ],
+        "topNotes": [
+            "Ylang-ylang",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Hoa nhài",
+            "Hoa hồng",
+            "Hoa narcissus"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Vani",
+            "Đậu tonka",
+            "Iris"
+        ],
+        "accords": [
+            [
+                "Gỗ",
+                100,
+                "#8B4513"
+            ],
+            [
+                "Phương Đông",
+                88,
+                "#8B0000"
+            ],
+            [
+                "Hoa",
+                72,
+                "#e75480"
+            ],
+            [
+                "Vani",
+                62,
+                "#f5deb3"
+            ]
+        ],
+        "vibes": [
+            [
+                "Xa xỉ",
+                "💎"
+            ],
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Xa xỉ",
+            "Gỗ",
+            "Phương Đông"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "15ml"
+        ],
+        "price": 5500000
+    },
+    {
+        "id": "zadig-voltaire-this-is-her",
+        "brandSlug": "zadig-voltaire",
+        "brand": "ZADIG & VOLTAIRE",
+        "name": "This Is Her!",
+        "subName": "Eau de Parfum",
+        "perfumer": "Fabrice Pellegrin",
+        "gender": "nu",
+        "desc": "Mùi nữ ngọt ấm với cà phê, gỗ đàn hương và dừa. Dễ thương, trẻ trung và dễ khen.",
+        "verdict": "Cà phê, gỗ đàn hương, dừa. Ngọt ấm dễ thương, rất dễ khen.",
+        "short": "CÀ PHÊ, DỪA, DỄ THƯƠNG DỄ KHEN",
+        "sc": [
+            8.5,
+            8.0,
+            9.0,
+            8.5,
+            8.5
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            55,
+            35,
+            82,
+            78
+        ],
+        "dn": [
+            48,
+            82
+        ],
+        "topNotes": [
+            "Cà phê",
+            "Quả mọng"
+        ],
+        "middleNotes": [
+            "Hoa nhài",
+            "Dừa",
+            "Hoa cam"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Cashmeran",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Ngọt",
+                88,
+                "#FF6D00"
+            ],
+            [
+                "Gourmand",
+                72,
+                "#8B0000"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ],
+            [
+                "Hoa",
+                42,
+                "#e75480"
+            ]
+        ],
+        "vibes": [
+            [
+                "Dễ thương",
+                "🍬"
+            ],
+            [
+                "Dễ khen",
+                "👍"
+            ],
+            [
+                "Trẻ trung",
+                "⚡"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Ngọt",
+            "Dễ khen",
+            "Trẻ trung"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "100ml"
+        ],
+        "price": 1800000
+    }
+]

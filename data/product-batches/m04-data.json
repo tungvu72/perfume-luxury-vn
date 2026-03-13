@@ -1,0 +1,852 @@
+[
+    {
+        "id": "chanel-allure-homme-edition-blanche",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "Allure Homme Édition Blanche",
+        "subName": "Eau de Parfum",
+        "perfumer": "Jacques Polge",
+        "gender": "nam",
+        "desc": "Mùi nam citrus trắng sang với chanh, gỗ đàn hương và vani. Sạch, sang và rất thanh lịch.",
+        "verdict": "Citrus trắng, gỗ đàn hương, vani. Sạch sang thanh lịch kiểu Chanel.",
+        "short": "CITRUS TRẮNG, SANG, THANH LỊCH",
+        "sc": [
+            9.0,
+            8.5,
+            8.8,
+            7.8,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            78,
+            62,
+            80,
+            60
+        ],
+        "dn": [
+            72,
+            58
+        ],
+        "topNotes": [
+            "Chanh",
+            "Quýt",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Hồ tiêu",
+            "Phong lữ"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Vani",
+            "Vetiver",
+            "Đậu tonka"
+        ],
+        "accords": [
+            [
+                "Cam chanh",
+                92,
+                "#f7c242"
+            ],
+            [
+                "Gỗ",
+                72,
+                "#8B4513"
+            ],
+            [
+                "Tươi",
+                65,
+                "#2ecc71"
+            ],
+            [
+                "Ngọt",
+                38,
+                "#FF6D00"
+            ]
+        ],
+        "vibes": [
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ],
+            [
+                "Đa dụng",
+                "🔄"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Citrus",
+            "Thanh lịch",
+            "Chanel"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml",
+            "150ml"
+        ],
+        "price": 3800000
+    },
+    {
+        "id": "hermes-terre-dhermes-eau-givree",
+        "brandSlug": "hermes",
+        "brand": "HERMÈS",
+        "name": "Terre d'Hermès Eau Givrée",
+        "subName": "Eau de Parfum",
+        "perfumer": "Christine Nagel",
+        "gender": "nam",
+        "desc": "Phiên bản tươi mát nhất dòng Terre. Cam tươi, gỗ và khoáng. Sạch, nhẹ và sang.",
+        "verdict": "Cam tươi, gỗ, khoáng. Terre bản tươi nhất, sạch nhẹ và sang.",
+        "short": "CAM TƯƠI, KHOÁNG, NHẸ SANG",
+        "sc": [
+            8.8,
+            8.2,
+            8.5,
+            8.0,
+            8.4
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            90,
+            78,
+            68,
+            45
+        ],
+        "dn": [
+            85,
+            42
+        ],
+        "topNotes": [
+            "Cam tươi",
+            "Bưởi",
+            "Chanh"
+        ],
+        "middleNotes": [
+            "Gỗ tuyết tùng",
+            "Oải hương"
+        ],
+        "baseNotes": [
+            "Vetiver",
+            "Xạ hương",
+            "Khoáng"
+        ],
+        "accords": [
+            [
+                "Cam chanh",
+                95,
+                "#f7c242"
+            ],
+            [
+                "Tươi",
+                85,
+                "#2ecc71"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ],
+            [
+                "Đất / Khoáng",
+                42,
+                "#616161"
+            ]
+        ],
+        "vibes": [
+            [
+                "Tươi",
+                "🍊"
+            ],
+            [
+                "Ban ngày",
+                "☀️"
+            ],
+            [
+                "Thanh lịch",
+                "🕴️"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Citrus",
+            "Tươi",
+            "Ban ngày"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3200000
+    },
+    {
+        "id": "guerlain-habit-rouge-parfum",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "Habit Rouge Parfum",
+        "subName": "Parfum",
+        "perfumer": "Jean-Paul Guerlain",
+        "gender": "nam",
+        "desc": "Bản Parfum của Habit Rouge. Cam, vani phương Đông và da thuộc. Cổ điển Pháp tối thượng.",
+        "verdict": "Cam, vani, da thuộc. Cổ điển Pháp tối thượng, rất gentleman.",
+        "short": "CỔ ĐIỂN PHÁP, VANI, DA THUỘC",
+        "sc": [
+            9.0,
+            9.0,
+            8.0,
+            7.5,
+            8.4
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            50,
+            30,
+            88,
+            85
+        ],
+        "dn": [
+            40,
+            85
+        ],
+        "topNotes": [
+            "Cam",
+            "Chanh",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Quế",
+            "Hoa cam",
+            "Hoa cẩm chướng"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Da thuộc",
+            "Hổ phách",
+            "Benzoin"
+        ],
+        "accords": [
+            [
+                "Phương Đông",
+                88,
+                "#8B0000"
+            ],
+            [
+                "Cam chanh",
+                75,
+                "#f7c242"
+            ],
+            [
+                "Da thuộc",
+                62,
+                "#5D4037"
+            ],
+            [
+                "Vani",
+                55,
+                "#f5deb3"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Gentleman",
+                "🕴️"
+            ],
+            [
+                "Phương Đông",
+                "🌙"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Kinh điển",
+            "Phương Đông",
+            "Gentleman"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "100ml"
+        ],
+        "price": 3800000
+    },
+    {
+        "id": "penhaligons-halfeti",
+        "brandSlug": "penhaligons",
+        "brand": "PENHALIGON'S",
+        "name": "Halfeti",
+        "subName": "Eau de Parfum",
+        "perfumer": "Christian Provenzano",
+        "gender": "unisex",
+        "desc": "Mùi niche hoa hồng đen với oud, gia vị và nhựa thông. Tối, bí ẩn và cực kỳ sang.",
+        "verdict": "Hoa hồng đen, oud, gia vị. Tối bí ẩn, niche Anh quốc cực sang.",
+        "short": "HOA HỒNG ĐEN, OUD, TỐI SANG",
+        "sc": [
+            9.3,
+            9.2,
+            8.5,
+            7.0,
+            8.5
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            35,
+            15,
+            92,
+            100
+        ],
+        "dn": [
+            20,
+            100
+        ],
+        "topNotes": [
+            "Bưởi",
+            "Cam bergamot",
+            "Gia vị"
+        ],
+        "middleNotes": [
+            "Hoa hồng",
+            "Oải hương",
+            "Nhục đậu khấu"
+        ],
+        "baseNotes": [
+            "Oud",
+            "Nhựa thông",
+            "Gỗ đàn hương",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Phương Đông",
+                95,
+                "#8B0000"
+            ],
+            [
+                "Hoa",
+                78,
+                "#e75480"
+            ],
+            [
+                "Oud",
+                72,
+                "#3E2723"
+            ],
+            [
+                "Gia vị ấm",
+                62,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Tối",
+                "🖤"
+            ],
+            [
+                "Bí ẩn",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Oud",
+            "Tối"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "100ml"
+        ],
+        "price": 7200000
+    },
+    {
+        "id": "chanel-antaeus",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "Antaeus",
+        "subName": "Eau de Toilette",
+        "perfumer": "Jacques Polge",
+        "gender": "nam",
+        "desc": "Mùi nam cổ điển da thuộc với hoắc hương, quế và rêu sồi. Quyền lực, trưởng thành và rất nam.",
+        "verdict": "Da thuộc, hoắc hương, quế. Cổ điển quyền lực, rất trưởng thành.",
+        "short": "DA THUỘC, QUYỀN LỰC, TRƯỞNG THÀNH",
+        "sc": [
+            8.8,
+            9.2,
+            7.5,
+            8.0,
+            8.4
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            40,
+            20,
+            90,
+            85
+        ],
+        "dn": [
+            30,
+            90
+        ],
+        "topNotes": [
+            "Quế",
+            "Hồ tiêu",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Cẩm chướng",
+            "Hoắc hương",
+            "Hoa hồng"
+        ],
+        "baseNotes": [
+            "Rêu sồi",
+            "Da thuộc",
+            "Castoreum",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Da thuộc",
+                92,
+                "#5D4037"
+            ],
+            [
+                "Gia vị ấm",
+                78,
+                "#e67e22"
+            ],
+            [
+                "Gỗ",
+                65,
+                "#8B4513"
+            ],
+            [
+                "Chypre",
+                52,
+                "#6D4C41"
+            ]
+        ],
+        "vibes": [
+            [
+                "Quyền lực",
+                "👑"
+            ],
+            [
+                "Trưởng thành",
+                "🖤"
+            ],
+            [
+                "Kinh điển",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Kinh điển",
+            "Da",
+            "Quyền lực"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3500000
+    },
+    {
+        "id": "davidoff-cool-water",
+        "brandSlug": "davidoff",
+        "brand": "DAVIDOFF",
+        "name": "Cool Water",
+        "subName": "Eau de Toilette",
+        "perfumer": "Pierre Bourdon",
+        "gender": "nam",
+        "desc": "Kinh điển aquatic nam với biển, bạc hà và oải hương. Tươi sạch, dễ dùng và giá rất tốt.",
+        "verdict": "Biển, bạc hà, oải hương. Kinh điển aquatic, giá tốt và rất dễ dùng.",
+        "short": "BIỂN KINH ĐIỂN, TƯƠI, GIÁ TỐT",
+        "sc": [
+            8.0,
+            7.5,
+            8.5,
+            9.5,
+            8.4
+        ],
+        "lon": 5,
+        "sil": 6,
+        "sea": [
+            88,
+            85,
+            55,
+            35
+        ],
+        "dn": [
+            88,
+            30
+        ],
+        "topNotes": [
+            "Bạc hà",
+            "Cam",
+            "Oải hương"
+        ],
+        "middleNotes": [
+            "Hoa nhài",
+            "Phong lữ",
+            "Hoa cam"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Xạ hương",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Tươi",
+                100,
+                "#2ecc71"
+            ],
+            [
+                "Biển / Aquatic",
+                88,
+                "#1abc9c"
+            ],
+            [
+                "Thơm thảo mộc",
+                58,
+                "#2c7a4b"
+            ],
+            [
+                "Gỗ",
+                35,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Ban ngày",
+                "☀️"
+            ],
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Giá tốt",
+                "💰"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Kinh điển",
+            "Aquatic",
+            "Giá tốt"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "40ml",
+            "75ml",
+            "125ml",
+            "200ml"
+        ],
+        "price": 850000
+    },
+    {
+        "id": "guy-laroche-drakkar-noir",
+        "brandSlug": "guy-laroche",
+        "brand": "GUY LAROCHE",
+        "name": "Drakkar Noir",
+        "subName": "Eau de Toilette",
+        "perfumer": "Pierre Wargnye",
+        "gender": "nam",
+        "desc": "Kinh điển fougère nam 80s với oải hương, rêu và gỗ. Mạnh, nam tính và rất có lực.",
+        "verdict": "Oải hương, rêu, gỗ. Kinh điển 80s mạnh, nam tính có lực.",
+        "short": "KINH ĐIỂN 80S, MẠNH, NAM TÍNH",
+        "sc": [
+            8.2,
+            8.5,
+            7.5,
+            9.2,
+            8.4
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            50,
+            30,
+            85,
+            80
+        ],
+        "dn": [
+            40,
+            82
+        ],
+        "topNotes": [
+            "Oải hương",
+            "Cam bergamot",
+            "Hồi"
+        ],
+        "middleNotes": [
+            "Bách xù",
+            "Rau mùi",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Rêu sồi",
+            "Da thuộc",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Thơm thảo mộc",
+                95,
+                "#2c7a4b"
+            ],
+            [
+                "Gỗ",
+                72,
+                "#8B4513"
+            ],
+            [
+                "Gia vị ấm",
+                55,
+                "#e67e22"
+            ],
+            [
+                "Xanh / Green",
+                42,
+                "#2c7a4b"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Mạnh",
+                "🔥"
+            ],
+            [
+                "Retro",
+                "🕰️"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Kinh điển",
+            "Fougère",
+            "Retro"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml",
+            "200ml"
+        ],
+        "price": 650000
+    },
+    {
+        "id": "memo-african-leather",
+        "brandSlug": "memo-paris",
+        "brand": "MEMO PARIS",
+        "name": "African Leather",
+        "subName": "Eau de Parfum",
+        "perfumer": "Fabrice Pellegrin",
+        "gender": "unisex",
+        "desc": "Mùi niche da thuộc với nghệ tây, oud và hoa. Da sang kiểu Châu Phi, ấm và rất cuốn.",
+        "verdict": "Da thuộc, nghệ tây, oud. Da niche sang kiểu Châu Phi, ấm và cuốn.",
+        "short": "DA THUỘC SANG, NGHỆ TÂY, OUD",
+        "sc": [
+            9.2,
+            9.2,
+            8.8,
+            7.0,
+            8.6
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            40,
+            20,
+            90,
+            100
+        ],
+        "dn": [
+            25,
+            100
+        ],
+        "topNotes": [
+            "Nghệ tây",
+            "Cam bergamot",
+            "Bạch đậu khấu"
+        ],
+        "middleNotes": [
+            "Da thuộc",
+            "Hoa phong lan",
+            "Phong lữ"
+        ],
+        "baseNotes": [
+            "Oud",
+            "Gỗ đàn hương",
+            "Hổ phách",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Da thuộc",
+                100,
+                "#5D4037"
+            ],
+            [
+                "Oud",
+                82,
+                "#3E2723"
+            ],
+            [
+                "Gia vị ấm",
+                68,
+                "#e67e22"
+            ],
+            [
+                "Hoa",
+                48,
+                "#e75480"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Xa hoa",
+                "👑"
+            ],
+            [
+                "Ấm",
+                "🍂"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Da",
+            "Oud"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml"
+        ],
+        "price": 7500000
+    },
+    {
+        "id": "guerlain-linstant-homme-edp",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "L'Instant de Guerlain pour Homme",
+        "subName": "Eau de Parfum",
+        "perfumer": "Mathilde Laurent",
+        "gender": "nam",
+        "desc": "Mùi nam cacao ngọt với cam, gừng và hoắc hương. Ấm, ngọt sang và rất nam tính.",
+        "verdict": "Cacao, cam, gừng. Ấm ngọt sang theo kiểu rất Guerlain.",
+        "short": "CACAO, CAM, ẤM NGỌT SANG",
+        "sc": [
+            9.0,
+            8.8,
+            8.5,
+            7.5,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            50,
+            30,
+            90,
+            88
+        ],
+        "dn": [
+            38,
+            90
+        ],
+        "topNotes": [
+            "Cam",
+            "Cam bergamot",
+            "Hồi"
+        ],
+        "middleNotes": [
+            "Cacao",
+            "Gừng",
+            "Quế"
+        ],
+        "baseNotes": [
+            "Hoắc hương",
+            "Gỗ đàn hương",
+            "Đậu tonka"
+        ],
+        "accords": [
+            [
+                "Gourmand",
+                88,
+                "#8B0000"
+            ],
+            [
+                "Gia vị ấm",
+                78,
+                "#e67e22"
+            ],
+            [
+                "Cam chanh",
+                62,
+                "#f7c242"
+            ],
+            [
+                "Gỗ",
+                48,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Sang trọng",
+                "✨"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ],
+            [
+                "Ấm",
+                "🍂"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Gourmand",
+            "Ấm",
+            "Sang"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3200000
+    }
+]
