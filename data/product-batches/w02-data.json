@@ -1,0 +1,1133 @@
+[
+    {
+        "id": "guerlain-angelique-noire",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "Angélique Noire",
+        "subName": "Eau de Parfum",
+        "perfumer": "Thierry Wasser",
+        "gender": "unisex",
+        "desc": "Mùi niche vani phương Đông với hoa bạch chỉ, vani và cam thảo. Ấm, sâu và ngọt sang.",
+        "verdict": "Vani phương Đông, hoa bạch chỉ. Niche Guerlain sang và sâu.",
+        "short": "VANI PHƯƠNG ĐÔNG, ẤM, SANG",
+        "sc": [
+            9.2,
+            9.0,
+            8.2,
+            7.0,
+            8.4
+        ],
+        "lon": 9,
+        "sil": 7,
+        "sea": [
+            40,
+            20,
+            90,
+            100
+        ],
+        "dn": [
+            25,
+            100
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Hoa bạch chỉ"
+        ],
+        "middleNotes": [
+            "Cam thảo",
+            "Gia vị"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Benzoin",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Phương Đông",
+                95,
+                "#8B0000"
+            ],
+            [
+                "Vani",
+                88,
+                "#f5deb3"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ],
+            [
+                "Gia vị ấm",
+                48,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Vani",
+            "Phương Đông"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml",
+            "125ml"
+        ],
+        "price": 7500000
+    },
+    {
+        "id": "dior-pure-poison",
+        "brandSlug": "dior",
+        "brand": "DIOR",
+        "name": "Pure Poison",
+        "subName": "Eau de Parfum",
+        "perfumer": "Carlos Benaïm, Olivier Polge & Dominique Ropion",
+        "gender": "nu",
+        "desc": "Mùi nữ hoa trắng sang với hoa nhài, cam hoa và gỗ đàn hương. Tinh khiết, sang và quyến rũ kín đáo.",
+        "verdict": "Hoa trắng tinh khiết, cam hoa, gỗ đàn hương. Sang và quyến rũ kín đáo.",
+        "short": "HOA TRẮNG TINH KHIẾT, SANG",
+        "sc": [
+            8.8,
+            8.2,
+            8.8,
+            8.0,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            75,
+            55,
+            80,
+            65
+        ],
+        "dn": [
+            65,
+            75
+        ],
+        "topNotes": [
+            "Cam ngọt",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Hoa nhài",
+            "Hoa cam",
+            "Hoa gardenia"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Xạ hương trắng",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Hoa trắng",
+                95,
+                "#e75480"
+            ],
+            [
+                "Gỗ",
+                65,
+                "#8B4513"
+            ],
+            [
+                "Tươi",
+                55,
+                "#2ecc71"
+            ],
+            [
+                "Ngọt",
+                38,
+                "#FF6D00"
+            ]
+        ],
+        "vibes": [
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Nữ tính",
+                "💐"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Hoa trắng",
+            "Thanh lịch",
+            "Sang"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3200000
+    },
+    {
+        "id": "ysl-opium-edt",
+        "brandSlug": "ysl",
+        "brand": "YVES SAINT LAURENT",
+        "name": "Opium",
+        "subName": "Eau de Toilette",
+        "perfumer": "Jean-Louis Sieuzac & Jean Amic",
+        "gender": "nu",
+        "desc": "Huyền thoại nữ phương Đông với gia vị, hoa cẩm chướng và trầm hương. Quyền lực và bí ẩn.",
+        "verdict": "Gia vị phương Đông, cẩm chướng, trầm hương. Huyền thoại nữ quyền lực.",
+        "short": "PHƯƠNG ĐÔNG, GIA VỊ, QUYỀN LỰC",
+        "sc": [
+            9.0,
+            9.5,
+            8.0,
+            8.0,
+            8.6
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            35,
+            15,
+            90,
+            100
+        ],
+        "dn": [
+            20,
+            100
+        ],
+        "topNotes": [
+            "Quả mận",
+            "Rau mùi",
+            "Tiêu"
+        ],
+        "middleNotes": [
+            "Hoa cẩm chướng",
+            "Quế",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Trầm hương",
+            "Xạ hương",
+            "Vani",
+            "Benzoin"
+        ],
+        "accords": [
+            [
+                "Gia vị ấm",
+                100,
+                "#e67e22"
+            ],
+            [
+                "Phương Đông",
+                92,
+                "#8B0000"
+            ],
+            [
+                "Hoa",
+                62,
+                "#e75480"
+            ],
+            [
+                "Hổ phách",
+                55,
+                "#d4a017"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Quyền lực",
+                "🔥"
+            ],
+            [
+                "Bí ẩn",
+                "🖤"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Kinh điển",
+            "Phương Đông",
+            "Gia vị"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "90ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "ysl-black-opium-le-parfum",
+        "brandSlug": "ysl",
+        "brand": "YVES SAINT LAURENT",
+        "name": "Black Opium Le Parfum",
+        "subName": "Le Parfum",
+        "perfumer": "Nathalie Lorson",
+        "gender": "nu",
+        "desc": "Phiên bản đậm nhất Black Opium. Cà phê, vani sữa và hoa cam. Sâu hơn, ngọt hơn, sang hơn.",
+        "verdict": "Cà phê đậm, vani sữa. Bản nâng cấp mạnh nhất dòng Black Opium.",
+        "short": "CÀ PHÊ ĐẬM, VANI SỮA, SANG",
+        "sc": [
+            9.0,
+            8.5,
+            9.2,
+            7.8,
+            8.6
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            45,
+            25,
+            92,
+            100
+        ],
+        "dn": [
+            30,
+            100
+        ],
+        "topNotes": [
+            "Cà phê",
+            "Hoa cam"
+        ],
+        "middleNotes": [
+            "Vani sữa",
+            "Hoa nhài",
+            "Hổ phách"
+        ],
+        "baseNotes": [
+            "Xạ hương",
+            "Gỗ tuyết tùng",
+            "Benzoin"
+        ],
+        "accords": [
+            [
+                "Cà phê",
+                95,
+                "#3e1f00"
+            ],
+            [
+                "Ngọt",
+                85,
+                "#FF6D00"
+            ],
+            [
+                "Vani",
+                78,
+                "#f5deb3"
+            ],
+            [
+                "Hoa trắng",
+                48,
+                "#e75480"
+            ]
+        ],
+        "vibes": [
+            [
+                "Quyến rũ",
+                "✨"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ],
+            [
+                "Sang trọng",
+                "💎"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Cà phê",
+            "Buổi tối",
+            "Sang"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "90ml"
+        ],
+        "price": 3500000
+    },
+    {
+        "id": "chloe-edp",
+        "brandSlug": "chloe",
+        "brand": "CHLOÉ",
+        "name": "Chloé Eau de Parfum",
+        "subName": "Eau de Parfum",
+        "perfumer": "Amandine Clerc-Marie, Michel Almairac",
+        "gender": "nu",
+        "desc": "Mùi hoa hồng nữ tính với mẫu đơn, lê và gỗ tuyết tùng. Thanh lịch, nhẹ nhàng và rất dễ yêu.",
+        "verdict": "Hoa hồng, lê, gỗ tuyết tùng. Nữ tính thanh lịch, dễ yêu và dễ dùng.",
+        "short": "HOA HỒNG NHẸ, THANH LỊCH, DỄ YÊU",
+        "sc": [
+            8.8,
+            7.8,
+            9.0,
+            8.5,
+            8.5
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            85,
+            68,
+            78,
+            55
+        ],
+        "dn": [
+            78,
+            52
+        ],
+        "topNotes": [
+            "Lê",
+            "Hoa mẫu đơn"
+        ],
+        "middleNotes": [
+            "Hoa hồng",
+            "Hoa huệ",
+            "Hoa mộc lan"
+        ],
+        "baseNotes": [
+            "Gỗ tuyết tùng",
+            "Xạ hương",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Hoa",
+                95,
+                "#e75480"
+            ],
+            [
+                "Tươi",
+                68,
+                "#2ecc71"
+            ],
+            [
+                "Gỗ",
+                48,
+                "#8B4513"
+            ],
+            [
+                "Phấn",
+                35,
+                "#9b59b6"
+            ]
+        ],
+        "vibes": [
+            [
+                "Nữ tính",
+                "💐"
+            ],
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Hằng ngày",
+                "🧴"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Hoa",
+            "Thanh lịch",
+            "Dễ dùng"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "75ml"
+        ],
+        "price": 2600000
+    },
+    {
+        "id": "guerlain-insolence-edp",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "Insolence",
+        "subName": "Eau de Parfum",
+        "perfumer": "Maurice Roucel",
+        "gender": "nu",
+        "desc": "Mùi nữ violet mạnh với hoa hồng, iris và quả mọng. Nổi loạn, cá tính và rất đặc biệt.",
+        "verdict": "Violet mạnh, hoa hồng, iris. Cá tính nổi loạn và rất đặc biệt.",
+        "short": "VIOLET MẠNH, NỔI LOẠN, CÁ TÍNH",
+        "sc": [
+            8.8,
+            9.0,
+            8.2,
+            8.0,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 8,
+        "sea": [
+            55,
+            30,
+            85,
+            90
+        ],
+        "dn": [
+            40,
+            88
+        ],
+        "topNotes": [
+            "Quả mọng tím",
+            "Violet"
+        ],
+        "middleNotes": [
+            "Hoa hồng",
+            "Iris",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Đậu tonka",
+            "Xạ hương",
+            "Gỗ tuyết tùng"
+        ],
+        "accords": [
+            [
+                "Violet",
+                95,
+                "#9b59b6"
+            ],
+            [
+                "Hoa",
+                78,
+                "#e75480"
+            ],
+            [
+                "Phấn",
+                55,
+                "#9b59b6"
+            ],
+            [
+                "Ngọt",
+                42,
+                "#FF6D00"
+            ]
+        ],
+        "vibes": [
+            [
+                "Cá tính",
+                "🔥"
+            ],
+            [
+                "Nổi loạn",
+                "✨"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Violet",
+            "Cá tính",
+            "Nổi loạn"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "100ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "guerlain-mon-guerlain-intense",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "Mon Guerlain Intense",
+        "subName": "Eau de Parfum Intense",
+        "perfumer": "Thierry Wasser",
+        "gender": "nu",
+        "desc": "Phiên bản đậm của Mon Guerlain. Oải hương, vani và hoa nhài mạnh hơn. Ấm, sâu, nữ tính hơn.",
+        "verdict": "Mon Guerlain bản đậm hơn. Oải hương, vani sâu. Ấm và sang hơn bản gốc.",
+        "short": "BẢN ĐẬM, VANI SÂU, SANG",
+        "sc": [
+            8.8,
+            8.0,
+            8.8,
+            8.0,
+            8.4
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            55,
+            30,
+            90,
+            90
+        ],
+        "dn": [
+            40,
+            90
+        ],
+        "topNotes": [
+            "Oải hương",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Hoa nhài",
+            "Hoa hồng",
+            "Iris"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Gỗ đàn hương",
+            "Coumarin",
+            "Benzoin"
+        ],
+        "accords": [
+            [
+                "Hoa",
+                82,
+                "#e75480"
+            ],
+            [
+                "Gỗ",
+                72,
+                "#8B4513"
+            ],
+            [
+                "Ngọt",
+                65,
+                "#FF6D00"
+            ],
+            [
+                "Thơm thảo mộc",
+                48,
+                "#2c7a4b"
+            ]
+        ],
+        "vibes": [
+            [
+                "Sang trọng",
+                "✨"
+            ],
+            [
+                "Nữ tính",
+                "💐"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Hoa",
+            "Ấm",
+            "Sang trọng"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3500000
+    },
+    {
+        "id": "guerlain-samsara-edp",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "Samsara",
+        "subName": "Eau de Parfum",
+        "perfumer": "Jean-Paul Guerlain",
+        "gender": "nu",
+        "desc": "Mùi nữ gỗ đàn hương với hoa nhài, ylang và vani. Phương Đông cổ điển, ấm và đầy chiều sâu.",
+        "verdict": "Gỗ đàn hương, hoa nhài, vani. Phương Đông cổ điển, ấm và sâu.",
+        "short": "GỖ ĐÀN HƯƠNG, ẤM, CỔ ĐIỂN",
+        "sc": [
+            9.0,
+            9.0,
+            8.0,
+            7.5,
+            8.4
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            45,
+            25,
+            88,
+            92
+        ],
+        "dn": [
+            30,
+            90
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Ylang-ylang"
+        ],
+        "middleNotes": [
+            "Hoa nhài",
+            "Hoa narcissus",
+            "Hoa hồng"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Vani",
+            "Đậu tonka",
+            "Iris"
+        ],
+        "accords": [
+            [
+                "Gỗ",
+                95,
+                "#8B4513"
+            ],
+            [
+                "Phương Đông",
+                82,
+                "#8B0000"
+            ],
+            [
+                "Hoa",
+                65,
+                "#e75480"
+            ],
+            [
+                "Ngọt",
+                48,
+                "#FF6D00"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Phương Đông",
+                "🌙"
+            ],
+            [
+                "Ấm",
+                "🍂"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Gỗ",
+            "Phương Đông",
+            "Kinh điển"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3200000
+    },
+    {
+        "id": "dior-dune-edt",
+        "brandSlug": "dior",
+        "brand": "DIOR",
+        "name": "Dune",
+        "subName": "Eau de Toilette",
+        "perfumer": "Jean-Louis Sieuzac",
+        "gender": "nu",
+        "desc": "Mùi nữ biển cát với oải hương, hổ phách và hoa lily. Ấm, mềm và gợi cảm giác sa mạc ven biển.",
+        "verdict": "Biển cát, hổ phách, lily. Ấm mềm, gợi sa mạc ven biển, rất đặc biệt.",
+        "short": "BIỂN CÁT, ẤM, RẤT ĐẶC BIỆT",
+        "sc": [
+            8.8,
+            9.2,
+            7.8,
+            8.0,
+            8.5
+        ],
+        "lon": 7,
+        "sil": 6,
+        "sea": [
+            60,
+            45,
+            82,
+            78
+        ],
+        "dn": [
+            55,
+            72
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Quýt",
+            "Bạch đậu khấu"
+        ],
+        "middleNotes": [
+            "Hoa lily",
+            "Hoa hồng",
+            "Mẫu đơn"
+        ],
+        "baseNotes": [
+            "Hổ phách",
+            "Gỗ đàn hương",
+            "Vani",
+            "Benzoin"
+        ],
+        "accords": [
+            [
+                "Hổ phách",
+                88,
+                "#d4a017"
+            ],
+            [
+                "Hoa",
+                72,
+                "#e75480"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ],
+            [
+                "Tươi",
+                42,
+                "#2ecc71"
+            ]
+        ],
+        "vibes": [
+            [
+                "Đặc biệt",
+                "✨"
+            ],
+            [
+                "Ấm",
+                "🍂"
+            ],
+            [
+                "Kinh điển",
+                "👑"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Kinh điển",
+            "Hổ phách",
+            "Đặc biệt"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "byredo-bal-dafrique",
+        "brandSlug": "byredo",
+        "brand": "BYREDO",
+        "name": "Bal d'Afrique",
+        "subName": "Eau de Parfum",
+        "perfumer": "Jérôme Epinette",
+        "gender": "unisex",
+        "desc": "Mùi niche citrus-gỗ lấy cảm hứng Châu Phi. Cam bergamot, hoa violet và vetiver. Tươi và nghệ thuật.",
+        "verdict": "Cam bergamot, violet, vetiver. Tươi nghệ thuật, unisex và rất có gu.",
+        "short": "TƯƠI NGHỆ THUẬT, UNISEX, CÓ GU",
+        "sc": [
+            9.0,
+            9.2,
+            8.5,
+            7.0,
+            8.4
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            82,
+            68,
+            75,
+            55
+        ],
+        "dn": [
+            75,
+            55
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Chanh",
+            "Hoa bạch chỉ"
+        ],
+        "middleNotes": [
+            "Hoa violet",
+            "Hoa nhài",
+            "Xạ đen"
+        ],
+        "baseNotes": [
+            "Vetiver",
+            "Gỗ tuyết tùng",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Tươi",
+                88,
+                "#2ecc71"
+            ],
+            [
+                "Cam chanh",
+                78,
+                "#f7c242"
+            ],
+            [
+                "Gỗ",
+                62,
+                "#8B4513"
+            ],
+            [
+                "Hoa",
+                48,
+                "#e75480"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Nghệ thuật",
+                "✨"
+            ],
+            [
+                "Phi giới tính",
+                "🌍"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Tươi",
+            "Nghệ thuật"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 5500000
+    },
+    {
+        "id": "guerlain-mitsouko-edp",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "Mitsouko",
+        "subName": "Eau de Parfum",
+        "perfumer": "Jacques Guerlain",
+        "gender": "nu",
+        "desc": "Huyền thoại chypre nữ với đào, rêu sồi và gỗ. Phức tạp, sang và có chiều sâu phi thường.",
+        "verdict": "Chypre huyền thoại, đào, rêu sồi. Phức tạp nhưng đẹp phi thường.",
+        "short": "CHYPRE HUYỀN THOẠI, PHỨC TẠP, ĐẸP",
+        "sc": [
+            9.5,
+            9.8,
+            7.5,
+            7.5,
+            8.6
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            55,
+            30,
+            88,
+            82
+        ],
+        "dn": [
+            45,
+            82
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Chanh"
+        ],
+        "middleNotes": [
+            "Đào",
+            "Hoa hồng",
+            "Hoa nhài",
+            "Hoa lily"
+        ],
+        "baseNotes": [
+            "Rêu sồi",
+            "Gỗ đàn hương",
+            "Vetiver",
+            "Gia vị"
+        ],
+        "accords": [
+            [
+                "Chypre",
+                100,
+                "#6D4C41"
+            ],
+            [
+                "Trái cây",
+                72,
+                "#f39c12"
+            ],
+            [
+                "Gỗ",
+                65,
+                "#8B4513"
+            ],
+            [
+                "Hoa",
+                55,
+                "#e75480"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Phức tạp",
+                "✨"
+            ],
+            [
+                "Niche",
+                "💎"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Kinh điển",
+            "Chypre",
+            "Phức tạp"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "75ml"
+        ],
+        "price": 3800000
+    },
+    {
+        "id": "guerlain-shalimar-lessence",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "Shalimar L'Essence",
+        "subName": "Eau de Parfum",
+        "perfumer": "Thierry Wasser",
+        "gender": "nu",
+        "desc": "Phiên bản hiện đại của Shalimar với vani kem, trầm hương và hoa hồng. Sang, mềm và đẹp tuyệt.",
+        "verdict": "Vani kem, trầm hương, hoa hồng. Shalimar bản hiện đại, sang và mềm hơn.",
+        "short": "VANI KEM, SANG, HIỆN ĐẠI",
+        "sc": [
+            9.0,
+            8.8,
+            8.5,
+            7.5,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            50,
+            25,
+            88,
+            95
+        ],
+        "dn": [
+            30,
+            95
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Tiêu hồng"
+        ],
+        "middleNotes": [
+            "Hoa hồng",
+            "Hoa nhài",
+            "Iris"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Trầm hương",
+            "Benzoin",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Phương Đông",
+                88,
+                "#8B0000"
+            ],
+            [
+                "Vani",
+                82,
+                "#f5deb3"
+            ],
+            [
+                "Hoa",
+                65,
+                "#e75480"
+            ],
+            [
+                "Gỗ",
+                48,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Sang trọng",
+                "💎"
+            ],
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Phương Đông",
+            "Vani",
+            "Sang trọng"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml"
+        ],
+        "price": 4200000
+    }
+]

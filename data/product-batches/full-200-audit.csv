@@ -1,0 +1,201 @@
+batch,num,brand,name,url,idGuess,existingId,status
+M01,1,"Creed","Aventus","/perfume/Creed/Aventus-9828.html","creed-aventus","creed-aventus",OK_EXISTING
+M01,2,"Dior","Dior Homme Intense","/perfume/Dior/Dior-Homme-Intense-2011-13016.html","dior-dior-homme-intense","dior-homme-intense",OK_EXISTING
+M01,3,"Hermes","Terre d Hermes","/perfume/Hermes/Terre-d-Hermes-17.html","hermes-terre-d-hermes","",NEW_WRITE
+M01,4,"Chanel","Bleu de Chanel Eau de Parfum","/perfume/Chanel/Bleu-de-Chanel-Eau-de-Parfum-25967.html","chanel-bleu-de-chanel-eau-de-parfum","bleu-de-chanel-parfum",OK_EXISTING
+M01,5,"Yves Saint Laurent","La Nuit de l Homme","/perfume/Yves-Saint-Laurent/La-Nuit-de-l-Homme-5521.html","yves-saint-laurent-la-nuit-de-l-homme","",NEW_WRITE
+M01,6,"Xerjoff","XJ 1861 Naxos","/perfume/Xerjoff/XJ-1861-Naxos-30529.html","xerjoff-xj-1861-naxos","xerjoff-erba-pura",OK_EXISTING
+M01,7,"Louis Vuitton","Imagination","/perfume/Louis-Vuitton/Imagination-67370.html","louis-vuitton-imagination","louis-vuitton-imagination",OK_EXISTING
+M01,8,"Dior","Dior Homme Parfum","/perfume/Dior/Dior-Homme-Parfum-27417.html","dior-dior-homme-parfum","dior-homme-intense",OK_EXISTING
+M01,9,"Parfums de Marly","Layton","/perfume/Parfums-de-Marly/Layton-39314.html","parfums-de-marly-layton","parfums-de-marly-delina",OK_EXISTING
+M01,10,"Jean Paul Gaultier","Le Male Le Parfum","/perfume/Jean-Paul-Gaultier/Le-Male-Le-Parfum-61856.html","jean-paul-gaultier-le-male-le-parfum","",NEW_WRITE
+M01,11,"Amouage","Reflection Man","/perfume/Amouage/Reflection-Man-920.html","amouage-reflection-man","amouage-reflection-man",OK_EXISTING
+M01,12,"Giorgio Armani","Acqua di Gio Profumo","/perfume/Giorgio-Armani/Acqua-di-Gio-Profumo-29727.html","giorgio-armani-acqua-di-gio-profumo","acqua-di-gio-profondo",OK_EXISTING
+M01,13,"Prada","Prada L Homme","/perfume/Prada/Prada-L-Homme-39029.html","prada-prada-l-homme","",NEW_WRITE
+M01,14,"Dior","Sauvage Elixir","/perfume/Dior/Sauvage-Elixir-68415.html","dior-sauvage-elixir","sauvage-elixir",OK_EXISTING
+M01,15,"Dior","Fahrenheit","/perfume/Dior/Fahrenheit-228.html","dior-fahrenheit","dior-fahrenheit",OK_EXISTING
+M01,16,"Dolce Gabbana","The One for Men Eau de Parfum","/perfume/Dolce-Gabbana/The-One-for-Men-Eau-de-Parfum-31909.html","dolce-gabbana-the-one-for-men-eau-de-parfum","dolce-gabbana-the-one-edp",OK_EXISTING
+M01,17,"Chanel","Bleu de Chanel Parfum","/perfume/Chanel/Bleu-de-Chanel-Parfum-49912.html","chanel-bleu-de-chanel-parfum","bleu-de-chanel-parfum",OK_EXISTING
+M01,18,"Tom Ford","Ombre Leather","/perfume/Tom-Ford/Ombre-Leather-2018-50239.html","tom-ford-ombre-leather","tom-ford-noir-extreme",OK_EXISTING
+M01,19,"Tom Ford","Oud Wood","/perfume/Tom-Ford/Oud-Wood-1826.html","tom-ford-oud-wood","tom-ford-noir-extreme",OK_EXISTING
+M01,20,"Guerlain","L Homme Ideal Eau de Parfum","/perfume/Guerlain/L-Homme-Ideal-Eau-de-Parfum-37735.html","guerlain-l-homme-ideal-eau-de-parfum","",NEW_WRITE
+W01,1,"Dior","Hypnotic Poison","/perfume/Dior/Hypnotic-Poison-219.html","dior-hypnotic-poison","",NEW_WRITE
+W01,2,"Guerlain","Shalimar Eau de Parfum","/perfume/Guerlain/Shalimar-Eau-de-Parfum-53.html","guerlain-shalimar-eau-de-parfum","",NEW_WRITE
+W01,3,"Chanel","Coco Mademoiselle","/perfume/Chanel/Coco-Mademoiselle-611.html","chanel-coco-mademoiselle","chanel-coco-mademoiselle-edp",OK_EXISTING
+W01,4,"Guerlain","Mon Guerlain","/perfume/Guerlain/Mon-Guerlain-43297.html","guerlain-mon-guerlain","",NEW_WRITE
+W01,5,"Mugler","Alien","/perfume/Mugler/Alien-707.html","mugler-alien","mugler-alien-edp",OK_EXISTING
+W01,6,"Parfums de Marly","Delina","/perfume/Parfums-de-Marly/Delina-43871.html","parfums-de-marly-delina","parfums-de-marly-delina",OK_EXISTING
+W01,7,"Dior","Dior Addict","/perfume/Dior/Dior-Addict-215.html","dior-dior-addict","",NEW_WRITE
+W01,8,"Yves Saint Laurent","Libre Le Parfum","/perfume/Yves-Saint-Laurent/Libre-Le-Parfum-75676.html","yves-saint-laurent-libre-le-parfum","",NEW_WRITE
+W01,9,"Givenchy","L Interdit Eau de Parfum Rouge","/perfume/Givenchy/L-Interdit-Eau-de-Parfum-Rouge-68404.html","givenchy-l-interdit-eau-de-parfum-rouge","givenchy-gentleman-reserve-privee",OK_EXISTING
+W01,10,"Frederic Malle","Portrait of a Lady","/perfume/Frederic-Malle/Portrait-of-a-Lady-10464.html","frederic-malle-portrait-of-a-lady","",NEW_WRITE
+W01,11,"Mugler","Angel","/perfume/Mugler/Angel-704.html","mugler-angel","mugler-alien-edp",OK_EXISTING
+W01,12,"Burberry","Goddess","/perfume/Burberry/Goddess-83483.html","burberry-goddess","burberry-her-edp",OK_EXISTING
+W01,13,"Chanel","Chanel No 5 Parfum","/perfume/Chanel/Chanel-No-5-Parfum-28711.html","chanel-chanel-no-5-parfum","chanel-coco-mademoiselle-edp",OK_EXISTING
+W01,14,"By Kilian","Love Don t Be Shy","/perfume/By-Kilian/Love-Don-t-Be-Shy-4322.html","by-kilian-love-don-t-be-shy","",NEW_WRITE
+W01,15,"Narciso Rodriguez","Narciso Rodriguez For Her","/perfume/Narciso-Rodriguez/Narciso-Rodriguez-For-Her-209.html","narciso-rodriguez-narciso-rodriguez-for-her","narciso-rodriguez-for-her-edp",OK_EXISTING
+W01,16,"Dior","J adore","/perfume/Dior/J-adore-210.html","dior-j-adore","",NEW_WRITE
+W01,17,"Guerlain","Shalimar Parfum","/perfume/Guerlain/Shalimar-Parfum-33557.html","guerlain-shalimar-parfum","",NEW_WRITE
+W01,18,"Dior","Poison","/perfume/Dior/Poison-218.html","dior-poison","",NEW_WRITE
+W01,19,"Versace","Crystal Noir Eau de Toilette","/perfume/Versace/Crystal-Noir-Eau-de-Toilette-67502.html","versace-crystal-noir-eau-de-toilette","versace-eros-edp",OK_EXISTING
+W01,20,"Dolce Gabbana","Light Blue","/perfume/Dolce-Gabbana/Light-Blue-485.html","dolce-gabbana-light-blue","dolce-gabbana-the-one-edp",OK_EXISTING
+M02,21,"Chanel","Allure Homme Sport Eau Extreme","/perfume/Chanel/Allure-Homme-Sport-Eau-Extreme-14669.html","chanel-allure-homme-sport-eau-extreme","",NEW_WRITE
+M02,22,"Viktor Rolf","Spicebomb Extreme","/perfume/Viktor-Rolf/Spicebomb-Extreme-30499.html","viktor-rolf-spicebomb-extreme","viktor-rolf-spicebomb-extreme",OK_EXISTING
+M02,23,"Tom Ford","Tobacco Vanille","/perfume/Tom-Ford/Tobacco-Vanille-1825.html","tom-ford-tobacco-vanille","tom-ford-noir-extreme",OK_EXISTING
+M02,24,"Givenchy","Gentleman Eau de Parfum Reserve Privee","/perfume/Givenchy/Gentleman-Eau-de-Parfum-Reserve-Privee-71272.html","givenchy-gentleman-eau-de-parfum-reserve-privee","givenchy-gentleman-reserve-privee",OK_EXISTING
+M02,25,"Nishane","Hacivat","/perfume/Nishane/Hacivat-44174.html","nishane-hacivat","",NEW_WRITE
+M02,26,"Chanel","Egoiste Platinum","/perfume/Chanel/Egoiste-Platinum-614.html","chanel-egoiste-platinum","bleu-chanel-edp",OK_EXISTING
+M02,27,"Maison Francis Kurkdjian","Grand Soir","/perfume/Maison-Francis-Kurkdjian/Grand-Soir-40816.html","maison-francis-kurkdjian-grand-soir","maison-francis-kurkdjian-gentle-fluidity-gold",OK_EXISTING
+M02,28,"Giorgio Armani","Acqua di Gio","/perfume/Giorgio-Armani/Acqua-di-Gio-410.html","giorgio-armani-acqua-di-gio","acqua-di-gio-profondo",OK_EXISTING
+M02,29,"Bvlgari","Tygar","/perfume/Bvlgari/Tygar-41222.html","bvlgari-tygar","bvlgari-man-in-black",OK_EXISTING
+M02,30,"Prada","Prada L Homme Intense","/perfume/Prada/Prada-L-Homme-Intense-45396.html","prada-prada-l-homme-intense","",NEW_WRITE
+M02,31,"Hugo Boss","Bottled Absolu","/perfume/Hugo-Boss/Bottled-Absolu-96246.html","hugo-boss-bottled-absolu","boss-bottled-edp",OK_EXISTING
+M02,32,"Sospiro Perfumes","Vibrato","/perfume/Sospiro-Perfumes/Vibrato-75930.html","sospiro-perfumes-vibrato","",NEW_WRITE
+M02,33,"Issey Miyake","L Eau d Issey Pour Homme","/perfume/Issey-Miyake/L-Eau-d-Issey-Pour-Homme-721.html","issey-miyake-l-eau-d-issey-pour-homme","issey-miyake-leau-dissey-pour-homme",OK_EXISTING
+M02,34,"Hermes","Terre d Hermes Parfum","/perfume/Hermes/Terre-d-Hermes-Parfum-8282.html","hermes-terre-d-hermes-parfum","",NEW_WRITE
+M02,35,"Tom Ford","Noir Extreme","/perfume/Tom-Ford/Noir-Extreme-29675.html","tom-ford-noir-extreme","tom-ford-noir-extreme",OK_EXISTING
+M02,36,"Creed","Green Irish Tweed","/perfume/Creed/Green-Irish-Tweed-474.html","creed-green-irish-tweed","",NEW_WRITE
+M02,37,"Dior","Eau Sauvage","/perfume/Dior/Eau-Sauvage-231.html","dior-eau-sauvage","",NEW_WRITE
+M02,38,"Marc Antoine Barrois","Ganymede","/perfume/Marc-Antoine-Barrois/Ganymede-54720.html","marc-antoine-barrois-ganymede","",NEW_WRITE
+M02,39,"Parfums de Marly","Althair","/perfume/Parfums-de-Marly/Althair-84109.html","parfums-de-marly-althair","parfums-de-marly-delina",OK_EXISTING
+M02,40,"Yves Saint Laurent","Y Eau de Parfum","/perfume/Yves-Saint-Laurent/Y-Eau-de-Parfum-50757.html","yves-saint-laurent-y-eau-de-parfum","",NEW_WRITE
+W02,21,"Guerlain","Angelique Noire","/perfume/Guerlain/Angelique-Noire-1021.html","guerlain-angelique-noire","",NEW_WRITE
+W02,22,"Chanel","Coco Eau de Parfum","/perfume/Chanel/Coco-Eau-de-Parfum-609.html","chanel-coco-eau-de-parfum","chanel-coco-mademoiselle-edp",OK_EXISTING
+W02,23,"Dior","Pure Poison","/perfume/Dior/Pure-Poison-214.html","dior-pure-poison","",NEW_WRITE
+W02,24,"Yves Saint Laurent","Opium","/perfume/Yves-Saint-Laurent/Opium-1977-93.html","yves-saint-laurent-opium","",NEW_WRITE
+W02,25,"Chanel","Chance Eau Tendre","/perfume/Chanel/Chance-Eau-Tendre-8069.html","chanel-chance-eau-tendre","chanel-coco-mademoiselle-edp",OK_EXISTING
+W02,26,"Chanel","Coco Noir","/perfume/Chanel/Coco-Noir-15963.html","chanel-coco-noir","chanel-coco-mademoiselle-edp",OK_EXISTING
+W02,27,"Amouage","Guidance","/perfume/Amouage/Guidance-78656.html","amouage-guidance","amouage-reflection-man",OK_EXISTING
+W02,28,"Yves Saint Laurent","Black Opium Le Parfum","/perfume/Yves-Saint-Laurent/Black-Opium-Le-Parfum-78427.html","yves-saint-laurent-black-opium-le-parfum","",NEW_WRITE
+W02,29,"Chloe","Chloe Eau de Parfum","/perfume/Chloe/Chloe-Eau-de-Parfum-1733.html","chloe-chloe-eau-de-parfum","",NEW_WRITE
+W02,30,"Guerlain","Insolence Eau de Parfum","/perfume/Guerlain/Insolence-Eau-de-Parfum-67537.html","guerlain-insolence-eau-de-parfum","",NEW_WRITE
+W02,31,"Guerlain","Mon Guerlain Eau de Parfum Intense","/perfume/Guerlain/Mon-Guerlain-Eau-de-Parfum-Intense-55997.html","guerlain-mon-guerlain-eau-de-parfum-intense","",NEW_WRITE
+W02,32,"Guerlain","Samsara Eau de Parfum","/perfume/Guerlain/Samsara-Eau-de-Parfum-55.html","guerlain-samsara-eau-de-parfum","",NEW_WRITE
+W02,33,"Dior","Dune","/perfume/Dior/Dune-221.html","dior-dune","",NEW_WRITE
+W02,34,"Tom Ford","Black Orchid","/perfume/Tom-Ford/Black-Orchid-1018.html","tom-ford-black-orchid","tom-ford-noir-extreme",OK_EXISTING
+W02,35,"Chanel","Chanel No 5 Eau de Parfum","/perfume/Chanel/Chanel-No-5-Eau-de-Parfum-40069.html","chanel-chanel-no-5-eau-de-parfum","chanel-coco-mademoiselle-edp",OK_EXISTING
+W02,36,"Parfums de Marly","Valaya","/perfume/Parfums-de-Marly/Valaya-78574.html","parfums-de-marly-valaya","parfums-de-marly-delina",OK_EXISTING
+W02,37,"Byredo","Bal d Afrique","/perfume/Byredo/Bal-d-Afrique-6458.html","byredo-bal-d-afrique","",NEW_WRITE
+W02,38,"Guerlain","Mitsouko Eau de Parfum","/perfume/Guerlain/Mitsouko-Eau-de-Parfum-25316.html","guerlain-mitsouko-eau-de-parfum","",NEW_WRITE
+W02,39,"Guerlain","Shalimar L Essence","/perfume/Guerlain/Shalimar-L-Essence-113241.html","guerlain-shalimar-l-essence","",NEW_WRITE
+W02,40,"Chanel","Chanel No 19 Eau de Parfum","/perfume/Chanel/Chanel-No-19-Eau-de-Parfum-12345.html","chanel-chanel-no-19-eau-de-parfum","chanel-coco-mademoiselle-edp",OK_EXISTING
+M03,41,"Lalique","Encre Noire","/perfume/Lalique/Encre-Noire-1834.html","lalique-encre-noire","",NEW_WRITE
+M03,42,"Jean Paul Gaultier","Le Male Elixir","/perfume/Jean-Paul-Gaultier/Le-Male-Elixir-81642.html","jean-paul-gaultier-le-male-elixir","",NEW_WRITE
+M03,43,"Jean Paul Gaultier","Le Male","/perfume/Jean-Paul-Gaultier/Le-Male-430.html","jean-paul-gaultier-le-male","",NEW_WRITE
+M03,44,"By Kilian","Angels Share","/perfume/By-Kilian/Angels-Share-62615.html","by-kilian-angels-share","kilian-angels-share",OK_EXISTING
+M03,45,"Creed","Absolu Aventus","/perfume/Creed/Absolu-Aventus-2023-84112.html","creed-absolu-aventus","",NEW_WRITE
+M03,46,"Parfums de Marly","Herod","/perfume/Parfums-de-Marly/Herod-16939.html","parfums-de-marly-herod","parfums-de-marly-delina",OK_EXISTING
+M03,47,"Nishane","Ani","/perfume/Nishane/Ani-54785.html","nishane-ani","",NEW_WRITE
+M03,48,"Chanel","Allure Homme Sport","/perfume/Chanel/Allure-Homme-Sport-607.html","chanel-allure-homme-sport","",NEW_WRITE
+M03,49,"Essential Parfums","Bois Imperial","/perfume/Essential-Parfums/Bois-Imperial-64338.html","essential-parfums-bois-imperial","parfums-de-marly-delina",OK_EXISTING
+M03,50,"Dior","Eau Sauvage Parfum","/perfume/Dior/Eau-Sauvage-Parfum-2017-43977.html","dior-eau-sauvage-parfum","sauvage-elixir",OK_EXISTING
+M03,51,"Yves Saint Laurent","Tuxedo","/perfume/Yves-Saint-Laurent/Tuxedo-32269.html","yves-saint-laurent-tuxedo","",NEW_WRITE
+M03,52,"Guerlain","L Homme Ideal Parfum","/perfume/Guerlain/L-Homme-Ideal-Parfum-90803.html","guerlain-l-homme-ideal-parfum","",NEW_WRITE
+M03,53,"Giorgio Armani","Emporio Armani Stronger With You Intensely","/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-Intensely-52802.html","giorgio-armani-emporio-armani-stronger-with-you-intensely","armani-stronger-with-you-intensely",OK_EXISTING
+M03,54,"Xerjoff","Alexandria II","/perfume/Xerjoff/Alexandria-II-17786.html","xerjoff-alexandria-ii","xerjoff-erba-pura",OK_EXISTING
+M03,55,"Giorgio Armani","Acqua di Gio Parfum","/perfume/Giorgio-Armani/Acqua-di-Gio-Parfum-81508.html","giorgio-armani-acqua-di-gio-parfum","acqua-di-gio-profondo",OK_EXISTING
+M03,56,"Guerlain","Vetiver","/perfume/Guerlain/Vetiver-69.html","guerlain-vetiver","",NEW_WRITE
+M03,57,"Dior","Dior Homme","/perfume/Dior/Dior-Homme-2020-58714.html","dior-dior-homme","dior-homme-intense",OK_EXISTING
+M03,58,"Versace","Versace Pour Homme Dylan Blue","/perfume/Versace/Versace-Pour-Homme-Dylan-Blue-40031.html","versace-versace-pour-homme-dylan-blue","versace-eros-edp",OK_EXISTING
+M03,59,"Frederic Malle","Musc Ravageur","/perfume/Frederic-Malle/Musc-Ravageur-1801.html","frederic-malle-musc-ravageur","",NEW_WRITE
+M03,60,"Chanel","Egoiste","/perfume/Chanel/Egoiste-613.html","chanel-egoiste","bleu-chanel-edp",OK_EXISTING
+W03,41,"Jean Paul Gaultier","La Belle","/perfume/Jean-Paul-Gaultier/La-Belle-55786.html","jean-paul-gaultier-la-belle","",NEW_WRITE
+W03,42,"Dior","Midnight Poison","/perfume/Dior/Midnight-Poison-1282.html","dior-midnight-poison","",NEW_WRITE
+W03,43,"Dior","Dior Addict Eau de Parfum","/perfume/Dior/Dior-Addict-Eau-de-Parfum-2014-28201.html","dior-dior-addict-eau-de-parfum","",NEW_WRITE
+W03,44,"Givenchy","L Interdit Eau de Parfum","/perfume/Givenchy/L-Interdit-Eau-de-Parfum-51488.html","givenchy-l-interdit-eau-de-parfum","givenchy-gentleman-reserve-privee",OK_EXISTING
+W03,45,"Guerlain","L Heure Bleue Eau de Parfum","/perfume/Guerlain/L-Heure-Bleue-Eau-de-Parfum-208.html","guerlain-l-heure-bleue-eau-de-parfum","",NEW_WRITE
+W03,46,"Yves Saint Laurent","Libre Intense","/perfume/Yves-Saint-Laurent/Libre-Intense-62318.html","yves-saint-laurent-libre-intense","",NEW_WRITE
+W03,47,"Xerjoff","Lira","/perfume/Xerjoff/Lira-11801.html","xerjoff-lira","xerjoff-erba-pura",OK_EXISTING
+W03,48,"Jean Paul Gaultier","Classique","/perfume/Jean-Paul-Gaultier/Classique-427.html","jean-paul-gaultier-classique","",NEW_WRITE
+W03,49,"Parfums de Marly","Delina Exclusif","/perfume/Parfums-de-Marly/Delina-Exclusif-50370.html","parfums-de-marly-delina-exclusif","parfums-de-marly-delina",OK_EXISTING
+W03,50,"Guerlain","Spiritueuse Double Vanille","/perfume/Guerlain/Spiritueuse-Double-Vanille-3345.html","guerlain-spiritueuse-double-vanille","",NEW_WRITE
+W03,51,"Chanel","Allure Eau de Parfum","/perfume/Chanel/Allure-Eau-de-Parfum-176.html","chanel-allure-eau-de-parfum","",NEW_WRITE
+W03,52,"Les Liquides Imaginaires","Blanche Bete","/perfume/Les-Liquides-Imaginaires/Blanche-Bete-70189.html","les-liquides-imaginaires-blanche-bete","",NEW_WRITE
+W03,53,"Yves Saint Laurent","Black Opium","/perfume/Yves-Saint-Laurent/Black-Opium-25324.html","yves-saint-laurent-black-opium","",NEW_WRITE
+W03,54,"Lancome","Poeme","/perfume/Lancome/Poeme-171.html","lancome-poeme","lancome-la-vie-est-belle",OK_EXISTING
+W03,55,"Prada","Infusion d Iris","/perfume/Prada/Infusion-d-Iris-2015-31040.html","prada-infusion-d-iris","",NEW_WRITE
+W03,56,"Lancome","Tresor","/perfume/Lancome/Tresor-172.html","lancome-tresor","lancome-la-vie-est-belle",OK_EXISTING
+W03,57,"Diptyque","Philosykos Eau de Parfum","/perfume/Diptyque/Philosykos-Eau-de-Parfum-3865.html","diptyque-philosykos-eau-de-parfum","",NEW_WRITE
+W03,58,"Giardini Di Toscana","Bianco Latte","/perfume/Giardini-Di-Toscana/Bianco-Latte-64757.html","giardini-di-toscana-bianco-latte","",NEW_WRITE
+W03,59,"Chloe","Nomade","/perfume/Chloe/Nomade-48434.html","chloe-nomade","",NEW_WRITE
+W03,60,"Issey Miyake","L eau d Issey","/perfume/Issey-Miyake/L-eau-d-Issey-720.html","issey-miyake-l-eau-d-issey","issey-miyake-leau-dissey-pour-homme",OK_EXISTING
+M04,61,"Chanel","Allure Homme Edition Blanche Eau de Parfum","/perfume/Chanel/Allure-Homme-Edition-Blanche-Eau-de-Parfum-28942.html","chanel-allure-homme-edition-blanche-eau-de-parfum","",NEW_WRITE
+M04,62,"Chanel","Bleu de Chanel","/perfume/Chanel/Bleu-de-Chanel-9099.html","chanel-bleu-de-chanel","bleu-de-chanel-parfum",OK_EXISTING
+M04,63,"Amouage","Interlude Man","/perfume/Amouage/Interlude-Man-15294.html","amouage-interlude-man","amouage-reflection-man",OK_EXISTING
+M04,64,"Hermes","Terre d Hermes Eau Givree","/perfume/Hermes/Terre-d-Hermes-Eau-Givree-72439.html","hermes-terre-d-hermes-eau-givree","",NEW_WRITE
+M04,65,"Amouage","Reflection 45 Man","/perfume/Amouage/Reflection-45-Man-69488.html","amouage-reflection-45-man","amouage-reflection-man",OK_EXISTING
+M04,66,"Dior","Dior Homme Sport","/perfume/Dior/Dior-Homme-Sport-2021-71326.html","dior-dior-homme-sport","dior-homme-intense",OK_EXISTING
+M04,67,"Guerlain","Habit Rouge Parfum","/perfume/Guerlain/Habit-Rouge-Parfum-90802.html","guerlain-habit-rouge-parfum","",NEW_WRITE
+M04,68,"Versace","Versace Pour Homme","/perfume/Versace/Versace-Pour-Homme-2318.html","versace-versace-pour-homme","versace-eros-edp",OK_EXISTING
+M04,69,"Tom Ford","Grey Vetiver","/perfume/Tom-Ford/Grey-Vetiver-6697.html","tom-ford-grey-vetiver","tom-ford-noir-extreme",OK_EXISTING
+M04,70,"Dior","Fahrenheit Le Parfum","/perfume/Dior/Fahrenheit-Le-Parfum-23099.html","dior-fahrenheit-le-parfum","dior-fahrenheit",OK_EXISTING
+M04,71,"Penhaligon s","Halfeti","/perfume/Penhaligon-s/Halfeti-31396.html","penhaligon-s-halfeti","",NEW_WRITE
+M04,72,"Chanel","Antaeus","/perfume/Chanel/Antaeus-616.html","chanel-antaeus","",NEW_WRITE
+M04,73,"Davidoff","Cool Water","/perfume/Davidoff/Cool-Water-507.html","davidoff-cool-water","",NEW_WRITE
+M04,74,"Guy Laroche","Drakkar Noir","/perfume/Guy-Laroche/Drakkar-Noir-2069.html","guy-laroche-drakkar-noir","",NEW_WRITE
+M04,75,"Dior","Eau Sauvage Parfum","/perfume/Dior/Eau-Sauvage-Parfum-14811.html","dior-eau-sauvage-parfum","sauvage-elixir",OK_EXISTING
+M04,76,"Memo Paris","African Leather","/perfume/Memo-Paris/African-Leather-31383.html","memo-paris-african-leather","",NEW_WRITE
+M04,77,"Dior","Sauvage Eau de Parfum","/perfume/Dior/Sauvage-Eau-de-Parfum-48100.html","dior-sauvage-eau-de-parfum","sauvage-elixir",OK_EXISTING
+M04,78,"Initio Parfums Prives","Side Effect","/perfume/Initio-Parfums-Prives/Side-Effect-42260.html","initio-parfums-prives-side-effect","parfums-de-marly-delina",OK_EXISTING
+M04,79,"Giorgio Armani","Armani Code Parfum","/perfume/Giorgio-Armani/Armani-Code-Parfum-75126.html","giorgio-armani-armani-code-parfum","giorgio-armani-my-way",OK_EXISTING
+M04,80,"Guerlain","L Instant de Guerlain pour Homme EDP","/perfume/Guerlain/L-Instant-de-Guerlain-pour-Homme-EDP-44763.html","guerlain-l-instant-de-guerlain-pour-homme-edp","",NEW_WRITE
+W04,61,"Maison Francis Kurkdjian","Grand Soir","/perfume/Maison-Francis-Kurkdjian/Grand-Soir-40816.html","maison-francis-kurkdjian-grand-soir","maison-francis-kurkdjian-gentle-fluidity-gold",OK_EXISTING
+W04,62,"Hermes","Un Jardin Sur Le Nil","/perfume/Hermes/Un-Jardin-Sur-Le-Nil-18.html","hermes-un-jardin-sur-le-nil","",NEW_WRITE
+W04,63,"Hermes","Elixir des Merveilles","/perfume/Hermes/Elixir-des-Merveilles-3168.html","hermes-elixir-des-merveilles","terre-dhermes-edt",OK_EXISTING
+W04,64,"Chanel","Chanel N019","/perfume/Chanel/Chanel-N019-11.html","chanel-chanel-n019","chanel-coco-mademoiselle-edp",OK_EXISTING
+W04,65,"Dior","Miss Dior Cherie","/perfume/Dior/Miss-Dior-Cherie-213.html","dior-miss-dior-cherie","miss-dior-blooming-bouquet",OK_EXISTING
+W04,66,"Mugler","Angel Muse","/perfume/Mugler/Angel-Muse-36416.html","mugler-angel-muse","mugler-alien-edp",OK_EXISTING
+W04,67,"Dior","Dolce Vita","/perfume/Dior/Dolce-Vita-222.html","dior-dolce-vita","",NEW_WRITE
+W04,68,"Narciso Rodriguez","Pure Musc For Her","/perfume/Narciso-Rodriguez/Pure-Musc-For-Her-53441.html","narciso-rodriguez-pure-musc-for-her","narciso-rodriguez-for-her-edp",OK_EXISTING
+W04,69,"Chanel","Coromandel Eau de Parfum","/perfume/Chanel/Coromandel-Eau-de-Parfum-41783.html","chanel-coromandel-eau-de-parfum","chanel-coco-mademoiselle-edp",OK_EXISTING
+W04,70,"Givenchy","Organza","/perfume/Givenchy/Organza-4.html","givenchy-organza","givenchy-gentleman-reserve-privee",OK_EXISTING
+W04,71,"Nishane","Hundred Silent Ways","/perfume/Nishane/Hundred-Silent-Ways-37602.html","nishane-hundred-silent-ways","",NEW_WRITE
+W04,72,"Giorgio Armani","Si","/perfume/Giorgio-Armani/Si-18453.html","giorgio-armani-si","armani-stronger-with-you-intensely",OK_EXISTING
+W04,73,"Jean Paul Gaultier","La Belle Le Parfum","/perfume/Jean-Paul-Gaultier/La-Belle-Le-Parfum-65175.html","jean-paul-gaultier-la-belle-le-parfum","",NEW_WRITE
+W04,74,"Yves Saint Laurent","Cinema","/perfume/Yves-Saint-Laurent/Cinema-92.html","yves-saint-laurent-cinema","",NEW_WRITE
+W04,75,"Carolina Herrera","Good Girl","/perfume/Carolina-Herrera/Good-Girl-39681.html","carolina-herrera-good-girl","carolina-herrera-good-girl",OK_EXISTING
+W04,76,"Dior","Diorissimo","/perfume/Dior/Diorissimo-224.html","dior-diorissimo","",NEW_WRITE
+W04,77,"Maison Francis Kurkdjian","Oud Satin Mood","/perfume/Maison-Francis-Kurkdjian/Oud-Satin-Mood-30352.html","maison-francis-kurkdjian-oud-satin-mood","maison-francis-kurkdjian-gentle-fluidity-gold",OK_EXISTING
+W04,78,"Guerlain","Samsara Extrait","/perfume/Guerlain/Samsara-Extrait-25318.html","guerlain-samsara-extrait","",NEW_WRITE
+W04,79,"Chanel","Chanel No 19 Poudre","/perfume/Chanel/Chanel-No-19-Poudre-12424.html","chanel-chanel-no-19-poudre","chanel-coco-mademoiselle-edp",OK_EXISTING
+W04,80,"Zadig Voltaire","This is Her","/perfume/Zadig-Voltaire/This-is-Her-39358.html","zadig-voltaire-this-is-her","",NEW_WRITE
+M05,81,"Xerjoff","Torino21","/perfume/Xerjoff/Torino21-70424.html","xerjoff-torino21","xerjoff-erba-pura",OK_EXISTING
+M05,82,"Tom Ford","Tuscan Leather","/perfume/Tom-Ford/Tuscan-Leather-1849.html","tom-ford-tuscan-leather","tom-ford-noir-extreme",OK_EXISTING
+M05,83,"Bvlgari","Bvlgari Man In Black","/perfume/Bvlgari/Bvlgari-Man-In-Black-26358.html","bvlgari-bvlgari-man-in-black","bvlgari-man-in-black",OK_EXISTING
+M05,84,"Dolce Gabbana","Light Blue Eau Intense Pour Homme","/perfume/Dolce-Gabbana/Light-Blue-Eau-Intense-Pour-Homme-44035.html","dolce-gabbana-light-blue-eau-intense-pour-homme","dolce-gabbana-the-one-edp",OK_EXISTING
+M05,85,"Yves Saint Laurent","La Nuit de L Homme Bleu Electrique","/perfume/Yves-Saint-Laurent/La-Nuit-de-L-Homme-Bleu-Electrique-67997.html","yves-saint-laurent-la-nuit-de-l-homme-bleu-electrique","",NEW_WRITE
+M05,86,"Guerlain","Habit Rouge Eau de Toilette","/perfume/Guerlain/Habit-Rouge-Eau-de-Toilette-16.html","guerlain-habit-rouge-eau-de-toilette","",NEW_WRITE
+M05,87,"Chanel","Allure Homme","/perfume/Chanel/Allure-Homme-523.html","chanel-allure-homme","",NEW_WRITE
+M05,88,"Prada","Luna Rossa Black","/perfume/Prada/Luna-Rossa-Black-48682.html","prada-luna-rossa-black","prada-luna-rossa-carbon",OK_EXISTING
+M05,89,"Tom Ford","Noir Extreme Parfum","/perfume/Tom-Ford/Noir-Extreme-Parfum-75489.html","tom-ford-noir-extreme-parfum","tom-ford-noir-extreme",OK_EXISTING
+M05,90,"Parfums de Marly","Carlisle","/perfume/Parfums-de-Marly/Carlisle-33514.html","parfums-de-marly-carlisle","parfums-de-marly-delina",OK_EXISTING
+M05,91,"Versace","Eros Flame","/perfume/Versace/Eros-Flame-52180.html","versace-eros-flame","versace-eros-edp",OK_EXISTING
+M05,92,"Dior","Sauvage","/perfume/Dior/Sauvage-31861.html","dior-sauvage","dior-sauvage-edp",OK_EXISTING
+M05,93,"Louis Vuitton","L Immensite","/perfume/Louis-Vuitton/L-Immensite-49751.html","louis-vuitton-l-immensite","louis-vuitton-imagination",OK_EXISTING
+M05,94,"Louis Vuitton","Ombre Nomade","/perfume/Louis-Vuitton/Ombre-Nomade-49755.html","louis-vuitton-ombre-nomade","louis-vuitton-imagination",OK_EXISTING
+M05,95,"Creed","Absolu Aventus","/perfume/Creed/Absolu-Aventus-106624.html","creed-absolu-aventus","",NEW_WRITE
+M05,96,"Acqua di Parma","Acqua di Parma Colonia","/perfume/Acqua-di-Parma/Acqua-di-Parma-Colonia-1681.html","acqua-di-parma-acqua-di-parma-colonia","acqua-di-gio-profondo",OK_EXISTING
+M05,97,"Lalique","Encre Noire A L Extreme","/perfume/Lalique/Encre-Noire-A-L-Extreme-32356.html","lalique-encre-noire-a-l-extreme","",NEW_WRITE
+M05,98,"Giorgio Armani","Acqua di Gio Profondo","/perfume/Giorgio-Armani/Acqua-di-Gio-Profondo-59532.html","giorgio-armani-acqua-di-gio-profondo","acqua-di-gio-profondo",OK_EXISTING
+M05,99,"Azzaro","The Most Wanted Parfum","/perfume/Azzaro/The-Most-Wanted-Parfum-73664.html","azzaro-the-most-wanted-parfum","azzaro-the-most-wanted-parfum",OK_EXISTING
+M05,100,"Parfums de Marly","Sedley","/perfume/Parfums-de-Marly/Sedley-56273.html","parfums-de-marly-sedley","parfums-de-marly-delina",OK_EXISTING
+W05,81,"Cartier","La Panthere","/perfume/Cartier/La-Panthere-23295.html","cartier-la-panthere","",NEW_WRITE
+W05,82,"Kayali Fragrances","Vanilla","/perfume/Kayali-Fragrances/Vanilla-28-52616.html","kayali-fragrances-vanilla","",NEW_WRITE
+W05,83,"Initio Parfums Prives","Musk Therapy","/perfume/Initio-Parfums-Prives/Musk-Therapy-66097.html","initio-parfums-prives-musk-therapy","parfums-de-marly-delina",OK_EXISTING
+W05,84,"Chanel","Coco Eau de Toilette","/perfume/Chanel/Coco-Eau-de-Toilette-31353.html","chanel-coco-eau-de-toilette","chanel-coco-mademoiselle-edp",OK_EXISTING
+W05,85,"Chanel","Chanel No 5 Eau de Toilette","/perfume/Chanel/Chanel-No-5-Eau-de-Toilette-10856.html","chanel-chanel-no-5-eau-de-toilette","chanel-coco-mademoiselle-edp",OK_EXISTING
+W05,86,"Versace","Crystal Noir","/perfume/Versace/Crystal-Noir-631.html","versace-crystal-noir","versace-eros-edp",OK_EXISTING
+W05,87,"Yves Saint Laurent","Rive Gauche","/perfume/Yves-Saint-Laurent/Rive-Gauche-96.html","yves-saint-laurent-rive-gauche","",NEW_WRITE
+W05,88,"Guerlain","L Heure Bleue Eau de Toilette","/perfume/Guerlain/L-Heure-Bleue-Eau-de-Toilette-41153.html","guerlain-l-heure-bleue-eau-de-toilette","",NEW_WRITE
+W05,89,"Frederic Malle","Carnal Flower","/perfume/Frederic-Malle/Carnal-Flower-1024.html","frederic-malle-carnal-flower","",NEW_WRITE
+W05,90,"Guerlain","L Instant de Guerlain","/perfume/Guerlain/L-Instant-de-Guerlain-51.html","guerlain-l-instant-de-guerlain","",NEW_WRITE
+W05,91,"Hermes","24 Faubourg","/perfume/Hermes/24-Faubourg-27.html","hermes-24-faubourg","",NEW_WRITE
+W05,92,"Lolita Lempicka","Lolita Lempicka Le Parfum","/perfume/Lolita-Lempicka/Lolita-Lempicka-Le-Parfum-2023-82245.html","lolita-lempicka-lolita-lempicka-le-parfum","",NEW_WRITE
+W05,93,"Dior","Hypnotic Poison Eau de Parfum","/perfume/Dior/Hypnotic-Poison-Eau-de-Parfum-23098.html","dior-hypnotic-poison-eau-de-parfum","",NEW_WRITE
+W05,94,"Giorgio Armani","Armani Prive Rouge Malachite","/perfume/Giorgio-Armani/Armani-Prive-Rouge-Malachite-34589.html","giorgio-armani-armani-prive-rouge-malachite","giorgio-armani-my-way",OK_EXISTING
+W05,95,"Calvin Klein","Obsession","/perfume/Calvin-Klein/Obsession-248.html","calvin-klein-obsession","",NEW_WRITE
+W05,96,"Xerjoff","Dama Bianca","/perfume/Xerjoff/Dama-Bianca-15555.html","xerjoff-dama-bianca","xerjoff-erba-pura",OK_EXISTING
+W05,97,"Guerlain","Champs Elysees Eau de Parfum","/perfume/Guerlain/Champs-Elysees-Eau-de-Parfum-25330.html","guerlain-champs-elysees-eau-de-parfum","",NEW_WRITE
+W05,98,"Narciso Rodriguez","Musc Noir Rose For Her","/perfume/Narciso-Rodriguez/Musc-Noir-Rose-For-Her-71596.html","narciso-rodriguez-musc-noir-rose-for-her","narciso-rodriguez-for-her-edp",OK_EXISTING
+W05,99,"Tom Ford","Lost Cherry","/perfume/Tom-Ford/Lost-Cherry-51411.html","tom-ford-lost-cherry","tom-ford-noir-extreme",OK_EXISTING
+W05,100,"Chanel","Coco Mademoiselle Intense","/perfume/Chanel/Coco-Mademoiselle-Intense-48310.html","chanel-coco-mademoiselle-intense","chanel-coco-mademoiselle-edp",OK_EXISTING

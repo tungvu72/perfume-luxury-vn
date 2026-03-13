@@ -1,0 +1,848 @@
+[
+    {
+        "id": "chanel-allure-homme-sport-eau-extreme",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "Allure Homme Sport Eau Extrême",
+        "subName": "Eau de Parfum",
+        "perfumer": "Jacques Polge",
+        "gender": "nam",
+        "desc": "Mùi nam thể thao sang với bạc hà, tiêu và gỗ. Tươi sạch, mạnh mẽ và dễ dùng quanh năm.",
+        "verdict": "Thể thao sang, bạc hà tươi, gỗ ấm. Dễ dùng quanh năm, rất popular.",
+        "short": "THỂ THAO SANG, TƯƠI, DỄ DÙNG",
+        "sc": [
+            9.0,
+            8.0,
+            9.2,
+            8.0,
+            8.6
+        ],
+        "lon": 8,
+        "sil": 8,
+        "sea": [
+            82,
+            72,
+            85,
+            65
+        ],
+        "dn": [
+            78,
+            65
+        ],
+        "topNotes": [
+            "Bạc hà",
+            "Tiêu",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Xô thơm",
+            "Hồ tiêu",
+            "Phong lữ"
+        ],
+        "baseNotes": [
+            "Gỗ tuyết tùng",
+            "Xạ hương",
+            "Đậu tonka"
+        ],
+        "accords": [
+            [
+                "Tươi",
+                92,
+                "#2ecc71"
+            ],
+            [
+                "Thơm thảo mộc",
+                75,
+                "#2c7a4b"
+            ],
+            [
+                "Gỗ",
+                62,
+                "#8B4513"
+            ],
+            [
+                "Gia vị ấm",
+                48,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Thể thao",
+                "⚡"
+            ],
+            [
+                "Đa dụng",
+                "🔄"
+            ],
+            [
+                "Nam tính",
+                "🖤"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Thể thao",
+            "Đa dụng",
+            "Tươi"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml",
+            "150ml"
+        ],
+        "price": 3800000
+    },
+    {
+        "id": "nishane-hacivat",
+        "brandSlug": "nishane",
+        "brand": "NISHANE",
+        "name": "Hacivat",
+        "subName": "Extrait de Parfum",
+        "perfumer": "Jorge Lee",
+        "gender": "unisex",
+        "desc": "Mùi niche citrus-gỗ với dứa, grapefruit và hoắc hương. Tươi mạnh, năng lượng cao, bám rất lâu.",
+        "verdict": "Dứa, grapefruit, hoắc hương. Fresh niche cực mạnh, bám lâu phi thường.",
+        "short": "DỨA, CITRUS MẠNH, BÁM CỰC LÂU",
+        "sc": [
+            9.2,
+            9.0,
+            9.0,
+            8.0,
+            8.8
+        ],
+        "lon": 10,
+        "sil": 9,
+        "sea": [
+            85,
+            78,
+            75,
+            55
+        ],
+        "dn": [
+            82,
+            58
+        ],
+        "topNotes": [
+            "Dứa",
+            "Bưởi",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Hoắc hương",
+            "Hoa hồng",
+            "Rêu sồi"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Xạ hương",
+            "Cây bách xù"
+        ],
+        "accords": [
+            [
+                "Tươi",
+                95,
+                "#2ecc71"
+            ],
+            [
+                "Cam chanh",
+                85,
+                "#f7c242"
+            ],
+            [
+                "Gỗ",
+                72,
+                "#8B4513"
+            ],
+            [
+                "Trái cây",
+                62,
+                "#f39c12"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Năng lượng",
+                "⚡"
+            ],
+            [
+                "Đa dụng",
+                "🔄"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Tươi",
+            "Citrus"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 5800000
+    },
+    {
+        "id": "prada-lhomme-intense",
+        "brandSlug": "prada",
+        "brand": "PRADA",
+        "name": "L'Homme Intense",
+        "subName": "Eau de Parfum",
+        "perfumer": "Daniela Andrier",
+        "gender": "nam",
+        "desc": "Phiên bản đậm hơn Prada L'Homme. Iris, hoắc hương và hổ phách. Sang, tối và tinh tế hơn.",
+        "verdict": "Iris đậm, hoắc hương, hổ phách. Bản nâng cấp sang và tối hơn L'Homme.",
+        "short": "IRIS ĐẬM, SANG, TINH TẾ",
+        "sc": [
+            9.0,
+            8.5,
+            8.8,
+            8.0,
+            8.6
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            55,
+            30,
+            92,
+            88
+        ],
+        "dn": [
+            40,
+            92
+        ],
+        "topNotes": [
+            "Iris",
+            "Cam bergamot",
+            "Bạch đậu khấu"
+        ],
+        "middleNotes": [
+            "Neroli",
+            "Hổ phách",
+            "Hoắc hương"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Xạ hương",
+            "Da thuộc"
+        ],
+        "accords": [
+            [
+                "Iris / Phấn",
+                90,
+                "#9b59b6"
+            ],
+            [
+                "Gỗ",
+                72,
+                "#8B4513"
+            ],
+            [
+                "Hổ phách",
+                60,
+                "#d4a017"
+            ],
+            [
+                "Gia vị ấm",
+                48,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Buổi tối",
+            "Iris",
+            "Sang trọng"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3200000
+    },
+    {
+        "id": "sospiro-vibrato",
+        "brandSlug": "sospiro",
+        "brand": "SOSPIRO",
+        "name": "Vibrato",
+        "subName": "Eau de Parfum",
+        "perfumer": "N/A",
+        "gender": "unisex",
+        "desc": "Mùi niche ngọt ấm với hoa hồng, oud và vani. Phương Đông xa hoa và rất cuốn hút.",
+        "verdict": "Hoa hồng, oud, vani. Phương Đông xa hoa, rất nổi bật và cuốn hút.",
+        "short": "HOA HỒNG, OUD, XA HOA",
+        "sc": [
+            8.8,
+            8.5,
+            8.8,
+            7.5,
+            8.4
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            40,
+            20,
+            90,
+            100
+        ],
+        "dn": [
+            25,
+            100
+        ],
+        "topNotes": [
+            "Gia vị",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Hoa hồng",
+            "Oud",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Hổ phách",
+            "Xạ hương",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Phương Đông",
+                92,
+                "#8B0000"
+            ],
+            [
+                "Hoa",
+                78,
+                "#e75480"
+            ],
+            [
+                "Oud",
+                65,
+                "#3E2723"
+            ],
+            [
+                "Ngọt",
+                55,
+                "#FF6D00"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Phương Đông",
+                "🌙"
+            ],
+            [
+                "Xa hoa",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Phương Đông",
+            "Oud"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "100ml"
+        ],
+        "price": 5200000
+    },
+    {
+        "id": "hermes-terre-dhermes-parfum",
+        "brandSlug": "hermes",
+        "brand": "HERMÈS",
+        "name": "Terre d'Hermès Parfum",
+        "subName": "Parfum",
+        "perfumer": "Jean-Claude Ellena",
+        "gender": "nam",
+        "desc": "Bản Parfum của Terre. Gỗ, đất, cam ngọt. Sâu hơn, ấm hơn và sang hơn bản EDT.",
+        "verdict": "Gỗ đất sâu, cam ngọt, tinh tế. Bản tinh chỉnh hoàn hảo nhất dòng Terre.",
+        "short": "GỖ SÂU, ĐẤT, TINH TẾ TUYỆT ĐỐI",
+        "sc": [
+            9.2,
+            8.8,
+            8.5,
+            7.8,
+            8.6
+        ],
+        "lon": 9,
+        "sil": 7,
+        "sea": [
+            65,
+            45,
+            90,
+            85
+        ],
+        "dn": [
+            65,
+            80
+        ],
+        "topNotes": [
+            "Cam ngọt",
+            "Bưởi"
+        ],
+        "middleNotes": [
+            "Lửa đá",
+            "Tiêu",
+            "Phong lữ"
+        ],
+        "baseNotes": [
+            "Gỗ tuyết tùng",
+            "Benzoin",
+            "Vetiver"
+        ],
+        "accords": [
+            [
+                "Gỗ",
+                100,
+                "#8B4513"
+            ],
+            [
+                "Đất / Khoáng",
+                82,
+                "#616161"
+            ],
+            [
+                "Cam chanh",
+                68,
+                "#f7c242"
+            ],
+            [
+                "Gia vị ấm",
+                48,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Sang trọng",
+                "💎"
+            ],
+            [
+                "Đa dụng",
+                "🔄"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Gỗ",
+            "Thanh lịch",
+            "Cao cấp"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml",
+            "200ml"
+        ],
+        "price": 3800000
+    },
+    {
+        "id": "creed-green-irish-tweed",
+        "brandSlug": "creed",
+        "brand": "CREED",
+        "name": "Green Irish Tweed",
+        "subName": "Eau de Parfum",
+        "perfumer": "Olivier Creed",
+        "gender": "nam",
+        "desc": "Mùi nam xanh cổ điển với iris, cỏ xanh và gỗ đàn hương. Sang, sạch và lịch lãm theo kiểu cũ.",
+        "verdict": "Cỏ xanh, iris, gỗ đàn hương. Kinh điển gentleman, sang và sạch vượt thời gian.",
+        "short": "CỎ XANH, IRIS, GENTLEMAN",
+        "sc": [
+            9.0,
+            8.5,
+            8.5,
+            6.5,
+            8.1
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            90,
+            65,
+            75,
+            55
+        ],
+        "dn": [
+            82,
+            48
+        ],
+        "topNotes": [
+            "Hoa violet lá",
+            "Chanh"
+        ],
+        "middleNotes": [
+            "Iris",
+            "Xô thơm",
+            "Hoa violet"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Hổ phách",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Xanh / Green",
+                95,
+                "#2c7a4b"
+            ],
+            [
+                "Tươi",
+                78,
+                "#2ecc71"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ],
+            [
+                "Phấn / Iris",
+                48,
+                "#9b59b6"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Niche",
+                "💎"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Nam",
+            "Kinh điển",
+            "Green"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 7500000
+    },
+    {
+        "id": "dior-eau-sauvage",
+        "brandSlug": "dior",
+        "brand": "DIOR",
+        "name": "Eau Sauvage",
+        "subName": "Eau de Toilette",
+        "perfumer": "Edmond Roudnitska",
+        "gender": "nam",
+        "desc": "Huyền thoại nam citrus với cam bergamot, oải hương và vetiver. Thanh lịch cổ điển, vượt thời gian.",
+        "verdict": "Citrus cổ điển, oải hương, vetiver. Huyền thoại thanh lịch vượt mọi thời đại.",
+        "short": "HUYỀN THOẠI CITRUS, THANH LỊCH",
+        "sc": [
+            8.8,
+            9.2,
+            7.8,
+            8.5,
+            8.6
+        ],
+        "lon": 6,
+        "sil": 6,
+        "sea": [
+            90,
+            80,
+            65,
+            45
+        ],
+        "dn": [
+            88,
+            35
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Chanh",
+            "Lá basilic"
+        ],
+        "middleNotes": [
+            "Vetiver",
+            "Oải hương",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Gỗ sồi",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Cam chanh",
+                100,
+                "#f7c242"
+            ],
+            [
+                "Tươi",
+                85,
+                "#2ecc71"
+            ],
+            [
+                "Thơm thảo mộc",
+                65,
+                "#2c7a4b"
+            ],
+            [
+                "Gỗ",
+                42,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Ban ngày",
+                "☀️"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Kinh điển",
+            "Citrus",
+            "Thanh lịch"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml",
+            "200ml"
+        ],
+        "price": 3000000
+    },
+    {
+        "id": "marc-antoine-barrois-ganymede",
+        "brandSlug": "marc-antoine-barrois",
+        "brand": "MARC-ANTOINE BARROIS",
+        "name": "Ganymède",
+        "subName": "Eau de Parfum",
+        "perfumer": "Quentin Bisch",
+        "gender": "unisex",
+        "desc": "Mùi niche da thuộc suede với violet, tiêu hồng và xạ hương. Thanh lịch hiện đại, rất cuốn.",
+        "verdict": "Da suede mềm, violet, xạ hương. Thanh lịch hiện đại, unisex hoàn hảo.",
+        "short": "DA SUEDE, VIOLET, THANH LỊCH",
+        "sc": [
+            9.3,
+            9.2,
+            8.8,
+            7.5,
+            8.7
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            75,
+            50,
+            85,
+            80
+        ],
+        "dn": [
+            60,
+            82
+        ],
+        "topNotes": [
+            "Tiêu hồng",
+            "Cam bergamot",
+            "Bưởi"
+        ],
+        "middleNotes": [
+            "Da suede",
+            "Hoa violet",
+            "Iris"
+        ],
+        "baseNotes": [
+            "Xạ hương",
+            "Gỗ tuyết tùng",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Da thuộc",
+                88,
+                "#5D4037"
+            ],
+            [
+                "Tươi",
+                72,
+                "#2ecc71"
+            ],
+            [
+                "Gỗ",
+                60,
+                "#8B4513"
+            ],
+            [
+                "Xạ hương",
+                48,
+                "#9b59b6"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Phi giới tính",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Da",
+            "Thanh lịch"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "100ml"
+        ],
+        "price": 5800000
+    },
+    {
+        "id": "parfums-de-marly-althair",
+        "brandSlug": "parfums-de-marly",
+        "brand": "PARFUMS DE MARLY",
+        "name": "Althaïr",
+        "subName": "Eau de Parfum",
+        "perfumer": "Quentin Bisch",
+        "gender": "nam",
+        "desc": "Mùi nam ngọt ấm với tiramisu, vani và xạ hương. Gourmand sang, dễ khen và rất addictive.",
+        "verdict": "Tiramisu, vani, xạ hương. Gourmand sang trọng, cực dễ khen và gây nghiện.",
+        "short": "TIRAMISU, NGỌT SANG, DỄ KHEN",
+        "sc": [
+            9.0,
+            8.8,
+            9.5,
+            7.8,
+            8.8
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            45,
+            20,
+            95,
+            100
+        ],
+        "dn": [
+            30,
+            100
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Lá bạc hà"
+        ],
+        "middleNotes": [
+            "Đậu tonka",
+            "Quế",
+            "Tiramisu"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Xạ hương",
+            "Hổ phách",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Ngọt",
+                100,
+                "#FF6D00"
+            ],
+            [
+                "Gourmand",
+                88,
+                "#8B0000"
+            ],
+            [
+                "Gia vị ấm",
+                68,
+                "#e67e22"
+            ],
+            [
+                "Gỗ",
+                42,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Ngọt",
+                "🍬"
+            ],
+            [
+                "Dễ khen",
+                "👍"
+            ],
+            [
+                "Niche",
+                "💎"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Nam",
+            "Gourmand",
+            "Dễ khen"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml",
+            "125ml"
+        ],
+        "price": 6200000
+    }
+]
