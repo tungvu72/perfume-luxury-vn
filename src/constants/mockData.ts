@@ -5870,7 +5870,25 @@ Nên mua khi mày cần một chai tối lịch sự và có khí chất quý ô
     image: PENDING_IMAGE,
     images: [{ url: PENDING_IMAGE, source: "fragram", caption: "PENHALIGON'S Halfeti chính hãng", verified: false }],
     description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
+    productCopy: `## Mùi hương tổng thể
+Halfeti là kiểu mùi phương Đông-gỗ-gia vị rất sang, rất dày và có màu sắc luxury rõ rệt. Nó mang cảm giác nhựa thơm, gia vị, gỗ tối và chút hoa ẩn phía dưới, tạo nên một tổng thể bí ẩn, đậm và rất hợp thời điểm buổi tối. Đây là kiểu mùi bước vào phòng với khí chất rõ ràng, không cần la hét nhưng ai cũng nhận ra có sự hiện diện.
+
+Điểm hay của Halfeti là nó cân bằng tốt giữa độ sang và độ dễ mặc. Nó không quá thử thách như một số mùi oud nặng, nhưng vẫn đủ tối và đủ sâu để không bị đại trà. Trong bối cảnh Việt Nam, chai này hợp với người thích mùi dressy, đi tiệc, đi tối hoặc muốn một chai signature cho những dịp cần cảm giác đắt tiền và khác biệt.
+
+## Diễn biến trên da
+Mở đầu là gia vị và độ ấm khá rõ, sau đó phần hoa-gỗ-nhựa thơm bắt đầu hiện lên, khiến mùi hương có cảm giác tròn hơn và sang hơn. Nó không phát triển theo hướng sáng mở rồi mới tối, mà khá nhanh chóng đi vào màu đậm đặc trưng của mình.
+
+Drydown của Halfeti rất đẹp: ấm, tối, mượt và có cảm giác hơi resinous. Trên da nóng, mùi có thể dày hơn khá rõ, nên càng hợp môi trường mát hoặc phòng máy lạnh. Nhược điểm là nếu mày chỉ thích mùi sạch sáng ban ngày, Halfeti sẽ hơi quá nhiều lực.
+
+## Độ lưu hương / tỏa hương / hoàn cảnh dùng
+Halfeti có hiệu năng tốt, lưu hương khoảng 7-9 giờ, tỏa hương vừa đến khá trong giai đoạn đầu. Nó hợp nhất cho tối, event, tiệc, hẹn hò, mùa mát hoặc không gian sang.
+
+Ở Việt Nam, chai này nên ưu tiên dùng chiều tối và xịt vừa tay. Ưu điểm là sang, khác biệt và rất có chiều sâu; nhược điểm là độ đa dụng ban ngày không cao, giá cũng không dễ chịu.
+
+## Kết luận nhanh: hợp ai, khi nào nên mua
+Nếu mày muốn một chai niche/luxury có màu tối, sang và dùng tốt cho những dịp đặc biệt, Halfeti là lựa chọn rất đáng cân nhắc. Nó hợp người thích mùi đậm, có khí chất và không muốn đi theo lối dễ đoán.
+
+Nên mua khi mày cần một chai buổi tối cao cấp. Nếu mày chỉ cần mùi hằng ngày dễ sống chung, Halfeti sẽ hơi nặng hơn nhu cầu.`,
     article: "(Chờ Coder viết bài)",
     score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
     vibes: [],
@@ -5930,7 +5948,25 @@ Nên mua khi mày cần một chai tối lịch sự và có khí chất quý ô
     image: PENDING_IMAGE,
     images: [{ url: PENDING_IMAGE, source: "fragram", caption: "DAVIDOFF Cool Water chính hãng", verified: false }],
     description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
+    productCopy: `## Mùi hương tổng thể
+Cool Water là một tượng đài fresh nam vì nó định hình rất rõ cảm giác mát, sạch, biển và nam tính cho cả một thế hệ. Dù ngày nay có nhiều chai mới hơn, DNA của Cool Water vẫn còn giá trị nhờ sự đơn giản, dễ hiểu và dễ dùng. Đây là kiểu mùi tạo cảm giác vừa tắm xong, áo quần sạch sẽ, sẵn sàng cho một ngày nóng nực.
+
+Điểm mạnh lớn nhất của Cool Water là tính ứng dụng. Nó không cần quá nhiều thời gian để hiểu, không kén môi trường và đặc biệt hợp khí hậu nóng. Trong bối cảnh Việt Nam, đây vẫn là một lựa chọn ổn cho người muốn một chai nam mát, gọn, dễ dùng đi làm, đi học, đi chơi ban ngày mà không cần đầu tư quá nhiều.
+
+## Diễn biến trên da
+Mở đầu cho cảm giác aquatic-aromatic rất rõ: mát, xanh và hơi biển. Sau đó phần thảo mộc và nền gỗ nhẹ hiện ra, giữ cho mùi không bị quá mỏng. Mọi thứ đi theo hướng rất thẳng, rất dễ hiểu và không có nhiều chuyển biến phức tạp.
+
+Drydown của Cool Water vẫn giữ được tinh thần sạch mát đặc trưng, chỉ mềm hơn và sát da hơn. Nó không có chiều sâu lớn, nhưng bù lại cực dễ dùng. Nhược điểm là nếu so với các mùi fresh hiện đại cao cấp hơn, Cool Water có thể cho cảm giác hơi cổ điển và đơn giản.
+
+## Độ lưu hương / tỏa hương / hoàn cảnh dùng
+Cool Water có độ lưu hương trung bình, khoảng 4-6 giờ; tỏa hương ở mức vừa nhẹ. Nó hợp nhất cho ban ngày, trời nóng, đi làm, đi học, tập thể thao nhẹ hoặc những dịp không muốn mùi hương quá hiện diện.
+
+Trong thời tiết Việt Nam, đây là loại chai dễ phát huy vì bản chất mát và thoáng. Ưu điểm là dễ dùng, giá ổn và ít rủi ro; nhược điểm là hiệu năng không mạnh và độ độc đáo thấp.
+
+## Kết luận nhanh: hợp ai, khi nào nên mua
+Nếu mày cần một chai nam mát-sạch kinh điển, dễ dùng và không phải suy nghĩ nhiều, Cool Water vẫn là cái tên có lý do để tồn tại. Nó hợp người mới chơi, người cần mùi đi học đi làm cơ bản hoặc muốn một chai fresh dùng thoải mái.
+
+Nên mua khi mày muốn sự đơn giản và hiệu quả. Nếu mày đòi hỏi chiều sâu, độ bám mạnh hoặc sự sang trọng rõ rệt, sẽ có nhiều lựa chọn cao cấp hơn.`,
     article: "(Chờ Coder viết bài)",
     score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
     vibes: [],
@@ -5960,7 +5996,25 @@ Nên mua khi mày cần một chai tối lịch sự và có khí chất quý ô
     image: PENDING_IMAGE,
     images: [{ url: PENDING_IMAGE, source: "fragram", caption: "GUY LAROCHE Drakkar Noir chính hãng", verified: false }],
     description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
+    productCopy: `## Mùi hương tổng thể
+Drakkar Noir là một mẫu nước hoa nam cổ điển rất đặc trưng: xanh, aromatic, fougere và nam tính theo kiểu old-school. Nó cho cảm giác cạo râu sạch, áo sơ mi trắng, chút nghiêm và rất đàn ông theo phong cách thập niên trước. Với người quen các mùi hiện đại ngọt ấm, Drakkar Noir có thể gây cảm giác retro; nhưng với người thích classic masculine, đây lại là một biểu tượng.
+
+Điểm đáng chú ý là Drakkar Noir không cố làm mềm hay làm dễ gần theo chuẩn mới. Nó giữ vẻ nam tính khô, hơi sắc và có phần khá trực diện. Ở Việt Nam, chai này sẽ hợp với người thích mùi barbershop cổ điển, muốn thứ gì đó khác hẳn nhóm fresh-sweet đương đại và không ngại một chút vintage attitude.
+
+## Diễn biến trên da
+Mở đầu là thảo mộc xanh rất rõ, tạo cảm giác sạch nhưng không hiền. Sau đó phần gia vị, lavender và nền gỗ hiện ra, làm tổng thể trở nên đậm chất fougere cổ điển hơn. Nó không biến chuyển nhiều nhưng luôn giữ được vibe nam tính rõ ràng.
+
+Drydown là giai đoạn mùi ôm da hơn, bớt sắc nhưng vẫn giữ độ xanh-khô đặc trưng. Nhược điểm là với người trẻ quen mùi hiện đại, Drakkar Noir có thể bị xem là hơi cứng và thiếu sự mượt mà.
+
+## Độ lưu hương / tỏa hương / hoàn cảnh dùng
+Drakkar Noir có độ lưu hương trung bình khá, khoảng 5-7 giờ; tỏa hương ở mức vừa. Nó hợp cho ban ngày, đi làm, thời tiết mát hoặc những dịp muốn một mùi nam cổ điển rõ tính cách.
+
+Trong khí hậu Việt Nam, chai này vẫn dùng được nhưng đẹp hơn khi trời dịu hoặc trong môi trường điều hòa. Ưu điểm là cá tính và có lịch sử; nhược điểm là khá kén gu và không dễ được compliment như các mùi hiện đại hơn.
+
+## Kết luận nhanh: hợp ai, khi nào nên mua
+Nếu mày thích nước hoa nam cổ điển, fougere xanh khô và có vibe barbershop rất rõ, Drakkar Noir là một cái tên đáng thử ít nhất một lần. Nó hợp người thích gu vintage và muốn tránh xa sự đại trà.
+
+Nên mua khi mày cần một chai có bản sắc old-school rõ. Nếu mục tiêu là mùi dễ khen, hiện đại và linh hoạt hơn, nên chọn hướng khác.`,
     article: "(Chờ Coder viết bài)",
     score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
     vibes: [],
@@ -5990,7 +6044,25 @@ Nên mua khi mày cần một chai tối lịch sự và có khí chất quý ô
     image: PENDING_IMAGE,
     images: [{ url: PENDING_IMAGE, source: "fragram", caption: "MEMO PARIS African Leather chính hãng", verified: false }],
     description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
+    productCopy: `## Mùi hương tổng thể
+African Leather là kiểu mùi spicy-leather hiện đại rất có lực: gia vị, da, saffron và nền ấm khô tạo nên cảm giác sang, mạnh và có chút hoang dã được kiểm soát. Nó không phải kiểu da thuộc bụi bặm quá khó dùng, mà là loại da được làm bóng, có độ luxury và rất hợp cho những dịp muốn hiện diện rõ.
+
+Điểm mạnh của African Leather là nó tạo hình ảnh rất nhanh. Chỉ vài phút đầu là đã thấy vibe sang tối, cá tính và hơi khác người. Trong bối cảnh Việt Nam, đây là chai hợp với tối, tiệc, date hoặc khi muốn một mùi hương có cá tính lớn hơn nhóm designer thông thường.
+
+## Diễn biến trên da
+Mở đầu là gia vị rất nổi bật, tạo cảm giác nóng, khô và sắc. Sau đó phần da và nền ấm xuất hiện, làm mùi hương sang hơn và dày hơn. Nó không quá nhiều tầng lớp cầu kỳ nhưng đường phát triển rất chắc, rất tự tin.
+
+Drydown giữ được độ da thuộc ấm và chút nhựa thơm, tạo hiệu ứng ôm da nhưng vẫn có lực. Nếu da mày nóng, gia vị có thể lên rõ hơn và khiến tổng thể mạnh hơn khá nhiều. Nhược điểm là người thích mùi nhẹ, sạch hoặc ban ngày có thể thấy chai này quá đậm.
+
+## Độ lưu hương / tỏa hương / hoàn cảnh dùng
+African Leather có hiệu năng tốt, lưu hương khoảng 7-9 giờ và tỏa hương khá trong giai đoạn đầu. Nó hợp nhất cho tối, máy lạnh, thời tiết mát, event hoặc những dịp muốn lên mùi có cá tính.
+
+Ở Việt Nam, nên tiết chế số lần xịt và tránh dùng giữa trưa nóng. Ưu điểm là sang, độc đáo và có sức nặng; nhược điểm là độ đa dụng thấp và không phải chai dành cho số đông.
+
+## Kết luận nhanh: hợp ai, khi nào nên mua
+Nếu mày muốn một chai da-gia vị cao cấp, có chất riêng và đủ nổi bật để dùng trong các dịp đặc biệt, African Leather là lựa chọn đáng cân nhắc. Nó hợp người thích mùi đậm, mạnh và mang tính tuyên ngôn.
+
+Nên mua khi mày cần một chai buổi tối có khí chất. Nếu ưu tiên sự an toàn, thân thiện và dùng hằng ngày, đây không phải hướng đầu tiên.`,
     article: "(Chờ Coder viết bài)",
     score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
     vibes: [],
@@ -7130,7 +7202,25 @@ Nên mua khi mày cần một chai tối lịch sự và có khí chất quý ô
     image: PENDING_IMAGE,
     images: [{ url: PENDING_IMAGE, source: "fragram", caption: "TOM FORD Grey Vetiver chính hãng", verified: false }],
     description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
+    productCopy: `## Mùi hương tổng thể
+Grey Vetiver là một trong những chai Tom Ford chỉn chu nhất theo hướng sạch, khô, sang và trưởng thành. Nó không đi theo kiểu Tom Ford tối, ngọt hay sexy thường thấy, mà chọn hướng vetiver-citrus cực kỳ lịch sự, gọn và mang khí chất doanh nhân rõ rệt. Đây là kiểu mùi không cần phô trương nhưng vẫn khiến người mặc trông rất có gu.
+
+Điểm mạnh của Grey Vetiver là sự tinh gọn. Mọi thứ được làm rất sạch: citrus đủ sáng, vetiver đủ khô, gia vị đủ nhẹ để tạo form nam tính rõ nhưng không gắt. Ở khí hậu Việt Nam, đây là nhóm mùi rất hợp với đi làm, gặp khách, mặc sơ mi, vest hoặc những lúc cần một mùi hương đáng tin cậy hơn là gây ấn tượng kiểu ồn ào.
+
+## Diễn biến trên da
+Mở đầu là citrus sáng và sắc, tạo cảm giác rất gọn gàng. Sau đó vetiver xuất hiện rõ dần, mang đến phần thân mùi khô, xanh và rất nam tính. Càng về sau, lớp nền gỗ và gia vị nhẹ giữ tổng thể ổn định, không bị mỏng hay bay theo kiểu nước cologne đơn giản.
+
+Drydown của Grey Vetiver rất đẹp nếu mày thích kiểu clean executive. Nó không ngọt, không tối, không dramatic, mà đều và sang theo cách rất controlled. Nhược điểm là ai thích Tom Ford kiểu nổi bật, đậm cá tính có thể thấy chai này quá an toàn.
+
+## Độ lưu hương / tỏa hương / hoàn cảnh dùng
+Grey Vetiver có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa phải, rất hợp môi trường công sở và không gian lịch sự. Nó dùng tốt cho ban ngày, họp hành, gặp đối tác, đi làm hoặc các dịp cần sự chuyên nghiệp.
+
+Trong thời tiết Việt Nam, đây là chai rất dễ dùng vì không ngọt và không nặng. Ưu điểm là thanh lịch, sạch, ít rủi ro; nhược điểm là không phải lựa chọn tối ưu cho hẹn hò buổi tối hoặc những ai thích mùi có độ gây nghiện cao.
+
+## Kết luận nhanh: hợp ai, khi nào nên mua
+Nếu mày cần một chai nam văn phòng cao cấp, lịch sự, sang và cực kỳ dễ mặc, Grey Vetiver là ứng viên rất mạnh. Nó hợp người trưởng thành, làm việc chuyên nghiệp và thích mùi hương phản ánh sự chỉn chu hơn là sự bùng nổ.
+
+Nên mua khi mày muốn một chai signature đi làm hoặc gặp khách. Nếu mày tìm một chai tối, ngọt hay quyến rũ hơn, Tom Ford còn nhiều hướng khác hợp hơn.`,
     article: "(Chờ Coder viết bài)",
     score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
     vibes: [],
