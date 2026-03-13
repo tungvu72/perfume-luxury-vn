@@ -1,0 +1,158 @@
+{
+  "timestamp": "2026-03-13T06:04:31.422Z",
+  "totalItems": 25,
+  "injected": 24,
+  "skipped": 0,
+  "notFound": 1,
+  "details": [
+    {
+      "id": "hermes-terre-d-hermes",
+      "targetId": "hermes-terre-d-hermes",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-01.json"
+    },
+    {
+      "id": "yves-saint-laurent-la-nuit-de-l-homme",
+      "targetId": "ysl-la-nuit-de-lhomme",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-01.json"
+    },
+    {
+      "id": "jean-paul-gaultier-le-male-le-parfum",
+      "status": "NOT_FOUND",
+      "batch": "coder-productcopy-batch-01.json"
+    },
+    {
+      "id": "prada-prada-l-homme",
+      "targetId": "prada-l-homme",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-01.json"
+    },
+    {
+      "id": "guerlain-l-homme-ideal-eau-de-parfum",
+      "targetId": "guerlain-l-homme-ideal-eau-de-parfum",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-01.json"
+    },
+    {
+      "id": "chanel-allure-homme-sport-eau-extreme",
+      "targetId": "chanel-allure-homme-sport-eau-extreme",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-02.json"
+    },
+    {
+      "id": "nishane-hacivat",
+      "targetId": "nishane-hacivat",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-02.json"
+    },
+    {
+      "id": "prada-lhomme-intense",
+      "targetId": "prada-lhomme-intense",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-02.json"
+    },
+    {
+      "id": "sospiro-perfumes-vibrato",
+      "targetId": "sospiro-vibrato",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-02.json"
+    },
+    {
+      "id": "hermes-terre-d-hermes-parfum",
+      "targetId": "hermes-terre-dhermes-parfum",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-02.json"
+    },
+    {
+      "id": "lalique-encre-noire",
+      "targetId": "lalique-encre-noire",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-03.json"
+    },
+    {
+      "id": "jpg-le-male-elixir",
+      "targetId": "jpg-le-male-elixir",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-03.json"
+    },
+    {
+      "id": "jpg-le-male-edt",
+      "targetId": "jpg-le-male-edt",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-03.json"
+    },
+    {
+      "id": "creed-absolu-aventus",
+      "targetId": "creed-absolu-aventus",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-03.json"
+    },
+    {
+      "id": "nishane-ani",
+      "targetId": "nishane-ani",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-03.json"
+    },
+    {
+      "id": "chanel-allure-homme-edition-blanche",
+      "targetId": "chanel-allure-homme-edition-blanche",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-04.json"
+    },
+    {
+      "id": "hermes-terre-dhermes-eau-givree",
+      "targetId": "hermes-terre-dhermes-eau-givree",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-04.json"
+    },
+    {
+      "id": "guerlain-habit-rouge-parfum",
+      "targetId": "guerlain-habit-rouge-parfum",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-04.json"
+    },
+    {
+      "id": "guerlain-angelique-noire",
+      "targetId": "guerlain-angelique-noire",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-04.json"
+    },
+    {
+      "id": "dior-pure-poison",
+      "targetId": "dior-pure-poison",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-04.json"
+    },
+    {
+      "id": "ysl-opium-edt",
+      "targetId": "ysl-opium-edt",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-05.json"
+    },
+    {
+      "id": "guerlain-mon-guerlain",
+      "targetId": "guerlain-mon-guerlain",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-05.json"
+    },
+    {
+      "id": "guerlain-shalimar-edp",
+      "targetId": "guerlain-shalimar-edp",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-05.json"
+    },
+    {
+      "id": "dior-hypnotic-poison",
+      "targetId": "dior-hypnotic-poison",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-05.json"
+    },
+    {
+      "id": "frederic-malle-portrait-of-a-lady",
+      "targetId": "frederic-malle-portrait-of-a-lady",
+      "status": "INJECTED",
+      "batch": "coder-productcopy-batch-05.json"
+    }
+  ]
+}

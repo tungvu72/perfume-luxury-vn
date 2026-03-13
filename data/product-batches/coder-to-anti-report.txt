@@ -41,3 +41,25 @@ IDs:
 - guerlain-angelique-noire
 - dior-pure-poison
 Status: ready for Anti inject
+
+Batch 05 DONE
+File: data/product-batches/coder-productcopy-batch-05.json
+Items: 5
+IDs:
+- ysl-opium-edt
+- guerlain-mon-guerlain
+- guerlain-shalimar-edp
+- dior-hypnotic-poison
+- frederic-malle-portrait-of-a-lady
+Status: ready for Anti inject
+
+Batch 06 DONE
+File: data/product-batches/coder-productcopy-batch-06.json
+Items: 5
+IDs:
+- tom-ford-grey-vetiver
+- penhaligons-halfeti
+- davidoff-cool-water
+- guy-laroche-drakkar-noir
+- memo-paris-african-leather
+Status: ready for Anti inject
