@@ -175,3 +175,48 @@ IDs:
 - mfk-grand-soir
 - bvlgari-tygar
 Status: ready for Anti inject
+
+Batch 14 DONE
+File: data/product-batches/coder-productcopy-batch-14.json
+Items: 10
+IDs:
+- boss-bottled-absolu
+- parfums-de-marly-herod
+- essential-parfums-bois-imperial
+- dior-eau-sauvage-parfum
+- xerjoff-alexandria-ii
+- versace-dylan-blue
+- chanel-egoiste
+- amouage-interlude-man
+- amouage-reflection-45-man
+- dior-homme-sport-2021
+Status: ready for Anti inject
+
+Batch 15 DONE
+File: data/product-batches/coder-productcopy-batch-15.json
+Items: 10
+IDs:
+- versace-pour-homme
+- dior-fahrenheit-le-parfum
+- armani-code-parfum
+- xerjoff-torino21
+- tom-ford-tuscan-leather
+- dg-light-blue-intense-homme
+- prada-luna-rossa-black
+- parfums-de-marly-carlisle
+- versace-eros-flame
+- louis-vuitton-limmensite
+Status: ready for Anti inject
+
+Batch 16 DONE
+File: data/product-batches/coder-productcopy-batch-16.json
+Items: 7
+IDs:
+- louis-vuitton-ombre-nomade
+- acqua-di-parma-colonia
+- parfums-de-marly-sedley
+- dior-addict-edp-2014
+- chanel-allure-edp
+- chloe-nomade-edp
+- guerlain-linstant-de-guerlain-femme
+Status: ready for Anti inject
