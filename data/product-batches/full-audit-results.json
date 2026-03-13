@@ -1,0 +1,5585 @@
+[
+  {
+    "id": "ysl-la-nuit-de-lhomme",
+    "brand": "YVES SAINT LAURENT",
+    "name": "La Nuit de l'Homme",
+    "seedMatch": {
+      "file": "men",
+      "line": 5,
+      "url": "/perfume/Yves-Saint-Laurent/La-Nuit-de-l-Homme-5521.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "xerjoff-naxos",
+    "brand": "XERJOFF",
+    "name": "XJ 1861 Naxos",
+    "seedMatch": {
+      "file": "men",
+      "line": 6,
+      "url": "/perfume/Xerjoff/XJ-1861-Naxos-30529.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "louis-vuitton-imagination",
+    "brand": "LOUIS VUITTON",
+    "name": "Imagination",
+    "seedMatch": {
+      "file": "men",
+      "line": 7,
+      "url": "/perfume/Louis-Vuitton/Imagination-67370.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "parfums-de-marly-layton",
+    "brand": "PARFUMS DE MARLY",
+    "name": "Layton",
+    "seedMatch": {
+      "file": "men",
+      "line": 9,
+      "url": "/perfume/Parfums-de-Marly/Layton-39314.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "amouage-reflection-man",
+    "brand": "AMOUAGE",
+    "name": "Reflection Man",
+    "seedMatch": {
+      "file": "men",
+      "line": 11,
+      "url": "/perfume/Amouage/Reflection-Man-920.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-fahrenheit",
+    "brand": "DIOR",
+    "name": "Fahrenheit",
+    "seedMatch": {
+      "file": "men",
+      "line": 15,
+      "url": "/perfume/Dior/Fahrenheit-228.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "tom-ford-ombre-leather",
+    "brand": "TOM FORD",
+    "name": "Ombré Leather",
+    "seedMatch": {
+      "file": "men",
+      "line": 18,
+      "url": "/perfume/Tom-Ford/Ombre-Leather-2018-50239.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "tom-ford-oud-wood",
+    "brand": "TOM FORD",
+    "name": "Oud Wood",
+    "seedMatch": {
+      "file": "men",
+      "line": 19,
+      "url": "/perfume/Tom-Ford/Oud-Wood-1826.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-homme-parfum",
+    "brand": "DIOR",
+    "name": "Dior Homme Parfum",
+    "seedMatch": {
+      "file": "men",
+      "line": 8,
+      "url": "/perfume/Dior/Dior-Homme-Parfum-27417.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "acqua-di-gio-profumo",
+    "brand": "GIORGIO ARMANI",
+    "name": "Acqua di Giò Profumo",
+    "seedMatch": {
+      "file": "men",
+      "line": 12,
+      "url": "/perfume/Giorgio-Armani/Acqua-di-Gio-Profumo-29727.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "bleu-de-chanel-parfum",
+    "brand": "CHANEL",
+    "name": "Bleu de Chanel",
+    "seedMatch": {
+      "file": "men",
+      "line": 4,
+      "url": "/perfume/Chanel/Bleu-de-Chanel-Eau-de-Parfum-25967.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-hypnotic-poison",
+    "brand": "DIOR",
+    "name": "Hypnotic Poison",
+    "seedMatch": {
+      "file": "women",
+      "line": 1,
+      "url": "/perfume/Dior/Hypnotic-Poison-219.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-shalimar-edp",
+    "brand": "GUERLAIN",
+    "name": "Shalimar",
+    "seedMatch": {
+      "file": "women",
+      "line": 2,
+      "url": "/perfume/Guerlain/Shalimar-Eau-de-Parfum-53.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-mon-guerlain",
+    "brand": "GUERLAIN",
+    "name": "Mon Guerlain",
+    "seedMatch": {
+      "file": "women",
+      "line": 4,
+      "url": "/perfume/Guerlain/Mon-Guerlain-43297.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-addict-edp",
+    "brand": "DIOR",
+    "name": "Dior Addict",
+    "seedMatch": {
+      "file": "women",
+      "line": 7,
+      "url": "/perfume/Dior/Dior-Addict-215.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "ysl-libre-le-parfum",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Libre Le Parfum",
+    "seedMatch": {
+      "file": "women",
+      "line": 8,
+      "url": "/perfume/Yves-Saint-Laurent/Libre-Le-Parfum-75676.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "frederic-malle-portrait-of-a-lady",
+    "brand": "FRÉDÉRIC MALLE",
+    "name": "Portrait of a Lady",
+    "seedMatch": {
+      "file": "women",
+      "line": 10,
+      "url": "/perfume/Frederic-Malle/Portrait-of-a-Lady-10464.html",
+      "matchType": "NAME_EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "kilian-love-dont-be-shy",
+    "brand": "BY KILIAN",
+    "name": "Love, Don't Be Shy",
+    "seedMatch": {
+      "file": "women",
+      "line": 14,
+      "url": "/perfume/By-Kilian/Love-Don-t-Be-Shy-4322.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-jadore-edp",
+    "brand": "DIOR",
+    "name": "J'adore",
+    "seedMatch": {
+      "file": "women",
+      "line": 16,
+      "url": "/perfume/Dior/J-adore-210.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-shalimar-parfum",
+    "brand": "GUERLAIN",
+    "name": "Shalimar Parfum",
+    "seedMatch": {
+      "file": "women",
+      "line": 17,
+      "url": "/perfume/Guerlain/Shalimar-Parfum-33557.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-poison",
+    "brand": "DIOR",
+    "name": "Poison",
+    "seedMatch": {
+      "file": "women",
+      "line": 1,
+      "url": "/perfume/Dior/Hypnotic-Poison-219.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "chanel-allure-homme-sport-eau-extreme",
+    "brand": "CHANEL",
+    "name": "Allure Homme Sport Eau Extrême",
+    "seedMatch": {
+      "file": "men",
+      "line": 21,
+      "url": "/perfume/Chanel/Allure-Homme-Sport-Eau-Extreme-14669.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "nishane-hacivat",
+    "brand": "NISHANE",
+    "name": "Hacivat",
+    "seedMatch": {
+      "file": "men",
+      "line": 25,
+      "url": "/perfume/Nishane/Hacivat-44174.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "prada-lhomme-intense",
+    "brand": "PRADA",
+    "name": "L'Homme Intense",
+    "seedMatch": {
+      "file": "men",
+      "line": 13,
+      "url": "/perfume/Prada/Prada-L-Homme-39029.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "sospiro-vibrato",
+    "brand": "SOSPIRO",
+    "name": "Vibrato",
+    "seedMatch": {
+      "file": "men",
+      "line": 32,
+      "url": "/perfume/Sospiro-Perfumes/Vibrato-75930.html",
+      "matchType": "NAME_EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "hermes-terre-dhermes-parfum",
+    "brand": "HERMÈS",
+    "name": "Terre d'Hermès Parfum",
+    "seedMatch": {
+      "file": "men",
+      "line": 3,
+      "url": "/perfume/Hermes/Terre-d-Hermes-17.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "creed-green-irish-tweed",
+    "brand": "CREED",
+    "name": "Green Irish Tweed",
+    "seedMatch": {
+      "file": "men",
+      "line": 36,
+      "url": "/perfume/Creed/Green-Irish-Tweed-474.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-eau-sauvage",
+    "brand": "DIOR",
+    "name": "Eau Sauvage",
+    "seedMatch": {
+      "file": "men",
+      "line": 37,
+      "url": "/perfume/Dior/Eau-Sauvage-231.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "marc-antoine-barrois-ganymede",
+    "brand": "MARC-ANTOINE BARROIS",
+    "name": "Ganymède",
+    "seedMatch": {
+      "file": "men",
+      "line": 38,
+      "url": "/perfume/Marc-Antoine-Barrois/Ganymede-54720.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "parfums-de-marly-althair",
+    "brand": "PARFUMS DE MARLY",
+    "name": "Althaïr",
+    "seedMatch": {
+      "file": "men",
+      "line": 39,
+      "url": "/perfume/Parfums-de-Marly/Althair-84109.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-angelique-noire",
+    "brand": "GUERLAIN",
+    "name": "Angélique Noire",
+    "seedMatch": {
+      "file": "women",
+      "line": 11,
+      "url": "/perfume/Mugler/Angel-704.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-pure-poison",
+    "brand": "DIOR",
+    "name": "Pure Poison",
+    "seedMatch": {
+      "file": "women",
+      "line": 18,
+      "url": "/perfume/Dior/Poison-218.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "ysl-opium-edt",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Opium",
+    "seedMatch": {
+      "file": "women",
+      "line": 24,
+      "url": "/perfume/Yves-Saint-Laurent/Opium-1977-93.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "ysl-black-opium-le-parfum",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Black Opium Le Parfum",
+    "seedMatch": {
+      "file": "women",
+      "line": 24,
+      "url": "/perfume/Yves-Saint-Laurent/Opium-1977-93.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "chloe-edp",
+    "brand": "CHLOÉ",
+    "name": "Chloé Eau de Parfum",
+    "seedMatch": null,
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "INVALID_ITEM",
+    "problems": [
+      "No matching URL found in men.txt or women.txt"
+    ]
+  },
+  {
+    "id": "guerlain-insolence-edp",
+    "brand": "GUERLAIN",
+    "name": "Insolence",
+    "seedMatch": {
+      "file": "women",
+      "line": 30,
+      "url": "/perfume/Guerlain/Insolence-Eau-de-Parfum-67537.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-mon-guerlain-intense",
+    "brand": "GUERLAIN",
+    "name": "Mon Guerlain Intense",
+    "seedMatch": {
+      "file": "women",
+      "line": 4,
+      "url": "/perfume/Guerlain/Mon-Guerlain-43297.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-samsara-edp",
+    "brand": "GUERLAIN",
+    "name": "Samsara",
+    "seedMatch": {
+      "file": "women",
+      "line": 32,
+      "url": "/perfume/Guerlain/Samsara-Eau-de-Parfum-55.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-dune-edt",
+    "brand": "DIOR",
+    "name": "Dune",
+    "seedMatch": {
+      "file": "women",
+      "line": 33,
+      "url": "/perfume/Dior/Dune-221.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "byredo-bal-dafrique",
+    "brand": "BYREDO",
+    "name": "Bal d'Afrique",
+    "seedMatch": {
+      "file": "women",
+      "line": 37,
+      "url": "/perfume/Byredo/Bal-d-Afrique-6458.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-mitsouko-edp",
+    "brand": "GUERLAIN",
+    "name": "Mitsouko",
+    "seedMatch": {
+      "file": "women",
+      "line": 38,
+      "url": "/perfume/Guerlain/Mitsouko-Eau-de-Parfum-25316.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-shalimar-lessence",
+    "brand": "GUERLAIN",
+    "name": "Shalimar L'Essence",
+    "seedMatch": {
+      "file": "women",
+      "line": 39,
+      "url": "/perfume/Guerlain/Shalimar-L-Essence-113241.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "lalique-encre-noire",
+    "brand": "LALIQUE",
+    "name": "Encre Noire",
+    "seedMatch": {
+      "file": "men",
+      "line": 41,
+      "url": "/perfume/Lalique/Encre-Noire-1834.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "jpg-le-male-elixir",
+    "brand": "JEAN PAUL GAULTIER",
+    "name": "Le Male Elixir",
+    "seedMatch": {
+      "file": "men",
+      "line": 42,
+      "url": "/perfume/Jean-Paul-Gaultier/Le-Male-Elixir-81642.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "jpg-le-male-edt",
+    "brand": "JEAN PAUL GAULTIER",
+    "name": "Le Male",
+    "seedMatch": {
+      "file": "men",
+      "line": 10,
+      "url": "/perfume/Jean-Paul-Gaultier/Le-Male-Le-Parfum-61856.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "creed-absolu-aventus",
+    "brand": "CREED",
+    "name": "Absolu Aventus",
+    "seedMatch": {
+      "file": "men",
+      "line": 1,
+      "url": "/perfume/Creed/Aventus-9828.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "nishane-ani",
+    "brand": "NISHANE",
+    "name": "Ani",
+    "seedMatch": {
+      "file": "men",
+      "line": 47,
+      "url": "/perfume/Nishane/Ani-54785.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "chanel-allure-homme-sport",
+    "brand": "CHANEL",
+    "name": "Allure Homme Sport",
+    "seedMatch": {
+      "file": "men",
+      "line": 21,
+      "url": "/perfume/Chanel/Allure-Homme-Sport-Eau-Extreme-14669.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "ysl-tuxedo",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Tuxedo",
+    "seedMatch": {
+      "file": "men",
+      "line": 51,
+      "url": "/perfume/Yves-Saint-Laurent/Tuxedo-32269.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-lhomme-ideal-parfum",
+    "brand": "GUERLAIN",
+    "name": "L'Homme Idéal Parfum",
+    "seedMatch": {
+      "file": "men",
+      "line": 20,
+      "url": "/perfume/Guerlain/L-Homme-Ideal-Eau-de-Parfum-37735.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-vetiver",
+    "brand": "GUERLAIN",
+    "name": "Vétiver",
+    "seedMatch": {
+      "file": "men",
+      "line": 56,
+      "url": "/perfume/Guerlain/Vetiver-69.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "frederic-malle-musc-ravageur",
+    "brand": "FRÉDÉRIC MALLE",
+    "name": "Musc Ravageur",
+    "seedMatch": {
+      "file": "men",
+      "line": 59,
+      "url": "/perfume/Frederic-Malle/Musc-Ravageur-1801.html",
+      "matchType": "NAME_EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "jpg-la-belle-edp",
+    "brand": "JEAN PAUL GAULTIER",
+    "name": "La Belle",
+    "seedMatch": {
+      "file": "women",
+      "line": 41,
+      "url": "/perfume/Jean-Paul-Gaultier/La-Belle-55786.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-midnight-poison",
+    "brand": "DIOR",
+    "name": "Midnight Poison",
+    "seedMatch": {
+      "file": "women",
+      "line": 18,
+      "url": "/perfume/Dior/Poison-218.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-addict-edp-2014",
+    "brand": "DIOR",
+    "name": "Dior Addict Eau de Parfum 2014",
+    "seedMatch": {
+      "file": "women",
+      "line": 7,
+      "url": "/perfume/Dior/Dior-Addict-215.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-lheure-bleue-edp",
+    "brand": "GUERLAIN",
+    "name": "L'Heure Bleue",
+    "seedMatch": {
+      "file": "women",
+      "line": 45,
+      "url": "/perfume/Guerlain/L-Heure-Bleue-Eau-de-Parfum-208.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "ysl-libre-intense",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Libre Intense",
+    "seedMatch": {
+      "file": "women",
+      "line": 46,
+      "url": "/perfume/Yves-Saint-Laurent/Libre-Intense-62318.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "jpg-classique-edt",
+    "brand": "JEAN PAUL GAULTIER",
+    "name": "Classique",
+    "seedMatch": {
+      "file": "women",
+      "line": 48,
+      "url": "/perfume/Jean-Paul-Gaultier/Classique-427.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-spiritueuse-double-vanille",
+    "brand": "GUERLAIN",
+    "name": "Spiritueuse Double Vanille",
+    "seedMatch": {
+      "file": "women",
+      "line": 50,
+      "url": "/perfume/Guerlain/Spiritueuse-Double-Vanille-3345.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "chanel-allure-edp",
+    "brand": "CHANEL",
+    "name": "Allure",
+    "seedMatch": {
+      "file": "men",
+      "line": 21,
+      "url": "/perfume/Chanel/Allure-Homme-Sport-Eau-Extreme-14669.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "les-liquides-imaginaires-blanche-bete",
+    "brand": "LES LIQUIDES IMAGINAIRES",
+    "name": "Blanche Bête",
+    "seedMatch": {
+      "file": "women",
+      "line": 52,
+      "url": "/perfume/Les-Liquides-Imaginaires/Blanche-Bete-70189.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "prada-infusion-diris",
+    "brand": "PRADA",
+    "name": "Infusion d'Iris",
+    "seedMatch": {
+      "file": "women",
+      "line": 55,
+      "url": "/perfume/Prada/Infusion-d-Iris-2015-31040.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "diptyque-philosykos-edp",
+    "brand": "DIPTYQUE",
+    "name": "Philosykos",
+    "seedMatch": {
+      "file": "women",
+      "line": 57,
+      "url": "/perfume/Diptyque/Philosykos-Eau-de-Parfum-3865.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "giardini-di-toscana-bianco-latte",
+    "brand": "GIARDINI DI TOSCANA",
+    "name": "Bianco Latte",
+    "seedMatch": {
+      "file": "women",
+      "line": 58,
+      "url": "/perfume/Giardini-Di-Toscana/Bianco-Latte-64757.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "chloe-nomade-edp",
+    "brand": "CHLOÉ",
+    "name": "Nomade",
+    "seedMatch": {
+      "file": "men",
+      "line": 94,
+      "url": "/perfume/Louis-Vuitton/Ombre-Nomade-49755.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "chanel-allure-homme-edition-blanche",
+    "brand": "CHANEL",
+    "name": "Allure Homme Édition Blanche",
+    "seedMatch": {
+      "file": "men",
+      "line": 21,
+      "url": "/perfume/Chanel/Allure-Homme-Sport-Eau-Extreme-14669.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "hermes-terre-dhermes-eau-givree",
+    "brand": "HERMÈS",
+    "name": "Terre d'Hermès Eau Givrée",
+    "seedMatch": {
+      "file": "men",
+      "line": 3,
+      "url": "/perfume/Hermes/Terre-d-Hermes-17.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-habit-rouge-parfum",
+    "brand": "GUERLAIN",
+    "name": "Habit Rouge Parfum",
+    "seedMatch": {
+      "file": "men",
+      "line": 67,
+      "url": "/perfume/Guerlain/Habit-Rouge-Parfum-90802.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "penhaligons-halfeti",
+    "brand": "PENHALIGON'S",
+    "name": "Halfeti",
+    "seedMatch": {
+      "file": "men",
+      "line": 71,
+      "url": "/perfume/Penhaligon-s/Halfeti-31396.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "chanel-antaeus",
+    "brand": "CHANEL",
+    "name": "Antaeus",
+    "seedMatch": {
+      "file": "men",
+      "line": 72,
+      "url": "/perfume/Chanel/Antaeus-616.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "davidoff-cool-water",
+    "brand": "DAVIDOFF",
+    "name": "Cool Water",
+    "seedMatch": {
+      "file": "men",
+      "line": 73,
+      "url": "/perfume/Davidoff/Cool-Water-507.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guy-laroche-drakkar-noir",
+    "brand": "GUY LAROCHE",
+    "name": "Drakkar Noir",
+    "seedMatch": {
+      "file": "men",
+      "line": 74,
+      "url": "/perfume/Guy-Laroche/Drakkar-Noir-2069.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "memo-african-leather",
+    "brand": "MEMO PARIS",
+    "name": "African Leather",
+    "seedMatch": {
+      "file": "men",
+      "line": 76,
+      "url": "/perfume/Memo-Paris/African-Leather-31383.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-linstant-homme-edp",
+    "brand": "GUERLAIN",
+    "name": "L'Instant de Guerlain pour Homme",
+    "seedMatch": {
+      "file": "men",
+      "line": 80,
+      "url": "/perfume/Guerlain/L-Instant-de-Guerlain-pour-Homme-EDP-44763.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "hermes-un-jardin-sur-le-nil",
+    "brand": "HERMÈS",
+    "name": "Un Jardin Sur Le Nil",
+    "seedMatch": {
+      "file": "women",
+      "line": 62,
+      "url": "/perfume/Hermes/Un-Jardin-Sur-Le-Nil-18.html",
+      "matchType": "NAME_EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-dolce-vita",
+    "brand": "DIOR",
+    "name": "Dolce Vita",
+    "seedMatch": {
+      "file": "women",
+      "line": 67,
+      "url": "/perfume/Dior/Dolce-Vita-222.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "nishane-hundred-silent-ways",
+    "brand": "NISHANE",
+    "name": "Hundred Silent Ways",
+    "seedMatch": {
+      "file": "women",
+      "line": 71,
+      "url": "/perfume/Nishane/Hundred-Silent-Ways-37602.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "jpg-la-belle-le-parfum",
+    "brand": "JEAN PAUL GAULTIER",
+    "name": "La Belle Le Parfum",
+    "seedMatch": {
+      "file": "women",
+      "line": 41,
+      "url": "/perfume/Jean-Paul-Gaultier/La-Belle-55786.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "ysl-cinema",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Cinéma",
+    "seedMatch": {
+      "file": "women",
+      "line": 74,
+      "url": "/perfume/Yves-Saint-Laurent/Cinema-92.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-diorissimo",
+    "brand": "DIOR",
+    "name": "Diorissimo",
+    "seedMatch": {
+      "file": "women",
+      "line": 76,
+      "url": "/perfume/Dior/Diorissimo-224.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-samsara-extrait",
+    "brand": "GUERLAIN",
+    "name": "Samsara Extrait",
+    "seedMatch": {
+      "file": "women",
+      "line": 78,
+      "url": "/perfume/Guerlain/Samsara-Extrait-25318.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "zadig-voltaire-this-is-her",
+    "brand": "ZADIG & VOLTAIRE",
+    "name": "This Is Her!",
+    "seedMatch": {
+      "file": "women",
+      "line": 80,
+      "url": "/perfume/Zadig-Voltaire/This-is-Her-39358.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "ysl-la-nuit-de-lhomme-bleu-electrique",
+    "brand": "YVES SAINT LAURENT",
+    "name": "La Nuit de l'Homme Bleu Électrique",
+    "seedMatch": {
+      "file": "men",
+      "line": 5,
+      "url": "/perfume/Yves-Saint-Laurent/La-Nuit-de-l-Homme-5521.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-habit-rouge-edt",
+    "brand": "GUERLAIN",
+    "name": "Habit Rouge",
+    "seedMatch": {
+      "file": "men",
+      "line": 67,
+      "url": "/perfume/Guerlain/Habit-Rouge-Parfum-90802.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "chanel-allure-homme-edt",
+    "brand": "CHANEL",
+    "name": "Allure Homme",
+    "seedMatch": {
+      "file": "men",
+      "line": 21,
+      "url": "/perfume/Chanel/Allure-Homme-Sport-Eau-Extreme-14669.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "creed-absolu-aventus-2",
+    "brand": "CREED",
+    "name": "Absolu Aventus",
+    "seedMatch": {
+      "file": "men",
+      "line": 1,
+      "url": "/perfume/Creed/Aventus-9828.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "lalique-encre-noire-a-lextreme",
+    "brand": "LALIQUE",
+    "name": "Encre Noire à l'Extrême",
+    "seedMatch": {
+      "file": "men",
+      "line": 41,
+      "url": "/perfume/Lalique/Encre-Noire-1834.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "cartier-la-panthere",
+    "brand": "CARTIER",
+    "name": "La Panthère",
+    "seedMatch": {
+      "file": "women",
+      "line": 81,
+      "url": "/perfume/Cartier/La-Panthere-23295.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "kayali-vanilla-28-2",
+    "brand": "KAYALI",
+    "name": "Vanilla 28",
+    "seedMatch": {
+      "file": "women",
+      "line": 82,
+      "url": "/perfume/Kayali-Fragrances/Vanilla-28-52616.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "ysl-rive-gauche",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Rive Gauche",
+    "seedMatch": {
+      "file": "women",
+      "line": 87,
+      "url": "/perfume/Yves-Saint-Laurent/Rive-Gauche-96.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-lheure-bleue-edt",
+    "brand": "GUERLAIN",
+    "name": "L'Heure Bleue",
+    "seedMatch": {
+      "file": "women",
+      "line": 45,
+      "url": "/perfume/Guerlain/L-Heure-Bleue-Eau-de-Parfum-208.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "frederic-malle-carnal-flower",
+    "brand": "FRÉDÉRIC MALLE",
+    "name": "Carnal Flower",
+    "seedMatch": {
+      "file": "women",
+      "line": 89,
+      "url": "/perfume/Frederic-Malle/Carnal-Flower-1024.html",
+      "matchType": "NAME_EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-linstant-de-guerlain-femme",
+    "brand": "GUERLAIN",
+    "name": "L'Instant de Guerlain",
+    "seedMatch": {
+      "file": "men",
+      "line": 80,
+      "url": "/perfume/Guerlain/L-Instant-de-Guerlain-pour-Homme-EDP-44763.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "hermes-24-faubourg",
+    "brand": "HERMÈS",
+    "name": "24 Faubourg",
+    "seedMatch": {
+      "file": "women",
+      "line": 91,
+      "url": "/perfume/Hermes/24-Faubourg-27.html",
+      "matchType": "NAME_EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "lolita-lempicka-le-parfum",
+    "brand": "LOLITA LEMPICKA",
+    "name": "Lolita Lempicka Le Parfum",
+    "seedMatch": {
+      "file": "women",
+      "line": 92,
+      "url": "/perfume/Lolita-Lempicka/Lolita-Lempicka-Le-Parfum-2023-82245.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-hypnotic-poison-edp",
+    "brand": "DIOR",
+    "name": "Hypnotic Poison Eau de Parfum",
+    "seedMatch": {
+      "file": "women",
+      "line": 1,
+      "url": "/perfume/Dior/Hypnotic-Poison-219.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "ck-obsession",
+    "brand": "CALVIN KLEIN",
+    "name": "Obsession",
+    "seedMatch": {
+      "file": "women",
+      "line": 95,
+      "url": "/perfume/Calvin-Klein/Obsession-248.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "guerlain-champs-elysees-edp",
+    "brand": "GUERLAIN",
+    "name": "Champs-Élysées",
+    "seedMatch": {
+      "file": "women",
+      "line": 97,
+      "url": "/perfume/Guerlain/Champs-Elysees-Eau-de-Parfum-25330.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "tom-ford-tobacco-vanille",
+    "brand": "TOM FORD",
+    "name": "Tobacco Vanille",
+    "seedMatch": {
+      "file": "men",
+      "line": 23,
+      "url": "/perfume/Tom-Ford/Tobacco-Vanille-1825.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "chanel-egoiste-platinum",
+    "brand": "CHANEL",
+    "name": "Égoïste Platinum",
+    "seedMatch": {
+      "file": "men",
+      "line": 26,
+      "url": "/perfume/Chanel/Egoiste-Platinum-614.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "mfk-grand-soir",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "name": "Grand Soir",
+    "seedMatch": {
+      "file": "men",
+      "line": 27,
+      "url": "/perfume/Maison-Francis-Kurkdjian/Grand-Soir-40816.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "bvlgari-tygar",
+    "brand": "BVLGARI",
+    "name": "Tygar",
+    "seedMatch": {
+      "file": "men",
+      "line": 29,
+      "url": "/perfume/Bvlgari/Tygar-41222.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "boss-bottled-absolu",
+    "brand": "HUGO BOSS",
+    "name": "Boss Bottled Absolu",
+    "seedMatch": {
+      "file": "men",
+      "line": 31,
+      "url": "/perfume/Hugo-Boss/Bottled-Absolu-96246.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "parfums-de-marly-herod",
+    "brand": "PARFUMS DE MARLY",
+    "name": "Herod",
+    "seedMatch": {
+      "file": "men",
+      "line": 46,
+      "url": "/perfume/Parfums-de-Marly/Herod-16939.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "essential-parfums-bois-imperial",
+    "brand": "ESSENTIAL PARFUMS",
+    "name": "Bois Impérial",
+    "seedMatch": {
+      "file": "men",
+      "line": 49,
+      "url": "/perfume/Essential-Parfums/Bois-Imperial-64338.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-eau-sauvage-parfum",
+    "brand": "DIOR",
+    "name": "Eau Sauvage Parfum",
+    "seedMatch": {
+      "file": "men",
+      "line": 37,
+      "url": "/perfume/Dior/Eau-Sauvage-231.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "xerjoff-alexandria-ii",
+    "brand": "XERJOFF",
+    "name": "Alexandria II",
+    "seedMatch": {
+      "file": "men",
+      "line": 54,
+      "url": "/perfume/Xerjoff/Alexandria-II-17786.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "versace-dylan-blue",
+    "brand": "VERSACE",
+    "name": "Pour Homme Dylan Blue",
+    "seedMatch": {
+      "file": "men",
+      "line": 58,
+      "url": "/perfume/Versace/Versace-Pour-Homme-Dylan-Blue-40031.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "chanel-egoiste",
+    "brand": "CHANEL",
+    "name": "Égoïste",
+    "seedMatch": {
+      "file": "men",
+      "line": 60,
+      "url": "/perfume/Chanel/Egoiste-613.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "amouage-interlude-man",
+    "brand": "AMOUAGE",
+    "name": "Interlude Man",
+    "seedMatch": {
+      "file": "men",
+      "line": 63,
+      "url": "/perfume/Amouage/Interlude-Man-15294.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "amouage-reflection-45-man",
+    "brand": "AMOUAGE",
+    "name": "Reflection 45 Man",
+    "seedMatch": {
+      "file": "men",
+      "line": 11,
+      "url": "/perfume/Amouage/Reflection-Man-920.html",
+      "matchType": "ID_CONTAINS_SEED"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-homme-sport-2021",
+    "brand": "DIOR",
+    "name": "Dior Homme Sport 2021",
+    "seedMatch": {
+      "file": "men",
+      "line": 57,
+      "url": "/perfume/Dior/Dior-Homme-2020-58714.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "versace-pour-homme",
+    "brand": "VERSACE",
+    "name": "Pour Homme",
+    "seedMatch": {
+      "file": "men",
+      "line": 33,
+      "url": "/perfume/Issey-Miyake/L-Eau-d-Issey-Pour-Homme-721.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "tom-ford-grey-vetiver",
+    "brand": "TOM FORD",
+    "name": "Grey Vetiver",
+    "seedMatch": {
+      "file": "men",
+      "line": 56,
+      "url": "/perfume/Guerlain/Vetiver-69.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-fahrenheit-le-parfum",
+    "brand": "DIOR",
+    "name": "Fahrenheit Le Parfum",
+    "seedMatch": {
+      "file": "men",
+      "line": 15,
+      "url": "/perfume/Dior/Fahrenheit-228.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dior-sauvage-edp-variant",
+    "brand": "DIOR",
+    "name": "Sauvage Eau de Parfum (Bản EDP)",
+    "seedMatch": {
+      "file": "men",
+      "line": 77,
+      "url": "/perfume/Dior/Sauvage-Eau-de-Parfum-48100.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "armani-code-parfum",
+    "brand": "GIORGIO ARMANI",
+    "name": "Armani Code Parfum",
+    "seedMatch": {
+      "file": "men",
+      "line": 79,
+      "url": "/perfume/Giorgio-Armani/Armani-Code-Parfum-75126.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "xerjoff-torino21",
+    "brand": "XERJOFF",
+    "name": "Torino21",
+    "seedMatch": {
+      "file": "men",
+      "line": 81,
+      "url": "/perfume/Xerjoff/Torino21-70424.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "tom-ford-tuscan-leather",
+    "brand": "TOM FORD",
+    "name": "Tuscan Leather",
+    "seedMatch": {
+      "file": "men",
+      "line": 82,
+      "url": "/perfume/Tom-Ford/Tuscan-Leather-1849.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "dg-light-blue-intense-homme",
+    "brand": "DOLCE & GABBANA",
+    "name": "Light Blue Eau Intense Pour Homme",
+    "seedMatch": {
+      "file": "men",
+      "line": 84,
+      "url": "/perfume/Dolce-Gabbana/Light-Blue-Eau-Intense-Pour-Homme-44035.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "prada-luna-rossa-black",
+    "brand": "PRADA",
+    "name": "Luna Rossa Black",
+    "seedMatch": {
+      "file": "men",
+      "line": 88,
+      "url": "/perfume/Prada/Luna-Rossa-Black-48682.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "parfums-de-marly-carlisle",
+    "brand": "PARFUMS DE MARLY",
+    "name": "Carlisle",
+    "seedMatch": {
+      "file": "men",
+      "line": 90,
+      "url": "/perfume/Parfums-de-Marly/Carlisle-33514.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "versace-eros-flame",
+    "brand": "VERSACE",
+    "name": "Eros Flame",
+    "seedMatch": {
+      "file": "men",
+      "line": 91,
+      "url": "/perfume/Versace/Eros-Flame-52180.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "louis-vuitton-limmensite",
+    "brand": "LOUIS VUITTON",
+    "name": "L'Immensité",
+    "seedMatch": {
+      "file": "men",
+      "line": 93,
+      "url": "/perfume/Louis-Vuitton/L-Immensite-49751.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "louis-vuitton-ombre-nomade",
+    "brand": "LOUIS VUITTON",
+    "name": "Ombre Nomade",
+    "seedMatch": {
+      "file": "men",
+      "line": 94,
+      "url": "/perfume/Louis-Vuitton/Ombre-Nomade-49755.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "acqua-di-parma-colonia",
+    "brand": "ACQUA DI PARMA",
+    "name": "Colonia",
+    "seedMatch": {
+      "file": "men",
+      "line": 96,
+      "url": "/perfume/Acqua-di-Parma/Acqua-di-Parma-Colonia-1681.html",
+      "matchType": "CONTAINS"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  },
+  {
+    "id": "parfums-de-marly-sedley",
+    "brand": "PARFUMS DE MARLY",
+    "name": "Sedley",
+    "seedMatch": {
+      "file": "men",
+      "line": 100,
+      "url": "/perfume/Parfums-de-Marly/Sedley-56273.html",
+      "matchType": "EXACT"
+    },
+    "inferredFields": [
+      "perfumer",
+      "topNotes",
+      "middleNotes",
+      "baseNotes",
+      "accords",
+      "longevity",
+      "sillage",
+      "seasons",
+      "dayNight",
+      "score",
+      "basePrice",
+      "vibes",
+      "tags",
+      "sizes",
+      "description",
+      "verdict",
+      "verdictShort"
+    ],
+    "safeFields": [
+      "brand",
+      "brandSlug",
+      "name",
+      "gender"
+    ],
+    "suspectFields": [
+      "subName",
+      "id"
+    ],
+    "status": "NEEDS_CLEANUP",
+    "problems": [
+      "All metadata fields (perfumer, notes, accords, scores, price, etc.) are INFERRED from AI training data, not from verified source"
+    ]
+  }
+]

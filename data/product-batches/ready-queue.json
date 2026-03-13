@@ -1,0 +1,710 @@
+[
+  {
+    "id": "ysl-la-nuit-de-lhomme",
+    "brand": "YVES SAINT LAURENT",
+    "name": "La Nuit de l'Homme",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "xerjoff-naxos",
+    "brand": "XERJOFF",
+    "name": "XJ 1861 Naxos",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "louis-vuitton-imagination",
+    "brand": "LOUIS VUITTON",
+    "name": "Imagination",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "parfums-de-marly-layton",
+    "brand": "PARFUMS DE MARLY",
+    "name": "Layton",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "amouage-reflection-man",
+    "brand": "AMOUAGE",
+    "name": "Reflection Man",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-fahrenheit",
+    "brand": "DIOR",
+    "name": "Fahrenheit",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "tom-ford-ombre-leather",
+    "brand": "TOM FORD",
+    "name": "Ombré Leather",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "tom-ford-oud-wood",
+    "brand": "TOM FORD",
+    "name": "Oud Wood",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-homme-parfum",
+    "brand": "DIOR",
+    "name": "Dior Homme Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "acqua-di-gio-profumo",
+    "brand": "GIORGIO ARMANI",
+    "name": "Acqua di Giò Profumo",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "bleu-de-chanel-parfum",
+    "brand": "CHANEL",
+    "name": "Bleu de Chanel",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-hypnotic-poison",
+    "brand": "DIOR",
+    "name": "Hypnotic Poison",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-shalimar-edp",
+    "brand": "GUERLAIN",
+    "name": "Shalimar",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-mon-guerlain",
+    "brand": "GUERLAIN",
+    "name": "Mon Guerlain",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-addict-edp",
+    "brand": "DIOR",
+    "name": "Dior Addict",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "ysl-libre-le-parfum",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Libre Le Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "frederic-malle-portrait-of-a-lady",
+    "brand": "FRÉDÉRIC MALLE",
+    "name": "Portrait of a Lady",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "kilian-love-dont-be-shy",
+    "brand": "BY KILIAN",
+    "name": "Love, Don't Be Shy",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-jadore-edp",
+    "brand": "DIOR",
+    "name": "J'adore",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-shalimar-parfum",
+    "brand": "GUERLAIN",
+    "name": "Shalimar Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-poison",
+    "brand": "DIOR",
+    "name": "Poison",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "chanel-allure-homme-sport-eau-extreme",
+    "brand": "CHANEL",
+    "name": "Allure Homme Sport Eau Extrême",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "nishane-hacivat",
+    "brand": "NISHANE",
+    "name": "Hacivat",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "prada-lhomme-intense",
+    "brand": "PRADA",
+    "name": "L'Homme Intense",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "sospiro-vibrato",
+    "brand": "SOSPIRO",
+    "name": "Vibrato",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "hermes-terre-dhermes-parfum",
+    "brand": "HERMÈS",
+    "name": "Terre d'Hermès Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "creed-green-irish-tweed",
+    "brand": "CREED",
+    "name": "Green Irish Tweed",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-eau-sauvage",
+    "brand": "DIOR",
+    "name": "Eau Sauvage",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "marc-antoine-barrois-ganymede",
+    "brand": "MARC-ANTOINE BARROIS",
+    "name": "Ganymède",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "parfums-de-marly-althair",
+    "brand": "PARFUMS DE MARLY",
+    "name": "Althaïr",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-angelique-noire",
+    "brand": "GUERLAIN",
+    "name": "Angélique Noire",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-pure-poison",
+    "brand": "DIOR",
+    "name": "Pure Poison",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "ysl-opium-edt",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Opium",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "ysl-black-opium-le-parfum",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Black Opium Le Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-insolence-edp",
+    "brand": "GUERLAIN",
+    "name": "Insolence",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-mon-guerlain-intense",
+    "brand": "GUERLAIN",
+    "name": "Mon Guerlain Intense",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-samsara-edp",
+    "brand": "GUERLAIN",
+    "name": "Samsara",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-dune-edt",
+    "brand": "DIOR",
+    "name": "Dune",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "byredo-bal-dafrique",
+    "brand": "BYREDO",
+    "name": "Bal d'Afrique",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-mitsouko-edp",
+    "brand": "GUERLAIN",
+    "name": "Mitsouko",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-shalimar-lessence",
+    "brand": "GUERLAIN",
+    "name": "Shalimar L'Essence",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "lalique-encre-noire",
+    "brand": "LALIQUE",
+    "name": "Encre Noire",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "jpg-le-male-elixir",
+    "brand": "JEAN PAUL GAULTIER",
+    "name": "Le Male Elixir",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "jpg-le-male-edt",
+    "brand": "JEAN PAUL GAULTIER",
+    "name": "Le Male",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "creed-absolu-aventus",
+    "brand": "CREED",
+    "name": "Absolu Aventus",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "nishane-ani",
+    "brand": "NISHANE",
+    "name": "Ani",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "chanel-allure-homme-sport",
+    "brand": "CHANEL",
+    "name": "Allure Homme Sport",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "ysl-tuxedo",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Tuxedo",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-lhomme-ideal-parfum",
+    "brand": "GUERLAIN",
+    "name": "L'Homme Idéal Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-vetiver",
+    "brand": "GUERLAIN",
+    "name": "Vétiver",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "frederic-malle-musc-ravageur",
+    "brand": "FRÉDÉRIC MALLE",
+    "name": "Musc Ravageur",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "jpg-la-belle-edp",
+    "brand": "JEAN PAUL GAULTIER",
+    "name": "La Belle",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-midnight-poison",
+    "brand": "DIOR",
+    "name": "Midnight Poison",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-lheure-bleue-edp",
+    "brand": "GUERLAIN",
+    "name": "L'Heure Bleue",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "ysl-libre-intense",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Libre Intense",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "jpg-classique-edt",
+    "brand": "JEAN PAUL GAULTIER",
+    "name": "Classique",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-spiritueuse-double-vanille",
+    "brand": "GUERLAIN",
+    "name": "Spiritueuse Double Vanille",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "les-liquides-imaginaires-blanche-bete",
+    "brand": "LES LIQUIDES IMAGINAIRES",
+    "name": "Blanche Bête",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "prada-infusion-diris",
+    "brand": "PRADA",
+    "name": "Infusion d'Iris",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "diptyque-philosykos-edp",
+    "brand": "DIPTYQUE",
+    "name": "Philosykos",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "giardini-di-toscana-bianco-latte",
+    "brand": "GIARDINI DI TOSCANA",
+    "name": "Bianco Latte",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "chanel-allure-homme-edition-blanche",
+    "brand": "CHANEL",
+    "name": "Allure Homme Édition Blanche",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "hermes-terre-dhermes-eau-givree",
+    "brand": "HERMÈS",
+    "name": "Terre d'Hermès Eau Givrée",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-habit-rouge-parfum",
+    "brand": "GUERLAIN",
+    "name": "Habit Rouge Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "penhaligons-halfeti",
+    "brand": "PENHALIGON'S",
+    "name": "Halfeti",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "chanel-antaeus",
+    "brand": "CHANEL",
+    "name": "Antaeus",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "davidoff-cool-water",
+    "brand": "DAVIDOFF",
+    "name": "Cool Water",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guy-laroche-drakkar-noir",
+    "brand": "GUY LAROCHE",
+    "name": "Drakkar Noir",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "memo-african-leather",
+    "brand": "MEMO PARIS",
+    "name": "African Leather",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-linstant-homme-edp",
+    "brand": "GUERLAIN",
+    "name": "L'Instant de Guerlain pour Homme",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "hermes-un-jardin-sur-le-nil",
+    "brand": "HERMÈS",
+    "name": "Un Jardin Sur Le Nil",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-dolce-vita",
+    "brand": "DIOR",
+    "name": "Dolce Vita",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "nishane-hundred-silent-ways",
+    "brand": "NISHANE",
+    "name": "Hundred Silent Ways",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "jpg-la-belle-le-parfum",
+    "brand": "JEAN PAUL GAULTIER",
+    "name": "La Belle Le Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "ysl-cinema",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Cinéma",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-diorissimo",
+    "brand": "DIOR",
+    "name": "Diorissimo",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-samsara-extrait",
+    "brand": "GUERLAIN",
+    "name": "Samsara Extrait",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "zadig-voltaire-this-is-her",
+    "brand": "ZADIG & VOLTAIRE",
+    "name": "This Is Her!",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "ysl-la-nuit-de-lhomme-bleu-electrique",
+    "brand": "YVES SAINT LAURENT",
+    "name": "La Nuit de l'Homme Bleu Électrique",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-habit-rouge-edt",
+    "brand": "GUERLAIN",
+    "name": "Habit Rouge",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "chanel-allure-homme-edt",
+    "brand": "CHANEL",
+    "name": "Allure Homme",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "lalique-encre-noire-a-lextreme",
+    "brand": "LALIQUE",
+    "name": "Encre Noire à l'Extrême",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "cartier-la-panthere",
+    "brand": "CARTIER",
+    "name": "La Panthère",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "ysl-rive-gauche",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Rive Gauche",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-lheure-bleue-edt",
+    "brand": "GUERLAIN",
+    "name": "L'Heure Bleue",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "frederic-malle-carnal-flower",
+    "brand": "FRÉDÉRIC MALLE",
+    "name": "Carnal Flower",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "hermes-24-faubourg",
+    "brand": "HERMÈS",
+    "name": "24 Faubourg",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "lolita-lempicka-le-parfum",
+    "brand": "LOLITA LEMPICKA",
+    "name": "Lolita Lempicka Le Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "ck-obsession",
+    "brand": "CALVIN KLEIN",
+    "name": "Obsession",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-champs-elysees-edp",
+    "brand": "GUERLAIN",
+    "name": "Champs-Élysées",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "tom-ford-tobacco-vanille",
+    "brand": "TOM FORD",
+    "name": "Tobacco Vanille",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "chanel-egoiste-platinum",
+    "brand": "CHANEL",
+    "name": "Égoïste Platinum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "mfk-grand-soir",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "name": "Grand Soir",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "bvlgari-tygar",
+    "brand": "BVLGARI",
+    "name": "Tygar",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "boss-bottled-absolu",
+    "brand": "HUGO BOSS",
+    "name": "Boss Bottled Absolu",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "parfums-de-marly-herod",
+    "brand": "PARFUMS DE MARLY",
+    "name": "Herod",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "essential-parfums-bois-imperial",
+    "brand": "ESSENTIAL PARFUMS",
+    "name": "Bois Impérial",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-eau-sauvage-parfum",
+    "brand": "DIOR",
+    "name": "Eau Sauvage Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "xerjoff-alexandria-ii",
+    "brand": "XERJOFF",
+    "name": "Alexandria II",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "versace-dylan-blue",
+    "brand": "VERSACE",
+    "name": "Pour Homme Dylan Blue",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "chanel-egoiste",
+    "brand": "CHANEL",
+    "name": "Égoïste",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "amouage-interlude-man",
+    "brand": "AMOUAGE",
+    "name": "Interlude Man",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "amouage-reflection-45-man",
+    "brand": "AMOUAGE",
+    "name": "Reflection 45 Man",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-homme-sport-2021",
+    "brand": "DIOR",
+    "name": "Dior Homme Sport 2021",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "versace-pour-homme",
+    "brand": "VERSACE",
+    "name": "Pour Homme",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "tom-ford-grey-vetiver",
+    "brand": "TOM FORD",
+    "name": "Grey Vetiver",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-fahrenheit-le-parfum",
+    "brand": "DIOR",
+    "name": "Fahrenheit Le Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "armani-code-parfum",
+    "brand": "GIORGIO ARMANI",
+    "name": "Armani Code Parfum",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "xerjoff-torino21",
+    "brand": "XERJOFF",
+    "name": "Torino21",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "tom-ford-tuscan-leather",
+    "brand": "TOM FORD",
+    "name": "Tuscan Leather",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dg-light-blue-intense-homme",
+    "brand": "DOLCE & GABBANA",
+    "name": "Light Blue Eau Intense Pour Homme",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "prada-luna-rossa-black",
+    "brand": "PRADA",
+    "name": "Luna Rossa Black",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "parfums-de-marly-carlisle",
+    "brand": "PARFUMS DE MARLY",
+    "name": "Carlisle",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "versace-eros-flame",
+    "brand": "VERSACE",
+    "name": "Eros Flame",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "louis-vuitton-limmensite",
+    "brand": "LOUIS VUITTON",
+    "name": "L'Immensité",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "louis-vuitton-ombre-nomade",
+    "brand": "LOUIS VUITTON",
+    "name": "Ombre Nomade",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "acqua-di-parma-colonia",
+    "brand": "ACQUA DI PARMA",
+    "name": "Colonia",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "parfums-de-marly-sedley",
+    "brand": "PARFUMS DE MARLY",
+    "name": "Sedley",
+    "status": "READY_FOR_CONTENT"
+  }
+]

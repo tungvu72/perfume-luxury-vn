@@ -1,0 +1,1592 @@
+[
+    {
+        "id": "tom-ford-tobacco-vanille",
+        "brandSlug": "tom-ford",
+        "brand": "TOM FORD",
+        "name": "Tobacco Vanille",
+        "subName": "Eau de Parfum",
+        "perfumer": "Olivier Gillotin",
+        "gender": "unisex",
+        "desc": "Mùi thuốc lá ngọt với vani, cacao và gia vị. Ấm, sang và gây nghiện.",
+        "verdict": "Thuốc lá, vani, cacao. Ấm sang, gây nghiện, kinh điển Tom Ford.",
+        "short": "THUỐC LÁ VANI, ẤM SANG, KINH ĐIỂN",
+        "sc": [
+            9.5,
+            9.0,
+            9.0,
+            6.5,
+            8.5
+        ],
+        "lon": 10,
+        "sil": 8,
+        "sea": [
+            30,
+            10,
+            95,
+            100
+        ],
+        "dn": [
+            15,
+            100
+        ],
+        "topNotes": [
+            "Thuốc lá",
+            "Gia vị"
+        ],
+        "middleNotes": [
+            "Vani",
+            "Cacao",
+            "Đậu tonka"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Hổ phách",
+            "Benzoin"
+        ],
+        "accords": [
+            [
+                "Thuốc lá",
+                100,
+                "#5D4037"
+            ],
+            [
+                "Vani",
+                92,
+                "#f5deb3"
+            ],
+            [
+                "Gia vị ấm",
+                75,
+                "#e67e22"
+            ],
+            [
+                "Gourmand",
+                62,
+                "#8B0000"
+            ]
+        ],
+        "vibes": [
+            [
+                "Sang trọng",
+                "💎"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ],
+            [
+                "Gây nghiện",
+                "🔥"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Thuốc lá",
+            "Vani"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "50ml",
+            "100ml",
+            "250ml"
+        ],
+        "price": 6500000
+    },
+    {
+        "id": "chanel-egoiste-platinum",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "Égoïste Platinum",
+        "subName": "Eau de Toilette",
+        "perfumer": "Jacques Polge",
+        "gender": "nam",
+        "desc": "Mùi nam thanh lịch với oải hương, gỗ và xạ hương. Sạch sang, rất Chanel.",
+        "verdict": "Oải hương sạch, gỗ, xạ hương. Thanh lịch rất Chanel.",
+        "short": "SẠCH SANG, OẢI HƯƠNG, THANH LỊCH",
+        "sc": [
+            8.8,
+            8.0,
+            8.5,
+            7.8,
+            8.3
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            78,
+            62,
+            78,
+            58
+        ],
+        "dn": [
+            72,
+            55
+        ],
+        "topNotes": [
+            "Oải hương",
+            "Cam bergamot",
+            "Hương lá xanh"
+        ],
+        "middleNotes": [
+            "Xô thơm",
+            "Phong lữ",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Gỗ tuyết tùng",
+            "Vetiver",
+            "Xạ hương trắng"
+        ],
+        "accords": [
+            [
+                "Thơm thảo mộc",
+                92,
+                "#2c7a4b"
+            ],
+            [
+                "Gỗ",
+                72,
+                "#8B4513"
+            ],
+            [
+                "Tươi",
+                62,
+                "#2ecc71"
+            ],
+            [
+                "Xạ hương",
+                42,
+                "#9b59b6"
+            ]
+        ],
+        "vibes": [
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Đa dụng",
+                "🔄"
+            ],
+            [
+                "Chanel",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Thanh lịch",
+            "Sạch",
+            "Chanel"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3500000
+    },
+    {
+        "id": "mfk-grand-soir",
+        "brandSlug": "mfk",
+        "brand": "MAISON FRANCIS KURKDJIAN",
+        "name": "Grand Soir",
+        "subName": "Eau de Parfum",
+        "perfumer": "Francis Kurkdjian",
+        "gender": "unisex",
+        "desc": "Mùi hổ phách vani sang trọng với benzoin và gỗ đàn hương. Ấm, mượt và xa xỉ.",
+        "verdict": "Hổ phách vani mượt, benzoin, gỗ đàn hương. Xa xỉ tuyệt đối.",
+        "short": "HỔ PHÁCH VANI, MƯỢT, XA XỈ",
+        "sc": [
+            9.3,
+            9.0,
+            8.8,
+            7.0,
+            8.5
+        ],
+        "lon": 10,
+        "sil": 8,
+        "sea": [
+            35,
+            15,
+            95,
+            100
+        ],
+        "dn": [
+            20,
+            100
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Quế"
+        ],
+        "middleNotes": [
+            "Benzoin",
+            "Hổ phách"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Gỗ đàn hương",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Hổ phách",
+                100,
+                "#d4a017"
+            ],
+            [
+                "Vani",
+                88,
+                "#f5deb3"
+            ],
+            [
+                "Gỗ",
+                62,
+                "#8B4513"
+            ],
+            [
+                "Gia vị ấm",
+                48,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Xa xỉ",
+                "💎"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ],
+            [
+                "Ấm",
+                "🍂"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Hổ phách",
+            "Xa xỉ"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "70ml",
+            "200ml"
+        ],
+        "price": 6800000
+    },
+    {
+        "id": "bvlgari-tygar",
+        "brandSlug": "bvlgari",
+        "brand": "BVLGARI",
+        "name": "Tygar",
+        "subName": "Eau de Parfum",
+        "perfumer": "Jacques Cavallier",
+        "gender": "nam",
+        "desc": "Mùi nam citrus tươi sang với cam, gỗ và hổ phách. Sạch, nam tính và cao cấp.",
+        "verdict": "Citrus sang, gỗ, hổ phách. Sạch nam tính, rất cao cấp.",
+        "short": "CITRUS SANG, GỖ, CAO CẤP",
+        "sc": [
+            8.8,
+            8.5,
+            8.5,
+            7.5,
+            8.3
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            85,
+            72,
+            68,
+            45
+        ],
+        "dn": [
+            82,
+            42
+        ],
+        "topNotes": [
+            "Cam",
+            "Bưởi",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Gỗ tuyết tùng",
+            "Oải hương"
+        ],
+        "baseNotes": [
+            "Hổ phách",
+            "Xạ hương",
+            "Benzoin"
+        ],
+        "accords": [
+            [
+                "Cam chanh",
+                92,
+                "#f7c242"
+            ],
+            [
+                "Gỗ",
+                72,
+                "#8B4513"
+            ],
+            [
+                "Tươi",
+                62,
+                "#2ecc71"
+            ],
+            [
+                "Hổ phách",
+                42,
+                "#d4a017"
+            ]
+        ],
+        "vibes": [
+            [
+                "Sang trọng",
+                "✨"
+            ],
+            [
+                "Ban ngày",
+                "☀️"
+            ],
+            [
+                "Tươi",
+                "🍊"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Citrus",
+            "Sang trọng",
+            "Ban ngày"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "100ml"
+        ],
+        "price": 5500000
+    },
+    {
+        "id": "boss-bottled-absolu",
+        "brandSlug": "boss",
+        "brand": "HUGO BOSS",
+        "name": "Boss Bottled Absolu",
+        "subName": "Eau de Parfum",
+        "perfumer": "N/A",
+        "gender": "nam",
+        "desc": "Bản đậm nhất Boss Bottled. Quế, vani và gỗ ấm. Ngọt sang, tối, mạnh.",
+        "verdict": "Quế, vani, gỗ ấm. Boss Bottled bản đậm nhất, mạnh và tối.",
+        "short": "BOSS ĐẬM, QUẾ VANI, MẠNH",
+        "sc": [
+            8.5,
+            8.0,
+            8.8,
+            8.5,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 8,
+        "sea": [
+            35,
+            15,
+            92,
+            100
+        ],
+        "dn": [
+            20,
+            100
+        ],
+        "topNotes": [
+            "Quế",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Vani",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Vetiver",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Ngọt",
+                88,
+                "#FF6D00"
+            ],
+            [
+                "Gia vị ấm",
+                78,
+                "#e67e22"
+            ],
+            [
+                "Gỗ",
+                62,
+                "#8B4513"
+            ],
+            [
+                "Vani",
+                55,
+                "#f5deb3"
+            ]
+        ],
+        "vibes": [
+            [
+                "Buổi tối",
+                "🌙"
+            ],
+            [
+                "Mạnh",
+                "🔥"
+            ],
+            [
+                "Ngọt",
+                "🍬"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Buổi tối",
+            "Ngọt",
+            "Gia vị"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 2200000
+    },
+    {
+        "id": "parfums-de-marly-herod",
+        "brandSlug": "parfums-de-marly",
+        "brand": "PARFUMS DE MARLY",
+        "name": "Herod",
+        "subName": "Eau de Parfum",
+        "perfumer": "Quentin Bisch",
+        "gender": "nam",
+        "desc": "Mùi thuốc lá ngọt với vani, quế và hoắc hương. Ấm, sang và rất cuốn.",
+        "verdict": "Thuốc lá ngọt, vani, quế. Ấm sang và cuốn, beast mode.",
+        "short": "THUỐC LÁ NGỌT, ẤM, BEAST MODE",
+        "sc": [
+            9.2,
+            8.8,
+            9.2,
+            7.5,
+            8.7
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            35,
+            12,
+            95,
+            100
+        ],
+        "dn": [
+            20,
+            100
+        ],
+        "topNotes": [
+            "Quế",
+            "Tiêu",
+            "Cam"
+        ],
+        "middleNotes": [
+            "Thuốc lá",
+            "Vani",
+            "Hoa cam"
+        ],
+        "baseNotes": [
+            "Hoắc hương",
+            "Gỗ đàn hương",
+            "Xạ hương",
+            "Benzoin"
+        ],
+        "accords": [
+            [
+                "Thuốc lá",
+                92,
+                "#5D4037"
+            ],
+            [
+                "Ngọt",
+                82,
+                "#FF6D00"
+            ],
+            [
+                "Gia vị ấm",
+                72,
+                "#e67e22"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Beast mode",
+                "🔥"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ],
+            [
+                "Niche",
+                "💎"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Nam",
+            "Thuốc lá",
+            "Buổi tối"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml",
+            "125ml"
+        ],
+        "price": 5800000
+    },
+    {
+        "id": "essential-parfums-bois-imperial",
+        "brandSlug": "essential-parfums",
+        "brand": "ESSENTIAL PARFUMS",
+        "name": "Bois Impérial",
+        "subName": "Eau de Parfum",
+        "perfumer": "Quentin Bisch",
+        "gender": "unisex",
+        "desc": "Mùi gỗ-xạ hương sạch với cam bergamot, gỗ tuyết tùng và xạ hương trắng.",
+        "verdict": "Gỗ sạch, xạ hương, cam bergamot. Giá tốt, sang và rất dễ dùng.",
+        "short": "GỖ SẠCH, GIÁ TỐT, SANG",
+        "sc": [
+            8.8,
+            8.5,
+            9.0,
+            9.0,
+            8.8
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            75,
+            58,
+            80,
+            65
+        ],
+        "dn": [
+            72,
+            58
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Tiêu hồng"
+        ],
+        "middleNotes": [
+            "Gỗ tuyết tùng",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Xạ hương trắng",
+            "Hổ phách",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Gỗ",
+                88,
+                "#8B4513"
+            ],
+            [
+                "Tươi",
+                72,
+                "#2ecc71"
+            ],
+            [
+                "Xạ hương",
+                55,
+                "#9b59b6"
+            ],
+            [
+                "Cam chanh",
+                42,
+                "#f7c242"
+            ]
+        ],
+        "vibes": [
+            [
+                "Giá tốt",
+                "💰"
+            ],
+            [
+                "Đa dụng",
+                "🔄"
+            ],
+            [
+                "Sạch",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Gỗ",
+            "Giá tốt"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "100ml",
+            "150ml"
+        ],
+        "price": 1800000
+    },
+    {
+        "id": "dior-eau-sauvage-parfum",
+        "brandSlug": "dior",
+        "brand": "DIOR",
+        "name": "Eau Sauvage Parfum",
+        "subName": "Parfum",
+        "perfumer": "François Demachy",
+        "gender": "nam",
+        "desc": "Bản Parfum đậm hơn Eau Sauvage. Citrus, vetiver và gỗ sâu hơn. Sang hơn bản gốc.",
+        "verdict": "Eau Sauvage bản Parfum đậm. Citrus, vetiver, gỗ. Sang hơn bản EDT.",
+        "short": "ES PARFUM, SÂU, SANG HƠN",
+        "sc": [
+            9.0,
+            8.8,
+            8.2,
+            8.0,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            72,
+            52,
+            82,
+            72
+        ],
+        "dn": [
+            65,
+            68
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Chanh"
+        ],
+        "middleNotes": [
+            "Vetiver",
+            "Oải hương"
+        ],
+        "baseNotes": [
+            "Gỗ tuyết tùng",
+            "Hổ phách",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Cam chanh",
+                88,
+                "#f7c242"
+            ],
+            [
+                "Gỗ",
+                78,
+                "#8B4513"
+            ],
+            [
+                "Tươi",
+                62,
+                "#2ecc71"
+            ],
+            [
+                "Hổ phách",
+                42,
+                "#d4a017"
+            ]
+        ],
+        "vibes": [
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ],
+            [
+                "Đa dụng",
+                "🔄"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Citrus",
+            "Thanh lịch",
+            "Parfum"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3800000
+    },
+    {
+        "id": "xerjoff-alexandria-ii",
+        "brandSlug": "xerjoff",
+        "brand": "XERJOFF",
+        "name": "Alexandria II",
+        "subName": "Eau de Parfum",
+        "perfumer": "Chris Maurice",
+        "gender": "unisex",
+        "desc": "Mùi niche trái cây-hoa xa hoa với đào, hoa hồng và oud. Cực sang và phức tạp.",
+        "verdict": "Đào, hoa hồng, oud. Niche xa hoa, phức tạp và cực sang.",
+        "short": "ĐÀO, OUD, CỰC XA HOA",
+        "sc": [
+            9.5,
+            9.5,
+            8.5,
+            6.5,
+            8.5
+        ],
+        "lon": 10,
+        "sil": 8,
+        "sea": [
+            50,
+            30,
+            88,
+            82
+        ],
+        "dn": [
+            42,
+            88
+        ],
+        "topNotes": [
+            "Đào",
+            "Cam bergamot",
+            "Tiêu hồng"
+        ],
+        "middleNotes": [
+            "Hoa hồng",
+            "Hoa nhài",
+            "Oud"
+        ],
+        "baseNotes": [
+            "Hổ phách",
+            "Vani",
+            "Xạ hương",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Trái cây",
+                88,
+                "#f39c12"
+            ],
+            [
+                "Hoa",
+                78,
+                "#e75480"
+            ],
+            [
+                "Oud",
+                65,
+                "#3E2723"
+            ],
+            [
+                "Phương Đông",
+                55,
+                "#8B0000"
+            ]
+        ],
+        "vibes": [
+            [
+                "Xa hoa",
+                "💎"
+            ],
+            [
+                "Niche",
+                "👑"
+            ],
+            [
+                "Phức tạp",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Trái cây",
+            "Oud"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 12000000
+    },
+    {
+        "id": "versace-dylan-blue",
+        "brandSlug": "versace",
+        "brand": "VERSACE",
+        "name": "Pour Homme Dylan Blue",
+        "subName": "Eau de Toilette",
+        "perfumer": "Alberto Morillas",
+        "gender": "nam",
+        "desc": "Mùi nam biển sạch với citrus, violet lá và hoắc hương. Fresh, nam tính và dễ dùng.",
+        "verdict": "Biển sạch, violet lá, hoắc hương. Fresh nam tính, rất dễ dùng.",
+        "short": "BIỂN SẠCH, NAM TÍNH, DỄ DÙNG",
+        "sc": [
+            8.5,
+            7.5,
+            9.0,
+            8.5,
+            8.4
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            80,
+            72,
+            70,
+            48
+        ],
+        "dn": [
+            78,
+            48
+        ],
+        "topNotes": [
+            "Bưởi",
+            "Cam bergamot",
+            "Lá sung"
+        ],
+        "middleNotes": [
+            "Violet lá",
+            "Hoắc hương",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Gỗ tuyết tùng",
+            "Xạ hương",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Biển / Aquatic",
+                88,
+                "#1abc9c"
+            ],
+            [
+                "Cam chanh",
+                75,
+                "#f7c242"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ],
+            [
+                "Thơm thảo mộc",
+                42,
+                "#2c7a4b"
+            ]
+        ],
+        "vibes": [
+            [
+                "Nam tính",
+                "🖤"
+            ],
+            [
+                "Đa dụng",
+                "🔄"
+            ],
+            [
+                "Tươi",
+                "🌊"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Aquatic",
+            "Tươi",
+            "Đa dụng"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml",
+            "200ml"
+        ],
+        "price": 1800000
+    },
+    {
+        "id": "chanel-egoiste",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "Égoïste",
+        "subName": "Eau de Toilette",
+        "perfumer": "Jacques Polge",
+        "gender": "nam",
+        "desc": "Kinh điển Chanel với gỗ hồng, quế và vani. Ấm, sang và rất có cá tính.",
+        "verdict": "Gỗ hồng, quế, vani. Kinh điển Chanel ấm, sang và cá tính.",
+        "short": "GỖ HỒNG, QUẾ, CÁ TÍNH",
+        "sc": [
+            9.0,
+            9.0,
+            8.0,
+            7.8,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            50,
+            28,
+            90,
+            85
+        ],
+        "dn": [
+            38,
+            88
+        ],
+        "topNotes": [
+            "Gỗ hồng",
+            "Quế",
+            "Hồ tiêu"
+        ],
+        "middleNotes": [
+            "Hoa cẩm chướng",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Gỗ đàn hương",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Gỗ",
+                95,
+                "#8B4513"
+            ],
+            [
+                "Gia vị ấm",
+                78,
+                "#e67e22"
+            ],
+            [
+                "Ngọt",
+                55,
+                "#FF6D00"
+            ],
+            [
+                "Hoa",
+                38,
+                "#e75480"
+            ]
+        ],
+        "vibes": [
+            [
+                "Cá tính",
+                "🔥"
+            ],
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Chanel",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Kinh điển",
+            "Gỗ",
+            "Chanel"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3500000
+    },
+    {
+        "id": "amouage-interlude-man",
+        "brandSlug": "amouage",
+        "brand": "AMOUAGE",
+        "name": "Interlude Man",
+        "subName": "Eau de Parfum",
+        "perfumer": "Pierre Negrin",
+        "gender": "nam",
+        "desc": "Mùi niche trầm hương-gia vị mạnh với nhựa nhang và hổ phách. Khói, mạnh và bí ẩn.",
+        "verdict": "Trầm hương, khói, nhựa nhang. Mạnh bí ẩn và rất có lực.",
+        "short": "TRẦM HƯƠNG KHÓI, MẠNH, BÍ ẨN",
+        "sc": [
+            9.2,
+            9.5,
+            8.0,
+            7.0,
+            8.4
+        ],
+        "lon": 10,
+        "sil": 9,
+        "sea": [
+            25,
+            10,
+            90,
+            100
+        ],
+        "dn": [
+            10,
+            100
+        ],
+        "topNotes": [
+            "Nhựa nhang",
+            "Tiêu",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Trầm hương",
+            "Oud",
+            "Hoa cẩm chướng"
+        ],
+        "baseNotes": [
+            "Hổ phách",
+            "Gỗ đàn hương",
+            "Xạ hương",
+            "Castoreum"
+        ],
+        "accords": [
+            [
+                "Khói",
+                100,
+                "#616161"
+            ],
+            [
+                "Gia vị ấm",
+                85,
+                "#e67e22"
+            ],
+            [
+                "Phương Đông",
+                78,
+                "#8B0000"
+            ],
+            [
+                "Gỗ",
+                62,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Mạnh",
+                "🔥"
+            ],
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Bí ẩn",
+                "🖤"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Nam",
+            "Khói",
+            "Mạnh"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "100ml"
+        ],
+        "price": 7500000
+    },
+    {
+        "id": "amouage-reflection-45-man",
+        "brandSlug": "amouage",
+        "brand": "AMOUAGE",
+        "name": "Reflection 45 Man",
+        "subName": "Extrait de Parfum",
+        "perfumer": "Lucas Sieuzac",
+        "gender": "nam",
+        "desc": "Bản extrait đậm của Reflection Man. Hoa nhài, iris và gỗ đàn hương cô đặc. Xa xỉ.",
+        "verdict": "Reflection Man bản extrait. Hoa nhài, iris cô đặc. Xa xỉ tuyệt đối.",
+        "short": "REFLECTION EXTRAIT, CÔ ĐẶC, XA XỈ",
+        "sc": [
+            9.5,
+            9.2,
+            8.5,
+            6.5,
+            8.4
+        ],
+        "lon": 10,
+        "sil": 8,
+        "sea": [
+            82,
+            55,
+            78,
+            62
+        ],
+        "dn": [
+            72,
+            62
+        ],
+        "topNotes": [
+            "Neroli",
+            "Tiêu hồng"
+        ],
+        "middleNotes": [
+            "Hoa nhài",
+            "Iris",
+            "Hoa hồng"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Vetiver",
+            "Xạ hương trắng"
+        ],
+        "accords": [
+            [
+                "Hoa trắng",
+                95,
+                "#e75480"
+            ],
+            [
+                "Gỗ",
+                75,
+                "#8B4513"
+            ],
+            [
+                "Tươi",
+                58,
+                "#2ecc71"
+            ],
+            [
+                "Phấn / Iris",
+                48,
+                "#9b59b6"
+            ]
+        ],
+        "vibes": [
+            [
+                "Xa xỉ",
+                "💎"
+            ],
+            [
+                "Niche",
+                "👑"
+            ],
+            [
+                "Thanh lịch",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Nam",
+            "Hoa",
+            "Xa xỉ"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "100ml"
+        ],
+        "price": 12000000
+    },
+    {
+        "id": "dior-homme-sport-2021",
+        "brandSlug": "dior",
+        "brand": "DIOR",
+        "name": "Dior Homme Sport 2021",
+        "subName": "Eau de Toilette",
+        "perfumer": "François Demachy",
+        "gender": "nam",
+        "desc": "Phiên bản thể thao dòng Homme. Citrus, gỗ tuyết tùng và xạ hương. Năng động, sạch.",
+        "verdict": "Citrus, gỗ, xạ hương. Homme bản thể thao, năng động và sạch.",
+        "short": "HOMME THỂ THAO, TƯƠI, SẠCH",
+        "sc": [
+            8.5,
+            7.8,
+            8.5,
+            8.0,
+            8.2
+        ],
+        "lon": 6,
+        "sil": 7,
+        "sea": [
+            88,
+            78,
+            60,
+            38
+        ],
+        "dn": [
+            85,
+            32
+        ],
+        "topNotes": [
+            "Cam",
+            "Cam bergamot",
+            "Chanh"
+        ],
+        "middleNotes": [
+            "Gỗ tuyết tùng",
+            "Oải hương"
+        ],
+        "baseNotes": [
+            "Xạ hương trắng",
+            "Vetiver"
+        ],
+        "accords": [
+            [
+                "Cam chanh",
+                92,
+                "#f7c242"
+            ],
+            [
+                "Tươi",
+                82,
+                "#2ecc71"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ],
+            [
+                "Thơm thảo mộc",
+                38,
+                "#2c7a4b"
+            ]
+        ],
+        "vibes": [
+            [
+                "Thể thao",
+                "⚡"
+            ],
+            [
+                "Ban ngày",
+                "☀️"
+            ],
+            [
+                "Năng động",
+                "🏃"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Thể thao",
+            "Citrus",
+            "Năng động"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml",
+            "125ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "versace-pour-homme",
+        "brandSlug": "versace",
+        "brand": "VERSACE",
+        "name": "Pour Homme",
+        "subName": "Eau de Toilette",
+        "perfumer": "Alberto Morillas",
+        "gender": "nam",
+        "desc": "Mùi nam biển Địa Trung Hải với cam, xạ hương và hổ phách. Tươi sạch, dễ dùng, giá tốt.",
+        "verdict": "Biển ĐTH, cam, xạ hương. Tươi sạch, dễ dùng, giá cực tốt.",
+        "short": "BIỂN, TƯƠI SẠCH, GIÁ TỐT",
+        "sc": [
+            8.2,
+            7.5,
+            8.5,
+            9.2,
+            8.4
+        ],
+        "lon": 6,
+        "sil": 6,
+        "sea": [
+            88,
+            82,
+            55,
+            35
+        ],
+        "dn": [
+            85,
+            30
+        ],
+        "topNotes": [
+            "Cam",
+            "Chanh",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Xô thơm",
+            "Oải hương",
+            "Hoa cam"
+        ],
+        "baseNotes": [
+            "Xạ hương trắng",
+            "Hổ phách",
+            "Gỗ tuyết tùng"
+        ],
+        "accords": [
+            [
+                "Biển / Aquatic",
+                90,
+                "#1abc9c"
+            ],
+            [
+                "Cam chanh",
+                82,
+                "#f7c242"
+            ],
+            [
+                "Thơm thảo mộc",
+                55,
+                "#2c7a4b"
+            ],
+            [
+                "Gỗ",
+                35,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Tươi",
+                "🌊"
+            ],
+            [
+                "Ban ngày",
+                "☀️"
+            ],
+            [
+                "Giá tốt",
+                "💰"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Aquatic",
+            "Tươi",
+            "Giá tốt"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "100ml",
+            "200ml"
+        ],
+        "price": 1500000
+    },
+    {
+        "id": "tom-ford-grey-vetiver",
+        "brandSlug": "tom-ford",
+        "brand": "TOM FORD",
+        "name": "Grey Vetiver",
+        "subName": "Eau de Parfum",
+        "perfumer": "Harry Fremont",
+        "gender": "nam",
+        "desc": "Mùi vetiver sang với cam, gỗ và oải hương. Sạch, thanh lịch và rất office-friendly.",
+        "verdict": "Vetiver sạch, cam, gỗ. Thanh lịch office, sang kiểu Tom Ford.",
+        "short": "VETIVER SẠCH, THANH LỊCH, OFFICE",
+        "sc": [
+            9.0,
+            8.5,
+            8.2,
+            7.5,
+            8.3
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            82,
+            62,
+            78,
+            55
+        ],
+        "dn": [
+            82,
+            42
+        ],
+        "topNotes": [
+            "Bưởi",
+            "Cam",
+            "Oải hương"
+        ],
+        "middleNotes": [
+            "Vetiver",
+            "Xô thơm",
+            "Hương lá xanh"
+        ],
+        "baseNotes": [
+            "Gỗ sồi",
+            "Hổ phách",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Xanh / Green",
+                88,
+                "#2c7a4b"
+            ],
+            [
+                "Gỗ",
+                78,
+                "#8B4513"
+            ],
+            [
+                "Cam chanh",
+                62,
+                "#f7c242"
+            ],
+            [
+                "Tươi",
+                48,
+                "#2ecc71"
+            ]
+        ],
+        "vibes": [
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Office",
+                "💼"
+            ],
+            [
+                "Sạch",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Vetiver",
+            "Thanh lịch",
+            "Office"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 4200000
+    },
+    {
+        "id": "dior-fahrenheit-le-parfum",
+        "brandSlug": "dior",
+        "brand": "DIOR",
+        "name": "Fahrenheit Le Parfum",
+        "subName": "Le Parfum",
+        "perfumer": "François Demachy",
+        "gender": "nam",
+        "desc": "Bản đậm hơn Fahrenheit. Violet, da và hổ phách sâu, mạnh hơn.",
+        "verdict": "Fahrenheit bản đậm. Violet, da, hổ phách. Sâu và mạnh hơn EDT.",
+        "short": "FAHRENHEIT ĐẬM, SÂU, MẠNH",
+        "sc": [
+            9.2,
+            9.5,
+            8.0,
+            7.5,
+            8.6
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            40,
+            18,
+            92,
+            95
+        ],
+        "dn": [
+            28,
+            100
+        ],
+        "topNotes": [
+            "Violet lá",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Da thuộc",
+            "Gỗ tuyết tùng"
+        ],
+        "baseNotes": [
+            "Hổ phách",
+            "Benzoin",
+            "Đậu tonka"
+        ],
+        "accords": [
+            [
+                "Da thuộc",
+                92,
+                "#5D4037"
+            ],
+            [
+                "Gỗ",
+                78,
+                "#8B4513"
+            ],
+            [
+                "Hổ phách",
+                65,
+                "#d4a017"
+            ],
+            [
+                "Gia vị ấm",
+                48,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Mạnh",
+                "🔥"
+            ],
+            [
+                "Cá tính",
+                "🖤"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Da",
+            "Parfum",
+            "Cá tính"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml"
+        ],
+        "price": 3800000
+    }
+]

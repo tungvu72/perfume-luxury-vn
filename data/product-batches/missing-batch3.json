@@ -1,0 +1,1419 @@
+[
+    {
+        "id": "givenchy-linterdit-rouge",
+        "brandSlug": "givenchy",
+        "brand": "GIVENCHY",
+        "name": "L'Interdit Rouge",
+        "subName": "Eau de Parfum",
+        "perfumer": "Dominique Ropion",
+        "gender": "nu",
+        "desc": "Phiên bản đỏ nóng bỏng của L'Interdit. Iris, gia vị đỏ và gỗ đàn hương. Táo bạo.",
+        "verdict": "Iris đỏ, gia vị nóng, gỗ. L'Interdit bản táo bạo, mạnh mẽ.",
+        "short": "IRIS ĐỎ, TÁO BẠO, MẠNH",
+        "sc": [
+            8.8,
+            8.5,
+            8.8,
+            8.0,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 8,
+        "sea": [
+            45,
+            25,
+            90,
+            92
+        ],
+        "dn": [
+            30,
+            95
+        ],
+        "topNotes": [
+            "Tiêu đỏ",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Iris",
+            "Hoa nhài",
+            "Gia vị"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Vetiver",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Gia vị ấm",
+                88,
+                "#e67e22"
+            ],
+            [
+                "Hoa",
+                72,
+                "#e75480"
+            ],
+            [
+                "Gỗ",
+                58,
+                "#8B4513"
+            ],
+            [
+                "Phấn / Iris",
+                48,
+                "#9b59b6"
+            ]
+        ],
+        "vibes": [
+            [
+                "Táo bạo",
+                "🔥"
+            ],
+            [
+                "Nữ tính",
+                "💐"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Táo bạo",
+            "Gia vị",
+            "Iris"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "35ml",
+            "50ml",
+            "80ml"
+        ],
+        "price": 3200000
+    },
+    {
+        "id": "burberry-goddess-edp",
+        "brandSlug": "burberry",
+        "brand": "BURBERRY",
+        "name": "Goddess",
+        "subName": "Eau de Parfum",
+        "perfumer": "Ann Gottlieb",
+        "gender": "nu",
+        "desc": "Mùi nữ vani-oải hương hiện đại. Ngọt ấm, dễ dùng và rất dễ khen.",
+        "verdict": "Vani, oải hương, cocoa. Ngọt ấm hiện đại, cực dễ khen.",
+        "short": "VANI OẢI HƯƠNG, NGỌT ẤM, DỄ KHEN",
+        "sc": [
+            8.5,
+            8.0,
+            9.2,
+            8.5,
+            8.6
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            55,
+            35,
+            88,
+            82
+        ],
+        "dn": [
+            45,
+            88
+        ],
+        "topNotes": [
+            "Oải hương",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Vani",
+            "Cocoa"
+        ],
+        "baseNotes": [
+            "Cashmeran",
+            "Gỗ đàn hương",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Vani",
+                92,
+                "#f5deb3"
+            ],
+            [
+                "Ngọt",
+                82,
+                "#FF6D00"
+            ],
+            [
+                "Thơm thảo mộc",
+                55,
+                "#2c7a4b"
+            ],
+            [
+                "Gỗ",
+                38,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Dễ khen",
+                "👍"
+            ],
+            [
+                "Ngọt",
+                "🍬"
+            ],
+            [
+                "Hiện đại",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Vani",
+            "Ngọt",
+            "Dễ khen"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "100ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "chanel-no5-parfum",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "N°5 Parfum",
+        "subName": "Parfum / Extrait",
+        "perfumer": "Ernest Beaux",
+        "gender": "nu",
+        "desc": "Huyền thoại tối thượng. Aldehyde, hoa hồng, hoa nhài và gỗ đàn hương. Bản Parfum đặc nhất.",
+        "verdict": "Huyền thoại tối thượng. N°5 bản Parfum đặc, sang và vượt thời gian.",
+        "short": "HUYỀN THOẠI TỐI THƯỢNG, PARFUM ĐẶC",
+        "sc": [
+            9.5,
+            9.8,
+            8.0,
+            7.0,
+            8.6
+        ],
+        "lon": 10,
+        "sil": 7,
+        "sea": [
+            55,
+            35,
+            82,
+            78
+        ],
+        "dn": [
+            45,
+            82
+        ],
+        "topNotes": [
+            "Aldehyde",
+            "Cam bergamot",
+            "Neroli"
+        ],
+        "middleNotes": [
+            "Hoa hồng",
+            "Hoa nhài",
+            "Hoa linh lan"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Vetiver",
+            "Vani",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Hoa",
+                100,
+                "#e75480"
+            ],
+            [
+                "Aldehyde",
+                82,
+                "#c0c0c0"
+            ],
+            [
+                "Phấn",
+                65,
+                "#9b59b6"
+            ],
+            [
+                "Gỗ",
+                48,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Huyền thoại",
+                "👑"
+            ],
+            [
+                "Xa xỉ",
+                "💎"
+            ],
+            [
+                "Vượt thời gian",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Huyền thoại",
+            "Hoa",
+            "Xa xỉ"
+        ],
+        "sizes": [
+            "7.5ml",
+            "15ml",
+            "30ml"
+        ],
+        "price": 5500000
+    },
+    {
+        "id": "chanel-no5-edp",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "N°5 Eau de Parfum",
+        "subName": "Eau de Parfum",
+        "perfumer": "Jacques Polge",
+        "gender": "nu",
+        "desc": "Bản EDP của N°5. Aldehyde, hoa và gỗ. Sang, nữ tính và vượt thời gian.",
+        "verdict": "N°5 bản EDP. Aldehyde, hoa, gỗ. Sang và vượt thời gian.",
+        "short": "N°5 EDP, SANG, VƯỢT THỜI GIAN",
+        "sc": [
+            9.2,
+            9.5,
+            8.0,
+            7.5,
+            8.6
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            62,
+            40,
+            80,
+            72
+        ],
+        "dn": [
+            55,
+            72
+        ],
+        "topNotes": [
+            "Aldehyde",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Hoa hồng",
+            "Hoa nhài",
+            "Ylang-ylang"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Vetiver",
+            "Vani"
+        ],
+        "accords": [
+            [
+                "Hoa",
+                95,
+                "#e75480"
+            ],
+            [
+                "Aldehyde",
+                78,
+                "#c0c0c0"
+            ],
+            [
+                "Phấn",
+                55,
+                "#9b59b6"
+            ],
+            [
+                "Gỗ",
+                42,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Sang trọng",
+                "💎"
+            ],
+            [
+                "Nữ tính",
+                "💐"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Kinh điển",
+            "Hoa",
+            "Chanel"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "35ml",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3800000
+    },
+    {
+        "id": "versace-crystal-noir-edt",
+        "brandSlug": "versace",
+        "brand": "VERSACE",
+        "name": "Crystal Noir",
+        "subName": "Eau de Toilette",
+        "perfumer": "Antoine Lie",
+        "gender": "nu",
+        "desc": "Mùi nữ bí ẩn với dừa, đậu tonka và hoa gardenia. Tối, gợi cảm và khác biệt.",
+        "verdict": "Dừa, đậu tonka, gardenia. Tối bí ẩn, gợi cảm và rất khác biệt.",
+        "short": "DỪA TỐI, BÍ ẨN, GỢI CẢM",
+        "sc": [
+            8.8,
+            8.8,
+            8.5,
+            8.5,
+            8.7
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            45,
+            28,
+            88,
+            85
+        ],
+        "dn": [
+            30,
+            92
+        ],
+        "topNotes": [
+            "Gừng",
+            "Bạch đậu khấu",
+            "Tiêu"
+        ],
+        "middleNotes": [
+            "Dừa",
+            "Gardenia",
+            "Hoa cam"
+        ],
+        "baseNotes": [
+            "Đậu tonka",
+            "Xạ hương",
+            "Hổ phách",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Phương Đông",
+                88,
+                "#8B0000"
+            ],
+            [
+                "Ngọt",
+                72,
+                "#FF6D00"
+            ],
+            [
+                "Hoa",
+                55,
+                "#e75480"
+            ],
+            [
+                "Gia vị ấm",
+                48,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Bí ẩn",
+                "🖤"
+            ],
+            [
+                "Gợi cảm",
+                "✨"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Bí ẩn",
+            "Phương Đông",
+            "Gợi cảm"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "90ml"
+        ],
+        "price": 1800000
+    },
+    {
+        "id": "chanel-coco-edp",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "Coco Eau de Parfum",
+        "subName": "Eau de Parfum",
+        "perfumer": "Jacques Polge",
+        "gender": "nu",
+        "desc": "Kinh điển phương Đông Chanel. Quế, hoa cam và gỗ đàn hương. Sang, ấm và quyền lực.",
+        "verdict": "Quế, hoa cam, gỗ đàn hương. Phương Đông kinh điển, sang và quyền lực.",
+        "short": "QUẾ, HOA CAM, QUYỀN LỰC",
+        "sc": [
+            9.0,
+            9.0,
+            8.2,
+            7.8,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            40,
+            20,
+            90,
+            92
+        ],
+        "dn": [
+            28,
+            92
+        ],
+        "topNotes": [
+            "Quế",
+            "Cam bergamot",
+            "Hồ tiêu"
+        ],
+        "middleNotes": [
+            "Hoa cam",
+            "Hoa hồng",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Vani",
+            "Đậu tonka",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Phương Đông",
+                95,
+                "#8B0000"
+            ],
+            [
+                "Gia vị ấm",
+                82,
+                "#e67e22"
+            ],
+            [
+                "Hoa",
+                62,
+                "#e75480"
+            ],
+            [
+                "Gỗ",
+                48,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Quyền lực",
+                "🔥"
+            ],
+            [
+                "Chanel",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Kinh điển",
+            "Phương Đông",
+            "Chanel"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "35ml",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3800000
+    },
+    {
+        "id": "chanel-chance-eau-tendre-edp",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "Chance Eau Tendre",
+        "subName": "Eau de Parfum",
+        "perfumer": "Olivier Polge",
+        "gender": "nu",
+        "desc": "Mùi nữ tươi ngọt nhẹ với bưởi, hoa nhài và xạ hương trắng. Dễ thương và dễ dùng.",
+        "verdict": "Bưởi, hoa nhài, xạ hương. Tươi ngọt dễ thương, rất dễ dùng.",
+        "short": "TƯƠI NGỌT, DỄ THƯƠNG, DỄ DÙNG",
+        "sc": [
+            8.5,
+            7.5,
+            9.0,
+            8.0,
+            8.3
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            85,
+            72,
+            68,
+            45
+        ],
+        "dn": [
+            78,
+            42
+        ],
+        "topNotes": [
+            "Bưởi",
+            "Quýt"
+        ],
+        "middleNotes": [
+            "Hoa nhài",
+            "Hoa hồng"
+        ],
+        "baseNotes": [
+            "Xạ hương trắng",
+            "Đào",
+            "Gỗ tuyết tùng"
+        ],
+        "accords": [
+            [
+                "Tươi",
+                88,
+                "#2ecc71"
+            ],
+            [
+                "Hoa",
+                72,
+                "#e75480"
+            ],
+            [
+                "Trái cây",
+                55,
+                "#f39c12"
+            ],
+            [
+                "Ngọt",
+                42,
+                "#FF6D00"
+            ]
+        ],
+        "vibes": [
+            [
+                "Dễ thương",
+                "🌸"
+            ],
+            [
+                "Tươi",
+                "🍊"
+            ],
+            [
+                "Hằng ngày",
+                "🧴"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Tươi",
+            "Dễ dùng",
+            "Chanel"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "35ml",
+            "50ml",
+            "100ml",
+            "150ml"
+        ],
+        "price": 3500000
+    },
+    {
+        "id": "chanel-coco-noir",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "Coco Noir",
+        "subName": "Eau de Parfum",
+        "perfumer": "Jacques Polge",
+        "gender": "nu",
+        "desc": "Phiên bản tối của Coco. Hoắc hương, gỗ đàn hương và cam bergamot. Tối sang và bí ẩn.",
+        "verdict": "Hoắc hương, gỗ, cam bergamot. Coco bản tối, bí ẩn và sang.",
+        "short": "COCO TỐI, HOẮC HƯƠNG, BÍ ẨN",
+        "sc": [
+            9.0,
+            8.8,
+            8.5,
+            7.8,
+            8.5
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            48,
+            25,
+            90,
+            88
+        ],
+        "dn": [
+            32,
+            92
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Bưởi"
+        ],
+        "middleNotes": [
+            "Hoa hồng",
+            "Mẫu đơn",
+            "Hoa gardenia"
+        ],
+        "baseNotes": [
+            "Hoắc hương",
+            "Gỗ đàn hương",
+            "Vani",
+            "Đậu tonka"
+        ],
+        "accords": [
+            [
+                "Gỗ",
+                88,
+                "#8B4513"
+            ],
+            [
+                "Phương Đông",
+                78,
+                "#8B0000"
+            ],
+            [
+                "Hoa",
+                58,
+                "#e75480"
+            ],
+            [
+                "Cam chanh",
+                38,
+                "#f7c242"
+            ]
+        ],
+        "vibes": [
+            [
+                "Tối",
+                "🖤"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ],
+            [
+                "Bí ẩn",
+                "🌙"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Tối",
+            "Chanel",
+            "Sang"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "35ml",
+            "50ml",
+            "100ml"
+        ],
+        "price": 3800000
+    },
+    {
+        "id": "amouage-guidance",
+        "brandSlug": "amouage",
+        "brand": "AMOUAGE",
+        "name": "Guidance",
+        "subName": "Eau de Parfum",
+        "perfumer": "Quentin Bisch",
+        "gender": "nu",
+        "desc": "Mùi niche hoa-oud mới với hoa cam, trầm hương và oud. Phương Đông hiện đại, sang.",
+        "verdict": "Hoa cam, trầm hương, oud. Niche phương Đông hiện đại, sang.",
+        "short": "HOA CAM, OUD, PHƯƠNG ĐÔNG HIỆN ĐẠI",
+        "sc": [
+            9.0,
+            9.0,
+            8.5,
+            7.5,
+            8.5
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            45,
+            25,
+            88,
+            92
+        ],
+        "dn": [
+            30,
+            95
+        ],
+        "topNotes": [
+            "Hoa cam",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Trầm hương",
+            "Oud",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Vani",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Phương Đông",
+                92,
+                "#8B0000"
+            ],
+            [
+                "Oud",
+                78,
+                "#3E2723"
+            ],
+            [
+                "Hoa",
+                62,
+                "#e75480"
+            ],
+            [
+                "Gỗ",
+                48,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Phương Đông",
+                "🌙"
+            ],
+            [
+                "Sang",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Nữ",
+            "Oud",
+            "Phương Đông"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "100ml"
+        ],
+        "price": 7500000
+    },
+    {
+        "id": "tom-ford-black-orchid",
+        "brandSlug": "tom-ford",
+        "brand": "TOM FORD",
+        "name": "Black Orchid",
+        "subName": "Eau de Parfum",
+        "perfumer": "David Apel",
+        "gender": "nu",
+        "desc": "Mùi nữ đậm bí ẩn với socola đen, truffles và hoa phong lan. Tối, gợi cảm, kinh điển.",
+        "verdict": "Socola đen, phong lan, truffles. Tối bí ẩn, gợi cảm kinh điển.",
+        "short": "SOCOLA ĐEN, PHONG LAN, TỐI",
+        "sc": [
+            9.2,
+            9.2,
+            8.5,
+            7.5,
+            8.6
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            35,
+            15,
+            92,
+            100
+        ],
+        "dn": [
+            18,
+            100
+        ],
+        "topNotes": [
+            "Truffles",
+            "Cam bergamot",
+            "Mận"
+        ],
+        "middleNotes": [
+            "Hoa phong lan đen",
+            "Hoa nhài",
+            "Socola đen"
+        ],
+        "baseNotes": [
+            "Hoắc hương",
+            "Vani",
+            "Trầm hương",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Phương Đông",
+                95,
+                "#8B0000"
+            ],
+            [
+                "Ngọt",
+                78,
+                "#FF6D00"
+            ],
+            [
+                "Hoa",
+                62,
+                "#e75480"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Bí ẩn",
+                "🖤"
+            ],
+            [
+                "Gợi cảm",
+                "✨"
+            ],
+            [
+                "Kinh điển",
+                "👑"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Tối",
+            "Kinh điển",
+            "Tom Ford"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "30ml",
+            "50ml",
+            "100ml"
+        ],
+        "price": 4500000
+    },
+    {
+        "id": "parfums-de-marly-valaya",
+        "brandSlug": "parfums-de-marly",
+        "brand": "PARFUMS DE MARLY",
+        "name": "Valaya",
+        "subName": "Eau de Parfum",
+        "perfumer": "Hamid Merati-Kashani",
+        "gender": "nu",
+        "desc": "Mùi nữ hoa-trái cây sang với hoa hồng, mận và vani. Thanh lịch niche, rất nữ tính.",
+        "verdict": "Hoa hồng, mận, vani. Niche nữ thanh lịch và sang.",
+        "short": "HOA HỒNG, MẬN, NICHE NỮ SANG",
+        "sc": [
+            9.0,
+            8.8,
+            9.0,
+            7.5,
+            8.6
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            68,
+            45,
+            82,
+            72
+        ],
+        "dn": [
+            58,
+            72
+        ],
+        "topNotes": [
+            "Mận",
+            "Cam bergamot",
+            "Hoa cam"
+        ],
+        "middleNotes": [
+            "Hoa hồng",
+            "Hoa nhài",
+            "Mẫu đơn"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Gỗ đàn hương",
+            "Xạ hương",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Hoa",
+                92,
+                "#e75480"
+            ],
+            [
+                "Trái cây",
+                72,
+                "#f39c12"
+            ],
+            [
+                "Ngọt",
+                55,
+                "#FF6D00"
+            ],
+            [
+                "Gỗ",
+                38,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Nữ tính",
+                "💐"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Nữ",
+            "Hoa",
+            "Sang"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml"
+        ],
+        "price": 5800000
+    },
+    {
+        "id": "givenchy-linterdit-edp",
+        "brandSlug": "givenchy",
+        "brand": "GIVENCHY",
+        "name": "L'Interdit",
+        "subName": "Eau de Parfum",
+        "perfumer": "Dominique Ropion",
+        "gender": "nu",
+        "desc": "Mùi nữ iris-tuberose với cam hoa và vetiver. Cấm kị, quyến rũ và rất có cá tính.",
+        "verdict": "Iris, tuberose, vetiver. Cấm kị quyến rũ, cá tính mạnh.",
+        "short": "IRIS, TUBEROSE, CẤM KỊ",
+        "sc": [
+            8.8,
+            8.5,
+            9.0,
+            8.0,
+            8.6
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            65,
+            45,
+            82,
+            72
+        ],
+        "dn": [
+            52,
+            82
+        ],
+        "topNotes": [
+            "Lê",
+            "Cam bergamot",
+            "Hoa cam"
+        ],
+        "middleNotes": [
+            "Iris",
+            "Tuberose",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Vetiver",
+            "Hoắc hương",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Hoa trắng",
+                88,
+                "#e75480"
+            ],
+            [
+                "Phấn / Iris",
+                72,
+                "#9b59b6"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ],
+            [
+                "Tươi",
+                42,
+                "#2ecc71"
+            ]
+        ],
+        "vibes": [
+            [
+                "Cá tính",
+                "🔥"
+            ],
+            [
+                "Quyến rũ",
+                "✨"
+            ],
+            [
+                "Nữ tính",
+                "💐"
+            ]
+        ],
+        "tags": [
+            "Nữ",
+            "Iris",
+            "Cá tính",
+            "Quyến rũ"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "35ml",
+            "50ml",
+            "80ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "xerjoff-lira",
+        "brandSlug": "xerjoff",
+        "brand": "XERJOFF",
+        "name": "Lira",
+        "subName": "Eau de Parfum",
+        "perfumer": "Chris Maurice",
+        "gender": "nu",
+        "desc": "Mùi niche gourmand Ý với cam, caramel và vani. Ngọt sang kiểu Ý, cực cuốn.",
+        "verdict": "Cam, caramel, vani. Gourmand niche sang kiểu Ý, cực cuốn.",
+        "short": "CAM CARAMEL, VANI, NICHE Ý",
+        "sc": [
+            9.2,
+            9.0,
+            9.2,
+            7.5,
+            8.7
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            55,
+            35,
+            85,
+            82
+        ],
+        "dn": [
+            42,
+            88
+        ],
+        "topNotes": [
+            "Cam",
+            "Cam bergamot",
+            "Chanh"
+        ],
+        "middleNotes": [
+            "Caramel",
+            "Quế",
+            "Hoa cam"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Đậu tonka",
+            "Gỗ đàn hương",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Gourmand",
+                95,
+                "#8B0000"
+            ],
+            [
+                "Cam chanh",
+                78,
+                "#f7c242"
+            ],
+            [
+                "Ngọt",
+                72,
+                "#FF6D00"
+            ],
+            [
+                "Gia vị ấm",
+                48,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Gourmand",
+                "🍬"
+            ],
+            [
+                "Sang",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Nữ",
+            "Gourmand",
+            "Cam"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 6500000
+    },
+    {
+        "id": "parfums-de-marly-delina-exclusif",
+        "brandSlug": "parfums-de-marly",
+        "brand": "PARFUMS DE MARLY",
+        "name": "Delina Exclusif",
+        "subName": "Parfum",
+        "perfumer": "Quentin Bisch",
+        "gender": "nu",
+        "desc": "Bản Exclusif đậm của Delina. Hoa hồng, oud và vani sâu. Sang và quyền lực hơn bản gốc.",
+        "verdict": "Delina bản đậm. Hoa hồng, oud, vani. Sang và quyền lực hơn.",
+        "short": "DELINA ĐẬM, OUD, QUYỀN LỰC",
+        "sc": [
+            9.3,
+            9.0,
+            9.0,
+            7.0,
+            8.6
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            45,
+            22,
+            90,
+            95
+        ],
+        "dn": [
+            28,
+            95
+        ],
+        "topNotes": [
+            "Lê",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Hoa hồng Thổ Nhĩ Kỳ",
+            "Oud",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Hổ phách",
+            "Gỗ đàn hương",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Hoa",
+                92,
+                "#e75480"
+            ],
+            [
+                "Oud",
+                72,
+                "#3E2723"
+            ],
+            [
+                "Ngọt",
+                62,
+                "#FF6D00"
+            ],
+            [
+                "Gỗ",
+                48,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Xa xỉ",
+                "💎"
+            ],
+            [
+                "Quyền lực",
+                "👑"
+            ],
+            [
+                "Niche",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Nữ",
+            "Hoa hồng",
+            "Oud"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml"
+        ],
+        "price": 7500000
+    },
+    {
+        "id": "tom-ford-lost-cherry",
+        "brandSlug": "tom-ford",
+        "brand": "TOM FORD",
+        "name": "Lost Cherry",
+        "subName": "Eau de Parfum",
+        "perfumer": "N/A",
+        "gender": "unisex",
+        "desc": "Mùi niche anh đào-vani ngọt với hạnh nhân đắng và gỗ đàn hương. Gourmand sang.",
+        "verdict": "Anh đào, vani, hạnh nhân. Gourmand niche ngọt sang kiểu Tom Ford.",
+        "short": "ANH ĐÀO, VANI, GOURMAND SANG",
+        "sc": [
+            9.0,
+            8.8,
+            9.2,
+            6.5,
+            8.4
+        ],
+        "lon": 8,
+        "sil": 8,
+        "sea": [
+            52,
+            32,
+            88,
+            85
+        ],
+        "dn": [
+            38,
+            90
+        ],
+        "topNotes": [
+            "Anh đào đen",
+            "Hạnh nhân đắng"
+        ],
+        "middleNotes": [
+            "Rượu anh đào",
+            "Hoa hồng Thổ Nhĩ Kỳ"
+        ],
+        "baseNotes": [
+            "Vani Peru",
+            "Gỗ đàn hương",
+            "Đậu tonka"
+        ],
+        "accords": [
+            [
+                "Gourmand",
+                95,
+                "#8B0000"
+            ],
+            [
+                "Trái cây",
+                82,
+                "#f39c12"
+            ],
+            [
+                "Ngọt",
+                78,
+                "#FF6D00"
+            ],
+            [
+                "Gỗ",
+                42,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Ngọt",
+                "🍬"
+            ],
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Gợi cảm",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Gourmand",
+            "Anh đào"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 6500000
+    }
+]
