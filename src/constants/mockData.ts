@@ -7952,54 +7952,6 @@ Nên mua khi mày muốn một chai signature đi làm hoặc gặp khách. Nế
     shopeeOffers: []
   },
   {
-    id: "hermes-terre-d-hermes",
-    brandSlug: "hermes",
-    brand: "HERMES",
-    name: "Terre d Hermes",
-    subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
-    gender: "nam",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "HERMES Terre d Hermes chính hãng", verified: false }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Terre d'Hermes là kiểu nước hoa nam rất “khô”, sạch và có chiều sâu theo hướng cam chanh khoáng chất chứ không ngọt hay dễ dãi kiểu designer phổ thông. Cảm giác mở ra là vỏ cam, bưởi và chút tiêu cay nhẹ, nhưng thứ làm nên bản sắc thật sự của chai này nằm ở lớp nền đất đá, cỏ vetiver và gỗ tuyết tùng. Tổng thể cho cảm giác trưởng thành, điềm tĩnh, có trải nghiệm sống và không cần phô trương để gây chú ý.
-
-Đây không phải kiểu mùi ai ngửi lần đầu cũng thấy “wow, thơm ngọt, dễ yêu”. Terre d'Hermes hấp dẫn theo kiểu càng dùng càng hiểu. Nó tạo ra hình ảnh một người đàn ông gọn gàng, biết mình là ai, nói vừa đủ và có gu kín. Ở khí hậu Việt Nam, kiểu mùi này đặc biệt hợp với người thích sự thanh lịch nam tính nhưng không muốn quá trẻ hay quá chơi bời.
-
-## Diễn biến trên da
-Trên da, Terre d'Hermes mở đầu khá sáng với citrus vỏ cam và bưởi, sau đó nhanh chóng lắng xuống thành cảm giác khoáng, cay và hơi khô. Khoảng từ phút 20 trở đi là lúc vetiver, tiêu và gỗ hiện lên rõ hơn, khiến mùi hương có cảm giác sạch, đứng đắn và rất business.
-
-Điểm hay là chai này chuyển mùi mượt, không bị gắt nếu xịt vừa tay. Nó không có kiểu biến đổi dramatic, nhưng độ cân bằng rất cao: mở đầu đủ tươi, giữa đủ cay, nền đủ sâu. Trên áo quần, phần gỗ và khoáng thường giữ lâu hơn trên da, cho cảm giác chỉn chu suốt cả ngày.
-
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Terre d'Hermes có độ lưu hương khá, thường ở mức 6-8 giờ tùy da; tỏa hương vừa phải, không quá áp đảo. Trong môi trường văn phòng, gặp khách hàng, đi làm, đi họp hoặc dùng hằng ngày cho người trưởng thành thì đây là lựa chọn rất an toàn nhưng vẫn có cá tính.
-
-Ở Việt Nam, chai này dùng đẹp nhất vào mùa khô, ngày mát, môi trường máy lạnh hoặc những lúc cần ăn mặc gọn gàng. Giữa trưa nắng gắt vẫn dùng được nếu tiết chế 2-4 xịt. Điểm trừ là ai thích mùi ngọt, sexy hoặc dễ được khen ngay có thể thấy Terre d'Hermes hơi nghiêm và hơi khô.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày cần một chai nước hoa nam trưởng thành, lịch sự, không lỗi thời và càng dùng càng thấy hay, Terre d'Hermes rất đáng có trong bộ sưu tập. Nó hợp người 28+, dân văn phòng, người làm quản lý hoặc bất kỳ ai thích phong cách thanh lịch kiểu Pháp.
-
-Nên mua khi mày muốn một chai signature đi làm, gặp đối tác, dùng quanh năm mà không bị đại trà. Còn nếu mục tiêu chính là hẹn hò buổi tối hay cần mùi ngọt dễ khen, đây không phải hướng tối ưu nhất.`,
-    article: "(Chờ Coder viết bài)",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["BLOCKED_REVIEW", "Nam", "NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    shopeeOffers: []
-  },
-  {
     id: "dg-the-one-for-men-eau-de-parfum",
     brandSlug: "dg",
     brand: "DOLCE & GABBANA",

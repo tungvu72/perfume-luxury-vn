@@ -143,3 +143,35 @@ IDs:
 - dior-dolce-vita
 - nishane-hundred-silent-ways
 Status: ready for Anti inject
+
+Batch 12 DONE
+File: data/product-batches/coder-productcopy-batch-12.json
+Items: 10
+IDs:
+- jpg-la-belle-le-parfum
+- ysl-cinema
+- dior-diorissimo
+- guerlain-samsara-extrait
+- zadig-voltaire-this-is-her
+- ysl-la-nuit-de-lhomme-bleu-electrique
+- guerlain-habit-rouge-edt
+- chanel-allure-homme-edt
+- lalique-encre-noire-a-lextreme
+- cartier-la-panthere
+Status: ready for Anti inject
+
+Batch 13 DONE
+File: data/product-batches/coder-productcopy-batch-13.json
+Items: 10
+IDs:
+- ysl-rive-gauche
+- guerlain-lheure-bleue-edt
+- frederic-malle-carnal-flower
+- hermes-24-faubourg
+- lolita-lempicka-le-parfum
+- ck-obsession
+- guerlain-champs-elysees-edp
+- chanel-egoiste-platinum
+- mfk-grand-soir
+- bvlgari-tygar
+Status: ready for Anti inject
