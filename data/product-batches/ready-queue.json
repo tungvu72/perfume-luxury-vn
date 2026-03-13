@@ -1,11 +1,5 @@
 [
   {
-    "id": "ysl-la-nuit-de-lhomme",
-    "brand": "YVES SAINT LAURENT",
-    "name": "La Nuit de l'Homme",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
     "id": "xerjoff-naxos",
     "brand": "XERJOFF",
     "name": "XJ 1861 Naxos",
@@ -66,24 +60,6 @@
     "status": "READY_FOR_CONTENT"
   },
   {
-    "id": "dior-hypnotic-poison",
-    "brand": "DIOR",
-    "name": "Hypnotic Poison",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "guerlain-shalimar-edp",
-    "brand": "GUERLAIN",
-    "name": "Shalimar",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "guerlain-mon-guerlain",
-    "brand": "GUERLAIN",
-    "name": "Mon Guerlain",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
     "id": "dior-addict-edp",
     "brand": "DIOR",
     "name": "Dior Addict",
@@ -93,12 +69,6 @@
     "id": "ysl-libre-le-parfum",
     "brand": "YVES SAINT LAURENT",
     "name": "Libre Le Parfum",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "frederic-malle-portrait-of-a-lady",
-    "brand": "FRÉDÉRIC MALLE",
-    "name": "Portrait of a Lady",
     "status": "READY_FOR_CONTENT"
   },
   {
@@ -126,36 +96,6 @@
     "status": "READY_FOR_CONTENT"
   },
   {
-    "id": "chanel-allure-homme-sport-eau-extreme",
-    "brand": "CHANEL",
-    "name": "Allure Homme Sport Eau Extrême",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "nishane-hacivat",
-    "brand": "NISHANE",
-    "name": "Hacivat",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "prada-lhomme-intense",
-    "brand": "PRADA",
-    "name": "L'Homme Intense",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "sospiro-vibrato",
-    "brand": "SOSPIRO",
-    "name": "Vibrato",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "hermes-terre-dhermes-parfum",
-    "brand": "HERMÈS",
-    "name": "Terre d'Hermès Parfum",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
     "id": "creed-green-irish-tweed",
     "brand": "CREED",
     "name": "Green Irish Tweed",
@@ -177,24 +117,6 @@
     "id": "parfums-de-marly-althair",
     "brand": "PARFUMS DE MARLY",
     "name": "Althaïr",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "guerlain-angelique-noire",
-    "brand": "GUERLAIN",
-    "name": "Angélique Noire",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "dior-pure-poison",
-    "brand": "DIOR",
-    "name": "Pure Poison",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "ysl-opium-edt",
-    "brand": "YVES SAINT LAURENT",
-    "name": "Opium",
     "status": "READY_FOR_CONTENT"
   },
   {
@@ -243,36 +165,6 @@
     "id": "guerlain-shalimar-lessence",
     "brand": "GUERLAIN",
     "name": "Shalimar L'Essence",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "lalique-encre-noire",
-    "brand": "LALIQUE",
-    "name": "Encre Noire",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "jpg-le-male-elixir",
-    "brand": "JEAN PAUL GAULTIER",
-    "name": "Le Male Elixir",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "jpg-le-male-edt",
-    "brand": "JEAN PAUL GAULTIER",
-    "name": "Le Male",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "creed-absolu-aventus",
-    "brand": "CREED",
-    "name": "Absolu Aventus",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "nishane-ani",
-    "brand": "NISHANE",
-    "name": "Ani",
     "status": "READY_FOR_CONTENT"
   },
   {
@@ -366,51 +258,9 @@
     "status": "READY_FOR_CONTENT"
   },
   {
-    "id": "chanel-allure-homme-edition-blanche",
-    "brand": "CHANEL",
-    "name": "Allure Homme Édition Blanche",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "hermes-terre-dhermes-eau-givree",
-    "brand": "HERMÈS",
-    "name": "Terre d'Hermès Eau Givrée",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "guerlain-habit-rouge-parfum",
-    "brand": "GUERLAIN",
-    "name": "Habit Rouge Parfum",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "penhaligons-halfeti",
-    "brand": "PENHALIGON'S",
-    "name": "Halfeti",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
     "id": "chanel-antaeus",
     "brand": "CHANEL",
     "name": "Antaeus",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "davidoff-cool-water",
-    "brand": "DAVIDOFF",
-    "name": "Cool Water",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "guy-laroche-drakkar-noir",
-    "brand": "GUY LAROCHE",
-    "name": "Drakkar Noir",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "memo-african-leather",
-    "brand": "MEMO PARIS",
-    "name": "African Leather",
     "status": "READY_FOR_CONTENT"
   },
   {
@@ -627,12 +477,6 @@
     "id": "versace-pour-homme",
     "brand": "VERSACE",
     "name": "Pour Homme",
-    "status": "READY_FOR_CONTENT"
-  },
-  {
-    "id": "tom-ford-grey-vetiver",
-    "brand": "TOM FORD",
-    "name": "Grey Vetiver",
     "status": "READY_FOR_CONTENT"
   },
   {

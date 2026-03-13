@@ -1,0 +1,3274 @@
+{
+  "timestamp": "2026-03-13T08:28:36.261Z",
+  "totalProducts": 252,
+  "duplicateGroupsFound": 14,
+  "similarIdPairs": 8,
+  "resolutionTable": [
+    {
+      "canonicalId": "bleu-chanel-edp",
+      "canonicalName": "CHANEL Bleu de Chanel",
+      "duplicateId": "bleu-de-chanel-parfum",
+      "duplicateName": "CHANEL Bleu de Chanel",
+      "reason": "duplicate_shell",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": true,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "bleu-chanel-edp",
+      "canonicalName": "CHANEL Bleu de Chanel",
+      "duplicateId": "chanel-bleu-de-chanel",
+      "duplicateName": "CHANEL Bleu de Chanel",
+      "reason": "duplicate_shell",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": true,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "terre-dhermes-edt",
+      "canonicalName": "HERMÈS Terre d'Hermès",
+      "duplicateId": "hermes-terre-d-hermes",
+      "duplicateName": "HERMES Terre d Hermes",
+      "reason": "apostrophe_variant, accent_variant",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": true,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "issey-miyake-leau-dissey-pour-homme",
+      "canonicalName": "ISSEY MIYAKE L�Eau d�Issey Pour Homme",
+      "duplicateId": "issey-miyake-l-eau-d-issey-pour-homme",
+      "duplicateName": "ISSEY MIYAKE L Eau d Issey Pour Homme",
+      "reason": "accent_variant, id_variant",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": true,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "xerjoff-naxos",
+      "canonicalName": "XERJOFF XJ 1861 Naxos",
+      "duplicateId": "xerjoff-xj-1861-naxos",
+      "duplicateName": "XERJOFF XJ 1861 Naxos",
+      "reason": "duplicate_shell",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": false,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "hermes-terre-dhermes-parfum",
+      "canonicalName": "HERMÈS Terre d'Hermès Parfum",
+      "duplicateId": "hermes-terre-d-hermes-parfum",
+      "duplicateName": "HERMES Terre d Hermes Parfum",
+      "reason": "apostrophe_variant, accent_variant, id_variant",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": false,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "byredo-bal-dafrique",
+      "canonicalName": "BYREDO Bal d'Afrique",
+      "duplicateId": "byredo-bal-d-afrique",
+      "duplicateName": "BYREDO Bal d Afrique",
+      "reason": "apostrophe_variant, accent_variant, id_variant",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": false,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "guerlain-lhomme-ideal-parfum",
+      "canonicalName": "GUERLAIN L'Homme Idéal Parfum",
+      "duplicateId": "guerlain-l-homme-ideal-parfum",
+      "duplicateName": "GUERLAIN L Homme Ideal Parfum",
+      "reason": "apostrophe_variant, accent_variant, id_variant",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": false,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "guerlain-lheure-bleue-edp",
+      "canonicalName": "GUERLAIN L'Heure Bleue",
+      "duplicateId": "guerlain-lheure-bleue-edt",
+      "duplicateName": "GUERLAIN L'Heure Bleue",
+      "reason": "id_variant",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": false,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "hermes-terre-dhermes-eau-givree",
+      "canonicalName": "HERMÈS Terre d'Hermès Eau Givrée",
+      "duplicateId": "hermes-terre-d-hermes-eau-givree",
+      "duplicateName": "HERMES Terre d Hermes Eau Givree",
+      "reason": "apostrophe_variant, accent_variant, id_variant",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": false,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "memo-african-leather",
+      "canonicalName": "MEMO PARIS African Leather",
+      "duplicateId": "memo-paris-african-leather",
+      "duplicateName": "MEMO PARIS African Leather",
+      "reason": "duplicate_shell",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": false,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "ysl-la-nuit-de-lhomme-bleu-electrique",
+      "canonicalName": "YVES SAINT LAURENT La Nuit de l'Homme Bleu Électrique",
+      "duplicateId": "ysl-la-nuit-de-l-homme-bleu-electrique",
+      "duplicateName": "YVES SAINT LAURENT La Nuit de L Homme Bleu Electrique",
+      "reason": "apostrophe_variant, accent_variant, id_variant",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": false,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "guerlain-l-instant-de-guerlain",
+      "canonicalName": "GUERLAIN L Instant de Guerlain",
+      "duplicateId": "guerlain-linstant-de-guerlain-femme",
+      "duplicateName": "GUERLAIN L'Instant de Guerlain",
+      "reason": "apostrophe_variant, accent_variant",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": false,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "dg-light-blue-intense-homme",
+      "canonicalName": "DOLCE & GABBANA Light Blue Eau Intense Pour Homme",
+      "duplicateId": "dg-light-blue-eau-intense-pour-homme",
+      "duplicateName": "DOLCE & GABBANA Light Blue Eau Intense Pour Homme",
+      "reason": "duplicate_shell",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": false,
+      "duplicateHasContent": false
+    },
+    {
+      "canonicalId": "louis-vuitton-limmensite",
+      "canonicalName": "LOUIS VUITTON L'Immensité",
+      "duplicateId": "louis-vuitton-l-immensite",
+      "duplicateName": "LOUIS VUITTON L Immensite",
+      "reason": "apostrophe_variant, accent_variant, id_variant",
+      "action": "DROP_DUPLICATE",
+      "canonicalHasContent": false,
+      "duplicateHasContent": false
+    }
+  ],
+  "familyBreakdown": {
+    "terre": [
+      {
+        "id": "terre-dhermes-edt",
+        "name": "Terre d'Hermès",
+        "subName": "Eau de Toilette",
+        "hasContent": true
+      },
+      {
+        "id": "hermes-terre-dhermes-parfum",
+        "name": "Terre d'Hermès Parfum",
+        "subName": "Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "hermes-terre-dhermes-eau-givree",
+        "name": "Terre d'Hermès Eau Givrée",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "hermes-terre-d-hermes",
+        "name": "Terre d Hermes",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "hermes-terre-d-hermes-parfum",
+        "name": "Terre d Hermes Parfum",
+        "subName": "Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "hermes-terre-d-hermes-eau-givree",
+        "name": "Terre d Hermes Eau Givree",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      }
+    ],
+    "dior homme": [
+      {
+        "id": "dior-homme-intense",
+        "name": "Dior Homme Intense",
+        "subName": "Eau de Parfum",
+        "hasContent": true
+      },
+      {
+        "id": "dior-homme-parfum",
+        "name": "Dior Homme Parfum",
+        "subName": "Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "dior-homme-sport-2021",
+        "name": "Dior Homme Sport 2021",
+        "subName": "Eau de Toilette",
+        "hasContent": false
+      }
+    ],
+    "bleu de chanel": [
+      {
+        "id": "bleu-chanel-edp",
+        "name": "Bleu de Chanel",
+        "subName": "Eau de Parfum",
+        "hasContent": true
+      },
+      {
+        "id": "bleu-de-chanel-parfum",
+        "name": "Bleu de Chanel",
+        "subName": "Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "chanel-bleu-de-chanel-eau-de-parfum",
+        "name": "Bleu de Chanel Eau de Parfum",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "chanel-bleu-de-chanel",
+        "name": "Bleu de Chanel",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      }
+    ],
+    "sauvage": [
+      {
+        "id": "sauvage-elixir",
+        "name": "Sauvage Elixir",
+        "subName": "Elixir",
+        "hasContent": false
+      },
+      {
+        "id": "dior-sauvage-edp",
+        "name": "Sauvage",
+        "subName": "Eau de Parfum",
+        "hasContent": true
+      },
+      {
+        "id": "dior-eau-sauvage",
+        "name": "Eau Sauvage",
+        "subName": "Eau de Toilette",
+        "hasContent": false
+      },
+      {
+        "id": "dior-eau-sauvage-parfum",
+        "name": "Eau Sauvage Parfum",
+        "subName": "Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "dior-sauvage-eau-de-parfum",
+        "name": "Sauvage Eau de Parfum",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      }
+    ],
+    "addict": [
+      {
+        "id": "dior-addict-edp",
+        "name": "Dior Addict",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "dior-addict-edp-2014",
+        "name": "Dior Addict Eau de Parfum 2014",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "dior-addict-eau-de-parfum",
+        "name": "Dior Addict Eau de Parfum",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      }
+    ],
+    "allure": [
+      {
+        "id": "chanel-allure-homme-sport-eau-extreme",
+        "name": "Allure Homme Sport Eau Extrême",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "chanel-allure-homme-sport",
+        "name": "Allure Homme Sport",
+        "subName": "Eau de Toilette",
+        "hasContent": false
+      },
+      {
+        "id": "chanel-allure-edp",
+        "name": "Allure",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "chanel-allure-homme-edition-blanche",
+        "name": "Allure Homme Édition Blanche",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "chanel-allure-homme-edt",
+        "name": "Allure Homme",
+        "subName": "Eau de Toilette",
+        "hasContent": false
+      },
+      {
+        "id": "chanel-allure-eau-de-parfum",
+        "name": "Allure Eau de Parfum",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      }
+    ],
+    "nomade": [
+      {
+        "id": "chloe-nomade-edp",
+        "name": "Nomade",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "louis-vuitton-ombre-nomade",
+        "name": "Ombre Nomade",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      }
+    ],
+    "shalimar": [
+      {
+        "id": "guerlain-shalimar-edp",
+        "name": "Shalimar",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "guerlain-shalimar-parfum",
+        "name": "Shalimar Parfum",
+        "subName": "Parfum / Extrait",
+        "hasContent": false
+      },
+      {
+        "id": "guerlain-shalimar-lessence",
+        "name": "Shalimar L'Essence",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "guerlain-shalimar-eau-de-parfum",
+        "name": "Shalimar Eau de Parfum",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      }
+    ],
+    "poison": [
+      {
+        "id": "dior-hypnotic-poison",
+        "name": "Hypnotic Poison",
+        "subName": "Eau de Toilette",
+        "hasContent": false
+      },
+      {
+        "id": "dior-poison",
+        "name": "Poison",
+        "subName": "Eau de Toilette",
+        "hasContent": false
+      },
+      {
+        "id": "dior-pure-poison",
+        "name": "Pure Poison",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "dior-midnight-poison",
+        "name": "Midnight Poison",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      }
+    ],
+    "habit rouge": [
+      {
+        "id": "guerlain-habit-rouge-parfum",
+        "name": "Habit Rouge Parfum",
+        "subName": "Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "guerlain-habit-rouge-edt",
+        "name": "Habit Rouge",
+        "subName": "Eau de Toilette",
+        "hasContent": false
+      },
+      {
+        "id": "guerlain-habit-rouge-eau-de-toilette",
+        "name": "Habit Rouge Eau de Toilette",
+        "subName": "Eau de Toilette",
+        "hasContent": false
+      }
+    ],
+    "encre noire": [
+      {
+        "id": "lalique-encre-noire",
+        "name": "Encre Noire",
+        "subName": "Eau de Toilette",
+        "hasContent": false
+      },
+      {
+        "id": "lalique-encre-noire-a-lextreme",
+        "name": "Encre Noire à l'Extrême",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      }
+    ],
+    "le male": [
+      {
+        "id": "jpg-le-male-le-parfum",
+        "name": "Le Male Le Parfum",
+        "subName": "Parfum",
+        "hasContent": true
+      },
+      {
+        "id": "jpg-le-male-elixir",
+        "name": "Le Male Elixir",
+        "subName": "Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "jpg-le-male-edt",
+        "name": "Le Male",
+        "subName": "Eau de Toilette",
+        "hasContent": false
+      }
+    ],
+    "l'homme ideal": [
+      {
+        "id": "guerlain-lhomme-ideal-parfum",
+        "name": "L'Homme Idéal Parfum",
+        "subName": "Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "guerlain-l-homme-ideal-eau-de-parfum",
+        "name": "L Homme Ideal Eau de Parfum",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "guerlain-l-homme-ideal-parfum",
+        "name": "L Homme Ideal Parfum",
+        "subName": "Parfum",
+        "hasContent": false
+      }
+    ],
+    "l'instant": [
+      {
+        "id": "guerlain-linstant-homme-edp",
+        "name": "L'Instant de Guerlain pour Homme",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "guerlain-linstant-de-guerlain-femme",
+        "name": "L'Instant de Guerlain",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "guerlain-l-instant-de-guerlain-pour-homme-edp",
+        "name": "L Instant de Guerlain pour Homme EDP",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      },
+      {
+        "id": "guerlain-l-instant-de-guerlain",
+        "name": "L Instant de Guerlain",
+        "subName": "Eau de Parfum",
+        "hasContent": false
+      }
+    ]
+  },
+  "allProducts": [
+    {
+      "id": "sauvage-elixir",
+      "brand": "DIOR",
+      "name": "Sauvage Elixir",
+      "subName": "Elixir",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "sauvage el'ixir",
+      "normalizedBrandName": "d'ior sauvage el'ixir"
+    },
+    {
+      "id": "armani-stronger-with-you-intensely",
+      "brand": "GIORGIO ARMANI",
+      "name": "Stronger With You Intensely",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "stronger with you intensel'y",
+      "normalizedBrandName": "giorgio armani stronger with you intensel'y"
+    },
+    {
+      "id": "lattafa-khamrah",
+      "brand": "LATTAFA",
+      "name": "Khamrah",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "khamrah",
+      "normalizedBrandName": "l'attafa khamrah"
+    },
+    {
+      "id": "bleu-chanel-edp",
+      "brand": "CHANEL",
+      "name": "Bleu de Chanel",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "bl'eu d'e chanel'",
+      "normalizedBrandName": "chanel'bl'eu d'e chanel'"
+    },
+    {
+      "id": "ysl-black-opium",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Black Opium",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "bl'ack opium",
+      "normalizedBrandName": "yves saint l'aurent bl'ack opium"
+    },
+    {
+      "id": "creed-aventus",
+      "brand": "CREED",
+      "name": "Aventus",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "aventus",
+      "normalizedBrandName": "creed'aventus"
+    },
+    {
+      "id": "baccarat-rouge-540",
+      "brand": "MAISON FRANCIS KURKDJIAN",
+      "name": "Baccarat Rouge 540",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "baccarat rouge 540",
+      "normalizedBrandName": "maison francis kurkd'jian baccarat rouge 540"
+    },
+    {
+      "id": "tom-ford-noir-extreme",
+      "brand": "TOM FORD",
+      "name": "Noir Extreme",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "noir extreme",
+      "normalizedBrandName": "tom ford'noir extreme"
+    },
+    {
+      "id": "dior-sauvage-edp",
+      "brand": "DIOR",
+      "name": "Sauvage",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "sauvage",
+      "normalizedBrandName": "d'ior sauvage"
+    },
+    {
+      "id": "ysl-y-edp",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Y",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "y",
+      "normalizedBrandName": "yves saint l'aurent y"
+    },
+    {
+      "id": "versace-eros-edp",
+      "brand": "VERSACE",
+      "name": "Eros",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "eros",
+      "normalizedBrandName": "versace eros"
+    },
+    {
+      "id": "acqua-di-gio-profondo",
+      "brand": "GIORGIO ARMANI",
+      "name": "Acqua di Giò Profondo",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "acqua d'i gio profond'o",
+      "normalizedBrandName": "giorgio armani acqua d'i gio profond'o"
+    },
+    {
+      "id": "afnan-9pm",
+      "brand": "AFNAN",
+      "name": "9PM",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "9pm",
+      "normalizedBrandName": "afnan 9pm"
+    },
+    {
+      "id": "jpg-le-male-le-parfum",
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "Le Male Le Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "l'e mal'e l'e parfum",
+      "normalizedBrandName": "jean paul'gaul'tier l'e mal'e l'e parfum"
+    },
+    {
+      "id": "jpg-ultra-male",
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "Ultra Male",
+      "subName": "Eau de Toilette Intense",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "ul'tra mal'e",
+      "normalizedBrandName": "jean paul'gaul'tier ul'tra mal'e"
+    },
+    {
+      "id": "montblanc-explorer",
+      "brand": "MONTBLANC",
+      "name": "Explorer",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "expl'orer",
+      "normalizedBrandName": "montbl'anc expl'orer"
+    },
+    {
+      "id": "prada-lhomme",
+      "brand": "PRADA",
+      "name": "L'Homme",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "l'homme",
+      "normalizedBrandName": "prad'a l'homme"
+    },
+    {
+      "id": "terre-dhermes-edt",
+      "brand": "HERMÈS",
+      "name": "Terre d'Hermès",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "terre d'hermes",
+      "normalizedBrandName": "hermes terre d'hermes"
+    },
+    {
+      "id": "dior-homme-intense",
+      "brand": "DIOR",
+      "name": "Dior Homme Intense",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "d'ior homme intense",
+      "normalizedBrandName": "d'ior d'ior homme intense"
+    },
+    {
+      "id": "valentino-uomo-born-in-roma-intense",
+      "brand": "VALENTINO",
+      "name": "Uomo Born In Roma Intense",
+      "subName": "Eau de Parfum Intense",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "uomo born in roma intense",
+      "normalizedBrandName": "val'entino uomo born in roma intense"
+    },
+    {
+      "id": "jpg-le-beau-le-parfum",
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "Le Beau Le Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "l'e beau l'e parfum",
+      "normalizedBrandName": "jean paul'gaul'tier l'e beau l'e parfum"
+    },
+    {
+      "id": "mancera-cedrat-boise",
+      "brand": "MANCERA",
+      "name": "Cedrat Boise",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "ced'rat boise",
+      "normalizedBrandName": "mancera ced'rat boise"
+    },
+    {
+      "id": "maison-margiela-jazz-club",
+      "brand": "MAISON MARGIELA",
+      "name": "Jazz Club",
+      "subName": "Eau de Toilette",
+      "gender": "unisex",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "jazz cl'ub",
+      "normalizedBrandName": "maison margiel'a jazz cl'ub"
+    },
+    {
+      "id": "kilian-angels-share",
+      "brand": "KILIAN",
+      "name": "Angels' Share",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "angel's' share",
+      "normalizedBrandName": "kil'ian angel's' share"
+    },
+    {
+      "id": "ysl-libre-edp",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Libre",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "l'ibre",
+      "normalizedBrandName": "yves saint l'aurent l'ibre"
+    },
+    {
+      "id": "parfums-de-marly-delina",
+      "brand": "PARFUMS DE MARLY",
+      "name": "Delina",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "d'el'ina",
+      "normalizedBrandName": "parfums d'e marl'y d'el'ina"
+    },
+    {
+      "id": "carolina-herrera-good-girl",
+      "brand": "CAROLINA HERRERA",
+      "name": "Good Girl",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "good'girl'",
+      "normalizedBrandName": "carol'ina herrera good'girl'"
+    },
+    {
+      "id": "lancome-la-vie-est-belle",
+      "brand": "LANCOME",
+      "name": "La Vie Est Belle",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "l'a vie est bel'l'e",
+      "normalizedBrandName": "l'ancome l'a vie est bel'l'e"
+    },
+    {
+      "id": "valentino-born-in-roma-intense",
+      "brand": "VALENTINO",
+      "name": "Born In Roma Intense",
+      "subName": "Uomo Eau de Parfum Intense",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "born in roma intense",
+      "normalizedBrandName": "val'entino born in roma intense"
+    },
+    {
+      "id": "azzaro-the-most-wanted-parfum",
+      "brand": "AZZARO",
+      "name": "The Most Wanted",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "the most wanted'",
+      "normalizedBrandName": "azzaro the most wanted'"
+    },
+    {
+      "id": "mancera-instant-crush",
+      "brand": "MANCERA",
+      "name": "Instant Crush",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "instant crush",
+      "normalizedBrandName": "mancera instant crush"
+    },
+    {
+      "id": "kayali-vanilla-28",
+      "brand": "KAYALI",
+      "name": "Vanilla 28",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "vanil'l'a 28",
+      "normalizedBrandName": "kayal'i vanil'l'a 28"
+    },
+    {
+      "id": "prada-luna-rossa-carbon",
+      "brand": "PRADA",
+      "name": "Luna Rossa Carbon",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "l'una rossa carbon",
+      "normalizedBrandName": "prad'a l'una rossa carbon"
+    },
+    {
+      "id": "dolce-gabbana-the-one-edp",
+      "brand": "DOLCE & GABBANA",
+      "name": "The One",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "the one",
+      "normalizedBrandName": "d'ol'ce gabbana the one"
+    },
+    {
+      "id": "giorgio-armani-my-way",
+      "brand": "GIORGIO ARMANI",
+      "name": "My Way",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "my way",
+      "normalizedBrandName": "giorgio armani my way"
+    },
+    {
+      "id": "burberry-her-edp",
+      "brand": "BURBERRY",
+      "name": "Her",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "her",
+      "normalizedBrandName": "burberry her"
+    },
+    {
+      "id": "gucci-bloom-edp",
+      "brand": "GUCCI",
+      "name": "Bloom",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "bl'oom",
+      "normalizedBrandName": "gucci bl'oom"
+    },
+    {
+      "id": "miss-dior-blooming-bouquet",
+      "brand": "DIOR",
+      "name": "Miss Dior",
+      "subName": "Blooming Bouquet",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "miss d'ior",
+      "normalizedBrandName": "d'ior miss d'ior"
+    },
+    {
+      "id": "chloe-signature-edp",
+      "brand": "CHLOE",
+      "name": "Signature",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "signature",
+      "normalizedBrandName": "chl'oe signature"
+    },
+    {
+      "id": "narciso-rodriguez-for-her-edp",
+      "brand": "NARCISO RODRIGUEZ",
+      "name": "For Her",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "for her",
+      "normalizedBrandName": "narciso rod'riguez for her"
+    },
+    {
+      "id": "ysl-mon-paris-edp",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Mon Paris",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "mon paris",
+      "normalizedBrandName": "yves saint l'aurent mon paris"
+    },
+    {
+      "id": "versace-bright-crystal",
+      "brand": "VERSACE",
+      "name": "Bright Crystal",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "bright crystal'",
+      "normalizedBrandName": "versace bright crystal'"
+    },
+    {
+      "id": "dolce-gabbana-light-blue-pour-femme",
+      "brand": "DOLCE & GABBANA",
+      "name": "Light Blue Pour Femme",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "l'ight bl'ue pour femme",
+      "normalizedBrandName": "d'ol'ce gabbana l'ight bl'ue pour femme"
+    },
+    {
+      "id": "armani-si-edp",
+      "brand": "GIORGIO ARMANI",
+      "name": "S�",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "s",
+      "normalizedBrandName": "giorgio armani s"
+    },
+    {
+      "id": "chanel-coco-mademoiselle-edp",
+      "brand": "CHANEL",
+      "name": "Coco Mademoiselle",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "coco mad'emoisel'l'e",
+      "normalizedBrandName": "chanel'coco mad'emoisel'l'e"
+    },
+    {
+      "id": "armaf-club-de-nuit-intense-man",
+      "brand": "ARMAF",
+      "name": "Club de Nuit Intense Man",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "cl'ub d'e nuit intense man",
+      "normalizedBrandName": "armaf cl'ub d'e nuit intense man"
+    },
+    {
+      "id": "givenchy-gentleman-reserve-privee",
+      "brand": "GIVENCHY",
+      "name": "Gentleman",
+      "subName": "Reserve Priv�e",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "gentl'eman",
+      "normalizedBrandName": "givenchy gentl'eman"
+    },
+    {
+      "id": "viktor-rolf-spicebomb-extreme",
+      "brand": "VIKTOR&ROLF",
+      "name": "Spicebomb Extreme",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "spicebomb extreme",
+      "normalizedBrandName": "viktorrol'f spicebomb extreme"
+    },
+    {
+      "id": "issey-miyake-leau-dissey-pour-homme",
+      "brand": "ISSEY MIYAKE",
+      "name": "L�Eau d�Issey Pour Homme",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "l'eau d'issey pour homme",
+      "normalizedBrandName": "issey miyake l'eau d'issey pour homme"
+    },
+    {
+      "id": "bvlgari-man-in-black",
+      "brand": "BVLGARI",
+      "name": "Man In Black",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "man in bl'ack",
+      "normalizedBrandName": "bvl'gari man in bl'ack"
+    },
+    {
+      "id": "boss-bottled-edp",
+      "brand": "HUGO BOSS",
+      "name": "Boss Bottled",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "boss bottl'ed'",
+      "normalizedBrandName": "hugo boss boss bottl'ed'"
+    },
+    {
+      "id": "coach-for-men",
+      "brand": "COACH",
+      "name": "For Men",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "for men",
+      "normalizedBrandName": "coach for men"
+    },
+    {
+      "id": "moschino-toy-boy",
+      "brand": "MOSCHINO",
+      "name": "Toy Boy",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "toy boy",
+      "normalizedBrandName": "moschino toy boy"
+    },
+    {
+      "id": "initio-side-effect",
+      "brand": "INITIO",
+      "name": "Side Effect",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "sid'e effect",
+      "normalizedBrandName": "initio sid'e effect"
+    },
+    {
+      "id": "xerjoff-erba-pura",
+      "brand": "XERJOFF",
+      "name": "Erba Pura",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "erba pura",
+      "normalizedBrandName": "xerjoff erba pura"
+    },
+    {
+      "id": "mugler-alien-edp",
+      "brand": "MUGLER",
+      "name": "Alien",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "al'ien",
+      "normalizedBrandName": "mugl'er al'ien"
+    },
+    {
+      "id": "elie-saab-le-parfum",
+      "brand": "ELIE SAAB",
+      "name": "Le Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "l'e parfum",
+      "normalizedBrandName": "el'ie saab l'e parfum"
+    },
+    {
+      "id": "maison-francis-kurkdjian-gentle-fluidity-gold",
+      "brand": "MAISON FRANCIS KURKDJIAN",
+      "name": "Gentle Fluidity Gold",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": true,
+      "isBlocked": false,
+      "normalizedName": "gentl'e fl'uid'ity gol'd'",
+      "normalizedBrandName": "maison francis kurkd'jian gentl'e fl'uid'ity gol'd'"
+    },
+    {
+      "id": "ysl-la-nuit-de-lhomme",
+      "brand": "YVES SAINT LAURENT",
+      "name": "La Nuit de l'Homme",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'a nuit d'e l'homme",
+      "normalizedBrandName": "yves saint l'aurent l'a nuit d'e l'homme"
+    },
+    {
+      "id": "xerjoff-naxos",
+      "brand": "XERJOFF",
+      "name": "XJ 1861 Naxos",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "xj 1861 naxos",
+      "normalizedBrandName": "xerjoff xj 1861 naxos"
+    },
+    {
+      "id": "louis-vuitton-imagination",
+      "brand": "LOUIS VUITTON",
+      "name": "Imagination",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "imagination",
+      "normalizedBrandName": "l'ouis vuitton imagination"
+    },
+    {
+      "id": "parfums-de-marly-layton",
+      "brand": "PARFUMS DE MARLY",
+      "name": "Layton",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'ayton",
+      "normalizedBrandName": "parfums d'e marl'y l'ayton"
+    },
+    {
+      "id": "amouage-reflection-man",
+      "brand": "AMOUAGE",
+      "name": "Reflection Man",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "refl'ection man",
+      "normalizedBrandName": "amouage refl'ection man"
+    },
+    {
+      "id": "dior-fahrenheit",
+      "brand": "DIOR",
+      "name": "Fahrenheit",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "fahrenheit",
+      "normalizedBrandName": "d'ior fahrenheit"
+    },
+    {
+      "id": "tom-ford-ombre-leather",
+      "brand": "TOM FORD",
+      "name": "Ombré Leather",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "ombre l'eather",
+      "normalizedBrandName": "tom ford'ombre l'eather"
+    },
+    {
+      "id": "tom-ford-oud-wood",
+      "brand": "TOM FORD",
+      "name": "Oud Wood",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "oud'wood'",
+      "normalizedBrandName": "tom ford'oud'wood'"
+    },
+    {
+      "id": "dior-homme-parfum",
+      "brand": "DIOR",
+      "name": "Dior Homme Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "d'ior homme parfum",
+      "normalizedBrandName": "d'ior d'ior homme parfum"
+    },
+    {
+      "id": "acqua-di-gio-profumo",
+      "brand": "GIORGIO ARMANI",
+      "name": "Acqua di Giò Profumo",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "acqua d'i gio profumo",
+      "normalizedBrandName": "giorgio armani acqua d'i gio profumo"
+    },
+    {
+      "id": "bleu-de-chanel-parfum",
+      "brand": "CHANEL",
+      "name": "Bleu de Chanel",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "bl'eu d'e chanel'",
+      "normalizedBrandName": "chanel'bl'eu d'e chanel'"
+    },
+    {
+      "id": "dior-hypnotic-poison",
+      "brand": "DIOR",
+      "name": "Hypnotic Poison",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "hypnotic poison",
+      "normalizedBrandName": "d'ior hypnotic poison"
+    },
+    {
+      "id": "guerlain-shalimar-edp",
+      "brand": "GUERLAIN",
+      "name": "Shalimar",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "shal'imar",
+      "normalizedBrandName": "guerl'ain shal'imar"
+    },
+    {
+      "id": "guerlain-mon-guerlain",
+      "brand": "GUERLAIN",
+      "name": "Mon Guerlain",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "mon guerl'ain",
+      "normalizedBrandName": "guerl'ain mon guerl'ain"
+    },
+    {
+      "id": "dior-addict-edp",
+      "brand": "DIOR",
+      "name": "Dior Addict",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "d'ior ad'd'ict",
+      "normalizedBrandName": "d'ior d'ior ad'd'ict"
+    },
+    {
+      "id": "ysl-libre-le-parfum",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Libre Le Parfum",
+      "subName": "Le Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'ibre l'e parfum",
+      "normalizedBrandName": "yves saint l'aurent l'ibre l'e parfum"
+    },
+    {
+      "id": "frederic-malle-portrait-of-a-lady",
+      "brand": "FRÉDÉRIC MALLE",
+      "name": "Portrait of a Lady",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "portrait of a l'ad'y",
+      "normalizedBrandName": "fred'eric mal'l'e portrait of a l'ad'y"
+    },
+    {
+      "id": "kilian-love-dont-be-shy",
+      "brand": "BY KILIAN",
+      "name": "Love, Don't Be Shy",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'ove d'on't be shy",
+      "normalizedBrandName": "by kil'ian l'ove d'on't be shy"
+    },
+    {
+      "id": "dior-jadore-edp",
+      "brand": "DIOR",
+      "name": "J'adore",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "j'ad'ore",
+      "normalizedBrandName": "d'ior j'ad'ore"
+    },
+    {
+      "id": "guerlain-shalimar-parfum",
+      "brand": "GUERLAIN",
+      "name": "Shalimar Parfum",
+      "subName": "Parfum / Extrait",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "shal'imar parfum",
+      "normalizedBrandName": "guerl'ain shal'imar parfum"
+    },
+    {
+      "id": "dior-poison",
+      "brand": "DIOR",
+      "name": "Poison",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "poison",
+      "normalizedBrandName": "d'ior poison"
+    },
+    {
+      "id": "chanel-allure-homme-sport-eau-extreme",
+      "brand": "CHANEL",
+      "name": "Allure Homme Sport Eau Extrême",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "al'l'ure homme sport eau extreme",
+      "normalizedBrandName": "chanel'al'l'ure homme sport eau extreme"
+    },
+    {
+      "id": "nishane-hacivat",
+      "brand": "NISHANE",
+      "name": "Hacivat",
+      "subName": "Extrait de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "hacivat",
+      "normalizedBrandName": "nishane hacivat"
+    },
+    {
+      "id": "prada-lhomme-intense",
+      "brand": "PRADA",
+      "name": "L'Homme Intense",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'homme intense",
+      "normalizedBrandName": "prad'a l'homme intense"
+    },
+    {
+      "id": "sospiro-vibrato",
+      "brand": "SOSPIRO",
+      "name": "Vibrato",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "vibrato",
+      "normalizedBrandName": "sospiro vibrato"
+    },
+    {
+      "id": "hermes-terre-dhermes-parfum",
+      "brand": "HERMÈS",
+      "name": "Terre d'Hermès Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "terre d'hermes parfum",
+      "normalizedBrandName": "hermes terre d'hermes parfum"
+    },
+    {
+      "id": "creed-green-irish-tweed",
+      "brand": "CREED",
+      "name": "Green Irish Tweed",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "green irish tweed'",
+      "normalizedBrandName": "creed'green irish tweed'"
+    },
+    {
+      "id": "dior-eau-sauvage",
+      "brand": "DIOR",
+      "name": "Eau Sauvage",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "eau sauvage",
+      "normalizedBrandName": "d'ior eau sauvage"
+    },
+    {
+      "id": "marc-antoine-barrois-ganymede",
+      "brand": "MARC-ANTOINE BARROIS",
+      "name": "Ganymède",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "ganymed'e",
+      "normalizedBrandName": "marc-antoine barrois ganymed'e"
+    },
+    {
+      "id": "parfums-de-marly-althair",
+      "brand": "PARFUMS DE MARLY",
+      "name": "Althaïr",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "al'thair",
+      "normalizedBrandName": "parfums d'e marl'y al'thair"
+    },
+    {
+      "id": "guerlain-angelique-noire",
+      "brand": "GUERLAIN",
+      "name": "Angélique Noire",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "angel'ique noire",
+      "normalizedBrandName": "guerl'ain angel'ique noire"
+    },
+    {
+      "id": "dior-pure-poison",
+      "brand": "DIOR",
+      "name": "Pure Poison",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "pure poison",
+      "normalizedBrandName": "d'ior pure poison"
+    },
+    {
+      "id": "ysl-opium-edt",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Opium",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "opium",
+      "normalizedBrandName": "yves saint l'aurent opium"
+    },
+    {
+      "id": "ysl-black-opium-le-parfum",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Black Opium Le Parfum",
+      "subName": "Le Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "bl'ack opium l'e parfum",
+      "normalizedBrandName": "yves saint l'aurent bl'ack opium l'e parfum"
+    },
+    {
+      "id": "guerlain-insolence-edp",
+      "brand": "GUERLAIN",
+      "name": "Insolence",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "insol'ence",
+      "normalizedBrandName": "guerl'ain insol'ence"
+    },
+    {
+      "id": "guerlain-mon-guerlain-intense",
+      "brand": "GUERLAIN",
+      "name": "Mon Guerlain Intense",
+      "subName": "Eau de Parfum Intense",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "mon guerl'ain intense",
+      "normalizedBrandName": "guerl'ain mon guerl'ain intense"
+    },
+    {
+      "id": "guerlain-samsara-edp",
+      "brand": "GUERLAIN",
+      "name": "Samsara",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "samsara",
+      "normalizedBrandName": "guerl'ain samsara"
+    },
+    {
+      "id": "dior-dune-edt",
+      "brand": "DIOR",
+      "name": "Dune",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "d'une",
+      "normalizedBrandName": "d'ior d'une"
+    },
+    {
+      "id": "byredo-bal-dafrique",
+      "brand": "BYREDO",
+      "name": "Bal d'Afrique",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "bal'd'afrique",
+      "normalizedBrandName": "byred'o bal'd'afrique"
+    },
+    {
+      "id": "guerlain-mitsouko-edp",
+      "brand": "GUERLAIN",
+      "name": "Mitsouko",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "mitsouko",
+      "normalizedBrandName": "guerl'ain mitsouko"
+    },
+    {
+      "id": "guerlain-shalimar-lessence",
+      "brand": "GUERLAIN",
+      "name": "Shalimar L'Essence",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "shal'imar l'essence",
+      "normalizedBrandName": "guerl'ain shal'imar l'essence"
+    },
+    {
+      "id": "lalique-encre-noire",
+      "brand": "LALIQUE",
+      "name": "Encre Noire",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "encre noire",
+      "normalizedBrandName": "l'al'ique encre noire"
+    },
+    {
+      "id": "jpg-le-male-elixir",
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "Le Male Elixir",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'e mal'e el'ixir",
+      "normalizedBrandName": "jean paul'gaul'tier l'e mal'e el'ixir"
+    },
+    {
+      "id": "jpg-le-male-edt",
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "Le Male",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'e mal'e",
+      "normalizedBrandName": "jean paul'gaul'tier l'e mal'e"
+    },
+    {
+      "id": "creed-absolu-aventus",
+      "brand": "CREED",
+      "name": "Absolu Aventus",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "absol'u aventus",
+      "normalizedBrandName": "creed'absol'u aventus"
+    },
+    {
+      "id": "nishane-ani",
+      "brand": "NISHANE",
+      "name": "Ani",
+      "subName": "Extrait de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "ani",
+      "normalizedBrandName": "nishane ani"
+    },
+    {
+      "id": "chanel-allure-homme-sport",
+      "brand": "CHANEL",
+      "name": "Allure Homme Sport",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "al'l'ure homme sport",
+      "normalizedBrandName": "chanel'al'l'ure homme sport"
+    },
+    {
+      "id": "ysl-tuxedo",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Tuxedo",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "tuxed'o",
+      "normalizedBrandName": "yves saint l'aurent tuxed'o"
+    },
+    {
+      "id": "guerlain-lhomme-ideal-parfum",
+      "brand": "GUERLAIN",
+      "name": "L'Homme Idéal Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'homme id'eal'parfum",
+      "normalizedBrandName": "guerl'ain l'homme id'eal'parfum"
+    },
+    {
+      "id": "guerlain-vetiver",
+      "brand": "GUERLAIN",
+      "name": "Vétiver",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "vetiver",
+      "normalizedBrandName": "guerl'ain vetiver"
+    },
+    {
+      "id": "frederic-malle-musc-ravageur",
+      "brand": "FRÉDÉRIC MALLE",
+      "name": "Musc Ravageur",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "musc ravageur",
+      "normalizedBrandName": "fred'eric mal'l'e musc ravageur"
+    },
+    {
+      "id": "jpg-la-belle-edp",
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "La Belle",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'a bel'l'e",
+      "normalizedBrandName": "jean paul'gaul'tier l'a bel'l'e"
+    },
+    {
+      "id": "dior-midnight-poison",
+      "brand": "DIOR",
+      "name": "Midnight Poison",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "mid'night poison",
+      "normalizedBrandName": "d'ior mid'night poison"
+    },
+    {
+      "id": "dior-addict-edp-2014",
+      "brand": "DIOR",
+      "name": "Dior Addict Eau de Parfum 2014",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "d'ior ad'd'ict eau d'e parfum 2014",
+      "normalizedBrandName": "d'ior d'ior ad'd'ict eau d'e parfum 2014"
+    },
+    {
+      "id": "guerlain-lheure-bleue-edp",
+      "brand": "GUERLAIN",
+      "name": "L'Heure Bleue",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'heure bl'eue",
+      "normalizedBrandName": "guerl'ain l'heure bl'eue"
+    },
+    {
+      "id": "ysl-libre-intense",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Libre Intense",
+      "subName": "Eau de Parfum Intense",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'ibre intense",
+      "normalizedBrandName": "yves saint l'aurent l'ibre intense"
+    },
+    {
+      "id": "jpg-classique-edt",
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "Classique",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "cl'assique",
+      "normalizedBrandName": "jean paul'gaul'tier cl'assique"
+    },
+    {
+      "id": "guerlain-spiritueuse-double-vanille",
+      "brand": "GUERLAIN",
+      "name": "Spiritueuse Double Vanille",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "spiritueuse d'oubl'e vanil'l'e",
+      "normalizedBrandName": "guerl'ain spiritueuse d'oubl'e vanil'l'e"
+    },
+    {
+      "id": "chanel-allure-edp",
+      "brand": "CHANEL",
+      "name": "Allure",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "al'l'ure",
+      "normalizedBrandName": "chanel'al'l'ure"
+    },
+    {
+      "id": "les-liquides-imaginaires-blanche-bete",
+      "brand": "LES LIQUIDES IMAGINAIRES",
+      "name": "Blanche Bête",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "bl'anche bete",
+      "normalizedBrandName": "l'es l'iquid'es imaginaires bl'anche bete"
+    },
+    {
+      "id": "prada-infusion-diris",
+      "brand": "PRADA",
+      "name": "Infusion d'Iris",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "infusion d'iris",
+      "normalizedBrandName": "prad'a infusion d'iris"
+    },
+    {
+      "id": "diptyque-philosykos-edp",
+      "brand": "DIPTYQUE",
+      "name": "Philosykos",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "phil'osykos",
+      "normalizedBrandName": "d'iptyque phil'osykos"
+    },
+    {
+      "id": "giardini-di-toscana-bianco-latte",
+      "brand": "GIARDINI DI TOSCANA",
+      "name": "Bianco Latte",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "bianco l'atte",
+      "normalizedBrandName": "giard'ini d'i toscana bianco l'atte"
+    },
+    {
+      "id": "chloe-nomade-edp",
+      "brand": "CHLOÉ",
+      "name": "Nomade",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "nomad'e",
+      "normalizedBrandName": "chl'oe nomad'e"
+    },
+    {
+      "id": "chanel-allure-homme-edition-blanche",
+      "brand": "CHANEL",
+      "name": "Allure Homme Édition Blanche",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "al'l'ure homme ed'ition bl'anche",
+      "normalizedBrandName": "chanel'al'l'ure homme ed'ition bl'anche"
+    },
+    {
+      "id": "hermes-terre-dhermes-eau-givree",
+      "brand": "HERMÈS",
+      "name": "Terre d'Hermès Eau Givrée",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "terre d'hermes eau givree",
+      "normalizedBrandName": "hermes terre d'hermes eau givree"
+    },
+    {
+      "id": "guerlain-habit-rouge-parfum",
+      "brand": "GUERLAIN",
+      "name": "Habit Rouge Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "habit rouge parfum",
+      "normalizedBrandName": "guerl'ain habit rouge parfum"
+    },
+    {
+      "id": "penhaligons-halfeti",
+      "brand": "PENHALIGON'S",
+      "name": "Halfeti",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "hal'feti",
+      "normalizedBrandName": "penhal'igon's hal'feti"
+    },
+    {
+      "id": "chanel-antaeus",
+      "brand": "CHANEL",
+      "name": "Antaeus",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "antaeus",
+      "normalizedBrandName": "chanel'antaeus"
+    },
+    {
+      "id": "davidoff-cool-water",
+      "brand": "DAVIDOFF",
+      "name": "Cool Water",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "cool'water",
+      "normalizedBrandName": "d'avid'off cool'water"
+    },
+    {
+      "id": "guy-laroche-drakkar-noir",
+      "brand": "GUY LAROCHE",
+      "name": "Drakkar Noir",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "d'rakkar noir",
+      "normalizedBrandName": "guy l'aroche d'rakkar noir"
+    },
+    {
+      "id": "memo-african-leather",
+      "brand": "MEMO PARIS",
+      "name": "African Leather",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "african l'eather",
+      "normalizedBrandName": "memo paris african l'eather"
+    },
+    {
+      "id": "guerlain-linstant-homme-edp",
+      "brand": "GUERLAIN",
+      "name": "L'Instant de Guerlain pour Homme",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'instant d'e guerl'ain pour homme",
+      "normalizedBrandName": "guerl'ain l'instant d'e guerl'ain pour homme"
+    },
+    {
+      "id": "hermes-un-jardin-sur-le-nil",
+      "brand": "HERMÈS",
+      "name": "Un Jardin Sur Le Nil",
+      "subName": "Eau de Toilette",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "un jard'in sur l'e nil'",
+      "normalizedBrandName": "hermes un jard'in sur l'e nil'"
+    },
+    {
+      "id": "dior-dolce-vita",
+      "brand": "DIOR",
+      "name": "Dolce Vita",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "d'ol'ce vita",
+      "normalizedBrandName": "d'ior d'ol'ce vita"
+    },
+    {
+      "id": "nishane-hundred-silent-ways",
+      "brand": "NISHANE",
+      "name": "Hundred Silent Ways",
+      "subName": "Extrait de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "hund'red'sil'ent ways",
+      "normalizedBrandName": "nishane hund'red'sil'ent ways"
+    },
+    {
+      "id": "jpg-la-belle-le-parfum",
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "La Belle Le Parfum",
+      "subName": "Le Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'a bel'l'e l'e parfum",
+      "normalizedBrandName": "jean paul'gaul'tier l'a bel'l'e l'e parfum"
+    },
+    {
+      "id": "ysl-cinema",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Cinéma",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "cinema",
+      "normalizedBrandName": "yves saint l'aurent cinema"
+    },
+    {
+      "id": "dior-diorissimo",
+      "brand": "DIOR",
+      "name": "Diorissimo",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "d'iorissimo",
+      "normalizedBrandName": "d'ior d'iorissimo"
+    },
+    {
+      "id": "guerlain-samsara-extrait",
+      "brand": "GUERLAIN",
+      "name": "Samsara Extrait",
+      "subName": "Extrait de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "samsara extrait",
+      "normalizedBrandName": "guerl'ain samsara extrait"
+    },
+    {
+      "id": "zadig-voltaire-this-is-her",
+      "brand": "ZADIG & VOLTAIRE",
+      "name": "This Is Her!",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "this is her",
+      "normalizedBrandName": "zad'ig vol'taire this is her"
+    },
+    {
+      "id": "ysl-la-nuit-de-lhomme-bleu-electrique",
+      "brand": "YVES SAINT LAURENT",
+      "name": "La Nuit de l'Homme Bleu Électrique",
+      "subName": "Eau de Toilette Intense",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'a nuit d'e l'homme bl'eu el'ectrique",
+      "normalizedBrandName": "yves saint l'aurent l'a nuit d'e l'homme bl'eu el'ectrique"
+    },
+    {
+      "id": "guerlain-habit-rouge-edt",
+      "brand": "GUERLAIN",
+      "name": "Habit Rouge",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "habit rouge",
+      "normalizedBrandName": "guerl'ain habit rouge"
+    },
+    {
+      "id": "chanel-allure-homme-edt",
+      "brand": "CHANEL",
+      "name": "Allure Homme",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "al'l'ure homme",
+      "normalizedBrandName": "chanel'al'l'ure homme"
+    },
+    {
+      "id": "lalique-encre-noire-a-lextreme",
+      "brand": "LALIQUE",
+      "name": "Encre Noire à l'Extrême",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "encre noire a l'extreme",
+      "normalizedBrandName": "l'al'ique encre noire a l'extreme"
+    },
+    {
+      "id": "cartier-la-panthere",
+      "brand": "CARTIER",
+      "name": "La Panthère",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'a panthere",
+      "normalizedBrandName": "cartier l'a panthere"
+    },
+    {
+      "id": "ysl-rive-gauche",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Rive Gauche",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "rive gauche",
+      "normalizedBrandName": "yves saint l'aurent rive gauche"
+    },
+    {
+      "id": "guerlain-lheure-bleue-edt",
+      "brand": "GUERLAIN",
+      "name": "L'Heure Bleue",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'heure bl'eue",
+      "normalizedBrandName": "guerl'ain l'heure bl'eue"
+    },
+    {
+      "id": "frederic-malle-carnal-flower",
+      "brand": "FRÉDÉRIC MALLE",
+      "name": "Carnal Flower",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "carnal'fl'ower",
+      "normalizedBrandName": "fred'eric mal'l'e carnal'fl'ower"
+    },
+    {
+      "id": "guerlain-linstant-de-guerlain-femme",
+      "brand": "GUERLAIN",
+      "name": "L'Instant de Guerlain",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'instant d'e guerl'ain",
+      "normalizedBrandName": "guerl'ain l'instant d'e guerl'ain"
+    },
+    {
+      "id": "hermes-24-faubourg",
+      "brand": "HERMÈS",
+      "name": "24 Faubourg",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "24 faubourg",
+      "normalizedBrandName": "hermes 24 faubourg"
+    },
+    {
+      "id": "lolita-lempicka-le-parfum",
+      "brand": "LOLITA LEMPICKA",
+      "name": "Lolita Lempicka Le Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'ol'ita l'empicka l'e parfum",
+      "normalizedBrandName": "l'ol'ita l'empicka l'ol'ita l'empicka l'e parfum"
+    },
+    {
+      "id": "ck-obsession",
+      "brand": "CALVIN KLEIN",
+      "name": "Obsession",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "obsession",
+      "normalizedBrandName": "cal'vin kl'ein obsession"
+    },
+    {
+      "id": "guerlain-champs-elysees-edp",
+      "brand": "GUERLAIN",
+      "name": "Champs-Élysées",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "champs-el'ysees",
+      "normalizedBrandName": "guerl'ain champs-el'ysees"
+    },
+    {
+      "id": "tom-ford-tobacco-vanille",
+      "brand": "TOM FORD",
+      "name": "Tobacco Vanille",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "tobacco vanil'l'e",
+      "normalizedBrandName": "tom ford'tobacco vanil'l'e"
+    },
+    {
+      "id": "chanel-egoiste-platinum",
+      "brand": "CHANEL",
+      "name": "Égoïste Platinum",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "egoiste pl'atinum",
+      "normalizedBrandName": "chanel'egoiste pl'atinum"
+    },
+    {
+      "id": "mfk-grand-soir",
+      "brand": "MAISON FRANCIS KURKDJIAN",
+      "name": "Grand Soir",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "grand'soir",
+      "normalizedBrandName": "maison francis kurkd'jian grand'soir"
+    },
+    {
+      "id": "bvlgari-tygar",
+      "brand": "BVLGARI",
+      "name": "Tygar",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "tygar",
+      "normalizedBrandName": "bvl'gari tygar"
+    },
+    {
+      "id": "boss-bottled-absolu",
+      "brand": "HUGO BOSS",
+      "name": "Boss Bottled Absolu",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "boss bottl'ed'absol'u",
+      "normalizedBrandName": "hugo boss boss bottl'ed'absol'u"
+    },
+    {
+      "id": "parfums-de-marly-herod",
+      "brand": "PARFUMS DE MARLY",
+      "name": "Herod",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "herod'",
+      "normalizedBrandName": "parfums d'e marl'y herod'"
+    },
+    {
+      "id": "essential-parfums-bois-imperial",
+      "brand": "ESSENTIAL PARFUMS",
+      "name": "Bois Impérial",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "bois imperial'",
+      "normalizedBrandName": "essential'parfums bois imperial'"
+    },
+    {
+      "id": "dior-eau-sauvage-parfum",
+      "brand": "DIOR",
+      "name": "Eau Sauvage Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "eau sauvage parfum",
+      "normalizedBrandName": "d'ior eau sauvage parfum"
+    },
+    {
+      "id": "xerjoff-alexandria-ii",
+      "brand": "XERJOFF",
+      "name": "Alexandria II",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "al'exand'ria ii",
+      "normalizedBrandName": "xerjoff al'exand'ria ii"
+    },
+    {
+      "id": "versace-dylan-blue",
+      "brand": "VERSACE",
+      "name": "Pour Homme Dylan Blue",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "pour homme d'yl'an bl'ue",
+      "normalizedBrandName": "versace pour homme d'yl'an bl'ue"
+    },
+    {
+      "id": "chanel-egoiste",
+      "brand": "CHANEL",
+      "name": "Égoïste",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "egoiste",
+      "normalizedBrandName": "chanel'egoiste"
+    },
+    {
+      "id": "amouage-interlude-man",
+      "brand": "AMOUAGE",
+      "name": "Interlude Man",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "interl'ud'e man",
+      "normalizedBrandName": "amouage interl'ud'e man"
+    },
+    {
+      "id": "amouage-reflection-45-man",
+      "brand": "AMOUAGE",
+      "name": "Reflection 45 Man",
+      "subName": "Extrait de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "refl'ection 45 man",
+      "normalizedBrandName": "amouage refl'ection 45 man"
+    },
+    {
+      "id": "dior-homme-sport-2021",
+      "brand": "DIOR",
+      "name": "Dior Homme Sport 2021",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "d'ior homme sport 2021",
+      "normalizedBrandName": "d'ior d'ior homme sport 2021"
+    },
+    {
+      "id": "versace-pour-homme",
+      "brand": "VERSACE",
+      "name": "Pour Homme",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "pour homme",
+      "normalizedBrandName": "versace pour homme"
+    },
+    {
+      "id": "tom-ford-grey-vetiver",
+      "brand": "TOM FORD",
+      "name": "Grey Vetiver",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "grey vetiver",
+      "normalizedBrandName": "tom ford'grey vetiver"
+    },
+    {
+      "id": "dior-fahrenheit-le-parfum",
+      "brand": "DIOR",
+      "name": "Fahrenheit Le Parfum",
+      "subName": "Le Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "fahrenheit l'e parfum",
+      "normalizedBrandName": "d'ior fahrenheit l'e parfum"
+    },
+    {
+      "id": "armani-code-parfum",
+      "brand": "GIORGIO ARMANI",
+      "name": "Armani Code Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "armani cod'e parfum",
+      "normalizedBrandName": "giorgio armani armani cod'e parfum"
+    },
+    {
+      "id": "xerjoff-torino21",
+      "brand": "XERJOFF",
+      "name": "Torino21",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "torino21",
+      "normalizedBrandName": "xerjoff torino21"
+    },
+    {
+      "id": "tom-ford-tuscan-leather",
+      "brand": "TOM FORD",
+      "name": "Tuscan Leather",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "tuscan l'eather",
+      "normalizedBrandName": "tom ford'tuscan l'eather"
+    },
+    {
+      "id": "dg-light-blue-intense-homme",
+      "brand": "DOLCE & GABBANA",
+      "name": "Light Blue Eau Intense Pour Homme",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'ight bl'ue eau intense pour homme",
+      "normalizedBrandName": "d'ol'ce gabbana l'ight bl'ue eau intense pour homme"
+    },
+    {
+      "id": "prada-luna-rossa-black",
+      "brand": "PRADA",
+      "name": "Luna Rossa Black",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'una rossa bl'ack",
+      "normalizedBrandName": "prad'a l'una rossa bl'ack"
+    },
+    {
+      "id": "parfums-de-marly-carlisle",
+      "brand": "PARFUMS DE MARLY",
+      "name": "Carlisle",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "carl'isl'e",
+      "normalizedBrandName": "parfums d'e marl'y carl'isl'e"
+    },
+    {
+      "id": "versace-eros-flame",
+      "brand": "VERSACE",
+      "name": "Eros Flame",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "eros fl'ame",
+      "normalizedBrandName": "versace eros fl'ame"
+    },
+    {
+      "id": "louis-vuitton-limmensite",
+      "brand": "LOUIS VUITTON",
+      "name": "L'Immensité",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'immensite",
+      "normalizedBrandName": "l'ouis vuitton l'immensite"
+    },
+    {
+      "id": "louis-vuitton-ombre-nomade",
+      "brand": "LOUIS VUITTON",
+      "name": "Ombre Nomade",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "ombre nomad'e",
+      "normalizedBrandName": "l'ouis vuitton ombre nomad'e"
+    },
+    {
+      "id": "acqua-di-parma-colonia",
+      "brand": "ACQUA DI PARMA",
+      "name": "Colonia",
+      "subName": "Eau de Cologne",
+      "gender": "unisex",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "col'onia",
+      "normalizedBrandName": "acqua d'i parma col'onia"
+    },
+    {
+      "id": "parfums-de-marly-sedley",
+      "brand": "PARFUMS DE MARLY",
+      "name": "Sedley",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "sed'l'ey",
+      "normalizedBrandName": "parfums d'e marl'y sed'l'ey"
+    },
+    {
+      "id": "hermes-terre-d-hermes",
+      "brand": "HERMES",
+      "name": "Terre d Hermes",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "terre d'hermes",
+      "normalizedBrandName": "hermes terre d'hermes"
+    },
+    {
+      "id": "chanel-bleu-de-chanel-eau-de-parfum",
+      "brand": "CHANEL",
+      "name": "Bleu de Chanel Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "bl'eu d'e chanel'eau d'e parfum",
+      "normalizedBrandName": "chanel'bl'eu d'e chanel'eau d'e parfum"
+    },
+    {
+      "id": "xerjoff-xj-1861-naxos",
+      "brand": "XERJOFF",
+      "name": "XJ 1861 Naxos",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "xj 1861 naxos",
+      "normalizedBrandName": "xerjoff xj 1861 naxos"
+    },
+    {
+      "id": "prada-l-homme",
+      "brand": "PRADA",
+      "name": "Prada L Homme",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "prad'a l'homme",
+      "normalizedBrandName": "prad'a prad'a l'homme"
+    },
+    {
+      "id": "dg-the-one-for-men-eau-de-parfum",
+      "brand": "DOLCE & GABBANA",
+      "name": "The One for Men Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "the one for men eau d'e parfum",
+      "normalizedBrandName": "d'ol'ce gabbana the one for men eau d'e parfum"
+    },
+    {
+      "id": "guerlain-l-homme-ideal-eau-de-parfum",
+      "brand": "GUERLAIN",
+      "name": "L Homme Ideal Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'homme id'eal'eau d'e parfum",
+      "normalizedBrandName": "guerl'ain l'homme id'eal'eau d'e parfum"
+    },
+    {
+      "id": "givenchy-gentleman-eau-de-parfum-reserve-privee",
+      "brand": "GIVENCHY",
+      "name": "Gentleman Eau de Parfum Reserve Privee",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "gentl'eman eau d'e parfum reserve privee",
+      "normalizedBrandName": "givenchy gentl'eman eau d'e parfum reserve privee"
+    },
+    {
+      "id": "armani-acqua-di-gio",
+      "brand": "GIORGIO ARMANI",
+      "name": "Acqua di Gio",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "acqua d'i gio",
+      "normalizedBrandName": "giorgio armani acqua d'i gio"
+    },
+    {
+      "id": "prada-l-homme-intense",
+      "brand": "PRADA",
+      "name": "Prada L Homme Intense",
+      "subName": "Intense",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "prad'a l'homme intense",
+      "normalizedBrandName": "prad'a prad'a l'homme intense"
+    },
+    {
+      "id": "issey-miyake-l-eau-d-issey-pour-homme",
+      "brand": "ISSEY MIYAKE",
+      "name": "L Eau d Issey Pour Homme",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'eau d'issey pour homme",
+      "normalizedBrandName": "issey miyake l'eau d'issey pour homme"
+    },
+    {
+      "id": "hermes-terre-d-hermes-parfum",
+      "brand": "HERMES",
+      "name": "Terre d Hermes Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "terre d'hermes parfum",
+      "normalizedBrandName": "hermes terre d'hermes parfum"
+    },
+    {
+      "id": "ysl-y-eau-de-parfum",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Y Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "y eau d'e parfum",
+      "normalizedBrandName": "yves saint l'aurent y eau d'e parfum"
+    },
+    {
+      "id": "guerlain-l-homme-ideal-parfum",
+      "brand": "GUERLAIN",
+      "name": "L Homme Ideal Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'homme id'eal'parfum",
+      "normalizedBrandName": "guerl'ain l'homme id'eal'parfum"
+    },
+    {
+      "id": "armani-acqua-di-gio-parfum",
+      "brand": "GIORGIO ARMANI",
+      "name": "Acqua di Gio Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "acqua d'i gio parfum",
+      "normalizedBrandName": "giorgio armani acqua d'i gio parfum"
+    },
+    {
+      "id": "chanel-bleu-de-chanel",
+      "brand": "CHANEL",
+      "name": "Bleu de Chanel",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "bl'eu d'e chanel'",
+      "normalizedBrandName": "chanel'bl'eu d'e chanel'"
+    },
+    {
+      "id": "hermes-terre-d-hermes-eau-givree",
+      "brand": "HERMES",
+      "name": "Terre d Hermes Eau Givree",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "terre d'hermes eau givree",
+      "normalizedBrandName": "hermes terre d'hermes eau givree"
+    },
+    {
+      "id": "memo-paris-african-leather",
+      "brand": "MEMO PARIS",
+      "name": "African Leather",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "african l'eather",
+      "normalizedBrandName": "memo paris african l'eather"
+    },
+    {
+      "id": "dior-sauvage-eau-de-parfum",
+      "brand": "DIOR",
+      "name": "Sauvage Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "sauvage eau d'e parfum",
+      "normalizedBrandName": "d'ior sauvage eau d'e parfum"
+    },
+    {
+      "id": "guerlain-l-instant-de-guerlain-pour-homme-edp",
+      "brand": "GUERLAIN",
+      "name": "L Instant de Guerlain pour Homme EDP",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'instant d'e guerl'ain pour homme ed'p",
+      "normalizedBrandName": "guerl'ain l'instant d'e guerl'ain pour homme ed'p"
+    },
+    {
+      "id": "dg-light-blue-eau-intense-pour-homme",
+      "brand": "DOLCE & GABBANA",
+      "name": "Light Blue Eau Intense Pour Homme",
+      "subName": "Intense",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'ight bl'ue eau intense pour homme",
+      "normalizedBrandName": "d'ol'ce gabbana l'ight bl'ue eau intense pour homme"
+    },
+    {
+      "id": "ysl-la-nuit-de-l-homme-bleu-electrique",
+      "brand": "YVES SAINT LAURENT",
+      "name": "La Nuit de L Homme Bleu Electrique",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'a nuit d'e l'homme bl'eu el'ectrique",
+      "normalizedBrandName": "yves saint l'aurent l'a nuit d'e l'homme bl'eu el'ectrique"
+    },
+    {
+      "id": "guerlain-habit-rouge-eau-de-toilette",
+      "brand": "GUERLAIN",
+      "name": "Habit Rouge Eau de Toilette",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "habit rouge eau d'e toil'ette",
+      "normalizedBrandName": "guerl'ain habit rouge eau d'e toil'ette"
+    },
+    {
+      "id": "louis-vuitton-l-immensite",
+      "brand": "LOUIS VUITTON",
+      "name": "L Immensite",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'immensite",
+      "normalizedBrandName": "l'ouis vuitton l'immensite"
+    },
+    {
+      "id": "guerlain-shalimar-eau-de-parfum",
+      "brand": "GUERLAIN",
+      "name": "Shalimar Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "shal'imar eau d'e parfum",
+      "normalizedBrandName": "guerl'ain shal'imar eau d'e parfum"
+    },
+    {
+      "id": "givenchy-l-interdit-eau-de-parfum-rouge",
+      "brand": "GIVENCHY",
+      "name": "L Interdit Eau de Parfum Rouge",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'interd'it eau d'e parfum rouge",
+      "normalizedBrandName": "givenchy l'interd'it eau d'e parfum rouge"
+    },
+    {
+      "id": "mugler-angel",
+      "brand": "MUGLER",
+      "name": "Angel",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "angel'",
+      "normalizedBrandName": "mugl'er angel'"
+    },
+    {
+      "id": "burberry-goddess",
+      "brand": "BURBERRY",
+      "name": "Goddess",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "god'd'ess",
+      "normalizedBrandName": "burberry god'd'ess"
+    },
+    {
+      "id": "chanel-no-5-parfum",
+      "brand": "CHANEL",
+      "name": "Chanel No 5 Parfum",
+      "subName": "Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "chanel'no 5 parfum",
+      "normalizedBrandName": "chanel'chanel'no 5 parfum"
+    },
+    {
+      "id": "kilian-love-don-t-be-shy",
+      "brand": "BY KILIAN",
+      "name": "Love Don t Be Shy",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'ove d'on t be shy",
+      "normalizedBrandName": "by kil'ian l'ove d'on t be shy"
+    },
+    {
+      "id": "dior-j-adore",
+      "brand": "DIOR",
+      "name": "J adore",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "j ad'ore",
+      "normalizedBrandName": "d'ior j ad'ore"
+    },
+    {
+      "id": "versace-crystal-noir-eau-de-toilette",
+      "brand": "VERSACE",
+      "name": "Crystal Noir Eau de Toilette",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "crystal'noir eau d'e toil'ette",
+      "normalizedBrandName": "versace crystal'noir eau d'e toil'ette"
+    },
+    {
+      "id": "chanel-coco-eau-de-parfum",
+      "brand": "CHANEL",
+      "name": "Coco Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "coco eau d'e parfum",
+      "normalizedBrandName": "chanel'coco eau d'e parfum"
+    },
+    {
+      "id": "chanel-chance-eau-tendre",
+      "brand": "CHANEL",
+      "name": "Chance Eau Tendre",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "chance eau tend're",
+      "normalizedBrandName": "chanel'chance eau tend're"
+    },
+    {
+      "id": "chanel-coco-noir",
+      "brand": "CHANEL",
+      "name": "Coco Noir",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "coco noir",
+      "normalizedBrandName": "chanel'coco noir"
+    },
+    {
+      "id": "amouage-guidance",
+      "brand": "AMOUAGE",
+      "name": "Guidance",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "guid'ance",
+      "normalizedBrandName": "amouage guid'ance"
+    },
+    {
+      "id": "chloe-eau-de-parfum",
+      "brand": "CHLOE",
+      "name": "Chloe Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "chl'oe eau d'e parfum",
+      "normalizedBrandName": "chl'oe chl'oe eau d'e parfum"
+    },
+    {
+      "id": "guerlain-insolence-eau-de-parfum",
+      "brand": "GUERLAIN",
+      "name": "Insolence Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "insol'ence eau d'e parfum",
+      "normalizedBrandName": "guerl'ain insol'ence eau d'e parfum"
+    },
+    {
+      "id": "guerlain-samsara-eau-de-parfum",
+      "brand": "GUERLAIN",
+      "name": "Samsara Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "samsara eau d'e parfum",
+      "normalizedBrandName": "guerl'ain samsara eau d'e parfum"
+    },
+    {
+      "id": "tom-ford-black-orchid",
+      "brand": "TOM FORD",
+      "name": "Black Orchid",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "bl'ack orchid'",
+      "normalizedBrandName": "tom ford'bl'ack orchid'"
+    },
+    {
+      "id": "chanel-no-5-eau-de-parfum",
+      "brand": "CHANEL",
+      "name": "Chanel No 5 Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "chanel'no 5 eau d'e parfum",
+      "normalizedBrandName": "chanel'chanel'no 5 eau d'e parfum"
+    },
+    {
+      "id": "byredo-bal-d-afrique",
+      "brand": "BYREDO",
+      "name": "Bal d Afrique",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "bal'd'afrique",
+      "normalizedBrandName": "byred'o bal'd'afrique"
+    },
+    {
+      "id": "guerlain-mitsouko-eau-de-parfum",
+      "brand": "GUERLAIN",
+      "name": "Mitsouko Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "mitsouko eau d'e parfum",
+      "normalizedBrandName": "guerl'ain mitsouko eau d'e parfum"
+    },
+    {
+      "id": "chanel-no-19-eau-de-parfum",
+      "brand": "CHANEL",
+      "name": "Chanel No 19 Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "chanel'no 19 eau d'e parfum",
+      "normalizedBrandName": "chanel'chanel'no 19 eau d'e parfum"
+    },
+    {
+      "id": "dior-addict-eau-de-parfum",
+      "brand": "DIOR",
+      "name": "Dior Addict Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "d'ior ad'd'ict eau d'e parfum",
+      "normalizedBrandName": "d'ior d'ior ad'd'ict eau d'e parfum"
+    },
+    {
+      "id": "givenchy-l-interdit-eau-de-parfum",
+      "brand": "GIVENCHY",
+      "name": "L Interdit Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'interd'it eau d'e parfum",
+      "normalizedBrandName": "givenchy l'interd'it eau d'e parfum"
+    },
+    {
+      "id": "guerlain-l-heure-bleue-eau-de-parfum",
+      "brand": "GUERLAIN",
+      "name": "L Heure Bleue Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'heure bl'eue eau d'e parfum",
+      "normalizedBrandName": "guerl'ain l'heure bl'eue eau d'e parfum"
+    },
+    {
+      "id": "xerjoff-lira",
+      "brand": "XERJOFF",
+      "name": "Lira",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'ira",
+      "normalizedBrandName": "xerjoff l'ira"
+    },
+    {
+      "id": "chanel-allure-eau-de-parfum",
+      "brand": "CHANEL",
+      "name": "Allure Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "al'l'ure eau d'e parfum",
+      "normalizedBrandName": "chanel'al'l'ure eau d'e parfum"
+    },
+    {
+      "id": "lancome-poeme",
+      "brand": "LANCOME",
+      "name": "Poeme",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "poeme",
+      "normalizedBrandName": "l'ancome poeme"
+    },
+    {
+      "id": "lancome-tresor",
+      "brand": "LANCOME",
+      "name": "Tresor",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "tresor",
+      "normalizedBrandName": "l'ancome tresor"
+    },
+    {
+      "id": "diptyque-philosykos-eau-de-parfum",
+      "brand": "DIPTYQUE",
+      "name": "Philosykos Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "phil'osykos eau d'e parfum",
+      "normalizedBrandName": "d'iptyque phil'osykos eau d'e parfum"
+    },
+    {
+      "id": "issey-miyake-l-eau-d-issey",
+      "brand": "ISSEY MIYAKE",
+      "name": "L eau d Issey",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'eau d'issey",
+      "normalizedBrandName": "issey miyake l'eau d'issey"
+    },
+    {
+      "id": "hermes-elixir-des-merveilles",
+      "brand": "HERMES",
+      "name": "Elixir des Merveilles",
+      "subName": "Elixir",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "el'ixir d'es merveil'l'es",
+      "normalizedBrandName": "hermes el'ixir d'es merveil'l'es"
+    },
+    {
+      "id": "chanel-n019",
+      "brand": "CHANEL",
+      "name": "Chanel N019",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "chanel'n019",
+      "normalizedBrandName": "chanel'chanel'n019"
+    },
+    {
+      "id": "dior-miss-dior-cherie",
+      "brand": "DIOR",
+      "name": "Miss Dior Cherie",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "miss d'ior cherie",
+      "normalizedBrandName": "d'ior miss d'ior cherie"
+    },
+    {
+      "id": "mugler-angel-muse",
+      "brand": "MUGLER",
+      "name": "Angel Muse",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "angel'muse",
+      "normalizedBrandName": "mugl'er angel'muse"
+    },
+    {
+      "id": "narciso-rodriguez-pure-musc-for-her",
+      "brand": "NARCISO RODRIGUEZ",
+      "name": "Pure Musc For Her",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "pure musc for her",
+      "normalizedBrandName": "narciso rod'riguez pure musc for her"
+    },
+    {
+      "id": "chanel-coromandel-eau-de-parfum",
+      "brand": "CHANEL",
+      "name": "Coromandel Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "coromand'el'eau d'e parfum",
+      "normalizedBrandName": "chanel'coromand'el'eau d'e parfum"
+    },
+    {
+      "id": "givenchy-organza",
+      "brand": "GIVENCHY",
+      "name": "Organza",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "organza",
+      "normalizedBrandName": "givenchy organza"
+    },
+    {
+      "id": "mfk-oud-satin-mood",
+      "brand": "MAISON FRANCIS KURKDJIAN",
+      "name": "Oud Satin Mood",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "oud'satin mood'",
+      "normalizedBrandName": "maison francis kurkd'jian oud'satin mood'"
+    },
+    {
+      "id": "chanel-no-19-poudre",
+      "brand": "CHANEL",
+      "name": "Chanel No 19 Poudre",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "chanel'no 19 poud're",
+      "normalizedBrandName": "chanel'chanel'no 19 poud're"
+    },
+    {
+      "id": "kayali-fragrances-vanilla",
+      "brand": "KAYALI FRAGRANCES",
+      "name": "Vanilla",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "vanil'l'a",
+      "normalizedBrandName": "kayal'i fragrances vanil'l'a"
+    },
+    {
+      "id": "initio-musk-therapy",
+      "brand": "INITIO PARFUMS PRIVÉS",
+      "name": "Musk Therapy",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "musk therapy",
+      "normalizedBrandName": "initio parfums prives musk therapy"
+    },
+    {
+      "id": "chanel-coco-eau-de-toilette",
+      "brand": "CHANEL",
+      "name": "Coco Eau de Toilette",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "coco eau d'e toil'ette",
+      "normalizedBrandName": "chanel'coco eau d'e toil'ette"
+    },
+    {
+      "id": "chanel-no-5-eau-de-toilette",
+      "brand": "CHANEL",
+      "name": "Chanel No 5 Eau de Toilette",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "chanel'no 5 eau d'e toil'ette",
+      "normalizedBrandName": "chanel'chanel'no 5 eau d'e toil'ette"
+    },
+    {
+      "id": "versace-crystal-noir",
+      "brand": "VERSACE",
+      "name": "Crystal Noir",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "crystal'noir",
+      "normalizedBrandName": "versace crystal'noir"
+    },
+    {
+      "id": "guerlain-l-heure-bleue-eau-de-toilette",
+      "brand": "GUERLAIN",
+      "name": "L Heure Bleue Eau de Toilette",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'heure bl'eue eau d'e toil'ette",
+      "normalizedBrandName": "guerl'ain l'heure bl'eue eau d'e toil'ette"
+    },
+    {
+      "id": "guerlain-l-instant-de-guerlain",
+      "brand": "GUERLAIN",
+      "name": "L Instant de Guerlain",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'instant d'e guerl'ain",
+      "normalizedBrandName": "guerl'ain l'instant d'e guerl'ain"
+    },
+    {
+      "id": "armani-prive-rouge-malachite",
+      "brand": "GIORGIO ARMANI",
+      "name": "Armani Prive Rouge Malachite",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "armani prive rouge mal'achite",
+      "normalizedBrandName": "giorgio armani armani prive rouge mal'achite"
+    },
+    {
+      "id": "xerjoff-dama-bianca",
+      "brand": "XERJOFF",
+      "name": "Dama Bianca",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "d'ama bianca",
+      "normalizedBrandName": "xerjoff d'ama bianca"
+    },
+    {
+      "id": "narciso-rodriguez-musc-noir-rose-for-her",
+      "brand": "NARCISO RODRIGUEZ",
+      "name": "Musc Noir Rose For Her",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "musc noir rose for her",
+      "normalizedBrandName": "narciso rod'riguez musc noir rose for her"
+    },
+    {
+      "id": "tom-ford-lost-cherry",
+      "brand": "TOM FORD",
+      "name": "Lost Cherry",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "hasContent": false,
+      "isBlocked": false,
+      "normalizedName": "l'ost cherry",
+      "normalizedBrandName": "tom ford'l'ost cherry"
+    }
+  ]
+}

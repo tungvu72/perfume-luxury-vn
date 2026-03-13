@@ -210,3 +210,11 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+## Product Pipeline SOP (2026-03-13)
+Khi làm batch sản phẩm hàng loạt, bắt buộc đọc và tuân thủ: `docs/product-pipeline-sop.md`.
+Ưu tiên tuyệt đối:
+- không duplicate
+- không bịa metadata
+- không create item ngoài seed
+- không push batch nếu search còn duplicate

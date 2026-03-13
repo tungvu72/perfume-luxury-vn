@@ -63,3 +63,19 @@ IDs:
 - guy-laroche-drakkar-noir
 - memo-paris-african-leather
 Status: ready for Anti inject
+
+Batch 07 DONE
+File: data/product-batches/coder-productcopy-batch-07.json
+Items: 10
+IDs:
+- dior-eau-sauvage
+- marc-antoine-barrois-ganymede
+- yves-saint-laurent-y-eau-de-parfum
+- tom-ford-tobacco-vanille
+- prada-infusion-diris
+- byredo-bal-dafrique
+- guerlain-vetiver
+- frederic-malle-musc-ravageur
+- jpg-la-belle-edp
+- dior-midnight-poison
+Status: ready for Anti inject

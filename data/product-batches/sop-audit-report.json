@@ -1,0 +1,484 @@
+{
+  "timestamp": "2026-03-13T08:47:29.333Z",
+  "sopFile": "docs/product-pipeline-sop.md",
+  "summary": {
+    "totalProducts": 252,
+    "inSeed": 252,
+    "outOfSeed": 0,
+    "canonicalOK": 243,
+    "duplicateGroups": 9,
+    "itemsToDrop": 9,
+    "flankerFamilies": 6,
+    "suspectFields": 0,
+    "safeForInject": 95,
+    "needsFix": 26,
+    "blockedReview": 0,
+    "invalidItem": 1
+  },
+  "resolutionTable": [
+    {
+      "canonicalId": "bleu-chanel-edp",
+      "canonicalName": "CHANEL Bleu de Chanel (Eau de Parfum)",
+      "duplicateId": "chanel-bleu-de-chanel",
+      "duplicateName": "CHANEL Bleu de Chanel (Eau de Parfum)",
+      "matchType": "exact_name, same_concentration",
+      "action": "DROP_DUPLICATE"
+    },
+    {
+      "canonicalId": "xerjoff-naxos",
+      "canonicalName": "XERJOFF XJ 1861 Naxos (Eau de Parfum)",
+      "duplicateId": "xerjoff-xj-1861-naxos",
+      "duplicateName": "XERJOFF XJ 1861 Naxos (Eau de Parfum)",
+      "matchType": "exact_name, same_concentration",
+      "action": "DROP_DUPLICATE"
+    },
+    {
+      "canonicalId": "hermes-terre-dhermes-parfum",
+      "canonicalName": "HERMÈS Terre d'Hermès Parfum (Parfum)",
+      "duplicateId": "hermes-terre-d-hermes-parfum",
+      "duplicateName": "HERMES Terre d Hermes Parfum (Parfum)",
+      "matchType": "normalized_name, apostrophe_variant, accent_variant, same_concentration",
+      "action": "DROP_DUPLICATE"
+    },
+    {
+      "canonicalId": "byredo-bal-dafrique",
+      "canonicalName": "BYREDO Bal d'Afrique (Eau de Parfum)",
+      "duplicateId": "byredo-bal-d-afrique",
+      "duplicateName": "BYREDO Bal d Afrique (Eau de Parfum)",
+      "matchType": "normalized_name, apostrophe_variant, accent_variant, same_concentration",
+      "action": "DROP_DUPLICATE"
+    },
+    {
+      "canonicalId": "guerlain-lhomme-ideal-parfum",
+      "canonicalName": "GUERLAIN L'Homme Idéal Parfum (Parfum)",
+      "duplicateId": "guerlain-l-homme-ideal-parfum",
+      "duplicateName": "GUERLAIN L Homme Ideal Parfum (Parfum)",
+      "matchType": "normalized_name, apostrophe_variant, accent_variant, same_concentration",
+      "action": "DROP_DUPLICATE"
+    },
+    {
+      "canonicalId": "hermes-terre-dhermes-eau-givree",
+      "canonicalName": "HERMÈS Terre d'Hermès Eau Givrée (Eau de Parfum)",
+      "duplicateId": "hermes-terre-d-hermes-eau-givree",
+      "duplicateName": "HERMES Terre d Hermes Eau Givree (Eau de Parfum)",
+      "matchType": "normalized_name, apostrophe_variant, accent_variant, same_concentration",
+      "action": "DROP_DUPLICATE"
+    },
+    {
+      "canonicalId": "memo-african-leather",
+      "canonicalName": "MEMO PARIS African Leather (Eau de Parfum)",
+      "duplicateId": "memo-paris-african-leather",
+      "duplicateName": "MEMO PARIS African Leather (Eau de Parfum)",
+      "matchType": "exact_name, same_concentration",
+      "action": "DROP_DUPLICATE"
+    },
+    {
+      "canonicalId": "guerlain-l-instant-de-guerlain",
+      "canonicalName": "GUERLAIN L Instant de Guerlain (Eau de Parfum)",
+      "duplicateId": "guerlain-linstant-de-guerlain-femme",
+      "duplicateName": "GUERLAIN L'Instant de Guerlain (Eau de Parfum)",
+      "matchType": "normalized_name, apostrophe_variant, accent_variant, same_concentration",
+      "action": "DROP_DUPLICATE"
+    },
+    {
+      "canonicalId": "louis-vuitton-limmensite",
+      "canonicalName": "LOUIS VUITTON L'Immensité (Eau de Parfum)",
+      "duplicateId": "louis-vuitton-l-immensite",
+      "duplicateName": "LOUIS VUITTON L Immensite (Eau de Parfum)",
+      "matchType": "normalized_name, apostrophe_variant, accent_variant, same_concentration",
+      "action": "DROP_DUPLICATE"
+    }
+  ],
+  "suspectFields": [],
+  "queueStatus": {
+    "safeIds": [
+      "xerjoff-naxos",
+      "louis-vuitton-imagination",
+      "parfums-de-marly-layton",
+      "amouage-reflection-man",
+      "dior-fahrenheit",
+      "tom-ford-ombre-leather",
+      "tom-ford-oud-wood",
+      "dior-homme-parfum",
+      "acqua-di-gio-profumo",
+      "bleu-de-chanel-parfum",
+      "dior-addict-edp",
+      "ysl-libre-le-parfum",
+      "kilian-love-dont-be-shy",
+      "dior-jadore-edp",
+      "guerlain-shalimar-parfum",
+      "dior-poison",
+      "creed-green-irish-tweed",
+      "dior-eau-sauvage",
+      "marc-antoine-barrois-ganymede",
+      "parfums-de-marly-althair",
+      "ysl-black-opium-le-parfum",
+      "guerlain-insolence-edp",
+      "guerlain-mon-guerlain-intense",
+      "guerlain-samsara-edp",
+      "dior-dune-edt",
+      "byredo-bal-dafrique",
+      "guerlain-mitsouko-edp",
+      "guerlain-shalimar-lessence",
+      "chanel-allure-homme-sport",
+      "ysl-tuxedo",
+      "guerlain-lhomme-ideal-parfum",
+      "guerlain-vetiver",
+      "frederic-malle-musc-ravageur",
+      "jpg-la-belle-edp",
+      "dior-midnight-poison",
+      "guerlain-lheure-bleue-edp",
+      "ysl-libre-intense",
+      "jpg-classique-edt",
+      "guerlain-spiritueuse-double-vanille",
+      "les-liquides-imaginaires-blanche-bete",
+      "prada-infusion-diris",
+      "diptyque-philosykos-edp",
+      "giardini-di-toscana-bianco-latte",
+      "chanel-antaeus",
+      "guerlain-linstant-homme-edp",
+      "hermes-un-jardin-sur-le-nil",
+      "dior-dolce-vita",
+      "nishane-hundred-silent-ways",
+      "jpg-la-belle-le-parfum",
+      "ysl-cinema",
+      "dior-diorissimo",
+      "guerlain-samsara-extrait",
+      "zadig-voltaire-this-is-her",
+      "ysl-la-nuit-de-lhomme-bleu-electrique",
+      "guerlain-habit-rouge-edt",
+      "chanel-allure-homme-edt",
+      "lalique-encre-noire-a-lextreme",
+      "cartier-la-panthere",
+      "ysl-rive-gauche",
+      "guerlain-lheure-bleue-edt",
+      "frederic-malle-carnal-flower",
+      "hermes-24-faubourg",
+      "lolita-lempicka-le-parfum",
+      "ck-obsession",
+      "guerlain-champs-elysees-edp",
+      "tom-ford-tobacco-vanille",
+      "chanel-egoiste-platinum",
+      "mfk-grand-soir",
+      "bvlgari-tygar",
+      "boss-bottled-absolu",
+      "parfums-de-marly-herod",
+      "essential-parfums-bois-imperial",
+      "dior-eau-sauvage-parfum",
+      "xerjoff-alexandria-ii",
+      "versace-dylan-blue",
+      "chanel-egoiste",
+      "amouage-interlude-man",
+      "amouage-reflection-45-man",
+      "dior-homme-sport-2021",
+      "versace-pour-homme",
+      "dior-fahrenheit-le-parfum",
+      "armani-code-parfum",
+      "xerjoff-torino21",
+      "tom-ford-tuscan-leather",
+      "dg-light-blue-intense-homme",
+      "prada-luna-rossa-black",
+      "parfums-de-marly-carlisle",
+      "versace-eros-flame",
+      "louis-vuitton-limmensite",
+      "louis-vuitton-ombre-nomade",
+      "acqua-di-parma-colonia",
+      "parfums-de-marly-sedley",
+      "dior-addict-edp-2014",
+      "chanel-allure-edp",
+      "chloe-nomade-edp"
+    ],
+    "needsFix": [
+      {
+        "id": "ysl-la-nuit-de-lhomme",
+        "brand": "YVES SAINT LAURENT",
+        "name": "La Nuit de l'Homme",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "dior-hypnotic-poison",
+        "brand": "DIOR",
+        "name": "Hypnotic Poison",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "guerlain-shalimar-edp",
+        "brand": "GUERLAIN",
+        "name": "Shalimar",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "guerlain-mon-guerlain",
+        "brand": "GUERLAIN",
+        "name": "Mon Guerlain",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "frederic-malle-portrait-of-a-lady",
+        "brand": "FRÉDÉRIC MALLE",
+        "name": "Portrait of a Lady",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "chanel-allure-homme-sport-eau-extreme",
+        "brand": "CHANEL",
+        "name": "Allure Homme Sport Eau Extrême",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "nishane-hacivat",
+        "brand": "NISHANE",
+        "name": "Hacivat",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "prada-lhomme-intense",
+        "brand": "PRADA",
+        "name": "L'Homme Intense",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "sospiro-vibrato",
+        "brand": "SOSPIRO",
+        "name": "Vibrato",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "hermes-terre-dhermes-parfum",
+        "brand": "HERMÈS",
+        "name": "Terre d'Hermès Parfum",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "guerlain-angelique-noire",
+        "brand": "GUERLAIN",
+        "name": "Angélique Noire",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "dior-pure-poison",
+        "brand": "DIOR",
+        "name": "Pure Poison",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "ysl-opium-edt",
+        "brand": "YVES SAINT LAURENT",
+        "name": "Opium",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "lalique-encre-noire",
+        "brand": "LALIQUE",
+        "name": "Encre Noire",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "jpg-le-male-elixir",
+        "brand": "JEAN PAUL GAULTIER",
+        "name": "Le Male Elixir",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "jpg-le-male-edt",
+        "brand": "JEAN PAUL GAULTIER",
+        "name": "Le Male",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "creed-absolu-aventus",
+        "brand": "CREED",
+        "name": "Absolu Aventus",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "nishane-ani",
+        "brand": "NISHANE",
+        "name": "Ani",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "chanel-allure-homme-edition-blanche",
+        "brand": "CHANEL",
+        "name": "Allure Homme Édition Blanche",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "hermes-terre-dhermes-eau-givree",
+        "brand": "HERMÈS",
+        "name": "Terre d'Hermès Eau Givrée",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "guerlain-habit-rouge-parfum",
+        "brand": "GUERLAIN",
+        "name": "Habit Rouge Parfum",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "penhaligons-halfeti",
+        "brand": "PENHALIGON'S",
+        "name": "Halfeti",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "davidoff-cool-water",
+        "brand": "DAVIDOFF",
+        "name": "Cool Water",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "guy-laroche-drakkar-noir",
+        "brand": "GUY LAROCHE",
+        "name": "Drakkar Noir",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "memo-african-leather",
+        "brand": "MEMO PARIS",
+        "name": "African Leather",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      },
+      {
+        "id": "tom-ford-grey-vetiver",
+        "brand": "TOM FORD",
+        "name": "Grey Vetiver",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Already has content — remove from queue"
+      }
+    ],
+    "blocked": [],
+    "invalid": [
+      {
+        "id": "guerlain-linstant-de-guerlain-femme",
+        "brand": "GUERLAIN",
+        "name": "L'Instant de Guerlain",
+        "status": "READY_FOR_CONTENT",
+        "reason": "Is a duplicate item scheduled for DROP"
+      }
+    ]
+  },
+  "outOfSeedItems": [],
+  "flankerFamilies": [
+    {
+      "key": "chanel'|||bl'eu d'e chanel'",
+      "items": [
+        {
+          "id": "bleu-chanel-edp",
+          "name": "Bleu de Chanel",
+          "subName": "Eau de Parfum"
+        },
+        {
+          "id": "bleu-de-chanel-parfum",
+          "name": "Bleu de Chanel",
+          "subName": "Parfum"
+        },
+        {
+          "id": "chanel-bleu-de-chanel",
+          "name": "Bleu de Chanel",
+          "subName": "Eau de Parfum"
+        }
+      ]
+    },
+    {
+      "key": "hermes|||terre d'hermes",
+      "items": [
+        {
+          "id": "terre-dhermes-edt",
+          "name": "Terre d'Hermès",
+          "subName": "Eau de Toilette"
+        },
+        {
+          "id": "hermes-terre-d-hermes",
+          "name": "Terre d Hermes",
+          "subName": "Eau de Parfum"
+        }
+      ]
+    },
+    {
+      "key": "issey miyake|||l'eau d'issey pour homme",
+      "items": [
+        {
+          "id": "issey-miyake-leau-dissey-pour-homme",
+          "name": "L�Eau d�Issey Pour Homme",
+          "subName": "Eau de Toilette"
+        },
+        {
+          "id": "issey-miyake-l-eau-d-issey-pour-homme",
+          "name": "L Eau d Issey Pour Homme",
+          "subName": "Eau de Parfum"
+        }
+      ]
+    },
+    {
+      "key": "guerl'ain|||l'heure bl'eue",
+      "items": [
+        {
+          "id": "guerlain-lheure-bleue-edp",
+          "name": "L'Heure Bleue",
+          "subName": "Eau de Parfum"
+        },
+        {
+          "id": "guerlain-lheure-bleue-edt",
+          "name": "L'Heure Bleue",
+          "subName": "Eau de Toilette"
+        }
+      ]
+    },
+    {
+      "key": "yves saint l'aurent|||l'a nuit d'e l'homme bl'eu el'ectrique",
+      "items": [
+        {
+          "id": "ysl-la-nuit-de-lhomme-bleu-electrique",
+          "name": "La Nuit de l'Homme Bleu Électrique",
+          "subName": "Eau de Toilette Intense"
+        },
+        {
+          "id": "ysl-la-nuit-de-l-homme-bleu-electrique",
+          "name": "La Nuit de L Homme Bleu Electrique",
+          "subName": "Eau de Parfum"
+        }
+      ]
+    },
+    {
+      "key": "d'ol'ce gabbana|||l'ight bl'ue eau intense pour homme",
+      "items": [
+        {
+          "id": "dg-light-blue-intense-homme",
+          "name": "Light Blue Eau Intense Pour Homme",
+          "subName": "Eau de Parfum"
+        },
+        {
+          "id": "dg-light-blue-eau-intense-pour-homme",
+          "name": "Light Blue Eau Intense Pour Homme",
+          "subName": "Intense"
+        }
+      ]
+    }
+  ]
+}

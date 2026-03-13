@@ -1,0 +1,250 @@
+{
+  "timestamp": "2026-03-13T09:49:16.639Z",
+  "totalProducts": 252,
+  "safeToDelete": [
+    {
+      "canonicalId": "bleu-chanel-edp",
+      "canonicalName": "CHANEL Bleu de Chanel",
+      "canonicalSub": "Eau de Parfum",
+      "canonicalHasContent": true,
+      "duplicateId": "chanel-bleu-de-chanel",
+      "duplicateName": "CHANEL Bleu de Chanel",
+      "duplicateSub": "Eau de Parfum",
+      "duplicateHasContent": false,
+      "reason": "exact_same_name_brand_concentration",
+      "action": "DELETE_DUPLICATE"
+    },
+    {
+      "canonicalId": "xerjoff-naxos",
+      "canonicalName": "XERJOFF XJ 1861 Naxos",
+      "canonicalSub": "Eau de Parfum",
+      "canonicalHasContent": false,
+      "duplicateId": "xerjoff-xj-1861-naxos",
+      "duplicateName": "XERJOFF XJ 1861 Naxos",
+      "duplicateSub": "Eau de Parfum",
+      "duplicateHasContent": false,
+      "reason": "exact_same_name_brand_concentration",
+      "action": "DELETE_DUPLICATE"
+    },
+    {
+      "canonicalId": "hermes-terre-dhermes-parfum",
+      "canonicalName": "HERMÈS Terre d'Hermès Parfum",
+      "canonicalSub": "Parfum",
+      "canonicalHasContent": true,
+      "duplicateId": "hermes-terre-d-hermes-parfum",
+      "duplicateName": "HERMES Terre d Hermes Parfum",
+      "duplicateSub": "Parfum",
+      "duplicateHasContent": false,
+      "reason": "apostrophe_variant",
+      "action": "DELETE_DUPLICATE"
+    },
+    {
+      "canonicalId": "byredo-bal-dafrique",
+      "canonicalName": "BYREDO Bal d'Afrique",
+      "canonicalSub": "Eau de Parfum",
+      "canonicalHasContent": false,
+      "duplicateId": "byredo-bal-d-afrique",
+      "duplicateName": "BYREDO Bal d Afrique",
+      "duplicateSub": "Eau de Parfum",
+      "duplicateHasContent": false,
+      "reason": "apostrophe_variant",
+      "action": "DELETE_DUPLICATE"
+    },
+    {
+      "canonicalId": "guerlain-lhomme-ideal-parfum",
+      "canonicalName": "GUERLAIN L'Homme Idéal Parfum",
+      "canonicalSub": "Parfum",
+      "canonicalHasContent": false,
+      "duplicateId": "guerlain-l-homme-ideal-parfum",
+      "duplicateName": "GUERLAIN L Homme Ideal Parfum",
+      "duplicateSub": "Parfum",
+      "duplicateHasContent": false,
+      "reason": "apostrophe_variant",
+      "action": "DELETE_DUPLICATE"
+    },
+    {
+      "canonicalId": "hermes-terre-dhermes-eau-givree",
+      "canonicalName": "HERMÈS Terre d'Hermès Eau Givrée",
+      "canonicalSub": "Eau de Parfum",
+      "canonicalHasContent": true,
+      "duplicateId": "hermes-terre-d-hermes-eau-givree",
+      "duplicateName": "HERMES Terre d Hermes Eau Givree",
+      "duplicateSub": "Eau de Parfum",
+      "duplicateHasContent": false,
+      "reason": "apostrophe_variant",
+      "action": "DELETE_DUPLICATE"
+    },
+    {
+      "canonicalId": "memo-african-leather",
+      "canonicalName": "MEMO PARIS African Leather",
+      "canonicalSub": "Eau de Parfum",
+      "canonicalHasContent": true,
+      "duplicateId": "memo-paris-african-leather",
+      "duplicateName": "MEMO PARIS African Leather",
+      "duplicateSub": "Eau de Parfum",
+      "duplicateHasContent": false,
+      "reason": "exact_same_name_brand_concentration",
+      "action": "DELETE_DUPLICATE"
+    },
+    {
+      "canonicalId": "guerlain-linstant-de-guerlain-femme",
+      "canonicalName": "GUERLAIN L'Instant de Guerlain",
+      "canonicalSub": "Eau de Parfum",
+      "canonicalHasContent": false,
+      "duplicateId": "guerlain-l-instant-de-guerlain",
+      "duplicateName": "GUERLAIN L Instant de Guerlain",
+      "duplicateSub": "Eau de Parfum",
+      "duplicateHasContent": false,
+      "reason": "apostrophe_variant",
+      "action": "DELETE_DUPLICATE"
+    },
+    {
+      "canonicalId": "louis-vuitton-limmensite",
+      "canonicalName": "LOUIS VUITTON L'Immensité",
+      "canonicalSub": "Eau de Parfum",
+      "canonicalHasContent": false,
+      "duplicateId": "louis-vuitton-l-immensite",
+      "duplicateName": "LOUIS VUITTON L Immensite",
+      "duplicateSub": "Eau de Parfum",
+      "duplicateHasContent": false,
+      "reason": "apostrophe_variant",
+      "action": "DELETE_DUPLICATE"
+    }
+  ],
+  "legitimateFlankers": [
+    {
+      "family": "chanel' ||| bl'eu d'e chanel'",
+      "concentrations": [
+        "edp",
+        "parfum"
+      ],
+      "items": [
+        {
+          "id": "bleu-chanel-edp",
+          "name": "Bleu de Chanel",
+          "subName": "Eau de Parfum",
+          "hasContent": true
+        },
+        {
+          "id": "bleu-de-chanel-parfum",
+          "name": "Bleu de Chanel",
+          "subName": "Parfum",
+          "hasContent": false
+        },
+        {
+          "id": "chanel-bleu-de-chanel",
+          "name": "Bleu de Chanel",
+          "subName": "Eau de Parfum",
+          "hasContent": false
+        }
+      ]
+    },
+    {
+      "family": "hermes ||| terre d'hermes",
+      "concentrations": [
+        "edt",
+        "edp"
+      ],
+      "items": [
+        {
+          "id": "terre-dhermes-edt",
+          "name": "Terre d'Hermès",
+          "subName": "Eau de Toilette",
+          "hasContent": true
+        },
+        {
+          "id": "hermes-terre-d-hermes",
+          "name": "Terre d Hermes",
+          "subName": "Eau de Parfum",
+          "hasContent": true
+        }
+      ]
+    },
+    {
+      "family": "issey miyake ||| l'eau d'issey pour homme",
+      "concentrations": [
+        "edt",
+        "edp"
+      ],
+      "items": [
+        {
+          "id": "issey-miyake-leau-dissey-pour-homme",
+          "name": "L�Eau d�Issey Pour Homme",
+          "subName": "Eau de Toilette",
+          "hasContent": true
+        },
+        {
+          "id": "issey-miyake-l-eau-d-issey-pour-homme",
+          "name": "L Eau d Issey Pour Homme",
+          "subName": "Eau de Parfum",
+          "hasContent": false
+        }
+      ]
+    },
+    {
+      "family": "guerl'ain ||| l'heure bl'eue",
+      "concentrations": [
+        "edp",
+        "edt"
+      ],
+      "items": [
+        {
+          "id": "guerlain-lheure-bleue-edp",
+          "name": "L'Heure Bleue",
+          "subName": "Eau de Parfum",
+          "hasContent": false
+        },
+        {
+          "id": "guerlain-lheure-bleue-edt",
+          "name": "L'Heure Bleue",
+          "subName": "Eau de Toilette",
+          "hasContent": false
+        }
+      ]
+    },
+    {
+      "family": "yves saint l'aurent ||| l'a nuit d'e l'homme bl'eu el'ectrique",
+      "concentrations": [
+        "edt_intense",
+        "edp"
+      ],
+      "items": [
+        {
+          "id": "ysl-la-nuit-de-lhomme-bleu-electrique",
+          "name": "La Nuit de l'Homme Bleu Électrique",
+          "subName": "Eau de Toilette Intense",
+          "hasContent": false
+        },
+        {
+          "id": "ysl-la-nuit-de-l-homme-bleu-electrique",
+          "name": "La Nuit de L Homme Bleu Electrique",
+          "subName": "Eau de Parfum",
+          "hasContent": false
+        }
+      ]
+    },
+    {
+      "family": "d'ol'ce gabbana ||| l'ight bl'ue eau intense pour homme",
+      "concentrations": [
+        "edp",
+        "intense"
+      ],
+      "items": [
+        {
+          "id": "dg-light-blue-intense-homme",
+          "name": "Light Blue Eau Intense Pour Homme",
+          "subName": "Eau de Parfum",
+          "hasContent": false
+        },
+        {
+          "id": "dg-light-blue-eau-intense-pour-homme",
+          "name": "Light Blue Eau Intense Pour Homme",
+          "subName": "Intense",
+          "hasContent": false
+        }
+      ]
+    }
+  ],
+  "ambiguous": [],
+  "afterCleanup": 243
+}
