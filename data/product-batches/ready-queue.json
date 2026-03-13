@@ -706,5 +706,29 @@
     "brand": "PARFUMS DE MARLY",
     "name": "Sedley",
     "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "dior-addict-edp-2014",
+    "brand": "DIOR",
+    "name": "Dior Addict Eau de Parfum 2014",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "chanel-allure-edp",
+    "brand": "CHANEL",
+    "name": "Allure",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "chloe-nomade-edp",
+    "brand": "CHLOÉ",
+    "name": "Nomade",
+    "status": "READY_FOR_CONTENT"
+  },
+  {
+    "id": "guerlain-linstant-de-guerlain-femme",
+    "brand": "GUERLAIN",
+    "name": "L'Instant de Guerlain",
+    "status": "READY_FOR_CONTENT"
   }
 ]

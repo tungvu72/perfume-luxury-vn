@@ -30,3 +30,14 @@ IDs:
 - creed-absolu-aventus
 - nishane-ani
 Status: ready for Anti inject
+
+Batch 04 DONE
+File: data/product-batches/coder-productcopy-batch-04.json
+Items: 5
+IDs:
+- chanel-allure-homme-edition-blanche
+- hermes-terre-dhermes-eau-givree
+- guerlain-habit-rouge-parfum
+- guerlain-angelique-noire
+- dior-pure-poison
+Status: ready for Anti inject
