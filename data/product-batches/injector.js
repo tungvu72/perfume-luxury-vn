@@ -30,7 +30,7 @@ function buildEntry(p) {
     perfumer: "${p.perfumer || 'N/A'}",
     gender: "${p.gender || 'nam'}",
     image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "pending", caption: "${p.brand} ${p.name} chính hãng", verified: false }],
+    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "${p.brand} ${p.name} chính hãng", verified: false }],
     description: "${p.desc}",
     productCopy: "(Chờ Coder viết bài)",
     article: "(Chờ Coder viết bài)",

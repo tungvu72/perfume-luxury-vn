@@ -1,0 +1,471 @@
+[
+    {
+        "id": "ysl-la-nuit-de-lhomme-bleu-electrique",
+        "brandSlug": "ysl",
+        "brand": "YVES SAINT LAURENT",
+        "name": "La Nuit de l'Homme Bleu Électrique",
+        "subName": "Eau de Toilette Intense",
+        "perfumer": "Dominique Ropion",
+        "gender": "nam",
+        "desc": "Phiên bản tươi hơn của La Nuit. Bạch đậu khấu, gừng và oải hương xanh. Hiện đại và cuốn.",
+        "verdict": "La Nuit bản tươi hơn. Bạch đậu khấu, gừng, xanh hơn. Hiện đại và cuốn.",
+        "short": "LA NUIT XANH, TƯƠI, HIỆN ĐẠI",
+        "sc": [
+            9.0,
+            8.5,
+            9.2,
+            8.0,
+            8.7
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            65,
+            45,
+            88,
+            78
+        ],
+        "dn": [
+            45,
+            92
+        ],
+        "topNotes": [
+            "Bạch đậu khấu",
+            "Gừng",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Oải hương",
+            "Phong lữ",
+            "Hoa violet"
+        ],
+        "baseNotes": [
+            "Vetiver",
+            "Gỗ tuyết tùng",
+            "Đậu tonka"
+        ],
+        "accords": [
+            [
+                "Gia vị ấm",
+                88,
+                "#e67e22"
+            ],
+            [
+                "Thơm thảo mộc",
+                78,
+                "#2c7a4b"
+            ],
+            [
+                "Tươi",
+                62,
+                "#2ecc71"
+            ],
+            [
+                "Gỗ",
+                52,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Hẹn hò",
+                "❤️"
+            ],
+            [
+                "Hiện đại",
+                "⚡"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Hẹn hò",
+            "Buổi tối",
+            "Hiện đại"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "60ml",
+            "100ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "guerlain-habit-rouge-edt",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "Habit Rouge",
+        "subName": "Eau de Toilette",
+        "perfumer": "Jean-Paul Guerlain",
+        "gender": "nam",
+        "desc": "Kinh điển nam Pháp với cam, quế và da thuộc. Cổ điển lịch lãm, rất gentleman.",
+        "verdict": "Cam, quế, da thuộc. Kinh điển Pháp lịch lãm, rất gentleman.",
+        "short": "CỔ ĐIỂN PHÁP, LỊCH LÃM",
+        "sc": [
+            8.5,
+            8.8,
+            7.8,
+            8.5,
+            8.4
+        ],
+        "lon": 6,
+        "sil": 6,
+        "sea": [
+            60,
+            40,
+            80,
+            72
+        ],
+        "dn": [
+            55,
+            70
+        ],
+        "topNotes": [
+            "Cam",
+            "Chanh",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Quế",
+            "Hoa cam",
+            "Cẩm chướng"
+        ],
+        "baseNotes": [
+            "Da thuộc",
+            "Vani",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Cam chanh",
+                82,
+                "#f7c242"
+            ],
+            [
+                "Phương Đông",
+                72,
+                "#8B0000"
+            ],
+            [
+                "Da thuộc",
+                55,
+                "#5D4037"
+            ],
+            [
+                "Gia vị ấm",
+                48,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Gentleman",
+                "🕴️"
+            ],
+            [
+                "Lịch lãm",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Kinh điển",
+            "Pháp",
+            "Gentleman"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml",
+            "200ml"
+        ],
+        "price": 2200000
+    },
+    {
+        "id": "chanel-allure-homme-edt",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "Allure Homme",
+        "subName": "Eau de Toilette",
+        "perfumer": "Jacques Polge",
+        "gender": "nam",
+        "desc": "Mùi nam thanh lịch với cam, gỗ và tiêu. Sạch, sang và rất đa dụng kiểu Chanel.",
+        "verdict": "Cam, gỗ, tiêu. Sạch sang thanh lịch, đa dụng kiểu Chanel.",
+        "short": "SẠCH SANG, ĐA DỤNG, CHANEL",
+        "sc": [
+            8.5,
+            7.8,
+            8.5,
+            7.8,
+            8.2
+        ],
+        "lon": 7,
+        "sil": 6,
+        "sea": [
+            78,
+            62,
+            75,
+            58
+        ],
+        "dn": [
+            72,
+            55
+        ],
+        "topNotes": [
+            "Quýt",
+            "Cam bergamot",
+            "Đào"
+        ],
+        "middleNotes": [
+            "Tiêu",
+            "Gỗ tuyết tùng",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Đậu tonka",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Cam chanh",
+                82,
+                "#f7c242"
+            ],
+            [
+                "Gỗ",
+                72,
+                "#8B4513"
+            ],
+            [
+                "Tươi",
+                58,
+                "#2ecc71"
+            ],
+            [
+                "Gia vị ấm",
+                38,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Thanh lịch",
+                "🕴️"
+            ],
+            [
+                "Đa dụng",
+                "🔄"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Thanh lịch",
+            "Đa dụng",
+            "Chanel"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml",
+            "150ml"
+        ],
+        "price": 3200000
+    },
+    {
+        "id": "creed-absolu-aventus-2",
+        "brandSlug": "creed",
+        "brand": "CREED",
+        "name": "Absolu Aventus",
+        "subName": "Eau de Parfum",
+        "perfumer": "Erwin Creed",
+        "gender": "nam",
+        "desc": "Phiên bản đậm của Aventus. Trái cây cô đặc, gỗ sâu. Sang và quyền lực.",
+        "verdict": "Aventus bản đậm. Trái cây cô đặc, gỗ sâu. Quyền lực.",
+        "short": "AVENTUS ĐẬM, CÔ ĐẶC",
+        "sc": [
+            9.3,
+            9.0,
+            9.0,
+            6.5,
+            8.5
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            60,
+            35,
+            90,
+            85
+        ],
+        "dn": [
+            55,
+            88
+        ],
+        "topNotes": [
+            "Dứa",
+            "Táo",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Gỗ bạch dương",
+            "Hoắc hương"
+        ],
+        "baseNotes": [
+            "Xạ hương",
+            "Hổ phách",
+            "Vani"
+        ],
+        "accords": [
+            [
+                "Trái cây",
+                90,
+                "#f39c12"
+            ],
+            [
+                "Gỗ",
+                78,
+                "#8B4513"
+            ],
+            [
+                "Khói",
+                55,
+                "#616161"
+            ],
+            [
+                "Gia vị ấm",
+                42,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Quyền lực",
+                "👑"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Nam",
+            "Sang trọng",
+            "Trái cây"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml",
+            "100ml"
+        ],
+        "price": 9500000
+    },
+    {
+        "id": "lalique-encre-noire-a-lextreme",
+        "brandSlug": "lalique",
+        "brand": "LALIQUE",
+        "name": "Encre Noire à l'Extrême",
+        "subName": "Eau de Parfum",
+        "perfumer": "Nathalie Lorson",
+        "gender": "nam",
+        "desc": "Bản đậm hơn Encre Noire. Vetiver, cypress và hổ phách sâu hơn. Tối, mạnh và giá tốt.",
+        "verdict": "Vetiver sâu hơn, hổ phách. Encre Noire bản mạnh, tối hơn, giá vẫn tốt.",
+        "short": "VETIVER CỰC SÂU, TỐI, GIÁ TỐT",
+        "sc": [
+            9.0,
+            9.2,
+            7.8,
+            9.5,
+            8.9
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            35,
+            12,
+            95,
+            100
+        ],
+        "dn": [
+            20,
+            100
+        ],
+        "topNotes": [
+            "Cypress",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Vetiver",
+            "Hổ phách"
+        ],
+        "baseNotes": [
+            "Cashmere wood",
+            "Xạ hương",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Gỗ",
+                100,
+                "#8B4513"
+            ],
+            [
+                "Đất / Khoáng",
+                88,
+                "#616161"
+            ],
+            [
+                "Hổ phách",
+                62,
+                "#d4a017"
+            ],
+            [
+                "Tối",
+                55,
+                "#1a1a1a"
+            ]
+        ],
+        "vibes": [
+            [
+                "Tối",
+                "🖤"
+            ],
+            [
+                "Giá tốt",
+                "💰"
+            ],
+            [
+                "Mạnh",
+                "🔥"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Gỗ",
+            "Tối",
+            "Giá tốt"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 1200000
+    }
+]
