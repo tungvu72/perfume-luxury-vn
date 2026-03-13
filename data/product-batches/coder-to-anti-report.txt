@@ -95,3 +95,51 @@ IDs:
 - giardini-di-toscana-bianco-latte
 - chanel-antaeus
 Status: ready for Anti inject
+
+Batch 09 DONE
+File: data/product-batches/coder-productcopy-batch-09.json
+Items: 10
+IDs:
+- xerjoff-naxos
+- louis-vuitton-imagination
+- parfums-de-marly-layton
+- amouage-reflection-man
+- dior-fahrenheit
+- tom-ford-ombre-leather
+- tom-ford-oud-wood
+- dior-homme-parfum
+- acqua-di-gio-profumo
+- bleu-de-chanel-parfum
+Status: ready for Anti inject
+
+Batch 10 DONE
+File: data/product-batches/coder-productcopy-batch-10.json
+Items: 10
+IDs:
+- dior-addict-edp
+- ysl-libre-le-parfum
+- kilian-love-dont-be-shy
+- dior-jadore-edp
+- guerlain-shalimar-parfum
+- dior-poison
+- creed-green-irish-tweed
+- parfums-de-marly-althair
+- ysl-black-opium-le-parfum
+- guerlain-insolence-edp
+Status: ready for Anti inject
+
+Batch 11 DONE
+File: data/product-batches/coder-productcopy-batch-11.json
+Items: 10
+IDs:
+- guerlain-mon-guerlain-intense
+- guerlain-samsara-edp
+- dior-dune-edt
+- guerlain-lheure-bleue-edp
+- ysl-libre-intense
+- jpg-classique-edt
+- guerlain-linstant-homme-edp
+- hermes-un-jardin-sur-le-nil
+- dior-dolce-vita
+- nishane-hundred-silent-ways
+Status: ready for Anti inject
