@@ -79,3 +79,19 @@ IDs:
 - jpg-la-belle-edp
 - dior-midnight-poison
 Status: ready for Anti inject
+
+Batch 08 DONE
+File: data/product-batches/coder-productcopy-batch-08.json
+Items: 10
+IDs:
+- guerlain-mitsouko-edp
+- guerlain-shalimar-lessence
+- chanel-allure-homme-sport
+- ysl-tuxedo
+- guerlain-lhomme-ideal-parfum
+- guerlain-spiritueuse-double-vanille
+- les-liquides-imaginaires-blanche-bete
+- diptyque-philosykos-edp
+- giardini-di-toscana-bianco-latte
+- chanel-antaeus
+Status: ready for Anti inject
