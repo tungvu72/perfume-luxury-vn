@@ -1,0 +1,940 @@
+[
+    {
+        "id": "lalique-encre-noire",
+        "brandSlug": "lalique",
+        "brand": "LALIQUE",
+        "name": "Encre Noire",
+        "subName": "Eau de Toilette",
+        "perfumer": "Nathalie Lorson",
+        "gender": "nam",
+        "desc": "Mùi vetiver tối sâu với cypress và xạ hương. Tối, đất và rất nam tính theo kiểu không phổ thông.",
+        "verdict": "Vetiver tối, cypress. Nam tính sâu, giá cực tốt. Không phải cho người thích ngọt.",
+        "short": "VETIVER TỐI, ĐẤT, GIÁ TỐT",
+        "sc": [
+            8.8,
+            9.2,
+            7.5,
+            9.5,
+            8.8
+        ],
+        "lon": 8,
+        "sil": 7,
+        "sea": [
+            45,
+            20,
+            95,
+            90
+        ],
+        "dn": [
+            35,
+            90
+        ],
+        "topNotes": [
+            "Cypress"
+        ],
+        "middleNotes": [
+            "Vetiver"
+        ],
+        "baseNotes": [
+            "Xạ hương",
+            "Cashmere wood"
+        ],
+        "accords": [
+            [
+                "Gỗ",
+                100,
+                "#8B4513"
+            ],
+            [
+                "Đất / Khoáng",
+                88,
+                "#616161"
+            ],
+            [
+                "Xanh / Green",
+                55,
+                "#2c7a4b"
+            ],
+            [
+                "Tối",
+                48,
+                "#1a1a1a"
+            ]
+        ],
+        "vibes": [
+            [
+                "Tối",
+                "🖤"
+            ],
+            [
+                "Giá tốt",
+                "💰"
+            ],
+            [
+                "Nam tính",
+                "🌲"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Gỗ",
+            "Tối",
+            "Giá tốt"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 950000
+    },
+    {
+        "id": "jpg-le-male-elixir",
+        "brandSlug": "jean-paul-gaultier",
+        "brand": "JEAN PAUL GAULTIER",
+        "name": "Le Male Elixir",
+        "subName": "Parfum",
+        "perfumer": "Quentin Bisch",
+        "gender": "nam",
+        "desc": "Bản đậm nhất Le Male. Oải hương, vani và hổ phách cực mạnh. Ngọt ấm quyền lực cho buổi tối.",
+        "verdict": "Oải hương đậm, vani mạnh, hổ phách. Bản quyền lực nhất dòng Le Male.",
+        "short": "ĐẬM NHẤT LE MALE, QUYỀN LỰC",
+        "sc": [
+            9.0,
+            8.5,
+            9.2,
+            8.0,
+            8.7
+        ],
+        "lon": 9,
+        "sil": 9,
+        "sea": [
+            30,
+            10,
+            95,
+            100
+        ],
+        "dn": [
+            15,
+            100
+        ],
+        "topNotes": [
+            "Oải hương",
+            "Bạc hà"
+        ],
+        "middleNotes": [
+            "Vani",
+            "Hổ phách",
+            "Đậu tonka"
+        ],
+        "baseNotes": [
+            "Benzoin",
+            "Gỗ đàn hương",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Ngọt",
+                95,
+                "#FF6D00"
+            ],
+            [
+                "Thơm thảo mộc",
+                82,
+                "#2c7a4b"
+            ],
+            [
+                "Hổ phách",
+                75,
+                "#d4a017"
+            ],
+            [
+                "Gia vị ấm",
+                58,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Buổi tối",
+                "🌙"
+            ],
+            [
+                "Quyền lực",
+                "🔥"
+            ],
+            [
+                "Ngọt",
+                "🍬"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Buổi tối",
+            "Ngọt",
+            "Quyền lực"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml",
+            "125ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "jpg-le-male-edt",
+        "brandSlug": "jean-paul-gaultier",
+        "brand": "JEAN PAUL GAULTIER",
+        "name": "Le Male",
+        "subName": "Eau de Toilette",
+        "perfumer": "Francis Kurkdjian",
+        "gender": "nam",
+        "desc": "Kinh điển nam với oải hương, vani và bạc hà. Trẻ trung, dễ khen và rất phổ biến.",
+        "verdict": "Oải hương, vani, bạc hà. Kinh điển nam trẻ trung, dễ khen vô cùng.",
+        "short": "KINH ĐIỂN, DỄ KHEN, TRẺ TRUNG",
+        "sc": [
+            8.8,
+            8.0,
+            9.2,
+            9.0,
+            8.8
+        ],
+        "lon": 7,
+        "sil": 7,
+        "sea": [
+            65,
+            45,
+            85,
+            80
+        ],
+        "dn": [
+            55,
+            80
+        ],
+        "topNotes": [
+            "Oải hương",
+            "Bạc hà",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Quế",
+            "Hoa cam",
+            "Bạch đậu khấu"
+        ],
+        "baseNotes": [
+            "Vani",
+            "Đậu tonka",
+            "Gỗ đàn hương",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Thơm thảo mộc",
+                92,
+                "#2c7a4b"
+            ],
+            [
+                "Ngọt",
+                72,
+                "#FF6D00"
+            ],
+            [
+                "Gia vị ấm",
+                58,
+                "#e67e22"
+            ],
+            [
+                "Tươi",
+                48,
+                "#2ecc71"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Dễ khen",
+                "👍"
+            ],
+            [
+                "Trẻ trung",
+                "⚡"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Kinh điển",
+            "Dễ khen",
+            "Trẻ trung"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml",
+            "125ml",
+            "200ml"
+        ],
+        "price": 2200000
+    },
+    {
+        "id": "creed-absolu-aventus",
+        "brandSlug": "creed",
+        "brand": "CREED",
+        "name": "Absolu Aventus",
+        "subName": "Eau de Parfum",
+        "perfumer": "Erwin Creed",
+        "gender": "nam",
+        "desc": "Phiên bản đậm hơn của Aventus. Trái cây, gỗ và gia vị cô đặc. Sang hơn và sâu hơn.",
+        "verdict": "Aventus bản đậm. Trái cây cô đặc, gỗ sâu. Sang và quyền lực hơn bản gốc.",
+        "short": "AVENTUS ĐẬM, CÔ ĐẶC, QUYỀN LỰC",
+        "sc": [
+            9.3,
+            9.0,
+            9.0,
+            6.5,
+            8.5
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            60,
+            35,
+            90,
+            85
+        ],
+        "dn": [
+            55,
+            88
+        ],
+        "topNotes": [
+            "Dứa",
+            "Táo",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Gỗ bạch dương",
+            "Hoắc hương",
+            "Hoa nhài"
+        ],
+        "baseNotes": [
+            "Xạ hương",
+            "Hổ phách",
+            "Vani",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Trái cây",
+                90,
+                "#f39c12"
+            ],
+            [
+                "Gỗ",
+                78,
+                "#8B4513"
+            ],
+            [
+                "Khói",
+                55,
+                "#616161"
+            ],
+            [
+                "Gia vị ấm",
+                42,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Quyền lực",
+                "👑"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Nam",
+            "Sang trọng",
+            "Trái cây"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "100ml"
+        ],
+        "price": 9500000
+    },
+    {
+        "id": "nishane-ani",
+        "brandSlug": "nishane",
+        "brand": "NISHANE",
+        "name": "Ani",
+        "subName": "Extrait de Parfum",
+        "perfumer": "Jorge Lee",
+        "gender": "unisex",
+        "desc": "Mùi niche vani-gia vị với bạch đậu khấu, vani Madagascar và gỗ đàn hương. Ấm, ngọt và cực sang.",
+        "verdict": "Vani Madagascar, bạch đậu khấu, gỗ đàn hương. Vani niche sang nhất phân khúc.",
+        "short": "VANI NICHE, GIA VỊ, CỰC SANG",
+        "sc": [
+            9.3,
+            9.0,
+            9.2,
+            8.0,
+            8.9
+        ],
+        "lon": 10,
+        "sil": 8,
+        "sea": [
+            45,
+            25,
+            95,
+            100
+        ],
+        "dn": [
+            30,
+            100
+        ],
+        "topNotes": [
+            "Bạch đậu khấu",
+            "Cam bergamot",
+            "Hoa cam"
+        ],
+        "middleNotes": [
+            "Vani Madagascar",
+            "Hoa nhài",
+            "Quế"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Đậu tonka",
+            "Benzoin",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Vani",
+                100,
+                "#f5deb3"
+            ],
+            [
+                "Gia vị ấm",
+                85,
+                "#e67e22"
+            ],
+            [
+                "Ngọt",
+                78,
+                "#FF6D00"
+            ],
+            [
+                "Gỗ",
+                55,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Ấm",
+                "🍂"
+            ],
+            [
+                "Sang trọng",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Vani",
+            "Gia vị"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 5800000
+    },
+    {
+        "id": "chanel-allure-homme-sport",
+        "brandSlug": "chanel",
+        "brand": "CHANEL",
+        "name": "Allure Homme Sport",
+        "subName": "Eau de Toilette",
+        "perfumer": "Jacques Polge",
+        "gender": "nam",
+        "desc": "Mùi nam thể thao tươi với cam, tiêu và gỗ tuyết tùng. Năng động, sạch và rất dễ dùng.",
+        "verdict": "Thể thao tươi, cam, tiêu, gỗ. Năng động và sạch, rất dễ dùng ban ngày.",
+        "short": "THỂ THAO TƯƠI, SẠCH, NĂNG ĐỘNG",
+        "sc": [
+            8.5,
+            7.5,
+            8.8,
+            8.0,
+            8.2
+        ],
+        "lon": 6,
+        "sil": 7,
+        "sea": [
+            85,
+            80,
+            65,
+            45
+        ],
+        "dn": [
+            85,
+            40
+        ],
+        "topNotes": [
+            "Cam",
+            "Quýt",
+            "Hồ tiêu hồng"
+        ],
+        "middleNotes": [
+            "Neroli",
+            "Gỗ tuyết tùng"
+        ],
+        "baseNotes": [
+            "Xạ hương trắng",
+            "Đậu tonka",
+            "Hổ phách"
+        ],
+        "accords": [
+            [
+                "Tươi",
+                92,
+                "#2ecc71"
+            ],
+            [
+                "Cam chanh",
+                82,
+                "#f7c242"
+            ],
+            [
+                "Gỗ",
+                52,
+                "#8B4513"
+            ],
+            [
+                "Gia vị tươi",
+                42,
+                "#c58a2b"
+            ]
+        ],
+        "vibes": [
+            [
+                "Thể thao",
+                "⚡"
+            ],
+            [
+                "Ban ngày",
+                "☀️"
+            ],
+            [
+                "Năng động",
+                "🏃"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Thể thao",
+            "Tươi",
+            "Ban ngày"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml",
+            "150ml"
+        ],
+        "price": 3200000
+    },
+    {
+        "id": "ysl-tuxedo",
+        "brandSlug": "ysl",
+        "brand": "YVES SAINT LAURENT",
+        "name": "Tuxedo",
+        "subName": "Eau de Parfum",
+        "perfumer": "Juliette Karagueuzoglou",
+        "gender": "unisex",
+        "desc": "Mùi niche hoắc hương-gia vị với tiêu đen và gỗ tuyết tùng. Tối, sang và rất quyền lực.",
+        "verdict": "Hoắc hương đen, tiêu, gỗ tuyết tùng. Tối, sang và quyền lực tuyệt đối.",
+        "short": "HOẮC HƯƠNG ĐEN, TỐI, QUYỀN LỰC",
+        "sc": [
+            9.2,
+            9.0,
+            8.5,
+            7.0,
+            8.4
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            35,
+            15,
+            92,
+            100
+        ],
+        "dn": [
+            20,
+            100
+        ],
+        "topNotes": [
+            "Tiêu đen",
+            "Hồ tiêu hồng"
+        ],
+        "middleNotes": [
+            "Hoắc hương",
+            "Cypress"
+        ],
+        "baseNotes": [
+            "Gỗ tuyết tùng",
+            "Hổ phách",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Gỗ",
+                95,
+                "#8B4513"
+            ],
+            [
+                "Gia vị ấm",
+                82,
+                "#e67e22"
+            ],
+            [
+                "Hổ phách",
+                62,
+                "#d4a017"
+            ],
+            [
+                "Tối",
+                55,
+                "#1a1a1a"
+            ]
+        ],
+        "vibes": [
+            [
+                "Quyền lực",
+                "👑"
+            ],
+            [
+                "Tối",
+                "🖤"
+            ],
+            [
+                "Niche",
+                "💎"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Tối",
+            "Quyền lực"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "75ml",
+            "125ml"
+        ],
+        "price": 6500000
+    },
+    {
+        "id": "guerlain-lhomme-ideal-parfum",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "L'Homme Idéal Parfum",
+        "subName": "Parfum",
+        "perfumer": "Thierry Wasser",
+        "gender": "nam",
+        "desc": "Bản Parfum đậm nhất dòng L'Homme Idéal. Vani, hổ phách và anh đào. Ngọt sang, rất beast mode.",
+        "verdict": "Vani, hổ phách, anh đào. Bản đậm nhất dòng Idéal, ngọt sang beast mode.",
+        "short": "VANI ĐẬM, ANH ĐÀO, BEAST MODE",
+        "sc": [
+            9.0,
+            8.5,
+            9.2,
+            8.5,
+            8.8
+        ],
+        "lon": 9,
+        "sil": 9,
+        "sea": [
+            35,
+            15,
+            95,
+            100
+        ],
+        "dn": [
+            20,
+            100
+        ],
+        "topNotes": [
+            "Anh đào",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Hổ phách",
+            "Vani",
+            "Quế"
+        ],
+        "baseNotes": [
+            "Đậu tonka",
+            "Gỗ đàn hương",
+            "Benzoin",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Ngọt",
+                100,
+                "#FF6D00"
+            ],
+            [
+                "Gourmand",
+                85,
+                "#8B0000"
+            ],
+            [
+                "Hổ phách",
+                72,
+                "#d4a017"
+            ],
+            [
+                "Gỗ",
+                48,
+                "#8B4513"
+            ]
+        ],
+        "vibes": [
+            [
+                "Beast mode",
+                "🔥"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ],
+            [
+                "Ngọt",
+                "🍬"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Ngọt",
+            "Buổi tối",
+            "Gourmand"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "guerlain-vetiver",
+        "brandSlug": "guerlain",
+        "brand": "GUERLAIN",
+        "name": "Vétiver",
+        "subName": "Eau de Toilette",
+        "perfumer": "Jean-Paul Guerlain",
+        "gender": "nam",
+        "desc": "Kinh điển vetiver nam với thuốc lá, tiêu và gỗ. Thanh lịch cổ điển kiểu Pháp, rất gentleman.",
+        "verdict": "Vetiver kinh điển, thuốc lá, tiêu. Gentleman Pháp vượt thời gian.",
+        "short": "VETIVER KINH ĐIỂN, GENTLEMAN",
+        "sc": [
+            8.8,
+            8.8,
+            7.8,
+            8.5,
+            8.5
+        ],
+        "lon": 7,
+        "sil": 6,
+        "sea": [
+            75,
+            55,
+            80,
+            65
+        ],
+        "dn": [
+            78,
+            48
+        ],
+        "topNotes": [
+            "Cam bergamot",
+            "Chanh",
+            "Tiêu"
+        ],
+        "middleNotes": [
+            "Vetiver",
+            "Thuốc lá",
+            "Phong lữ"
+        ],
+        "baseNotes": [
+            "Gỗ đàn hương",
+            "Đậu tonka",
+            "Xạ hương"
+        ],
+        "accords": [
+            [
+                "Xanh / Green",
+                92,
+                "#2c7a4b"
+            ],
+            [
+                "Gỗ",
+                78,
+                "#8B4513"
+            ],
+            [
+                "Cam chanh",
+                55,
+                "#f7c242"
+            ],
+            [
+                "Gia vị ấm",
+                42,
+                "#e67e22"
+            ]
+        ],
+        "vibes": [
+            [
+                "Kinh điển",
+                "👑"
+            ],
+            [
+                "Gentleman",
+                "🕴️"
+            ],
+            [
+                "Thanh lịch",
+                "✨"
+            ]
+        ],
+        "tags": [
+            "Nam",
+            "Kinh điển",
+            "Vetiver",
+            "Thanh lịch"
+        ],
+        "sizes": [
+            "10ml Chiết",
+            "100ml",
+            "200ml"
+        ],
+        "price": 2800000
+    },
+    {
+        "id": "frederic-malle-musc-ravageur",
+        "brandSlug": "frederic-malle",
+        "brand": "FRÉDÉRIC MALLE",
+        "name": "Musc Ravageur",
+        "subName": "Eau de Parfum",
+        "perfumer": "Maurice Roucel",
+        "gender": "unisex",
+        "desc": "Mùi niche xạ hương quyến rũ với vani, hổ phách và quế. Sexy, ấm và cực kỳ cuốn hút.",
+        "verdict": "Xạ hương, vani, quế. Sexy tuyệt đối. Niche kinh điển cho buổi tối.",
+        "short": "XẠ HƯƠNG SEXY, VANI, CỰC CUỐN",
+        "sc": [
+            9.4,
+            9.2,
+            9.0,
+            7.0,
+            8.7
+        ],
+        "lon": 9,
+        "sil": 8,
+        "sea": [
+            35,
+            15,
+            92,
+            100
+        ],
+        "dn": [
+            15,
+            100
+        ],
+        "topNotes": [
+            "Oải hương",
+            "Cam bergamot"
+        ],
+        "middleNotes": [
+            "Quế",
+            "Hoa cam",
+            "Phong lữ"
+        ],
+        "baseNotes": [
+            "Xạ hương",
+            "Vani",
+            "Hổ phách",
+            "Gỗ đàn hương"
+        ],
+        "accords": [
+            [
+                "Xạ hương",
+                100,
+                "#9b59b6"
+            ],
+            [
+                "Ngọt",
+                82,
+                "#FF6D00"
+            ],
+            [
+                "Gia vị ấm",
+                75,
+                "#e67e22"
+            ],
+            [
+                "Hổ phách",
+                62,
+                "#d4a017"
+            ]
+        ],
+        "vibes": [
+            [
+                "Sexy",
+                "🔥"
+            ],
+            [
+                "Niche",
+                "💎"
+            ],
+            [
+                "Buổi tối",
+                "🌙"
+            ]
+        ],
+        "tags": [
+            "Niche",
+            "Unisex",
+            "Xạ hương",
+            "Sexy"
+        ],
+        "sizes": [
+            "5ml",
+            "10ml Chiết",
+            "50ml",
+            "100ml"
+        ],
+        "price": 7500000
+    }
+]
