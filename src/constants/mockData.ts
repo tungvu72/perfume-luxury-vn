@@ -4563,8 +4563,8 @@ Nên mua khi mày muốn một chai signature dễ dùng quanh năm. Nếu đã 
     subName: "Extrait de Parfum",
     perfumer: "Jorge Lee",
     gender: "unisex",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "NISHANE Hacivat chính hãng", verified: false }],
+    image: "/images/products/nishane-hacivat-main.jpg",
+    images: [{ url: "/images/products/nishane-hacivat-main.jpg", source: "studio", caption: "Ảnh sản phẩm Nishane Hacivat (chai và hộp)" }, { url: "/images/products/nishane-hacivat-bottle.jpg", source: "studio", caption: "Ảnh chai Nishane Hacivat" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Hacivat là kiểu niche nam sáng, sắc, sang và rất clean luxury theo hướng dứa, citrus, rêu sồi và gỗ. Nhiều người sẽ liên tưởng ngay đến nhóm DNA Aventus, nhưng Hacivat không đi theo hướng smoky-fruity quá nam tính cổ điển mà sáng hơn, sạch hơn và bóng bẩy hơn. Đây là chai có cảm giác chỉn chu, tự tin và nổi bật theo cách rất hiện đại.
@@ -4611,8 +4611,8 @@ Nên mua khi mày cần một chai premium để đi làm, gặp khách hoặc l
     subName: "Eau de Parfum",
     perfumer: "Daniela Andrier",
     gender: "nam",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "PRADA L'Homme Intense chính hãng", verified: false }],
+    image: "/images/products/prada-lhomme-intense-bottle.jpg",
+    images: [{ url: "/images/products/prada-lhomme-intense-bottle.jpg", source: "studio", caption: "Ảnh sản phẩm Prada L'Homme Intense (chai và hộp)" }, { url: "/images/products/prada-lhomme-intense-main.jpg", source: "studio", caption: "Ảnh chai Prada L'Homme Intense" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Prada L'Homme Intense là bản tối, dày và gợi cảm hơn của Prada L'Homme gốc. Nếu bản thường giống một chiếc sơ mi trắng sạch sẽ thì bản Intense giống một bộ suit tối màu trong không gian ánh đèn vàng. Iris vẫn là linh hồn chính, nhưng lần này được phủ lên bởi amber, da và đậu tonka, khiến tổng thể ấm hơn, dày hơn và có độ buổi tối rõ hơn.
@@ -4995,8 +4995,8 @@ Nên mua khi mày đã chán các vanilla phổ thông và muốn một thứ ti
     subName: "Eau de Parfum",
     perfumer: "Carlos Benaïm, Dominique Ropion, Olivier Polge",
     gender: "nu",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "DIOR Pure Poison chính hãng", verified: false }],
+    image: "/images/products/dior-pure-poison-main.jpg",
+    images: [{ url: "/images/products/dior-pure-poison-main.jpg", source: "studio", caption: "Ảnh sản phẩm Dior Pure Poison (chai và hộp)" }, { url: "/images/products/dior-pure-poison-bottle.jpg", source: "studio", caption: "Ảnh chai Dior Pure Poison" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Pure Poison là một kiểu nữ tính rất đẹp của Dior: hoa trắng sạch, sáng, có độ sang nhưng không quá nồng. Nó không đi theo hướng kẹo ngọt, fruity hay quá sexy kiểu ồn ào, mà thiên về cảm giác tinh khiết, thanh và có chút lạnh. Đây là kiểu mùi khiến người mặc trông chỉn chu, sạch sẽ và có khí chất hơn là cố gây choáng.
@@ -5043,8 +5043,8 @@ Nên mua khi mày cần một chai dùng đi làm hoặc signature nhẹ nhàng 
     subName: "Eau de Toilette",
     perfumer: "",
     gender: "nu",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "YVES SAINT LAURENT Opium chính hãng", verified: false }],
+    image: "/images/products/ysl-opium-edt-main.jpg",
+    images: [{ url: "/images/products/ysl-opium-edt-main.jpg", source: "studio", caption: "Ảnh sản phẩm YSL Opium EDT (chai và hộp)" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Opium là một tượng đài phương Đông cổ điển của YSL, mang tinh thần gia vị, nhựa thơm, hoa và độ ấm rất đặc trưng. Đây không phải kiểu nước hoa nữ hiện đại theo hướng fruity-sweet dễ chiều, mà là một mùi hương có quyền lực, có chất retro và có độ hiện diện mạnh. Opium bước vào không gian với cá tính rất rõ, khiến người mặc trông bí ẩn, sắc và có chiều sâu hơn hẳn.
@@ -5475,8 +5475,8 @@ Nên mua khi mày muốn bước vào thế giới Shalimar theo lối dễ dùn
     subName: "Eau de Toilette",
     perfumer: "Nathalie Lorson",
     gender: "nam",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "LALIQUE Encre Noire chính hãng", verified: false }],
+    image: "/images/products/lalique-encre-noire-main.jpg",
+    images: [{ url: "/images/products/lalique-encre-noire-main.jpg", source: "studio", caption: "Ảnh sản phẩm Lalique Encre Noire (chai và hộp)" }, { url: "/images/products/lalique-encre-noire-bottle.jpg", source: "studio", caption: "Ảnh chai Lalique Encre Noire" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Encre Noire là một trong những chai nước hoa nam có DNA gỗ-vetiver rõ cá tính nhất ở tầm giá dễ tiếp cận. Nó tối, khô, lạnh và có cảm giác như gỗ ẩm, rễ cây, mực đen và đất sau mưa. Đây không phải kiểu mùi ngọt dễ khen hay sáng sủa kiểu văn phòng phổ thông, mà là kiểu mùi dành cho người thích sự trầm, kín và có phần nghệ sĩ.
@@ -5523,8 +5523,8 @@ Nên mua khi mày muốn thêm một chai mood scent cho tối, ngày mưa hoặ
     subName: "Parfum",
     perfumer: "Quentin Bisch",
     gender: "nam",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "JEAN PAUL GAULTIER Le Male Elixir chính hãng", verified: false }],
+    image: "/images/products/jpg-le-male-elixir-bottle.jpg",
+    images: [{ url: "/images/products/jpg-le-male-elixir-bottle.jpg", source: "studio", caption: "Ảnh chai JPG Le Male Elixir" }, { url: "/images/products/jpg-le-male-elixir-main.jpg", source: "studio", caption: "Ảnh chi tiết JPG Le Male Elixir" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Le Male Elixir là phiên bản đậm nhất, ngọt nhất và tạo hiệu ứng mạnh nhất trong family Le Male hiện tại. Nếu Le Male gốc vui vẻ, Le Male Le Parfum sang hơn thì Elixir đi thẳng vào hướng mật ong, vanilla, amber và oải hương đậm, tạo cảm giác rất dày, rất quyến rũ và rất buổi tối. Đây là kiểu mùi sinh ra để nổi bật.
@@ -5571,8 +5571,8 @@ Nên mua khi mày đang cần một chai buổi tối có sức công phá. Nế
     subName: "Eau de Toilette",
     perfumer: "Francis Kurkdjian",
     gender: "nam",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "JEAN PAUL GAULTIER Le Male chính hãng", verified: false }],
+    image: "/images/products/jpg-le-male-edt-bottle.jpg",
+    images: [{ url: "/images/products/jpg-le-male-edt-bottle.jpg", source: "studio", caption: "Ảnh sản phẩm JPG Le Male EDT (chai và hộp)" }, { url: "/images/products/jpg-le-male-edt-main.jpg", source: "studio", caption: "Ảnh chi tiết JPG Le Male EDT" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Le Male EDT là một tượng đài của nước hoa nam hiện đại: oải hương, bạc hà, vanilla và chút gia vị ấm được phối theo cách vừa dễ nhớ vừa rất có bản sắc. Dù ra đời đã lâu, chai này vẫn giữ được sức sống vì nó vừa vui, vừa gợi cảm, vừa có độ nhận diện rất cao. Đây là kiểu mùi nam không cố tỏ ra quá nghiêm túc, mà thiên về hấp dẫn, trẻ trung và có phần hơi tinh nghịch.
@@ -5619,8 +5619,8 @@ Nên mua khi mày muốn một mùi linh hoạt cho đi chơi và dùng casual. 
     subName: "Eau de Parfum",
     perfumer: "House of Creed",
     gender: "nam",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "CREED Absolu Aventus chính hãng", verified: false }],
+    image: "/images/products/creed-absolu-aventus-main.jpg",
+    images: [{ url: "/images/products/creed-absolu-aventus-main.jpg", source: "studio", caption: "Ảnh sản phẩm Creed Absolu Aventus (chai và hộp)" }, { url: "/images/products/creed-absolu-aventus-bottle.jpg", source: "studio", caption: "Ảnh chai Creed Absolu Aventus" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Absolu Aventus là cách Creed làm mới DNA Aventus theo hướng đậm hơn, tối hơn và bóng bẩy hơn. Nó vẫn mang tinh thần trái cây-gỗ sang trọng quen thuộc, nhưng thêm chiều sâu, độ dày và cảm giác modern luxury rõ hơn. Đây không phải bản thay thế hoàn toàn Aventus gốc, mà là một biến thể sang tối, ít airy hơn và có phần sắc nét hơn.
@@ -5667,8 +5667,8 @@ Nên mua khi mày cần một chai premium cho dịp quan trọng hoặc muốn 
     subName: "Extrait de Parfum",
     perfumer: "Cécile Zarokian",
     gender: "unisex",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "NISHANE Ani chính hãng", verified: false }],
+    image: "/images/products/nishane-ani-main.jpg",
+    images: [{ url: "/images/products/nishane-ani-main.jpg", source: "studio", caption: "Ảnh sản phẩm Nishane Ani (chai và hộp)" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Ani là một trong những chai vanilla niche nổi bật nhất vì nó không ngọt theo kiểu bánh kẹo đơn thuần, mà kết hợp vanilla với gia vị, gỗ và chút xanh để tạo cảm giác vừa ấm vừa có cấu trúc. Đây là kiểu mùi dày, sang và có độ ôm rất đẹp trên da, phù hợp người thích những chai mang cảm giác comfort nhưng vẫn đủ cá tính.
@@ -6579,8 +6579,8 @@ Nên mua khi mày cần một chai ban ngày có gu. Nếu mày chỉ thích mù
     subName: "Eau de Parfum",
     perfumer: "Jacques Polge",
     gender: "nam",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "CHANEL Allure Homme Édition Blanche chính hãng", verified: false }],
+    image: "/images/products/chanel-allure-edition-blanche-main.jpg",
+    images: [{ url: "/images/products/chanel-allure-edition-blanche-main.jpg", source: "studio", caption: "Ảnh chai Chanel Allure Homme Édition Blanche" }, { url: "/images/products/chanel-allure-edition-blanche-bottle.jpg", source: "studio", caption: "Ảnh chi tiết Chanel Allure Homme Édition Blanche" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Allure Homme Edition Blanche là kiểu Chanel nam rất tinh: citrus sáng, kem chanh, gỗ đàn hương và vanilla nhẹ được phối theo cách cực kỳ sạch và sang. Nó không phải một chai fresh thuần, cũng không phải gourmand rõ rệt, mà nằm giữa hai thế giới đó: vừa sáng, vừa mượt, vừa lịch sự. Đây là kiểu mùi khiến người mặc trông gọn gàng và có gu hơn ngay lập tức.
@@ -6627,8 +6627,8 @@ Nên mua khi mày cần một chai ban ngày chất lượng cao, đặc biệt 
     subName: "Eau de Parfum",
     perfumer: "Christine Nagel",
     gender: "nam",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "HERMÈS Terre d'Hermès Eau Givrée chính hãng", verified: false }],
+    image: "/images/products/hermes-eau-givree-main.jpg",
+    images: [{ url: "/images/products/hermes-eau-givree-main.jpg", source: "studio", caption: "Ảnh sản phẩm Hermès Terre d'Hermès Eau Givrée (chai và hộp)" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Terre d'Hermes Eau Givree là phiên bản tươi và mát nhất trong family Terre. Nó giữ lại tinh thần khoáng-gỗ đặc trưng của dòng này, nhưng đẩy phần citrus lạnh, sắc và sạch lên rõ rệt hơn. Cảm giác chung là một bản Terre sáng hơn, gọn hơn, dễ mặc hơn trong thời tiết nóng và có chất thanh lịch rất hợp khí hậu Việt Nam.
@@ -6675,8 +6675,8 @@ Nên mua khi mày cần một chai signature ban ngày mùa nóng. Nếu mày ư
     subName: "Parfum",
     perfumer: "Delphine Jelk",
     gender: "nam",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "GUERLAIN Habit Rouge Parfum chính hãng", verified: false }],
+    image: "/images/products/guerlain-habit-rouge-main.jpg",
+    images: [{ url: "/images/products/guerlain-habit-rouge-main.jpg", source: "studio", caption: "Ảnh sản phẩm Guerlain Habit Rouge Parfum (chai và hộp)" }, { url: "/images/products/guerlain-habit-rouge-bottle.jpg", source: "studio", caption: "Ảnh chai Guerlain Habit Rouge Parfum" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Habit Rouge Parfum là tinh thần quý ông Pháp cổ điển được làm đậm và mượt hơn. DNA của nó xoay quanh citrus, vanilla, da, nhựa thơm và chút oriental cổ điển, tạo ra cảm giác rất lịch sự, sang và có chiều sâu. Đây không phải kiểu mùi trẻ trung chạy theo trend, mà là kiểu mùi có phong thái, có lịch sử và cần người mặc có chút gu để lên đúng chất.
@@ -9393,8 +9393,8 @@ Nên mua khi mày cần một chai mùa nóng dùng nhiều. Nếu mày thích m
     subName: "Eau de Parfum",
     perfumer: "Thierry Wasser, Delphine Jelk",
     gender: "nam",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "GUERLAIN L Homme Ideal Eau de Parfum chính hãng", verified: false }],
+    image: "/images/products/guerlain-l-homme-ideal-edp-main.jpg",
+    images: [{ url: "/images/products/guerlain-l-homme-ideal-edp-main.jpg", source: "studio", caption: "Ảnh sản phẩm L'Homme Ideal EDP (chai và hộp)" }, { url: "/images/products/guerlain-l-homme-ideal-edp-bottle.jpg", source: "studio", caption: "Ảnh chai L'Homme Ideal EDP" }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 L'Homme Ideal Eau de Parfum là một trong những chai designer nam có cá tính riêng rõ nhất của Guerlain. DNA nổi bật là hạnh nhân, cherry, vanilla, da và chút gia vị ấm, tạo cảm giác sang, hơi dark và có độ ăn chơi vừa đủ. Đây không phải kiểu ngọt trẻ trung theo hướng kẹo hay bubblegum, mà là kiểu ngọt có chiều sâu, phù hợp người muốn một mùi nam tính nhưng vẫn có điểm nhấn khác biệt.
