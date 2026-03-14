@@ -4899,8 +4899,8 @@ Nên mua khi mày đã chán các DNA quen thuộc và muốn một bước sang
     subName: "Eau de Parfum",
     perfumer: "BLOCKED_SOURCE",
     gender: "nam",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "PARFUMS DE MARLY Althaïr chính hãng", verified: false }],
+    image: "/images/products/parfums-de-marly-althair-main.jpg",
+    images: [{ url: "/images/products/parfums-de-marly-althair-main.jpg", source: "amazon", caption: "PARFUMS DE MARLY Althaïr chính hãng", verified: true }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Althaïr là kiểu vanilla - gia vị - gỗ hiện đại rất tròn, sang và dễ gây nghiện. Nó không phải vanilla nữ tính mềm hoàn toàn, cũng không quá tối, mà nằm ở điểm giữa rất đẹp: ấm, mịn, ngọt vừa và có cảm giác upscale rõ. Đây là một trong những chai gourmand nam hiện đại dễ lấy lòng nhất của Parfums de Marly.
@@ -5091,8 +5091,8 @@ Nên mua khi mày muốn một chai tối, lạnh, có statement rõ. Nếu mày
     subName: "Le Parfum",
     perfumer: "BLOCKED_SOURCE",
     gender: "nu",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "YVES SAINT LAURENT Black Opium Le Parfum chính hãng", verified: false }],
+    image: "/images/products/ysl-black-opium-le-parfum-main.jpg",
+    images: [{ url: "/images/products/ysl-black-opium-le-parfum-main.jpg", source: "amazon", caption: "YVES SAINT LAURENT Black Opium Le Parfum chính hãng", verified: true }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Black Opium Le Parfum là phiên bản đậm, vanilla hơn và gợi cảm hơn của Black Opium. Nó vẫn giữ tinh thần cà phê - ngọt - quyến rũ quen thuộc, nhưng đẩy mạnh phần vanilla để tổng thể mượt, dày và sexy hơn rõ. Đây là kiểu mùi tối rất hợp người thích gourmand nữ hiện đại và muốn sự nổi bật dễ hiểu.
@@ -5139,8 +5139,8 @@ Nên mua khi mày cần một chai tối dễ tạo ấn tượng. Nếu mày th
     subName: "Eau de Parfum",
     perfumer: "BLOCKED_SOURCE",
     gender: "nu",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "GUERLAIN Insolence chính hãng", verified: false }],
+    image: "/images/products/guerlain-insolence-edp-main.jpg",
+    images: [{ url: "/images/products/guerlain-insolence-edp-main.jpg", source: "amazon", caption: "GUERLAIN Insolence chính hãng", verified: true }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Insolence EDP là một mùi tím rất Guerlain: violet, iris, powder và nền ngọt mềm tạo nên cảm giác vừa bột, vừa sang, vừa hơi ngông đúng như tên gọi. Nó không đi theo hướng hoa tươi sáng thông thường, mà tạo một thế giới rất riêng: mềm, tím, phấn và có chút retro quyến rũ.
@@ -5187,8 +5187,8 @@ Nên mua khi mày muốn một mùi nữ có bản sắc riêng. Nếu mày thí
     subName: "Eau de Parfum Intense",
     perfumer: "BLOCKED_SOURCE",
     gender: "nu",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "GUERLAIN Mon Guerlain Intense chính hãng", verified: false }],
+    image: "/images/products/guerlain-mon-guerlain-intense-main.jpg",
+    images: [{ url: "/images/products/guerlain-mon-guerlain-intense-main.jpg", source: "amazon", caption: "GUERLAIN Mon Guerlain Intense chính hãng", verified: true }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Mon Guerlain Intense là phiên bản đậm, ấm và dày hơn của Mon Guerlain gốc. Nó vẫn giữ lavender, vanilla và cảm giác nữ tính sang đặc trưng, nhưng được làm sâu hơn, tối hơn và quyến rũ hơn rõ rệt. Đây là kiểu mùi rất hợp với người thích phong cách nữ hiện đại, mềm nhưng không nhạt.
@@ -5235,8 +5235,8 @@ Nên mua khi mày cần một chai ấm sang cho buổi tối. Nếu mày ưu ti
     subName: "Eau de Parfum",
     perfumer: "BLOCKED_SOURCE",
     gender: "nu",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "GUERLAIN Samsara chính hãng", verified: false }],
+    image: "/images/products/guerlain-samsara-edp-main.jpg",
+    images: [{ url: "/images/products/guerlain-samsara-edp-main.jpg", source: "amazon", caption: "GUERLAIN Samsara chính hãng", verified: true }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Samsara EDP là một mùi hương rất Guerlain: gỗ đàn hương, hoa và cảm giác ấm sang cổ điển hòa vào nhau cực kỳ mượt. Nó không đi theo hướng ngọt trẻ hay floral hiện đại, mà mang vẻ đẹp chững chạc, nữ tính và rất có chiều sâu. Đây là kiểu mùi cần gu, nhưng khi hợp thì cho cảm giác sang rất riêng.
@@ -5283,8 +5283,8 @@ Nên mua khi mày muốn một chai signature có chiều sâu. Nếu mày thíc
     subName: "Eau de Toilette",
     perfumer: "BLOCKED_SOURCE",
     gender: "nu",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "DIOR Dune chính hãng", verified: false }],
+    image: "/images/products/dior-dune-edt-main.jpg",
+    images: [{ url: "/images/products/dior-dune-edt-main.jpg", source: "amazon", caption: "DIOR Dune chính hãng", verified: true }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Dune EDT là kiểu mùi rất riêng của Dior: thoáng, cát, biển, gỗ và một cảm giác khô ấm rất khó gọi tên chính xác. Nó không floral rõ, không aquatic đơn giản, cũng không hoàn toàn woody, mà giống một khung cảnh hơn là một công thức note. Đây là kiểu mùi có tính nghệ rõ, rất hợp người không thích đi theo số đông.
@@ -5331,8 +5331,8 @@ Nên mua khi mày muốn một chai mang mood rõ. Nếu mày cần floral sáng
     subName: "Eau de Parfum",
     perfumer: "BLOCKED_SOURCE",
     gender: "unisex",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "BYREDO Bal d'Afrique chính hãng", verified: false }],
+    image: "/images/products/byredo-bal-dafrique-main.jpg",
+    images: [{ url: "/images/products/byredo-bal-dafrique-main.jpg", source: "amazon", caption: "BYREDO Bal d'Afrique chính hãng", verified: true }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Bal d'Afrique là một trong những mùi clean-luxury dễ yêu nhất của Byredo: citrus, hoa mềm, gỗ sáng và xạ hương được làm rất mượt, tạo ra cảm giác vừa tươi vừa ấm rất đặc trưng. Nó không quá niche khó gần, cũng không quá đại trà, mà nằm ở giữa: sang, sáng, vui và có chất thời trang rõ.
@@ -5379,8 +5379,8 @@ Nên mua khi mày cần một signature ban ngày cao cấp, dễ sống chung. 
     subName: "Eau de Parfum",
     perfumer: "BLOCKED_SOURCE",
     gender: "nu",
-    image: PENDING_IMAGE,
-    images: [{ url: PENDING_IMAGE, source: "fragram", caption: "GUERLAIN Mitsouko chính hãng", verified: false }],
+    image: "/images/products/guerlain-mitsouko-edp-main.jpg",
+    images: [{ url: "/images/products/guerlain-mitsouko-edp-main.jpg", source: "amazon", caption: "GUERLAIN Mitsouko chính hãng", verified: true }],
     description: "(Chờ nguồn xác minh)",
     productCopy: `## Mùi hương tổng thể
 Mitsouko là một tượng đài của Guerlain và cũng là một trong những mùi chypre cổ điển quan trọng nhất trong lịch sử nước hoa. Nó không ngọt dễ chiều, không sáng vui kiểu hiện đại, mà đi theo hướng quả chín, rêu sồi, gia vị và nền tối rất sang. Đây là kiểu mùi cần thời gian để hiểu, nhưng khi hợp rồi thì cực kỳ khó thay thế.
