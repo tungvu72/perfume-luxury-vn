@@ -26,7 +26,7 @@ export interface VibeTag {
 export interface GalleryImage {
     url: string;
     caption?: string;
-    source?: 'studio' | 'fragram' | 'community' | 'owner';
+    source?: 'studio' | 'fragram' | 'community' | 'owner' | 'amazon';
     verified?: boolean;
 }
 
