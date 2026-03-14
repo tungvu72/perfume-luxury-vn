@@ -135,7 +135,7 @@ date: YYYY-MM-DD
 category: [Product Review / Buying Guide / Trend / So sánh / How-to / Brand Story]
 author: Maison de SON Editorial
 description: [150-160 ký tự, có keyword]
-image: [URL ảnh fimgs.net hoặc unsplash]
+image: [URL ảnh — xem docs/ops/image-sourcing-sop.md]
 readTime: [X phút đọc]
 tags: [tag1, tag2, tag3]
 ---
@@ -170,7 +170,7 @@ tags: [tag1, tag2, tag3]
 | 1 | H1 55-65 ký tự, có keyword + năm |
 | 2 | Sapo ≤100 chữ đầu, có bối cảnh VN |
 | 3 | Meta description 150-160 ký tự |
-| 4 | Featured image hợp lệ (fimgs.net/unsplash) |
+| 4 | Featured image hợp lệ (xem docs/ops/image-sourcing-sop.md) |
 | 5 | 1 ảnh per 200-300 từ |
 | 6 | Brand links đúng URL (/[slug]) |
 | 7 | Product links đúng URL (/[slug]) |

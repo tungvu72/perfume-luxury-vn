@@ -1,4 +1,4 @@
-﻿# research-sourcing.md
+# research-sourcing.md
 
 ## Role
 Research Bot chuyên research source và image sourcing cho catalog Maison de Son.
@@ -25,5 +25,11 @@ Research Bot chuyên research source và image sourcing cho catalog Maison de So
 - Không bịa ảnh / không dùng ảnh sai chai
 
 ## Source policy
-- Ưu tiên official brand / retailer đáng tin / source đang truy cập được
-- Nếu không verify được ảnh đúng chai: đánh dấu blocked, không đoán
+> ⚠️ **Image sourcing rules đã chuyển sang:** [`docs/ops/image-sourcing-sop.md`](../ops/image-sourcing-sop.md)
+> Đây là single source of truth. Các rule dưới đây là legacy summary.
+
+- **Source priority: Amazon** (`m.media-amazon.com`)
+- 2 ảnh mỗi sản phẩm: main (chai+hộp) + bottle (chỉ chai)
+- Main display image luôn là chai + hộp
+- Nếu không verify được ảnh đúng chai: đánh dấu Pending, không đoán
+- Chi tiết đầy đủ: xem `docs/ops/image-sourcing-sop.md`
