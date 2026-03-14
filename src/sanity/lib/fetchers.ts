@@ -1,7 +1,8 @@
-﻿import { client } from './client'
+import { client } from './client'
 import { MASTER_PERFUMES } from '@/constants/mockData'
 import type { Perfume } from '@/types'
 import { cache } from 'react'
+import { filterValidProducts } from '@/lib/productValidation'
 
 // â”€â”€â”€ GROQ query fields â€” aligned with actual Sanity product schema â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 // Schema notes:
@@ -74,10 +75,10 @@ export const getAllProducts = cache(async (): Promise<Perfume[]> => {
             }
         });
 
-        return Array.from(merged.values());
+        return filterValidProducts(Array.from(merged.values()));
     } catch (error) {
         console.error("Sanity fetch error (getAllProducts):", error);
-        return MASTER_PERFUMES;
+        return filterValidProducts(MASTER_PERFUMES);
     }
 })
 
@@ -115,9 +116,9 @@ export const getProductsByGender = cache(async (gender: string): Promise<Perfume
             }
         });
 
-        return Array.from(merged.values());
+        return filterValidProducts(Array.from(merged.values()));
     } catch (error) {
-        return mockProducts;
+        return filterValidProducts(mockProducts);
     }
 })
 
@@ -144,9 +145,9 @@ export const getProductsByBrand = cache(async (brandSlug: string): Promise<Perfu
             }
         });
 
-        return Array.from(merged.values());
+        return filterValidProducts(Array.from(merged.values()));
     } catch (error) {
-        return mockProducts;
+        return filterValidProducts(mockProducts);
     }
 })
 
@@ -173,9 +174,9 @@ export const getTopRankedProducts = cache(async (): Promise<Perfume[]> => {
         const products = await client.fetch(
             `*[_type == "product"] | order(score.total desc) [0...20] { ${PRODUCT_QUERY_FIELDS} }`
         )
-        return products.length > 0 ? products : [...MASTER_PERFUMES].sort((a, b) => b.score.total - a.score.total).slice(0, 20);
+        return filterValidProducts(products.length > 0 ? products : [...MASTER_PERFUMES].sort((a, b) => b.score.total - a.score.total).slice(0, 20));
     } catch (error) {
-        return [...MASTER_PERFUMES].sort((a, b) => b.score.total - a.score.total).slice(0, 20);
+        return filterValidProducts([...MASTER_PERFUMES].sort((a, b) => b.score.total - a.score.total).slice(0, 20));
     }
 })
 
@@ -185,9 +186,9 @@ export const getRelatedProducts = cache(async (currentSlug: string, brandName: s
             `*[_type == "product" && slug.current != $currentSlug && (brand == $brandName || gender == $gender)] [0...4] { ${PRODUCT_QUERY_FIELDS} }`,
             { currentSlug, brandName, gender }
         )
-        return products.length > 0 ? products : MASTER_PERFUMES.filter(p => p.id !== currentSlug && (p.brand === brandName || p.gender === gender)).slice(0, 4);
+        return filterValidProducts(products.length > 0 ? products : MASTER_PERFUMES.filter(p => p.id !== currentSlug && (p.brand === brandName || p.gender === gender)).slice(0, 4));
     } catch (error) {
-        return MASTER_PERFUMES.filter(p => p.id !== currentSlug && (p.brand === brandName || p.gender === gender)).slice(0, 4);
+        return filterValidProducts(MASTER_PERFUMES.filter(p => p.id !== currentSlug && (p.brand === brandName || p.gender === gender)).slice(0, 4));
     }
 })
 

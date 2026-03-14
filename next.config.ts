@@ -47,8 +47,8 @@ const nextConfig: NextConfig = {
       // Product slug renaming
       { source: '/bleu-de-chanel-edp', destination: '/bleu-chanel-edp', permanent: true },
       { source: '/san-pham/bleu-de-chanel-edp', destination: '/bleu-chanel-edp', permanent: true },
-      { source: '/armani-stronger-with-you-intensely', destination: '/armani-stronger-with-you', permanent: true },
-      { source: '/san-pham/armani-stronger-with-you-intensely', destination: '/armani-stronger-with-you', permanent: true },
+      { source: '/armani-stronger-with-you', destination: '/armani-stronger-with-you-intensely', permanent: true },
+      { source: '/san-pham/armani-stronger-with-you', destination: '/armani-stronger-with-you-intensely', permanent: true },
       { source: '/mfk-baccarat-rouge-540', destination: '/baccarat-rouge-540', permanent: true },
       { source: '/san-pham/mfk-baccarat-rouge-540', destination: '/baccarat-rouge-540', permanent: true },
     ];
