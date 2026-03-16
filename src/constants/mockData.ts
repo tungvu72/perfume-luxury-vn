@@ -502,7 +502,7 @@ BR540 nổi tiếng là có lý do, vì nó thực sự tạo ra hiệu ứng nh
     perfumer: "Sonia Constant",
     gender: "nam",
     image: "/images/products/tom-ford-noir-extreme-main.jpg",
-    images: [{ url: "/images/products/tom-ford-noir-extreme-main.jpg", source: "fragram", caption: "Tom Ford Noir Extreme Eau de Parfum chính hãng", verified: true }],
+    images: [{ url: "/images/products/tom-ford-noir-extreme-main.jpg", source: "amazon", caption: "Tom Ford Noir Extreme Eau de Parfum chính hãng", verified: true }, { url: "/images/products/tom-ford-noir-extreme-bottle.jpg", source: "amazon", caption: "Tom Ford Noir Extreme chai", verified: true }],
     description: "Đây là kiểu mùi ấm, tối và hơi sang theo kiểu đi tối. Hợp người muốn mùi nam khác với nhóm sạch sáng kiểu văn phòng. Nếu bạn cần một chai nhẹ, sạch và dễ dùng ban ngày thì bản này hơi nặng.",
     productCopy: `Tom Ford Noir Extreme EDP là kiểu nước hoa nam mang màu sắc rất rõ của những buổi tối sang trọng. Mùi mở đầu bằng cảm giác cay ấm và ngọt nhẹ, sau đó nhanh chóng chuyển sang lớp hương dày hơn với vanilla, amber và một chút gourmand rất đặc trưng. Tổng thể tạo cảm giác ấm áp, quyến rũ và có sự xa xỉ rất Tom Ford.
 
