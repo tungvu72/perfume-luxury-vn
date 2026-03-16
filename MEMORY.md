@@ -17,3 +17,8 @@
 - Phân biệt rõ: quyền trong repo/workspace của Coder != quyền admin/runtime của phía vận hành OpenClaw.
 - Khi chưa verify trực tiếp bằng tool/repo, không được trả lời như thể đã kiểm tra xong.
 - Với các claim từ Anti về build/deploy/report/artifact, ưu tiên tự check repo/tool trước khi chốt.
+
+## Session note 2026-03-15
+- Exec permission in OpenClaw verified working; direct repo verification is now possible.
+- Anti is treated as runtime/operator authority; Coder must still independently verify technical claims in repo/tools before confirming.
+- Current pending follow-up for next session: inspect working tree for cleanup patch (remove 8 pending-image products, root script cleanup, docs/reports import), verify build state, then decide commit/push.

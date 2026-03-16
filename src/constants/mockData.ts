@@ -1,7 +1,5 @@
 import { Perfume } from "../types";
 
-const PENDING_IMAGE = "/placeholders/product-image-pending.svg";
-
 export const MASTER_PERFUMES: Perfume[] = [
   {
     id: "sauvage-elixir",
