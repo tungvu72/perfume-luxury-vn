@@ -5,7 +5,7 @@ const imgDir = 'D:/anti/perfume-luxury-vn/public/images/products';
 const dataFile = 'D:/anti/perfume-luxury-vn/src/constants/mockData.ts';
 
 // Get all image files
-const imgFiles = fs.readdirSync(imgDir).filter(f => f.endsWith('.jpg') || f.endsWith('.png'));
+const imgFiles = fs.readdirSync(imgDir).filter(f => f.endsWith('.jpg') || f.endsWith('.png') || f.endsWith('.webp'));
 const imgSet = new Set(imgFiles);
 
 // Parse mockData for all products
@@ -25,11 +25,10 @@ while ((m = idRegex.exec(content)) !== null) {
   const isPending = imgMatch && imgMatch[1] === 'PENDING_IMAGE';
   const imgPath = imgMatch && imgMatch[2] ? imgMatch[2] : null;
   
-  // Check if main file exists
-  const mainFile = `${id}-main.jpg`;
-  const bottleFile = `${id}-bottle.jpg`;
-  const hasMain = imgSet.has(mainFile);
-  const hasBottle = imgSet.has(bottleFile);
+  // Check if main file exists (try .jpg, .webp, .png)
+  const exts = ['.jpg', '.webp', '.png'];
+  const hasMain = exts.some(e => imgSet.has(`${id}-main${e}`));
+  const hasBottle = exts.some(e => imgSet.has(`${id}-bottle${e}`));
   
   // Get brand/name
   const brandMatch = block.match(/brand:\s*"([^"]*)"/);
