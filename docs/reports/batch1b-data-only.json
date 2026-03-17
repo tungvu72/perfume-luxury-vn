@@ -1,0 +1,558 @@
+{
+  "batchId": "batch-1b-data-only",
+  "status": "NEEDS CODER FINAL",
+  "date": "2026-03-16",
+  "itemCount": 17,
+  "scope": "17 products — có notes/data nhưng chưa có seoTitle + metaDescription",
+  "instructions": "Coder: viết final seoTitle (50-60 ký tự) + metaDescription (150-160 ký tự) cho mỗi SP. Tiếng Việt chuẩn, đúng dấu, không nhồi keyword. Trả lại dạng JSON { slug: { seoTitle, metaDescription } }.",
+  "items": [
+    {
+      "slug": "ysl-la-nuit-de-lhomme",
+      "brand": "YVES SAINT LAURENT",
+      "name": "La Nuit de l'Homme",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "topNotes": [
+        "Bạch đậu khấu"
+      ],
+      "middleNotes": [
+        "Oải hương",
+        "Gỗ tuyết tùng Virginia",
+        "Cam bergamot"
+      ],
+      "baseNotes": [
+        "Cỏ hương bài",
+        "Thì là Ai Cập"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "Hương gỗ cay thanh lịch, biểu tượng quyến rũ ban đêm",
+      "verdictShort": "VERIFIED",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "guerlain-mon-guerlain",
+      "brand": "GUERLAIN",
+      "name": "Mon Guerlain",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "topNotes": [
+        "Oải hương",
+        "Cam bergamot"
+      ],
+      "middleNotes": [
+        "Hoa diên vĩ",
+        "Nhài Sambac",
+        "Hoa hồng"
+      ],
+      "baseNotes": [
+        "Vani Tahiti",
+        "Coumarin",
+        "Gỗ đàn hương Úc",
+        "Cam thảo",
+        "An tức hương",
+        "Hoắc hương"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "chanel-allure-homme-sport-eau-extreme",
+      "brand": "CHANEL",
+      "name": "Allure Homme Sport Eau Extrême",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "topNotes": [
+        "Quýt",
+        "Bạc hà",
+        "Bách xanh",
+        "Xô thơm"
+      ],
+      "middleNotes": [
+        "Tiêu"
+      ],
+      "baseNotes": [
+        "Đậu Tonka",
+        "Xạ hương",
+        "Gỗ đàn hương",
+        "Gỗ tuyết tùng"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "nishane-hacivat",
+      "brand": "NISHANE",
+      "name": "Hacivat",
+      "subName": "Extrait de Parfum",
+      "gender": "unisex",
+      "topNotes": [
+        "Dứa",
+        "Bưởi",
+        "Cam bergamot"
+      ],
+      "middleNotes": [
+        "Gỗ tuyết tùng",
+        "Hoắc hương",
+        "Nhài"
+      ],
+      "baseNotes": [
+        "Rêu sồi",
+        "Gỗ"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "prada-lhomme-intense",
+      "brand": "PRADA",
+      "name": "L'Homme Intense",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "topNotes": [
+        "Hoa diên vĩ"
+      ],
+      "middleNotes": [
+        "Hổ phách",
+        "Hoắc hương"
+      ],
+      "baseNotes": [
+        "Đậu Tonka",
+        "Da thuộc",
+        "Gỗ đàn hương"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "guerlain-angelique-noire",
+      "brand": "GUERLAIN",
+      "name": "Angélique Noire",
+      "subName": "Eau de Parfum",
+      "gender": "unisex",
+      "topNotes": [
+        "Bạch chỉ",
+        "Lê",
+        "Tiêu hồng"
+      ],
+      "middleNotes": [
+        "Nhài",
+        "Thì là Ai Cập"
+      ],
+      "baseNotes": [
+        "Bạch chỉ",
+        "Vani",
+        "Gỗ tuyết tùng"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "dior-pure-poison",
+      "brand": "DIOR",
+      "name": "Pure Poison",
+      "subName": "Eau de Parfum",
+      "gender": "nu",
+      "topNotes": [
+        "Nhài",
+        "Cam",
+        "Cam bergamot",
+        "Quýt Sicily"
+      ],
+      "middleNotes": [
+        "Dành dành",
+        "Hoa cam"
+      ],
+      "baseNotes": [
+        "Gỗ đàn hương",
+        "Hổ phách trắng",
+        "Gỗ tuyết tùng",
+        "Xạ hương trắng"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "ysl-opium-edt",
+      "brand": "YVES SAINT LAURENT",
+      "name": "Opium",
+      "subName": "Eau de Toilette",
+      "gender": "nu",
+      "topNotes": [
+        "Quýt",
+        "Cam bergamot",
+        "Hoa linh lan"
+      ],
+      "middleNotes": [
+        "Mộc dược",
+        "Cẩm chướng",
+        "Nhài"
+      ],
+      "baseNotes": [
+        "Hổ phách",
+        "Hoắc hương",
+        "Vani"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "lalique-encre-noire",
+      "brand": "LALIQUE",
+      "name": "Encre Noire",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "topNotes": [
+        "Bách xanh"
+      ],
+      "middleNotes": [
+        "Cỏ hương bài Bourbon",
+        "Cỏ hương bài Haiti"
+      ],
+      "baseNotes": [
+        "Gỗ cashmere",
+        "Xạ hương"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "jpg-le-male-elixir",
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "Le Male Elixir",
+      "subName": "Parfum",
+      "gender": "nam",
+      "topNotes": [
+        "Oải hương",
+        "Bạc hà"
+      ],
+      "middleNotes": [
+        "Vani",
+        "An tức hương"
+      ],
+      "baseNotes": [
+        "Mật ong",
+        "Đậu Tonka",
+        "Thuốc lá"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "jpg-le-male-edt",
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "Le Male",
+      "subName": "Eau de Toilette",
+      "gender": "nam",
+      "topNotes": [
+        "Oải hương",
+        "Bạc hà",
+        "Bạch đậu khấu",
+        "Cam bergamot",
+        "Ngải cứu"
+      ],
+      "middleNotes": [
+        "Quế",
+        "Hoa cam",
+        "Thì là Ai Cập"
+      ],
+      "baseNotes": [
+        "Vani",
+        "Đậu Tonka",
+        "Hổ phách",
+        "Gỗ đàn hương",
+        "Gỗ tuyết tùng"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "creed-absolu-aventus",
+      "brand": "CREED",
+      "name": "Absolu Aventus",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "topNotes": [
+        "Bưởi",
+        "Cam bergamot",
+        "Tiêu hồng",
+        "Nho đen",
+        "Dứa",
+        "Nhục đậu khấu",
+        "Đinh hương"
+      ],
+      "middleNotes": [
+        "Gừng",
+        "Quế",
+        "Thanh yên",
+        "Bạch đậu khấu",
+        "Hoa hồng"
+      ],
+      "baseNotes": [
+        "Hoắc hương",
+        "Cỏ hương bài",
+        "Rêu sồi",
+        "Ambroxan",
+        "Xạ hương",
+        "Gỗ đàn hương"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "nishane-ani",
+      "brand": "NISHANE",
+      "name": "Ani",
+      "subName": "Extrait de Parfum",
+      "gender": "unisex",
+      "topNotes": [
+        "Gừng",
+        "Cam bergamot",
+        "Tiêu hồng",
+        "Lá xanh"
+      ],
+      "middleNotes": [
+        "Bạch đậu khấu",
+        "Nho đen",
+        "Hoa hồng Thổ Nhĩ Kỳ"
+      ],
+      "baseNotes": [
+        "Vani",
+        "An tức hương",
+        "Gỗ đàn hương",
+        "Gỗ tuyết tùng",
+        "Hoắc hương",
+        "Long diên hương",
+        "Xạ hương"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "chanel-allure-homme-edition-blanche",
+      "brand": "CHANEL",
+      "name": "Allure Homme Édition Blanche",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "topNotes": [
+        "Chanh Sicily",
+        "Cam bergamot",
+        "Tiêu hồng"
+      ],
+      "middleNotes": [
+        "Gỗ đàn hương",
+        "Gỗ tuyết tùng",
+        "Vani",
+        "Đậu Tonka"
+      ],
+      "baseNotes": [
+        "Hổ phách",
+        "Cỏ hương bài",
+        "Xạ hương"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "hermes-terre-dhermes-eau-givree",
+      "brand": "HERMÈS",
+      "name": "Terre d'Hermès Eau Givrée",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "topNotes": [
+        "Thanh yên"
+      ],
+      "middleNotes": [
+        "Bách xù",
+        "Tiêu Timur"
+      ],
+      "baseNotes": [
+        "Khoáng chất",
+        "Gỗ"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "guerlain-habit-rouge-parfum",
+      "brand": "GUERLAIN",
+      "name": "Habit Rouge Parfum",
+      "subName": "Parfum",
+      "gender": "nam",
+      "topNotes": [
+        "Cam bergamot"
+      ],
+      "middleNotes": [
+        "Vani",
+        "Rum"
+      ],
+      "baseNotes": [
+        "Hoắc hương",
+        "Gỗ"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "(Chờ nguồn xác minh)",
+      "verdictShort": "NEEDS_SOURCE",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    },
+    {
+      "slug": "guerlain-l-homme-ideal-eau-de-parfum",
+      "brand": "GUERLAIN",
+      "name": "L'Homme Idéal Eau de Parfum",
+      "subName": "Eau de Parfum",
+      "gender": "nam",
+      "topNotes": [
+        "Hạnh nhân",
+        "Gia vị",
+        "Oải hương",
+        "Cam bergamot",
+        "Hương thảo",
+        "Xạ hương"
+      ],
+      "middleNotes": [
+        "Anh đào",
+        "Vani",
+        "Trầm hương",
+        "Hoa hồng Bulgaria"
+      ],
+      "baseNotes": [
+        "Đậu Tonka",
+        "Da thuộc",
+        "Gỗ đàn hương"
+      ],
+      "accords": [],
+      "description": "(Chờ nguồn xác minh)",
+      "verdict": "Hạnh nhân-cherry-da thuộc gourmand, phong cách nam tính hiện đại",
+      "verdictShort": "VERIFIED",
+      "performance": {
+        "longevity": 0,
+        "sillage": 0
+      },
+      "currentSeoTitle": null,
+      "currentMetaDescription": null
+    }
+  ]
+}

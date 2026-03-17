@@ -26,7 +26,7 @@ export interface VibeTag {
 export interface GalleryImage {
     url: string;
     caption?: string;
-    source?: 'studio' | 'fragram' | 'community' | 'owner' | 'amazon';
+    source?: 'studio' | 'fragram' | 'community' | 'owner' | 'amazon' | 'ebay';
     verified?: boolean;
 }
 
@@ -74,6 +74,10 @@ export interface Perfume {
 
     // Smart Tags
     tags: string[];
+
+    // SEO
+    seoTitle?: string;
+    metaDescription?: string;
 
     // Thực tế
     sizes: string[];

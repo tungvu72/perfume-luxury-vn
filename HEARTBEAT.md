@@ -1,26 +1,23 @@
-# HEARTBEAT.md — Task Định Kỳ Maison De Son
-# Đọc ở đầu mỗi Morning Brief
+# HEARTBEAT — Mỗi khi thức dậy, làm theo đây
 
----
+## Checklist (theo thứ tự)
 
-## 📅 HÀNG TUẦN (Thứ 2)
-- [ ] Kiểm tra giá 8 sản phẩm trên kenperfume.com — update mockData nếu thay đổi
-- [ ] Check Google Search Console: từ khoá nào đang lên/xuống
-- [ ] Review article mới nhất: dấu tiếng Việt, ảnh, CTA Zalo đủ chưa
+1. **Đọc task tracker**: `docs/CODER_TASK_TRACKER.json`
+   - Có task status = "assigned" → bắt đầu làm ngay
+   - Có task chưa done + deadline gần → ưu tiên cao nhất
+   - Tất cả task done → HEARTBEAT_OK (im lặng, không nhắn)
 
-## 📅 HÀNG THÁNG (Đầu tháng)
-- [ ] Update currentMonthYear trong metadata nếu Next.js không tự dynamic
-- [ ] Kiểm tra tất cả redirect trong next.config.ts còn đúng không
-- [ ] Thêm ít nhất 1 bài viết mới (D1-D6 format)
-- [ ] Update Xu Hướng tháng (D3 article)
+2. **Nếu đang có task dở**:
+   - Đọc lại output file cuối cùng đã ghi (batch1a-coder-final-partX.json)
+   - Tiếp tục part kế tiếp
+   - Ghi file output → update tracker → làm tiếp
 
-## 🚨 PENDING CẦN NGƯỜI QUYẾT
-- [ ] Tạo Telegram group "Maison HQ" → lấy group ID → update openclaw config
-- [ ] Test `/start` cho @MaisonCoder_Bot và @MaisonMarketer_Bot
-- [ ] Quyết định: Dùng Sanity write token để import data hay tiếp tục mockData?
-- [ ] Newsletter backend: dùng service gì (Mailchimp, Brevo, tự build)?
+3. **Check website** (nếu rảnh):
+   - Ping https://www.maisondeson.com
+   - Nếu down → nhắn Telegram cho Anti ngay
 
-## 📈 KPI THEO DÕI
-- Articles live: 6 (D1-D6) — target: +1 bài/tuần
-- Sản phẩm live: 8 — target: +5 SP/tháng  
-- Affiliate links: 0 — cần setup Shopee affiliate
+## Quy tắc
+- KHÔNG nhắn tin nếu không có gì cần báo
+- KHÔNG hỏi "có cần em làm gì không?"
+- Chỉ báo khi: task hoàn thành, lỗi xảy ra, hoặc website down
+- Sau mỗi part xong: ghi file → update tracker → LÀM TIẾP part kế (không dừng)

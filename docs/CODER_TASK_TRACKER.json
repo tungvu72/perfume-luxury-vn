@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "lastUpdatedBy": "anti",
+  "lastUpdatedAt": "2026-03-16T16:15:00+07:00",
+  "rules": {
+    "coderMustUpdate": "Sau mỗi task hoàn thành, Coder PHẢI cập nhật file này với proof (file changed, line count, timestamp). Nếu không update = chưa làm.",
+    "verifyMethod": "Chạy scripts/verify-coder-work.js để kiểm tra thực tế",
+    "escalation": "Nếu task quá hạn 2 giờ mà không có proof → Anti sẽ ping lại qua Telegram"
+  },
+  "tasks": [
+    {
+      "id": "BATCH-1A-REVIEW",
+      "title": "Review & rewrite 58 seoTitle + metaDescription (Batch 1A)",
+      "assignedTo": "coder",
+      "assignedAt": "2026-03-16T15:30:00+07:00",
+      "deadline": "2026-03-16T20:00:00+07:00",
+      "status": "assigned",
+      "inputFile": "docs/reports/batch1a-coder-handoff.md",
+      "outputExpected": "Object JS với 58 cặp {seoTitle, metaDescription} đã rewrite",
+      "targetFile": "src/constants/mockData.ts",
+      "proof": null,
+      "coderNote": null,
+      "verifiedByAnti": false
+    },
+    {
+      "id": "BATCH-1B-SEO",
+      "title": "Viết final seoTitle + metaDescription cho 17 SP (Batch 1B)",
+      "assignedTo": "coder",
+      "assignedAt": "2026-03-16T15:50:00+07:00",
+      "deadline": "2026-03-16T22:00:00+07:00",
+      "status": "assigned",
+      "inputFile": "docs/reports/batch1b-enriched.json",
+      "outputExpected": "JSON { slug: { seoTitle, metaDescription } } cho 17 SP",
+      "targetFile": "src/constants/mockData.ts",
+      "proof": null,
+      "coderNote": null,
+      "verifiedByAnti": false
+    }
+  ]
+}
