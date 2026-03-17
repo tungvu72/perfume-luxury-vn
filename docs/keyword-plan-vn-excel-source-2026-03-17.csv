@@ -1,0 +1,62 @@
+Bucket,Priority,Keyword,Source,Intent,Difficulty_Assumption,Traffic_Value,Business_Value,Recommended_Format,Target_Page,Week,Reason
+Quick Win,P1,nước hoa nam đi làm,Observed,use-case,Easy,High,High,roundup,product pages nam,1,Keyword sát nhu cầu thực tế và dễ triển khai cho site mới
+Quick Win,P1,nước hoa nam văn phòng,Observed,use-case,Easy,High,High,roundup,product pages nam,1,Cùng cụm intent với đi làm và hợp khí hậu Việt Nam
+Quick Win,P1,nước hoa nam mùa hè 2026,Observed,seasonal,Easy,High,High,roundup,product pages nam,1,Keyword seasonal dễ kéo traffic sớm
+Quick Win,P1,nước hoa nữ thơm lâu cho mùa nóng,Strategic merge,use-case,Easy,High,High,roundup,product pages nữ,1,Long-tail sát intent và dễ internal link sang sản phẩm
+Quick Win,P1,nước hoa nam dưới 1 triệu,Observed,budget,Easy,High,Medium,roundup,product pages nam,1,Traffic đầu funnel lớn cho website mới
+Quick Win,P1,nước hoa nam cho người mới bắt đầu,Observed,beginner,Easy,Medium,High,roundup,product pages nam,1,Dễ rank hơn head term rộng và đúng người mới mua
+Quick Win,P1,nước hoa nam hẹn hò,Observed,use-case,Easy,Medium,High,roundup,product pages nam,2,Intent rõ và dễ viết bài thực dụng
+Quick Win,P1,nước hoa nam được phái nữ thích,Observed,use-case,Easy,High,High,roundup,product pages nam,2,Cách search rất Việt Nam và dễ có click
+Quick Win,P1,nước hoa nam lưu hương lâu,Observed,performance,Easy,High,High,roundup,product pages nam,2,Từ khóa dễ làm listicle và có nhu cầu thật
+Quick Win,P1,nước hoa nam tuổi 25,Observed,audience,Easy,Medium,Medium,roundup,product pages nam,2,Audience long-tail dễ ăn hơn keyword rộng
+Quick Win,P1,nước hoa nam tuổi 30,Observed,audience,Easy,Medium,Medium,roundup,product pages nam,2,Audience long-tail dễ ăn hơn keyword rộng
+Quick Win,P1,nước hoa nào hợp mùa hè Việt Nam,Observed,use-case,Easy,Medium,High,roundup,selected product pages,2,Localized query hợp lợi thế Maison De Son
+Quick Win,P1,cách xịt nước hoa cho thơm lâu,Observed,educational,Easy,High,Medium,educational,knowledge hub,2,Traffic top funnel thực dụng
+Quick Win,P1,xịt nước hoa mấy nhát là đủ,Observed,educational,Easy,Medium,Medium,educational,knowledge hub,2,PAA thật và dễ rank
+Quick Win,P1,xịt nước hoa lên quần áo có được không,Observed,educational,Easy,Medium,Medium,educational,knowledge hub,3,Câu hỏi thực dụng dễ có traffic ổn định
+Quick Win,P1,nước hoa EDT hay EDP,Observed,educational,Easy,High,High,educational,knowledge hub,3,Query nền rất cần cho site mới
+Quick Win,P1,edt edp parfum khác nhau thế nào,Observed,educational,Easy,Medium,Medium,educational,knowledge hub,3,Biến thể long-tail hỗ trợ bài trụ cột
+Quick Win,P1,nước hoa tester có nên mua,Observed,trust,Easy,High,High,trust article,homepage + knowledge hub,3,Sát chuyển đổi và niềm tin
+Quick Win,P1,nước hoa xách tay có tốt không,Observed,trust,Easy,Medium,High,trust article,homepage + knowledge hub,3,Rất hợp thị trường Việt Nam
+Quick Win,P1,batch code nước hoa là gì,Observed,trust,Easy,Medium,Medium,educational,knowledge hub,3,Trust content kéo đúng nhu cầu
+Quick Win,P1,nước hoa thật giả cách phân biệt,Observed,trust,Medium,High,High,trust article,homepage + product/brand pages,4,Traffic + trust đều tốt
+Quick Win,P1,nên mua nước hoa ở đâu uy tín,Observed,trust,Medium,Medium,High,trust article,homepage,4,Giúp chốt niềm tin thương hiệu
+Quick Win,P1,nước hoa chiết có tốt không,Observed,trust,Easy,Medium,Medium,educational,knowledge hub,4,Keyword đời thường và có search thật
+Quick Win,P1,nước hoa mini có dùng được lâu không,Observed,educational,Easy,Low,Medium,educational,knowledge hub,4,Dễ có click từ người mua ngân sách thấp
+Money Page Support,P1,bleu de chanel edp review,Observed,product review,Medium,Medium,High,review,/bleu-chanel-edp,1,Low-hanging fruit cho product page mạnh
+Money Page Support,P1,bleu de chanel có nên mua,Observed,product decision,Medium,Medium,High,review,/bleu-chanel-edp,1,Query sát quyết định mua
+Money Page Support,P1,bleu de chanel giá bao nhiêu,Observed,product price,Medium,Medium,High,review,/bleu-chanel-edp,2,Hỗ trợ intent giá và click thương mại
+Money Page Support,P1,ysl y edp review nam,Observed,product review,Medium,Medium,High,review,/ysl-y-edp,2,Sản phẩm phổ biến và gần mua
+Money Page Support,P1,prada lhomme có thơm không,Observed,product review,Medium,Medium,High,review,/prada-lhomme,2,Query tự nhiên đúng kiểu người Việt
+Money Page Support,P1,acqua di gio profondo review,Observed,product review,Medium,Medium,High,review,/acqua-di-gio-profondo,3,Review intent rõ
+Money Page Support,P1,creed aventus giá bao nhiêu,Observed,product price,Medium,Medium,High,review,/creed-aventus,3,High commercial intent
+Money Page Support,P1,montblanc explorer có thơm không,Observed,product review,Medium,Medium,High,review,/montblanc-explorer,3,Sát nhu cầu research trước mua
+Money Page Support,P1,versace eros có nên mua,Observed,product decision,Medium,Medium,High,review,/versace-eros,4,Money intent tốt
+Money Page Support,P1,tom ford noir extreme review,Observed,product review,Medium,Medium,High,review,/tom-ford-noir-extreme,4,Money intent tốt
+Comparison,P1,dior sauvage vs bleu de chanel,Observed,comparison,Medium,Medium,High,comparison,/dior-sauvage + /bleu-chanel-edp,2,Comparison đáng làm vì nhu cầu rõ
+Comparison,P2,nước hoa nam mùi giống aventus,Observed,comparison,Medium,Medium,High,comparison,related product pages,5,Clone intent rất thực tế ở VN
+Comparison,P2,dior sauvage edt hay edp,Observed,comparison,Medium,Low,High,comparison,/dior-sauvage-edt + /dior-sauvage-edp,5,Query variant rõ ràng
+Comparison,P2,another 13 vs prada lhomme,Strategic merge,comparison,Medium,Low,Medium,comparison,/another-13 + /prada-lhomme,6,So sánh hợp gu dùng hằng ngày
+Comparison,P2,bleu de chanel edp vs ysl y edp,Strategic merge,comparison,Medium,Medium,High,comparison,/bleu-chanel-edp + /ysl-y-edp,6,So sánh có giá trị thương mại cao
+Build Authority,P2,nước hoa nam,Measured,generic commercial,Hard,Very High,High,hub / category,/bang-xep-hang,7,Head term lớn cần build dần bằng cluster hỗ trợ
+Build Authority,P2,nước hoa nữ,Measured,generic commercial,Hard,Very High,High,hub / category,/bang-xep-hang,7,Head term lớn cần build dần bằng cluster hỗ trợ
+Build Authority,P2,nước hoa Dior,Measured,brand,Hard,Very High,High,brand hub,/dior,7,Brand lớn có volume mạnh nhưng cạnh tranh cao
+Build Authority,P2,nước hoa Yves Saint Laurent,Measured,brand,Hard,Very High,High,brand hub,/yves-saint-laurent,7,Build authority theo brand lớn
+Build Authority,P2,nước hoa Le Labo,Measured,brand,Hard,High,High,brand hub,/le-labo,7,Brand niche nhưng volume đẹp
+Build Authority,P2,nước hoa Gucci,Measured,brand,Hard,High,High,brand hub,/gucci,8,Build authority theo brand lớn
+Build Authority,P2,nước hoa Prada,Measured,brand,Hard,Medium,High,brand hub,/prada,8,Support brand page
+Build Authority,P2,le labo 13,Measured,product,Hard,High,High,review + guide,/another-13,8,Volume lớn nhưng khó hơn long-tail review
+Build Authority,P2,le labo 33,Measured,product,Hard,High,High,review + guide,/santal-33,8,Volume lớn nhưng khó hơn long-tail review
+Build Authority,P2,nước hoa delina,Measured,product,Hard,High,High,review + guide,/parfums-de-marly-delina,8,Query product mạnh
+Build Authority,P3,nước hoa gucci bloom,Measured,product,Medium,Medium,High,review + guide,/gucci-bloom,later,Product support theo brand cluster
+Build Authority,P3,nước hoa another 13,Measured,product,Medium,Medium,High,review + guide,/another-13,later,Product support
+Build Authority,P3,nước hoa coach,Measured,product,Medium,Medium,Medium,review + guide,/coach-for-men,later,Product support
+Build Authority,P3,nước hoa bleu chanel nam,Measured,product,Medium,Medium,High,review + guide,/bleu-chanel-edp,later,Variant query support
+System,Horizon,Top nước hoa nam đi làm mùa nóng,Strategic merge,editorial system,Easy,High,High,roundup,product pages nam,1,Bài trụ cột kéo internal links
+System,Horizon,Top nước hoa nữ thơm lâu cho mùa hè,Strategic merge,editorial system,Easy,High,High,roundup,product pages nữ,1,Bài trụ cột kéo internal links
+System,Horizon,Cách phân biệt nước hoa thật giả,Strategic merge,editorial system,Medium,High,High,trust article,homepage + products,2,Trust pillar
+System,Horizon,EDT vs EDP khi sống ở khí hậu nóng ẩm VN,Strategic merge,editorial system,Easy,Medium,High,educational,knowledge hub,2,Educational pillar
+System,Horizon,Dior Sauvage vs Bleu de Chanel,Strategic merge,editorial system,Medium,Medium,High,comparison,/dior-sauvage + /bleu-chanel-edp,2,Comparison pillar
+System,Horizon,Top nước hoa nam dưới 1 triệu,Strategic merge,editorial system,Easy,High,Medium,roundup,selected product pages,3,Traffic pillar
+System,Horizon,Có nên mua tester không,Strategic merge,editorial system,Easy,Medium,High,trust article,homepage + support articles,3,Trust pillar
+System,Horizon,Nước hoa nam cho người mới bắt đầu,Strategic merge,editorial system,Easy,Medium,High,roundup,starter-friendly products,3,Onboarding pillar

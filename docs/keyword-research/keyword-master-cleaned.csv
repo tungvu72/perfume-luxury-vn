@@ -1,0 +1,54 @@
+keyword,source,measured_or_observed,note
+nước hoa nam đi làm,Google related,observed,use-case cluster - nhiều bài top 10
+nước hoa nam văn phòng,Google related,observed,synonym đi làm
+nước hoa nam mùa hè 2026,Google related,observed,seasonal cluster
+nước hoa nam hẹn hò,Google related,observed,use-case cluster
+nước hoa nam dưới 1 triệu,Google related,observed,budget cluster
+nước hoa thật giả cách phân biệt,Google related,observed,trust cluster
+nước hoa EDT hay EDP,Google related,observed,educational cluster
+cách xịt nước hoa cho thơm lâu,Google related,observed,educational practical
+cách xịt nước hoa mùa nóng,Google related,observed,educational + seasonal
+dior sauvage vs bleu de chanel,Google related,observed,comparison cluster
+bleu de chanel edp review,Google related,observed,product + review intent
+bleu de chanel có nên mua,Google related,observed,product + buying hesitation
+nước hoa nam tặng bạn gái,Google related,observed,gift cluster
+nước hoa quà tặng nam,Google related,observed,gift cluster variant
+nước hoa nam đi học,Google autocomplete,observed,student use-case
+nước hoa nam giá rẻ,Google autocomplete,observed,budget cluster
+nước hoa nam được phái nữ thích,Google autocomplete,observed,attraction cluster
+nước hoa nam lưu hương lâu,Google autocomplete,observed,performance cluster
+nước hoa nam thơm nhất,Google autocomplete,observed,ranking cluster
+nước hoa nam bán chạy nhất,Google autocomplete,observed,popularity cluster
+nước hoa nam chính hãng,Google autocomplete,observed,trust cluster
+nước hoa tester có nên mua,Google PAA,observed,trust/buying hesitation
+nước hoa xách tay có tốt không,Google PAA,observed,trust cluster
+batch code nước hoa là gì,Google PAA,observed,educational/trust
+nước hoa lưu hương bao lâu,Google PAA,observed,educational
+xịt nước hoa lên quần áo có được không,Google PAA,observed,educational practical
+xịt nước hoa mấy nhát là đủ,Google PAA,observed,educational practical
+nước hoa nào hợp mùa hè Việt Nam,Google PAA,observed,seasonal + localized
+edt edp parfum khác nhau thế nào,Google PAA,observed,educational
+nên mua nước hoa ở đâu uy tín,Google PAA,observed,trust/buying
+clean office scent,Google related,observed,emerging trend
+nước hoa sạch dễ chịu,Google related,observed,VN variant of clean office scent
+mùi hương công sở,Google related,observed,VN phrasing
+nước hoa không gây khó chịu,Google autocomplete,observed,comfort cluster
+dior sauvage giá bao nhiêu,Google autocomplete,observed,product + price intent
+dior sauvage edt hay edp,Google autocomplete,observed,product + comparison
+bleu de chanel giá bao nhiêu,Google autocomplete,observed,product + price intent
+acqua di gio profondo review,Google autocomplete,observed,product + review
+prada lhomme có thơm không,Google autocomplete,observed,product + review
+ysl y edp review nam,Google autocomplete,observed,product + review
+versace eros có nên mua,Google autocomplete,observed,product + buying hesitation
+tom ford noir extreme review,Google autocomplete,observed,product + review
+creed aventus giá bao nhiêu,Google autocomplete,observed,product + price intent
+montblanc explorer có thơm không,Google autocomplete,observed,product + review
+nước hoa nam mùi giống aventus,Google autocomplete,observed,clone/dupe cluster
+armaf club de nuit intense review,Google autocomplete,observed,clone + review
+nước hoa chiết có tốt không,Google PAA,observed,trust/buying hesitation
+nước hoa mini có dùng được lâu không,Google PAA,observed,educational + budget
+sospiro vibrato mùa hè,Google related,observed,emerging product + seasonal
+versace eros energy 2026,Google related,observed,new launch
+nước hoa nam cho người mới bắt đầu,Google autocomplete,observed,beginner cluster
+nước hoa nam tuổi 25,Google autocomplete,observed,age-based
+nước hoa nam tuổi 30,Google autocomplete,observed,age-based

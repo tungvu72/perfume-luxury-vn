@@ -1,0 +1,42 @@
+Priority,Keyword_or_Topic,Source,Type,Intent,Cluster,Recommended_Format,Primary_Destination,Status,Week,Notes
+P1,nước hoa nam đi làm,Observed,use-case,transactional + informational,nam / office,roundup,product pages nam,ready,1,Keyword từ Anti expansion
+P1,nước hoa nam văn phòng,Observed,use-case,transactional,nam / office,roundup,product pages nam,ready,1,Keyword từ Anti expansion
+P1,nước hoa nam mùa hè 2026,Observed,seasonal,transactional + informational,nam / mùa nóng,roundup,product pages nam,ready,2,Keyword từ Anti expansion
+P1,nước hoa nữ thơm lâu cho mùa nóng,Strategic merge,use-case,transactional,nữ / mùa nóng,roundup,product pages nữ,ready,2,Gộp từ plan chiến lược
+P1,nước hoa thật giả cách phân biệt,Observed,trust,informational + conversion,authenticity,educational / trust,homepage + brand/product pages,ready,1,Trust content rất quan trọng
+P1,nước hoa EDT hay EDP,Observed,educational,informational,practical education,educational,related product pages,ready,1,Phù hợp cluster kiến thức
+P1,cách xịt nước hoa cho thơm lâu,Observed,educational,informational,practical education,educational,relevant roundup / products,ready,3,How-to có thể kéo traffic đều
+P1,bleu de chanel edp review,Observed,product intent,review before buy,product review,review,/bleu-chanel-edp,ready,1,Low-hanging fruit cho product page
+P1,bleu de chanel có nên mua,Observed,product intent,buying hesitation,product review,review / decision article,/bleu-chanel-edp,ready,2,Có thể gộp hoặc tách bài
+P1,bleu de chanel giá bao nhiêu,Observed,product intent,price intent,product review,review / pricing intent,/bleu-chanel-edp,ready,3,Nên hỗ trợ query giá
+P1,dior sauvage vs bleu de chanel,Observed,comparison,comparison,vs,head-to-head,/dior-sauvage + /bleu-chanel-edp,ready,2,Bài so sánh rất đáng làm
+P1,ysl y edp review nam,Observed,product intent,review before buy,product review,review,/ysl-y-edp,ready,3,Product intent mạnh
+P1,prada lhomme có thơm không,Observed,product intent,fit / scent check,product review,review,/prada-lhomme,ready,3,Hợp giọng Maison De Son
+P1,acqua di gio profondo review,Observed,product intent,review before buy,product review,review,/acqua-di-gio-profondo,ready,4,Product review tiềm năng
+P1,nước hoa nam dưới 1 triệu,Observed,budget,transactional,budget,roundup,selected product pages,ready,2,Budget cluster dễ kéo đầu funnel
+P1,nước hoa tester có nên mua,Observed,trust,buying hesitation,buying trust,educational / trust,homepage + support articles,ready,2,Trust content sát mua
+P2,nước hoa nam hẹn hò,Observed,use-case,transactional,dating,roundup,product pages nam,queued,4,Use-case mạnh
+P2,nước hoa nam được phái nữ thích,Observed,use-case,transactional,attraction,roundup,product pages nam,queued,6,Query đời thường Việt Nam
+P2,nước hoa nam lưu hương lâu,Observed,performance,transactional,performance,roundup,product pages nam,queued,5,Dễ kéo volume ổn
+P2,nước hoa nam cho người mới bắt đầu,Observed,beginner,transactional,beginner,roundup / guide,starter-friendly products,queued,5,Onboarding cluster
+P2,nước hoa nam tuổi 25,Observed,audience,transactional,age-based,roundup,product pages nam,queued,6,Audience segmentation
+P2,nước hoa nam tuổi 30,Observed,audience,transactional,age-based,roundup,product pages nam,queued,6,Audience segmentation
+P2,nước hoa xách tay có tốt không,Observed,trust,buying hesitation,buying trust,trust article,homepage,queued,3,Liên quan model bán hàng hiện tại
+P2,batch code nước hoa là gì,Observed,educational,informational,authenticity,educational,trust articles,queued,5,Support authenticity cluster
+P2,nước hoa lưu hương bao lâu,Observed,educational,informational,performance,educational,review pages,queued,4,Hay gặp trong PAA
+P2,xịt nước hoa lên quần áo có được không,Observed,educational,informational,practical education,educational,how-to articles,queued,6,How-to thực dụng
+P2,xịt nước hoa mấy nhát là đủ,Observed,educational,informational,practical education,educational,how-to articles,queued,4,How-to thực dụng
+P2,creed aventus giá bao nhiêu,Observed,product intent,price intent,product review,review / pricing,/creed-aventus,queued,5,Query gần mua
+P2,montblanc explorer có thơm không,Observed,product intent,review before buy,product review,review,/montblanc-explorer,queued,5,Product review
+P2,versace eros có nên mua,Observed,product intent,buying hesitation,product review,review,/versace-eros,queued,6,Product review
+P2,tom ford noir extreme review,Observed,product intent,review before buy,product review,review,/tom-ford-noir-extreme,queued,6,Product review
+P3,nước hoa nam,Measured,head term,mixed,generic commercial,hub / listing,/bang-xep-hang + product pages,later,7,Head term lớn khó ăn nhanh
+P3,nước hoa nữ,Measured,head term,mixed,generic commercial,hub / listing,/bang-xep-hang + product pages,later,7,Head term lớn khó ăn nhanh
+P3,nước hoa Dior,Measured,brand,mixed,brand hub,brand page support,/dior,later,7,Support brand authority
+P3,nước hoa Yves Saint Laurent,Measured,brand,mixed,brand hub,brand page support,/yves-saint-laurent,later,7,Support brand authority
+P3,nước hoa Le Labo,Measured,brand,mixed,brand hub,brand page support,/le-labo,later,7,Support brand authority
+P3,nước hoa Gucci,Measured,brand,mixed,brand hub,brand page support,/gucci,later,8,Support brand authority
+P3,le labo 13,Measured,product,mixed,product / brand,review + guide,/another-13,later,8,Measured volume lớn
+P3,le labo 33,Measured,product,mixed,product / brand,review + guide,/santal-33,later,8,Measured volume lớn
+P3,nước hoa delina,Measured,product,mixed,product / brand,review + guide,/parfums-de-marly-delina,later,8,Measured volume lớn
+P3,nước hoa prada,Measured,brand,mixed,brand hub,brand page support,/prada,later,8,Brand support
