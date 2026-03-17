@@ -1,7 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "lastUpdatedBy": "anti",
-  "lastUpdatedAt": "2026-03-16T16:15:00+07:00",
+  "lastUpdatedAt": "2026-03-17T22:55:00+07:00",
   "rules": {
     "coderMustUpdate": "Sau mỗi task hoàn thành, Coder PHẢI cập nhật file này với proof (file changed, line count, timestamp). Nếu không update = chưa làm.",
     "verifyMethod": "Chạy scripts/verify-coder-work.js để kiểm tra thực tế",
@@ -14,13 +14,14 @@
       "assignedTo": "coder",
       "assignedAt": "2026-03-16T15:30:00+07:00",
       "deadline": "2026-03-16T20:00:00+07:00",
-      "status": "assigned",
+      "status": "partial",
       "inputFile": "docs/reports/batch1a-coder-handoff.md",
       "outputExpected": "Object JS với 58 cặp {seoTitle, metaDescription} đã rewrite",
       "targetFile": "src/constants/mockData.ts",
-      "proof": null,
-      "coderNote": null,
-      "verifiedByAnti": false
+      "proof": "docs/reports/batch1a-coder-final-part1.json thru part6.json — 6 files tồn tại thật",
+      "coderNote": "Coder đã tạo 6 JSON report files nhưng CHƯA inject vào mockData.ts. seoTitle count vẫn = 58 (baseline). mockData.ts last modified 2026-03-16T12:01. Verify script: FAIL — seoTitle chưa tăng.",
+      "verifiedByAnti": true,
+      "antiNote": "Output file có, nhưng chưa merge vào code. Cần Coder chạy inject script để hoàn thành."
     },
     {
       "id": "BATCH-1B-SEO",
@@ -28,13 +29,14 @@
       "assignedTo": "coder",
       "assignedAt": "2026-03-16T15:50:00+07:00",
       "deadline": "2026-03-16T22:00:00+07:00",
-      "status": "assigned",
+      "status": "partial",
       "inputFile": "docs/reports/batch1b-enriched.json",
       "outputExpected": "JSON { slug: { seoTitle, metaDescription } } cho 17 SP",
       "targetFile": "src/constants/mockData.ts",
-      "proof": null,
-      "coderNote": null,
-      "verifiedByAnti": false
+      "proof": "docs/reports/batch1b-coder-final.json — file tồn tại thật",
+      "coderNote": "Coder đã tạo batch1b-coder-final.json nhưng CHƯA inject vào mockData.ts. Verify script: FAIL — seoTitle count không tăng.",
+      "verifiedByAnti": true,
+      "antiNote": "Output file có, chưa merge vào code."
     }
   ]
 }

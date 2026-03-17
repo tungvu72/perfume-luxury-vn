@@ -124,7 +124,7 @@ Còn nếu gu của bạn là mùi phải đậm, tối và thật khác biệt,
 
 ## Maison De Son nhìn xu hướng này ra sao?
 
-Bọn tao không xem đây là một trào lưu nổi lên cho vui rồi sớm biến mất.
+Maison De Son không xem đây là một trào lưu nổi lên cho vui rồi sớm biến mất.
 
 Nó phản ánh chuyện người dùng đang chọn nước hoa thực tế hơn trước. Họ ít bị cuốn hoàn toàn bởi cảm giác wow ban đầu, và để ý nhiều hơn đến việc mùi đó có hợp đời sống của mình hay không.
 

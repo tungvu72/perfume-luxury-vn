@@ -1,0 +1,54 @@
+keyword,sourceType,sourceDetail,market,note,observedAt,evidence
+nước hoa nam đi làm,related,Google search results,VN,use-case cluster,2026-03-17,Xuất hiện nhiều bài viết top 10 trên Google VN từ laluz.vn tinhte.vn orchard.vn
+nước hoa nam văn phòng,related,Google search results,VN,use-case cluster - synonym đi làm,2026-03-17,Xuất hiện nhiều bài viết top 10 trên Google VN từ laluz.vn orchard.vn tinhte.vn
+nước hoa nam mùa hè 2026,related,Google search results,VN,use-case + seasonal,2026-03-17,Bài viết top từ chiaki.vn apaniche.vn orchard.vn nuochoamc.com
+nước hoa nam hẹn hò,related,Google search results,VN,use-case cluster,2026-03-17,Bài viết top từ coolmate.me vuahanghieu.com xomthom.vn tinhte.vn
+nước hoa nam dưới 1 triệu,related,Google search results,VN,budget cluster,2026-03-17,Bài viết top từ coolmate.me apaniche.vn orchard.vn tienperfume.vn
+nước hoa thật giả cách phân biệt,related,Google search results,VN,trust cluster,2026-03-17,Bài viết top từ armafvietnam.vn orchard.vn lvperfume.vn vuahanghieu.com
+nước hoa EDT hay EDP,related,Google search results,VN,educational cluster,2026-03-17,Bài viết top từ codedeco.art armafvietnam.vn orchard.vn
+cách xịt nước hoa cho thơm lâu,related,Google search results,VN,educational practical,2026-03-17,Bài viết top từ elle.vn vuahanghieu.com kenh14.vn suckhoedoisong.vn
+cách xịt nước hoa mùa nóng,related,Google search results,VN,educational + seasonal,2026-03-17,Xuất hiện trong kết quả Google VN liên quan đến giữ mùi mùa hè
+dior sauvage vs bleu de chanel,related,Google search results,VN,comparison cluster,2026-03-17,Bài viết so sánh chi tiết từ vuahanghieu.com nuochoamc.com tinhte.vn dnaperfumo.com
+bleu de chanel edp review,related,Google search results,VN,product + review intent,2026-03-17,Bài viết review từ missi.vn nuochoamc.com mfparis.vn youtube.com
+bleu de chanel có nên mua,related,Google search results,VN,product + buying hesitation,2026-03-17,Xuất hiện trong kết quả Google VN kết hợp review và buying decision
+nước hoa nam tặng bạn gái,related,Google search results,VN,gift cluster,2026-03-17,Bài viết từ coolmate.me vuahanghieu.com afamily.vn fanmen.vn
+nước hoa quà tặng nam,related,Google search results,VN,gift cluster - variant,2026-03-17,Xuất hiện trong kết quả liên quan khi tìm nước hoa tặng
+nước hoa nam đi học,autocomplete,Google autocomplete observed,VN,use-case cluster - student,2026-03-17,Gợi ý xuất hiện khi gõ nước hoa nam đi trên Google VN
+nước hoa nam giá rẻ,autocomplete,Google autocomplete observed,VN,budget cluster,2026-03-17,Gợi ý phổ biến khi gõ nước hoa nam trên Google VN
+nước hoa nam được phái nữ thích,autocomplete,Google autocomplete observed,VN,attraction/appeal cluster,2026-03-17,Gợi ý xuất hiện khi gõ nước hoa nam được trên Google VN
+nước hoa nam lưu hương lâu,autocomplete,Google autocomplete observed,VN,performance cluster,2026-03-17,Gợi ý phổ biến khi gõ nước hoa nam lưu trên Google VN
+nước hoa nam thơm nhất,autocomplete,Google autocomplete observed,VN,ranking/best cluster,2026-03-17,Gợi ý phổ biến khi gõ nước hoa nam thơm trên Google VN
+nước hoa nam bán chạy nhất,autocomplete,Google autocomplete observed,VN,ranking/popularity cluster,2026-03-17,Gợi ý xuất hiện khi gõ nước hoa nam bán trên Google VN
+nước hoa nam chính hãng,autocomplete,Google autocomplete observed,VN,trust cluster,2026-03-17,Gợi ý phổ biến khi gõ nước hoa nam chính trên Google VN
+nước hoa tester có nên mua,paa,Google People Also Ask,VN,trust/buying hesitation,2026-03-17,Câu hỏi xuất hiện trong PAA khi search nước hoa thật giả
+nước hoa xách tay có tốt không,paa,Google People Also Ask,VN,trust cluster,2026-03-17,Câu hỏi xuất hiện trong PAA khi search nước hoa chính hãng
+batch code nước hoa là gì,paa,Google People Also Ask,VN,educational/trust cluster,2026-03-17,Câu hỏi xuất hiện trong PAA khi search cách phân biệt nước hoa
+nước hoa lưu hương bao lâu,paa,Google People Also Ask,VN,educational cluster,2026-03-17,Câu hỏi xuất hiện trong PAA khi search EDT vs EDP
+xịt nước hoa lên quần áo có được không,paa,Google People Also Ask,VN,educational practical,2026-03-17,Câu hỏi xuất hiện trong PAA khi search cách xịt nước hoa
+xịt nước hoa mấy nhát là đủ,paa,Google People Also Ask,VN,educational practical,2026-03-17,Câu hỏi xuất hiện trong PAA khi search cách xịt nước hoa
+nước hoa nào hợp mùa hè Việt Nam,paa,Google People Also Ask,VN,use-case + seasonal + localized,2026-03-17,Câu hỏi xuất hiện trong PAA khi search nước hoa mùa hè
+edt edp parfum khác nhau thế nào,paa,Google People Also Ask,VN,educational cluster,2026-03-17,Câu hỏi xuất hiện trong PAA khi search EDT hay EDP
+nên mua nước hoa ở đâu uy tín,paa,Google People Also Ask,VN,trust/buying cluster,2026-03-17,Câu hỏi xuất hiện trong PAA khi search nước hoa chính hãng
+clean office scent,related,Google search related,VN,emerging trend,2026-03-17,Cụm từ xuất hiện trong các cuộc thảo luận nước hoa đi làm và xu hướng 2026
+nước hoa sạch dễ chịu,related,Google search related,VN,emerging trend - VN variant,2026-03-17,Liên quan đến xu hướng clean office scent - biến thể tiếng Việt
+mùi hương công sở,related,Google search related,VN,use-case cluster - VN phrasing,2026-03-17,Biến thể tiếng Việt cho clean office scent
+nước hoa không gây khó chịu,autocomplete,Google autocomplete observed,VN,trust/comfort cluster,2026-03-17,Gợi ý xuất hiện khi search nước hoa văn phòng
+dior sauvage giá bao nhiêu,autocomplete,Google autocomplete observed,VN,product + price intent,2026-03-17,Gợi ý khi gõ dior sauvage giá trên Google VN
+dior sauvage edt hay edp,autocomplete,Google autocomplete observed,VN,product + comparison,2026-03-17,Gợi ý khi gõ dior sauvage edt trên Google VN
+bleu de chanel giá bao nhiêu,autocomplete,Google autocomplete observed,VN,product + price intent,2026-03-17,Gợi ý khi gõ bleu de chanel giá trên Google VN
+acqua di gio profondo review,autocomplete,Google autocomplete observed,VN,product + review intent,2026-03-17,Gợi ý khi gõ acqua di gio profondo trên Google VN
+prada lhomme có thơm không,autocomplete,Google autocomplete observed,VN,product + review intent,2026-03-17,Gợi ý khi gõ prada lhomme trên Google VN
+ysl y edp review nam,autocomplete,Google autocomplete observed,VN,product + review intent,2026-03-17,Gợi ý khi gõ ysl y edp trên Google VN
+versace eros có nên mua,autocomplete,Google autocomplete observed,VN,product + buying hesitation,2026-03-17,Gợi ý khi gõ versace eros có trên Google VN
+tom ford noir extreme review,autocomplete,Google autocomplete observed,VN,product + review intent,2026-03-17,Gợi ý khi gõ tom ford noir extreme trên Google VN
+creed aventus giá bao nhiêu,autocomplete,Google autocomplete observed,VN,product + price intent,2026-03-17,Gợi ý khi gõ creed aventus giá trên Google VN
+montblanc explorer có thơm không,autocomplete,Google autocomplete observed,VN,product + review intent,2026-03-17,Gợi ý khi gõ montblanc explorer trên Google VN
+nước hoa nam mùi giống aventus,autocomplete,Google autocomplete observed,VN,comparison + clone cluster,2026-03-17,Gợi ý phổ biến cho clone/dupe seekers
+armaf club de nuit intense review,autocomplete,Google autocomplete observed,VN,product + review + clone,2026-03-17,Gợi ý liên quan khi search Aventus clone
+nước hoa chiết có tốt không,paa,Google People Also Ask,VN,trust/buying hesitation,2026-03-17,Câu hỏi xuất hiện trong PAA khi search nước hoa giá rẻ
+nước hoa mini có dùng được lâu không,paa,Google People Also Ask,VN,educational + budget,2026-03-17,Câu hỏi xuất hiện trong PAA khi search nước hoa dưới 1 triệu
+sospiro vibrato mùa hè,related,Google search related,VN,product + seasonal - emerging,2026-03-17,Xuất hiện trong bài viết xu hướng nước hoa mùa hè 2026 từ apaniche.vn
+versace eros energy 2026,related,Google search related,VN,product + new launch,2026-03-17,Xuất hiện trong bài viết nước hoa mùa hè 2026 từ chiaki.vn armafvietnam.vn
+nước hoa nam cho người mới bắt đầu,autocomplete,Google autocomplete observed,VN,beginner cluster,2026-03-17,Gợi ý khi gõ nước hoa nam cho người trên Google VN
+nước hoa nam tuổi 25,autocomplete,Google autocomplete observed,VN,age-based cluster,2026-03-17,Gợi ý khi gõ nước hoa nam tuổi trên Google VN
+nước hoa nam tuổi 30,autocomplete,Google autocomplete observed,VN,age-based cluster,2026-03-17,Gợi ý khi gõ nước hoa nam tuổi trên Google VN
