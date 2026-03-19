@@ -1,175 +1,181 @@
-﻿@import "tailwindcss";
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════
+   DESIGN TOKENS — Maison De Son V2
+   Fragrantica-inspired, authority-style
+   Keep structure clean for future dark mode
+   ═══════════════════════════════════════════ */
 
 :root {
+  /* ── Core palette (raw values for CSS var usage) ── */
+  --color-bg: #FFFFFF;
+  --color-bg-subtle: #F8FAFB;
+  --color-bg-muted: #F1F5F5;
+  --color-surface: #FFFFFF;
+  --color-surface-raised: #F8FAFB;
+
+  --color-text: #1A1D21;
+  --color-text-secondary: #5A6270;
+  --color-text-muted: #8E95A2;
+
+  /* ── Brand colors ── */
+  --color-primary: #0D7377;
+  --color-primary-hover: #0A5C5F;
+  --color-primary-light: #E6F3F3;
+  --color-primary-subtle: #F0F8F8;
+
+  --color-accent: #DC2626;
+  --color-accent-hover: #B91C1C;
+
+  /* ── Borders ── */
+  --color-border: #E5E7EB;
+  --color-border-subtle: #F0F1F3;
+
+  /* ── Functional ── */
+  --color-success: #059669;
+  --color-warning: #D97706;
+  --color-shopee: #EE4D2D;
+
+  /* ── Shadows ── */
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+  --shadow-lg: 0 12px 40px rgba(0,0,0,0.10);
+  --shadow-card: 0 2px 8px rgba(13,115,119,0.06);
+
+  /* ── Radius ── */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+
+  /* ── Legacy compat (used by Header, Footer, other old components) ── */
   --background: #FFFFFF;
-  --foreground: #1C1C1C;
-  --primary: #C5A059;
-  --text-light: #666666;
-  --card-bg: #F9F9F9;
-  --border: #E8E8E8;
+  --foreground: #1A1D21;
+  --primary: #0D7377;
+  --text-light: #5A6270;
+  --card-bg: #F8FAFB;
+  --border: #E5E7EB;
   --shopee: #EE4D2D;
 }
 
+/* ── Tailwind v4 theme integration ── */
+/* IMPORTANT: Use direct values here, NOT var() to `:root` vars with same name.
+   Tailwind v4 @theme generates CSS properties that would create circular refs. */
 @theme {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --color-primary: var(--primary);
-  --color-card: var(--card-bg);
-  --color-border: var(--border);
-  --color-shopee: var(--shopee);
+  --color-background: #FFFFFF;
+  --color-foreground: #1A1D21;
+  --color-primary: #0D7377;
+  --color-card: #F8FAFB;
+  --color-border: #E5E7EB;
+  --color-shopee: #EE4D2D;
 
-  --font-serif: var(--font-playfair), serif;
-  --font-sans: var(--font-inter), sans-serif;
+  --font-serif: var(--font-playfair), Georgia, serif;
+  --font-sans: var(--font-inter), system-ui, sans-serif;
 
   @keyframes fade-up {
-    from {
-      opacity: 0;
-      transform: translateY(30px);
-    }
-
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
   }
 
   @keyframes pulse-soft {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
 
-    0%,
-    100% {
-      opacity: 1;
-    }
+  @keyframes slide-in {
+    from { opacity: 0; transform: translateX(-10px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
 
-    50% {
-      opacity: 0.7;
-    }
+  @keyframes bar-fill {
+    from { width: 0; }
   }
 
   --animate-pulse-soft: pulse-soft 2s ease-in-out infinite;
   --animate-fade-up: fade-up 0.5s ease-out forwards;
+  --animate-slide-in: slide-in 0.4s ease-out forwards;
+  --animate-bar-fill: bar-fill 0.8s ease-out forwards;
 }
 
+/* ═══════════════════════════════════════════
+   BASE STYLES
+   ═══════════════════════════════════════════ */
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: var(--font-inter), sans-serif;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-inter), system-ui, sans-serif;
   line-height: 1.6;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-h1,
-h2,
-h3,
-.font-serif {
-  font-family: var(--font-playfair), serif;
+h1, h2, h3, .font-serif {
+  font-family: var(--font-playfair), Georgia, serif;
 }
 
-/* Mobile typography optimization */
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background: rgba(13, 115, 119, 0.15);
+  color: inherit;
+}
+
+/* ═══════════════════════════════════════════
+   MOBILE TYPOGRAPHY
+   ═══════════════════════════════════════════ */
+
 @media (max-width: 768px) {
-  body {
-    font-size: 16px;
-    line-height: 1.6;
-  }
-
-  p,
-  span,
-  div,
-  li,
-  a,
-  label,
-  button {
-    font-size: min(16px, 1rem);
-  }
-
-  h1 {
-    font-size: 28px;
-    line-height: 1.2;
-  }
-
-  h2 {
-    font-size: 24px;
-    line-height: 1.3;
-  }
-
-  h3 {
-    font-size: 20px;
-    line-height: 1.4;
-  }
-
-  h4 {
-    font-size: 18px;
-    line-height: 1.4;
-  }
-
-  .prose,
-  .prose-sm {
-    font-size: 16px;
-    line-height: 1.7;
-  }
-
-  /* Ensure touch targets */
-  button,
-  a,
-  input,
-  select,
-  textarea {
-    min-height: 44px;
-    min-width: 44px;
-  }
+  body { font-size: 16px; line-height: 1.6; }
+  p, span, div, li, a, label, button { font-size: min(16px, 1rem); }
+  h1 { font-size: 28px; line-height: 1.2; }
+  h2 { font-size: 24px; line-height: 1.3; }
+  h3 { font-size: 20px; line-height: 1.4; }
+  h4 { font-size: 18px; line-height: 1.4; }
+  button, a, input, select, textarea { min-height: 44px; min-width: 44px; }
 }
 
-/* Hide scrollbar utility */
+/* ═══════════════════════════════════════════
+   UTILITY CLASSES
+   ═══════════════════════════════════════════ */
+
 .no-scrollbar {
   -ms-overflow-style: none;
-  /* IE / Edge */
   scrollbar-width: none;
-  /* Firefox */
 }
-
 .no-scrollbar::-webkit-scrollbar {
   display: none;
-  /* Chrome / Safari / Opera */
 }
 
-/* ─── Article body premium typography ─── */
+/* ═══════════════════════════════════════════
+   ARTICLE BODY (preserved from v1)
+   ═══════════════════════════════════════════ */
+
 .article-body {
-  font-family: var(--font-inter), 'Inter', system-ui, -apple-system, sans-serif !important;
+  font-family: var(--font-inter), 'Inter', system-ui, sans-serif !important;
 }
 
-.article-body h1,
-.article-body h2,
-.article-body h3,
-.article-body h4 {
-  font-family: var(--font-inter), 'Inter', system-ui, -apple-system, sans-serif !important;
+.article-body h1, .article-body h2, .article-body h3, .article-body h4 {
+  font-family: var(--font-inter), 'Inter', system-ui, sans-serif !important;
   letter-spacing: -0.015em;
 }
 
-/* Desktop: heading dùng Playfair Display (serif) để phân biệt với body text */
 @media (min-width: 769px) {
-
-  .article-body h1,
-  .article-body h2,
-  .article-body h3,
-  .article-body h4 {
+  .article-body h1, .article-body h2, .article-body h3, .article-body h4 {
     font-family: var(--font-playfair), 'Playfair Display', Georgia, serif !important;
     letter-spacing: -0.02em;
   }
 }
 
-.article-body p,
-.article-body li,
-.article-body span,
-.article-body blockquote {
-  font-family: var(--font-inter), 'Inter', system-ui, -apple-system, sans-serif !important;
+.article-body p, .article-body li, .article-body span, .article-body blockquote {
+  font-family: var(--font-inter), 'Inter', system-ui, sans-serif !important;
 }
 
-/* Smooth scroll for TOC anchor links */
-html {
-  scroll-behavior: smooth;
-}
-
-/* First letter drop cap for article intro */
 .article-body>p:first-of-type::first-letter {
   font-size: 3.2em;
   font-weight: 700;
@@ -177,21 +183,217 @@ html {
   line-height: 0.85;
   margin-right: 8px;
   margin-top: 6px;
-  color: var(--primary);
+  color: var(--color-primary);
   font-family: var(--font-playfair), serif;
 }
 
-/* Article image hover effect */
-.article-body figure img {
-  transition: transform 0.4s ease;
+.article-body figure img { transition: transform 0.4s ease; }
+.article-body figure:hover img { transform: scale(1.02); }
+.article-body ::selection { background: rgba(13, 115, 119, 0.15); color: inherit; }
+
+/* ═══════════════════════════════════════════
+   PDP V2 — ACCORD BARS
+   ═══════════════════════════════════════════ */
+
+.accord-bar {
+  height: 10px;
+  border-radius: 5px;
+  animation: bar-fill 0.8s ease-out forwards;
+  transition: width 0.5s ease-out;
 }
 
-.article-body figure:hover img {
-  transform: scale(1.02);
+.accord-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 6px 0;
 }
 
-/* Selection highlight with brand color */
-.article-body ::selection {
-  background: rgba(197, 160, 89, 0.2);
-  color: inherit;
+.accord-label {
+  width: 100px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  flex-shrink: 0;
+}
+
+.accord-track {
+  flex: 1;
+  height: 10px;
+  background: var(--color-bg-muted);
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+/* ═══════════════════════════════════════════
+   PDP V2 — NOTE PYRAMID
+   ═══════════════════════════════════════════ */
+
+.note-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 500;
+  transition: all 0.2s;
+  cursor: default;
+}
+
+.note-chip:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+.note-chip--top {
+  background: #FFF7ED;
+  border: 1px solid #FED7AA;
+  color: #9A3412;
+}
+
+.note-chip--middle {
+  background: #FFF1F2;
+  border: 1px solid #FECDD3;
+  color: #9F1239;
+}
+
+.note-chip--base {
+  background: #F5F5F4;
+  border: 1px solid #D6D3D1;
+  color: #44403C;
+}
+
+/* ═══════════════════════════════════════════
+   PDP V2 — SCORE
+   ═══════════════════════════════════════════ */
+
+.score-circle {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid var(--color-primary);
+  background: var(--color-primary-subtle);
+}
+
+.score-circle__value {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--color-primary);
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+.score-circle__label {
+  font-size: 9px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--color-text-muted);
+  margin-top: 2px;
+}
+
+/* ═══════════════════════════════════════════
+   PDP V2 — MAISON CTA
+   ═══════════════════════════════════════════ */
+
+.maison-cta {
+  background: linear-gradient(135deg, var(--color-primary) 0%, #0A5C5F 100%);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  color: white;
+}
+
+.maison-cta__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255,255,255,0.15);
+  backdrop-filter: blur(4px);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.maison-cta__title {
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 12px;
+  line-height: 1.3;
+}
+
+.maison-cta__text {
+  font-size: 14px;
+  opacity: 0.85;
+  margin-top: 8px;
+  line-height: 1.6;
+}
+
+.maison-cta__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 16px;
+  padding: 12px 24px;
+  background: white;
+  color: var(--color-primary);
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 999px;
+  transition: all 0.2s;
+}
+
+.maison-cta__btn:hover {
+  background: #F0F8F8;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* ═══════════════════════════════════════════
+   PDP V2 — ENGAGEMENT BUTTONS
+   ═══════════════════════════════════════════ */
+
+.engage-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 12px 8px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  transition: all 0.2s;
+  flex: 1;
+}
+
+.engage-btn:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  background: var(--color-primary-subtle);
+}
+
+.engage-btn--active {
+  border-color: var(--color-primary);
+  background: var(--color-primary);
+  color: white;
+}
+
+.engage-btn--active:hover {
+  background: var(--color-primary-hover);
+  color: white;
 }

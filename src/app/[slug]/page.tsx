@@ -13,7 +13,7 @@ import { getPostByUrlSlug, getAllPosts } from '@/sanity/lib/posts';
 import { getProductBySlug, getAllProducts, getProductsByBrand } from '@/sanity/lib/fetchers';
 import { getBrandBySlug, getAllBrands } from '@/sanity/lib/fetchers';
 import type { Perfume } from '@/types';
-import ProductClient from '@/app/san-pham/[id]/ProductClient';
+import ProductClientV2 from '@/components/pdp/ProductClientV2';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import RelatedProducts from '@/components/RelatedProducts';
 import RelatedArticles from '@/components/RelatedArticles';
@@ -157,12 +157,12 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
     };
 
     return (
-        <main className="min-h-screen bg-white pb-20">
+        <main className="min-h-screen bg-[var(--color-bg)] pb-20">
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
             <ScrollProgress />
             <Header />
-            <div className="max-w-[1200px] mx-auto px-5 py-10">
+            <div className="max-w-[1200px] mx-auto px-5 py-8">
                 {/* Breadcrumb UI: 3 tầng */}
                 <Breadcrumbs
                     items={[
@@ -170,7 +170,7 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
                         { label: product.name },
                     ]}
                 />
-                <ProductClient
+                <ProductClientV2
                     product={product}
                     relatedProducts={
                         <Suspense fallback={<div className="h-40 animate-pulse bg-gray-50 rounded-xl mt-10" />}>

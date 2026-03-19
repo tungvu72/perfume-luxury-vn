@@ -1,0 +1,1214 @@
+{
+  "version": "1.0",
+  "batch": "ui-top20-flagship",
+  "products": [
+    {
+      "id": "67b864eb88607a389fdf2674",
+      "slug": "bleu-de-chanel-edp",
+      "name": "Bleu de Chanel Eau de Parfum",
+      "brand": "Chanel",
+      "brandSlug": "chanel",
+      "concentration": "Eau de Parfum",
+      "gender": "male",
+      "family": "Woody Aromatic",
+      "images": {
+        "primary": "/images/products/bleu-de-chanel-edp/main.png",
+        "bottleOnly": "/images/products/bleu-de-chanel-edp/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/bleu_de_chanel_edp_validation.png"],
+        "capturedAt": "2026-03-19T11:45:00Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Citrus", "weight": 100, "color": "#FFB800" },
+        { "name": "Amber", "weight": 85, "color": "#FF8A00" },
+        { "name": "Woody", "weight": 80, "color": "#7B5E3F" },
+        { "name": "Warm Spicy", "weight": 65, "color": "#D33F49" },
+        { "name": "Fresh Spicy", "weight": 60, "color": "#47A8BD" },
+        { "name": "Aromatic", "weight": 55, "color": "#7FB069" },
+        { "name": "Smoky", "weight": 40, "color": "#5D5D5D" },
+        { "name": "Fresh", "weight": 35, "color": "#30BCED" },
+        { "name": "Balsamic", "weight": 30, "color": "#A0522D" },
+        { "name": "Green", "weight": 25, "color": "#2E8B57" }
+      ],
+      "notes": {
+        "top": ["Bưởi", "Chanh vàng", "Bạc hà", "Tiêu hồng", "Cam Bergamot", "Aldehydes", "Rau mùi"],
+        "middle": ["Gừng", "Nhục đậu khấu", "Hoa nhài", "Dưa gang"],
+        "base": ["Nhang", "Hổ phách", "Tuyết tùng", "Gỗ đàn hương", "Hoắc hương", "Labdanum", "Gỗ hổ phách"]
+      },
+      "scores": {
+        "overall": 8.9,
+        "scent": 9.2,
+        "longevity": 8.5,
+        "sillage": 8.0,
+        "versatility": 9.5,
+        "compliment": 9.0,
+        "value": 8.5
+      },
+      "summary": {
+        "shortDescription": "Tượng đài của sự lịch lãm, hiện đại và đa dụng bậc nhất cho nam giới.",
+        "vibe": ["Lịch lãm", "Hiện đại", "Nam tính"],
+        "occasions": ["Đi làm", "Hẹn hò", "Tiệc tùng"],
+        "seasons": ["Xuân", "Hạ", "Thu", "Đông"],
+        "timeOfDay": ["Ngày", "Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "tiktok", "label": "Mua tại TikTok Shop", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2673",
+      "slug": "sauvage-elixir",
+      "name": "Sauvage Elixir",
+      "brand": "Dior",
+      "brandSlug": "dior",
+      "concentration": "Elixir",
+      "gender": "male",
+      "family": "Aromatic Fougere",
+      "images": {
+        "primary": "/images/products/sauvage-elixir/main.png",
+        "bottleOnly": "/images/products/sauvage-elixir/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/dior_sauvage_elixir_validation.png"],
+        "capturedAt": "2026-03-19T11:45:10Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Warm Spicy", "weight": 100, "color": "#D33F49" },
+        { "name": "Fresh Spicy", "weight": 90, "color": "#47A8BD" },
+        { "name": "Woody", "weight": 85, "color": "#7B5E3F" },
+        { "name": "Aromatic", "weight": 80, "color": "#7FB069" },
+        { "name": "Lavender", "weight": 70, "color": "#9370DB" },
+        { "name": "Soft Spicy", "weight": 60, "color": "#F08080" },
+        { "name": "Patchouli", "weight": 55, "color": "#556B2F" },
+        { "name": "Balsamic", "weight": 50, "color": "#A0522D" },
+        { "name": "Earthy", "weight": 40, "color": "#8B4513" },
+        { "name": "Amber", "weight": 35, "color": "#FF8A00" }
+      ],
+      "notes": {
+        "top": ["Quế", "Nhục đậu khấu", "Bạch đậu khấu", "Bưởi"],
+        "middle": ["Hoa oải hương"],
+        "base": ["Cam thảo", "Gỗ đàn hương", "Hổ phách", "Hoắc hương", "Cỏ hương bài Haiti"]
+      },
+      "scores": {
+        "overall": 9.4,
+        "scent": 9.5,
+        "longevity": 9.8,
+        "sillage": 9.5,
+        "versatility": 7.5,
+        "compliment": 9.5,
+        "value": 8.0
+      },
+      "summary": {
+        "shortDescription": "Mùi hương mãnh liệt, nồng nàn và đầy quyền lực với độ lưu hương khủng khiếp.",
+        "vibe": ["Mãnh liệt", "Quyền lực", "Sang trọng"],
+        "occasions": ["Tiệc tối", "Hẹn hò", "Sự kiện"],
+        "seasons": ["Thu", "Đông"],
+        "timeOfDay": ["Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "tiktok", "label": "Mua tại TikTok Shop", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf267a",
+      "slug": "dior-homme-intense",
+      "name": "Dior Homme Intense",
+      "brand": "Dior",
+      "brandSlug": "dior",
+      "concentration": "Eau de Parfum",
+      "gender": "male",
+      "family": "Woody Floral Musk",
+      "images": {
+        "primary": "/images/products/dior-homme-intense/main.png",
+        "bottleOnly": "/images/products/dior-homme-intense/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/dior_homme_intense_validation.png"],
+        "capturedAt": "2026-03-19T11:45:20Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Iris", "weight": 100, "color": "#9370DB" },
+        { "name": "Woody", "weight": 85, "color": "#7B5E3F" },
+        { "name": "Powdery", "weight": 80, "color": "#DEB887" },
+        { "name": "Earthy", "weight": 60, "color": "#8B4513" },
+        { "name": "Violet", "weight": 55, "color": "#EE82EE" },
+        { "name": "Aromatic", "weight": 50, "color": "#7FB069" },
+        { "name": "Floral", "weight": 45, "color": "#FF69B4" },
+        { "name": "Lavender", "weight": 40, "color": "#BA55D3" },
+        { "name": "Musky", "weight": 35, "color": "#F5F5F5" },
+        { "name": "Fruity", "weight": 30, "color": "#FFA07A" }
+      ],
+      "notes": {
+        "top": ["Hoa oải hương"],
+        "middle": ["Iris", "Vông vang (Musk Mallow)", "Quả lê"],
+        "base": ["Tuyết tùng Virginia", "Cỏ hương bài"]
+      },
+      "scores": {
+        "overall": 9.1,
+        "scent": 9.5,
+        "longevity": 8.5,
+        "sillage": 8.0,
+        "versatility": 7.0,
+        "compliment": 9.0,
+        "value": 8.5
+      },
+      "summary": {
+        "shortDescription": "Mùi hương Iris quý tộc, lịch lãm và đầy chiều sâu cho quý ông trưởng thành.",
+        "vibe": ["Quý tộc", "Lịch lãm", "Quyến rũ"],
+        "occasions": ["Hẹn hò", "Tiệc tối", "Đi làm (Trời mát)"],
+        "seasons": ["Thu", "Đông"],
+        "timeOfDay": ["Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "tiktok", "label": "Mua tại TikTok Shop", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2675",
+      "slug": "ysl-y-edp",
+      "name": "Y Eau de Parfum",
+      "brand": "Yves Saint Laurent",
+      "brandSlug": "ysl",
+      "concentration": "Eau de Parfum",
+      "gender": "male",
+      "family": "Aromatic Fougere",
+      "images": {
+        "primary": "/images/products/ysl-y-edp/main.png",
+        "bottleOnly": "/images/products/ysl-y-edp/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/ysl_y_edp_validation.png"],
+        "capturedAt": "2026-03-19T11:45:30Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Aromatic", "weight": 100, "color": "#7FB069" },
+        { "name": "Woody", "weight": 90, "color": "#7B5E3F" },
+        { "name": "Fresh Spicy", "weight": 85, "color": "#47A8BD" },
+        { "name": "Citrus", "weight": 80, "color": "#FFB800" },
+        { "name": "Amber", "weight": 70, "color": "#FF8A00" },
+        { "name": "Warm Spicy", "weight": 60, "color": "#D33F49" },
+        { "name": "Herbal", "weight": 55, "color": "#2E8B57" },
+        { "name": "Fresh", "weight": 50, "color": "#30BCED" },
+        { "name": "Green", "weight": 40, "color": "#556B2F" }
+      ],
+      "notes": {
+        "top": ["Táo xanh", "Gừng", "Cam Bergamot"],
+        "middle": ["Xô thơm", "Quả bách xù", "Hoa phong lữ"],
+        "base": ["Gỗ hổ phách", "Đậu Tonka", "Tuyết tùng", "Cỏ hương bài", "Trầm hương"]
+      },
+      "scores": {
+        "overall": 9.2,
+        "scent": 9.0,
+        "longevity": 9.2,
+        "sillage": 8.5,
+        "versatility": 9.5,
+        "compliment": 9.5,
+        "value": 9.0
+      },
+      "summary": {
+        "shortDescription": "Sự kết hợp hoàn hảo giữa độ tươi mát và chiều sâu nam tính, cực kỳ nịnh mũi.",
+        "vibe": ["Năng động", "Cuốn hút", "Hiện đại"],
+        "occasions": ["Đi làm", "Hẹn hò", "Dạo phố"],
+        "seasons": ["Xuân", "Hạ", "Thu", "Đông"],
+        "timeOfDay": ["Ngày", "Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "tiktok", "label": "Mua tại TikTok Shop", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf267b",
+      "slug": "la-nuit-de-l-homme",
+      "name": "La Nuit de L'Homme",
+      "brand": "Yves Saint Laurent",
+      "brandSlug": "ysl",
+      "concentration": "Eau de Toilette",
+      "gender": "male",
+      "family": "Woody Spicy",
+      "images": {
+        "primary": "/images/products/la-nuit-de-l-homme/main.png",
+        "bottleOnly": "/images/products/la-nuit-de-l-homme/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/ysl_la_nuit_validation.png"],
+        "capturedAt": "2026-03-19T11:45:40Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Aromatic", "weight": 100, "color": "#7FB069" },
+        { "name": "Warm Spicy", "weight": 95, "color": "#D33F49" },
+        { "name": "Fresh Spicy", "weight": 80, "color": "#47A8BD" },
+        { "name": "Woody", "weight": 70, "color": "#7B5E3F" },
+        { "name": "Lavender", "weight": 60, "color": "#9370DB" },
+        { "name": "Citrus", "weight": 40, "color": "#FFB800" }
+      ],
+      "notes": {
+        "top": ["Bạch đậu khấu"],
+        "middle": ["Hoa oải hương", "Tuyết tùng Virginia", "Cam Bergamot"],
+        "base": ["Cỏ hương bài", "Thì là Ai Cập"]
+      },
+      "scores": {
+        "overall": 8.7,
+        "scent": 9.6,
+        "longevity": 6.5,
+        "sillage": 6.5,
+        "versatility": 8.0,
+        "compliment": 9.5,
+        "value": 8.0
+      },
+      "summary": {
+        "shortDescription": "Sát thủ hẹn hò với mùi hương Bạch đậu khấu cực kỳ quyến rũ và lôi cuốn.",
+        "vibe": ["Quyến rũ", "Sát thủ", "Ấm áp"],
+        "occasions": ["Hẹn hò", "Tiệc tối", "Đi chơi"],
+        "seasons": ["Xuân", "Thu", "Đông"],
+        "timeOfDay": ["Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "tiktok", "label": "Mua tại TikTok Shop", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf267c",
+      "slug": "prada-l-homme",
+      "name": "Prada L'Homme",
+      "brand": "Prada",
+      "brandSlug": "prada",
+      "concentration": "Eau de Toilette",
+      "gender": "male",
+      "family": "Woody Chypree",
+      "images": {
+        "primary": "/images/products/prada-l-homme/main.png",
+        "bottleOnly": "/images/products/prada-l-homme/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/prada_lhomme_validation.png"],
+        "capturedAt": "2026-03-19T11:55:00Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Powdery", "weight": 100, "color": "#DEB887" },
+        { "name": "Iris", "weight": 95, "color": "#9370DB" },
+        { "name": "Floral", "weight": 85, "color": "#FF69B4" },
+        { "name": "Woody", "weight": 75, "color": "#7B5E3F" },
+        { "name": "Fresh Spicy", "weight": 65, "color": "#47A8BD" },
+        { "name": "Citrus", "weight": 55, "color": "#FFB800" },
+        { "name": "Earthy", "weight": 40, "color": "#8B4513" },
+        { "name": "Amber", "weight": 35, "color": "#FF8A00" }
+      ],
+      "notes": {
+        "top": ["Hoa cam Neroli", "Tiêu đen", "Bạch đậu khấu", "Hạt cà rốt"],
+        "middle": ["Iris", "Hoa violet", "Hoa phong lữ", "Mate"],
+        "base": ["Hổ phách", "Tuyết tùng", "Gỗ đàn hương", "Hoắc hương"]
+      },
+      "scores": {
+        "overall": 9.0,
+        "scent": 9.2,
+        "longevity": 7.5,
+        "sillage": 7.0,
+        "versatility": 9.8,
+        "compliment": 9.0,
+        "value": 8.5
+      },
+      "summary": {
+        "shortDescription": "Định nghĩa của sự sạch sẽ và lịch lãm văn phòng. Mùi hương của những chiếc sơ mi trắng mới ủi.",
+        "vibe": ["Sạch sẽ", "Văn phòng", "Lịch sự"],
+        "occasions": ["Đi làm", "Sự kiện", "Sử dụng hằng ngày"],
+        "seasons": ["Xuân", "Hạ", "Thu"],
+        "timeOfDay": ["Ngày"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf267d",
+      "slug": "prada-luna-rossa-carbon",
+      "name": "Luna Rossa Carbon",
+      "brand": "Prada",
+      "brandSlug": "prada",
+      "concentration": "Eau de Toilette",
+      "gender": "male",
+      "family": "Aromatic Fougere",
+      "images": {
+        "primary": "/images/products/prada-luna-rossa-carbon/main.png",
+        "bottleOnly": "/images/products/prada-luna-rossa-carbon/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/prada_carbon_validation.png"],
+        "capturedAt": "2026-03-19T11:55:10Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Lavender", "weight": 100, "color": "#9370DB" },
+        { "name": "Amber", "weight": 90, "color": "#FF8A00" },
+        { "name": "Fresh Spicy", "weight": 85, "color": "#47A8BD" },
+        { "name": "Metallic", "weight": 75, "color": "#B0C4DE" },
+        { "name": "Woody", "weight": 65, "color": "#7B5E3F" },
+        { "name": "Earthy", "weight": 55, "color": "#8B4513" },
+        { "name": "Musky", "weight": 45, "color": "#F5F5F5" },
+        { "name": "Citrus", "weight": 35, "color": "#FFB800" }
+      ],
+      "notes": {
+        "top": ["Cam Bergamot", "Tiêu"],
+        "middle": ["Hoa oải hương", "Nốt hương kim loại", "Nốt hương nước", "Than đá", "Cồn đất"],
+        "base": ["Ambroxan", "Hoắc hương"]
+      },
+      "scores": {
+        "overall": 8.8,
+        "scent": 8.5,
+        "longevity": 8.0,
+        "sillage": 7.5,
+        "versatility": 9.0,
+        "compliment": 8.5,
+        "value": 8.5
+      },
+      "summary": {
+        "shortDescription": "Sự lựa chọn hiện đại, cơ khí và sạch sẽ hơn của dòng Sauvage. Nam tính và đầy chiều sâu.",
+        "vibe": ["Cơ khí", "Hiện đại", "Nam tính"],
+        "occasions": ["Đi làm", "Đi chơi", "Tập gym"],
+        "seasons": ["Xuân", "Hạ", "Thu"],
+        "timeOfDay": ["Ngày", "Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf267e",
+      "slug": "acqua-di-gio-profondo",
+      "name": "Acqua di Giò Profondo",
+      "brand": "Giorgio Armani",
+      "brandSlug": "armani",
+      "concentration": "Eau de Parfum",
+      "gender": "male",
+      "family": "Aromatic Fougere",
+      "images": {
+        "primary": "/images/products/acqua-di-gio-profondo/main.png",
+        "bottleOnly": "/images/products/acqua-di-gio-profondo/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/armani_profondo_validation.png"],
+        "capturedAt": "2026-03-19T11:55:20Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Aromatic", "weight": 100, "color": "#7FB069" },
+        { "name": "Marine", "weight": 95, "color": "#1E90FF" },
+        { "name": "Citrus", "weight": 85, "color": "#FFB800" },
+        { "name": "Fresh Spicy", "weight": 75, "color": "#47A8BD" },
+        { "name": "Mineral", "weight": 65, "color": "#708090" },
+        { "name": "Woody", "weight": 55, "color": "#7B5E3F" },
+        { "name": "Salty", "weight": 45, "color": "#B0C4DE" },
+        { "name": "Amber", "weight": 35, "color": "#FF8A00" }
+      ],
+      "notes": {
+        "top": ["Hương biển", "Aquozone", "Cam Bergamot", "Quýt xanh"],
+        "middle": ["Hương thảo", "Hoa oải hương", "Cây bách", "Nhựa nhai (Mastic)"],
+        "base": ["Nốt hương khoáng", "Xạ hương", "Hoắc hương", "Hổ phách"]
+      },
+      "scores": {
+        "overall": 9.1,
+        "scent": 9.0,
+        "longevity": 8.0,
+        "sillage": 7.5,
+        "versatility": 9.5,
+        "compliment": 9.0,
+        "value": 8.5
+      },
+      "summary": {
+        "shortDescription": "Hơi thở của đại dương sâu thẳm, mạnh mẽ và tươi mát tuyệt đối cho mùa hè Việt Nam.",
+        "vibe": ["Tươi mát", "Đại dương", "Trưởng thành"],
+        "occasions": ["Mùa hè", "Đi biển", "Đi làm"],
+        "seasons": ["Hạ", "Xuân"],
+        "timeOfDay": ["Ngày"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf267f",
+      "slug": "allure-homme-sport-eau-extreme",
+      "name": "Allure Homme Sport Eau Extrême",
+      "brand": "Chanel",
+      "brandSlug": "chanel",
+      "concentration": "Eau de Parfum",
+      "gender": "male",
+      "family": "Woody Aromatic",
+      "images": {
+        "primary": "/images/products/allure-homme-sport-eau-extreme/main.png",
+        "bottleOnly": "/images/products/allure-homme-sport-eau-extreme/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/chanel_ahsee_validation.png"],
+        "capturedAt": "2026-03-19T11:55:30Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Vanilla", "weight": 100, "color": "#F3E5AB" },
+        { "name": "Woody", "weight": 90, "color": "#7B5E3F" },
+        { "name": "Aromatic", "weight": 85, "color": "#7FB069" },
+        { "name": "Balsamic", "weight": 75, "color": "#A0522D" },
+        { "name": "Fresh Spicy", "weight": 70, "color": "#47A8BD" },
+        { "name": "Musky", "weight": 60, "color": "#F5F5F5" },
+        { "name": "Citrus", "weight": 55, "color": "#FFB800" },
+        { "name": "Powdery", "weight": 45, "color": "#DEB887" },
+        { "name": "Green", "weight": 35, "color": "#2E8B57" },
+        { "name": "Amber", "weight": 30, "color": "#FF8A00" }
+      ],
+      "notes": {
+        "top": ["Quýt hồng", "Bạc hà", "Cây bách", "Xô thơm"],
+        "middle": ["Tiêu"],
+        "base": ["Đậu Tonka", "Xạ hương", "Gỗ đàn hương", "Tuyết tùng"]
+      },
+      "scores": {
+        "overall": 9.3,
+        "scent": 9.5,
+        "longevity": 8.5,
+        "sillage": 8.5,
+        "versatility": 9.0,
+        "compliment": 9.5,
+        "value": 8.0
+      },
+      "summary": {
+        "shortDescription": "Sự kết hợp hoàn hảo giữa thể thao năng động và sự quyến rũ nồng nàn của Chanel.",
+        "vibe": ["Năng động", "Quyến rũ", "Luxury"],
+        "occasions": ["Đi chơi", "Hẹn hò", "Đi làm"],
+        "seasons": ["Xuân", "Thu", "Đông", "Hạ (vừa phải)"],
+        "timeOfDay": ["Ngày", "Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2680",
+      "slug": "terre-d-hermes-eau-givree",
+      "name": "Terre d'Hermès Eau Givrée",
+      "brand": "Hermès",
+      "brandSlug": "hermes",
+      "concentration": "Eau de Parfum",
+      "gender": "male",
+      "family": "Citrus Aromatic",
+      "images": {
+        "primary": "/images/products/terre-d-hermes-eau-givree/main.png",
+        "bottleOnly": "/images/products/terre-d-hermes-eau-givree/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/hermes_givree_validation.png"],
+        "capturedAt": "2026-03-19T11:55:40Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Citrus", "weight": 100, "color": "#FFB800" },
+        { "name": "Woody", "weight": 85, "color": "#7B5E3F" },
+        { "name": "Fresh Spicy", "weight": 80, "color": "#47A8BD" },
+        { "name": "Mineral", "weight": 70, "color": "#708090" },
+        { "name": "Aromatic", "weight": 60, "color": "#7FB069" }
+      ],
+      "notes": {
+        "top": ["Quả thanh yên (Citron)"],
+        "middle": ["Quả bách xù", "Tiêu Tứ Xuyên Timur"],
+        "base": ["Nốt hương khoáng", "Nốt hương gỗ"]
+      },
+      "scores": {
+        "overall": 8.9,
+        "scent": 9.2,
+        "longevity": 7.5,
+        "sillage": 7.5,
+        "versatility": 9.0,
+        "compliment": 8.5,
+        "value": 8.5
+      },
+      "summary": {
+        "shortDescription": "Cơn gió lạnh giá giữa sa mạc. Sự tươi mát bùng nổ và tinh tế của nhà Hermes.",
+        "vibe": ["Lạnh giá", "Tinh tế", "Gọn gàng"],
+        "occasions": ["Mùa hè", "Văn phòng", "Dạo phố"],
+        "seasons": ["Hạ", "Xuân"],
+        "timeOfDay": ["Ngày"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2681",
+      "slug": "tf-oud-wood",
+      "name": "Oud Wood",
+      "brand": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "concentration": "Eau de Parfum",
+      "gender": "unisex",
+      "family": "Amber Woody",
+      "images": {
+        "primary": "/images/products/tf-oud-wood/main.png",
+        "bottleOnly": "/images/products/tf-oud-wood/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/tf_oud_wood_data_*.png"],
+        "capturedAt": "2026-03-19T12:05:00Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Woody", "weight": 100, "color": "#7B5E3F" },
+        { "name": "Oud", "weight": 90, "color": "#4A2C2A" },
+        { "name": "Warm Spicy", "weight": 85, "color": "#D33F49" },
+        { "name": "Aromatic", "weight": 70, "color": "#7FB069" },
+        { "name": "Vanilla", "weight": 60, "color": "#F3E5AB" },
+        { "name": "Balsamic", "weight": 55, "color": "#A0522D" },
+        { "name": "Fresh Spicy", "weight": 50, "color": "#47A8BD" },
+        { "name": "Amber", "weight": 40, "color": "#FF8A00" },
+        { "name": "Powdery", "weight": 35, "color": "#DEB887" }
+      ],
+      "notes": {
+        "top": ["Gỗ trầm hương", "Gỗ hồng Brazil", "Bạch đậu khấu"],
+        "middle": ["Tiêu Tứ Xuyên", "Gỗ đàn hương", "Cỏ hương bài"],
+        "base": ["Đậu Tonka", "Vani", "Hổ phách"]
+      },
+      "scores": {
+        "overall": 9.2,
+        "scent": 9.5,
+        "longevity": 7.5,
+        "sillage": 7.0,
+        "versatility": 8.5,
+        "compliment": 9.0,
+        "value": 8.0
+      },
+      "summary": {
+        "shortDescription": "Sự sang trọng thầm lặng và cổ điển của dòng gỗ trầm hương, cực kỳ tinh tế và đẳng cấp.",
+        "vibe": ["Sang trọng", "Tinh tế", "Đẳng cấp"],
+        "occasions": ["Đi làm", "Sự kiện", "Hẹn hò"],
+        "seasons": ["Thu", "Đông", "Xuân"],
+        "timeOfDay": ["Ngày", "Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2682",
+      "slug": "tf-noir-extreme",
+      "name": "Noir Extreme",
+      "brand": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "concentration": "Eau de Parfum",
+      "gender": "male",
+      "family": "Amber Woody",
+      "images": {
+        "primary": "/images/products/tf-noir-extreme/main.png",
+        "bottleOnly": "/images/products/tf-noir-extreme/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/tf_noir_extreme_data_*.png"],
+        "capturedAt": "2026-03-19T12:05:10Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Warm Spicy", "weight": 100, "color": "#D33F49" },
+        { "name": "Sweet", "weight": 95, "color": "#FFC0CB" },
+        { "name": "Vanilla", "weight": 90, "color": "#F3E5AB" },
+        { "name": "Amber", "weight": 80, "color": "#FF8A00" },
+        { "name": "Woody", "weight": 70, "color": "#7B5E3F" },
+        { "name": "Powdery", "weight": 60, "color": "#DEB887" },
+        { "name": "Balsamic", "weight": 55, "color": "#A0522D" },
+        { "name": "Floral", "weight": 45, "color": "#FF69B4" }
+      ],
+      "notes": {
+        "top": ["Bạch đậu khấu", "Nhục đậu khấu", "Nhụy hoa nghệ tây", "Quýt hồng", "Hoa cam Neroli"],
+        "middle": ["Kulfi", "Hoa hồng", "Nhựa nhai (Mastic)", "Hoa cam", "Hoa nhài"],
+        "base": ["Vani", "Hổ phách", "Nốt hương gỗ", "Gỗ đàn hương"]
+      },
+      "scores": {
+        "overall": 9.0,
+        "scent": 9.4,
+        "longevity": 8.0,
+        "sillage": 7.5,
+        "versatility": 7.5,
+        "compliment": 9.5,
+        "value": 8.5
+      },
+      "summary": {
+        "shortDescription": "Mùi hương ngọt ngào, ấm áp đầy lôi cuốn của Kulfi và gia vị dành cho các quý ông sành điệu.",
+        "vibe": ["Quyến rũ", "Ngọt ngào", "Lôi cuốn"],
+        "occasions": ["Hẹn hò", "Tiệc tối", "Mùa lạnh"],
+        "seasons": ["Thu", "Đông"],
+        "timeOfDay": ["Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2683",
+      "slug": "creed-aventus",
+      "name": "Aventus",
+      "brand": "Creed",
+      "brandSlug": "creed",
+      "concentration": "Eau de Parfum",
+      "gender": "male",
+      "family": "Fruity Chypree",
+      "images": {
+        "primary": "/images/products/creed-aventus/main.png",
+        "bottleOnly": "/images/products/creed-aventus/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/creed_aventus_data_*.png"],
+        "capturedAt": "2026-03-19T12:05:20Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Fruity", "weight": 100, "color": "#FFA500" },
+        { "name": "Sweet", "weight": 90, "color": "#FFC0CB" },
+        { "name": "Woody", "weight": 85, "color": "#7B5E3F" },
+        { "name": "Leather", "weight": 70, "color": "#8B4513" },
+        { "name": "Smoky", "weight": 60, "color": "#5D5D5D" },
+        { "name": "Citrus", "weight": 55, "color": "#FFB800" },
+        { "name": "Tropical", "weight": 50, "color": "#FFD700" },
+        { "name": "Fresh", "weight": 40, "color": "#30BCED" },
+        { "name": "Musky", "weight": 35, "color": "#F5F5F5" }
+      ],
+      "notes": {
+        "top": ["Quả dứa", "Cam Bergamot", "Lá lý chua đen", "Quả táo xanh"],
+        "middle": ["Bạch dương", "Hoắc hương", "Hoa nhài Morocco", "Hoa hồng"],
+        "base": ["Xạ hương", "Rêu sồi", "Long diên hương", "Vani"]
+      },
+      "scores": {
+        "overall": 9.5,
+        "scent": 9.5,
+        "longevity": 8.0,
+        "sillage": 8.5,
+        "versatility": 9.5,
+        "compliment": 10.0,
+        "value": 7.5
+      },
+      "summary": {
+        "shortDescription": "Vị vua của nước hoa nam giới. Biểu tượng của sức mạnh, tầm nhìn và thành công.",
+        "vibe": ["Quyền lực", "Thành công", "Tầm nhìn"],
+        "occasions": ["Mọi lúc", "Sự kiện", "Đi làm"],
+        "seasons": ["Xuân", "Hạ", "Thu", "Đông"],
+        "timeOfDay": ["Ngày", "Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2684",
+      "slug": "mfk-br540-edp",
+      "name": "Baccarat Rouge 540",
+      "brand": "Maison Francis Kurkdjian",
+      "brandSlug": "mfk",
+      "concentration": "Eau de Parfum",
+      "gender": "unisex",
+      "family": "Amber Floral",
+      "images": {
+        "primary": "/images/products/mfk-br540-edp/main.png",
+        "bottleOnly": "/images/products/mfk-br540-edp/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/mfk_br540_data_*.png"],
+        "capturedAt": "2026-03-19T12:05:30Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Woody", "weight": 100, "color": "#7B5E3F" },
+        { "name": "Amber", "weight": 95, "color": "#FF8A00" },
+        { "name": "Fresh Spicy", "weight": 80, "color": "#47A8BD" },
+        { "name": "Aromatic", "weight": 70, "color": "#7FB069" },
+        { "name": "Warm Spicy", "weight": 60, "color": "#D33F49" },
+        { "name": "Animalic", "weight": 30, "color": "#8B4513" }
+      ],
+      "notes": {
+        "top": ["Nhụy hoa nghệ tây", "Hoa nhài"],
+        "middle": ["Gỗ hổ phách", "Long diên hương"],
+        "base": ["Nhựa cây tùng", "Tuyết tùng"]
+      },
+      "scores": {
+        "overall": 9.4,
+        "scent": 9.6,
+        "longevity": 9.5,
+        "sillage": 9.5,
+        "versatility": 8.5,
+        "compliment": 10.0,
+        "value": 8.0
+      },
+      "summary": {
+        "shortDescription": "Cơn sốt toàn cầu. Mùi hương của sự sang trọng, kẹo ngọt cháy và gỗ hổ phách đầy mê hoặc.",
+        "vibe": ["Sang trọng", "Mê hoặc", "Unique"],
+        "occasions": ["Tiệc tối", "Sự kiện", "Hẹn hò"],
+        "seasons": ["Thu", "Đông", "Xuân"],
+        "timeOfDay": ["Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2685",
+      "slug": "pdm-layton",
+      "name": "Layton",
+      "brand": "Parfums de Marly",
+      "brandSlug": "pdm",
+      "concentration": "Eau de Parfum",
+      "gender": "unisex",
+      "family": "Amber Floral",
+      "images": {
+        "primary": "/images/products/pdm-layton/main.png",
+        "bottleOnly": "/images/products/pdm-layton/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/pdm_layton_data_*.png"],
+        "capturedAt": "2026-03-19T12:05:40Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Warm Spicy", "weight": 100, "color": "#D33F49" },
+        { "name": "Fresh Spicy", "weight": 95, "color": "#47A8BD" },
+        { "name": "Vanilla", "weight": 90, "color": "#F3E5AB" },
+        { "name": "Woody", "weight": 85, "color": "#7B5E3F" },
+        { "name": "Aromatic", "weight": 75, "color": "#7FB069" },
+        { "name": "Fruity", "weight": 65, "color": "#FFA500" },
+        { "name": "Powdery", "weight": 55, "color": "#DEB887" },
+        { "name": "Lavender", "weight": 50, "color": "#9370DB" },
+        { "name": "Citrus", "weight": 40, "color": "#FFB800" }
+      ],
+      "notes": {
+        "top": ["Quả táo", "Hoa oải hương", "Cam Bergamot", "Quýt hồng"],
+        "middle": ["Hoa phong lữ", "Hoa tím", "Hoa nhài"],
+        "base": ["Vani", "Bạch đậu khấu", "Gỗ đàn hương", "Tiêu", "Gỗ Guaiac", "Hoắc hương"]
+      },
+      "scores": {
+        "overall": 9.3,
+        "scent": 9.4,
+        "longevity": 9.0,
+        "sillage": 8.5,
+        "versatility": 8.5,
+        "compliment": 9.8,
+        "value": 8.5
+      },
+      "summary": {
+        "shortDescription": "Mùi hương hoàng gia đầy quyền lực nhưng vô cùng nịnh mũi với táo và vani gia vị.",
+        "vibe": ["Hoàng gia", "Quyền lực", "Nịnh mũi"],
+        "occasions": ["Tiệc tối", "Hẹn hò", "Đi làm (Trời mát)"],
+        "seasons": ["Thu", "Đông", "Xuân"],
+        "timeOfDay": ["Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+      },
+    {
+      "id": "67b864eb88607a389fdf2686",
+      "slug": "jpg-le-male-elixir",
+      "name": "Le Male Elixir",
+      "brand": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "concentration": "Parfum",
+      "gender": "male",
+      "family": "Amber Fougere",
+      "images": {
+        "primary": "/images/products/jpg-le-male-elixir/main.png",
+        "bottleOnly": "/images/products/jpg-le-male-elixir/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/jpg_elixir_verification_*.png"],
+        "capturedAt": "2026-03-19T12:15:00Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Vanilla", "weight": 100, "color": "#F3E5AB" },
+        { "name": "Sweet", "weight": 95, "color": "#FFC0CB" },
+        { "name": "Honey", "weight": 90, "color": "#FFD700" },
+        { "name": "Aromatic", "weight": 80, "color": "#7FB069" },
+        { "name": "Amber", "weight": 75, "color": "#FF8A00" },
+        { "name": "Lavender", "weight": 65, "color": "#9370DB" },
+        { "name": "Tobacco", "weight": 55, "color": "#7B3F00" },
+        { "name": "Green", "weight": 40, "color": "#2E8B57" },
+        { "name": "Fresh Spicy", "weight": 35, "color": "#47A8BD" }
+      ],
+      "notes": {
+        "top": ["Hoa oải hương", "Bạc hà"],
+        "middle": ["Vani", "Benzoin"],
+        "base": ["Mật ong", "Đậu Tonka", "Thuốc lá"]
+      },
+      "scores": {
+        "overall": 9.4,
+        "scent": 9.3,
+        "longevity": 9.8,
+        "sillage": 9.5,
+        "versatility": 7.5,
+        "compliment": 9.8,
+        "value": 9.0
+      },
+      "summary": {
+        "shortDescription": "Sức nóng bùng nổ của mật ong và vani nồng nàn. Một con quái vật về hiệu năng và độ bám tỏa.",
+        "vibe": ["Nồng nàn", "Ngọt ngào", "Sexy"],
+        "occasions": ["Tiệc tùng", "Hẹn hò", "Tiệc tối"],
+        "seasons": ["Thu", "Đông"],
+        "timeOfDay": ["Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2687",
+      "slug": "spicebomb-extreme",
+      "name": "Spicebomb Extreme",
+      "brand": "Viktor & Rolf",
+      "brandSlug": "viktor-rolf",
+      "concentration": "Eau de Parfum",
+      "gender": "male",
+      "family": "Amber Spicy",
+      "images": {
+        "primary": "/images/products/spicebomb-extreme/main.png",
+        "bottleOnly": "/images/products/spicebomb-extreme/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/spicebomb_verification_*.png"],
+        "capturedAt": "2026-03-19T12:15:10Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Vanilla", "weight": 100, "color": "#F3E5AB" },
+        { "name": "Tobacco", "weight": 95, "color": "#7B3F00" },
+        { "name": "Warm Spicy", "weight": 90, "color": "#D33F49" },
+        { "name": "Sweet", "weight": 80, "color": "#FFC0CB" },
+        { "name": "Cinnamon", "weight": 70, "color": "#D2691E" },
+        { "name": "Powdery", "weight": 55, "color": "#DEB887" },
+        { "name": "Fresh Spicy", "weight": 45, "color": "#47A8BD" }
+      ],
+      "notes": {
+        "top": ["Tiêu đen", "Hoa oải hương"],
+        "middle": ["Thì là", "Quế", "Nhụy hoa nghệ tây"],
+        "base": ["Thuốc lá", "Vani"]
+      },
+      "scores": {
+        "overall": 9.3,
+        "scent": 9.5,
+        "longevity": 9.0,
+        "sillage": 8.5,
+        "versatility": 7.0,
+        "compliment": 9.5,
+        "value": 9.0
+      },
+      "summary": {
+        "shortDescription": "Quả bom gia vị thực thụ. Sự kết hợp giữa thuốc lá nồng nàn và vani ấm áp cho mùa đông.",
+        "vibe": ["Ấm áp", "Cay nồng", "Lôi cuốn"],
+        "occasions": ["Mùa đông", "Hẹn hò", "Tiệc tối"],
+        "seasons": ["Đông", "Thu"],
+        "timeOfDay": ["Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2688",
+      "slug": "valentino-uomo-born-in-roma-intense",
+      "name": "Born in Roma Intense",
+      "brand": "Valentino",
+      "brandSlug": "valentino",
+      "concentration": "Eau de Parfum",
+      "gender": "male",
+      "family": "Amber Fougere",
+      "images": {
+        "primary": "/images/products/valentino-uomo-born-in-roma-intense/main.png",
+        "bottleOnly": "/images/products/valentino-uomo-born-in-roma-intense/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/valentino_verification_*.png"],
+        "capturedAt": "2026-03-19T12:15:20Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Vanilla", "weight": 100, "color": "#F3E5AB" },
+        { "name": "Lavender", "weight": 95, "color": "#9370DB" },
+        { "name": "Aromatic", "weight": 85, "color": "#7FB069" },
+        { "name": "Woody", "weight": 70, "color": "#7B5E3F" },
+        { "name": "Powdery", "weight": 65, "color": "#DEB887" },
+        { "name": "Fresh Spicy", "weight": 55, "color": "#47A8BD" },
+        { "name": "Earthy", "weight": 40, "color": "#8B4513" },
+        { "name": "Sweet", "weight": 35, "color": "#FFC0CB" }
+      ],
+      "notes": {
+        "top": ["Vani"],
+        "middle": ["Hoa oải hương"],
+        "base": ["Cỏ hương bài"]
+      },
+      "scores": {
+        "overall": 9.1,
+        "scent": 9.2,
+        "longevity": 8.5,
+        "sillage": 8.0,
+        "versatility": 8.5,
+        "compliment": 9.5,
+        "value": 8.5
+      },
+      "summary": {
+        "shortDescription": "Sự hiện đại, ngọt ngào và quyến rũ từ thành phố vĩnh cửu Roma. Cực kỳ nịnh mũi.",
+        "vibe": ["Hiện đại", "Nịnh mũi", "Trendy"],
+        "occasions": ["Hẹn hò", "Dạo phố", "Sử dụng hằng ngày"],
+        "seasons": ["Thu", "Đông", "Xuân"],
+        "timeOfDay": ["Đêm", "Ngày"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2689",
+      "slug": "gentleman-reserve-privee",
+      "name": "Gentleman Reserve Privée",
+      "brand": "Givenchy",
+      "brandSlug": "givenchy",
+      "concentration": "Eau de Parfum",
+      "gender": "male",
+      "family": "Amber Vanilla",
+      "images": {
+        "primary": "/images/products/gentleman-reserve-privee/main.png",
+        "bottleOnly": "/images/products/gentleman-reserve-privee/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/givenchy_reserve_privee_verification_*.png"],
+        "capturedAt": "2026-03-19T12:15:30Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Woody", "weight": 100, "color": "#7B5E3F" },
+        { "name": "Iris", "weight": 95, "color": "#9370DB" },
+        { "name": "Whiskey", "weight": 90, "color": "#8B4513" },
+        { "name": "Powdery", "weight": 80, "color": "#DEB887" },
+        { "name": "Amber", "weight": 70, "color": "#FF8A00" },
+        { "name": "Warm Spicy", "weight": 60, "color": "#D33F49" },
+        { "name": "Earthy", "weight": 45, "color": "#8B4513" },
+        { "name": "Nutty", "weight": 35, "color": "#D2691E" }
+      ],
+      "notes": {
+        "top": ["Cam Bergamot"],
+        "middle": ["Iris", "Hạt dẻ"],
+        "base": ["Rượu Whiskey", "Hổ phách", "Nốt hương gỗ"]
+      },
+      "scores": {
+        "overall": 9.4,
+        "scent": 9.6,
+        "longevity": 8.0,
+        "sillage": 7.5,
+        "versatility": 8.0,
+        "compliment": 9.0,
+        "value": 9.0
+      },
+      "summary": {
+        "shortDescription": "Sự giao thoa hoàn hảo giữa iris mịn màng và rượu whiskey đẳng cấp. Quý ông đích thực.",
+        "vibe": ["Quý ông", "Classy", "Lịch lãm"],
+        "occasions": ["Tiệc sang trọng", "Đi làm", "Hẹn hò"],
+        "seasons": ["Thu", "Đông", "Xuân"],
+        "timeOfDay": ["Đêm", "Ngày"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    },
+    {
+      "id": "67b864eb88607a389fdf2690",
+      "slug": "azzaro-the-most-wanted-parfum",
+      "name": "The Most Wanted Parfum",
+      "brand": "Azzaro",
+      "brandSlug": "azzaro",
+      "concentration": "Parfum",
+      "gender": "male",
+      "family": "Woody Spicy",
+      "images": {
+        "primary": "/images/products/azzaro-the-most-wanted-parfum/main.png",
+        "bottleOnly": "/images/products/azzaro-the-most-wanted-parfum/bottle.png"
+      },
+      "reference": {
+        "source": "fragrantica",
+        "screenshotPaths": ["docs/design-reference/fragrantica/captured/azzaro_verification_*.png"],
+        "capturedAt": "2026-03-19T12:15:40Z",
+        "needsReview": false
+      },
+      "accords": [
+        { "name": "Vanilla", "weight": 100, "color": "#F3E5AB" },
+        { "name": "Sweet", "weight": 95, "color": "#FFC0CB" },
+        { "name": "Woody", "weight": 85, "color": "#7B5E3F" },
+        { "name": "Warm Spicy", "weight": 70, "color": "#D33F49" },
+        { "name": "Amber", "weight": 60, "color": "#FF8A00" },
+        { "name": "Powdery", "weight": 40, "color": "#DEB887" }
+      ],
+      "notes": {
+        "top": ["Gừng"],
+        "middle": ["Nốt hương gỗ"],
+        "base": ["Vani Bourbon"]
+      },
+      "scores": {
+        "overall": 9.2,
+        "scent": 9.4,
+        "longevity": 8.5,
+        "sillage": 8.5,
+        "versatility": 8.0,
+        "compliment": 9.5,
+        "value": 9.0
+      },
+      "summary": {
+        "shortDescription": "Gừng cay nồng và vani Bourbon ngọt ngào, tạo nên sự nam tính hiện đại và quyến rũ chết người.",
+        "vibe": ["Nam tính", "Quyến rũ", "Bold"],
+        "occasions": ["Tiệc đêm", "Hẹn hò", "Dạo phố"],
+        "seasons": ["Thu", "Đông"],
+        "timeOfDay": ["Đêm"]
+      },
+      "affiliate": [
+        { "platform": "shopee", "label": "Tham khảo giá Shopee", "url": "", "active": false },
+        { "platform": "zalo", "label": "Mua tại Maison De Son - Cam kết chính hãng", "url": "https://zalo.me/0961226169", "active": true }
+      ],
+      "uiFlags": {
+        "featuredOnHomepage": true,
+        "showOnBrandPage": true,
+        "readyForProductPage": true
+      }
+    }
+  ]
+}
