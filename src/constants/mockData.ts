@@ -56,71 +56,47 @@ Với giá khoảng 5.4 triệu cho chai 60ml, Elixir đắt hơn Sauvage EDP (k
     brandSlug: "armani",
     brand: "GIORGIO ARMANI",
     name: "Stronger With You Intensely",
-    subName: "Eau de Parfum",
+    subName: "",
     perfumer: "Cécile Matton",
     gender: "nam",
     image: "/images/products/armani-stronger-with-you-intensely-main.jpg",
     images: [{ url: "/images/products/armani-stronger-with-you-intensely-main.jpg", source: "fragram", caption: "Giorgio Armani Stronger With You Intensely chính hãng", verified: true }],
-    description: "Đây là kiểu mùi ngọt ấm, dễ gây thiện cảm và rất hợp đi tối. Hợp người thích mùi dễ được khen, nhất là khi đi chơi hoặc hẹn hò. Nếu ghét mùi ngọt hoặc sống ở nơi nóng quanh năm, bạn nên cân nhắc kỹ.",
-    productCopy: `Armani Stronger With You Intensely EDP là kiểu nước hoa ngọt ấm dành cho những ai thích cảm giác gần gũi nhưng vẫn nổi bật. Mùi mở ra với chút cay nhẹ và ngọt rõ, sau đó nhanh chóng đi vào lớp vanilla, hổ phách và nền gỗ ấm áp. Tổng thể cho cảm giác dày, mượt, trẻ trung và có độ quyến rũ rất trực diện.
+    description: "Kiểu ngọt ấm dễ được khen, xịt lên là người đối diện thấy thân thiện ngay. Hợp hẹn hò, đi chơi tối hoặc khi trời mát. Ai ghét mùi ngọt hoặc sống ở nơi nóng quanh năm thì nên cân nhắc.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của chai này là sự dễ thích. Nó không phải kiểu quá nghệ thuật hay khó hiểu, mà là mùi ngọt ấm khiến nhiều người thấy dễ chịu ngay từ đầu. Stronger With You Intensely đặc biệt hợp với những buổi tối, đi chơi, hẹn hò hoặc thời tiết mát, khi lớp ngọt phát huy đúng vẻ hấp dẫn của nó.
+Nếu bạn ghét mùi ngọt thì bỏ qua chai này luôn — nó ngọt rõ từ đầu đến cuối. Ở Sài Gòn nắng nóng, xịt ban ngày dễ bị ngấy. Những bạn thích kiểu sạch sẽ, thoáng mát như Acqua di Giò hay Bleu de Chanel sẽ thấy SWYI quá dày. Ngoài ra, văn phòng nhỏ kín cũng không nên dùng vì mùi tỏa khá mạnh, dễ gây khó chịu cho người ngồi gần.
 
-Trên da, mùi phát triển theo hướng mềm hơn và ấm hơn sau khoảng 20 phút. Dù ngọt khá rõ, chai này vẫn giữ được sự nam tính nhờ nền gỗ và gia vị. Nó hợp với người trẻ, hoặc những ai muốn một chai nước hoa giúp mình trở nên gần gũi, thân thiện nhưng vẫn có sức hút tình cảm.
+### Có đáng tiền không?
 
-Về độ lưu hương và độ tỏa, đây là chai làm rất tốt trong tầm designer. Mùi bám ổn, tỏa khá rõ và dễ được người xung quanh cảm nhận. Trong điều kiện Việt Nam, nên ưu tiên dùng vào buổi tối, mùa mưa, phòng máy lạnh hoặc những ngày thời tiết dịu hơn để tránh cảm giác quá ngọt.
+Với giá khoảng 2.8 triệu cho chai 50ml, SWYI thuộc tầm designer dễ tiếp cận. So với Valentino Uomo Intense (cùng kiểu ngọt ấm, giá ~3.5 triệu/100ml) thì SWYI ngọt hơn và trẻ trung hơn. So với Lattafa Khamrah (chỉ ~500k) thì SWYI mượt mà hơn, ít ngọt gắt hơn. Mùi lưu rất tốt nên mỗi lần xịt 2–3 nhát là đủ, chai 50ml dùng được vài tháng. Nếu chưa chắc, nên mua chiết 10ml thử trước.
 
-Nếu bạn thích những mùi hương ấm, sexy và thiên về cảm xúc, Armani Stronger With You Intensely là lựa chọn rất đáng cân nhắc. Nó không dành cho người mê phong cách fresh sạch kiểu văn phòng, nhưng lại cực hợp với người muốn một mùi hương ôm sát, cuốn và có khả năng ghi điểm trong khoảng cách gần.`,
-    article: `Tại Maison de SON, Stronger With You Intensely là một trong những chai nước hoa nam kiểu ngọt ấm dễ hiểu nhất. Với người thích hướng mùi gần gũi, dễ được khen và có chất tình cảm hơn, bản này của Giorgio Armani khá dễ hợp gu.
+### Nên dùng khi nào?
 
-### Nguồn gốc và xuất xứ
-Đây là sản phẩm thuộc Giorgio Armani - thương hiệu Ý vốn mạnh ở nhóm nước hoa cao cấp thanh lịch, dễ dùng và có tính đại chúng tốt hơn nhiều dòng khó tiếp cận.
-
-### Ra mắt khi nào?
-Stronger With You Intensely ra mắt năm 2019 như một phiên bản đi đậm hơn từ dòng Stronger With You.
-
-### Câu chuyện ra đời
-Bản gốc Stronger With You đã là kiểu ngọt dễ mến rồi. Bản Intensely làm mọi thứ rõ hơn: ấm hơn, ngọt hơn, hợp tối hơn và rất dễ tạo thiện cảm với người đối diện.
-
-### Dòng Stronger With You có những phiên bản nào?
-- Stronger With You EDT: nhẹ hơn, dễ tiếp cận hơn
-- Stronger With You Intensely: ngọt và ấm hơn rõ
-- Stronger With You Absolutely: tối hơn, Hổ phách rõ hơn
-
-### Mùi hương mang lại cảm giác gì?
-Mở đầu hơi ngọt và cay nhẹ, sau đó toffee, Vani và Hổ phách lên rất rõ. Mùi này không lạ, không khó, nhưng dễ làm người khác thấy bạn ấm áp và dễ gần.
-
-### Khi nào nên dùng?
-- Hẹn hò, đi chơi tối, thời tiết mát
-- Hợp người trẻ hoặc người thích phong cách ngọt nam hiện đại
-- Không hợp lắm nếu bạn ghét mùi ngọt hoặc thích kiểu khô, gỗ, lạnh
-
-### Nhận xét của Maison de SON
-Đây là một chai dễ được thích ngay, đặc biệt nếu gu của bạn thiên về mùi ấm và dễ tạo thiện cảm. Điểm yếu là hơi ngọt nếu dùng sai thời tiết.`,
-    verdict: "Mùi này ngọt, ấm và khá dễ mến. Hợp đi tối, hẹn hò hoặc lúc muốn người khác thấy mình thân thiện hơn. Nếu bạn sợ ngọt hoặc thích mùi lạnh, bản này không phải lựa chọn hợp nhất.",
-    verdictShort: "NGỌT ẤM, DỄ GÂY THIỆN CẢM",
+Đẹp nhất khi đi ăn tối, hẹn hò hoặc đi chơi cuối tuần — trời dưới 28°C. Xịt 1 nhát cổ, 1 nhát ngực là vừa. Mùa mưa Sài Gòn hay mùa đông Hà Nội là lúc chai này tỏa đẹp nhất. Đừng dùng đi làm ban ngày trừ khi văn phòng rộng và bạn xịt rất ít. Chai này cực hợp cho những buổi tối muốn gây ấn tượng gần.`,
+    verdict: "Ngọt ấm, dễ được khen và rất hợp đi tối. Nếu bạn thích kiểu mùi gần gũi, tạo thiện cảm ngay thì đây là lựa chọn tốt. Không hợp ai ghét ngọt hoặc cần chai đi làm ban ngày.",
+    verdictShort: "NGỌT ẤM, DỄ ĐƯỢC KHEN, HỢP HẸN HÒ",
     score: { scent: 9.0, uniqueness: 8.1, compliments: 9.5, value: 8.9, total: 8.9 },
     vibes: [
-      { label: "Hẹn hò", icon: "❤️" },
-      { label: "Buổi tối", icon: "🌙" },
-      { label: "Thu đông", icon: "🍂" }
+      { label: "Hẹn hò tối", icon: "❤️" },
+      { label: "Mùa mát", icon: "🍂" },
+      { label: "Dễ được khen", icon: "💬" }
     ],
     longevity: 9,
     sillage: 8,
     seasons: { spring: 25, summer: 10, fall: 95, winter: 100 },
     dayNight: { day: 25, night: 100 },
-    topNotes: [{ name: "Hồng tiêu" }, { name: "Cây bách xù" }, { name: "Hoa tím" }],
-    middleNotes: [{ name: "Toffee" }, { name: "Quế" }, { name: "Oải hương" }, { name: "Xô thơm" }],
+    topNotes: [{ name: "Hồng tiêu" }, { name: "Cây bách xù" }, { name: "Lá tím" }],
+    middleNotes: [{ name: "Kẹo Toffee" }, { name: "Quế" }, { name: "Oải hương" }, { name: "Xô thơm" }],
     baseNotes: [{ name: "Vani" }, { name: "Hổ phách" }, { name: "Đậu tonka" }, { name: "Da lộn" }],
     accords: [
       { name: "Ngọt", value: 100, color: "#FF6D00" },
       { name: "Hổ phách", value: 72, color: "#FF8F00" },
       { name: "Vani", value: 68, color: "#f5deb3" },
-      { name: "Gia vị ấm", value: 54, color: "#BF360C" }
+      { name: "Cay nồng", value: 54, color: "#BF360C" }
     ],
     seoTitle: "Armani Stronger With You Intensely giá bao nhiêu? Review 2026",
     metaDescription: "Đánh giá Armani Stronger With You Intensely chính hãng: mùi ngọt ấm, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026 tại Maison De Son.",
-    tags: ["Hẹn hò", "Thu đông", "Nam ngọt", "Cao cấp"],
+    tags: ["Hẹn hò", "Thu đông", "Ngọt ấm", "Dễ được khen"],
     sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
     basePrice: 2850000,
     shopeeOffers: []
