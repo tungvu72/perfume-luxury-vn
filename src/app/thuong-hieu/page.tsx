@@ -1,7 +1,8 @@
-﻿import { getAllBrands } from "@/sanity/lib/fetchers";
+import { getAllBrands } from "@/sanity/lib/fetchers";
 import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Link from "next/link";
+import Footer from "@/components/Footer";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -142,6 +143,7 @@ export default async function BrandsIndexPage() {
                     </div>
                 ))}
             </section>
+            <Footer />
         </main>
     );
 }

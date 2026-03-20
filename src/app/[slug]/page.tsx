@@ -17,6 +17,7 @@ import ProductClientV2 from '@/components/pdp/ProductClientV2';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import RelatedProducts from '@/components/RelatedProducts';
 import RelatedArticles from '@/components/RelatedArticles';
+import Footer from '@/components/Footer';
 
 export const dynamicParams = true;
 export const revalidate = 3600; // ISR: re-generate sau 1 tiếng, đảm bảo content mới lên live không cần redeploy
@@ -184,6 +185,7 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
                     }
                 />
             </div>
+            <Footer />
         </main>
     );
 }
@@ -307,6 +309,7 @@ async function BrandPage({ brand, slug }: { brand: any; slug: string }) {
                     </div>
                 )}
             </div>
+            <Footer />
         </main>
     );
 }
@@ -670,6 +673,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                     </div>
                 </div>
             </main>
+            <Footer />
         </>
     );
 }

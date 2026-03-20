@@ -4,6 +4,7 @@ import Image from "next/image";
 import { getAllProducts, getTopRankedProducts } from "@/sanity/lib/fetchers";
 import { getAllPosts } from "@/sanity/lib/posts";
 import Newsletter from "@/components/Newsletter";
+import Footer from "@/components/Footer";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -666,6 +667,7 @@ export default async function Home() {
       </nav>
 
       <Newsletter />
+      <Footer />
     </main>
   );
 }
