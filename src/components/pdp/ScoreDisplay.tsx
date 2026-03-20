@@ -17,7 +17,7 @@ function scoreTone(score: number): string {
 
 const SCORE_CATEGORIES = [
   { key: "scent" as const, label: "Mùi hương", desc: "Tổng thể" },
-  { key: "uniqueness" as const, label: "Nét riêng", desc: "Khác biệt" },
+  { key: "uniqueness" as const, label: "Độc đáo", desc: "Khác biệt" },
   { key: "compliments" as const, label: "Sức hút", desc: "Thiện cảm" },
   { key: "value" as const, label: "Đáng tiền", desc: "Giá trị" },
 ];
