@@ -12,7 +12,7 @@ import ShareButton from "@/components/ShareButton";
 import { useCompare } from "@/components/CompareSystem";
 import {
   AccordBars, NotePyramid, ScoreDisplay,
-  PerformanceBars, MaisonCTA, AffiliateWidget, EngagementButtons,
+  PerformanceBars, MaisonCTA, AffiliateWidget,
 } from "@/components/pdp";
 
 /* ── Image helpers ── */
@@ -269,10 +269,6 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             ))}
           </div>
 
-          {/* Engagement Buttons */}
-          <div className="mt-5">
-            <EngagementButtons productId={product.id} />
-          </div>
 
           {/* Score Display */}
           <div className="mt-6 border-t border-[var(--color-border)] pt-6">

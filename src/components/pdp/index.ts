@@ -4,4 +4,4 @@ export { default as ScoreDisplay } from "./ScoreDisplay";
 export { default as PerformanceBars } from "./PerformanceBars";
 export { default as MaisonCTA } from "./MaisonCTA";
 export { default as AffiliateWidget } from "./AffiliateWidget";
-export { default as EngagementButtons } from "./EngagementButtons";
+// EngagementButtons removed — no real user data
