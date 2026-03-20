@@ -1,6 +1,33 @@
 @import "tailwindcss";
 
 /* ═══════════════════════════════════════════
+   UI/UX PRO MAX — Accessibility & Motion
+   ═══════════════════════════════════════════ */
+
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Keyboard focus states — visible outline for a11y */
+:focus-visible {
+  outline: 2px solid var(--color-primary, #0D7377);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Prose reading comfort — max 65ch line length */
+.prose p, .prose li {
+  max-width: 65ch;
+}
+
+
+/* ═══════════════════════════════════════════
    DESIGN TOKENS — Maison De Son V2
    Fragrantica-inspired, authority-style
    Keep structure clean for future dark mode
