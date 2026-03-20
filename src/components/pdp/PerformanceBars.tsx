@@ -20,10 +20,10 @@ function longevityToHours(val: number): string {
 }
 
 function sillageToDesc(val: number): string {
-  if (val >= 9) return "Trong vòng 1–2m đều nghe rõ";
-  if (val >= 7) return "Người gần (~1m) sẽ ngửi thấy";
-  if (val >= 5) return "Gần sát mới thấy";
-  return "Rất gần mới nghe";
+  if (val >= 9) return "Đi ngang là biết — tỏa rõ trong bán kính 1–2m";
+  if (val >= 7) return "Người đứng gần (~1m) sẽ ngửi thấy";
+  if (val >= 5) return "Phải đến gần mới cảm nhận được";
+  return "Rất kín đáo, chỉ người ôm mới biết";
 }
 
 function seasonLabel(val: number): string {

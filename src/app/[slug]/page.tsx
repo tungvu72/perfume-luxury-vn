@@ -58,8 +58,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
     if (product) {
         return {
-            title: `${product.name} ${product.subName || ''} — Giá tốt ${mm_yyyy} | Maison de SON`,
-            description: `${product.name}: Review chuyên sâu, phân tích cá tính mùi hương, giá tham khảo ${mm_yyyy}. Điểm đánh giá: ${product.score.total}/10. Tư vấn chọn nước hoa chính hãng qua Zalo.`,
+            title: `${product.name} — Giá tốt ${mm_yyyy} | Maison de SON`,
+            description: `${product.name}: Review chuyên sâu, phân tích mùi hương, giá cập nhật ${mm_yyyy}. Điểm đánh giá: ${product.score.total}/10. Tư vấn chọn nước hoa chính hãng qua Zalo.`,
             keywords: [product.name, product.brand, `mua ${product.name} chính hãng`, `giá ${product.name}`, `${product.name} ở đâu`],
             alternates: { canonical: `${CANONICAL_BASE}/${product.id}` },
             openGraph: {
