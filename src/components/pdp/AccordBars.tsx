@@ -11,9 +11,12 @@ export default function AccordBars({ accords }: AccordBarsProps) {
 
   return (
     <div className="space-y-1">
-      <h3 className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-3">
-        Main Accords
+      <h3 className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-1">
+        Nhóm hương chính
       </h3>
+      <p className="text-[11px] text-[var(--color-text-muted)] mb-3">
+        Thanh càng dài = hương đó càng rõ trong chai nước hoa
+      </p>
       <div className="space-y-2">
         {accords.map((accord, i) => (
           <div key={i} className="accord-row">

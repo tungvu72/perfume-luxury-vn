@@ -6,7 +6,7 @@ export const MASTER_PERFUMES: Perfume[] = [
     brandSlug: "dior",
     brand: "DIOR",
     name: "Sauvage Elixir",
-    subName: "Eau de Parfum — Dior",
+    subName: "",
     perfumer: "François Demachy",
     gender: "nam",
     image: "/images/products/sauvage-elixir-main.jpg",

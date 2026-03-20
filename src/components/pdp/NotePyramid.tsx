@@ -12,24 +12,21 @@ const LAYERS = [
   {
     key: "top",
     title: "Hương đầu",
-    subtitle: "Top Notes",
-    desc: "Bay sau 15-30 phút",
+    desc: "Bay sau 15–30 phút",
     chipClass: "note-chip--top",
     dotColor: "bg-orange-400",
   },
   {
     key: "middle",
     title: "Hương giữa",
-    subtitle: "Heart Notes",
-    desc: "Kéo dài 3-5 tiếng",
+    desc: "Kéo dài 3–5 tiếng",
     chipClass: "note-chip--middle",
     dotColor: "bg-rose-400",
   },
   {
     key: "base",
     title: "Hương cuối",
-    subtitle: "Base Notes",
-    desc: "Bám 6-12+ tiếng",
+    desc: "Bám 6–12+ tiếng",
     chipClass: "note-chip--base",
     dotColor: "bg-stone-400",
   },
@@ -41,7 +38,7 @@ export default function NotePyramid({ topNotes, middleNotes, baseNotes }: NotePy
   return (
     <div>
       <h3 className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-5">
-        Perfume Pyramid
+        Các tầng hương
       </h3>
       <div className="relative space-y-6 pl-6 before:absolute before:left-[7px] before:top-2 before:bottom-2 before:w-px before:bg-gradient-to-b before:from-orange-300 before:via-rose-200 before:to-stone-200">
         {LAYERS.map((layer) => {
@@ -55,7 +52,6 @@ export default function NotePyramid({ topNotes, middleNotes, baseNotes }: NotePy
               <div className="flex flex-col gap-3 sm:flex-row sm:items-start">
                 <div className="min-w-[110px] flex-shrink-0">
                   <div className="text-sm font-bold text-[var(--color-text)]">{layer.title}</div>
-                  <div className="text-[10px] font-medium text-[var(--color-text-muted)] uppercase tracking-wider">{layer.subtitle}</div>
                   <div className="text-[11px] italic text-[var(--color-text-muted)] mt-0.5">{layer.desc}</div>
                 </div>
                 <div className="flex flex-wrap gap-2">

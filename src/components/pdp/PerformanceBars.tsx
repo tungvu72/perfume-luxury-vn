@@ -9,21 +9,35 @@ interface PerformanceBarsProps {
   dayNight?: { day: number; night: number };
 }
 
-function getSegmentColor(filled: boolean, active: boolean): string {
-  if (!filled) return "bg-[var(--color-bg-muted)]";
-  return active ? "bg-[var(--color-primary)]" : "bg-[var(--color-primary)]";
+function longevityToHours(val: number): string {
+  if (val >= 9) return "10–12+ tiếng";
+  if (val >= 8) return "8–10 tiếng";
+  if (val >= 7) return "6–8 tiếng";
+  if (val >= 6) return "5–6 tiếng";
+  if (val >= 5) return "4–5 tiếng";
+  if (val >= 4) return "3–4 tiếng";
+  return "1–3 tiếng";
 }
 
-function longevityDesc(val: number): string {
-  if (val >= 8) return "Rất lâu — mùi bám rõ cả ngày";
-  if (val >= 6) return "Khá ổn cho nhu cầu hằng ngày";
-  return "Gọn nhẹ, không bám quá mạnh";
+function sillageToDesc(val: number): string {
+  if (val >= 9) return "Trong vòng 1–2m đều nghe rõ";
+  if (val >= 7) return "Người gần (~1m) sẽ ngửi thấy";
+  if (val >= 5) return "Gần sát mới thấy";
+  return "Rất gần mới nghe";
 }
 
-function sillageDesc(val: number): string {
-  if (val >= 8) return "Tỏa mạnh — hiện diện rõ trong không gian";
-  if (val >= 6) return "Vừa phải — dễ dùng cho đa số";
-  return "Khá kín đáo, thiên riêng tư";
+function seasonLabel(val: number): string {
+  if (val >= 80) return "Rất hợp";
+  if (val >= 50) return "Hợp";
+  if (val >= 30) return "Tạm ổn";
+  return "Không hợp";
+}
+
+function seasonBadge(val: number): string {
+  if (val >= 80) return "bg-emerald-100 text-emerald-700 border-emerald-200";
+  if (val >= 50) return "bg-blue-50 text-blue-600 border-blue-200";
+  if (val >= 30) return "bg-amber-50 text-amber-600 border-amber-200";
+  return "bg-gray-100 text-gray-500 border-gray-200";
 }
 
 export default function PerformanceBars({ longevity, sillage, seasons, dayNight }: PerformanceBarsProps) {
@@ -35,17 +49,17 @@ export default function PerformanceBars({ longevity, sillage, seasons, dayNight 
       {(longevity || sillage) && (
         <div>
           <h3 className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-4">
-            Hiệu năng thực chiến
+            Hiệu năng
           </h3>
           <div className="space-y-4">
             {longevity && (
-              <div>
-                <div className="flex items-center justify-between mb-1.5">
+              <div className="rounded-xl border border-[var(--color-border-subtle)] bg-[var(--color-surface-raised)] p-4">
+                <div className="flex items-center justify-between mb-2">
                   <span className="inline-flex items-center gap-2 text-sm font-semibold text-[var(--color-text)]">
                     <Clock size={15} className="text-[var(--color-primary)]" />
-                    Độ lưu hương
+                    Lưu hương
                   </span>
-                  <span className="text-sm font-bold text-[var(--color-primary)]">{longevity}/10</span>
+                  <span className="text-sm font-bold text-[var(--color-primary)]">{longevityToHours(longevity)}</span>
                 </div>
                 <div className="flex gap-1">
                   {Array.from({ length: 10 }).map((_, i) => (
@@ -55,15 +69,17 @@ export default function PerformanceBars({ longevity, sillage, seasons, dayNight 
                     />
                   ))}
                 </div>
-                <p className="mt-1.5 text-[11px] text-[var(--color-text-muted)]">{longevityDesc(longevity)}</p>
+                <p className="mt-2 text-[12px] text-[var(--color-text-muted)]">
+                  Mùi bám trên da khoảng {longevityToHours(longevity)} sau khi xịt
+                </p>
               </div>
             )}
             {sillage && (
-              <div>
-                <div className="flex items-center justify-between mb-1.5">
+              <div className="rounded-xl border border-[var(--color-border-subtle)] bg-[var(--color-surface-raised)] p-4">
+                <div className="flex items-center justify-between mb-2">
                   <span className="inline-flex items-center gap-2 text-sm font-semibold text-[var(--color-text)]">
                     <Wind size={15} className="text-[var(--color-primary)]" />
-                    Độ tỏa hương
+                    Tỏa hương
                   </span>
                   <span className="text-sm font-bold text-[var(--color-primary)]">{sillage}/10</span>
                 </div>
@@ -75,7 +91,9 @@ export default function PerformanceBars({ longevity, sillage, seasons, dayNight 
                     />
                   ))}
                 </div>
-                <p className="mt-1.5 text-[11px] text-[var(--color-text-muted)]">{sillageDesc(sillage)}</p>
+                <p className="mt-2 text-[12px] text-[var(--color-text-muted)]">
+                  {sillageToDesc(sillage)}
+                </p>
               </div>
             )}
           </div>
@@ -86,53 +104,36 @@ export default function PerformanceBars({ longevity, sillage, seasons, dayNight 
       {seasons && (
         <div>
           <h3 className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-4">
-            Mùa & thời điểm
+            Hợp mùa nào & lúc nào
           </h3>
-          <div className="space-y-2.5">
+          <div className="grid grid-cols-2 gap-2 sm:grid-cols-4">
             {[
-              { label: "Xuân", icon: <Flower2 size={14} />, val: seasons.spring, color: "bg-green-400" },
-              { label: "Hè", icon: <Sun size={14} />, val: seasons.summer, color: "bg-amber-400" },
-              { label: "Thu", icon: <Leaf size={14} />, val: seasons.fall, color: "bg-orange-400" },
-              { label: "Đông", icon: <Snowflake size={14} />, val: seasons.winter, color: "bg-blue-400" },
+              { label: "Xuân", icon: <Flower2 size={14} />, val: seasons.spring },
+              { label: "Hè", icon: <Sun size={14} />, val: seasons.summer },
+              { label: "Thu", icon: <Leaf size={14} />, val: seasons.fall },
+              { label: "Đông", icon: <Snowflake size={14} />, val: seasons.winter },
             ].map((s) => (
-              <div key={s.label} className="flex items-center gap-3">
-                <div className="flex w-16 items-center gap-1.5 text-xs font-semibold text-[var(--color-text-secondary)]">
-                  <span className="text-[var(--color-text-muted)]">{s.icon}</span>
-                  {s.label}
-                </div>
-                <div className="h-2 flex-1 overflow-hidden rounded-full bg-[var(--color-bg-muted)]">
-                  <div className={`h-full rounded-full ${s.color} transition-all duration-500`} style={{ width: `${s.val}%` }} />
-                </div>
-                <div className="w-10 text-right text-xs font-bold text-[var(--color-text-muted)]">{s.val}%</div>
+              <div key={s.label} className={`flex flex-col items-center gap-1.5 rounded-xl border p-3 text-center ${seasonBadge(s.val)}`}>
+                <span className="opacity-70">{s.icon}</span>
+                <span className="text-xs font-bold">{s.label}</span>
+                <span className="text-[11px] font-semibold">{seasonLabel(s.val)}</span>
               </div>
             ))}
-            {dayNight && (
-              <>
-                <div className="border-t border-[var(--color-border-subtle)] pt-2.5 mt-1">
-                  <div className="flex items-center gap-3">
-                    <div className="flex w-16 items-center gap-1.5 text-xs font-semibold text-[var(--color-text-secondary)]">
-                      <CloudSun size={14} className="text-amber-500" />
-                      Ngày
-                    </div>
-                    <div className="h-2 flex-1 overflow-hidden rounded-full bg-[var(--color-bg-muted)]">
-                      <div className="h-full rounded-full bg-amber-400" style={{ width: `${dayNight.day}%` }} />
-                    </div>
-                    <div className="w-10 text-right text-xs font-bold text-[var(--color-text-muted)]">{dayNight.day}%</div>
-                  </div>
-                </div>
-                <div className="flex items-center gap-3">
-                  <div className="flex w-16 items-center gap-1.5 text-xs font-semibold text-[var(--color-text-secondary)]">
-                    <Moon size={14} className="text-indigo-400" />
-                    Đêm
-                  </div>
-                  <div className="h-2 flex-1 overflow-hidden rounded-full bg-[var(--color-bg-muted)]">
-                    <div className="h-full rounded-full bg-indigo-400" style={{ width: `${dayNight.night}%` }} />
-                  </div>
-                  <div className="w-10 text-right text-xs font-bold text-[var(--color-text-muted)]">{dayNight.night}%</div>
-                </div>
-              </>
-            )}
           </div>
+          {dayNight && (
+            <div className="grid grid-cols-2 gap-2 mt-2">
+              <div className={`flex flex-col items-center gap-1.5 rounded-xl border p-3 text-center ${seasonBadge(dayNight.day)}`}>
+                <CloudSun size={14} className="opacity-70" />
+                <span className="text-xs font-bold">Ban ngày</span>
+                <span className="text-[11px] font-semibold">{seasonLabel(dayNight.day)}</span>
+              </div>
+              <div className={`flex flex-col items-center gap-1.5 rounded-xl border p-3 text-center ${seasonBadge(dayNight.night)}`}>
+                <Moon size={14} className="opacity-70" />
+                <span className="text-xs font-bold">Buổi tối</span>
+                <span className="text-[11px] font-semibold">{seasonLabel(dayNight.night)}</span>
+              </div>
+            </div>
+          )}
         </div>
       )}
     </div>

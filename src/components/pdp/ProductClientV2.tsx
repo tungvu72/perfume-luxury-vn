@@ -226,17 +226,17 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
 
         {/* RIGHT: Product Info */}
         <div className="flex flex-col">
-          {/* Brand + Gender + Share */}
+          {/* Category + Brand + Share */}
           <div className="flex items-center justify-between gap-3">
             <div className="flex items-center gap-2 text-[11px] font-bold uppercase tracking-[0.16em]">
+              <span className="text-[var(--color-text-muted)]">{product.gender === "nam" ? "Nước Hoa Nam" : product.gender === "nu" ? "Nước Hoa Nữ" : "Nước Hoa Unisex"}</span>
+              <span className="text-[var(--color-text-muted)]">•</span>
               <Link
                 href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`}
                 className="text-[var(--color-primary)] hover:underline"
               >
                 {product.brand}
               </Link>
-              <span className="text-[var(--color-text-muted)]">•</span>
-              <span className="text-[var(--color-text-muted)]">{GENDER_LABELS[product.gender]}</span>
             </div>
             <ShareButton />
           </div>
@@ -245,9 +245,6 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
           <h1 className="mt-3 text-3xl font-serif leading-tight tracking-tight text-[var(--color-text)] sm:text-4xl lg:text-[44px]">
             {product.name}
           </h1>
-          {product.subName && (
-            <p className="mt-2 text-base text-[var(--color-text-secondary)]">{product.subName}</p>
-          )}
 
           {/* Perfumer + Quick badges */}
           <div className="mt-3 flex flex-wrap gap-2 text-sm">
