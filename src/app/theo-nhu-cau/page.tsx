@@ -10,6 +10,10 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://www.maisondeson.com/theo-nhu-cau",
   },
+  openGraph: {
+    title: "Chọn Nước Hoa Theo Nhu Cầu | Maison de SON",
+    description: "Đi làm, hẹn hò, mùa hè — tìm nước hoa theo nhu cầu thực tế.",
+  },
 };
 
 const useCases = [

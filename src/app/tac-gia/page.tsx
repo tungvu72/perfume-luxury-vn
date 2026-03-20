@@ -6,6 +6,13 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 export const metadata: Metadata = {
     title: "Về tác giả — Maison de SON | Đội ngũ chuyên gia nước hoa",
     description: "Gặp gỡ đội ngũ chuyên gia đứng sau Maison de SON — những người đã test hàng trăm chai nước hoa để mang đến review thực tế và trung thực nhất.",
+    alternates: {
+        canonical: "https://www.maisondeson.com/tac-gia",
+    },
+    openGraph: {
+        title: "Đội Ngũ Chuyên Gia Nước Hoa | Maison de SON",
+        description: "Gặp gỡ đội ngũ đứng sau mỗi bài review thực tế tại Maison de SON.",
+    },
 };
 
 // Danh sách tác giả — cập nhật khi team mở rộng

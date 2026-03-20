@@ -2,7 +2,6 @@ import type { Metadata, Viewport } from "next";
 import Script from "next/script";
 import { Playfair_Display, Inter } from "next/font/google";
 import "./globals.css";
-import Footer from "@/components/Footer";
 import FloatingSupport from "@/components/FloatingSupport";
 import { CompareProvider } from "@/components/CompareSystem";
 
@@ -60,7 +59,6 @@ export default function RootLayout({
       <body className={`${playfair.variable} ${inter.variable}`}>
         <CompareProvider>
           {children}
-          <Footer />
           <FloatingSupport />
         </CompareProvider>
         {GA_ID && (

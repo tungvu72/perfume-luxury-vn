@@ -12,6 +12,10 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://www.maisondeson.com/unisex",
     },
+    openGraph: {
+        title: "Nước Hoa Unisex Chính Hãng | Maison de SON",
+        description: "Review và bảng giá nước hoa Unisex — cho cả Nam và Nữ.",
+    },
 };
 
 export default async function UnisexPage() {

@@ -13,6 +13,19 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://www.maisondeson.com/",
   },
+  openGraph: {
+    title: "Maison de SON | Kiến Thức & Review Nước Hoa #1 Việt Nam",
+    description: "Chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa cho người Việt.",
+    url: "https://www.maisondeson.com",
+    siteName: "Maison de SON",
+    locale: "vi_VN",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Maison de SON | Kiến Thức & Review Nước Hoa",
+    description: "Chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa cho người Việt.",
+  },
   keywords: [
     "review nước hoa",
     "nước hoa chính hãng",
@@ -67,8 +80,38 @@ export default async function Home() {
     .sort((a, b) => b.score.total - a.score.total)
     .slice(0, 4);
 
+  const websiteJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "Maison de SON",
+    url: "https://www.maisondeson.com",
+    description: "Trang web chia sẻ kiến thức, review nước hoa cho người Việt",
+    potentialAction: {
+      "@type": "SearchAction",
+      target: "https://www.maisondeson.com/?q={search_term_string}",
+      "query-input": "required name=search_term_string",
+    },
+  };
+
+  const orgJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "Maison de SON",
+    url: "https://www.maisondeson.com",
+    logo: "https://www.maisondeson.com/favicon.svg",
+    contactPoint: {
+      "@type": "ContactPoint",
+      telephone: "+84-961-226-169",
+      contactType: "Customer Service",
+      availableLanguage: "Vietnamese",
+    },
+    sameAs: ["https://shopee.vn/maisondeson", "https://zalo.me/0961226169"],
+  };
+
   return (
     <main className="min-h-screen bg-[var(--color-bg)]">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }} />
       <Header />
 
       {/* ═══════ FEATURED ARTICLE HERO ═══════ */}

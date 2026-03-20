@@ -1,9 +1,9 @@
-﻿import { MetadataRoute } from 'next';
-import { getAllProducts } from '@/sanity/lib/fetchers';
+import { MetadataRoute } from 'next';
+import { getAllProducts, getAllBrands } from '@/sanity/lib/fetchers';
 import { getAllPosts } from '@/sanity/lib/posts';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = 'https://maisondeson.com';
+  const baseUrl = 'https://www.maisondeson.com';
 
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [
@@ -14,6 +14,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${baseUrl}/nam-gioi`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
     { url: `${baseUrl}/nu-gioi`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
     { url: `${baseUrl}/unisex`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
+    { url: `${baseUrl}/theo-nhu-cau`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.6 },
+    { url: `${baseUrl}/theo-not-huong`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.6 },
+    { url: `${baseUrl}/tac-gia`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.4 },
     { url: `${baseUrl}/gioi-thieu`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.4 },
   ];
 
@@ -43,5 +46,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       }));
   } catch { /* bỏ qua nếu lỗi */ }
 
-  return [...staticPages, ...productPages, ...articlePages];
+  // Dynamic brand pages — /thuong-hieu/[slug]
+  let brandPages: MetadataRoute.Sitemap = [];
+  try {
+    const brands = await getAllBrands();
+    brandPages = brands.map((b: any) => ({
+      url: `${baseUrl}/thuong-hieu/${b.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.6,
+    }));
+  } catch { /* bỏ qua nếu lỗi */ }
+
+  return [...staticPages, ...productPages, ...articlePages, ...brandPages];
 }

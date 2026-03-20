@@ -26,6 +26,6 @@ export default function robots(): MetadataRoute.Robots {
         ],
       },
     ],
-    sitemap: 'https://maisondeson.com/sitemap.xml',
+    sitemap: 'https://www.maisondeson.com/sitemap.xml',
   };
 }

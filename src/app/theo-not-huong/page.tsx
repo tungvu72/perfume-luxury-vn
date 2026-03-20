@@ -10,6 +10,10 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://www.maisondeson.com/theo-not-huong",
   },
+  openGraph: {
+    title: "Chọn Nước Hoa Theo Nốt Hương | Maison de SON",
+    description: "Tìm nước hoa từ nốt hương bạn yêu thích — vani, gỗ, hoa, cam bergamot.",
+  },
 };
 
 const noteGroups = [

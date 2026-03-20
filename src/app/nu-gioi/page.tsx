@@ -12,6 +12,10 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://www.maisondeson.com/nu-gioi",
     },
+    openGraph: {
+        title: "Nước Hoa Nữ Chính Hãng | Maison de SON",
+        description: "Review và bảng giá nước hoa nữ từ kinh điển đến Niche.",
+    },
 };
 
 export default async function NuGioiPage() {

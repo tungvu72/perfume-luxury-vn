@@ -12,6 +12,10 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://www.maisondeson.com/nam-gioi",
     },
+    openGraph: {
+        title: "Nước Hoa Nam Chính Hãng | Maison de SON",
+        description: "Review và bảng giá nước hoa nam từ Niche đến Designer.",
+    },
 };
 
 export default async function NamGioiPage() {

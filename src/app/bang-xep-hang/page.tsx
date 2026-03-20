@@ -1,14 +1,19 @@
 import { getAllProducts } from "@/sanity/lib/fetchers";
+import { Metadata } from "next";
 import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import RankingClient from "@/app/bang-xep-hang/RankingClient";
 import { Suspense } from "react";
 
-export const metadata = {
+export const metadata: Metadata = {
     title: "Bảng Xếp Hạng Nước Hoa Đáng Xem Nhất 2026 | Maison de SON",
     description: "Khám phá những chai nước hoa đáng xem nhất tại Maison de SON. So sánh theo mùi hương, độ lưu, độ tỏa, tầm giá và hoàn cảnh sử dụng thực tế tại Việt Nam.",
     alternates: {
         canonical: "https://www.maisondeson.com/bang-xep-hang",
+    },
+    openGraph: {
+        title: "Bảng Xếp Hạng Nước Hoa 2026 | Maison de SON",
+        description: "Những chai nước hoa đáng xem nhất — so sánh theo mùi hương, độ lưu, tầm giá.",
     },
 };
 

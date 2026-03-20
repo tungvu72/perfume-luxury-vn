@@ -2,7 +2,7 @@ import { getAllBrands } from "@/sanity/lib/fetchers";
 import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Link from "next/link";
-import Footer from "@/components/Footer";
+
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -10,6 +10,10 @@ export const metadata: Metadata = {
     description: "Khám phá các thương hiệu nước hoa nổi bật tại Maison de SON. Xem review, lựa chọn đáng chú ý và định hướng chọn mùi phù hợp cho người Việt.",
     alternates: {
         canonical: "https://www.maisondeson.com/thuong-hieu",
+    },
+    openGraph: {
+        title: "Thương Hiệu Nước Hoa | Maison de SON",
+        description: "Khám phá các thương hiệu nước hoa nổi bật — review và gợi ý chọn mùi.",
     },
 };
 
@@ -143,7 +147,7 @@ export default async function BrandsIndexPage() {
                     </div>
                 ))}
             </section>
-            <Footer />
+
         </main>
     );
 }
