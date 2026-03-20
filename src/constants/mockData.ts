@@ -12,33 +12,17 @@ export const MASTER_PERFUMES: Perfume[] = [
     image: "/images/products/sauvage-elixir-main.jpg",
     images: [{ url: "/images/products/sauvage-elixir-main.jpg", source: "fragram", caption: "Dior Sauvage Elixir chính hãng", verified: true }],
     description: "Đây là kiểu mùi nam rất đậm, cay và có lực. Hợp người thích cảm giác trưởng thành, đi tối hoặc trời mát. Nếu cần một chai dễ dùng ban ngày trong thời tiết nóng ẩm, bản này sẽ hơi nặng.",
-    article: `Tại Maison de SON, Sauvage Elixir thường được xem là bản trưởng thành nhất trong cả dòng Sauvage của Dior. Với nhóm người tìm một chai nước hoa nam có độ hiện diện rõ, đây là cái tên rất dễ gây ấn tượng ngay từ lần thử đầu.
+    article: `### Ai không nên mua Sauvage Elixir?
 
-### Nguồn gốc và xuất xứ
-Sauvage là dòng nước hoa nam chủ lực của Dior, thương hiệu cao cấp đến từ Pháp. Những năm gần đây, đây gần như là trục sản phẩm nam bán mạnh nhất của hãng, nên mỗi phiên bản mới đều được người dùng để ý rất kỹ.
+Nếu bạn chủ yếu dùng nước hoa đi làm ban ngày ở Việt Nam, đặc biệt trong văn phòng nhỏ hoặc kín, Elixir sẽ quá nặng. Mùi gia vị đậm + cam thảo tạo cảm giác bí khi trời nóng ẩm trên 32°C. Người thích kiểu sạch nhẹ, thoáng mát kiểu Bleu de Chanel hay Acqua di Giò cũng sẽ thấy bản này quá áp lực. Ngoài ra, nếu bạn hay xịt tay nặng (4-5 nhát trở lên), Elixir dễ khiến người xung quanh ngộp thay vì ấn tượng.
 
-### Ra mắt khi nào?
-Sauvage Elixir ra mắt năm 2021. So với EDT, EDP hay Parfum, bản này đi theo hướng đậm hơn hẳn và thiên về cảm giác buổi tối nhiều hơn.
+### Có đáng 5.4 triệu không?
 
-### Câu chuyện ra đời
-Nếu các bản Sauvage trước nổi tiếng vì dễ dùng, thì Elixir ra đời cho nhóm người thấy chúng hơi quen quá. Bản này nén mùi lại dày hơn, thêm nhiều gia vị hơn và tạo cảm giác nam tính, có tuổi hơn hẳn.
+Ở tầm giá 5.4 triệu cho 60ml, Elixir đắt hơn rõ so với Sauvage EDP (3.2 triệu/100ml) và ngang ngửa Tom Ford Noir Extreme (4 triệu/50ml). Nhưng bù lại, bạn chỉ cần 2 nhát là đủ cho cả buổi tối — chai 60ml dùng được rất lâu nếu xịt đúng cách. So với Noir Extreme cùng kiểu tối ấm, Elixir có lực tỏa mạnh hơn và bám dai hơn. So với Sauvage EDP, Elixir già dặn và ít phổ thông hơn hẳn. Nếu chưa chắc, nên thử chiết 10ml trước rồi quyết định có cần fullbox hay không.
 
-### Có những phiên bản nào trong dòng Sauvage?
-- Sauvage EDT: sáng, dễ dùng nhất
-- Sauvage EDP: dày hơn, cân bằng hơn
-- Sauvage Parfum: mượt và ấm hơn
-- Sauvage Elixir: đậm nhất, nặng nhất và nổi bật nhất
+### Khi nào dùng Elixir đẹp nhất ở Việt Nam?
 
-### Mùi hương mang lại cảm giác gì?
-Lúc mới xịt sẽ thấy gia vị ấm bật lên khá rõ. Sau đó lavender đi ra theo hướng tối hơn, rồi phần gỗ và cam thảo làm tổng thể trở nên dày, hơi sang nhưng cũng khá áp lực nếu xịt quá tay.
-
-### Khi nào nên dùng?
-- Đi tối, đi tiệc, thời tiết mát
-- Hợp người thích mùi nam tính rõ rệt
-- Không hợp lắm nếu bạn cần một chai đi văn phòng kín giữa trưa nóng
-
-### Nhận xét của Maison de SON
-Nếu bạn từng thấy Sauvage EDT quá phổ thông, thì Elixir đúng là bản nâng cấp đáng thử. Nhưng đây không phải kiểu chai ai cũng sẽ thích ngay vì nó nặng hơn, gắt hơn và cần hoàn cảnh phù hợp mới đẹp.`,
+Đẹp nhất vào buổi tối, đi ăn, đi bar hoặc hẹn hò — lúc trời mát từ 25°C trở xuống. Xịt 2 nhát: 1 sau gáy, 1 trước ngực là đủ. Mùa mưa Sài Gòn hoặc mùa đông Hà Nội là thời điểm Elixir phát huy tốt nhất. Tránh dùng đi làm ban ngày, trừ khi văn phòng mở và bạn xịt rất nhẹ tay (1 nhát cổ tay). Nếu cần một chai Sauvage đi làm hằng ngày, chọn EDP thay vì Elixir.`,
     verdict: "Mùi này cho cảm giác nam tính rất rõ, đậm và có phần áp đảo. Hợp người đi tối, thích mùi có lực và muốn người khác phải để ý. Nếu bạn thích kiểu sạch, nhẹ, dễ xịt mỗi ngày thì bản này hơi căng.",
     verdictShort: "ĐẬM, NAM TÍNH, RẤT CÓ LỰC",
     score: { scent: 9.2, uniqueness: 8.9, compliments: 9.4, value: 8.2, total: 8.9 },
