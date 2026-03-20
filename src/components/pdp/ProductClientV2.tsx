@@ -36,6 +36,17 @@ const SOURCE_LABELS: Record<string, string> = {
 const GENDER_LABELS: Record<Perfume["gender"], string> = {
   nam: "Nam giới", nu: "Nữ giới", unisex: "Unisex",
 };
+const BRAND_ORIGIN: Record<string, string> = {
+  DIOR: "Pháp", CHANEL: "Pháp", "TOM FORD": "Mỹ", VERSACE: "Ý",
+  "DOLCE & GABBANA": "Ý", GUCCI: "Ý", PRADA: "Ý", YSL: "Pháp",
+  GIVENCHY: "Pháp", VALENTINO: "Ý", HERMÈS: "Pháp", BURBERRY: "Anh",
+  "RALPH LAUREN": "Mỹ", "CALVIN KLEIN": "Mỹ", ARMANI: "Ý",
+  BVLGARI: "Ý", CREED: "Anh", "MAISON FRANCIS KURKDJIAN": "Pháp",
+  LATTAFA: "UAE", "ARMAF": "UAE", "AL HARAMAIN": "UAE",
+  MONTBLANC: "Đức", LACOSTE: "Pháp", CAROLINA: "Mỹ",
+  "JEAN PAUL GAULTIER": "Pháp", MUGLER: "Pháp", ISSEY: "Nhật",
+  ACQUA: "Ý", NARCISO: "Mỹ",
+};
 
 function priceLabel(price: number) {
   return price > 0 ? `${price.toLocaleString()} VNĐ` : "Liên hệ tư vấn";
@@ -246,25 +257,30 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             {product.name}
           </h1>
 
-          {/* Perfumer + Quick badges */}
-          <div className="mt-3 flex flex-wrap gap-2 text-sm">
-            {product.perfumer && (
+          {/* Perfumer */}
+          {product.perfumer && (
+            <div className="mt-3">
               <span className="inline-flex items-center gap-1.5 rounded-full border border-[var(--color-border)] bg-[var(--color-surface)] px-3 py-1.5 text-xs">
                 <Sparkles size={12} className="text-[var(--color-primary)]" />
                 <span className="text-[var(--color-text-muted)]">Tác giả:</span>
                 <strong className="text-[var(--color-text)]">{product.perfumer}</strong>
               </span>
-            )}
-            {product.vibes && product.vibes.slice(0, 3).map((vibe, i) => (
-              <span
-                key={i}
-                className="inline-flex items-center gap-1 rounded-full border border-[var(--color-border)] bg-[var(--color-surface)] px-3 py-1.5 text-xs font-medium text-[var(--color-text-secondary)]"
-              >
-                <span>{vibe.icon}</span>
-                {vibe.label}
-              </span>
-            ))}
-          </div>
+            </div>
+          )}
+          {/* Vibes */}
+          {product.vibes && product.vibes.length > 0 && (
+            <div className="mt-2 flex flex-wrap gap-2">
+              {product.vibes.slice(0, 3).map((vibe, i) => (
+                <span
+                  key={i}
+                  className="inline-flex items-center gap-1 rounded-full border border-[var(--color-border)] bg-[var(--color-surface)] px-3 py-1.5 text-xs font-medium text-[var(--color-text-secondary)]"
+                >
+                  <span>{vibe.icon}</span>
+                  {vibe.label}
+                </span>
+              ))}
+            </div>
+          )}
 
 
           {/* Score Display */}
@@ -411,12 +427,10 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
                   <span className="text-[var(--color-text-muted)]">Giới tính</span>
                   <span className="font-semibold text-[var(--color-text)]">{GENDER_LABELS[product.gender]}</span>
                 </div>
-                {product.perfumer && (
-                  <div className="flex justify-between">
-                    <span className="text-[var(--color-text-muted)]">Nhà tạo hương</span>
-                    <span className="font-semibold text-[var(--color-text)] text-right max-w-[160px]">{product.perfumer}</span>
-                  </div>
-                )}
+                <div className="flex justify-between">
+                  <span className="text-[var(--color-text-muted)]">Xuất xứ</span>
+                  <span className="font-semibold text-[var(--color-text)]">{BRAND_ORIGIN[product.brand] || "Pháp"}</span>
+                </div>
                 {product.longevity && (
                   <div className="flex justify-between">
                     <span className="text-[var(--color-text-muted)]">Lưu hương</span>
