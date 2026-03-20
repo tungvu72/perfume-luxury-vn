@@ -280,41 +280,26 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             <AccordBars accords={product.accords} />
           </div>
 
-          {/* Price + CTA */}
-          <div className="mt-6 rounded-[var(--radius-lg)] border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-5">
-            <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
-              <div>
-                <div className="text-xs font-bold uppercase tracking-[0.14em] text-[var(--color-primary)]">Giá tham khảo</div>
-                <div className="mt-1 text-2xl font-bold text-[var(--color-text)] sm:text-3xl">{priceLabel(product.basePrice)}</div>
-              </div>
-              <div className="flex flex-wrap gap-2">
-                {(product.sizes || []).slice(0, 4).map((size) => (
-                  <span key={size} className="rounded-full border border-[var(--color-border)] bg-white px-3 py-1.5 text-xs font-semibold text-[var(--color-text-secondary)]">
-                    {size}
-                  </span>
-                ))}
-              </div>
-            </div>
-            <div className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2">
-              <a
-                href="https://zalo.me/0961226169"
-                target="_blank"
-                rel="nofollow noopener noreferrer"
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-[#0068FF] px-6 py-3.5 text-sm font-bold text-white shadow-lg shadow-blue-500/10 transition hover:bg-[#0055d4]"
-              >
-                <MessageCircle size={18} /> Tư vấn qua Zalo
-              </a>
-              <button
-                onClick={() => add(product)}
-                className={`inline-flex items-center justify-center gap-2 rounded-full px-5 py-3.5 text-sm font-bold transition ${
-                  isComparing
-                    ? "border border-[var(--color-primary)] bg-[var(--color-primary)] text-white"
-                    : "border border-[var(--color-border)] bg-white text-[var(--color-text-secondary)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]"
-                }`}
-              >
-                <Scale size={18} /> {isComparing ? "Đã thêm so sánh" : "Thêm vào so sánh"}
-              </button>
-            </div>
+          {/* CTA buttons */}
+          <div className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-2">
+            <a
+              href="https://zalo.me/0961226169"
+              target="_blank"
+              rel="nofollow noopener noreferrer"
+              className="inline-flex items-center justify-center gap-2 rounded-full bg-[#0068FF] px-6 py-3.5 text-sm font-bold text-white shadow-lg shadow-blue-500/10 transition hover:bg-[#0055d4]"
+            >
+              <MessageCircle size={18} /> Tư vấn qua Zalo
+            </a>
+            <button
+              onClick={() => add(product)}
+              className={`inline-flex items-center justify-center gap-2 rounded-full px-5 py-3.5 text-sm font-bold transition ${
+                isComparing
+                  ? "border border-[var(--color-primary)] bg-[var(--color-primary)] text-white"
+                  : "border border-[var(--color-border)] bg-white text-[var(--color-text-secondary)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]"
+              }`}
+            >
+              <Scale size={18} /> {isComparing ? "Đã thêm so sánh" : "Thêm vào so sánh"}
+            </button>
           </div>
         </div>
       </section>
@@ -338,37 +323,59 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             />
           </section>
 
-          {/* Product Description / Article */}
-          {(product.productCopy || product.article) && (
-            <section className="rounded-[var(--radius-lg)] border border-[var(--color-border)] bg-[var(--color-surface)] p-5 sm:p-7">
-              <div className="mb-5">
-                <div className="text-xs font-bold uppercase tracking-[0.14em] text-[var(--color-primary)]">
-                  Thông tin & cảm nhận thực tế
+          {/* Product Insights — 3 Visual Cards */}
+          {(product.productCopy || product.article) && (() => {
+            const raw = product.productCopy || product.article || "";
+            // Parse 3 sections from ### headings
+            const sections = raw.split(/(?=###\s)/).filter(s => s.trim()).map(s => {
+              const lines = s.trim().split("\n");
+              const heading = (lines[0] || "").replace(/^###\s*/, "").trim();
+              const body = lines.slice(1).join("\n").trim();
+              return { heading, body };
+            });
+
+            const cardStyles = [
+              { border: "border-red-200", bg: "bg-red-50/50", icon: "🚫", iconBg: "bg-red-100", accent: "text-red-700" },
+              { border: "border-emerald-200", bg: "bg-emerald-50/50", icon: "💰", iconBg: "bg-emerald-100", accent: "text-emerald-700" },
+              { border: "border-blue-200", bg: "bg-blue-50/50", icon: "📍", iconBg: "bg-blue-100", accent: "text-blue-700" },
+            ];
+
+            return (
+              <section>
+                <div className="mb-5">
+                  <div className="text-xs font-bold uppercase tracking-[0.14em] text-[var(--color-primary)]">
+                    Đánh giá thực tế
+                  </div>
+                  <h2 className="mt-2 text-xl font-serif text-[var(--color-text)] sm:text-2xl">
+                    Cần biết gì về {product.name}?
+                  </h2>
                 </div>
-                <h2 className="mt-2 text-xl font-serif text-[var(--color-text)] sm:text-2xl">
-                  Cần biết gì về {product.name}?
-                </h2>
-              </div>
-              <div className="prose prose-sm max-w-none text-[var(--color-text)] prose-headings:text-[var(--color-text)] prose-headings:font-serif prose-p:leading-[1.85] prose-p:text-[15px] prose-li:text-[15px] prose-a:text-[var(--color-primary)] prose-a:no-underline hover:prose-a:underline">
-                {(product.productCopy || product.article || "").split("\n\n").map((block, i) => {
-                  const trimmed = block.trim();
-                  if (!trimmed) return null;
-                  if (trimmed.startsWith("### ")) return <h3 key={i}>{trimmed.slice(4)}</h3>;
-                  if (trimmed.startsWith("## ")) return <h2 key={i}>{trimmed.slice(3)}</h2>;
-                  if (trimmed.split("\n").every((l) => l.trim().startsWith("- "))) {
+                <div className="grid grid-cols-1 gap-4 md:grid-cols-3">
+                  {sections.slice(0, 3).map((sec, i) => {
+                    const style = cardStyles[i] || cardStyles[0];
                     return (
-                      <ul key={i}>
-                        {trimmed.split("\n").filter((l) => l.trim().startsWith("- ")).map((line, li) => (
-                          <li key={li}>{line.trim().slice(2)}</li>
-                        ))}
-                      </ul>
+                      <div
+                        key={i}
+                        className={`rounded-2xl border ${style.border} ${style.bg} p-5 transition-all hover:shadow-md`}
+                      >
+                        <div className={`inline-flex h-10 w-10 items-center justify-center rounded-xl ${style.iconBg} text-lg mb-3`}>
+                          {style.icon}
+                        </div>
+                        <h3 className={`text-sm font-bold ${style.accent} leading-snug mb-3`}>
+                          {sec.heading}
+                        </h3>
+                        <div className="text-[13px] leading-[1.8] text-[var(--color-text-secondary)]">
+                          {sec.body.split("\n").filter(l => l.trim()).map((line, li) => (
+                            <p key={li} className="mb-2 last:mb-0">{line.trim()}</p>
+                          ))}
+                        </div>
+                      </div>
                     );
-                  }
-                  return <p key={i}>{trimmed}</p>;
-                })}
-              </div>
-            </section>
-          )}
+                  })}
+                </div>
+              </section>
+            );
+          })()}
 
           {/* Affiliate Widget */}
           <AffiliateWidget productName={product.name} />
@@ -459,8 +466,8 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
       <div className="fixed bottom-0 inset-x-0 z-50 border-t border-[var(--color-border)] bg-white/95 backdrop-blur-sm p-3 lg:hidden">
         <div className="flex items-center gap-3 max-w-[600px] mx-auto">
           <div className="flex-1 min-w-0">
-            <div className="text-xs text-[var(--color-text-muted)]">Giá tham khảo</div>
-            <div className="text-lg font-bold text-[var(--color-text)] truncate">{priceLabel(product.basePrice)}</div>
+            <div className="text-[11px] font-bold text-[var(--color-primary)] uppercase tracking-wide">Chính hãng 100%</div>
+            <div className="text-base font-bold text-[var(--color-text)] truncate">{product.name}</div>
           </div>
           <a
             href="https://zalo.me/0961226169"

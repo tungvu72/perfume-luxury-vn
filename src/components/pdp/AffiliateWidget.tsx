@@ -1,104 +1,128 @@
 "use client";
 
-import { ShoppingCart, ExternalLink } from "lucide-react";
+import { ShoppingCart, ExternalLink, Store } from "lucide-react";
+import Image from "next/image";
 
-interface AffiliateLink {
-  platform: "shopee" | "tiktok";
-  label: string;
-  price?: string;
+interface ShopeeOffer {
+  shopName: string;
+  productTitle: string;
+  price: string;
   url: string;
+  image?: string;
 }
 
 interface AffiliateWidgetProps {
   productName: string;
-  links?: AffiliateLink[];
+  shopeeOffers?: ShopeeOffer[];
 }
 
-const PLATFORM_CONFIG = {
-  shopee: {
-    name: "Shopee",
-    color: "#EE4D2D",
-    bg: "bg-orange-50",
-    border: "border-orange-200",
-  },
-  tiktok: {
-    name: "TikTok Shop",
-    color: "#000000",
-    bg: "bg-gray-50",
-    border: "border-gray-200",
-  },
-};
+/* Shopee logo SVG inline (orange badge) */
+function ShopeeLogo({ className }: { className?: string }) {
+  return (
+    <svg className={className} width="80" height="28" viewBox="0 0 120 38" fill="none">
+      <rect width="120" height="38" rx="6" fill="#EE4D2D"/>
+      <text x="60" y="25" textAnchor="middle" fill="white" fontWeight="800" fontSize="18" fontFamily="system-ui, sans-serif">
+        Shopee
+      </text>
+    </svg>
+  );
+}
 
-export default function AffiliateWidget({ productName, links }: AffiliateWidgetProps) {
-  // If no affiliate links, show placeholder
-  if (!links || links.length === 0) {
+export default function AffiliateWidget({ productName, shopeeOffers }: AffiliateWidgetProps) {
+  // Placeholder khi chưa có offer
+  if (!shopeeOffers || shopeeOffers.length === 0) {
     return (
-      <div className="rounded-[var(--radius-lg)] border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-5">
-        <div className="flex items-center gap-2 mb-3">
-          <ShoppingCart size={16} className="text-[var(--color-text-muted)]" />
-          <h3 className="text-sm font-bold text-[var(--color-text)]">Mua ở đâu</h3>
+      <section className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface)] overflow-hidden">
+        {/* Header */}
+        <div className="flex items-center justify-between px-5 py-4 border-b border-[var(--color-border)]">
+          <div className="flex items-center gap-2">
+            <Store size={16} className="text-[var(--color-text-muted)]" />
+            <span className="text-sm font-semibold text-[var(--color-text)]">Mua ở đâu</span>
+          </div>
+          <ShopeeLogo />
         </div>
-        <p className="text-xs text-[var(--color-text-muted)] italic">
-          Đang cập nhật link từ các shop uy tín...
-        </p>
-        <a
-          href="https://zalo.me/0961226169"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="mt-3 inline-flex items-center gap-1.5 text-xs font-bold text-[var(--color-primary)] hover:underline"
-        >
-          Hỏi giá qua Zalo →
-        </a>
-      </div>
+
+        {/* Placeholder */}
+        <div className="p-5">
+          <p className="text-sm text-[var(--color-text-muted)]">
+            Đang cập nhật shop uy tín bán {productName} trên Shopee...
+          </p>
+          <a
+            href={`https://shopee.vn/search?keyword=${encodeURIComponent(productName)}`}
+            target="_blank"
+            rel="nofollow noopener noreferrer"
+            className="mt-4 flex items-center justify-center gap-2 rounded-xl bg-[#EE4D2D] px-5 py-3 text-sm font-bold text-white transition-all hover:bg-[#d9411f]"
+          >
+            Tìm trên Shopee
+            <ExternalLink size={14} />
+          </a>
+        </div>
+      </section>
     );
   }
 
-  // Group by platform
-  const grouped = links.reduce<Record<string, AffiliateLink[]>>((acc, link) => {
-    if (!acc[link.platform]) acc[link.platform] = [];
-    acc[link.platform].push(link);
-    return acc;
-  }, {});
-
   return (
-    <div className="rounded-[var(--radius-lg)] border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-5">
-      <div className="flex items-center gap-2 mb-4">
-        <ShoppingCart size={16} className="text-[var(--color-primary)]" />
-        <h3 className="text-sm font-bold text-[var(--color-text)]">Mua ở đâu</h3>
-        <span className="ml-auto text-[10px] text-[var(--color-text-muted)] italic">Sponsored</span>
+    <section className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface)] overflow-hidden">
+      {/* Header - kiểu eBay */}
+      <div className="flex items-center justify-between px-5 py-4 border-b border-[var(--color-border)]">
+        <div className="flex items-center gap-2">
+          <Store size={16} className="text-[var(--color-text-muted)]" />
+          <span className="text-sm font-semibold text-[var(--color-text)]">Mua ở đâu</span>
+        </div>
+        <ShopeeLogo />
       </div>
 
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-        {Object.entries(grouped).map(([platform, platformLinks]) => {
-          const config = PLATFORM_CONFIG[platform as keyof typeof PLATFORM_CONFIG];
-          if (!config) return null;
-
-          return (
-            <div key={platform} className={`rounded-[var(--radius-md)] border ${config.border} ${config.bg} p-3`}>
-              <div className="text-xs font-bold mb-2" style={{ color: config.color }}>
-                {config.name}
-              </div>
-              <div className="space-y-2">
-                {platformLinks.map((link, i) => (
-                  <a
-                    key={i}
-                    href={link.url}
-                    target="_blank"
-                    rel="nofollow noopener noreferrer"
-                    className="flex items-center justify-between gap-2 rounded-[var(--radius-sm)] bg-white p-2 text-xs transition-all hover:shadow-sm"
-                  >
-                    <span className="text-[var(--color-text-secondary)] truncate">{link.label}</span>
-                    <span className="flex items-center gap-1.5 font-bold whitespace-nowrap" style={{ color: config.color }}>
-                      {link.price}
-                      <ExternalLink size={10} />
-                    </span>
-                  </a>
-                ))}
-              </div>
+      {/* Listings */}
+      <div className="divide-y divide-[var(--color-border)]">
+        {shopeeOffers.map((offer, i) => (
+          <a
+            key={i}
+            href={offer.url}
+            target="_blank"
+            rel="nofollow noopener noreferrer"
+            className="flex items-center gap-4 px-5 py-4 transition-colors hover:bg-[var(--color-surface-raised)] group"
+          >
+            {/* Product image */}
+            <div className="relative w-14 h-14 flex-shrink-0 rounded-xl overflow-hidden bg-[var(--color-surface-raised)] border border-[var(--color-border)]">
+              {offer.image ? (
+                <Image src={offer.image} alt={offer.productTitle} fill sizes="56px" className="object-contain p-1" />
+              ) : (
+                <div className="w-full h-full flex items-center justify-center text-[10px] text-[var(--color-text-muted)]">
+                  <ShoppingCart size={16} />
+                </div>
+              )}
             </div>
-          );
-        })}
+
+            {/* Info */}
+            <div className="flex-1 min-w-0">
+              <p className="text-sm font-medium text-[var(--color-text)] leading-snug line-clamp-2 group-hover:text-[var(--color-primary)] transition-colors">
+                {offer.productTitle}
+              </p>
+              <p className="mt-1 text-[11px] text-[var(--color-text-muted)]">
+                {offer.shopName}
+              </p>
+            </div>
+
+            {/* Price */}
+            <div className="flex-shrink-0 text-right">
+              <span className="text-base font-bold text-[#EE4D2D]">{offer.price}</span>
+            </div>
+          </a>
+        ))}
       </div>
-    </div>
+
+      {/* CTA */}
+      <div className="px-5 pb-4 pt-2">
+        <a
+          href={`https://shopee.vn/search?keyword=${encodeURIComponent(productName)}`}
+          target="_blank"
+          rel="nofollow noopener noreferrer"
+          className="flex items-center justify-center gap-2 rounded-xl bg-[#EE4D2D] px-5 py-3 text-sm font-bold text-white transition-all hover:bg-[#d9411f]"
+        >
+          Xem giá trên Shopee
+          <ExternalLink size={14} />
+        </a>
+      </div>
+    </section>
   );
 }
