@@ -1,0 +1,108 @@
+{
+  "id": "boss-bottled-edp",
+  "brandSlug": "hugo-boss",
+  "brand": "HUGO BOSS",
+  "name": "Boss Bottled",
+  "subName": "Eau de Parfum",
+  "perfumer": "Honorine Blanc",
+  "gender": "nam",
+  "image": "/images/products/boss-bottled-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/boss-bottled-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Hugo Boss Boss Bottled Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+  "productCopy": "Boss Bottled EDP là một kiểu nước hoa nam rất đúng tinh thần lịch sự, dễ dùng và thực tế. Mùi mở đầu có cảm giác táo và gia vị nhẹ, sau đó chuyển dần sang lớp gỗ ấm và sạch. Tổng thể không quá nổi loạn hay quá cá tính, mà thiên về hình ảnh một người đàn ông trưởng thành, đáng tin và biết cách giữ hình ảnh gọn gàng trong đời sống hằng ngày.\n\nĐiểm mạnh của Boss Bottled EDP là sự cân bằng. Nó đủ ấm để không bị nhạt, đủ tươi để không bị già, và đủ nam tính để dùng trong nhiều hoàn cảnh khác nhau. Đây là kiểu chai bạn có thể dùng đi làm, đi gặp đối tác, đi ăn tối nhẹ hoặc các dịp cần sự lịch sự mà không phải suy nghĩ nhiều.\n\nTrên da, Boss Bottled EDP phát triển theo hướng khá mượt. Lớp táo đầu giúp mùi dễ tiếp cận hơn, trong khi phần gỗ và gia vị phía sau giữ lại sự chững chạc. Nó không phải kiểu tạo cú sốc hay quá khác biệt, nhưng lại làm rất tốt việc khiến người xung quanh cảm thấy bạn thơm, gọn và dễ chịu.\n\nVề hiệu năng, chai này lưu hương khá và tỏa hương ở mức vừa phải. Trong điều kiện khí hậu Việt Nam, Boss Bottled EDP dùng tốt cả ngày lẫn tối, đặc biệt ở môi trường công sở hoặc nơi có máy lạnh. Đây là một lựa chọn ổn định cho người cần sự linh hoạt cao.\n\nNếu bạn muốn một chai nước hoa nam an toàn theo nghĩa tích cực, trưởng thành và hợp nhiều tình huống, Boss Bottled EDP là lựa chọn rất dễ sống chung lâu dài. Nó không quá flashy, nhưng sự ổn định và hình ảnh lịch sự mà nó mang lại luôn có giá trị thực tế.",
+  "article": "Boss Bottled dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+  "verdictShort": "LIVE CATALOG UPDATE",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "nam",
+      "icon": "?"
+    },
+    {
+      "label": "D? d�ng",
+      "icon": "??"
+    },
+    {
+      "label": "Catalog live",
+      "icon": "??"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 68,
+    "summer": 52,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 58,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Top note"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Middle note"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Base note"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ch? d?o",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "D? d�ng",
+      "value": 32,
+      "color": "#1abc9c"
+    },
+    {
+      "name": "Hi?n d?i",
+      "value": 24,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "?m",
+      "value": 20,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Boss Bottled EDP chính hãng giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá Boss Bottled EDP chính hãng: mùi gỗ gia vị lịch lãm, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026 tại Maison De Son.",
+  "tags": [
+    "nam",
+    "Catalog",
+    "Live",
+    "2026"
+  ],
+  "sizes": [
+    "10ml Chi?t",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1990000,
+  "shopeeOffers": []
+}

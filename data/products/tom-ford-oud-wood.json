@@ -1,0 +1,54 @@
+{
+  "id": "tom-ford-oud-wood",
+  "brandSlug": "tom-ford",
+  "brand": "TOM FORD",
+  "name": "Oud Wood",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "unisex",
+  "image": "/images/products/tom-ford-oud-wood-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/tom-ford-oud-wood-main.jpg",
+      "source": "amazon",
+      "caption": "TOM FORD Oud Wood chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nOud Wood là kiểu gỗ phương Đông sang, khô vừa phải và rất dễ tiếp cận so với cái tên “oud”. Nó không đi theo hướng oud động vật, tối đen hoặc nặng trầm, mà nghiêng về gỗ mịn, gia vị nhẹ, chút khói và cảm giác high-end rất rõ. Đây là một trong những chai niche-luxury dễ dùng nhất cho người muốn bước vào nhóm mùi gỗ tối sang.\n\nĐiểm mạnh của Oud Wood là sự tinh. Nó không cố làm quá, không quá dày, không quá tối, nhưng vẫn cho cảm giác đắt tiền ngay từ đầu. Trong điều kiện Việt Nam, đây là chai hợp cho tối, không gian điều hòa, gặp gỡ lịch sự hoặc người muốn một mùi sang mà không quá phô trương.\n\n## Diễn biến trên da\nMở đầu có gia vị và gỗ rất mượt, sau đó nền oud theo kiểu sạch và gỗ khô dần ổn định hơn. Mùi phát triển mềm, ít góc cạnh và không làm người mới chơi bị sốc.\n\nDrydown là lớp gỗ ấm, khô vừa, sang và khá ôm da. Nó không bùng nổ nhưng có chiều tinh tế cao. Nhược điểm là ai kỳ vọng oud mạnh, tối và quái có thể thấy Oud Wood hơi hiền.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nOud Wood có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, máy lạnh, công việc cần hình ảnh chỉn chu, event nhỏ hoặc hẹn hò theo hướng lịch thiệp.\n\nỞ Việt Nam, chai này dùng ổn hơn nhiều mùi gỗ tối khác vì không quá nặng. Ưu điểm là sang, dễ tiếp cận và rất wearable; nhược điểm là hiệu năng không thuộc nhóm bùng nổ.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai gỗ tối sang, cao cấp và không quá khó gần, Oud Wood rất đáng thử. Nó hợp người thích phong cách lịch thiệp, tối giản và muốn mùi hương tạo cảm giác đắt tiền nhẹ nhàng.\n\nNên mua khi mày cần một chai buổi tối sang nhưng không quá nặng. Nếu mày thích oud cực mạnh, có thể hướng này chưa đủ đô.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Unisex",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

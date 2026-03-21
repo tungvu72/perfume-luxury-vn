@@ -1,0 +1,82 @@
+{
+  "id": "jpg-le-male-elixir",
+  "brandSlug": "jean-paul-gaultier",
+  "brand": "JEAN PAUL GAULTIER",
+  "name": "Le Male Elixir",
+  "subName": "Parfum",
+  "perfumer": "Quentin Bisch",
+  "gender": "nam",
+  "image": "/images/products/jpg-le-male-elixir-bottle.jpg",
+  "images": [
+    {
+      "url": "/images/products/jpg-le-male-elixir-bottle.jpg",
+      "source": "studio",
+      "caption": "Ảnh chai JPG Le Male Elixir"
+    },
+    {
+      "url": "/images/products/jpg-le-male-elixir-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh chi tiết JPG Le Male Elixir"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nLe Male Elixir là phiên bản đậm nhất, ngọt nhất và tạo hiệu ứng mạnh nhất trong family Le Male hiện tại. Nếu Le Male gốc vui vẻ, Le Male Le Parfum sang hơn thì Elixir đi thẳng vào hướng mật ong, vanilla, amber và oải hương đậm, tạo cảm giác rất dày, rất quyến rũ và rất buổi tối. Đây là kiểu mùi sinh ra để nổi bật.\n\nĐiểm mạnh của chai này là sức hút rất trực diện. Nó không chơi kiểu tinh tế khó hiểu, mà chọn cách gây ấn tượng rõ bằng độ ngọt ấm, cảm giác sang tối và độ bám mùi mạnh. Trong gu dùng nước hoa ở Việt Nam, đây là kiểu chai dễ được khen ở môi trường đi chơi, hẹn hò, quán bar, tiệc đêm hoặc những dịp muốn thơm nổi bật rõ ràng.\n\n## Diễn biến trên da\nMở đầu có chút oải hương và bạc hà mang dấu ấn Le Male, nhưng rất nhanh phần vanilla, mật ong và hổ phách kéo tổng thể sang màu ngọt đậm. Trên da ấm, Elixir lên cực kỳ dày, mượt và có cảm giác gần như syrupy nếu xịt nhiều.\n\nDrydown là nơi chai này thể hiện đúng bản chất: ngọt, ấm, nặng và rất ôm da. Cảm giác sang theo kiểu hiện đại, sexy, hơi flashy chứ không understated. Nhược điểm cũng đến từ chính điểm mạnh này: nếu trời quá nóng hoặc dùng quá tay, nó rất dễ trở nên nặng và gây ngợp.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nLe Male Elixir có hiệu năng rất tốt: lưu hương thường 8-10 giờ, tỏa hương mạnh trong những giờ đầu. Nó hợp nhất cho chiều tối, ban đêm, phòng máy lạnh, thời tiết mát hoặc những dịp cần mùi hương có độ hiện diện cao.\n\nỞ Việt Nam, nên ưu tiên dùng buổi tối và tiết chế số lần xịt. Đây không phải chai lý tưởng để đi làm ban ngày hoặc dùng trong môi trường kín chật. Ưu điểm là bám khỏe, dễ gây ấn tượng; nhược điểm là độ linh hoạt thấp và không hợp người ghét mùi ngọt đậm.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nam tối, ngọt, mạnh và đúng kiểu compliment beast cho date night hoặc đi chơi, Le Male Elixir là lựa chọn rất rõ ràng. Nó hợp người trẻ, thích vibe ăn mặc nổi bật và muốn mùi hương góp phần tạo spotlight.\n\nNên mua khi mày đang cần một chai buổi tối có sức công phá. Nếu mày thích sự tinh tế, kín đáo hoặc khí hậu dùng chủ yếu là trưa nóng ngoài trời, nên cân nhắc kỹ.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Bạc hà"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "An tức hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Mật ong"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Thuốc lá"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

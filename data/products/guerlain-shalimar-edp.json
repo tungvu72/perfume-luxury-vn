@@ -1,0 +1,54 @@
+{
+  "id": "guerlain-shalimar-edp",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "Shalimar",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/guerlain-shalimar-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/guerlain-shalimar-edp-main.jpg",
+      "source": "amazon",
+      "caption": "GUERLAIN Shalimar chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nShalimar là một huyền thoại đúng nghĩa của nước hoa nữ phương Đông. Nó mang vanilla, nhựa thơm, hổ phách, citrus và một cảm giác khói nhẹ theo cách rất cổ điển, rất sang và gần như vượt thời gian. Đây không phải mùi hương để làm vừa lòng tất cả mọi người, mà là mùi hương có bản lĩnh riêng, có lịch sử và có sức nặng rất rõ khi lên da.\n\nĐiểm đáng nể ở Shalimar là dù đã ra đời rất lâu, nó vẫn có thể tạo cảm giác đắt và cuốn với người hợp gu. Mùi hương này không trẻ trung theo chuẩn hiện đại, nhưng lại có phong thái rất riêng: sang, điềm tĩnh, bí ẩn và có chiều sâu. Ở Việt Nam, Shalimar hợp hơn với người yêu gu cổ điển, sưu tập nước hoa hoặc muốn một mùi signature không giống thị trường số đông.\n\n## Diễn biến trên da\nMở đầu là lớp citrus có phần cổ điển, sau đó rất nhanh vanilla, nhựa thơm và hổ phách kéo mùi vào thế giới oriental đặc trưng. Trên da, Shalimar thường phát triển theo hướng ngày càng ấm, mềm và khói hơn, rất có chiều sâu.\n\nDrydown của Shalimar là nơi sức hút bộc lộ rõ nhất: vanilla không đơn giản là ngọt, mà có cảm giác resinous, tối và sang. Nó vừa mềm, vừa có lực. Nhược điểm là ai quen mùi nữ hiện đại sáng hoặc fruity có thể thấy Shalimar hơi quá cổ điển, thậm chí khó tiếp cận.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nShalimar có độ lưu hương tốt, khoảng 7-9 giờ, tỏa hương vừa đến khá và khá bền trên áo quần. Nó hợp nhất cho tối, thời tiết mát, tiệc, không gian có dress code hoặc những lúc muốn một mùi nữ thật sự có trọng lượng.\n\nTrong khí hậu Việt Nam, nên ưu tiên dùng buổi tối hoặc trong phòng điều hòa. Ưu điểm là đẳng cấp, có khí chất và rất khác biệt; nhược điểm là độ kén khá cao nếu người dùng chỉ thích mùi dễ thương, hiện đại.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nước hoa nữ kinh điển, phương Đông, sang và có chiều sâu thật sự, Shalimar là cái tên phải thử. Nó hợp người có gu, thích lịch sử nước hoa và muốn một mùi hương không bị hòa tan trong đám đông.\n\nNên mua khi mày cần một chai tối, cổ điển, sang trọng và có bản sắc. Nếu mày cần mùi dễ dùng mỗi ngày, có thể nên bắt đầu bằng lựa chọn hiền hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

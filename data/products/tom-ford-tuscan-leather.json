@@ -1,0 +1,54 @@
+{
+  "id": "tom-ford-tuscan-leather",
+  "brandSlug": "tom-ford",
+  "brand": "TOM FORD",
+  "name": "Tuscan Leather",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "unisex",
+  "image": "/images/products/tom-ford-tuscan-leather-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/tom-ford-tuscan-leather-main.jpg",
+      "source": "amazon",
+      "caption": "TOM FORD Tuscan Leather chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nTuscan Leather là một trong những chai leather nổi tiếng nhất của Tom Ford: da, quả chín sẫm, khói và cảm giác xa xỉ rất rõ. Nó không mềm ôm như Ombré Leather, mà mạnh hơn, đậm hơn và có chất quyền lực hơn. Đây là kiểu mùi không dành cho người thích sự an toàn; nó hiện diện như một tuyên ngôn.\n\nĐiểm mạnh của Tuscan Leather là độ nhận diện cực cao. Nó có sức nặng, có cái sang kiểu dark luxury và rất dễ tạo ấn tượng. Trong điều kiện Việt Nam, chai này hợp với tối, phòng lạnh, sự kiện hoặc người thật sự thích leather đậm có cá tính mạnh.\n\n## Diễn biến trên da\nMở đầu da lên rất nhanh cùng sắc quả sẫm và chút khói, sau đó tổng thể dần tròn hơn nhưng vẫn giữ độ dày và cảm giác dark. Mùi phát triển mạnh, không hiền ngay cả ở giai đoạn sau.\n\nDrydown là lớp da khô-ấm, hơi khói và rất quyền lực. Nó không “thân thiện”, nhưng cực kỳ có bản sắc. Nhược điểm là dùng sai hoàn cảnh sẽ dễ quá tay và làm người khác thấy áp lực.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nTuscan Leather có hiệu năng tốt, thường 8 giờ trở lên; tỏa hương khá. Nó hợp tối, event, mùa mát, không gian sang hoặc những lúc muốn dùng mùi hương như một phần của hình ảnh mạnh.\n\nỞ Việt Nam, nên dùng cực tiết chế. Ưu điểm là leather rất iconic; nhược điểm là độ đa dụng thấp và kén gu cao.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai leather dark-luxury thật sự có tiếng nói riêng, Tuscan Leather là lựa chọn rất đáng thử. Nó hợp người thích mùi đậm, có uy và không ngại bị nhớ.\n\nNên mua khi mày cần một chai tuyên ngôn cho buổi tối. Nếu mày muốn leather mềm, dễ mặc hơn, Ombré Leather thường hợp hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Unisex",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

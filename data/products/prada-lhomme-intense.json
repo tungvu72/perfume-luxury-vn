@@ -1,0 +1,79 @@
+{
+  "id": "prada-lhomme-intense",
+  "brandSlug": "prada",
+  "brand": "PRADA",
+  "name": "L'Homme Intense",
+  "subName": "Eau de Parfum",
+  "perfumer": "Daniela Andrier",
+  "gender": "nam",
+  "image": "/images/products/prada-lhomme-intense-bottle.jpg",
+  "images": [
+    {
+      "url": "/images/products/prada-lhomme-intense-bottle.jpg",
+      "source": "studio",
+      "caption": "Ảnh sản phẩm Prada L'Homme Intense (chai và hộp)"
+    },
+    {
+      "url": "/images/products/prada-lhomme-intense-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh chai Prada L'Homme Intense"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nPrada L'Homme Intense là bản tối, dày và gợi cảm hơn của Prada L'Homme gốc. Nếu bản thường giống một chiếc sơ mi trắng sạch sẽ thì bản Intense giống một bộ suit tối màu trong không gian ánh đèn vàng. Iris vẫn là linh hồn chính, nhưng lần này được phủ lên bởi amber, da và đậu tonka, khiến tổng thể ấm hơn, dày hơn và có độ buổi tối rõ hơn.\n\nĐiểm hấp dẫn của chai này là nó vẫn giữ được cảm giác sạch sang đặc trưng của Prada, nhưng thêm chiều sâu để phù hợp các dịp trang trọng hoặc hẹn hò. Nó không ngọt theo hướng trẻ, cũng không da thuộc quá gắt; thay vào đó là kiểu ấm, mượt, tinh tế và có khí chất trưởng thành. Trong phân khúc designer nam mặc suit đi tối, đây là một option rất đáng giá.\n\n## Diễn biến trên da\nMở đầu vẫn có cảm giác iris sạch quen thuộc nhưng nhanh chóng chuyển sang nền amber dày và da mềm. Chính phần da này không quá bụi hay khô mà được làm mượt, nên mùi lên rất sang và liền mạch. Trên da ấm, phần tonka và amber nổi rõ hơn, tạo cảm giác ấm áp và rất ôm da.\n\nDrydown là lúc Prada L'Homme Intense đẹp nhất: phấn sạch, da mềm, chút ngọt ấm và cực kỳ chỉn chu. Nó mang nét formal và có phần quiet luxury, không ồn nhưng người tinh mũi sẽ nhận ra chất lượng. Điểm trừ là nếu mày thích bản gốc vì sự sáng và dễ dùng ban ngày, bản Intense có thể hơi nặng hơn nhu cầu.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nHiệu năng của bản Intense tốt hơn bản thường: lưu hương khoảng 7-9 giờ, tỏa hương vừa đến khá. Nó hợp nhất cho chiều tối, phòng máy lạnh, hẹn hò, event có dress code hoặc những lúc muốn thơm sang mà không quá đại trà.\n\nTrong khí hậu Việt Nam, chai này nên ưu tiên dùng khi trời mát hoặc không gian điều hòa. Ban ngày nắng nóng có thể vẫn dùng được nếu xịt nhẹ, nhưng đây không phải sân chơi đẹp nhất của nó. Ưu điểm là sang, khác biệt vừa đủ và có chiều sâu; nhược điểm là độ đa dụng thấp hơn Prada L'Homme bản gốc.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích DNA sạch sang của Prada nhưng muốn bản trưởng thành, tối và quyến rũ hơn, Prada L'Homme Intense là nâng cấp rất hợp lý. Nó hợp người đi làm đã có gu, thích suit, thích mùi sạch nhưng không muốn quá văn phòng.\n\nNên mua khi mày cần một chai tối lịch sự, hẹn hò hoặc đi event. Nếu đang tìm một chai dùng ban ngày quanh năm, bản gốc sẽ hợp hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Hoa diên vĩ"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

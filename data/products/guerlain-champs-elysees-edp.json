@@ -1,0 +1,54 @@
+{
+  "id": "guerlain-champs-elysees-edp",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "Champs-Élysées",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/guerlain-champs-elysees-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/guerlain-champs-elysees-edp-main.jpg",
+      "source": "amazon",
+      "caption": "GUERLAIN Champs-Élysées chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nChamps-Élysées EDP là một mùi floral của Guerlain theo hướng sáng, nữ tính và vui hơn so với nhiều tượng đài cổ điển khác của hãng. Nó có cảm giác hoa nở, mềm, tươi và khá rạng rỡ, nhưng vẫn giữ nét sang tinh tế kiểu Guerlain. Đây là chai phù hợp với người muốn một floral cổ điển dễ tiếp cận hơn.\n\nĐiểm hay của Champs-Élysées là sự nhẹ sáng và duyên. Nó không quá powdery, không quá dark, cũng không ngọt nặng. Trong khí hậu Việt Nam, đây là chai có thể dùng khá ổn ban ngày hoặc những dịp cần một floral thanh lịch nhưng không quá nghiêm.\n\n## Diễn biến trên da\nMở đầu floral tươi và khá vui, sau đó mùi dần trở nên mềm hơn, tròn hơn với nền ấm nhẹ phía sau. Quá trình phát triển mượt, sạch và ít góc cạnh.\n\nDrydown floral mềm, nữ tính và dễ chịu. Nó không quá sâu hay quá dramatic, nhưng giữ được vẻ chỉn chu. Nhược điểm là với người thích mùi cá tính mạnh, chai này có thể hơi hiền.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nChamps-Élysées EDP có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương vừa. Nó hợp đi làm, gặp gỡ, ban ngày, tiệc nhẹ hoặc làm mùi floral thanh lịch thường nhật.\n\nỞ Việt Nam, chai này dùng khá dễ nhờ độ sáng và mềm. Ưu điểm là thanh lịch, dễ gần; nhược điểm là không phải mùi quá nổi hoặc quá hiện đại.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một floral Guerlain nữ tính, sáng và dễ sống hơn các chai cổ điển nặng đô, Champs-Élysées EDP là lựa chọn đẹp. Nó hợp người thích hoa cỏ thanh lịch và không cần quá nhiều drama.\n\nNên mua khi mày cần một chai floral dùng ban ngày. Nếu mày thích mùi tối, dày hoặc cực kỳ cá tính, nên chọn hướng khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

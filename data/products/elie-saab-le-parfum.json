@@ -1,0 +1,108 @@
+{
+  "id": "elie-saab-le-parfum",
+  "brandSlug": "elie-saab",
+  "brand": "ELIE SAAB",
+  "name": "Le Parfum",
+  "subName": "Eau de Parfum",
+  "perfumer": "Francis Kurkdjian",
+  "gender": "nu",
+  "image": "/images/products/elie-saab-le-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/elie-saab-le-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "Elie Saab Le Parfum Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+  "productCopy": "Elie Saab Le Parfum EDP là kiểu nước hoa nữ mang cảm giác sang và thanh lịch rất rõ ngay từ những phút đầu. Mùi mở ra với hoa cam rực rỡ, sau đó đi vào lớp hoa trắng dày hơn cùng mật ong và nền gỗ nhẹ. Tổng thể tạo cảm giác sáng, nữ tính và chỉn chu, như một chiếc váy đẹp được cắt may rất khéo chứ không cần quá nhiều chi tiết phô diễn.\n\nĐiểm đẹp của chai này là sự sang trọng mềm mại. Nó không ngọt kiểu trẻ trung, cũng không quá sắc lạnh. Thay vào đó, Elie Saab Le Parfum mang lại hình ảnh một người phụ nữ trưởng thành, ăn mặc đẹp, có sự dịu dàng nhưng vẫn toát ra đẳng cấp rất rõ. Mùi hương này hợp với tiệc, sự kiện, gặp gỡ trang trọng hoặc những ngày muốn mình thật thanh lịch.\n\nTrên da, lớp mật ong làm mùi trở nên ấm hơn và có chiều sâu hơn, nhưng hoa cam vẫn giữ cho tổng thể sự rạng rỡ. Chính sự kết hợp đó giúp chai này vừa có ánh sáng của hoa, vừa có độ ôm của nền ấm, tạo cảm giác rất cân bằng và cao cấp.\n\nVề hiệu năng, Elie Saab Le Parfum EDP lưu hương khá tốt và tỏa hương vừa đến khá. Trong khí hậu Việt Nam, nên dùng vừa tay vào ban ngày nóng để mùi giữ được độ tinh tế. Buổi tối, môi trường máy lạnh hoặc thời tiết dịu sẽ là thời điểm chai này lên rất đẹp.\n\nNếu bạn muốn một chai nước hoa nữ sang, thanh lịch và có chất “dressy” rõ ràng, Elie Saab Le Parfum là lựa chọn rất đáng cân nhắc. Nó không ồn ào hay quá trendy, nhưng sự tinh tế và độ hoàn thiện của nó đủ để khiến người mặc trông rất có gu.",
+  "article": "Le Parfum dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+  "verdictShort": "LIVE CATALOG UPDATE",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "nu",
+      "icon": "?"
+    },
+    {
+      "label": "D? d�ng",
+      "icon": "??"
+    },
+    {
+      "label": "Catalog live",
+      "icon": "??"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 68,
+    "summer": 52,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 58,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Top note"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Middle note"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Base note"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ch? d?o",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "D? d�ng",
+      "value": 32,
+      "color": "#1abc9c"
+    },
+    {
+      "name": "Hi?n d?i",
+      "value": 24,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "?m",
+      "value": 20,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Elie Saab Le Parfum chính hãng giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá Elie Saab Le Parfum chính hãng: mùi hoa cam sang trọng nữ tính, độ lưu hương, độ tỏa hương và giá tham khảo 2026.",
+  "tags": [
+    "nu",
+    "Catalog",
+    "Live",
+    "2026"
+  ],
+  "sizes": [
+    "10ml Chi?t",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2290000,
+  "shopeeOffers": []
+}

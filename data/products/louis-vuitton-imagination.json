@@ -1,0 +1,54 @@
+{
+  "id": "louis-vuitton-imagination",
+  "brandSlug": "louis-vuitton",
+  "brand": "LOUIS VUITTON",
+  "name": "Imagination",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/louis-vuitton-imagination-main.webp",
+  "images": [
+    {
+      "url": "/images/products/louis-vuitton-imagination-main.webp",
+      "source": "amazon",
+      "caption": "LOUIS VUITTON Imagination chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nImagination là kiểu citrus sạch, trà và ambrox rất hiện đại: sáng, gọn, sang và cực kỳ dễ dùng. Nó không gây choáng bằng độ dày hay độ ngọt, mà thắng ở cảm giác tinh, sạch và đắt tiền theo kiểu effortless. Đây là một trong những hướng mùi nam niche-luxury dễ sống nhất trong thời tiết Việt Nam.\n\nĐiểm hay của Imagination là nó tạo cảm giác người mặc rất chỉn chu mà không hề cố gắng. Có độ fresh rõ, có chất sạch sang, lại không quá sporty hay quá blue phổ thông. Vì vậy, chai này hợp từ đi làm, đi chơi ban ngày đến du lịch hoặc dùng làm signature.\n\n## Diễn biến trên da\nMở đầu là citrus sáng và rất sạch, sau đó phần trà cùng nền ambrox giúp tổng thể trở nên tròn, mượt và hiện đại hơn. Mùi phát triển không phức tạp, nhưng độ hoàn thiện rất cao.\n\nDrydown cho cảm giác sạch, hơi khoáng, hơi xà phòng cao cấp và bám da rất dễ chịu. Nó không phải kiểu bùng nổ cá tính, nhưng rất dễ khiến người khác thấy mày thơm và gọn gàng. Nhược điểm là ai thích mùi tối, ngọt hoặc quá độc lạ có thể thấy nó hơi hiền.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nImagination có độ lưu hương khá đến tốt, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, đi học, ban ngày, du lịch, mùa nóng và gần như mọi hoàn cảnh cần một mùi sạch-sang.\n\nỞ Việt Nam, đây là một trong những kiểu mùi dùng rất khỏe. Ưu điểm là linh hoạt, sạch và cao cấp; nhược điểm là mức giá cao so với cảm giác “nhẹ”.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai fresh-sạch-sang để dùng cực nhiều trong năm, Imagination rất đáng tiền. Nó hợp người thích phong cách chỉn chu, hiện đại và không muốn mùi hương làm quá.\n\nNên mua khi mày cần một chai signature ban ngày cao cấp. Nếu mày thích mùi đậm, tối hoặc sexy rõ, nên chọn hướng khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

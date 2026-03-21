@@ -1,0 +1,108 @@
+{
+  "id": "giorgio-armani-my-way",
+  "brandSlug": "giorgio-armani",
+  "brand": "GIORGIO ARMANI",
+  "name": "My Way",
+  "subName": "Eau de Parfum",
+  "perfumer": "Carlos Benaim & Bruno Jovanovic",
+  "gender": "nu",
+  "image": "/images/products/giorgio-armani-my-way-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/giorgio-armani-my-way-main.jpg",
+      "source": "fragram",
+      "caption": "Giorgio Armani My Way Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+  "productCopy": "Giorgio Armani My Way EDP là một chai nước hoa nữ hiện đại theo hướng hoa trắng sáng và rất dễ tiếp cận. Mùi mở đầu tươi và mềm, sau đó hoa huệ cùng hoa cam dần hiện rõ, tạo nên tổng thể nữ tính, sạch và có cảm giác rất gọn. Đây là kiểu mùi thơm đẹp, dễ dùng và dễ tạo thiện cảm mà không cần quá nhiều thời gian làm quen.\n\nĐiểm mạnh của My Way là sự rạng rỡ. Nó mang lại hình ảnh một cô gái hiện đại, vui tươi, cởi mở và thích khám phá nhưng vẫn giữ được sự chỉn chu. Mùi hương này không quá ngọt, không quá dày, cũng không quá nghệ, nhờ vậy nó phù hợp với khá nhiều độ tuổi và tình huống khác nhau.\n\nKhi lên da, My Way EDP trở nên mềm hơn và có chút kem nhẹ ở nền, giúp phần hoa trắng không bị quá sắc. Điều này làm chai nước hoa vừa nữ tính vừa dễ chịu, rất hợp cho đi làm, đi học, đi chơi ban ngày hay các buổi gặp gỡ nhẹ nhàng.\n\nVề hiệu năng, My Way EDP lưu hương khá và tỏa hương vừa phải, đủ để tạo cảm giác thơm sạch xung quanh mà không lấn át. Trong điều kiện khí hậu Việt Nam, đây là chai khá dễ dùng quanh năm, đặc biệt đẹp vào ban ngày hoặc trong môi trường máy lạnh.\n\nNếu bạn muốn một chai nước hoa nữ hiện đại, sáng, dễ dùng và có cảm giác sang nhẹ nhàng, Giorgio Armani My Way là lựa chọn rất hợp lý. Nó không quá kịch tính hay quá độc lạ, nhưng chính sự tươi mới và nữ tính cân bằng của nó khiến nhiều người rất dễ gắn bó lâu dài.",
+  "article": "My Way dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+  "verdictShort": "LIVE CATALOG UPDATE",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "nu",
+      "icon": "?"
+    },
+    {
+      "label": "D? d�ng",
+      "icon": "??"
+    },
+    {
+      "label": "Catalog live",
+      "icon": "??"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 68,
+    "summer": 52,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 58,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Top note"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Middle note"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Base note"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ch? d?o",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "D? d�ng",
+      "value": 32,
+      "color": "#1abc9c"
+    },
+    {
+      "name": "Hi?n d?i",
+      "value": 24,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "?m",
+      "value": 20,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Armani My Way chính hãng giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá Armani My Way chính hãng: mùi hoa trắng tươi nữ tính, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
+  "tags": [
+    "nu",
+    "Catalog",
+    "Live",
+    "2026"
+  ],
+  "sizes": [
+    "10ml Chi?t",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1990000,
+  "shopeeOffers": []
+}

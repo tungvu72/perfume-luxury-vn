@@ -1,0 +1,81 @@
+{
+  "id": "guerlain-angelique-noire",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "Angélique Noire",
+  "subName": "Eau de Parfum",
+  "perfumer": "Daniela Andrier",
+  "gender": "unisex",
+  "image": "/images/products/guerlain-angelique-noire-main.avif",
+  "images": [
+    {
+      "url": "/images/products/guerlain-angelique-noire-main.avif",
+      "source": "amazon",
+      "caption": "GUERLAIN Angélique Noire chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nAngelique Noire là kiểu vanilla niche rất Pháp: mềm, tối, sang và có chiều sâu tinh tế thay vì ngọt theo kiểu món tráng miệng. Vanilla ở đây đi cùng angelica và một cảm giác xanh nhẹ, khiến tổng thể vừa có độ ấm, vừa có độ thanh, không hề dễ dãi. Đây là một mùi hương đẹp theo kiểu càng ngửi càng thấy tinh vi.\n\nĐiểm đặc biệt của Angelique Noire là nó không làm vanilla trở nên quá gourmand. Thay vào đó, Guerlain tạo ra một vanilla có bóng tối, có độ khô nhẹ và có nét sang rất đắt. Trong điều kiện Việt Nam, chai này hợp nhất với người thích mùi ấm nhưng không muốn ngọt dày, và muốn một mùi hương có tính sang trọng kín đáo hơn là gây chú ý ngay.\n\n## Diễn biến trên da\nMở đầu có chút xanh và hơi sắc, sau đó vanilla bắt đầu trồi lên nhưng không tràn ngập mà đi rất mượt. Sự đối lập giữa phần xanh và phần ngọt làm Angelique Noire luôn giữ được độ căng, không bị phẳng.\n\nDrydown rất đẹp: vanilla mềm, ấm, hơi tối và có cảm giác sang sâu. Nó bám theo kiểu ôm da hơn là phát tỏa ồn ào. Nhược điểm là ai thích vanilla gourmand rõ, kiểu bánh kẹo dễ thương, có thể thấy chai này hơi lạnh và hơi nghiêm.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nAngelique Noire có độ lưu hương tốt, khoảng 7-9 giờ; tỏa hương vừa, thiên về aura gần. Nó hợp với chiều tối, hẹn hò, tiệc nhẹ, không gian tinh tế hoặc những ngày trời mát.\n\nỞ Việt Nam, chai này nên dùng trong không gian điều hòa hoặc buổi tối để vanilla lên đẹp và không bị dày. Ưu điểm là tinh tế, sang, khác biệt; nhược điểm là giá cao và không phải kiểu vanilla đại chúng dễ hiểu.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai vanilla niche có chiều sâu, không trẻ con, không quá ngọt và mang đúng chất Guerlain cao cấp, Angelique Noire là lựa chọn rất đáng giá. Nó hợp người có gu, thích sự kín và sang hơn là effect tức thì.\n\nNên mua khi mày đã chán các vanilla phổ thông và muốn một thứ tinh hơn, có cá tính hơn. Nếu mày cần mùi dễ thương, gourmand rõ hoặc dễ khen ngay, đây không phải hướng đầu tiên.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Bạch chỉ"
+    },
+    {
+      "name": "Lê"
+    },
+    {
+      "name": "Tiêu hồng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Nhài"
+    },
+    {
+      "name": "Thì là Ai Cập"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Bạch chỉ"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Unisex",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

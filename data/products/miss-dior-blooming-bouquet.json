@@ -1,0 +1,108 @@
+{
+  "id": "miss-dior-blooming-bouquet",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Miss Dior",
+  "subName": "Blooming Bouquet",
+  "perfumer": "Louise Turner",
+  "gender": "nu",
+  "image": "/images/products/miss-dior-blooming-bouquet-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/miss-dior-blooming-bouquet-main.jpg",
+      "source": "fragram",
+      "caption": "Miss Dior Blooming Bouquet Eau de Toilette chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+  "productCopy": "Miss Dior Blooming Bouquet EDT là kiểu nước hoa nữ mang cảm giác nhẹ nhàng, trong trẻo và rất dễ mến. Mùi mở đầu sáng và mềm, sau đó nhanh chóng chuyển sang lớp hoa mỏng nhẹ với cảm giác sạch và thanh. Tổng thể giống như một bó hoa hồng phấn được làm thật gọn, không quá ngọt, không quá dày, rất hợp với hình ảnh nữ tính dịu dàng.\n\nĐiểm mạnh của chai này là sự tinh khôi. Nó không cố trở nên quá sexy hay quá sang theo kiểu sắc nét, mà thiên về vẻ đẹp trẻ trung, gọn gàng và dễ tạo thiện cảm. Miss Dior Blooming Bouquet rất hợp với đi làm, đi học, đi cà phê, gặp gỡ ban ngày hoặc những lúc chỉ muốn mình thơm nhẹ một cách tinh tế.\n\nKhi lên da, mùi gần da hơn và giữ cảm giác sạch, hoa mềm khá ổn định. Đây không phải kiểu nước hoa chuyển lớp quá nhiều hay tạo dấu ấn mạnh trong cả căn phòng, nhưng lại rất đẹp ở khoảng cách gần. Nó khiến người ta có cảm giác bạn chỉn chu, dễ gần và có gu nhẹ nhàng.\n\nVề hiệu năng, vì là EDT nên Miss Dior Blooming Bouquet có độ lưu hương và độ tỏa ở mức vừa phải. Chính điều đó lại làm nó trở thành lựa chọn an toàn cho ban ngày và khí hậu nóng ẩm như Việt Nam. Nếu cần bám lâu hơn, có thể xịt thêm trên quần áo.\n\nNếu bạn đang tìm một chai nước hoa nữ nhẹ, thanh lịch và mang tinh thần “clean floral” dễ dùng, Miss Dior Blooming Bouquet là lựa chọn rất đáng yêu. Nó không quá kịch tính, nhưng lại có sức hút của sự tinh tế và dịu dàng mà nhiều người rất khó chê.",
+  "article": "Miss Dior dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+  "verdictShort": "LIVE CATALOG UPDATE",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "nu",
+      "icon": "?"
+    },
+    {
+      "label": "D? d�ng",
+      "icon": "??"
+    },
+    {
+      "label": "Catalog live",
+      "icon": "??"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 68,
+    "summer": 52,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 58,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Top note"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Middle note"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Base note"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ch? d?o",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "D? d�ng",
+      "value": 32,
+      "color": "#1abc9c"
+    },
+    {
+      "name": "Hi?n d?i",
+      "value": 24,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "?m",
+      "value": 20,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Miss Dior Blooming Bouquet giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá Miss Dior Blooming Bouquet chính hãng: mùi hoa nhẹ tươi nữ tính, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
+  "tags": [
+    "nu",
+    "Catalog",
+    "Live",
+    "2026"
+  ],
+  "sizes": [
+    "10ml Chi?t",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1990000,
+  "shopeeOffers": []
+}

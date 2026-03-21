@@ -1,0 +1,54 @@
+{
+  "id": "guerlain-shalimar-lessence",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "Shalimar L'Essence",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/guerlain-shalimar-lessence-main.webp",
+  "images": [
+    {
+      "url": "/images/products/guerlain-shalimar-lessence-main.webp",
+      "source": "amazon",
+      "caption": "GUERLAIN Shalimar L'Essence chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nShalimar L'Essence là một nhánh hiện đại và mượt hơn của tinh thần Shalimar cổ điển. Nó vẫn giữ chất vanilla, nhựa thơm và màu oriental sang trọng, nhưng được làm mềm, sáng và dễ tiếp cận hơn một chút. Đây là kiểu mùi vẫn mang khí chất Guerlain rõ, nhưng ít “khó vào” hơn Shalimar nguyên bản.\n\nĐiểm hấp dẫn của bản này là nó cho người dùng cảm giác cổ điển sang mà không quá dày. Với những ai từng thấy Shalimar quá vintage hoặc quá resinous, L'Essence thường là cửa vào dễ chịu hơn. Ở Việt Nam, đây là kiểu chai hợp cho người thích mùi ấm sang nhưng không muốn quá nặng.\n\n## Diễn biến trên da\nMở đầu có sắc độ tươi hơn một chút so với Shalimar cổ điển, nhưng rất nhanh vanilla và nền oriental vẫn hiện rõ. Mùi chuyển khá mượt, không sắc cạnh, thiên về sự mềm và bóng.\n\nDrydown ấm, sang và mịn, vẫn có nét nhựa thơm đặc trưng nhưng ít gai hơn. Nó dễ mặc hơn bản gốc, dù vẫn không phải kiểu ngọt hiện đại đơn giản. Nhược điểm là ai mê đúng tinh thần rất cổ điển của Shalimar có thể thấy bản này bớt “thép” đi phần nào.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nL'Essence có độ lưu hương tốt, thường 7-9 giờ; tỏa hương vừa. Nó hợp với tối, thời tiết mát, đi tiệc, không gian lịch sự hoặc những lúc muốn một mùi nữ sang nhưng không quá áp lực.\n\nỞ Việt Nam, nên dùng trong điều hòa hoặc buổi tối. Ưu điểm là sang, mượt, dễ tiếp cận hơn Shalimar cổ điển; nhược điểm là vẫn cần gu nhất định để cảm hết cái hay.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích chất oriental của Guerlain nhưng muốn một phiên bản mềm và hiện đại hơn Shalimar gốc, L'Essence rất đáng thử. Nó hợp người thích mùi ấm, nữ tính sang và có chiều sâu nhưng không quá vintage.\n\nNên mua khi mày muốn bước vào thế giới Shalimar theo lối dễ dùng hơn. Nếu mày thích bản gốc vì chất cổ điển mạnh, có thể vẫn ưu tiên bản original hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

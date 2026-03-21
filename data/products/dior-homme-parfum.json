@@ -1,0 +1,54 @@
+{
+  "id": "dior-homme-parfum",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Dior Homme Parfum",
+  "subName": "Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/dior-homme-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dior-homme-parfum-main.jpg",
+      "source": "amazon",
+      "caption": "DIOR Dior Homme Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nDior Homme Parfum là một trong những chai designer nam sang nhất nếu mày thích iris, da và cacao theo hướng tối mịn. Nó không nam tính kiểu cơ bắp hay tươi sáng, mà quyến rũ bằng cảm giác phấn mịn, da mềm, hơi son nhẹ và cực kỳ dressy. Đây là kiểu mùi đòi hỏi gu, nhưng khi hợp thì rất khó thay bằng chai khác.\n\nĐiểm mạnh của Dior Homme Parfum là độ sang và độ hoàn thiện. Nó có chất thời trang cao cấp rất rõ, mặc suit đẹp, sơ mi đẹp, tối đẹp. Trong thị trường Việt Nam, đây là kiểu mùi dành cho người đã biết mình thích gì và muốn một chai nam khác hẳn mặt bằng blue - sweet phổ thông.\n\n## Diễn biến trên da\nMở đầu iris lên khá rõ, sau đó da, cacao và nền gỗ làm mùi sâu hơn, tối hơn và mượt hơn. Quá trình phát triển rất liền lạc và càng về sau càng tạo cảm giác cao cấp.\n\nDrydown cực kỳ đẹp: phấn mịn, da mềm, hơi ấm và rất ôm da. Nó không gào thét nhưng có sức hút lớn ở khoảng cách gần. Nhược điểm là với ai không hợp iris hoặc ghét cảm giác son-phấn, chai này sẽ khá khó.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nDior Homme Parfum có hiệu năng tốt, thường 7-9 giờ hoặc hơn; tỏa hương vừa. Nó hợp tối, hẹn hò, event, thời tiết mát và các dịp muốn mùi hương thật sự sang.\n\nỞ Việt Nam, dùng đẹp nhất trong máy lạnh hoặc buổi tối. Ưu điểm là rất sang, khác biệt và có khí chất; nhược điểm là không quá đa dụng cho người mới.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai designer nam có chiều sâu, thời trang và rất có gu, Dior Homme Parfum là lựa chọn cực mạnh. Nó hợp người thích mùi sang kín, iris-da-cacao và không ngại chuyện kén người.\n\nNên mua khi mày cần một chai tối thật đẹp. Nếu mày thích mùi sạch sáng, casual, đây không phải hướng phù hợp.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

@@ -1,0 +1,108 @@
+{
+  "id": "bvlgari-man-in-black",
+  "brandSlug": "bvlgari",
+  "brand": "BVLGARI",
+  "name": "Man In Black",
+  "subName": "Eau de Parfum",
+  "perfumer": "Alberto Morillas",
+  "gender": "nam",
+  "image": "/images/products/bvlgari-man-in-black-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/bvlgari-man-in-black-main.jpg",
+      "source": "fragram",
+      "caption": "Bvlgari Man In Black Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+  "productCopy": "Bvlgari Man In Black EDP là kiểu nước hoa nam mang sắc tối và hơi quyền lực ngay từ những phút đầu. Mùi mở ra với cảm giác rum và gia vị khá rõ, sau đó chuyển sang thuốc lá mềm, da thuộc nhẹ và nền hổ phách ấm. Tổng thể rất nam tính, hơi bí ẩn và có chất ăn tối sang trọng rõ rệt.\n\nĐiểm mạnh của chai này là khí chất. Man In Black không đi theo hướng dễ thương hay fresh dễ gần, mà thiên về hình ảnh một người đàn ông trưởng thành, có chiều sâu và biết mình muốn gì. Nó hợp với buổi tối, các dịp mặc đồ chỉnh chu, gặp gỡ riêng tư hoặc những không gian cần mùi hương có trọng lượng.\n\nKhi lên da, phần rum và gia vị làm mùi khá nổi trong giai đoạn đầu, nhưng sau đó chai này trở nên ấm và mềm hơn nhờ lớp thuốc lá và amber. Đây là lúc Man In Black đẹp nhất: sang, trầm, cuốn và có độ ôm rất nam tính. Nó không quá ồn, nhưng chắc chắn có cá tính mạnh.\n\nVề hiệu năng, Bvlgari Man In Black EDP lưu hương tốt và tỏa hương ở mức khá. Trong khí hậu Việt Nam, nó sẽ phát huy đẹp hơn vào buổi tối, mùa mưa hoặc môi trường máy lạnh. Nếu dùng ban ngày nóng, nên xịt tiết chế để mùi không bị dày quá mức.\n\nNếu bạn muốn một chai nước hoa nam ấm tối, có chút boozy và tạo cảm giác trưởng thành rõ rệt, Bvlgari Man In Black là lựa chọn rất đáng cân nhắc. Nó không dành cho người thích mùi an toàn kiểu văn phòng, nhưng lại rất hợp với ai muốn một mùi hương có bản lĩnh và chất riêng.",
+  "article": "Man In Black dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+  "verdictShort": "LIVE CATALOG UPDATE",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "nam",
+      "icon": "?"
+    },
+    {
+      "label": "D? d�ng",
+      "icon": "??"
+    },
+    {
+      "label": "Catalog live",
+      "icon": "??"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 68,
+    "summer": 52,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 58,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Top note"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Middle note"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Base note"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ch? d?o",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "D? d�ng",
+      "value": 32,
+      "color": "#1abc9c"
+    },
+    {
+      "name": "Hi?n d?i",
+      "value": 24,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "?m",
+      "value": 20,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Bvlgari Man In Black chính hãng giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá Bvlgari Man In Black chính hãng: mùi rum gia vị tối quyến rũ, độ lưu hương, độ tỏa hương và giá tham khảo 2026.",
+  "tags": [
+    "nam",
+    "Catalog",
+    "Live",
+    "2026"
+  ],
+  "sizes": [
+    "10ml Chi?t",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1990000,
+  "shopeeOffers": []
+}

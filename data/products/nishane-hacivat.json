@@ -1,0 +1,85 @@
+{
+  "id": "nishane-hacivat",
+  "brandSlug": "nishane",
+  "brand": "NISHANE",
+  "name": "Hacivat",
+  "subName": "Extrait de Parfum",
+  "perfumer": "Jorge Lee",
+  "gender": "unisex",
+  "image": "/images/products/nishane-hacivat-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/nishane-hacivat-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh sản phẩm Nishane Hacivat (chai và hộp)"
+    },
+    {
+      "url": "/images/products/nishane-hacivat-bottle.jpg",
+      "source": "studio",
+      "caption": "Ảnh chai Nishane Hacivat"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nHacivat là kiểu niche nam sáng, sắc, sang và rất clean luxury theo hướng dứa, citrus, rêu sồi và gỗ. Nhiều người sẽ liên tưởng ngay đến nhóm DNA Aventus, nhưng Hacivat không đi theo hướng smoky-fruity quá nam tính cổ điển mà sáng hơn, sạch hơn và bóng bẩy hơn. Đây là chai có cảm giác chỉn chu, tự tin và nổi bật theo cách rất hiện đại.\n\nĐiều khiến Hacivat được săn đón là nó vừa dễ tiếp cận hơn nhiều chai niche khó ngửi, vừa đủ khác biệt để không bị nhầm với designer phổ thông. Ở khí hậu Việt Nam, kiểu mùi sáng, sắc, sạch như Hacivat dùng rất bắt, đặc biệt cho người muốn một chai signature cao cấp để đi làm, gặp khách, đi chơi ban ngày hoặc lên đồ sang gọn.\n\n## Diễn biến trên da\nMở đầu của Hacivat rất sáng với dứa, bưởi và bergamot, cho cảm giác mọng, sạch và có độ sang ngay lập tức. Sau đó phần gỗ, patchouli và đặc biệt là rêu sồi xuất hiện, khiến mùi hương chững lại và nam tính hơn. Chính lớp nền này giúp Hacivat không bị quá trái cây mà giữ được sự đĩnh đạc.\n\nDrydown của chai này rất đẹp: sạch, hơi xanh, khô nhẹ và cực kỳ sang. Trên da nóng, phần citrus có thể bay nhanh hơn nhưng nền gỗ-rêu vẫn bám rất chắc. Điểm trừ là nếu mày không hợp oakmoss hoặc ghét cảm giác hơi xanh-khoáng ở nền, Hacivat có thể cho cảm giác hơi sắc và không mềm như một số chai compliment beast khác.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nHacivat nổi tiếng có hiệu năng mạnh: lưu hương dễ 8-10 giờ hoặc hơn, tỏa hương khá rõ trong những giờ đầu. Nó cực hợp đi làm, gặp đối tác, sự kiện ban ngày, tiệc ngoài trời hoặc những lúc muốn thơm sang và sạch theo kiểu high-end.\n\nTrong thời tiết Việt Nam, Hacivat dùng tốt quanh năm nhưng đặc biệt đẹp vào mùa nóng, thời điểm ban ngày và không gian mở. Chỉ cần tiết chế số lần xịt vì hiệu năng của nó không yếu. Ưu điểm là sang, bền và có khí chất; nhược điểm là giá cao và độ sắc của nền rêu có thể hơi kén người mới.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai niche nam sáng, sang, dùng rất tự tin và có độ hiện diện mạnh, Hacivat là ứng viên đáng tiền. Nó hợp người thích phong cách gọn gàng, hiện đại, thích mùi sạch nhưng không nhạt.\n\nNên mua khi mày cần một chai premium để đi làm, gặp khách hoặc làm signature ban ngày. Nếu mày thích mùi mềm, ấm, tình cảm hơn là sáng sắc và sang lạnh, nên thử kỹ trước khi chốt.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Dứa"
+    },
+    {
+      "name": "Bưởi"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Gỗ"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Unisex",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

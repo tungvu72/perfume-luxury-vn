@@ -1,0 +1,108 @@
+{
+  "id": "armani-si-edp",
+  "brandSlug": "giorgio-armani",
+  "brand": "GIORGIO ARMANI",
+  "name": "S�",
+  "subName": "Eau de Parfum",
+  "perfumer": "Christine Nagel",
+  "gender": "nu",
+  "image": "/images/products/armani-si-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/armani-si-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Giorgio Armani Sì Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+  "productCopy": "Giorgio Armani Sì EDP là kiểu nước hoa nữ mang lại cảm giác thanh lịch hiện đại rất rõ ngay từ lần đầu ngửi. Mùi mở đầu với quả lý chua đen cho cảm giác mọng và hơi sắc, sau đó dần đi vào lớp hoa mềm và nền vanilla, gỗ được xử lý rất mượt. Tổng thể vừa nữ tính, vừa sang, vừa có chiều sâu, khiến nó trở thành một trong những chai designer nữ trưởng thành dễ dùng nhất trên thị trường.\n\nĐiểm đẹp của Armani Sì nằm ở sự cân bằng. Nó không quá ngọt kiểu gourmand, cũng không quá lạnh kiểu floral sạch. Chai này đứng ở khoảng giữa rất đẹp: đủ mềm để tạo cảm giác nữ tính, đủ sang để dùng trong môi trường chỉn chu, và đủ cuốn để không trở nên nhạt. Hình ảnh mà nó gợi ra là một người phụ nữ trưởng thành, tự tin, ăn nói gọn gàng và có gu theo cách không cần cố thể hiện.\n\nKhi lên da, Armani Sì phát triển rất mượt. Phần blackcurrant ở đầu giúp mùi có điểm nhấn và không bị quá hiền, nhưng càng về sau nền vanilla và gỗ lại làm mọi thứ mềm lại theo hướng rất dễ chịu. Đây là một trong những chai nước hoa có khả năng làm người mặc trông “well put together” rất tốt, đặc biệt trong văn phòng, gặp gỡ hoặc ăn tối nhẹ nhàng.\n\nVề hiệu năng, Armani Sì EDP có độ lưu hương khá tốt và độ tỏa ở mức vừa đến khá. Nó đủ để tạo dấu ấn nhưng không quá áp đảo, nên dùng được cả ban ngày lẫn buổi tối. Trong điều kiện khí hậu Việt Nam, chai này khá linh hoạt nếu xịt vừa tay, đặc biệt đẹp trong môi trường máy lạnh.\n\nNếu bạn muốn một chai nước hoa nữ sang, trưởng thành, dễ dùng và có độ cuốn rất ổn mà không cần quá phô trương, Giorgio Armani Sì EDP là lựa chọn rất đáng cân nhắc. Nó không phải kiểu gây sốc ngay lập tức, nhưng lại là kiểu càng dùng càng thấy hợp lý, đẹp và khó lỗi thời.",
+  "article": "S� dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+  "verdictShort": "LIVE CATALOG UPDATE",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "nu",
+      "icon": "?"
+    },
+    {
+      "label": "D? d�ng",
+      "icon": "??"
+    },
+    {
+      "label": "Catalog live",
+      "icon": "??"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 68,
+    "summer": 52,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 58,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Top note"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Middle note"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Base note"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ch? d?o",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "D? d�ng",
+      "value": 32,
+      "color": "#1abc9c"
+    },
+    {
+      "name": "Hi?n d?i",
+      "value": 24,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "?m",
+      "value": 20,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Armani Si EDP chính hãng giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá Armani Si EDP chính hãng: mùi lý chua đen vanilla thanh lịch, độ lưu hương, độ tỏa hương và giá tham khảo 2026 tại Maison De Son.",
+  "tags": [
+    "nu",
+    "Catalog",
+    "Live",
+    "2026"
+  ],
+  "sizes": [
+    "10ml Chi?t",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1990000,
+  "shopeeOffers": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "prada-infusion-diris",
+  "brandSlug": "prada",
+  "brand": "PRADA",
+  "name": "Infusion d'Iris",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/prada-infusion-diris-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/prada-infusion-diris-main.jpg",
+      "source": "amazon",
+      "caption": "PRADA Infusion d'Iris chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nInfusion d'Iris là kiểu sạch sang rất Prada: iris mịn, xà phòng thanh, chút citrus và nền gỗ sáng tạo nên cảm giác tinh, sạch và gần như tối giản tuyệt đối. Đây không phải mùi hương để gây choáng hay tạo sex appeal trực diện, mà là mùi của sự tinh tươm, chỉn chu và gu thẩm mỹ kín.\n\nĐiểm mạnh của chai này là nó lên người như một lớp vải sạch cao cấp. Mọi thứ đều mượt, mỏng và gọn chứ không phô diễn. Trong bối cảnh Việt Nam, Infusion d'Iris hợp với người thích mùi sạch-sang, dùng đi làm, đi gặp gỡ nhẹ hoặc làm signature cho những ai không muốn mùi hương quá ồn.\n\n## Diễn biến trên da\nMở đầu là citrus và cảm giác xà phòng sạch rất tinh. Sau đó iris bắt đầu lộ ra, nhưng không phấn đậm mà mịn, sáng và hiện đại. Toàn bộ diễn biến của chai này tương đối nhẹ nhàng, không có cú twist lớn mà chủ yếu duy trì trạng thái thanh và sạch.\n\nDrydown của Infusion d'Iris rất mượt: hơi phấn nhẹ, sạch, sáng và rất ôm da. Nó đẹp theo kiểu gần gũi chứ không bùng nổ. Nhược điểm là ai thích mùi đậm, ngọt hoặc tỏa mạnh sẽ thấy chai này hơi kín.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nInfusion d'Iris có độ lưu hương vừa khá, khoảng 5-7 giờ; tỏa hương nhẹ đến vừa. Nó cực hợp cho văn phòng, đi làm, ban ngày, thời tiết nóng hoặc môi trường cần sự thanh lịch kín đáo.\n\nỞ Việt Nam, đây là kiểu mùi rất dễ dùng vì không ngọt và không nặng. Ưu điểm là sạch, tinh tế, ít rủi ro; nhược điểm là không tạo spotlight mạnh và có thể hơi hiền với người thích mùi đậm.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai mùi sạch-sang theo hướng understated luxury, Infusion d'Iris là lựa chọn cực đẹp. Nó hợp người thích gu tối giản, chỉn chu và muốn mùi hương như một phần của phong cách hơn là tuyên bố lớn.\n\nNên mua khi mày cần một chai signature văn phòng hoặc dùng thường ngày thật thanh. Nếu mày cần hiệu năng mạnh hoặc cá tính cao, nên bổ sung thêm một chai khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

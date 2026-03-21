@@ -1,0 +1,54 @@
+{
+  "id": "chanel-allure-homme-sport",
+  "brandSlug": "chanel",
+  "brand": "CHANEL",
+  "name": "Allure Homme Sport",
+  "subName": "Eau de Toilette",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/chanel-allure-homme-sport-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/chanel-allure-homme-sport-main.jpg",
+      "source": "amazon",
+      "caption": "CHANEL Allure Homme Sport chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nAllure Homme Sport là kiểu Chanel nam tươi, sạch và cực kỳ gọn gàng. Nó không quá ngọt như nhiều chai sport hiện đại, cũng không quá xanh hay quá aquatic, mà nằm ở điểm cân bằng rất đẹp giữa citrus, sự sạch sẽ và độ gỗ nhẹ phía sau. Đây là kiểu mùi khiến người mặc trông khỏe khoắn, sáng sủa và có gu.\n\nĐiểm mạnh của chai này là sự linh hoạt. Nó vừa đủ trẻ để dùng hằng ngày, vừa đủ sang để không bị tầm thường. Trong khí hậu Việt Nam, đây là một trong những kiểu mùi dễ dùng nhất vì lên sáng, thoáng và ít khi làm người xung quanh khó chịu.\n\n## Diễn biến trên da\nMở đầu là citrus sạch và mát, sau đó các note gỗ, xạ hương và chút ngọt nhẹ làm tổng thể tròn hơn. Chai này không biến đổi quá nhiều tầng, nhưng mọi chuyển động đều rất mượt và hợp logic.\n\nDrydown vẫn giữ tinh thần sạch-sáng đặc trưng, chỉ ấm hơn một chút. Nó không phải mùi cực kỳ cá tính, nhưng blend đẹp và ra đúng chất cao cấp dễ mặc. Nhược điểm là ai thích mùi đậm, tối hoặc quá riêng có thể thấy nó hơi an toàn.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nAllure Homme Sport có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương vừa. Nó hợp đi làm, đi học, đi chơi ban ngày, du lịch, vận động nhẹ hoặc dùng làm signature quanh năm.\n\nỞ Việt Nam, chai này phát huy rất tốt nhờ tính sạch và thoáng. Ưu điểm là cực dễ mặc và có chất lượng hoàn thiện cao; nhược điểm là độ bùng nổ không mạnh bằng bản Eau Extreme.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày cần một chai nam tươi, sạch, cao cấp và ít rủi ro, Allure Homme Sport là lựa chọn rất vững. Nó hợp người muốn một mùi signature sáng sủa, gọn gàng và không cần suy nghĩ quá nhiều.\n\nNên mua khi mày muốn một chai dùng ban ngày thật ổn. Nếu mày thích phiên bản ngọt ấm và nổi bật hơn, Eau Extreme sẽ hợp hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

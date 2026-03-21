@@ -1,0 +1,54 @@
+{
+  "id": "versace-eros-flame",
+  "brandSlug": "versace",
+  "brand": "VERSACE",
+  "name": "Eros Flame",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/versace-eros-flame-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/versace-eros-flame-main.jpg",
+      "source": "amazon",
+      "caption": "VERSACE Eros Flame chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nEros Flame là phiên bản cay, ấm và đỏ hơn của Eros. Nó vẫn giữ tinh thần dễ gây chú ý, năng lượng cao và có độ sexy rõ, nhưng thay vì đi theo hướng mint-vanilla sáng, nó đẩy sang vùng citrus nóng, gia vị và nền ấm nam tính hơn. Đây là một chai rất hợp với người thích mùi nổi nhưng muốn trưởng thành hơn Eros gốc một chút.\n\nĐiểm mạnh của Eros Flame là sự bùng nổ có kiểm soát. Nó vẫn rất dễ nhận ra là một chai “đi chơi”, nhưng có chiều hơn và ít trẻ con hơn bản xanh. Trong khí hậu Việt Nam, chai này hợp với tối, hẹn hò, tiệc nhẹ hoặc những dịp muốn để lại ấn tượng nhanh.\n\n## Diễn biến trên da\nMở đầu citrus và gia vị lên khá mạnh, sau đó nền ấm và ngọt bắt đầu xuất hiện, làm tổng thể dày hơn và cuốn hơn. Mùi phát triển theo hướng nồng nhiệt, không hề kín.\n\nDrydown là lớp ấm, ngọt nhẹ và nam tính rõ. Nó dễ tạo cảm giác hấp dẫn nếu dùng đúng liều. Nhược điểm là xịt mạnh tay trong thời tiết nóng dễ khiến mùi hơi áp lực.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nEros Flame có độ lưu hương khá tốt, khoảng 7-9 giờ; tỏa hương vừa đến khá. Nó hợp tối, đi chơi, date night, mùa mát hoặc những lúc muốn mùi hương bật lên rõ.\n\nỞ Việt Nam, nên dùng về chiều tối và kiểm soát số lần xịt. Ưu điểm là nổi và dễ tạo ấn tượng; nhược điểm là tính công sở không cao.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích vibe của Eros nhưng muốn một phiên bản cay ấm và chững hơn, Eros Flame là lựa chọn đáng thử. Nó hợp người thích mùi thu hút, năng lượng cao và không ngại nổi.\n\nNên mua khi mày cần một chai đi chơi tối rất hiệu quả. Nếu mày thích sự kín đáo hoặc quá thanh lịch, nên chọn hướng khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "parfums-de-marly-althair",
+  "brandSlug": "parfums-de-marly",
+  "brand": "PARFUMS DE MARLY",
+  "name": "Althaïr",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/parfums-de-marly-althair-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/parfums-de-marly-althair-main.jpg",
+      "source": "amazon",
+      "caption": "PARFUMS DE MARLY Althaïr chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nAlthaïr là kiểu vanilla - gia vị - gỗ hiện đại rất tròn, sang và dễ gây nghiện. Nó không phải vanilla nữ tính mềm hoàn toàn, cũng không quá tối, mà nằm ở điểm giữa rất đẹp: ấm, mịn, ngọt vừa và có cảm giác upscale rõ. Đây là một trong những chai gourmand nam hiện đại dễ lấy lòng nhất của Parfums de Marly.\n\nĐiểm mạnh của Althaïr là độ nịnh mũi cao. Nó sang hơn nhiều chai ngọt phổ thông nhưng vẫn đủ dễ chịu để nhiều người thích ngay. Trong khí hậu Việt Nam, chai này hợp cho tối, máy lạnh, đi chơi hoặc người thích một mùi ngọt ấm hiện đại nhưng không quá “kẹo”.\n\n## Diễn biến trên da\nMở đầu có gia vị và độ sáng vừa phải trước khi vanilla cùng gỗ làm tổng thể mượt và dày hơn. Mùi chuyển khá mềm, không gắt và càng về sau càng tạo cảm giác ôm da rất đẹp.\n\nDrydown là lớp vanilla ấm, hơi kem, hơi gỗ và rất nịnh khoảng cách gần. Nó không quá phức tạp nhưng hoàn thiện tốt. Nhược điểm là nếu mày đã có nhiều chai vanilla ấm, Althaïr có thể không tạo cú sốc mới mẻ lớn.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nAlthaïr có hiệu năng tốt, khoảng 7-9 giờ; tỏa hương vừa đến khá. Nó hợp hẹn hò, tối, mùa mát, không gian máy lạnh hoặc những dịp muốn thơm theo kiểu ấm sang hiện đại.\n\nỞ Việt Nam, nên dùng buổi tối để mùi lên đẹp nhất. Ưu điểm là dễ thích, sang và wearable; nhược điểm là không thật sự hợp trời nóng gay gắt.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai vanilla nam hiện đại, sang và rất dễ được thích, Althaïr là lựa chọn rất mạnh. Nó hợp người thích mùi ngọt ấm mượt nhưng không muốn quá trẻ con.\n\nNên mua khi mày cần một chai buổi tối dễ khen. Nếu mày ưu tiên sự xanh, khô hoặc quá khác biệt, nên cân nhắc hướng khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

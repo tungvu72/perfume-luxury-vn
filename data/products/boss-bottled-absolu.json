@@ -1,0 +1,54 @@
+{
+  "id": "boss-bottled-absolu",
+  "brandSlug": "boss",
+  "brand": "HUGO BOSS",
+  "name": "Boss Bottled Absolu",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/boss-bottled-absolu-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/boss-bottled-absolu-main.jpg",
+      "source": "amazon",
+      "caption": "HUGO BOSS Bottled Absolu chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nBoss Bottled Absolu đi theo hướng ấm, gỗ và ngọt nhẹ kiểu nam hiện đại dễ tiếp cận. Nó giữ tinh thần lịch sự, wearable của line Boss Bottled nhưng làm đậm và sang hơn, khiến tổng thể chững hơn các bản sáng trẻ thông thường. Đây là kiểu mùi hợp với người muốn một chai nam an toàn nhưng vẫn có cảm giác buổi tối rõ hơn.\n\nĐiểm mạnh của Absolu là tính thực dụng. Nó không quá thử thách, không quá nghệ, mà tập trung vào việc thơm, nam tính và dễ ứng dụng trong đời sống thật. Trong bối cảnh Việt Nam, chai này hợp đi làm môi trường mát, hẹn hò nhẹ, đi ăn tối hoặc người thích designer nam dễ sống.\n\n## Diễn biến trên da\nMở đầu ấm và hơi cay nhẹ, sau đó phần gỗ cùng độ ngọt mềm bắt đầu hiện rõ hơn. Mùi phát triển khá gọn, ít góc cạnh và thiên về sự mượt.\n\nDrydown cho cảm giác gỗ ấm, sạch và nam tính. Nó không quá bùng nổ nhưng khá dễ chịu ở khoảng cách gần. Nhược điểm là người thích mùi thật cá tính hoặc thật niche có thể thấy nó hơi an toàn.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nBoss Bottled Absolu có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, đi gặp gỡ, buổi tối nhẹ hoặc làm chai grab-and-go theo hướng chững chạc.\n\nỞ Việt Nam, chai này dùng khá ổn nếu không xịt quá tay. Ưu điểm là dễ mặc và gọn; nhược điểm là độ độc đáo không cao.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nam ấm, lịch sự và dễ dùng hơn nhiều mùi nặng đô buổi tối, Boss Bottled Absolu là lựa chọn ổn. Nó hợp người thích designer nam chững, không ồn ào.\n\nNên mua khi mày cần một chai tối nhẹ hoặc dùng đi làm môi trường mát. Nếu mày cần mùi thật nổi, nên tìm hướng mạnh hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

@@ -1,0 +1,108 @@
+{
+  "id": "issey-miyake-leau-dissey-pour-homme",
+  "brandSlug": "issey-miyake",
+  "brand": "ISSEY MIYAKE",
+  "name": "L�Eau d�Issey Pour Homme",
+  "subName": "Eau de Toilette",
+  "perfumer": "Jacques Cavallier",
+  "gender": "nam",
+  "image": "/images/products/issey-miyake-leau-dissey-pour-homme-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/issey-miyake-leau-dissey-pour-homme-main.jpg",
+      "source": "fragram",
+      "caption": "Issey Miyake L'Eau d'Issey Pour Homme chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+  "productCopy": "Issey Miyake L'Eau d'Issey Pour Homme EDT là một trong những chai nước hoa nam tươi mát kinh điển. Mùi mở đầu rất sáng với citrus và cảm giác watery sạch sẽ, sau đó dần chuyển sang lớp hương cay nhẹ và gỗ thoáng. Tổng thể tạo cảm giác mát, thanh và có phần tối giản, đúng tinh thần gọn gàng mà nhiều người yêu ở các thiết kế Nhật Bản.\n\nĐiểm hay của chai này là sự trong trẻo. Nó không ngọt, không dày, không cố quyến rũ bằng kiểu nồng ấm. Thay vào đó, L'Eau d'Issey Pour Homme mang đến cảm giác người mặc rất sạch, rất dễ chịu và gần như luôn phù hợp trong môi trường hằng ngày. Đây là kiểu mùi cực ổn cho thời tiết nóng hoặc những ai ngại mùi quá nặng.\n\nKhi lên da, chai này giữ được sự sáng và mát khá lâu trước khi nền gỗ hiện ra. Điều đó làm tổng thể không bị quá mỏng mà vẫn giữ được tính nam cần thiết. Nó gợi ra hình ảnh một người đàn ông điềm tĩnh, tinh gọn và ưu tiên sự thoải mái hơn là phô diễn cá tính.\n\nVề hiệu năng, L'Eau d'Issey Pour Homme EDT ở mức khá với độ tỏa vừa phải. Đây không phải kiểu mùi bám cả ngày quá mạnh, nhưng lại rất đẹp cho ban ngày, văn phòng, đi học, đi dạo hoặc bất kỳ hoàn cảnh nào cần sự dễ chịu. Trong khí hậu Việt Nam, chai này là một lựa chọn rất hợp mùa nóng.\n\nNếu bạn cần một chai nước hoa nam tươi sạch, thanh lịch và không bao giờ quá đà, L'Eau d'Issey Pour Homme là cái tên rất đáng thử. Nó không phải kiểu trendy ồn ào, nhưng sự gọn gàng và cân bằng của nó vẫn khiến nhiều người trung thành suốt nhiều năm.",
+  "article": "L�Eau d�Issey Pour Homme dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+  "verdictShort": "LIVE CATALOG UPDATE",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "nam",
+      "icon": "?"
+    },
+    {
+      "label": "D? d�ng",
+      "icon": "??"
+    },
+    {
+      "label": "Catalog live",
+      "icon": "??"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 68,
+    "summer": 52,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 58,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Top note"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Middle note"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Base note"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ch? d?o",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "D? d�ng",
+      "value": 32,
+      "color": "#1abc9c"
+    },
+    {
+      "name": "Hi?n d?i",
+      "value": 24,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "?m",
+      "value": 20,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "L'Eau d'Issey Pour Homme giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá L'Eau d'Issey Pour Homme chính hãng: mùi citrus biển sạch nhẹ, độ lưu hương, độ tỏa hương và giá tham khảo 2026 tại Maison De Son.",
+  "tags": [
+    "nam",
+    "Catalog",
+    "Live",
+    "2026"
+  ],
+  "sizes": [
+    "10ml Chi?t",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1990000,
+  "shopeeOffers": []
+}

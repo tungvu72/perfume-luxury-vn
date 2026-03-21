@@ -1,0 +1,108 @@
+{
+  "id": "gucci-bloom-edp",
+  "brandSlug": "gucci",
+  "brand": "GUCCI",
+  "name": "Bloom",
+  "subName": "Eau de Parfum",
+  "perfumer": "Alberto Morillas",
+  "gender": "nu",
+  "image": "/images/products/gucci-bloom-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/gucci-bloom-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Gucci Bloom Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+  "productCopy": "Gucci Bloom EDP là một chai nước hoa nữ dành cho người thật sự yêu hương hoa trắng. Mùi mở ra gần như ngay lập tức với cảm giác của một bó hoa tươi, nổi bật là huệ trắng và nhài, tạo nên tổng thể rất nữ tính, tự nhiên và đầy sức sống. Đây không phải kiểu hoa trắng được phủ quá nhiều đường hay vanilla, mà là hoa theo hướng chân thật và có độ hiện diện rõ.\n\nĐiểm đẹp của Gucci Bloom là sự thẳng thắn. Nó không cố làm mình thành một mùi gourmand hay một chai floral-fruity dễ chiều số đông. Thay vào đó, chai này trung thành với vẻ đẹp của hoa, mang lại hình ảnh một người phụ nữ thanh lịch, có gu riêng và không cần mùi quá ngọt để trở nên cuốn hút.\n\nKhi lên da, Bloom giữ được chất hoa khá tròn và nhất quán. Mùi không chuyển quá nhiều lớp, nhưng đó lại là điểm mạnh vì nó làm rất rõ tinh thần “vườn hoa nở trên da”. Phù hợp với người thích sự nữ tính truyền thống, đi làm, gặp gỡ ban ngày, đi ăn trưa hoặc những dịp cần một mùi hương chỉnh tề nhưng không phô trương.\n\nVề hiệu năng, Gucci Bloom EDP lưu hương khá và tỏa hương ở mức vừa. Trong khí hậu Việt Nam, chai này khá hợp vì không quá ngọt, nhưng nếu thời tiết quá oi thì chỉ nên xịt vừa tay để hoa giữ được độ sáng đẹp.\n\nNếu bạn muốn một chai nước hoa nữ thiên về hoa thật, thanh lịch và có cảm giác “nữ tính đúng nghĩa”, Gucci Bloom EDP là lựa chọn rất đáng cân nhắc. Nó không phải mùi dành cho ai thích ngọt rõ, nhưng lại cực hợp với người yêu vẻ đẹp của hoa trắng một cách tinh gọn và tinh tế.",
+  "article": "Bloom dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+  "verdictShort": "LIVE CATALOG UPDATE",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "nu",
+      "icon": "?"
+    },
+    {
+      "label": "D? d�ng",
+      "icon": "??"
+    },
+    {
+      "label": "Catalog live",
+      "icon": "??"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 68,
+    "summer": 52,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 58,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Top note"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Middle note"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Base note"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ch? d?o",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "D? d�ng",
+      "value": 32,
+      "color": "#1abc9c"
+    },
+    {
+      "name": "Hi?n d?i",
+      "value": 24,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "?m",
+      "value": 20,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Gucci Bloom chính hãng giá bao nhiêu? Review mùi hương 2026",
+  "metaDescription": "Đánh giá Gucci Bloom chính hãng: mùi hoa trắng đậm nữ tính, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026 tại Maison De Son.",
+  "tags": [
+    "nu",
+    "Catalog",
+    "Live",
+    "2026"
+  ],
+  "sizes": [
+    "10ml Chi?t",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1990000,
+  "shopeeOffers": []
+}

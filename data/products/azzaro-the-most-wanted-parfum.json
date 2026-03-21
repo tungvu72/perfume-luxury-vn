@@ -1,0 +1,108 @@
+{
+  "id": "azzaro-the-most-wanted-parfum",
+  "brandSlug": "azzaro",
+  "brand": "AZZARO",
+  "name": "The Most Wanted",
+  "subName": "Parfum",
+  "perfumer": "Nicolas Bonneville",
+  "gender": "nam",
+  "image": "/images/products/azzaro-the-most-wanted-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/azzaro-the-most-wanted-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "Azzaro The Most Wanted Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Đây là kiểu mùi nam ngọt, gừng và gỗ khá hút người đối diện. Hợp đi tối, đi chơi và người thích mùi có lực. Nếu bạn cần chai mỏng nhẹ đi làm, bản này không phải ưu tiên đầu.",
+  "productCopy": "Azzaro The Most Wanted Parfum là kiểu nước hoa nam được làm ra cho những dịp muốn gây ấn tượng mạnh. Mùi mở đầu đã cho cảm giác ấm, hơi cay và ngọt rõ, sau đó nhanh chóng đi vào lớp vanilla, gỗ và chút hổ phách dày dặn. Tổng thể vừa tối hơn, vừa quyến rũ hơn, mang màu sắc rất hợp với hẹn hò và những buổi tối có không khí.\n\nĐiểm mạnh của chai này là độ cuốn. Nó không đi theo hướng lịch sự kiểu văn phòng, mà thiên về vibe đàn ông tự tin, biết mình hấp dẫn và không ngại trở nên nổi bật. The Most Wanted Parfum hợp với không gian gần, những buổi đi ăn tối, đi chơi đêm hoặc các dịp muốn để lại ấn tượng rõ ràng ngay từ lần đầu.\n\nTrên da, mùi trở nên mượt hơn sau lớp cay đầu. Phần ngọt được xử lý khá đẹp, không quá trẻ con mà nghiêng về hướng sexy, ôm da và dễ gây thiện cảm. Chính sự cân bằng này khiến chai nước hoa vừa đủ mạnh để có dấu ấn, vừa đủ mượt để không bị thô.\n\nVề hiệu năng, đây là chai có độ lưu hương tốt và tỏa hương khá rõ. Trong điều kiện khí hậu Việt Nam, nó phù hợp nhất vào buổi tối, phòng máy lạnh hoặc thời tiết dịu mát. Nếu dùng giữa trưa nắng nóng thì chỉ nên xịt rất tiết chế để tránh cảm giác quá dày.\n\nNếu bạn muốn một chai nước hoa nam hiện đại, ngọt ấm và có sức hút tình cảm mạnh, Azzaro The Most Wanted Parfum là một lựa chọn đáng tiền. Nó không dành cho người thích sự kín đáo, nhưng lại cực hợp với người muốn mùi hương của mình có lực hút ngay từ những giây đầu tiên.",
+  "article": "Ở Maison de SON, The Most Wanted Parfum là một trong những chai nam designer đi tối đáng chú ý nhất ở tầm giá dễ tiếp cận hơn niche. Nó có kiểu đẹp khá trực diện: ngọt, ấm, nam tính và dễ được khen.\n\n### Nguồn gốc và xuất xứ\nThe Most Wanted thuộc Azzaro, thương hiệu đã có nhiều dòng nam nổi tiếng với phong cách mạnh, trẻ và dễ tạo ấn tượng.\n\n### Ra mắt khi nào?\nBản Parfum ra mắt năm 2022, sau khi line Wanted đã có chỗ đứng tốt ở phân khúc nam hiện đại.\n\n### Câu chuyện ra đời\nChai này được tạo để đi theo hướng hấp dẫn và dễ gây chú ý hơn trong môi trường thực tế. Nó không quá cầu kỳ nhưng hiệu quả cao nếu dùng đúng hoàn cảnh.\n\n### Mùi hương mang lại cảm giác gì?\nGừng, vanilla bourbon và gỗ tạo cảm giác ngọt ấm, hơi cay nhẹ và khá ôm người. Đây là kiểu mùi đi tối rất dễ được thấy là nam tính và cuốn.\n\n### Khi nào nên dùng?\n- Hẹn hò, đi chơi tối, bar, cafe đêm\n- Hợp người thích mùi nam hiện đại có độ hút tốt\n- Không hợp lắm nếu bạn chỉ thích mùi sạch sáng ban ngày\n\n### Nhận xét của Maison de SON\nĐiểm mạnh của chai này là hiệu quả thực chiến cao. Điểm yếu là không quá lạ và hơi đụng hàng trong nhóm nam trẻ.",
+  "verdict": "Mùi này ngọt ấm, nam tính và rất hợp đi tối. Hợp người thích mùi dễ được khen. Nếu bạn cần chai đi làm nhẹ nhàng, bản này hơi gắt.",
+  "verdictShort": "NAM TÍNH, NGỌT ẤM, DỄ ĐƯỢC KHEN",
+  "score": {
+    "scent": 8.9,
+    "uniqueness": 7.8,
+    "compliments": 9.2,
+    "value": 8.8,
+    "total": 8.7
+  },
+  "vibes": [
+    {
+      "label": "Buổi tối",
+      "icon": "🌙"
+    },
+    {
+      "label": "Hẹn hò",
+      "icon": "❤️"
+    },
+    {
+      "label": "Nam tính",
+      "icon": "🖤"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 8,
+  "seasons": {
+    "spring": 44,
+    "summer": 18,
+    "fall": 90,
+    "winter": 96
+  },
+  "dayNight": {
+    "day": 24,
+    "night": 100
+  },
+  "topNotes": [
+    {
+      "name": "Gừng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hương gỗ"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vanilla bourbon"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ngọt",
+      "value": 64,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gỗ",
+      "value": 38,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị",
+      "value": 28,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Ấm",
+      "value": 26,
+      "color": "#c58a2b"
+    }
+  ],
+  "seoTitle": "Azzaro The Most Wanted Parfum giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá Azzaro The Most Wanted Parfum chính hãng: mùi ngọt ấm dễ gây chú ý, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
+  "tags": [
+    "Nam",
+    "Buổi tối",
+    "Hẹn hò",
+    "Giá tốt"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2250000,
+  "shopeeOffers": []
+}

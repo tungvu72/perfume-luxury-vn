@@ -1,0 +1,54 @@
+{
+  "id": "davidoff-cool-water",
+  "brandSlug": "davidoff",
+  "brand": "DAVIDOFF",
+  "name": "Cool Water",
+  "subName": "Eau de Toilette",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/davidoff-cool-water-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/davidoff-cool-water-main.jpg",
+      "source": "amazon",
+      "caption": "DAVIDOFF Cool Water chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nCool Water là một tượng đài fresh nam vì nó định hình rất rõ cảm giác mát, sạch, biển và nam tính cho cả một thế hệ. Dù ngày nay có nhiều chai mới hơn, DNA của Cool Water vẫn còn giá trị nhờ sự đơn giản, dễ hiểu và dễ dùng. Đây là kiểu mùi tạo cảm giác vừa tắm xong, áo quần sạch sẽ, sẵn sàng cho một ngày nóng nực.\n\nĐiểm mạnh lớn nhất của Cool Water là tính ứng dụng. Nó không cần quá nhiều thời gian để hiểu, không kén môi trường và đặc biệt hợp khí hậu nóng. Trong bối cảnh Việt Nam, đây vẫn là một lựa chọn ổn cho người muốn một chai nam mát, gọn, dễ dùng đi làm, đi học, đi chơi ban ngày mà không cần đầu tư quá nhiều.\n\n## Diễn biến trên da\nMở đầu cho cảm giác aquatic-aromatic rất rõ: mát, xanh và hơi biển. Sau đó phần thảo mộc và nền gỗ nhẹ hiện ra, giữ cho mùi không bị quá mỏng. Mọi thứ đi theo hướng rất thẳng, rất dễ hiểu và không có nhiều chuyển biến phức tạp.\n\nDrydown của Cool Water vẫn giữ được tinh thần sạch mát đặc trưng, chỉ mềm hơn và sát da hơn. Nó không có chiều sâu lớn, nhưng bù lại cực dễ dùng. Nhược điểm là nếu so với các mùi fresh hiện đại cao cấp hơn, Cool Water có thể cho cảm giác hơi cổ điển và đơn giản.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nCool Water có độ lưu hương trung bình, khoảng 4-6 giờ; tỏa hương ở mức vừa nhẹ. Nó hợp nhất cho ban ngày, trời nóng, đi làm, đi học, tập thể thao nhẹ hoặc những dịp không muốn mùi hương quá hiện diện.\n\nTrong thời tiết Việt Nam, đây là loại chai dễ phát huy vì bản chất mát và thoáng. Ưu điểm là dễ dùng, giá ổn và ít rủi ro; nhược điểm là hiệu năng không mạnh và độ độc đáo thấp.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày cần một chai nam mát-sạch kinh điển, dễ dùng và không phải suy nghĩ nhiều, Cool Water vẫn là cái tên có lý do để tồn tại. Nó hợp người mới chơi, người cần mùi đi học đi làm cơ bản hoặc muốn một chai fresh dùng thoải mái.\n\nNên mua khi mày muốn sự đơn giản và hiệu quả. Nếu mày đòi hỏi chiều sâu, độ bám mạnh hoặc sự sang trọng rõ rệt, sẽ có nhiều lựa chọn cao cấp hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

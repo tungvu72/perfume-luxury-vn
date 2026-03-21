@@ -1,0 +1,54 @@
+{
+  "id": "jpg-classique-edt",
+  "brandSlug": "jean-paul-gaultier",
+  "brand": "JEAN PAUL GAULTIER",
+  "name": "Classique",
+  "subName": "Eau de Toilette",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/jpg-classique-edt-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/jpg-classique-edt-main.jpg",
+      "source": "amazon",
+      "caption": "JEAN PAUL GAULTIER Classique chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nClassique EDT là một biểu tượng của Jean Paul Gaultier: floral oriental nữ tính, gợi cảm và có chút retro rất đặc trưng. Nó không đi theo hướng trong trẻo hay tối giản, mà mang cảm giác corset, son phấn, đường cong và sân khấu. Đây là kiểu mùi có cá tính rõ, vừa mềm vừa khiêu khích theo cách rất JPG.\n\nĐiểm mạnh của Classique là khí chất. Nó không cần phải quá tối hay quá nặng mới sexy; nó cuốn bằng sự nữ tính có chủ đích. Trong điều kiện Việt Nam, chai này hợp với người thích mùi có màu sắc, không ngại chút vintage và muốn một floral oriental có thần thái.\n\n## Diễn biến trên da\nMở đầu floral khá rõ, sau đó nền ấm và powder nhẹ bắt đầu làm tổng thể trở nên mượt, quyến rũ hơn. Mùi phát triển không quá hiện đại kiểu tối giản, mà giàu đường nét hơn.\n\nDrydown mềm, ấm và rất nữ tính. Nó tạo cảm giác cổ điển nhưng không quá già. Nhược điểm là ai thích mùi sạch-sáng tối giản có thể thấy Classique hơi nhiều màu.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nClassique EDT có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương vừa. Nó hợp tối, hẹn hò, đi tiệc nhẹ hoặc những lúc muốn mùi hương nữ tính có thần thái riêng.\n\nỞ Việt Nam, chai này dùng được nếu tiết chế số lần xịt. Ưu điểm là cá tính và dễ nhận ra; nhược điểm là không phải gu của người thích mùi hiện đại rất sạch.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nữ cổ điển - gợi cảm - có màu sắc riêng, Classique EDT rất đáng thử. Nó hợp người thích phong cách nữ tính rõ và không ngại một chút retro.\n\nNên mua khi mày muốn một mùi mang thần thái hơn là chỉ thơm dễ chịu. Nếu mày thích tối giản, nên test kỹ trước.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

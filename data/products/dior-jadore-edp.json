@@ -1,0 +1,54 @@
+{
+  "id": "dior-jadore-edp",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "J'adore",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/dior-jadore-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dior-jadore-edp-main.jpg",
+      "source": "amazon",
+      "caption": "DIOR J'adore chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nJ’adore EDP là kiểu floral nữ sang theo trường phái kinh điển hiện đại: rạng rỡ, nữ tính, chỉn chu và rất “Dior”. Nó không ngọt đậm kiểu gourmand, cũng không tối kiểu oriental, mà đi theo hướng hoa sáng, tròn và dễ tạo thiện cảm trong nhiều hoàn cảnh. Đây là một trong những mùi nữ cao cấp rất an toàn theo nghĩa tích cực.\n\nĐiểm mạnh của J’adore là độ cân bằng. Nó đủ đẹp để dùng trong dịp quan trọng, nhưng cũng đủ dễ mặc để không bị xa cách. Trong bối cảnh Việt Nam, đây là kiểu chai đi làm, đi gặp gỡ, đi tiệc nhẹ hoặc dùng làm signature rất ổn nếu thích floral sang.\n\n## Diễn biến trên da\nMở đầu là cảm giác hoa sáng và sạch, sau đó các lớp hoa dần hòa vào nhau thành một tổng thể mượt, nữ tính và có độ bóng đẹp. Mùi không chuyển tầng quá gắt, mà ổn định và sang suốt quá trình dùng.\n\nDrydown mềm, floral ấm nhẹ và rất dễ chịu trên da. Nó không gây sốc hay quá cá tính, nhưng có độ hoàn thiện khiến người khác dễ thấy thơm và sang. Nhược điểm là người thích mùi độc, tối hoặc quá hiện đại có thể thấy J’adore hơi “safe”.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nJ’adore EDP có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, gặp gỡ, tiệc nhẹ, ban ngày lẫn tối sớm và nhiều hoàn cảnh cần mùi hương thanh lịch.\n\nỞ Việt Nam, chai này dùng khá khỏe nhờ floral sáng. Ưu điểm là sang, dễ dùng và nịnh nhiều độ tuổi; nhược điểm là độ cá tính không quá cao.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai floral sang, dễ mặc và rất ít rủi ro, J’adore EDP là lựa chọn cực ổn. Nó hợp người thích phong cách nữ tính, chỉn chu và muốn một mùi hương cao cấp nhưng không phức tạp.\n\nNên mua khi mày cần một chai signature floral an toàn. Nếu mày thích mùi tối, ngọt hoặc có tuyên ngôn mạnh, có thể tìm hướng khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

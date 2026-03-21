@@ -1,0 +1,54 @@
+{
+  "id": "hermes-24-faubourg",
+  "brandSlug": "hermes",
+  "brand": "HERMÈS",
+  "name": "24 Faubourg",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/hermes-24-faubourg-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/hermes-24-faubourg-main.jpg",
+      "source": "amazon",
+      "caption": "HERMÈS 24 Faubourg chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\n24 Faubourg là một mùi nữ rất Hermès: sang, ấm, sáng vàng và cực kỳ lịch thiệp. Nó không đi theo hướng trẻ trung trendy, mà là vẻ đẹp trưởng thành, quý phái và có độ hoàn thiện rất cao. Đây là kiểu mùi hợp với người thích phong cách thanh lịch đúng nghĩa và không ngại một chút tinh thần cổ điển.\n\nĐiểm mạnh của 24 Faubourg là khí chất. Nó gợi cảm theo kiểu có giáo dưỡng, có khoảng cách và rất biết mình đẹp ở đâu. Trong điều kiện Việt Nam, chai này hợp hơn cho tối, dịp trang trọng hoặc người muốn một floral oriental sang theo kiểu kín chứ không ồn.\n\n## Diễn biến trên da\nMở đầu floral sáng và giàu chất liệu, sau đó phần ấm cùng sắc cam-hổ phách nhẹ bắt đầu làm tổng thể tròn và sâu hơn. Mùi phát triển mượt và rất quý phái.\n\nDrydown là lớp floral ấm, mềm và cực kỳ thanh lịch. Nó không tạo cảm giác quá ngọt mà nghiêng về “golden floral”. Nhược điểm là người thích mùi hiện đại tối giản có thể thấy nó hơi dressy.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\n24 Faubourg có độ lưu hương khá tốt, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tiệc nhẹ, gặp gỡ lịch sự, tối sớm hoặc những dịp muốn mùi hương thật sự sang.\n\nỞ Việt Nam, dùng đẹp nhất trong không gian mát. Ưu điểm là rất quý và có khí chất; nhược điểm là không phải kiểu casual everyday.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nữ sang, quý phái và có tinh thần Hermès rõ rệt, 24 Faubourg là cái tên rất đáng thử. Nó hợp người thích floral ấm trưởng thành và phong cách thanh lịch thực thụ.\n\nNên mua khi mày cần một chai cho dịp đẹp. Nếu mày thích mùi trẻ, ngọt hoặc quá casual, nên thử kỹ trước.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

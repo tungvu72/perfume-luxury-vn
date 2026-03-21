@@ -1,0 +1,54 @@
+{
+  "id": "amouage-interlude-man",
+  "brandSlug": "amouage",
+  "brand": "AMOUAGE",
+  "name": "Interlude Man",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/amouage-interlude-man-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/amouage-interlude-man-main.jpg",
+      "source": "amazon",
+      "caption": "AMOUAGE Interlude Man chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nInterlude Man là một “quái vật” theo nghĩa tích cực: nhựa thơm, khói, oregano, da và chiều tối rất mạnh tạo nên một trong những mùi niche nam có bản sắc lớn nhất. Nó không hề dễ mặc, nhưng nếu hợp thì cho cảm giác cực kỳ quyền lực và không thể nhầm lẫn. Đây là chai dành cho người không ngại mùi hương có sân khấu riêng.\n\nĐiểm mạnh của Interlude là độ hoành tráng. Nó không chỉ đậm, mà còn giàu cấu trúc và cảm giác nghi lễ. Trong điều kiện Việt Nam, chai này hợp hơn cho tối, phòng lạnh, sự kiện đặc biệt hoặc người đã quen với mùi nhựa thơm nặng đô.\n\n## Diễn biến trên da\nMở đầu khá dữ với oregano, khói và nhựa thơm hiện lên rất nhanh, sau đó mùi dần ổn định hơn khi da và nền ấm kéo tổng thể vào trạng thái tròn hơn. Đây là mùi phát triển rất mạnh, rất có chuyển động.\n\nDrydown là lúc chai này dễ mặc nhất: nhựa thơm, da và khói mềm lại nhưng vẫn cực kỳ rõ bản sắc. Nhược điểm là đoạn đầu có thể gây choáng với người mới.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nInterlude Man có hiệu năng rất mạnh, thường 9 giờ trở lên; tỏa hương khá lớn. Nó hợp tối, mùa mát, sự kiện, không gian rộng hoặc những lúc muốn mùi hương mang tính tuyên ngôn.\n\nỞ Việt Nam, phải dùng cực kỳ tiết chế. Ưu điểm là quá khác biệt và rất có khí chất; nhược điểm là gần như không dành cho blind buy an toàn.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích incense-resinous mạnh, dark và full character, Interlude Man là lựa chọn cực kỳ đáng giá. Nó hợp người có gu niche rõ và muốn một mùi hương thật sự không giống đám đông.\n\nNên mua khi mày muốn một chai cho dịp đặc biệt hoặc mood rõ. Nếu mày cần chai dùng hàng ngày, tránh hướng này.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

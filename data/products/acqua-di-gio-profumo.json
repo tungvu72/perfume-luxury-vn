@@ -1,0 +1,54 @@
+{
+  "id": "acqua-di-gio-profumo",
+  "brandSlug": "armani",
+  "brand": "GIORGIO ARMANI",
+  "name": "Acqua di Giò Profumo",
+  "subName": "Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/acqua-di-gio-profumo-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/acqua-di-gio-profumo-main.jpg",
+      "source": "amazon",
+      "caption": "GIORGIO ARMANI Acqua di Giò Profumo chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nAcqua di Giò Profumo là phiên bản trưởng thành và có chiều sâu hơn hẳn DNA Acqua di Giò quen thuộc. Nó vẫn giữ tinh thần biển sạch, khoáng và rất dễ sống, nhưng thêm vào sắc hương tối hơn với thảo mộc và chút khói, khiến tổng thể nam tính và chững chạc hơn. Đây là kiểu chai cực mạnh cho ai muốn mùi vừa an toàn vừa có bản sắc.\n\nĐiểm hay của Profumo là nó đứng giữa hai thế giới: đủ fresh để dùng nhiều, đủ tối để không nhạt như aquatic thông thường. Trong điều kiện Việt Nam, đây là một trong những chai nam linh hoạt nhất cho đi làm, đi chơi, gặp gỡ và thậm chí cả buổi tối.\n\n## Diễn biến trên da\nMở đầu là biển-khoáng sạch rất quen, sau đó phần thảo mộc và nét khói nhẹ bắt đầu làm mùi sâu hơn. Profumo chuyển tầng mượt, gọn và rất dễ mặc, không bị đột ngột.\n\nDrydown cho cảm giác sạch, nam tính, hơi tối và trưởng thành hơn bản gốc. Nó không quá nặng, nhưng đủ khác để người đã quen Acqua di Giò thường nhận ra ngay. Nhược điểm là nếu mày thích mùi cực sáng và trẻ, bản này có thể hơi nghiêm hơn mong đợi.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nProfumo có hiệu năng khá tốt, khoảng 6-8 giờ; tỏa hương vừa đến khá. Nó hợp đi làm, đi chơi, ban ngày lẫn tối, du lịch, hội họp và gần như quanh năm.\n\nỞ Việt Nam, chai này dùng rất khỏe nhờ độ cân bằng tốt. Ưu điểm là đa dụng, nam tính và chững hơn bản thường; nhược điểm là độ độc đáo không quá cao với người chơi lâu năm.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nam đa dụng, sạch nhưng trưởng thành hơn fresh phổ thông, Acqua di Giò Profumo là lựa chọn cực vững. Nó hợp người cần một chai mặc được nhiều hoàn cảnh mà vẫn có khí chất riêng.\n\nNên mua khi mày cần một chai an toàn nhưng không nhạt. Nếu mày thích mùi ngọt ấm hoặc cực kỳ nổi, Profumo không đi theo hướng đó.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

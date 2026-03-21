@@ -1,0 +1,54 @@
+{
+  "id": "dior-addict-edp",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Dior Addict",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/dior-addict-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dior-addict-edp-main.jpg",
+      "source": "amazon",
+      "caption": "DIOR Dior Addict chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nDior Addict EDP là kiểu floral oriental đậm, tối và rất gợi cảm theo phong cách nữ tính trưởng thành. Nó không đi theo hướng hoa trong trẻo hay ngọt dễ thương, mà thiên về vanilla, hoa trắng và độ dày rất rõ trên da. Đây là một mùi hương có thần thái mạnh, hợp với người thích sự hiện diện thay vì chỉ thơm nhẹ nhàng.\n\nĐiểm mạnh của Dior Addict là cá tính. Nó cho cảm giác sang, hơi dramatic và có màu sắc rất riêng, khác với nhiều chai nữ hiện đại quá an toàn. Ở Việt Nam, chai này hợp hơn cho buổi tối, không gian điều hòa, đi tiệc hoặc người thật sự thích mùi hương đậm và có bản lĩnh.\n\n## Diễn biến trên da\nMở đầu có sắc hoa khá rõ, nhưng rất nhanh vanilla và nền ấm bắt đầu kéo tổng thể xuống sâu hơn. Mùi phát triển theo hướng dày dần, mềm dần và gợi cảm hơn khi ngồi sát da.\n\nDrydown là lớp vanilla - hoa trắng ấm, mịn và khá quyến rũ. Nó không quá gourmand, nhưng cũng không phải floral thuần. Nhược điểm là nếu dùng nặng tay trong thời tiết nóng, mùi dễ trở nên hơi dày và áp lực.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nDior Addict EDP có hiệu năng tốt, thường 7-9 giờ lưu hương; tỏa hương vừa đến khá. Nó hợp tối, hẹn hò, tiệc, sự kiện hoặc những dịp muốn mùi hương có độ gợi cảm rõ rệt.\n\nỞ Việt Nam, chai này đẹp nhất khi dùng buổi tối hoặc phòng lạnh. Ưu điểm là sang và rất có cá tính; nhược điểm là không phải kiểu mùi dễ blind buy cho số đông.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nữ đậm, sang và sexy theo kiểu trưởng thành, Dior Addict EDP là cái tên rất đáng thử. Nó hợp người thích vanilla hoa trắng có chiều sâu và không ngại mùi hương có trọng lượng.\n\nNên mua khi mày cần một chai buổi tối thật nổi. Nếu mày thích mùi nhẹ, airy hoặc quá dễ dùng ban ngày, đây không phải hướng ưu tiên.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

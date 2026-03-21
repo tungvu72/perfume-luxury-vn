@@ -1,0 +1,120 @@
+{
+  "id": "montblanc-explorer",
+  "brandSlug": "montblanc",
+  "brand": "MONTBLANC",
+  "name": "Explorer",
+  "subName": "Eau de Parfum",
+  "perfumer": "Jordi Fernández, Antoine Maisondieu & Olivier Pescheux",
+  "gender": "nam",
+  "image": "/images/products/montblanc-explorer-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/montblanc-explorer-main.jpg",
+      "source": "fragram",
+      "caption": "Montblanc Explorer Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Đây là kiểu mùi nam tươi, gỗ và khá dễ dùng. Hợp người cần một chai chỉnh chu, nam tính nhẹ và giá dễ vào hơn nhóm cao cấp. Nếu bạn cần mùi thật khác biệt, bản này hơi an toàn.",
+  "productCopy": "Montblanc Explorer EDP là kiểu nước hoa nam rất dễ dùng và dễ tạo thiện cảm. Mùi mở đầu sáng, thoáng và hơi citrus, sau đó đi vào lớp hương gỗ sạch, khô và gọn gàng. Tổng thể cho cảm giác hiện đại, lịch sự và không quá phô trương, rất hợp với người thích phong cách chỉn chu trong đời sống thường ngày.\n\nĐiểm mạnh của Explorer là sự an toàn theo nghĩa tích cực. Nó không gây sốc, không quá ngọt, không quá cay, cũng không quá trẻ. Đây là kiểu mùi bạn có thể cầm lên dùng khi đi làm, gặp đối tác, đi cà phê, đi ăn tối hoặc đi xa mà gần như không sợ lệch hoàn cảnh.\n\nTrên da, Explorer giữ được sự sạch và nam tính khá ổn định. Lớp nền gỗ hiện lên rõ hơn sau một lúc, giúp mùi có chiều sâu hơn thay vì chỉ dừng ở cảm giác tươi mát. Nó cho cảm giác người mặc gọn gàng, thực tế và có gu vừa đủ mà không cần cố gắng quá nhiều.\n\nVề hiệu năng, Montblanc Explorer EDP lưu hương khá và tỏa hương ở mức vừa phải. Nó không phải kiểu bùng nổ, nhưng đủ để người đứng gần cảm nhận được sự hiện diện. Trong khí hậu Việt Nam, đây là chai rất dễ dùng quanh năm, nhất là cho môi trường văn phòng và di chuyển hằng ngày.\n\nNếu bạn cần một chai nước hoa nam dễ dùng, lịch sự, hợp nhiều tình huống và có cảm giác cao cấp hơn tầm giá, Montblanc Explorer là lựa chọn đáng tin cậy. Nó không quá độc lạ, nhưng chính sự gọn gàng và hiệu quả ổn định mới là điều làm chai này được ưa chuộng lâu dài.",
+  "article": "Tại Maison de SON, Montblanc Explorer là một trong những chai nước hoa nam dễ gợi ý ở tầm giá trung cao. Nó sạch, gỗ, dễ dùng và hợp với người muốn một hình ảnh nam tính gọn gàng.\n\n### Nguồn gốc và xuất xứ\nExplorer thuộc Montblanc, thương hiệu nổi tiếng với hình ảnh lịch sự và nam tính. Dòng này được biết đến rộng rãi vì dễ tiếp cận và dễ dùng.\n\n### Ra mắt khi nào?\nExplorer ra mắt năm 2019. Đây là một trong những chai giúp Montblanc hiện diện mạnh hơn ở nhóm nam hiện đại.\n\n### Câu chuyện ra đời\nMùi này được phát triển theo hướng an toàn, dễ dùng và có tính ứng dụng cao cho số đông. Nó đánh vào nhu cầu có một chai nam gọn gàng mà không quá tốn kém.\n\n### Mùi hương mang lại cảm giác gì?\nMở đầu tươi với bergamot, sau đó hoắc hương, vetiver và ambroxan tạo cảm giác gỗ sạch, nam tính và khá chỉn chu.\n\n### Khi nào nên dùng?\n- Đi làm, đi gặp gỡ, dùng hằng ngày\n- Hợp người thích mùi nam sạch gỗ hiện đại\n- Không hợp lắm nếu bạn cần mùi thật độc lạ\n\n### Nhận xét của Maison de SON\nExplorer đáng tiền ở chỗ dễ dùng và không kén hoàn cảnh. Điểm yếu là cá tính không quá mạnh.",
+  "verdict": "Mùi này gỗ sạch, nam tính và dễ dùng. Hợp người muốn một chai gọn gàng cho nhiều hoàn cảnh mà giá không quá nặng. Nếu bạn thích sự khác biệt lớn, bản này hơi an toàn.",
+  "verdictShort": "GỖ SẠCH, NAM TÍNH, DỄ DÙNG",
+  "score": {
+    "scent": 8.3,
+    "uniqueness": 7.2,
+    "compliments": 8.6,
+    "value": 8.9,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Văn phòng",
+      "icon": "💼"
+    },
+    {
+      "label": "Hằng ngày",
+      "icon": "🧴"
+    },
+    {
+      "label": "Nam tính",
+      "icon": "🖤"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 80,
+    "summer": 72,
+    "fall": 76,
+    "winter": 56
+  },
+  "dayNight": {
+    "day": 90,
+    "night": 45
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Tiêu hồng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Vetiver"
+    },
+    {
+      "name": "Da thuộc"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Ambroxan"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Ca cao"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Tươi",
+      "value": 58,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 26,
+      "color": "#6e3b1f"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 20,
+      "color": "#2c7a4b"
+    }
+  ],
+  "seoTitle": "Montblanc Explorer chính hãng giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá Montblanc Explorer chính hãng: mùi gỗ cam bergamot nam tính, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
+  "tags": [
+    "Nam",
+    "Văn phòng",
+    "Hằng ngày",
+    "Giá trị tốt"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "60ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1650000,
+  "shopeeOffers": []
+}

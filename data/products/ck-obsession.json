@@ -1,0 +1,54 @@
+{
+  "id": "ck-obsession",
+  "brandSlug": "calvin-klein",
+  "brand": "CALVIN KLEIN",
+  "name": "Obsession",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/ck-obsession-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/ck-obsession-main.jpg",
+      "source": "amazon",
+      "caption": "CALVIN KLEIN Obsession chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nObsession là một trong những cái tên kinh điển của nhóm oriental đậm: cay, ấm, resinous và rất giàu cảm giác da thịt. Nó không ngại sự mạnh tay, cũng không cố trở nên dễ thương. Đây là mùi hương của một thời kỳ nước hoa thích sự hiện diện lớn, rất hợp với người thích vintage đậm và không sợ bị chú ý.\n\nĐiểm mạnh của Obsession là độ nóng và sức hút kiểu bản năng. Nó không tinh kiểu tối giản, mà dày, tối và rất đầy đặn. Trong bối cảnh Việt Nam, chai này hợp hơn với buổi tối, thời tiết mát và người thực sự thích phong cách oriental cổ điển.\n\n## Diễn biến trên da\nMở đầu gia vị và độ ấm lên khá mạnh, sau đó nhựa thơm và nền ngọt cay làm tổng thể càng sâu hơn. Mùi phát triển ít nhẹ nhàng, mà giữ phong độ đậm xuyên suốt.\n\nDrydown ấm, dày và rất vintage. Nó có sức hút riêng với người đúng gu, nhưng sẽ quá tay với ai thích mùi sạch hoặc nhẹ. Nhược điểm là độ ứng dụng hằng ngày thấp.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nObsession có hiệu năng tốt, thường 8 giờ trở lên; tỏa hương khá mạnh. Nó hợp tối, mùa mát, dịp đặc biệt hoặc khi muốn một mùi hương thật sự có độ nóng.\n\nỞ Việt Nam, nên dùng rất tiết chế. Ưu điểm là khí chất mạnh và khó nhầm; nhược điểm là dễ áp lực trong thời tiết oi.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày mê oriental cổ điển đậm, cay và có thần thái vintage rõ, Obsession là cái tên nên thử. Nó hợp người có gu mạnh và thích mùi hương như một tuyên ngôn.\n\nNên mua khi mày muốn một chai tối có sức nóng rõ rệt. Nếu mày cần sự nhẹ, sạch và dễ dùng, đây không phải hướng phù hợp.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

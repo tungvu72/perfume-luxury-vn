@@ -1,0 +1,100 @@
+{
+  "id": "jpg-le-male-edt",
+  "brandSlug": "jean-paul-gaultier",
+  "brand": "JEAN PAUL GAULTIER",
+  "name": "Le Male",
+  "subName": "Eau de Toilette",
+  "perfumer": "Francis Kurkdjian",
+  "gender": "nam",
+  "image": "/images/products/jpg-le-male-edt-bottle.jpg",
+  "images": [
+    {
+      "url": "/images/products/jpg-le-male-edt-bottle.jpg",
+      "source": "studio",
+      "caption": "Ảnh sản phẩm JPG Le Male EDT (chai và hộp)"
+    },
+    {
+      "url": "/images/products/jpg-le-male-edt-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh chi tiết JPG Le Male EDT"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nLe Male EDT là một tượng đài của nước hoa nam hiện đại: oải hương, bạc hà, vanilla và chút gia vị ấm được phối theo cách vừa dễ nhớ vừa rất có bản sắc. Dù ra đời đã lâu, chai này vẫn giữ được sức sống vì nó vừa vui, vừa gợi cảm, vừa có độ nhận diện rất cao. Đây là kiểu mùi nam không cố tỏ ra quá nghiêm túc, mà thiên về hấp dẫn, trẻ trung và có phần hơi tinh nghịch.\n\nĐiểm hay của Le Male nằm ở việc nó tạo ra một DNA barbershop ngọt mà số đông vẫn thấy dễ chịu. Ở Việt Nam, chai này hợp với người trẻ, người thích những mùi có màu sắc rõ và muốn một option dễ dùng cho đi chơi, hẹn hò nhẹ hoặc dùng hằng ngày khi thích phong cách hơi nổi bật hơn mức an toàn.\n\n## Diễn biến trên da\nMở đầu là bạc hà và oải hương khá rõ, tạo cảm giác mát và sạch. Nhưng chỉ một lúc sau, vanilla và tonka bắt đầu hiện lên, khiến tổng thể chuyển sang ngọt ấm và mềm hơn. Chính sự chuyển từ mát sang ấm này là thứ làm Le Male dễ nhớ.\n\nDrydown của chai này khá dễ chịu: ngọt, thơm, có chút xà phòng sạch nhưng không quá formal. Nó không quá phức tạp, nhưng rất hiệu quả. Nhược điểm là với người chơi nước hoa lâu năm, Le Male có thể bị xem là hơi quen và thiếu độ mới mẻ.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nLe Male EDT có hiệu năng khá ổn, lưu hương khoảng 6-8 giờ, tỏa hương vừa đến khá. Nó dùng tốt cho chiều tối, đi chơi, gặp gỡ bạn bè, hẹn hò casual hoặc những ngày mát.\n\nTrong khí hậu Việt Nam, vẫn dùng được ban ngày nếu tiết chế, nhưng sẽ đẹp hơn vào tối hoặc trong không gian điều hòa. Ưu điểm là dễ ngửi, dễ thích, dễ nhớ; nhược điểm là không phải mùi quá sang hoặc quá trưởng thành nếu so với các flankers mới hơn.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nam kinh điển, có màu sắc riêng, dễ gây thiện cảm và vẫn đủ thú vị để không bị nhạt, Le Male EDT là lựa chọn hợp lý. Nó hợp người trẻ, người mới chơi nước hoa hoặc ai muốn một chai vui và có chất riêng hơn nhóm fresh phổ thông.\n\nNên mua khi mày muốn một mùi linh hoạt cho đi chơi và dùng casual. Nếu mày đang tìm một chai cực kỳ hiện đại hoặc cực kỳ sang tối, các bản flankers như Le Parfum hay Elixir có thể hợp hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Bạc hà"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Ngải cứu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Thì là Ai Cập"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

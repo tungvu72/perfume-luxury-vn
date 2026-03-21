@@ -1,0 +1,89 @@
+{
+  "id": "guerlain-mon-guerlain",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "Mon Guerlain",
+  "subName": "Eau de Parfum",
+  "perfumer": "Thierry Wasser, Delphine Jelk",
+  "gender": "nu",
+  "image": "/images/products/guerlain-mon-guerlain-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/guerlain-mon-guerlain-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh sản phẩm Mon Guerlain (chai và hộp)"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nMon Guerlain là kiểu nữ tính hiện đại rất dễ được yêu thích: oải hương, vanilla, gỗ đàn hương và chút sạch sáng được phối theo cách mềm, sang và cực kỳ dễ mặc. Nó không quá trẻ con, cũng không quá trưởng thành; thay vào đó là một cảm giác nữ tính gọn gàng, thanh lịch và gần như luôn dễ tạo thiện cảm.\n\nĐiểm mạnh lớn của Mon Guerlain nằm ở sự cân bằng. Vanilla đủ mềm để tạo cảm giác ấm áp, oải hương giữ cho tổng thể có nét tinh và sạch, còn nền gỗ làm mùi không bị mỏng. Ở Việt Nam, đây là một trong những hướng mùi rất dễ dùng cho nhiều độ tuổi và nhiều hoàn cảnh, đặc biệt hợp người thích vẻ nữ tính chỉn chu thay vì quá ngọt hoặc quá sexy.\n\n## Diễn biến trên da\nMở đầu có cảm giác sạch và thơm dịu, sau đó vanilla bắt đầu hiện rõ hơn nhưng không dày. Oải hương giúp mùi luôn giữ được độ thanh, khiến Mon Guerlain không rơi vào kiểu ngọt kẹo hay gourmand quá đà.\n\nDrydown khá mượt: ấm, mềm, hơi kem và rất dễ gần. Đây là kiểu mùi ít gây tranh cãi vì mọi thứ được blend theo hướng hài hòa. Nhược điểm là ai muốn một cá tính cực sắc hoặc quá khác biệt có thể thấy Mon Guerlain hơi an toàn.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nMon Guerlain có hiệu năng khá, khoảng 6-8 giờ lưu hương và tỏa hương vừa phải. Nó dùng rất đẹp cho đi làm, đi học, cà phê, hẹn hò nhẹ, gặp gỡ gia đình hoặc dùng làm signature hằng ngày.\n\nTrong thời tiết Việt Nam, chai này hợp quanh năm vì vừa có độ ấm vừa không quá dày. Ban ngày, văn phòng, môi trường điều hòa đều ổn. Ưu điểm là đẹp, dễ dùng, sang; nhược điểm là không phải kiểu mùi tạo cú wow quá mạnh.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày cần một chai nữ thanh lịch, mềm, hiện đại và dễ dùng nhiều hoàn cảnh, Mon Guerlain là lựa chọn rất vững. Nó hợp người thích mùi nữ có chiều sâu nhẹ nhưng vẫn đủ sáng và dễ gần.\n\nNên mua khi mày muốn một chai signature ít rủi ro, dễ tạo thiện cảm và có chất Guerlain hiện đại. Nếu mày thích những mùi cực ngọt hoặc cực nổi, có thể cần một lựa chọn cá tính hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa diên vĩ"
+    },
+    {
+      "name": "Nhài Sambac"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani Tahiti"
+    },
+    {
+      "name": "Coumarin"
+    },
+    {
+      "name": "Gỗ đàn hương Úc"
+    },
+    {
+      "name": "Cam thảo"
+    },
+    {
+      "name": "An tức hương"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

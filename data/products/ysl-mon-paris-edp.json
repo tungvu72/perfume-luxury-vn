@@ -1,0 +1,108 @@
+{
+  "id": "ysl-mon-paris-edp",
+  "brandSlug": "ysl",
+  "brand": "YVES SAINT LAURENT",
+  "name": "Mon Paris",
+  "subName": "Eau de Parfum",
+  "perfumer": "Olivier Cresp, Dora Baghriche & Harry Fremont",
+  "gender": "nu",
+  "image": "/images/products/ysl-mon-paris-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/ysl-mon-paris-edp-main.jpg",
+      "source": "fragram",
+      "caption": "YSL Mon Paris Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+  "productCopy": "YSL Mon Paris EDP là kiểu nước hoa nữ mang tinh thần yêu đương rất rõ: ngọt, sáng, mềm và khá gợi cảm. Mùi mở đầu với trái cây mọng, sau đó đi vào lớp hoa trắng và xạ hương tạo cảm giác vừa vui tươi vừa ôm da. Tổng thể cho cảm giác nữ tính hiện đại, hơi bay bổng nhưng không quá mơ hồ, rất hợp với những ai thích mùi thơm lãng mạn dễ gây thiện cảm.\n\nĐiểm mạnh của Mon Paris là sự dễ thích. Nó không quá trầm, không quá sắc, cũng không quá “kẹo”. Chai này đi đúng vào vùng an toàn đẹp: ngọt vừa, hoa vừa, cuốn vừa. Nhờ vậy, nó đặc biệt hợp với hẹn hò, đi chơi tối, gặp gỡ cuối tuần hoặc những dịp muốn mình thơm theo kiểu mềm và gần gũi.\n\nTrên da, phần trái cây mở đầu dần dịu xuống để lớp hoa và xạ hương hiện rõ hơn. Đây là lúc Mon Paris đẹp nhất: nữ tính, hơi quyến rũ và rất nịnh mũi. Nó không quá khác biệt về mặt ý tưởng, nhưng cách phối tổng thể khiến chai này rất dễ được khen.\n\nVề hiệu năng, YSL Mon Paris EDP có độ lưu hương khá và tỏa hương vừa đến khá. Trong khí hậu Việt Nam, chai này dùng tốt cả ngày lẫn tối nếu xịt tiết chế, nhưng đẹp nhất vẫn là ở môi trường máy lạnh hoặc buổi tối dịu hơn.\n\nNếu bạn muốn một chai nước hoa nữ ngọt hoa hiện đại, lãng mạn và có khả năng tạo thiện cảm cao, YSL Mon Paris là lựa chọn rất dễ yêu. Nó không quá niche hay quá nghệ, nhưng lại làm rất tốt vai trò của một mùi hương hẹn hò nữ tính và cuốn hút.",
+  "article": "Mon Paris dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+  "verdictShort": "LIVE CATALOG UPDATE",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "nu",
+      "icon": "?"
+    },
+    {
+      "label": "D? d�ng",
+      "icon": "??"
+    },
+    {
+      "label": "Catalog live",
+      "icon": "??"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 68,
+    "summer": 52,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 58,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Top note"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Middle note"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Base note"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ch? d?o",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "D? d�ng",
+      "value": 32,
+      "color": "#1abc9c"
+    },
+    {
+      "name": "Hi?n d?i",
+      "value": 24,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "?m",
+      "value": 20,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "YSL Mon Paris EDP chính hãng giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá YSL Mon Paris EDP chính hãng: mùi dâu hoa ngọt lãng mạn, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
+  "tags": [
+    "nu",
+    "Catalog",
+    "Live",
+    "2026"
+  ],
+  "sizes": [
+    "10ml Chi?t",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1990000,
+  "shopeeOffers": []
+}

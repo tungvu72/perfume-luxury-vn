@@ -1,0 +1,54 @@
+{
+  "id": "memo-african-leather",
+  "brandSlug": "memo-paris",
+  "brand": "MEMO PARIS",
+  "name": "African Leather",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "unisex",
+  "image": "/images/products/memo-african-leather-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/memo-african-leather-main.jpg",
+      "source": "amazon",
+      "caption": "MEMO PARIS African Leather chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nAfrican Leather là kiểu mùi spicy-leather hiện đại rất có lực: gia vị, da, saffron và nền ấm khô tạo nên cảm giác sang, mạnh và có chút hoang dã được kiểm soát. Nó không phải kiểu da thuộc bụi bặm quá khó dùng, mà là loại da được làm bóng, có độ luxury và rất hợp cho những dịp muốn hiện diện rõ.\n\nĐiểm mạnh của African Leather là nó tạo hình ảnh rất nhanh. Chỉ vài phút đầu là đã thấy vibe sang tối, cá tính và hơi khác người. Trong bối cảnh Việt Nam, đây là chai hợp với tối, tiệc, date hoặc khi muốn một mùi hương có cá tính lớn hơn nhóm designer thông thường.\n\n## Diễn biến trên da\nMở đầu là gia vị rất nổi bật, tạo cảm giác nóng, khô và sắc. Sau đó phần da và nền ấm xuất hiện, làm mùi hương sang hơn và dày hơn. Nó không quá nhiều tầng lớp cầu kỳ nhưng đường phát triển rất chắc, rất tự tin.\n\nDrydown giữ được độ da thuộc ấm và chút nhựa thơm, tạo hiệu ứng ôm da nhưng vẫn có lực. Nếu da mày nóng, gia vị có thể lên rõ hơn và khiến tổng thể mạnh hơn khá nhiều. Nhược điểm là người thích mùi nhẹ, sạch hoặc ban ngày có thể thấy chai này quá đậm.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nAfrican Leather có hiệu năng tốt, lưu hương khoảng 7-9 giờ và tỏa hương khá trong giai đoạn đầu. Nó hợp nhất cho tối, máy lạnh, thời tiết mát, event hoặc những dịp muốn lên mùi có cá tính.\n\nỞ Việt Nam, nên tiết chế số lần xịt và tránh dùng giữa trưa nóng. Ưu điểm là sang, độc đáo và có sức nặng; nhược điểm là độ đa dụng thấp và không phải chai dành cho số đông.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai da-gia vị cao cấp, có chất riêng và đủ nổi bật để dùng trong các dịp đặc biệt, African Leather là lựa chọn đáng cân nhắc. Nó hợp người thích mùi đậm, mạnh và mang tính tuyên ngôn.\n\nNên mua khi mày cần một chai buổi tối có khí chất. Nếu ưu tiên sự an toàn, thân thiện và dùng hằng ngày, đây không phải hướng đầu tiên.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Unisex",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

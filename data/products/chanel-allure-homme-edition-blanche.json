@@ -1,0 +1,91 @@
+{
+  "id": "chanel-allure-homme-edition-blanche",
+  "brandSlug": "chanel",
+  "brand": "CHANEL",
+  "name": "Allure Homme Édition Blanche",
+  "subName": "Eau de Parfum",
+  "perfumer": "Jacques Polge",
+  "gender": "nam",
+  "image": "/images/products/chanel-allure-homme-edition-blanche-main.webp",
+  "images": [
+    {
+      "url": "/images/products/chanel-allure-homme-edition-blanche-main.webp",
+      "source": "amazon",
+      "caption": "Ảnh chai Chanel Allure Homme Édition Blanche"
+    },
+    {
+      "url": "/images/products/chanel-allure-edition-blanche-bottle.jpg",
+      "source": "studio",
+      "caption": "Ảnh chi tiết Chanel Allure Homme Édition Blanche"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nAllure Homme Edition Blanche là kiểu Chanel nam rất tinh: citrus sáng, kem chanh, gỗ đàn hương và vanilla nhẹ được phối theo cách cực kỳ sạch và sang. Nó không phải một chai fresh thuần, cũng không phải gourmand rõ rệt, mà nằm giữa hai thế giới đó: vừa sáng, vừa mượt, vừa lịch sự. Đây là kiểu mùi khiến người mặc trông gọn gàng và có gu hơn ngay lập tức.\n\nĐiểm ăn tiền của Edition Blanche nằm ở sự thanh lịch rất kiểu Chanel. Nó không ồn, không phô, không cố gây chú ý quá mạnh, nhưng chất lượng blend và cảm giác cao cấp thể hiện rất rõ. Ở Việt Nam, đây là chai rất hợp với người thích mùi citrus có chiều sâu, dùng ban ngày, đi làm, đi café hoặc gặp gỡ nhẹ nhưng vẫn muốn toát ra cảm giác sang sạch.\n\n## Diễn biến trên da\nMở đầu là chanh và bergamot khá sáng, tạo cảm giác tươi và sắc. Nhưng chỉ sau một lúc, phần vanilla và gỗ bắt đầu làm mùi hương mềm lại, khiến tổng thể giống như lớp kem chanh mịn phủ trên nền gỗ sạch. Chính sự chuyển từ sáng sang mượt này làm chai rất dễ nghiện.\n\nDrydown của Edition Blanche khá đẹp: không ngọt quá, không khô quá, mà cân bằng giữa citrus, creaminess và gỗ. Trên da nóng, phần chanh bay nhanh hơn, để lại lớp nền mềm và sang. Nhược điểm là ai thích projection mạnh hoặc độ bền cực khủng có thể thấy chai này hơi hiền so với giá.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nEdition Blanche có độ lưu hương khá, thường khoảng 5-7 giờ; tỏa hương ở mức vừa phải, thiên về lịch sự hơn là nổi bật. Nó rất hợp cho ban ngày, môi trường điều hòa, văn phòng, đi brunch, đi hẹn nhẹ hoặc những dịp mặc áo sơ mi, polo, outfit sáng màu.\n\nTrong khí hậu Việt Nam, chai này dùng rất ổn ở mùa nóng vì mở đầu sáng và sạch, nhưng cũng đủ chiều sâu để không bị nhạt. Ưu điểm là sang, tinh và khác đám đông; nhược điểm là hiệu năng không phải điểm mạnh nhất.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai Chanel nam thiên về thanh lịch, citrus sang và dễ mặc, Allure Homme Edition Blanche là lựa chọn rất đáng giá. Nó hợp người thích gu sạch, sáng, gọn gàng và không muốn mùi hương quá ngọt hay quá nặng.\n\nNên mua khi mày cần một chai ban ngày chất lượng cao, đặc biệt cho môi trường lịch sự. Nếu ưu tiên độ bền khủng hoặc vibe tối quyến rũ, nên có thêm một chai khác bổ sung.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Chanh Sicily"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Tiêu hồng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Đậu Tonka"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "hermes-terre-dhermes-eau-givree",
+  "brandSlug": "hermes",
+  "brand": "HERMÈS",
+  "name": "Terre d'Hermès Eau Givrée",
+  "subName": "Eau de Parfum",
+  "perfumer": "Christine Nagel",
+  "gender": "nam",
+  "image": "/images/products/hermes-eau-givree-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/hermes-eau-givree-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh sản phẩm Hermès Terre d'Hermès Eau Givrée (chai và hộp)"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nTerre d'Hermes Eau Givree là phiên bản tươi và mát nhất trong family Terre. Nó giữ lại tinh thần khoáng-gỗ đặc trưng của dòng này, nhưng đẩy phần citrus lạnh, sắc và sạch lên rõ rệt hơn. Cảm giác chung là một bản Terre sáng hơn, gọn hơn, dễ mặc hơn trong thời tiết nóng và có chất thanh lịch rất hợp khí hậu Việt Nam.\n\nĐiểm hay của Eau Givree là nó không biến Terre thành một chai fresh vô hồn. Dưới lớp citrus lạnh vẫn còn cái khung khoáng và gỗ khiến người dùng nhận ra ngay DNA Hermes. Kết quả là một chai vừa dễ tiếp cận hơn Terre gốc, vừa vẫn giữ được sự trưởng thành và gu kín vốn là điểm mạnh của dòng này.\n\n## Diễn biến trên da\nMở đầu là citrus rất sáng và mát, tạo cảm giác như vỏ chanh và bưởi được làm lạnh. Sau đó phần khoáng và gỗ nổi lên, giữ cho mùi không bị mỏng. Vetiver và nền sạch giúp tổng thể không quá trẻ mà vẫn có tính đàn ông trưởng thành.\n\nDrydown của Eau Givree vẫn sạch, hơi khô và có chiều sâu vừa đủ. Nó không dày, không trầm như bản Parfum hay EDT gốc, mà chọn hướng thanh và mát hơn. Nhược điểm là ai mê sự nặng đô, dày lớp và tính nghiêm túc đặc trưng của Terre cổ điển có thể thấy bản này hiền hơn.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nEau Givree có hiệu năng khá ổn với một chai thiên fresh: lưu hương khoảng 5-7 giờ, tỏa hương vừa phải. Nó hợp nhất cho ban ngày, mùa nóng, đi làm, di chuyển, gặp khách hoặc những lúc cần thơm sạch mà vẫn sang.\n\nTrong thời tiết Việt Nam, đây là một trong những bản Terre dễ dùng nhất. Nó hợp xuân hè, trời nắng, môi trường văn phòng lẫn casual. Ưu điểm là gọn, sáng, thanh lịch; nhược điểm là độ wow với người thích mùi tối sâu sẽ không cao.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích tinh thần Terre d'Hermes nhưng muốn một phiên bản sáng và hợp thời tiết nóng hơn, Eau Givree rất đáng thử. Nó hợp người đi làm, thích gu thanh lịch, trưởng thành nhưng không muốn mùi quá khô hay quá nghiêm.\n\nNên mua khi mày cần một chai signature ban ngày mùa nóng. Nếu mày ưu tiên chiều sâu buổi tối, bản EDT hoặc Parfum vẫn hợp hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Thanh yên"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Bách xù"
+    },
+    {
+      "name": "Tiêu Timur"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Khoáng chất"
+    },
+    {
+      "name": "Gỗ"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

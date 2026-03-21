@@ -1,0 +1,115 @@
+{
+  "id": "creed-absolu-aventus",
+  "brandSlug": "creed",
+  "brand": "CREED",
+  "name": "Absolu Aventus",
+  "subName": "Eau de Parfum",
+  "perfumer": "House of Creed",
+  "gender": "nam",
+  "image": "/images/products/creed-absolu-aventus-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/creed-absolu-aventus-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh sản phẩm Creed Absolu Aventus (chai và hộp)"
+    },
+    {
+      "url": "/images/products/creed-absolu-aventus-bottle.jpg",
+      "source": "studio",
+      "caption": "Ảnh chai Creed Absolu Aventus"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nAbsolu Aventus là cách Creed làm mới DNA Aventus theo hướng đậm hơn, tối hơn và bóng bẩy hơn. Nó vẫn mang tinh thần trái cây-gỗ sang trọng quen thuộc, nhưng thêm chiều sâu, độ dày và cảm giác modern luxury rõ hơn. Đây không phải bản thay thế hoàn toàn Aventus gốc, mà là một biến thể sang tối, ít airy hơn và có phần sắc nét hơn.\n\nĐiểm hấp dẫn của Absolu Aventus là nó giữ được khí chất thành đạt, gọn gàng của Aventus nhưng cho cảm giác ăn diện hơn. Ở thị trường Việt Nam, dòng DNA này vốn đã rất dễ được đón nhận, nên bản Absolu sẽ hợp với người thích vibe thành công, lịch sự nhưng muốn thêm chút lực và độ hiện diện cho những dịp quan trọng hơn.\n\n## Diễn biến trên da\nMở đầu vẫn có nét trái cây sáng đặc trưng của Aventus, nhưng cảm giác không quá thoáng mà đậm và bóng hơn. Sau đó phần gỗ, nhựa và nền tối hơn xuất hiện, khiến tổng thể có chiều sâu và có cảm giác dressy hơn bản gốc.\n\nDrydown là phần đẹp nhất nếu mày thích DNA Aventus theo hướng trưởng thành hơn. Nó vẫn sạch và sang, nhưng ít playful hơn. Nhược điểm là ai mê sự tươi sáng, thoáng và cân bằng cổ điển của Aventus gốc có thể thấy bản Absolu hơi nặng hơn mức cần thiết.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nAbsolu Aventus có hiệu năng khá tốt, thường lưu 7-9 giờ, tỏa hương vừa đến khá trong giai đoạn đầu. Nó hợp dùng ở môi trường công việc cao cấp, gặp khách, event buổi tối nhẹ, tiệc hoặc những ngày muốn lên mùi thật chỉn chu.\n\nTrong khí hậu Việt Nam, chai này vẫn dùng tốt nhưng sẽ đẹp hơn ở thời tiết dễ chịu hoặc không gian máy lạnh. Ưu điểm là khí chất sang, hiện đại và nhận diện tốt; nhược điểm là giá cao và khó làm hài lòng tất cả fan Aventus gốc vì hai hướng tính cách không hoàn toàn giống nhau.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích DNA Aventus nhưng muốn bản đậm hơn, bóng hơn và có cảm giác luxury rõ hơn, Absolu Aventus rất đáng thử. Nó hợp người đã có gu, thích sự thành công, gọn gàng và muốn mùi hương nâng outfit lên một nấc.\n\nNên mua khi mày cần một chai premium cho dịp quan trọng hoặc muốn sưu tập thêm một twist khác của Aventus. Nếu mày chỉ cần một chai linh hoạt nhất trong nhóm này, bản Aventus gốc vẫn dễ sống chung hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Bưởi"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Tiêu hồng"
+    },
+    {
+      "name": "Nho đen"
+    },
+    {
+      "name": "Dứa"
+    },
+    {
+      "name": "Nhục đậu khấu"
+    },
+    {
+      "name": "Đinh hương"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gừng"
+    },
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Thanh yên"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Ambroxan"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

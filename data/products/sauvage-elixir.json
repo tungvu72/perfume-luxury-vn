@@ -1,0 +1,124 @@
+{
+  "id": "sauvage-elixir",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Sauvage Elixir",
+  "subName": "",
+  "perfumer": "François Demachy",
+  "gender": "nam",
+  "image": "/images/products/sauvage-elixir-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/sauvage-elixir-main.jpg",
+      "source": "fragram",
+      "caption": "Dior Sauvage Elixir chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Bản đặc biệt nhất trong dòng Sauvage — mùi cay nồng, dày và rất nam tính. Thích hợp cho những dịp buổi tối, hẹn hò hoặc đi chơi khi trời mát. Không phù hợp để xịt đi làm ban ngày ở Việt Nam vì khá nặng.",
+  "article": "### Ai không nên mua?\n\nNếu bạn hay dùng nước hoa đi làm ban ngày, nhất là ở Sài Gòn hay những nơi nóng, thì Elixir không hợp. Mùi cay nồng kết hợp cam thảo sẽ gây ngộp trong phòng máy lạnh nhỏ. Những bạn thích kiểu sạch sẽ, nhẹ nhàng như Bleu de Chanel hay Acqua di Giò cũng sẽ thấy chai này quá nặng tay. Lưu ý thêm: chỉ cần 2 nhát là đủ, xịt nhiều hơn dễ khiến người xung quanh khó chịu thay vì khen.\n\n### Có đáng tiền không?\n\nVới giá khoảng 5.4 triệu cho chai 60ml, Elixir đắt hơn Sauvage EDP (khoảng 3.2 triệu/100ml) và ngang với Tom Ford Noir Extreme (4 triệu/50ml). Nhưng vì mỗi lần chỉ cần xịt 2 nhát, chai 60ml dùng được rất lâu. So với Noir Extreme thì Elixir thơm xa hơn và bám lâu hơn. So với Sauvage EDP thì Elixir trưởng thành hơn, ít bị \"đụng hàng\" hơn. Nếu chưa quyết được, nên mua chiết 10ml dùng thử trước.\n\n### Nên dùng khi nào?\n\nĐẹp nhất khi đi ăn tối, đi bar hoặc hẹn hò — lúc trời dưới 25°C. Xịt 1 nhát sau gáy, 1 nhát trước ngực là vừa đủ. Mùa mưa ở Sài Gòn hay mùa đông Hà Nội là lúc Elixir tỏa đẹp nhất. Đừng dùng đi làm ban ngày, trừ khi văn phòng rộng và bạn xịt rất ít. Muốn có chai Sauvage đi làm hằng ngày thì chọn bản EDP.",
+  "verdict": "Dành cho những bạn muốn một chai Dior mạnh mẽ, trưởng thành, không đại trà. Xịt buổi tối hoặc khi trời mát sẽ rất đẹp. Ai thích kiểu nhẹ nhàng, dễ dùng hằng ngày thì nên chọn bản EDP hoặc EDT thay vì Elixir.",
+  "verdictShort": "MẠNH, TRƯỞNG THÀNH, HỢP BUỔI TỐI",
+  "score": {
+    "scent": 9.2,
+    "uniqueness": 8.9,
+    "compliments": 9.4,
+    "value": 8.2,
+    "total": 8.9
+  },
+  "vibes": [
+    {
+      "label": "Hẹn hò tối",
+      "icon": "🌙"
+    },
+    {
+      "label": "Mùa mát",
+      "icon": "🍂"
+    },
+    {
+      "label": "Trưởng thành",
+      "icon": "🖤"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 9,
+  "seasons": {
+    "spring": 45,
+    "summer": 20,
+    "fall": 90,
+    "winter": 100
+  },
+  "dayNight": {
+    "day": 30,
+    "night": 100
+  },
+  "topNotes": [
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Nhục đậu khấu"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Bưởi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Oải hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Cam thảo"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Cay nồng",
+      "value": 100,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Thảo mộc",
+      "value": 82,
+      "color": "#1abc9c"
+    },
+    {
+      "name": "Gỗ",
+      "value": 78,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Oải hương",
+      "value": 62,
+      "color": "#9b59b6"
+    }
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "60ml Fullbox"
+  ],
+  "basePrice": 5400000,
+  "seoTitle": "Dior Sauvage Elixir chính hãng giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá Dior Sauvage Elixir chính hãng: mùi cay nồng trưởng thành, độ lưu hương, ai nên dùng và giá tham khảo 2026 tại Maison De Son.",
+  "tags": [
+    "Hẹn hò",
+    "Thu đông",
+    "Đi chơi tối",
+    "Nước hoa mạnh"
+  ],
+  "shopeeOffers": []
+}

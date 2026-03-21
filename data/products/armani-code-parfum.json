@@ -1,0 +1,54 @@
+{
+  "id": "armani-code-parfum",
+  "brandSlug": "armani",
+  "brand": "GIORGIO ARMANI",
+  "name": "Armani Code Parfum",
+  "subName": "Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/armani-code-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/armani-code-parfum-main.jpg",
+      "source": "amazon",
+      "caption": "GIORGIO ARMANI Code Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nArmani Code Parfum là kiểu mùi nam sạch, mượt và sang theo hướng hiện đại tối giản. Nó giữ tinh thần lịch thiệp của line Armani Code nhưng bớt ngọt nặng, bớt tối dày hơn vài bản trước, thay vào đó là cảm giác cân bằng, gọn và rất dễ dùng. Đây là một chai nam rất hợp người thích phong cách chững chạc mà không muốn mùi hương quá áp lực.\n\nĐiểm mạnh của Code Parfum là độ tinh chỉnh. Nó không quá sexy kiểu câu kéo, cũng không quá công sở khô cứng. Trong bối cảnh Việt Nam, chai này hợp đi làm, gặp gỡ, tối nhẹ hoặc làm signature cho người thích mùi sạch-sang.\n\n## Diễn biến trên da\nMở đầu sáng và khá sạch, sau đó nền ấm cùng chút tonka/gỗ làm tổng thể mềm và mượt hơn. Mùi phát triển liền lạc, không có đoạn nào quá gắt.\n\nDrydown là lớp sạch, ấm nhẹ và nam tính vừa đủ. Nó không gây chú ý kiểu quá mạnh, nhưng rất dễ khiến người khác thấy gọn gàng và có gu. Nhược điểm là người thích mùi thật nổi hoặc thật dark có thể thấy nó hơi an toàn.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nArmani Code Parfum có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, gặp đối tác, đi ăn tối nhẹ, dùng quanh năm hoặc làm chai đa dụng thiên về lịch sự.\n\nỞ Việt Nam, chai này dùng khá khỏe vì không quá dày. Ưu điểm là sang, gọn và dễ mặc; nhược điểm là độ cá tính không quá lớn.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nam lịch thiệp, modern và ít rủi ro hơn nhiều bản ngọt đậm, Armani Code Parfum là lựa chọn rất ổn. Nó hợp người thích sự chững chạc gọn gàng hơn là statement mạnh.\n\nNên mua khi mày cần một chai signature dễ dùng. Nếu mày thích mùi thật đậm hoặc cực kỳ sexy, có thể thấy nó hơi hiền.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "lalique-encre-noire",
+  "brandSlug": "lalique",
+  "brand": "LALIQUE",
+  "name": "Encre Noire",
+  "subName": "Eau de Toilette",
+  "perfumer": "Nathalie Lorson",
+  "gender": "nam",
+  "image": "/images/products/lalique-encre-noire-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/lalique-encre-noire-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh sản phẩm Lalique Encre Noire (chai và hộp)"
+    },
+    {
+      "url": "/images/products/lalique-encre-noire-bottle.jpg",
+      "source": "studio",
+      "caption": "Ảnh chai Lalique Encre Noire"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nEncre Noire là một trong những chai nước hoa nam có DNA gỗ-vetiver rõ cá tính nhất ở tầm giá dễ tiếp cận. Nó tối, khô, lạnh và có cảm giác như gỗ ẩm, rễ cây, mực đen và đất sau mưa. Đây không phải kiểu mùi ngọt dễ khen hay sáng sủa kiểu văn phòng phổ thông, mà là kiểu mùi dành cho người thích sự trầm, kín và có phần nghệ sĩ.\n\nĐiểm khiến Encre Noire đáng giá nằm ở chỗ nó cho một trải nghiệm rất riêng mà nhiều chai đắt tiền hơn cũng chưa chắc làm được. Nó có chiều sâu, có mood và có màu sắc rất rõ. Ở Việt Nam, chai này không phải lựa chọn an toàn cho số đông, nhưng lại cực hợp với ai thích phong cách tối giản, all black, ít nói và không muốn mùi hương của mình giống phần còn lại của đám đông.\n\n## Diễn biến trên da\nMở đầu là cypress hơi xanh và khô, sau đó vetiver nhanh chóng chiếm sân khấu. Vetiver ở đây không sáng kiểu tươi cỏ mới cắt mà đi theo hướng tối, gỗ, có chút đất và khoáng. Khi mùi xuống sâu hơn, lớp xạ hương và gỗ cashmere làm tổng thể mềm hơn đôi chút nhưng vẫn giữ tinh thần lạnh và tối.\n\nDiễn biến của Encre Noire không quá nhiều lớp, nhưng màu mùi rất nhất quán. Nó không cố lấy lòng người dùng bằng sweetness hay citrus dễ chịu. Chính sự thẳng thắn đó làm nó có cá tính. Nhược điểm là ai quen mùi fresh, gourmand hoặc thích compliment nhanh sẽ thấy chai này quá khô và hơi khó gần.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nEncre Noire có độ lưu hương khá tốt so với giá, thường khoảng 6-8 giờ; tỏa hương vừa phải, thiên về aura gần hơn là khuếch tán mạnh. Nó hợp nhất cho buổi chiều tối, thời tiết mát, mùa mưa, không gian yên và những dịp không cần quá social.\n\nỞ khí hậu Việt Nam, nên dùng nhẹ tay và đẹp nhất vào ngày mát hoặc trong phòng điều hòa. Đây không phải chai dành cho buổi trưa nắng gắt hay môi trường cần quá thân thiện. Ưu điểm là cá tính mạnh và giá tốt; nhược điểm là khá kén người mặc lẫn người ngửi.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai vetiver tối, khác biệt, có chiều sâu và giá trị vượt giá tiền, Encre Noire rất đáng thử. Nó hợp người thích gu trầm, hơi nghệ và không ngại một mùi hương khó chiều hơn mặt bằng chung.\n\nNên mua khi mày muốn thêm một chai mood scent cho tối, ngày mưa hoặc những lúc cần một vibe rất riêng. Nếu mày mới chơi nước hoa hoặc chỉ cần mùi dễ dùng hằng ngày, đây không phải lựa chọn ưu tiên đầu tiên.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Bách xanh"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Cỏ hương bài Bourbon"
+    },
+    {
+      "name": "Cỏ hương bài Haiti"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ cashmere"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

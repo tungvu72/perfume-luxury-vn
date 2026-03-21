@@ -1,0 +1,54 @@
+{
+  "id": "amouage-reflection-man",
+  "brandSlug": "amouage",
+  "brand": "AMOUAGE",
+  "name": "Reflection Man",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/amouage-reflection-man-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/amouage-reflection-man-main.jpg",
+      "source": "amazon",
+      "caption": "AMOUAGE Reflection Man chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nReflection Man là kiểu floral woody nam cực kỳ sạch, sáng và sang theo cách trưởng thành. Nó nổi bật ở cảm giác hoa trắng được xử lý rất nam tính: mượt, thanh lịch, có chất xà phòng cao cấp nhưng không hề yếu. Đây là mùi của một người đàn ông chỉn chu, mặc sơ mi đẹp và không cần mùi hương phải gào lên để gây chú ý.\n\nĐiểm ăn tiền của Reflection Man là sự lịch thiệp. Nó khác với các mùi fresh thể thao hoặc blue fragrance thường gặp vì có độ mịn và chiều sâu hơn hẳn. Trong điều kiện Việt Nam, đây là chai dùng rất đẹp cho đi làm, gặp gỡ lịch sự, văn phòng cao cấp hoặc làm signature nếu mày thích phong cách gọn và sang.\n\n## Diễn biến trên da\nMở đầu khá sáng và sạch, sau đó lớp floral cùng gỗ bắt đầu hiện rõ hơn. Mùi chuyển tầng mượt, không có đoạn gắt và giữ được sự chỉn chu gần như xuyên suốt.\n\nDrydown mềm, sạch, có chút kem và rất sang. Nó không phải kiểu sexy lộ liễu, mà cuốn theo kiểu tinh tế. Nhược điểm là ai thích cá tính mạnh hoặc mùi quá tối sẽ thấy nó hơi quá lịch sự.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nReflection Man có độ lưu hương khá tốt, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, ban ngày, họp hành, sự kiện lịch sự và đặc biệt đẹp trong môi trường điều hòa.\n\nỞ Việt Nam, đây là chai khá dễ dùng vì sạch và thoáng. Ưu điểm là sang, mịn, trưởng thành; nhược điểm là độ “wow” với người thích mùi đậm sẽ không quá mạnh.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày cần một chai nam sạch-sang-trưởng thành và khác hẳn hướng blue phổ thông, Reflection Man rất đáng thử. Nó hợp người thích sự thanh lịch, gọn gàng và mùi hương có nền tảng sang rõ rệt.\n\nNên mua khi mày muốn một signature văn phòng hoặc gặp gỡ lịch sự. Nếu mày cần mùi tối, ngọt hoặc nổi mạnh, nên cân nhắc chai khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

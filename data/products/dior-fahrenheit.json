@@ -1,0 +1,54 @@
+{
+  "id": "dior-fahrenheit",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Fahrenheit",
+  "subName": "Eau de Toilette",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/dior-fahrenheit-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dior-fahrenheit-main.jpg",
+      "source": "amazon",
+      "caption": "DIOR Fahrenheit chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nFahrenheit là một tượng đài rất khó nhầm: da, violet, xăng nhẹ và cảm giác nóng - lạnh đan xen tạo nên một DNA cực kỳ riêng. Đây không phải kiểu mùi để chiều số đông, mà là kiểu ai hợp thì mê rất sâu. Nó nam tính, có bụi bặm, có nghệ và có độ “đàn ông” theo kiểu cổ điển nhưng vẫn khác biệt đến tận bây giờ.\n\nĐiểm mạnh lớn nhất của Fahrenheit là bản sắc. Trong một thị trường đầy mùi sạch, ngọt hoặc blue fragrance, nó đứng hẳn một vùng riêng. Ở Việt Nam, chai này hợp với người đã có gu tương đối rõ, thích mùi nam có cá tính và không ngại chuyện kén người dùng.\n\n## Diễn biến trên da\nMở đầu có cảm giác xanh, hơi lạnh và hơi “xăng” rất đặc trưng, sau đó da và violet dần làm tổng thể trở nên ấm, dày và nam tính hơn. Mùi phát triển liên tục và có chiều sâu chứ không tuyến tính đơn giản.\n\nDrydown của Fahrenheit vẫn giữ chất da-ấm rất rõ, nhưng mượt hơn phần mở đầu. Đây là giai đoạn đẹp nhất nếu mày thích gu nam cũ-school có cá tính. Nhược điểm là người quen mùi hiện đại có thể thấy nó lạ hoặc khó gần.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nFahrenheit có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp chiều tối, thời tiết mát, lái xe, đi chơi hoặc những dịp muốn dùng một mùi thật sự có bản sắc.\n\nỞ Việt Nam, nên ưu tiên buổi chiều tối để mùi lên đẹp hơn. Ưu điểm là cực kỳ riêng; nhược điểm là độ đại chúng thấp và không phải blind buy an toàn.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nam có DNA khác biệt thật sự và không muốn hòa vào đám đông, Fahrenheit là cái tên đáng thử nghiêm túc. Nó hợp người thích mùi da, xanh, vintage-modern rất riêng.\n\nNên mua khi mày muốn một chai mang cá tính rõ. Nếu mày chỉ cần mùi dễ khen, đây không phải lựa chọn đầu tiên.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

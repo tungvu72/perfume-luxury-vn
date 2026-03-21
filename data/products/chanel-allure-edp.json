@@ -1,0 +1,54 @@
+{
+  "id": "chanel-allure-edp",
+  "brandSlug": "chanel",
+  "brand": "CHANEL",
+  "name": "Allure",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/chanel-allure-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/chanel-allure-edp-main.jpg",
+      "source": "amazon",
+      "caption": "CHANEL Allure chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nAllure EDP là một mùi nữ rất Chanel: mềm, sang, cân bằng và cực kỳ dễ sống cùng. Nó không phải kiểu floral ồn ào hay gourmand đậm, mà là một hỗn hợp rất đẹp của hoa, độ ấm nhẹ, chút powder và sự thanh lịch tổng thể. Đây là chai dành cho người thích mùi nữ trưởng thành nhưng không quá nghiêm hay quá cổ.\n\nĐiểm mạnh của Allure EDP là tính toàn diện. Nó dùng đi làm được, đi ăn tối được, mặc đẹp hay mặc thường ngày đều không lạc quẻ. Trong điều kiện Việt Nam, chai này đặc biệt hợp với người muốn một mùi nữ sang nhẹ, không gây mệt và không đòi hỏi phải “đúng mood” mới dùng được.\n\n## Diễn biến trên da\nMở đầu mềm và khá tròn, floral xuất hiện rõ nhưng không gắt, sau đó nền ấm cùng cảm giác hơi powder giúp tổng thể trở nên sang và chỉn chu hơn. Mùi phát triển mượt, gần như không có đoạn nào thô.\n\nDrydown là lớp floral ấm mềm, thanh lịch và rất dễ chịu. Nó không tạo cú sốc lớn, nhưng cực kỳ bền cảm tình. Nhược điểm là ai thích cá tính mạnh có thể thấy Allure hơi quá “đẹp an toàn”.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nAllure EDP có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, gặp gỡ, hẹn hò nhẹ, tiệc nhỏ hoặc dùng như một chai nữ signature rất bền vững.\n\nỞ Việt Nam, chai này dùng khá khỏe vì cân bằng tốt. Ưu điểm là sang và linh hoạt; nhược điểm là không phải kiểu mùi nổi bật theo hướng drama.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày cần một chai Chanel nữ mềm, sang và cực dễ ứng dụng, Allure EDP là lựa chọn rất mạnh. Nó hợp người thích thanh lịch trưởng thành nhưng vẫn gần gũi.\n\nNên mua khi mày muốn một chai signature nữ đa dụng. Nếu mày cần một mùi cực kỳ cá tính hoặc quá ngọt, nên chọn hướng khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

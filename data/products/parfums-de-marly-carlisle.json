@@ -1,0 +1,54 @@
+{
+  "id": "parfums-de-marly-carlisle",
+  "brandSlug": "parfums-de-marly",
+  "brand": "PARFUMS DE MARLY",
+  "name": "Carlisle",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "unisex",
+  "image": "/images/products/parfums-de-marly-carlisle-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/parfums-de-marly-carlisle-main.jpg",
+      "source": "amazon",
+      "caption": "PARFUMS DE MARLY Carlisle chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nCarlisle là kiểu mùi tối, dày, ngọt ấm và rất sang của Parfums de Marly. Nó có trái cây tối, gia vị, patchouli và vanilla hòa vào nhau theo cách rất “full body”, tạo cảm giác quyền lực và giàu rõ rệt. Đây là chai dành cho người thích mùi buổi tối có lực mạnh và khí chất sang không cần phải giải thích nhiều.\n\nĐiểm mạnh của Carlisle là độ hiện diện. Nó vừa có ngọt, vừa có chiều tối, vừa có texture sang nên rất dễ để lại ấn tượng. Trong điều kiện Việt Nam, chai này hợp cho tối, điều hòa, event, hẹn hò hoặc những dịp cần mùi hương có trọng lượng lớn.\n\n## Diễn biến trên da\nMở đầu hơi tối với trái cây và gia vị, sau đó patchouli cùng vanilla dần đẩy tổng thể vào vùng dày, tròn và rất đậm. Mùi phát triển khá mạnh, không dành cho người thích sự nhẹ nhàng.\n\nDrydown là lớp ngọt ấm, tối và rất bền. Nó có cảm giác xa xỉ rõ và giữ mood tốt trong thời gian dài. Nhược điểm là trời nóng hoặc xịt nặng tay dễ làm nó trở nên hơi nhiều.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nCarlisle có hiệu năng tốt, thường 8-10 giờ; tỏa hương khá. Nó hợp tối, event, hẹn hò, mùa mát hoặc khi muốn mùi hương mang cảm giác giàu, đậm và nổi.\n\nỞ Việt Nam, nên dùng tiết chế và ưu tiên không gian mát. Ưu điểm là rất sang và mạnh; nhược điểm là tính đa dụng ban ngày thấp.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai buổi tối đậm, ngọt ấm và cực kỳ có khí chất, Carlisle là lựa chọn rất mạnh. Nó hợp người thích mùi hương full-bodied và không ngại sự nổi bật.\n\nNên mua khi mày cần một chai tối statement. Nếu mày thích sự sáng, nhẹ hoặc casual, nên chọn hướng khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Unisex",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

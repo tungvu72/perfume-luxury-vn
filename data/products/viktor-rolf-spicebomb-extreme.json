@@ -1,0 +1,108 @@
+{
+  "id": "viktor-rolf-spicebomb-extreme",
+  "brandSlug": "viktor-rolf",
+  "brand": "VIKTOR&ROLF",
+  "name": "Spicebomb Extreme",
+  "subName": "Eau de Parfum",
+  "perfumer": "Carlos Benaim",
+  "gender": "nam",
+  "image": "/images/products/viktor-rolf-spicebomb-extreme-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/viktor-rolf-spicebomb-extreme-main.jpg",
+      "source": "fragram",
+      "caption": "Viktor & Rolf Spicebomb Extreme Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
+  "productCopy": "Viktor & Rolf Spicebomb Extreme EDP đúng như tên gọi: một quả bom gia vị dành cho những ai thích mùi hương nam đậm và có sức nặng. Mùi mở đầu với cảm giác cay ấm rõ rệt, sau đó dần đi vào lớp vanilla, thuốc lá và nền hổ phách dày. Tổng thể vừa nóng, vừa ngọt, vừa nam tính, tạo ra cảm giác rất cuốn trong thời tiết mát hoặc buổi tối.\n\nĐiểm hấp dẫn của Spicebomb Extreme là nó không cố gắng trở nên an toàn. Đây là kiểu mùi dành cho người thích cá tính rõ, thích sự nổi bật và không ngại mùi hương của mình chiếm không gian. Nó hợp với áo khoác, buổi tối, hẹn hò, đi bar hoặc những dịp cần một mùi hương thật có lực.\n\nTrên da, lớp gia vị đầu có thể khá mạnh, nhưng sau đó mùi trở nên mượt hơn và quyến rũ hơn khi vanilla bắt đầu rõ lên. Thuốc lá trong chai này không quá khô mà khá mềm, giúp tổng thể vừa nam tính vừa gợi cảm. Đây là lý do nhiều người xem nó là một chai cold weather rất hấp dẫn.\n\nVề hiệu năng, Spicebomb Extreme EDP làm rất tốt ở cả lưu hương lẫn độ tỏa. Trong điều kiện Việt Nam, nên ưu tiên dùng vào buổi tối, phòng máy lạnh hoặc những ngày mưa mát. Nếu dùng giữa trưa nóng, chai này dễ trở nên quá nặng nếu xịt nhiều.\n\nNếu bạn muốn một chai nước hoa nam cay ngọt, mạnh mẽ và có thần thái cuốn hút rất rõ, Spicebomb Extreme là lựa chọn cực kỳ đáng cân nhắc. Nó không dành cho người thích sự nhẹ nhàng, nhưng lại rất phù hợp với người muốn một mùi hương có cá tính và độ sexy nổi bật.",
+  "article": "Spicebomb Extreme dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
+  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
+  "verdictShort": "LIVE CATALOG UPDATE",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "nam",
+      "icon": "?"
+    },
+    {
+      "label": "D? d�ng",
+      "icon": "??"
+    },
+    {
+      "label": "Catalog live",
+      "icon": "??"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 68,
+    "summer": 52,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 58,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Top note"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Middle note"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Base note"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ch? d?o",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "D? d�ng",
+      "value": 32,
+      "color": "#1abc9c"
+    },
+    {
+      "name": "Hi?n d?i",
+      "value": 24,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "?m",
+      "value": 20,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Spicebomb Extreme chính hãng giá bao nhiêu? Review 2026",
+  "metaDescription": "Đánh giá Spicebomb Extreme chính hãng: mùi gia vị thuốc lá bùng nổ, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
+  "tags": [
+    "nam",
+    "Catalog",
+    "Live",
+    "2026"
+  ],
+  "sizes": [
+    "10ml Chi?t",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1990000,
+  "shopeeOffers": []
+}

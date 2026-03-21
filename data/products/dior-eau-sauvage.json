@@ -1,0 +1,54 @@
+{
+  "id": "dior-eau-sauvage",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Eau Sauvage",
+  "subName": "Eau de Toilette",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/dior-eau-sauvage-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dior-eau-sauvage-main.jpg",
+      "source": "amazon",
+      "caption": "DIOR Eau Sauvage chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nEau Sauvage là một tượng đài nước hoa nam theo đúng nghĩa cổ điển Pháp: citrus, thảo mộc, hoa nhẹ và nền gỗ sạch được phối rất thanh, rất sáng và cực kỳ lịch sự. Đây không phải kiểu mùi ngọt hay ồn ào để gây chú ý nhanh, mà là kiểu mùi tạo cảm giác người mặc gọn gàng, có nề nếp và có gu lâu năm.\n\nĐiểm hay của Eau Sauvage là dù sinh ra từ thời kỳ rất khác, nó vẫn dùng được tốt nhờ sự tinh tế trong cấu trúc. Nó sáng nhưng không rẻ, sạch nhưng không mỏng, nam tính nhưng không gắt. Ở Việt Nam, đây là kiểu mùi hợp với người thích vẻ trưởng thành, thích đi làm, gặp gỡ lịch sự hoặc đơn giản là muốn một mùi citrus nam kinh điển không bị đại trà kiểu hiện đại.\n\n## Diễn biến trên da\nMở đầu là citrus rõ rệt, sáng và rất gọn. Sau đó các note aromatic và nền gỗ nhẹ bắt đầu hiện ra, làm tổng thể bớt sắc hơn và có chiều sâu hơn. Mùi phát triển mượt, không sốc, không tạo cảm giác quá cầu kỳ nhưng rất có chất.\n\nDrydown của Eau Sauvage khá thanh và sạch, vẫn giữ tinh thần citrus-aromatic đặc trưng. Nó không có kiểu chuyển mình dramatic mà ổn định theo hướng quý ông. Nhược điểm là nếu mày quen với các mùi hiện đại đậm đà, chai này có thể hơi hiền và hơi cổ điển.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nEau Sauvage có hiệu năng vừa phải, thường khoảng 5-7 giờ trên da và tỏa hương lịch sự. Nó cực hợp cho ban ngày, đi làm, gặp khách, trời nóng hoặc những lúc cần mùi hương sạch sang mà không làm phiền người khác.\n\nTrong khí hậu Việt Nam, chai này phát huy tốt nhờ độ sáng và thoáng. Ưu điểm là thanh lịch, dễ mặc, đúng chất kinh điển; nhược điểm là không phải vũ khí cho hẹn hò tối hay những ai thích mùi bám cực mạnh.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai citrus nam cổ điển, sang và rất có gu, Eau Sauvage là lựa chọn đáng thử. Nó hợp người trưởng thành, thích chất Pháp và không chạy theo mùi ngọt đương đại.\n\nNên mua khi mày cần một chai ban ngày lịch sự hoặc muốn hiểu một cột mốc lớn của nước hoa nam. Nếu mày thích mùi hiện đại, nổi và bám mạnh, có thể cần một hướng khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

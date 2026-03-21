@@ -1,0 +1,91 @@
+{
+  "id": "dior-pure-poison",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Pure Poison",
+  "subName": "Eau de Parfum",
+  "perfumer": "Carlos Benaïm, Dominique Ropion, Olivier Polge",
+  "gender": "nu",
+  "image": "/images/products/dior-pure-poison-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dior-pure-poison-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh sản phẩm Dior Pure Poison (chai và hộp)"
+    },
+    {
+      "url": "/images/products/dior-pure-poison-bottle.jpg",
+      "source": "studio",
+      "caption": "Ảnh chai Dior Pure Poison"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nPure Poison là một kiểu nữ tính rất đẹp của Dior: hoa trắng sạch, sáng, có độ sang nhưng không quá nồng. Nó không đi theo hướng kẹo ngọt, fruity hay quá sexy kiểu ồn ào, mà thiên về cảm giác tinh khiết, thanh và có chút lạnh. Đây là kiểu mùi khiến người mặc trông chỉn chu, sạch sẽ và có khí chất hơn là cố gây choáng.\n\nĐiểm mạnh của Pure Poison nằm ở sự cân bằng giữa vẻ nữ tính và độ dễ dùng. Hoa trắng ở đây không dày như một số chai tuberose nặng đô, mà sáng và thoáng hơn. Trong điều kiện Việt Nam, đây là kiểu mùi rất hợp với người thích hương hoa thanh lịch, dùng được nhiều hoàn cảnh và không muốn quá ngọt.\n\n## Diễn biến trên da\nMở đầu cho cảm giác sáng và tinh với citrus nhẹ và lớp hoa trắng sạch. Sau đó hoa nhài, hoa cam và nền gỗ mềm bắt đầu hiện rõ hơn, khiến mùi hương nữ tính nhưng vẫn có khung rất gọn.\n\nDrydown của Pure Poison khá đẹp: vẫn là hoa trắng nhưng mềm hơn, kem hơn và có chút ấm nhẹ. Nó giữ được sự thanh sạch trong suốt quá trình phát triển. Nhược điểm là ai thích mùi nữ đậm, ngọt hoặc quá quyến rũ có thể thấy chai này hơi ngoan.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nPure Poison có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa phải, phù hợp văn phòng, đi làm, hẹn nhẹ, dự tiệc ban ngày hoặc các dịp cần vẻ nữ tính thanh lịch.\n\nỞ Việt Nam, chai này dùng tốt quanh năm, đặc biệt đẹp trong thời tiết nóng vì hoa trắng lên sáng và sạch. Ưu điểm là sang, dễ mặc, ít rủi ro; nhược điểm là độ cá tính không quá cao nếu so với các chai hoa trắng đậm nét hơn.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày cần một chai nữ thanh lịch, sạch, hoa trắng đẹp và dễ dùng, Pure Poison là lựa chọn rất đáng cân nhắc. Nó hợp người thích vẻ chỉn chu, tinh và không muốn mùi ngọt gắt.\n\nNên mua khi mày cần một chai dùng đi làm hoặc signature nhẹ nhàng sang. Nếu mày muốn mùi cực quyến rũ buổi tối, nên tìm hướng đậm hơn.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Nhài"
+    },
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Quýt Sicily"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Dành dành"
+    },
+    {
+      "name": "Hoa cam"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hổ phách trắng"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Xạ hương trắng"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

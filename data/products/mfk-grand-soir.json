@@ -1,0 +1,54 @@
+{
+  "id": "mfk-grand-soir",
+  "brandSlug": "mfk",
+  "brand": "MAISON FRANCIS KURKDJIAN",
+  "name": "Grand Soir",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "unisex",
+  "image": "/images/products/mfk-grand-soir-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/mfk-grand-soir-main.jpg",
+      "source": "amazon",
+      "caption": "MFK Grand Soir chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nGrand Soir đúng như tên gọi: một mùi tối, amber, nhựa thơm và vanilla cực kỳ sang. Nó không cố mô phỏng quá nhiều note phức tạp, mà tập trung xây một khối ấm, bóng, giàu và đắt tiền. Đây là một trong những chai amber hiện đại đẹp nhất nếu mày thích sự ấm sang rõ rệt.\n\nĐiểm mạnh của Grand Soir là độ hoàn thiện. Nó vừa đủ ngọt để cuốn, vừa đủ resinous để sang, và cực kỳ “lên không gian” khi dùng buổi tối. Trong điều kiện Việt Nam, chai này hợp cho máy lạnh, event, hẹn hò, tiệc hoặc những lúc cần một mùi hương có cảm giác dressed-up ngay lập tức.\n\n## Diễn biến trên da\nMở đầu đã khá ấm và resinous, sau đó amber cùng vanilla dần làm tổng thể mượt hơn, dày hơn và sang hơn. Mùi phát triển không quá nhiều tầng, nhưng texture thay đổi rất đẹp.\n\nDrydown là lớp amber ấm, mềm, sang và cực kỳ ôm da. Nó tạo cảm giác đắt tiền rất rõ. Nhược điểm là trời nóng dễ làm nó trở nên hơi nhiều nếu xịt mạnh.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nGrand Soir có hiệu năng tốt, thường 8-10 giờ; tỏa hương khá trong giai đoạn đầu. Nó hợp tối, hẹn hò, event, thời tiết mát và những dịp muốn mùi hương thật sự có khí chất sang.\n\nỞ Việt Nam, nên ưu tiên buổi tối và không gian mát. Ưu điểm là amber cực đẹp và rất sang; nhược điểm là không hợp ban ngày nóng.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai amber tối sang, hiện đại và cực kỳ chỉnh chu, Grand Soir là lựa chọn hàng đầu. Nó hợp người thích mùi ấm, xa xỉ và muốn một chai buổi tối thật sự nổi chất lượng.\n\nNên mua khi mày cần một chai event/date night đắt tiền đúng nghĩa. Nếu mày thích mùi sáng, fresh hoặc casual, đây không phải hướng phù hợp.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Unisex",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

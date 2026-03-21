@@ -1,0 +1,79 @@
+{
+  "id": "ysl-la-nuit-de-lhomme",
+  "brandSlug": "ysl",
+  "brand": "YVES SAINT LAURENT",
+  "name": "La Nuit de l'Homme",
+  "subName": "Eau de Toilette",
+  "perfumer": "Anne Flipo, Pierre Wargnye, Dominique Ropion",
+  "gender": "nam",
+  "image": "/images/products/ysl-la-nuit-de-lhomme-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/ysl-la-nuit-de-lhomme-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh sản phẩm La Nuit de L'Homme (chai và hộp)"
+    },
+    {
+      "url": "/images/products/ysl-la-nuit-de-lhomme-bottle.jpg",
+      "source": "studio",
+      "caption": "Ảnh chai La Nuit de L'Homme"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nLa Nuit de l'Homme là một trong những chai nước hoa nam quyến rũ nhất của YSL theo kiểu mềm, gần, sang và có chút bí ẩn. Mùi hương không đi theo hướng nam tính gắt hay tỏa ồn ào, mà chọn cách dùng bạch đậu khấu, oải hương, gỗ và chút ngọt vừa đủ để tạo cảm giác rất cuốn khi đứng gần. Đây là kiểu mùi khiến người đối diện muốn lại gần hơn chứ không phải kiểu bước vào phòng ai cũng nhận ra ngay.\n\nCái hay của La Nuit nằm ở sự cân bằng. Nó vừa đủ lịch sự để không bị phản cảm, vừa đủ sensual để dùng cho buổi tối, hẹn hò hoặc không gian thân mật. Ở thị trường Việt Nam, đây là nhóm mùi rất dễ được khen vì nó sạch, quyến rũ nhưng không phô. Tuy nhiên, độ bùng nổ của nó không nằm ở projection mà ở aura khi tiếp xúc gần.\n\n## Diễn biến trên da\nMở đầu là bạch đậu khấu khá rõ, tạo cảm giác cay nhẹ và sang. Sau đó oải hương làm mùi hương mềm lại, còn gỗ tuyết tùng giữ cho tổng thể vẫn nam tính và đứng form. Trên da ấm, La Nuit thường lên mượt hơn, ngọt hơn một chút và có độ ôm da rất đẹp.\n\nKhoảng sau 30-45 phút, mùi chuyển sang giai đoạn ổn định nhất: cay nhẹ, thơm sạch, trầm vừa đủ và rất dễ chịu. Nó không có quá nhiều lớp biến chuyển phức tạp, nhưng lại cực kỳ dễ dùng. Điểm mạnh là sự chỉn chu và cảm giác gợi cảm kín đáo; điểm yếu là ai kỳ vọng mùi cực sâu hoặc cực niche có thể thấy nó hơi an toàn.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nLa Nuit de l'Homme bản EDT có độ lưu hương trung bình, thường khoảng 4-6 giờ trên da, trên quần áo sẽ khá hơn. Tỏa hương ở mức gần đến vừa, nên đặc biệt hợp môi trường hẹn hò, ăn tối, đi bar nhẹ, cà phê tối hoặc văn phòng máy lạnh nếu mày xịt tiết chế.\n\nTrong khí hậu nóng ẩm Việt Nam, chai này lên đẹp nhất vào chiều tối, trời mát hoặc không gian điều hòa. Ban ngày nắng gắt vẫn dùng được nhưng không phải thời điểm đẹp nhất của nó. Nhược điểm lớn nhất là hiệu năng không quá mạnh so với kỳ vọng giá tiền, nên ai ưu tiên bền mùi có thể thấy hơi thiếu.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nước hoa nam thiên về quyến rũ, lịch sự, dễ gần và cực hợp hẹn hò, La Nuit de l'Homme vẫn là lựa chọn kinh điển. Nó hợp người trẻ đến trung niên, đặc biệt ai thích phong cách ăn mặc gọn gàng, tối giản nhưng có gu.\n\nNên mua khi mày cần một mùi buổi tối an toàn, dễ dùng và có khả năng tạo thiện cảm cao. Không nên mua nếu mục tiêu là hiệu năng mạnh, tỏa xa hoặc cần một mùi quá khác biệt.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Bạch đậu khấu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng Virginia"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Thì là Ai Cập"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "Hương gỗ cay thanh lịch, biểu tượng quyến rũ ban đêm",
+  "verdictShort": "VERIFIED",
+  "shopeeOffers": []
+}

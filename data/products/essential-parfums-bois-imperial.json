@@ -1,0 +1,54 @@
+{
+  "id": "essential-parfums-bois-imperial",
+  "brandSlug": "essential-parfums",
+  "brand": "ESSENTIAL PARFUMS",
+  "name": "Bois Impérial",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "unisex",
+  "image": "/images/products/essential-parfums-bois-imperial-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/essential-parfums-bois-imperial-main.jpg",
+      "source": "amazon",
+      "caption": "ESSENTIAL PARFUMS Bois Imperial chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nBois Impérial là kiểu woody-aromatic hiện đại rất sáng, rất khoáng và cực kỳ đúng tinh thần niche tối giản. Nó không ngọt, không quá ấm, không đi theo kiểu gỗ cổ điển, mà thiên về cảm giác sạch, xanh, mineral và rất sắc. Đây là một mùi hương có cá tính rõ nhưng vẫn dùng được thực tế, nhất là trong thời tiết nóng.\n\nĐiểm mạnh của Bois Impérial là sự hiện đại. Nó cho cảm giác công nghệ, kiến trúc, vật liệu sạch hơn là gỗ mềm truyền thống. Trong bối cảnh Việt Nam, đây là chai cực hợp cho người thích mùi khác số đông nhưng vẫn thoáng và wearable ban ngày.\n\n## Diễn biến trên da\nMở đầu khá sắc và khoáng, sau đó phần gỗ cùng aromatic xanh bắt đầu tròn lại nhưng vẫn giữ độ crisp. Mùi phát triển gọn, không quá nhiều tầng, nhưng bản sắc rất rõ.\n\nDrydown sạch, hơi mặn-khoáng và gỗ sáng, bám da đẹp theo kiểu rất hiện đại. Nhược điểm là ai thích mùi mềm, ngọt hoặc cổ điển có thể thấy nó hơi lạnh.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nBois Impérial có độ lưu hương khá đến tốt, khoảng 6-8 giờ; tỏa hương vừa đến khá. Nó hợp đi làm, ban ngày, mùa nóng, môi trường sáng tạo hoặc làm signature cho người thích mùi niche sạch-sắc.\n\nỞ Việt Nam, chai này dùng rất khỏe. Ưu điểm là hiện đại, khác biệt và ít ngợp; nhược điểm là không phải kiểu mùi ai cũng thấy “dễ thương” ngay.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai woody hiện đại, khoáng, sáng và có cá tính riêng, Bois Impérial là cái tên rất đáng thử. Nó hợp người thích phong cách tối giản, lạnh và khác biệt với blue fragrance phổ thông.\n\nNên mua khi mày cần một chai ban ngày có gu riêng. Nếu mày thích mùi ấm, ngọt hoặc mềm mại, hướng này có thể chưa hợp.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Unisex",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": "ysl-opium-edt",
+  "brandSlug": "ysl",
+  "brand": "YVES SAINT LAURENT",
+  "name": "Opium",
+  "subName": "Eau de Toilette",
+  "perfumer": "",
+  "gender": "nu",
+  "image": "/images/products/ysl-opium-edt-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/ysl-opium-edt-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh sản phẩm YSL Opium EDT (chai và hộp)"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nOpium là một tượng đài phương Đông cổ điển của YSL, mang tinh thần gia vị, nhựa thơm, hoa và độ ấm rất đặc trưng. Đây không phải kiểu nước hoa nữ hiện đại theo hướng fruity-sweet dễ chiều, mà là một mùi hương có quyền lực, có chất retro và có độ hiện diện mạnh. Opium bước vào không gian với cá tính rất rõ, khiến người mặc trông bí ẩn, sắc và có chiều sâu hơn hẳn.\n\nĐiểm làm Opium khác biệt là nó không cố làm dễ thương. Nó chọn cách sang, dày và trưởng thành. Trong bối cảnh hiện nay, chính sự cổ điển đó lại trở thành bản sắc riêng. Ở Việt Nam, Opium sẽ hợp hơn với người thích mùi có cá tính lớn, dùng cho buổi tối, thời tiết mát hoặc các dịp muốn tạo dấu ấn rất riêng thay vì theo gu ngọt an toàn.\n\n## Diễn biến trên da\nMở đầu là nhóm gia vị khá rõ, tạo cảm giác ấm, cay và có chút sắc. Sau đó phần hoa và nhựa thơm làm mùi hương trở nên dày hơn, tròn hơn, trong khi nền vani và hổ phách kéo tổng thể về hướng phương Đông rõ nét.\n\nDrydown của Opium là nơi bản sắc được giữ rất bền: ấm, đậm, có chút khói và chất vintage sang trọng. Nó không nhẹ nhàng hay airy, mà mang cảm giác đầm và chắc. Nhược điểm là nếu mày quen mùi nữ hiện đại sáng sủa, Opium có thể hơi nặng và quá chín.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nOpium có độ lưu hương tốt, thường 7-9 giờ; tỏa hương vừa đến khá và có độ hiện diện rõ. Nó hợp nhất cho buổi tối, tiệc, thời tiết mát, phòng điều hòa hoặc những lúc cần một mùi nữ mạnh cá tính.\n\nTrong khí hậu Việt Nam, nên dùng có tiết chế và ưu tiên chiều tối. Đây không phải chai lý tưởng cho trưa nóng hoặc môi trường quá kín nếu xịt nhiều. Ưu điểm là độc đáo, có phong thái và rất khó nhầm; nhược điểm là khá kén người mặc lẫn người ngửi.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích nước hoa nữ cổ điển, phương Đông, đậm chất quyền lực và không ngại một mùi hương có tuổi đời lẫn cá tính, Opium rất đáng thử. Nó hợp người có gu riêng, thích chất drama và sang theo kiểu không chiều đám đông.\n\nNên mua khi mày muốn một chai tối, lạnh, có statement rõ. Nếu mày cần mùi nữ hiện đại, sáng và dễ dùng mỗi ngày, Opium sẽ không phải lựa chọn đầu tiên.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Quýt"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Hoa linh lan"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Mộc dược"
+    },
+    {
+      "name": "Cẩm chướng"
+    },
+    {
+      "name": "Nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Vani"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

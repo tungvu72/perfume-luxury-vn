@@ -1,0 +1,98 @@
+{
+  "id": "nishane-ani",
+  "brandSlug": "nishane",
+  "brand": "NISHANE",
+  "name": "Ani",
+  "subName": "Extrait de Parfum",
+  "perfumer": "Cécile Zarokian",
+  "gender": "unisex",
+  "image": "/images/products/nishane-ani-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/nishane-ani-main.jpg",
+      "source": "studio",
+      "caption": "Ảnh sản phẩm Nishane Ani (chai và hộp)"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nAni là một trong những chai vanilla niche nổi bật nhất vì nó không ngọt theo kiểu bánh kẹo đơn thuần, mà kết hợp vanilla với gia vị, gỗ và chút xanh để tạo cảm giác vừa ấm vừa có cấu trúc. Đây là kiểu mùi dày, sang và có độ ôm rất đẹp trên da, phù hợp người thích những chai mang cảm giác comfort nhưng vẫn đủ cá tính.\n\nĐiểm mạnh của Ani là vanilla ở đây vừa ngon vừa có chiều sâu. Nó không quá trẻ con, cũng không thiên hẳn gourmand, nên nam hay nữ dùng đều ra chất riêng. Trong điều kiện Việt Nam, Ani hợp nhất với chiều tối, thời tiết mát hoặc môi trường điều hòa, nơi lớp vanilla-gia vị của nó có không gian để phát huy hết độ đẹp.\n\n## Diễn biến trên da\nMở đầu thường có cảm giác tươi nhẹ từ citrus và chút cay của gia vị, nhưng nhanh chóng phần vanilla bắt đầu mở ra. Sau đó gỗ và nền ấm đỡ phía sau giúp mùi không bị kẹo hay quá mượt theo kiểu tuyến tính.\n\nTrên da, Ani phát triển khá tròn: đầu hơi sáng, giữa ấm dần, cuối mềm và dày. Drydown rất dễ gây nghiện nếu mày thích vanilla có chiều sâu. Điểm trừ là với người không hợp vanilla hoặc thích sự khô thoáng, Ani có thể hơi dày và quá hiện diện.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nAni có hiệu năng tốt, lưu hương khoảng 8-10 giờ và tỏa hương khá trong những giờ đầu. Nó hợp dùng cho tối, hẹn hò, đi chơi, thời tiết mát, mùa mưa hoặc những ngày muốn một mùi vừa sang vừa ấm.\n\nỞ Việt Nam, không nên xịt quá tay nếu trời nóng, vì vanilla dày dễ thành ngọt nặng. Ưu điểm là bám khỏe, khác biệt và rất niche; nhược điểm là độ đa dụng ban ngày không cao bằng các mùi sáng.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày đang tìm một chai vanilla niche vừa đẹp, vừa có chiều sâu, vừa không quá đại trà, Ani là ứng viên rất mạnh. Nó hợp người thích mùi ấm, ôm da và có cá tính rõ hơn mặt bằng vanilla phổ thông.\n\nNên mua khi mày cần một chai tối, mùa mát hoặc hẹn hò. Nếu mày chủ yếu dùng giữa trưa nóng hoặc thích mùi rất fresh, Ani không phải hướng ưu tiên.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Gừng"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Tiêu hồng"
+    },
+    {
+      "name": "Lá xanh"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Nho đen"
+    },
+    {
+      "name": "Hoa hồng Thổ Nhĩ Kỳ"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "An tức hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Long diên hương"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Unisex",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}
