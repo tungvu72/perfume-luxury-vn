@@ -16,7 +16,7 @@
     }
   ],
   "description": "Kiểu ngọt ấm dễ được khen, xịt lên là người đối diện thấy thân thiện ngay. Hợp hẹn hò, đi chơi tối hoặc khi trời mát. Ai ghét mùi ngọt hoặc sống ở nơi nóng quanh năm thì nên cân nhắc.",
-  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt thì bỏ qua chai này luôn — nó ngọt rõ từ đầu đến cuối. Ở Sài Gòn nắng nóng, xịt ban ngày dễ bị ngấy. Những bạn thích kiểu sạch sẽ, thoáng mát như Acqua di Giò hay Bleu de Chanel sẽ thấy SWYI quá dày. Ngoài ra, văn phòng nhỏ kín cũng không nên dùng vì mùi tỏa khá mạnh, dễ gây khó chịu cho người ngồi gần.\n\n### Có đáng tiền không?\n\nVới giá khoảng 2.8 triệu cho chai 50ml, SWYI thuộc tầm designer dễ tiếp cận. So với Valentino Uomo Intense (cùng kiểu ngọt ấm, giá ~3.5 triệu/100ml) thì SWYI ngọt hơn và trẻ trung hơn. So với Lattafa Khamrah (chỉ ~500k) thì SWYI mượt mà hơn, ít ngọt gắt hơn. Mùi lưu rất tốt nên mỗi lần xịt 2–3 nhát là đủ, chai 50ml dùng được vài tháng. Nếu chưa chắc, nên mua chiết 10ml thử trước.\n\n### Nên dùng khi nào?\n\nĐẹp nhất khi đi ăn tối, hẹn hò hoặc đi chơi cuối tuần — trời dưới 28°C. Xịt 1 nhát cổ, 1 nhát ngực là vừa. Mùa mưa Sài Gòn hay mùa đông Hà Nội là lúc chai này tỏa đẹp nhất. Đừng dùng đi làm ban ngày trừ khi văn phòng rộng và bạn xịt rất ít. Chai này cực hợp cho những buổi tối muốn gây ấn tượng gần.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt thì bỏ qua chai này luôn — nó ngọt rõ từ đầu đến cuối. Ở Sài Gòn nắng nóng, xịt ban ngày dễ bị ngấy. Những bạn thích kiểu sạch sẽ, thoáng mát như Acqua di Giò hay Bleu de Chanel sẽ thấy SWYI quá dày. Ngoài ra, văn phòng nhỏ kín cũng không nên dùng vì mùi tỏa khá mạnh, dễ gây khó chịu cho người ngồi gần.\n\n### Có đáng tiền không?\n\nThuộc tầm designer cao cấp, SWYI không rẻ nhưng xứng đáng nếu gu của bạn thiên ngọt ấm. Mùi lưu rất tốt nên mỗi lần chỉ cần 2–3 nhát là đủ, một chai fullbox dùng được nhiều tháng. So với các chai cùng kiểu ngọt ấm đi tối ở tầm designer như Valentino Uomo Born In Roma Intense thì SWYI ngọt hơn và trẻ trung hơn. Nếu muốn tiết kiệm hơn, Lattafa Khamrah cho hiệu ứng tương tự ở phân khúc Arabian với giá mềm hơn nhiều, dù không mượt bằng. Nếu chưa chắc, nên mua chiết 10ml thử trước.\n\n### Nên dùng khi nào?\n\nĐẹp nhất khi đi ăn tối, hẹn hò hoặc đi chơi cuối tuần — trời dưới 28°C. Xịt 1 nhát cổ, 1 nhát ngực là vừa. Mùa mưa Sài Gòn hay mùa đông Hà Nội là lúc chai này tỏa đẹp nhất. Đừng dùng đi làm ban ngày trừ khi văn phòng rộng và bạn xịt rất ít. Chai này cực hợp cho những buổi tối muốn gây ấn tượng gần.",
   "verdict": "Ngọt ấm, dễ được khen và rất hợp đi tối. Nếu bạn thích kiểu mùi gần gũi, tạo thiện cảm ngay thì đây là lựa chọn tốt. Không hợp ai ghét ngọt hoặc cần chai đi làm ban ngày.",
   "verdictShort": "NGỌT ẤM, DỄ ĐƯỢC KHEN, HỢP HẸN HÒ",
   "score": {
@@ -27,20 +27,11 @@
     "total": 8.9
   },
   "vibes": [
-    {
-      "label": "Hẹn hò tối",
-      "icon": "❤️"
-    },
-    {
-      "label": "Mùa mát",
-      "icon": "🍂"
-    },
-    {
-      "label": "Dễ được khen",
-      "icon": "💬"
-    }
+    { "label": "Hẹn hò tối", "icon": "❤️" },
+    { "label": "Mùa mát", "icon": "🍂" },
+    { "label": "Dễ được khen", "icon": "💬" }
   ],
-  "longevity": 9,
+  "longevity": 8,
   "sillage": 8,
   "seasons": {
     "spring": 25,
@@ -53,67 +44,30 @@
     "night": 100
   },
   "topNotes": [
-    {
-      "name": "Hồng tiêu"
-    },
-    {
-      "name": "Cây bách xù"
-    },
-    {
-      "name": "Lá tím"
-    }
+    { "name": "Hồng tiêu" },
+    { "name": "Cây bách xù" },
+    { "name": "Lá tím" }
   ],
   "middleNotes": [
-    {
-      "name": "Kẹo Toffee"
-    },
-    {
-      "name": "Quế"
-    },
-    {
-      "name": "Oải hương"
-    },
-    {
-      "name": "Xô thơm"
-    }
+    { "name": "Kẹo Toffee" },
+    { "name": "Quế" },
+    { "name": "Oải hương" },
+    { "name": "Xô thơm" }
   ],
   "baseNotes": [
-    {
-      "name": "Vani"
-    },
-    {
-      "name": "Hổ phách"
-    },
-    {
-      "name": "Đậu tonka"
-    },
-    {
-      "name": "Da lộn"
-    }
+    { "name": "Vani" },
+    { "name": "Hổ phách" },
+    { "name": "Đậu tonka" },
+    { "name": "Da lộn" }
   ],
   "accords": [
-    {
-      "name": "Ngọt",
-      "value": 100,
-      "color": "#FF6D00"
-    },
-    {
-      "name": "Hổ phách",
-      "value": 72,
-      "color": "#FF8F00"
-    },
-    {
-      "name": "Vani",
-      "value": 68,
-      "color": "#f5deb3"
-    },
-    {
-      "name": "Cay nồng",
-      "value": 54,
-      "color": "#BF360C"
-    }
+    { "name": "Vani", "value": 100, "color": "#f5deb3" },
+    { "name": "Ngọt", "value": 92, "color": "#FF6D00" },
+    { "name": "Hổ phách", "value": 72, "color": "#FF8F00" },
+    { "name": "Quế", "value": 60, "color": "#8B4513" },
+    { "name": "Gia vị ấm", "value": 54, "color": "#BF360C" }
   ],
-  "seoTitle": "Armani Stronger With You Intensely giá bao nhiêu? Review 2026",
+  "seoTitle": "Armani Stronger With You Intensely chính hãng giá bao nhiêu? Review 2026",
   "metaDescription": "Đánh giá Armani Stronger With You Intensely chính hãng: mùi ngọt ấm, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026 tại Maison De Son.",
   "tags": [
     "Hẹn hò",

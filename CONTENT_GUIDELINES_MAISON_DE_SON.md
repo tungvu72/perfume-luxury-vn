@@ -1,4 +1,4 @@
-# CONTENT GUIDELINES — MAISON DE SON
+độ # CONTENT GUIDELINES — MAISON DE SON
 ## Tài liệu DUY NHẤT về chuẩn nội dung
 ## Cập nhật: 21/03/2026
 
