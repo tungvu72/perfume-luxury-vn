@@ -2040,40 +2040,43 @@ Dùng hằng ngày — đi làm, đi học, đi cà phê, đi chơi. Xịt 2-3 n
     gender: "nu",
     image: "/images/products/gucci-bloom-edp-main.jpg",
     images: [{ url: "/images/products/gucci-bloom-edp-main.jpg", source: "fragram", caption: "Gucci Bloom Eau de Parfum chính hãng", verified: true }],
-    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-    productCopy: `Gucci Bloom EDP là một chai nước hoa nữ dành cho người thật sự yêu hương hoa trắng. Mùi mở ra gần như ngay lập tức với cảm giác của một bó hoa tươi, nổi bật là huệ trắng và nhài, tạo nên tổng thể rất nữ tính, tự nhiên và đầy sức sống. Đây không phải kiểu hoa trắng được phủ quá nhiều đường hay vanilla, mà là hoa theo hướng chân thật và có độ hiện diện rõ.
+    description: "Chai hoa trắng nữ kinh điển — nhài, huệ dạ và hoa Rangoon. Đậm hoa, nữ tính và rất thẳng thắn. Hợp ai yêu hương hoa trắng.",
+    article: `### Ai không nên mua?
 
-Điểm đẹp của Gucci Bloom là sự thẳng thắn. Nó không cố làm mình thành một mùi gourmand hay một chai floral-fruity dễ chiều số đông. Thay vào đó, chai này trung thành với vẻ đẹp của hoa, mang lại hình ảnh một người phụ nữ thanh lịch, có gu riêng và không cần mùi quá ngọt để trở nên cuốn hút.
+Nếu bạn ghét hoa trắng đậm thì Gucci Bloom sẽ quá nhiều — nhài, huệ dạ rất rõ từ đầu đến cuối. Ai thích mùi ngọt fruity, gourmand cũng sẽ thấy Bloom thiếu đường và thiếu trái cây. Ngoài ra, mùi khá tuyến tính — không chuyển tầng nhiều nên dễ bị nhàm nếu thích mùi phức tạp.
 
-Khi lên da, Bloom giữ được chất hoa khá tròn và nhất quán. Mùi không chuyển quá nhiều lớp, nhưng đó lại là điểm mạnh vì nó làm rất rõ tinh thần “vườn hoa nở trên da”. Phù hợp với người thích sự nữ tính truyền thống, đi làm, gặp gỡ ban ngày, đi ăn trưa hoặc những dịp cần một mùi hương chỉnh tề nhưng không phô trương.
+### Có đáng tiền không?
 
-Về hiệu năng, Gucci Bloom EDP lưu hương khá và tỏa hương ở mức vừa. Trong khí hậu Việt Nam, chai này khá hợp vì không quá ngọt, nhưng nếu thời tiết quá oi thì chỉ nên xịt vừa tay để hoa giữ được độ sáng đẹp.
+Gucci Bloom thuộc phân khúc designer tầm trung — rẻ hơn Chanel. So với J'adore EDP, Bloom hoa hơn, ít trái cây hơn và thẳng thắn hơn. So với Chloé EDP, Bloom đậm hơn vì huệ dạ. Hiệu năng khá: bám 7 giờ, tỏa vừa. Đây là chai hoa trắng nữ tốt nhất tầm giá — nếu hợp gu thì rất đáng.
 
-Nếu bạn muốn một chai nước hoa nữ thiên về hoa thật, thanh lịch và có cảm giác “nữ tính đúng nghĩa”, Gucci Bloom EDP là lựa chọn rất đáng cân nhắc. Nó không phải mùi dành cho ai thích ngọt rõ, nhưng lại cực hợp với người yêu vẻ đẹp của hoa trắng một cách tinh gọn và tinh tế.`,
-    article: "Bloom dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-    verdictShort: "LIVE CATALOG UPDATE",
-    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
-    vibes: [{ label: "nu", icon: "?" }, { label: "D? d�ng", icon: "??" }, { label: "Catalog live", icon: "??" }],
+### Nên dùng khi nào?
+
+Đi làm, đi cà phê, gặp gỡ, dùng hằng ngày. Xịt 2 nhát: cổ, cổ tay. Dùng quanh năm nhưng đẹp nhất xuân hè. Ở Sài Gòn dùng thoải mái — hoa trắng rất dễ chịu khi nóng nếu xịt vừa tay.`,
+    verdict: "Chai hoa trắng nữ đẹp nhất tầm giá — nhài, huệ dạ đậm và thẳng thắn. Hợp ai yêu hoa. Không hợp ai thích mùi ngọt hay phức tạp.",
+    verdictShort: "HOA TRẮNG, ĐẬM, NỮ TÍNH",
+    score: { scent: 8.4, uniqueness: 8, compliments: 8.2, value: 8.4, total: 8.3 },
+    vibes: [{ label: "Hoa trắng", icon: "🌸" }, { label: "Nữ tính", icon: "✨" }, { label: "Thanh lịch", icon: "🤍" }],
     longevity: 7,
-    sillage: 7,
-    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
-    dayNight: { day: 58, night: 82 },
-    topNotes: [{ name: "Top note" }],
-    middleNotes: [{ name: "Middle note" }],
-    baseNotes: [{ name: "Base note" }],
+    sillage: 6,
+    seasons: { spring: 88, summer: 68, fall: 62, winter: 42 },
+    dayNight: { day: 78, night: 45 },
+    topNotes: [{ name: "Hoa nhài" }],
+    middleNotes: [{ name: "Hoa huệ dạ" }],
+    baseNotes: [{ name: "Hoa Rangoon" }],
     accords: [
-      { name: "Ch? d?o", value: 58, color: "#8B4513" },
-      { name: "D? d�ng", value: 32, color: "#1abc9c" },
-      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
-      { name: "?m", value: 20, color: "#e67e22" }
+      { name: "Hoa trắng", value: 100, color: "#ecf0f1" },
+      { name: "Hoa", value: 88, color: "#e91e63" },
+      { name: "Phấn", value: 62, color: "#d7bde2" },
+      { name: "Xanh", value: 48, color: "#27ae60" },
+      { name: "Xạ hương", value: 42, color: "#bdc3c7" }
     ],
-    seoTitle: "Gucci Bloom chính hãng giá bao nhiêu? Review mùi hương 2026",
-    metaDescription: "Đánh giá Gucci Bloom chính hãng: mùi hoa trắng đậm nữ tính, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026 tại Maison De Son.",
-    tags: ["nu","Catalog","Live","2026"],
-    sizes: ["10ml Chi?t","50ml Fullbox","100ml Fullbox"],
-    basePrice: 1990000,
-    shopeeOffers: []
+    seoTitle: "Gucci Bloom EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Gucci Bloom EDP chính hãng: mùi hoa trắng đậm nữ tính, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Hoa trắng","Thanh lịch","Hằng ngày"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2400000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "miss-dior-blooming-bouquet",
@@ -2182,40 +2185,43 @@ Nếu bạn muốn một chai nước hoa nữ hoa hồng thanh lịch, sạch v
     images: [
       { url: "/images/products/narciso-rodriguez-for-her-edp-main.jpg", source: "fragram", caption: "Narciso Rodriguez For Her Eau de Parfum chính hãng", verified: true }
     ],
-    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-    productCopy: `Narciso Rodriguez For Her EDP là một chai nước hoa nữ nổi tiếng vì chất xạ hương rất đẹp và rất riêng. Mùi mở đầu mềm, có chút hoa và cảm giác sạch nhẹ, sau đó musk dần trở thành trung tâm, đi cùng hổ phách và nền ấm mượt. Tổng thể mang lại cảm giác rất nữ tính, rất ôm da và có sức hút theo kiểu không cần nói to.
+    description: "Chai nữ xạ hương đẹp nhất — hoa hồng, đào, xạ hương, hổ phách, hoắc hương và gỗ đàn hương. Mềm sâu, gợi cảm và rất ôm da.",
+    article: `### Ai không nên mua?
 
-Điểm đẹp của chai này là sự tinh tế trưởng thành. Nó không phải kiểu ngọt trẻ trung hay hoa bùng nổ, mà là kiểu mùi hương khiến người ta muốn đến gần hơn để cảm nhận rõ. For Her EDP gợi ra hình ảnh một người phụ nữ điềm tĩnh, biết giữ khoảng cách, có chiều sâu và rất có gu.
+Nếu bạn thích mùi hoa sáng rạng rỡ kiểu J'adore hay Gucci Bloom thì For Her EDP sẽ quá tối và quá musky cho gu đó. Đây là mùi xạ hương là chủ đạo — mềm, sâu và khá kín đáo. Ai thích mùi tỏa xa, nổi bật cũng sẽ thất vọng vì For Her thiên về ôm da hơn là phô trương.
 
-Khi lên da, phần musk càng lúc càng mượt và trở nên gần như làn da đẹp hơn, thơm hơn. Đây là kiểu nước hoa rất hợp với môi trường gần, hẹn hò, đi làm, ăn tối hoặc những lúc bạn muốn mùi hương của mình thật tinh tế chứ không quá phô trương.
+### Có đáng tiền không?
 
-Về hiệu năng, Narciso Rodriguez For Her EDP lưu hương khá tốt và tỏa hương ở mức vừa phải. Nó không quá ồn, nhưng bám trên da rất đẹp. Trong điều kiện Việt Nam, đây là chai dùng ổn quanh năm nếu xịt vừa tay, đặc biệt hợp với môi trường máy lạnh.
+For Her EDP thuộc phân khúc designer tầm trung — rẻ hơn Chanel và Dior. So với Coco Mademoiselle, For Her tối hơn nhiều và musky hơn. So với Armani Sì, For Her ít hoa hơn và gần da hơn. Hiệu năng tốt: bám 8 giờ, tỏa gần. Đây là chai skin scent — musky ấm bám da cả ngày. Rất đáng tiền cho ai thích kiểu mùi này.
 
-Nếu bạn muốn một chai nước hoa nữ sang, musky, trưởng thành và có sức hút kiểu gần da rất rõ, Narciso Rodriguez For Her EDP là lựa chọn rất đáng cân nhắc. Nó không đi theo số đông, nhưng với người thích sự mềm sâu và tinh tế, đây là một mùi hương cực kỳ đáng giá.`,
-    article: "For Her dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-    verdictShort: "LIVE CATALOG UPDATE",
-    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
-    vibes: [{ label: "nu", icon: "?" }, { label: "D? d�ng", icon: "??" }, { label: "Catalog live", icon: "??" }],
-    longevity: 7,
-    sillage: 7,
-    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
-    dayNight: { day: 58, night: 82 },
-    topNotes: [{ name: "Top note" }],
-    middleNotes: [{ name: "Middle note" }],
-    baseNotes: [{ name: "Base note" }],
+### Nên dùng khi nào?
+
+Hẹn hò, đi ăn tối, dùng hằng ngày, môi trường gần. Xịt 2-3 nhát: cổ, cổ tay, sau tai. Dùng quanh năm — đẹp nhất mùa thu đông. Ở Sài Gòn dùng thoải mái vì musky không bao giờ ngọp.`,
+    verdict: "Chai xạ hương nữ đẹp nhất — mềm sâu, ôm da và rất gợi cảm kiểu kín đáo. Hợp ai thích skin scent. Không nổi bật nếu thích mùi tỏa xa.",
+    verdictShort: "XẠ HƯƠNG, ÔM DA, GỢI CẢM",
+    score: { scent: 8.8, uniqueness: 8.5, compliments: 8.2, value: 8.4, total: 8.5 },
+    vibes: [{ label: "Gợi cảm", icon: "🔥" }, { label: "Ôm da", icon: "🤍" }, { label: "Tinh tế", icon: "✨" }],
+    longevity: 8,
+    sillage: 5,
+    seasons: { spring: 68, summer: 52, fall: 82, winter: 85 },
+    dayNight: { day: 58, night: 78 },
+    topNotes: [{ name: "Hoa hồng" }, { name: "Đào" }],
+    middleNotes: [{ name: "Xạ hương" }, { name: "Hổ phách" }],
+    baseNotes: [{ name: "Hoắc hương" }, { name: "Gỗ đàn hương" }],
     accords: [
-      { name: "Ch? d?o", value: 58, color: "#8B4513" },
-      { name: "D? d�ng", value: 32, color: "#1abc9c" },
-      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
-      { name: "?m", value: 20, color: "#e67e22" }
+      { name: "Xạ hương", value: 100, color: "#bdc3c7" },
+      { name: "Hoa", value: 68, color: "#e91e63" },
+      { name: "Gỗ", value: 58, color: "#8B4513" },
+      { name: "Ấm", value: 52, color: "#e67e22" },
+      { name: "Hổ phách", value: 45, color: "#d4a017" }
     ],
-    seoTitle: "Narciso For Her EDP giá bao nhiêu? Review mùi hương 2026",
-    metaDescription: "Đánh giá Narciso Rodriguez For Her EDP chính hãng: mùi xạ hương ấm gợi cảm, độ lưu hương, độ tỏa hương và giá tham khảo 2026.",
-    tags: ["nu","Catalog","Live","2026"],
-    sizes: ["10ml Chi?t","50ml Fullbox","100ml Fullbox"],
-    basePrice: 1990000,
-    shopeeOffers: []
+    seoTitle: "Narciso Rodriguez For Her EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Narciso For Her EDP chính hãng: mùi xạ hương ấm gợi cảm, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Gợi cảm","Xạ hương","Tinh tế"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "ysl-mon-paris-edp",
