@@ -15,94 +15,70 @@
       "verified": true
     }
   ],
-  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-  "productCopy": "Bvlgari Man In Black EDP là kiểu nước hoa nam mang sắc tối và hơi quyền lực ngay từ những phút đầu. Mùi mở ra với cảm giác rum và gia vị khá rõ, sau đó chuyển sang thuốc lá mềm, da thuộc nhẹ và nền hổ phách ấm. Tổng thể rất nam tính, hơi bí ẩn và có chất ăn tối sang trọng rõ rệt.\n\nĐiểm mạnh của chai này là khí chất. Man In Black không đi theo hướng dễ thương hay fresh dễ gần, mà thiên về hình ảnh một người đàn ông trưởng thành, có chiều sâu và biết mình muốn gì. Nó hợp với buổi tối, các dịp mặc đồ chỉnh chu, gặp gỡ riêng tư hoặc những không gian cần mùi hương có trọng lượng.\n\nKhi lên da, phần rum và gia vị làm mùi khá nổi trong giai đoạn đầu, nhưng sau đó chai này trở nên ấm và mềm hơn nhờ lớp thuốc lá và amber. Đây là lúc Man In Black đẹp nhất: sang, trầm, cuốn và có độ ôm rất nam tính. Nó không quá ồn, nhưng chắc chắn có cá tính mạnh.\n\nVề hiệu năng, Bvlgari Man In Black EDP lưu hương tốt và tỏa hương ở mức khá. Trong khí hậu Việt Nam, nó sẽ phát huy đẹp hơn vào buổi tối, mùa mưa hoặc môi trường máy lạnh. Nếu dùng ban ngày nóng, nên xịt tiết chế để mùi không bị dày quá mức.\n\nNếu bạn muốn một chai nước hoa nam ấm tối, có chút boozy và tạo cảm giác trưởng thành rõ rệt, Bvlgari Man In Black là lựa chọn rất đáng cân nhắc. Nó không dành cho người thích mùi an toàn kiểu văn phòng, nhưng lại rất hợp với ai muốn một mùi hương có bản lĩnh và chất riêng.",
-  "article": "Man In Black dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-  "verdictShort": "LIVE CATALOG UPDATE",
+  "description": "Chai nam tối, ấm và khá sang — rum, gia vị, da thuộc, iris và đậu Tonka. Rất trưởng thành và có khí chất. Hợp đi tối, hẹn hò hoặc dịp lịch sự.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi mát, sạch kiểu ban ngày thì Man In Black hoàn toàn ngược — đây là mùi tối, rum, da thuộc và gia vị rất trưởng thành. Người dưới 25 tuổi thường thấy chai này quá \"ông chú\" cho mình. Ngoài ra, dùng ban ngày trời nóng sẽ khá ngọp vì mùi dày.\n\n### Có đáng tiền không?\n\nMan In Black thuộc phân khúc designer tầm trung — rẻ hơn D&G The One EDP và Sauvage Elixir. So với D&G The One EDP, Man In Black tối hơn và có rum rõ hơn. So với Valentino BIRI, Man In Black trưởng thành hơn nhiều và ít trendy hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá mạnh. Với giá tầm trung, đây là chai evening scent rất đáng tiền — chất mùi tốt và hiệu năng mạnh.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, hẹn hò, bar, dự tiệc hoặc dịp cần hình ảnh trưởng thành. Xịt 2 nhát: 1 cổ, 1 cổ tay — vì tỏa mạnh. Đẹp nhất trời mát, mùa đông hoặc buổi tối. Ở Sài Gòn dùng buổi tối ngoài trời hoặc phòng máy lạnh. Đừng dùng đi làm ban ngày — quá tối và quá nặng.",
+  "verdict": "Mùi tối, rum và gia vị rất trưởng thành. Hợp đi tối hoặc hẹn hò. Không hợp ai thích mùi tươi mát hay dùng ban ngày.",
+  "verdictShort": "TỐI, RUM, TRƯỞNG THÀNH",
   "score": {
-    "scent": 8.4,
-    "uniqueness": 7.8,
-    "compliments": 8.6,
-    "value": 8.2,
-    "total": 8.3
+    "scent": 8.6,
+    "uniqueness": 8.2,
+    "compliments": 8.5,
+    "value": 8.8,
+    "total": 8.5
   },
   "vibes": [
-    {
-      "label": "nam",
-      "icon": "?"
-    },
-    {
-      "label": "D? d�ng",
-      "icon": "??"
-    },
-    {
-      "label": "Catalog live",
-      "icon": "??"
-    }
+    { "label": "Buổi tối", "icon": "🌙" },
+    { "label": "Trưởng thành", "icon": "🖤" },
+    { "label": "Sang trọng", "icon": "💎" }
   ],
-  "longevity": 7,
+  "longevity": 8,
   "sillage": 7,
   "seasons": {
-    "spring": 68,
-    "summer": 52,
-    "fall": 82,
-    "winter": 78
+    "spring": 45,
+    "summer": 20,
+    "fall": 88,
+    "winter": 95
   },
   "dayNight": {
-    "day": 58,
-    "night": 82
+    "day": 28,
+    "night": 92
   },
   "topNotes": [
-    {
-      "name": "Top note"
-    }
+    { "name": "Gia vị" },
+    { "name": "Rum" },
+    { "name": "Thuốc lá" }
   ],
   "middleNotes": [
-    {
-      "name": "Middle note"
-    }
+    { "name": "Da thuộc" },
+    { "name": "Iris" },
+    { "name": "Hoa huệ dạ" }
   ],
   "baseNotes": [
-    {
-      "name": "Base note"
-    }
+    { "name": "Đậu Tonka" },
+    { "name": "Gỗ Guaiac" },
+    { "name": "Nhựa benzoin" }
   ],
   "accords": [
-    {
-      "name": "Ch? d?o",
-      "value": 58,
-      "color": "#8B4513"
-    },
-    {
-      "name": "D? d�ng",
-      "value": 32,
-      "color": "#1abc9c"
-    },
-    {
-      "name": "Hi?n d?i",
-      "value": 24,
-      "color": "#9b59b6"
-    },
-    {
-      "name": "?m",
-      "value": 20,
-      "color": "#e67e22"
-    }
+    { "name": "Gia vị ấm", "value": 100, "color": "#b05c00" },
+    { "name": "Da thuộc", "value": 82, "color": "#795548" },
+    { "name": "Hổ phách", "value": 72, "color": "#d4a017" },
+    { "name": "Ngọt", "value": 62, "color": "#8B0000" },
+    { "name": "Gỗ", "value": 55, "color": "#8B4513" }
   ],
-  "seoTitle": "Bvlgari Man In Black chính hãng giá bao nhiêu? Review 2026",
-  "metaDescription": "Đánh giá Bvlgari Man In Black chính hãng: mùi rum gia vị tối quyến rũ, độ lưu hương, độ tỏa hương và giá tham khảo 2026.",
+  "seoTitle": "Bvlgari Man In Black chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Bvlgari Man In Black chính hãng: mùi rum gia vị tối quyến rũ, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
   "tags": [
-    "nam",
-    "Catalog",
-    "Live",
-    "2026"
+    "Nam",
+    "Buổi tối",
+    "Trưởng thành",
+    "Gia vị"
   ],
   "sizes": [
-    "10ml Chi?t",
-    "50ml Fullbox",
+    "10ml Chiết",
+    "60ml Fullbox",
     "100ml Fullbox"
   ],
-  "basePrice": 1990000,
-  "shopeeOffers": []
+  "basePrice": 1800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
