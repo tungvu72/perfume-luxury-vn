@@ -4,51 +4,46 @@
   "brand": "CHANEL",
   "name": "Allure Homme",
   "subName": "Eau de Toilette",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Jacques Polge",
   "gender": "nam",
   "image": "/images/products/chanel-allure-homme-edt-main.jpg",
   "images": [
     {
       "url": "/images/products/chanel-allure-homme-edt-main.jpg",
-      "source": "amazon",
-      "caption": "CHANEL Allure Homme chính hãng",
+      "source": "fragram",
+      "caption": "Chanel Allure Homme Eau de Toilette chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nAllure Homme EDT là kiểu Chanel nam rất cân bằng: sạch, hơi ngọt nhẹ, chút cay, chút gỗ và cực kỳ gọn gàng. Nó không tươi thể thao như Allure Homme Sport, cũng không ấm đậm như vài bản buổi tối, mà đứng ở giữa với chất lịch thiệp và đa dụng rất cao. Đây là kiểu mùi “đàn ông có gu” hơn là “muốn gây chú ý”.\n\nĐiểm mạnh của chai này là sự chỉn chu. Nó không có một note đập mạnh vào mặt, mà thắng ở tổng thể blend rất đẹp. Trong điều kiện Việt Nam, Allure Homme EDT là một lựa chọn tốt cho người muốn một chai nam lịch sự dùng được nhiều hoàn cảnh.\n\n## Diễn biến trên da\nMở đầu sáng và sạch, sau đó phần cay nhẹ, gỗ và độ ngọt vừa phải bắt đầu làm tổng thể trở nên tròn hơn. Mùi phát triển mượt, có độ nam tính ổn định và không bị quá trẻ.\n\nDrydown ấm nhẹ, gọn và rất dễ chịu. Nó không tạo cảm giác statement mạnh, nhưng có độ cao cấp rõ. Nhược điểm là ai thích mùi quá fresh hoặc quá sexy có thể thấy Allure Homme EDT hơi hiền.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nAllure Homme EDT có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương vừa. Nó hợp đi làm, gặp gỡ, đi ăn tối nhẹ, dùng hằng ngày hoặc làm signature cho người thích phong cách chỉnh tề.\n\nỞ Việt Nam, chai này dùng khá khỏe quanh năm. Ưu điểm là đa dụng và lịch thiệp; nhược điểm là không quá nổi trong đám đông.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai Chanel nam cân bằng, lịch sự và dùng rất thực tế, Allure Homme EDT là lựa chọn vững. Nó hợp người thích mùi gọn gàng, trưởng thành và không cần phô trương.\n\nNên mua khi mày cần một chai signature thanh lịch. Nếu mày muốn bản thể thao hơn, Allure Homme Sport sẽ hợp hơn.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nam",
-    "NEEDS_SOURCE"
+  "description": "Chai nam Chanel cân bằng nhất — chanh, gừng, đào, gỗ tuyết tùng, vani và đậu Tonka. Lịch thiệp, đa dụng và rất gentleman.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi thể thao hoặc mùi ngọt ấm trendy thì Allure Homme EDT ở giữa — không đủ fresh như Allure Homme Sport và không đủ ấm như AHSEE. Ai cần mùi gây ấn tượng mạnh, nổi bật trong phòng cũng sẽ thấy chai này quá kín đáo. Vì là EDT nên hiệu năng khá — không beast mode.\n\n### Có đáng tiền không?\n\nAllure Homme EDT thuộc phân khúc Chanel — đắt hơn Boss Bottled EDP nhưng tương đương Bleu de Chanel EDT. So với bản Sport, Allure Homme EDT trưởng thành hơn, ít thể thao hơn. So với Platinum Égoïste, Allure Homme mềm hơn và ngọt hơn. Hiệu năng khá: bám 6-7 giờ, tỏa vừa. Đây là chai gentleman kinh điển — blend rất đẹp của Chanel.\n\n### Nên dùng khi nào?\n\nĐi làm, gặp khách, ăn tối nhẹ, dùng hằng ngày. Xịt 2-3 nhát: cổ, ngực, cổ tay. Dùng quanh năm — đẹp nhất xuân thu. Ở Sài Gòn dùng thoải mái vì cân bằng tốt giữa tươi và ấm.",
+  "verdict": "Mùi Chanel nam cân bằng hoàn hảo — lịch thiệp, đa dụng và rất gentleman. Hợp mọi ngày. Hơi kín đáo nếu thích mùi nổi bật.",
+  "verdictShort": "CÂN BẰNG, LỊCH THIỆP, ĐA DỤNG",
+  "score": { "scent": 8.6, "uniqueness": 7.8, "compliments": 8.4, "value": 8.0, "total": 8.2 },
+  "vibes": [
+    { "label": "Gentleman", "icon": "🎩" },
+    { "label": "Đa dụng", "icon": "🔄" },
+    { "label": "Lịch sự", "icon": "💼" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": { "spring": 78, "summer": 58, "fall": 80, "winter": 68 },
+  "dayNight": { "day": 72, "night": 55 },
+  "topNotes": [{ "name": "Chanh" }, { "name": "Đào" }, { "name": "Gừng" }, { "name": "Cam quýt" }, { "name": "Oải hương" }],
+  "middleNotes": [{ "name": "Tiêu" }, { "name": "Gỗ tuyết tùng" }, { "name": "Hoắc hương" }, { "name": "Hoa nhài" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Đậu Tonka" }, { "name": "Gỗ đàn hương" }, { "name": "Hổ phách" }, { "name": "Xạ hương" }],
+  "accords": [
+    { "name": "Cam chanh", "value": 100, "color": "#f1c40f" },
+    { "name": "Vani", "value": 82, "color": "#F5DEB3" },
+    { "name": "Gỗ", "value": 72, "color": "#8B4513" },
+    { "name": "Gia vị tươi", "value": 62, "color": "#4CAF50" },
+    { "name": "Ngọt", "value": 55, "color": "#e74c3c" }
+  ],
+  "seoTitle": "Chanel Allure Homme EDT chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Chanel Allure Homme EDT chính hãng: mùi nam cân bằng lịch thiệp, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Gentleman", "Đa dụng", "Lịch sự"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
+  "basePrice": 3200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
