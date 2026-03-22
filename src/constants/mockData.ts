@@ -666,60 +666,26 @@ Nếu bạn ghét mùi ngọt đậm thì 9PM sẽ quá nhiều. Đây là kiể
     brand: "JEAN PAUL GAULTIER",
     name: "Le Male Le Parfum",
     subName: "Parfum",
-    perfumer: "Quentin Bisch, Natalie Gracia-Cetto",
+    perfumer: "Quentin Bisch & Natalie Gracia-Cetto",
     gender: "nam",
     image: "/images/products/jpg-le-male-le-parfum-main.jpg",
     images: [
       { url: "/images/products/jpg-le-male-le-parfum-main.jpg", source: "fragram", caption: "Jean Paul Gaultier Le Male Le Parfum chính hãng", verified: true }
     ],
-    description: "Đây là kiểu mùi nam ngọt ấm, có bạch đậu khấu và vanilla rất dễ gây thiện cảm. Hợp đi tối, hẹn hò và trời mát. Nếu bạn ghét mùi ngọt hoặc cần mùi thật thoáng, bản này sẽ hơi dày.",
-    productCopy: `## Mùi hương tổng thể
-Le Male Le Parfum là phiên bản trưởng thành và sang hơn rõ rệt so với DNA Le Male gốc. Nó giữ tinh thần gợi cảm, ngọt ấm và dễ gây chú ý, nhưng đẩy lên một tầng sâu hơn với bạch đậu khấu, oải hương, vanilla và nhóm gỗ hổ phách. Đây là kiểu mùi rất hợp với thị hiếu Việt Nam: dễ ngửi, dễ khen, có độ sexy rõ nhưng không quá trẻ con.
+    description: "Phiên bản sang nhất dòng Le Male — bạch đậu khấu, oải hương, iris, vani và gỗ hổ phách. Ngọt ấm trưởng thành, quyến rũ và rất hợp đi tối.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của chai này là cảm giác dress up rất rõ. Chỉ cần áo sơ mi tối màu, blazer hoặc outfit gọn gàng một chút là Le Male Le Parfum lên đúng vibe. Nó không cố làm mùi niche khó hiểu, mà tập trung vào việc khiến người dùng trở nên hấp dẫn hơn trong bối cảnh buổi tối, hẹn hò, tiệc tùng nhẹ hoặc sự kiện có ăn mặc. Với ai thích nước hoa nam vừa sang vừa có độ ngọt cuốn, đây là con bài rất mạnh.
+Nếu bạn ghét mùi ngọt hoặc thích mùi sạch thoáng kiểu Bleu de Chanel thì Le Male Le Parfum quá ấm và quá ngọt cho gu đó. Ai vùng Sài Gòn dùng ban ngày trời nóng ngoài trời cũng sẽ thấy hơi dày. Ngoài ra, nếu đã có Le Male EDT và muốn thứ khác hoàn toàn thì Le Parfum cùng DNA — chỉ đậm và trưởng thành hơn.
 
-## Diễn biến trên da
-Mở đầu là bạch đậu khấu cay ấm khá bắt mũi, đi cùng chút oải hương đặc trưng của dòng Le Male. Nhưng thay vì hướng aromatic barbershop, bản Le Parfum nhanh chóng chuyển sang nền vanilla, gỗ và amber mềm, tạo cảm giác dày và mượt hơn. Trên da ấm, mùi lên ngọt và quyến rũ hơn khá rõ.
+### Có đáng tiền không?
 
-Giai đoạn drydown là lúc chai này đẹp nhất: ngọt nhưng không kẹo, ấm nhưng không ngột nếu xịt đúng lượng. Nó tạo cảm giác ôm da rất tốt, đặc biệt khi đứng gần. Nhược điểm nhỏ là nếu dùng quá tay trong thời tiết nóng ẩm, vanilla và amber có thể hơi dày, khiến tổng thể nặng hơn mong muốn.
+Le Male Le Parfum thuộc phân khúc designer tầm trung. So với Le Male EDT, Le Parfum sang hơn, đậm hơn và ít barbershop hơn. So với Valentino Uomo BIRI (cùng nhóm ngọt ấm), Le Parfum có bạch đậu khấu rõ hơn và trưởng thành hơn. Hiệu năng tốt: bám 8-9 giờ, tỏa khá mạnh. Đáng tiền cho ai cần chai date night mạnh mẽ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Le Male Le Parfum có hiệu năng tốt trong phân khúc designer: lưu hương thường 7-9 giờ, tỏa hương ở mức khá trong 1-2 giờ đầu. Với thời tiết Việt Nam, nó hợp nhất cho chiều tối, tối, phòng máy lạnh, đi chơi, đi date hoặc các dịp muốn tạo sức hút rõ ràng.
+### Nên dùng khi nào?
 
-Chai này không phải lựa chọn tối ưu cho buổi trưa nóng gắt, di chuyển ngoài trời nhiều hay môi trường quá kín nếu mày xịt nặng tay. Dùng đẹp nhất là 3-5 xịt tùy hoàn cảnh. Ưu điểm lớn là rất dễ được compliment; nhược điểm là độ độc đáo không quá cao với người chơi nước hoa lâu năm.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày cần một chai nam buổi tối dễ khen, ngọt ấm, sang hơn Le Male gốc và đủ nổi bật để dùng hẹn hò, Le Male Le Parfum là lựa chọn rất ổn. Nó hợp người trẻ, người thích style hiện đại, có chút sexy nhưng vẫn gọn gàng.
-
-Nên mua khi mày muốn một chai grab and go cho date night hoặc event tối. Nếu mày ghét mùi ngọt hoặc thích kiểu khô, xanh, văn phòng tuyệt đối thì đây không phải hướng hợp nhất.`,
-    article: `Tại Maison de SON, Le Male Le Parfum là một trong những chai nước hoa nam đi tối dễ được thích nhất của Jean Paul Gaultier. Nó giữ chất quyến rũ quen thuộc của dòng Le Male nhưng gọn và sang hơn nhiều bản ngọt trẻ khác.
-
-### Nguồn gốc và xuất xứ
-Le Male là dòng nước hoa nam nổi tiếng của Jean Paul Gaultier, thương hiệu Pháp có cá tính mạnh ở cả thời trang lẫn nước hoa. Đây là một trong những line trụ cột của hãng.
-
-### Ra mắt khi nào?
-Le Male Le Parfum ra mắt năm 2020 và nhanh chóng trở thành bản được nhiều người đánh giá cao nhất trong dòng hiện đại.
-
-### Câu chuyện ra đời
-Sau nhiều phiên bản nổi bật, hãng tạo ra Le Male Le Parfum để mang đến lựa chọn trưởng thành hơn, dày hơn và hợp đi tối hơn cho người thích phong cách quyến rũ.
-
-### Có những phiên bản nào trong dòng Le Male?
-- Le Male EDT: cổ điển hơn
-- Ultra Male: ngọt trẻ và nổi hơn
-- Le Male Le Parfum: cân bằng giữa sang và dễ dùng đi tối
-
-### Mùi hương mang lại cảm giác gì?
-Bạch đậu khấu mở đầu rất rõ, sau đó lavender, iris và vanilla lên tạo nên cảm giác ngọt ấm, sang và khá ôm người.
-
-### Khi nào nên dùng?
-- Hẹn hò, đi tối, trời mát
-- Hợp người thích mùi ngọt nam nhưng không quá trẻ con
-- Không hợp lắm nếu bạn cần một chai thật thoáng cho ban ngày nóng
-
-### Nhận xét của Maison de SON
-Le Male Le Parfum là lựa chọn sáng giá cho người muốn mùi đi tối vừa cuốn vừa dễ dùng. Điểm yếu là vào ngày quá nóng nó có thể hơi dày.`,
-    verdict: "Phiên bản Parfum đậm đà, tăng cường vani và hổ phách",
-    verdictShort: "VERIFIED",
+Hẹn hò, đi chơi tối, tiệc, sự kiện. Xịt 2-3 nhát: cổ, sau tai, cổ tay. Đẹp nhất mùa thu đông, trời mát dưới 25°C. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.`,
+    verdict: "Le Male bản sang — ngọt ấm trưởng thành, quyến rũ. Hợp hẹn hò, đi tối. Không hợp ai cần mùi sạch ban ngày.",
+    verdictShort: "NGỌT ẤM, SANG, DATE NIGHT",
     score: { scent: 8.9, uniqueness: 8, compliments: 9.1, value: 8.6, total: 8.7 },
     vibes: [{ label: "Hẹn hò", icon: "❤️" }, { label: "Buổi tối", icon: "🌙" }, { label: "Thu đông", icon: "🍂" }],
     longevity: 8,
@@ -727,20 +693,22 @@ Le Male Le Parfum là lựa chọn sáng giá cho người muốn mùi đi tối
     seasons: { spring: 52, summer: 20, fall: 90, winter: 96 },
     dayNight: { day: 32, night: 96 },
     topNotes: [{ name: "Bạch đậu khấu" }],
-    middleNotes: [{ name: "Oải hương" }, { name: "Hoa diên vĩ" }],
-    baseNotes: [{ name: "Vani" }, { name: "Hương phương Đông" }, { name: "Gỗ" }],
+    middleNotes: [{ name: "Oải hương" }, { name: "Iris" }],
+    baseNotes: [{ name: "Vani" }, { name: "Hổ phách" }, { name: "Gỗ" }],
     accords: [
-      { name: "Ngọt", value: 74, color: "#8B0000" },
-      { name: "Gia vị ấm", value: 66, color: "#e67e22" },
-      { name: "Phấn", value: 34, color: "#d7bde2" },
-      { name: "Gỗ", value: 30, color: "#8B4513" }
+      { name: "Ngọt", value: 100, color: "#8B0000" },
+      { name: "Gia vị ấm", value: 82, color: "#e67e22" },
+      { name: "Phấn", value: 55, color: "#d7bde2" },
+      { name: "Gỗ", value: 48, color: "#8B4513" },
+      { name: "Vani", value: 42, color: "#F5DEB3" }
     ],
-    seoTitle: "JPG Le Male Le Parfum giá bao nhiêu? Review 2026",
-    metaDescription: "Đánh giá JPG Le Male Le Parfum chính hãng: mùi vanilla ấm quyến rũ, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-    tags: ["Nam","Hẹn hò","Thu đông","Cao cấp"],
+    seoTitle: "JPG Le Male Le Parfum chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá JPG Le Male Le Parfum chính hãng: mùi ngọt ấm quyến rũ, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Hẹn hò","Thu đông","Quyến rũ"],
     sizes: ["10ml Chiết","75ml Fullbox","125ml Fullbox"],
     basePrice: 2900000,
-    shopeeOffers: []
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "jpg-ultra-male",
@@ -1924,46 +1892,49 @@ The One EDP đẹp vì nó biết tiết chế. Điểm yếu là hiệu năng k
     brand: "GIORGIO ARMANI",
     name: "My Way",
     subName: "Eau de Parfum",
-    perfumer: "Carlos Benaim & Bruno Jovanovic",
+    perfumer: "Carlos Benaïm & Bruno Jovanovic",
     gender: "nu",
     image: "/images/products/giorgio-armani-my-way-main.jpg",
     images: [
       { url: "/images/products/giorgio-armani-my-way-main.jpg", source: "fragram", caption: "Giorgio Armani My Way Eau de Parfum chính hãng", verified: true }
     ],
-    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-    productCopy: `Giorgio Armani My Way EDP là một chai nước hoa nữ hiện đại theo hướng hoa trắng sáng và rất dễ tiếp cận. Mùi mở đầu tươi và mềm, sau đó hoa huệ cùng hoa cam dần hiện rõ, tạo nên tổng thể nữ tính, sạch và có cảm giác rất gọn. Đây là kiểu mùi thơm đẹp, dễ dùng và dễ tạo thiện cảm mà không cần quá nhiều thời gian làm quen.
+    description: "Chai nữ hiện đại sáng nhất — hoa cam, huệ dạ, nhài Ấn Độ, vani Madagascar và gỗ tuyết tùng. Tươi, nữ tính và rất dễ dùng.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của My Way là sự rạng rỡ. Nó mang lại hình ảnh một cô gái hiện đại, vui tươi, cởi mở và thích khám phá nhưng vẫn giữ được sự chỉn chu. Mùi hương này không quá ngọt, không quá dày, cũng không quá nghệ, nhờ vậy nó phù hợp với khá nhiều độ tuổi và tình huống khác nhau.
+Nếu bạn thích mùi ngọt đậm sexy kiểu Black Opium hay La Vie Est Belle thì My Way quá thanh và quá sạch cho gu đó. Ai thích mùi phức tạp, nhiều lớp kiểu niche cũng sẽ thấy My Way hơi đơn giản. Ngoài ra, nếu bạn đã có nhiều chai floral sáng thì My Way có thể trùng vibe.
 
-Khi lên da, My Way EDP trở nên mềm hơn và có chút kem nhẹ ở nền, giúp phần hoa trắng không bị quá sắc. Điều này làm chai nước hoa vừa nữ tính vừa dễ chịu, rất hợp cho đi làm, đi học, đi chơi ban ngày hay các buổi gặp gỡ nhẹ nhàng.
+### Có đáng tiền không?
 
-Về hiệu năng, My Way EDP lưu hương khá và tỏa hương vừa phải, đủ để tạo cảm giác thơm sạch xung quanh mà không lấn át. Trong điều kiện khí hậu Việt Nam, đây là chai khá dễ dùng quanh năm, đặc biệt đẹp vào ban ngày hoặc trong môi trường máy lạnh.
+My Way thuộc phân khúc Armani — giá tương đương Sì EDP. So với Sì, My Way trẻ hơn, sáng hơn và ít ngọt hơn. So với Chloé Nomade, My Way mềm hơn và ít chypre hơn. Hiệu năng khá: bám 7 giờ, tỏa vừa. Đây là chai "mua là dùng được liền" — rất ít rủi ro.
 
-Nếu bạn muốn một chai nước hoa nữ hiện đại, sáng, dễ dùng và có cảm giác sang nhẹ nhàng, Giorgio Armani My Way là lựa chọn rất hợp lý. Nó không quá kịch tính hay quá độc lạ, nhưng chính sự tươi mới và nữ tính cân bằng của nó khiến nhiều người rất dễ gắn bó lâu dài.`,
-    article: "My Way dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-    verdictShort: "LIVE CATALOG UPDATE",
-    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
-    vibes: [{ label: "nu", icon: "?" }, { label: "D? d�ng", icon: "??" }, { label: "Catalog live", icon: "??" }],
+### Nên dùng khi nào?
+
+Dùng hằng ngày — đi làm, đi học, đi cà phê, gặp gỡ. Xịt 2-3 nhát: cổ, cổ tay. Dùng quanh năm nhưng đẹp nhất xuân hè. Ở Sài Gòn dùng rất thoải mái.`,
+    verdict: "Chai nữ hiện đại sáng, tươi và dễ dùng. Hợp mọi ngày. Hơi đơn giản cho ai thích mùi phức tạp hoặc sexy.",
+    verdictShort: "SÁNG, TRẺ, DỄ DÙNG",
+    score: { scent: 8.2, uniqueness: 7.5, compliments: 8.5, value: 8.2, total: 8.1 },
+    vibes: [{ label: "Hằng ngày", icon: "🧴" }, { label: "Trẻ trung", icon: "✨" }, { label: "Hiện đại", icon: "⚡" }],
     longevity: 7,
-    sillage: 7,
-    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
-    dayNight: { day: 58, night: 82 },
-    topNotes: [{ name: "Top note" }],
-    middleNotes: [{ name: "Middle note" }],
-    baseNotes: [{ name: "Base note" }],
+    sillage: 6,
+    seasons: { spring: 85, summer: 72, fall: 62, winter: 45 },
+    dayNight: { day: 85, night: 38 },
+    topNotes: [{ name: "Hoa cam" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Hoa huệ dạ" }, { name: "Nhài Ấn Độ" }],
+    baseNotes: [{ name: "Vani Madagascar" }, { name: "Xạ hương trắng" }, { name: "Gỗ tuyết tùng Virginia" }],
     accords: [
-      { name: "Ch? d?o", value: 58, color: "#8B4513" },
-      { name: "D? d�ng", value: 32, color: "#1abc9c" },
-      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
-      { name: "?m", value: 20, color: "#e67e22" }
+      { name: "Hoa trắng", value: 100, color: "#ecf0f1" },
+      { name: "Huệ dạ", value: 78, color: "#f8bbd0" },
+      { name: "Cam chanh", value: 62, color: "#f1c40f" },
+      { name: "Vani", value: 52, color: "#F5DEB3" },
+      { name: "Xạ hương", value: 42, color: "#bdc3c7" }
     ],
-    seoTitle: "Armani My Way chính hãng giá bao nhiêu? Review 2026",
-    metaDescription: "Đánh giá Armani My Way chính hãng: mùi hoa trắng tươi nữ tính, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-    tags: ["nu","Catalog","Live","2026"],
-    sizes: ["10ml Chi?t","50ml Fullbox","100ml Fullbox"],
-    basePrice: 1990000,
-    shopeeOffers: []
+    seoTitle: "Armani My Way EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Armani My Way EDP chính hãng: mùi hoa trắng tươi nữ tính, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Hằng ngày","Trẻ trung","Hiện đại"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","90ml Fullbox"],
+    basePrice: 2500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "burberry-her-edp",
