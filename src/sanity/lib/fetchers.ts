@@ -3,6 +3,7 @@ import { MASTER_PERFUMES } from '@/constants/mockData'
 import type { Perfume } from '@/types'
 import { cache } from 'react'
 import { filterValidProducts } from '@/lib/productValidation'
+import { findProductByNewSlug, isProductSlug } from '@/lib/productUrl'
 
 // â”€â”€â”€ GROQ query fields â€” aligned with actual Sanity product schema â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 // Schema notes:
@@ -83,6 +84,12 @@ export const getAllProducts = cache(async (): Promise<Perfume[]> => {
 })
 
 export const getProductBySlug = cache(async (slug: string): Promise<Perfume | null> => {
+    // If slug uses new URL format (nuoc-hoa-*), resolve via product list
+    if (isProductSlug(slug)) {
+        const allProducts = await getAllProducts();
+        return findProductByNewSlug(slug, allProducts) || null;
+    }
+
     try {
         const product = await client.fetch(
             `*[_type == "product" && slug.current == $slug][0] { ${PRODUCT_QUERY_FIELDS} }`,
@@ -93,6 +100,15 @@ export const getProductBySlug = cache(async (slug: string): Promise<Perfume | nu
         console.error(`Sanity fetch error (getProductBySlug - ${slug}):`, error);
         return MASTER_PERFUMES.find(p => p.id === slug) || null;
     }
+})
+
+/**
+ * Get only published products (isPublished === true)
+ * Used for sitemap, listings, and public-facing pages
+ */
+export const getPublishedProducts = cache(async (): Promise<Perfume[]> => {
+    const allProducts = await getAllProducts();
+    return allProducts.filter(p => p.isPublished === true);
 })
 
 export const getProductsByGender = cache(async (gender: string): Promise<Perfume[]> => {

@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
-import { getAllProducts, getAllBrands } from '@/sanity/lib/fetchers';
+import { getPublishedProducts, getAllBrands } from '@/sanity/lib/fetchers';
 import { getAllPosts } from '@/sanity/lib/posts';
+import { getProductUrl } from '@/lib/productUrl';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = 'https://www.maisondeson.com';
@@ -20,12 +21,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${baseUrl}/gioi-thieu`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.4 },
   ];
 
-  // Dynamic product pages — /[id]
+  // Dynamic product pages — only published, using new URL format
   let productPages: MetadataRoute.Sitemap = [];
   try {
-    const products = await getAllProducts();
+    const products = await getPublishedProducts();
     productPages = products.map((p) => ({
-      url: `${baseUrl}/${p.id}`,
+      url: `${baseUrl}${getProductUrl(p)}`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.9,

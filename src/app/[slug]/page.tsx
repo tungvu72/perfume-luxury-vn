@@ -10,7 +10,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Suspense } from 'react';
 import { getPostByUrlSlug, getAllPosts } from '@/sanity/lib/posts';
-import { getProductBySlug, getAllProducts, getProductsByBrand } from '@/sanity/lib/fetchers';
+import { getProductBySlug, getAllProducts, getProductsByBrand, getPublishedProducts } from '@/sanity/lib/fetchers';
+import { getProductUrl } from '@/lib/productUrl';
 import { getBrandBySlug, getAllBrands } from '@/sanity/lib/fetchers';
 import type { Perfume } from '@/types';
 import ProductClientV2 from '@/components/pdp/ProductClientV2';
@@ -40,12 +41,12 @@ async function resolveSlug(slug: string) {
 export async function generateStaticParams() {
     const [posts, products, brands] = await Promise.all([
         getAllPosts(),
-        getAllProducts(),
+        getPublishedProducts(),
         getAllBrands(),
     ]);
     return [
         ...posts.map((p: any) => ({ slug: p.urlSlug })),
-        ...products.map((p: Perfume) => ({ slug: p.id })),
+        ...products.map((p: Perfume) => ({ slug: getProductUrl(p).slice(1) })),
         ...brands.map((b: any) => ({ slug: b.slug })),
     ].filter(x => x.slug);
 }
@@ -57,11 +58,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const mm_yyyy = `${(now.getMonth() + 1).toString().padStart(2, '0')}/${now.getFullYear()}`;
 
     if (product) {
+        const productUrl = getProductUrl(product);
         return {
-            title: `${product.name} — Giá tốt ${mm_yyyy} | Maison de SON`,
-            description: `${product.name}: Review chuyên sâu, phân tích mùi hương, giá cập nhật ${mm_yyyy}. Điểm đánh giá: ${product.score.total}/10. Tư vấn chọn nước hoa chính hãng qua Zalo.`,
-            keywords: [product.name, product.brand, `mua ${product.name} chính hãng`, `giá ${product.name}`, `${product.name} ở đâu`],
-            alternates: { canonical: `${CANONICAL_BASE}/${product.id}` },
+            title: product.seoTitle || `${product.brand} ${product.name} chính hãng mua ở đâu? Review 2026`,
+            description: product.metaDescription || `Đánh giá ${product.brand} ${product.name} chính hãng: độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.`,
+            keywords: [product.name, product.brand, `mua ${product.name} chính hãng`, `${product.name} mua ở đâu`, `review ${product.name}`],
+            alternates: { canonical: `${CANONICAL_BASE}${productUrl}` },
             openGraph: {
                 title: `${product.brand} ${product.name} — Maison de SON`,
                 description: product.verdict,
@@ -119,6 +121,7 @@ const CATEGORY_LABELS: Record<string, string> = {
 
 // ─── PRODUCT PAGE (render khi slug là sản phẩm) ──────────────
 async function ProductPage({ product, slug }: { product: Perfume; slug: string }) {
+    const productUrl = getProductUrl(product);
     const jsonLd = {
         '@context': 'https://schema.org/',
         '@type': 'Product',
@@ -136,7 +139,7 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
         },
         offers: {
             '@type': 'Offer',
-            url: `${SITE_URL}/${product.id}`,
+            url: `${SITE_URL}${productUrl}`,
             priceCurrency: 'VND',
             price: product.basePrice,
             priceValidUntil: '2026-12-31',
@@ -153,7 +156,7 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
             { '@type': 'ListItem', position: 1, name: 'Trang chủ', item: SITE_URL },
             { '@type': 'ListItem', position: 2, name: product.gender === 'nam' ? 'Nam giới' : product.gender === 'nu' ? 'Nữ giới' : 'Unisex', item: `${SITE_URL}/${product.gender === 'nam' ? 'nam-gioi' : product.gender === 'nu' ? 'nu-gioi' : 'unisex'}` },
             { '@type': 'ListItem', position: 3, name: product.brand, item: `${SITE_URL}/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, '-')}` },
-            { '@type': 'ListItem', position: 4, name: product.name, item: `${SITE_URL}/${product.id}` },
+            { '@type': 'ListItem', position: 4, name: product.name, item: `${SITE_URL}${productUrl}` },
         ],
     };
 
@@ -244,7 +247,7 @@ async function BrandPage({ brand, slug }: { brand: any; slug: string }) {
                         </div>
                         <div className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-4">
                             {featuredProducts.map((p: Perfume) => (
-                                <Link key={p.id} href={`/${p.id}`} className="group overflow-hidden rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_16px_40px_rgba(27,18,13,0.04)] transition-all hover:-translate-y-1 hover:shadow-[0_20px_50px_rgba(27,18,13,0.08)]">
+                                <Link key={p.id} href={getProductUrl(p)} className="group overflow-hidden rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_16px_40px_rgba(27,18,13,0.04)] transition-all hover:-translate-y-1 hover:shadow-[0_20px_50px_rgba(27,18,13,0.08)]">
                                     <div className="relative mb-4 aspect-square overflow-hidden rounded-2xl bg-[#f7f3ee]">
                                         <Image src={p.image} alt={p.name} fill sizes="(max-width: 1280px) 50vw, 25vw" className="object-contain p-4 group-hover:scale-105 transition-transform duration-500" />
                                     </div>
@@ -273,7 +276,7 @@ async function BrandPage({ brand, slug }: { brand: any; slug: string }) {
 
                     <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
                         {products.map((p: Perfume) => (
-                            <Link key={p.id} href={`/${p.id}`} className="group rounded-[24px] border border-[#eadfce] bg-white p-3 shadow-[0_12px_35px_rgba(27,18,13,0.03)] transition-all hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)] sm:p-4">
+                            <Link key={p.id} href={getProductUrl(p)} className="group rounded-[24px] border border-[#eadfce] bg-white p-3 shadow-[0_12px_35px_rgba(27,18,13,0.03)] transition-all hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)] sm:p-4">
                                 <div className="flex items-start gap-3 sm:block">
                                     <div className="relative h-[92px] w-[92px] flex-shrink-0 overflow-hidden rounded-2xl bg-[#F7F7F7] sm:mb-3 sm:h-auto sm:w-full sm:aspect-square">
                                         <Image src={p.image} alt={p.name} fill sizes="(max-width: 640px) 92px, 200px" className="object-contain p-3 group-hover:scale-105 transition-transform duration-500" />
@@ -683,7 +686,11 @@ export default async function UniversalSlugPage({ params }: { params: Promise<{ 
     const { slug } = await params;
     const { product, post, brand } = await resolveSlug(slug);
 
-    if (product) return <ProductPage product={product} slug={slug} />;
+    if (product) {
+        // Only render published products on the live site
+        if (!product.isPublished) return notFound();
+        return <ProductPage product={product} slug={slug} />;
+    }
     if (brand) return <BrandPage brand={brand} slug={slug} />;
     if (post) return <ArticlePage post={post} slug={slug} />;
 

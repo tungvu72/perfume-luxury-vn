@@ -83,4 +83,7 @@ export interface Perfume {
     sizes: string[];
     basePrice: number;
     shopeeOffers: ShopeeOffer[];
+
+    // Publishing
+    isPublished?: boolean; // Chỉ SP đạt chuẩn mới được hiển thị trên live site
 }

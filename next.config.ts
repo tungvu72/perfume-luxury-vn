@@ -14,43 +14,34 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
-      // SP: /san-pham/[id] → /[id]
-      {
-        source: '/san-pham/:slug',
-        destination: '/:slug',
-        permanent: true,
-      },
-      // Brand: /thuong-hieu/[slug] → /[slug]
-      {
-        source: '/thuong-hieu/:slug',
-        destination: '/:slug',
-        permanent: true,
-      },
+      // ── Indexed URL redirects (from GSC) ──
+      // baccarat-rouge-540 is the only indexed product — redirect to new URL format
+      { source: '/baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540', permanent: true },
+      { source: '/san-pham/baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540', permanent: true },
+
+      // ── Legacy route patterns ──
+      // /san-pham/[id] → product pages now use /nuoc-hoa-* format, catch remaining old links
+      { source: '/product/:slug', destination: '/:slug', permanent: true },
+
       // Bài viết cũ: /kien-thuc/[slug] → /[slug]
-      {
-        source: '/kien-thuc/:slug',
-        destination: '/:slug',
-        permanent: true,
-      },
-      // Tác giả: /tac-gia/[slug] → /[slug]
-      {
-        source: '/tac-gia/:slug',
-        destination: '/:slug',
-        permanent: true,
-      },
-      // Product old route
-      {
-        source: '/product/:slug',
-        destination: '/:slug',
-        permanent: true,
-      },
-      // Product slug renaming
-      { source: '/bleu-de-chanel-edp', destination: '/bleu-chanel-edp', permanent: true },
-      { source: '/san-pham/bleu-de-chanel-edp', destination: '/bleu-chanel-edp', permanent: true },
-      { source: '/armani-stronger-with-you', destination: '/armani-stronger-with-you-intensely', permanent: true },
-      { source: '/san-pham/armani-stronger-with-you', destination: '/armani-stronger-with-you-intensely', permanent: true },
-      { source: '/mfk-baccarat-rouge-540', destination: '/baccarat-rouge-540', permanent: true },
-      { source: '/san-pham/mfk-baccarat-rouge-540', destination: '/baccarat-rouge-540', permanent: true },
+      { source: '/kien-thuc/:slug', destination: '/:slug', permanent: true },
+
+      // ── Old slug renames ──
+      { source: '/bleu-de-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-chanel-edp', permanent: true },
+      { source: '/san-pham/bleu-de-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-chanel-edp', permanent: true },
+      { source: '/bleu-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-chanel-edp', permanent: true },
+      { source: '/armani-stronger-with-you', destination: '/nuoc-hoa-nam-armani-armani-stronger-with-you-intensely', permanent: true },
+      { source: '/san-pham/armani-stronger-with-you', destination: '/nuoc-hoa-nam-armani-armani-stronger-with-you-intensely', permanent: true },
+      { source: '/armani-stronger-with-you-intensely', destination: '/nuoc-hoa-nam-armani-armani-stronger-with-you-intensely', permanent: true },
+      { source: '/mfk-baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540', permanent: true },
+      { source: '/san-pham/mfk-baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540', permanent: true },
+      // Old product URLs for the 5 published products
+      { source: '/sauvage-elixir', destination: '/nuoc-hoa-nam-dior-sauvage-elixir', permanent: true },
+      { source: '/san-pham/sauvage-elixir', destination: '/nuoc-hoa-nam-dior-sauvage-elixir', permanent: true },
+      { source: '/lattafa-khamrah', destination: '/nuoc-hoa-unisex-lattafa-lattafa-khamrah', permanent: true },
+      { source: '/san-pham/lattafa-khamrah', destination: '/nuoc-hoa-unisex-lattafa-lattafa-khamrah', permanent: true },
+      { source: '/versace-eros-edp', destination: '/nuoc-hoa-nam-versace-versace-eros-edp', permanent: true },
+      { source: '/san-pham/versace-eros-edp', destination: '/nuoc-hoa-nam-versace-versace-eros-edp', permanent: true },
     ];
   },
 };
