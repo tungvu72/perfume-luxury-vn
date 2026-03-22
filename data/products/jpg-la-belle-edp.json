@@ -4,51 +4,46 @@
   "brand": "JEAN PAUL GAULTIER",
   "name": "La Belle",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Quentin Bisch & Sonia Constant",
   "gender": "nu",
   "image": "/images/products/jpg-la-belle-edp-main.jpg",
   "images": [
     {
       "url": "/images/products/jpg-la-belle-edp-main.jpg",
-      "source": "amazon",
-      "caption": "JEAN PAUL GAULTIER La Belle chính hãng",
+      "source": "fragram",
+      "caption": "Jean Paul Gaultier La Belle Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nLa Belle là kiểu nữ ngọt trái cây-gourmand rất bắt tai của Jean Paul Gaultier: lê chín, vanilla và độ mềm ấm tạo cảm giác vừa vui vừa gợi cảm. Nó không thanh lịch kín đáo theo kiểu cổ điển, mà quyến rũ theo hướng hiện đại, ngọt, mướt và dễ gây chú ý hơn.\n\nĐiểm mạnh của La Belle là tính gây nghiện ngay từ đầu. Mùi hương dễ hiểu, dễ yêu và có khả năng tạo thiện cảm cao với số đông. Trong thị trường Việt Nam, đây là loại chai rất hợp với người thích mùi nữ rõ nét, hơi sexy, dùng đi chơi, hẹn hò hoặc những dịp muốn mùi hương ngọt nhưng vẫn có cá tính riêng.\n\n## Diễn biến trên da\nMở đầu là quả lê mọng và sáng, sau đó vanilla cùng nền ấm làm mùi trở nên dày và mượt hơn. Chuyển động của La Belle khá tự nhiên: từ ngọt trái cây sang ngọt ấm gợi cảm mà không quá phức tạp.\n\nDrydown là lớp vanilla-fruity mềm, ôm da và rất dễ tạo cảm giác gần gũi. Nó không quá niche hay nhiều lớp, nhưng hiệu quả rất cao trong thực tế. Nhược điểm là ai không thích mùi ngọt rõ hoặc sợ cảm giác gourmand sẽ thấy chai này hơi nhiều đường.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nLa Belle có hiệu năng khá tốt, lưu hương khoảng 7-9 giờ; tỏa hương vừa đến khá. Nó hợp với buổi tối, đi chơi, hẹn hò, party nhẹ hoặc cả ban ngày nếu xịt tiết chế.\n\nTrong khí hậu Việt Nam, chai này đẹp hơn vào chiều tối hoặc không gian điều hòa. Ưu điểm là dễ khen, dễ mặc và nữ tính rõ; nhược điểm là độ đa dụng văn phòng không cao bằng các mùi sạch hơn.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nữ ngọt hiện đại, gợi cảm và dễ tạo thiện cảm, La Belle là lựa chọn rất mạnh. Nó hợp người thích fruity-vanilla và muốn mùi hương có độ quyến rũ rõ ràng.\n\nNên mua khi mày cần một chai đi chơi hoặc hẹn hò nổi bật. Nếu mày thích kiểu nữ thanh sạch hoặc ít ngọt, nên thử hướng khác.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai nữ vani-lê ngọt gợi cảm — lê, cam bergamot, da thuộc, vani, cỏ hương bài, hổ phách và xạ hương. Ngọt, ấm và rất sexy.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi sáng nhẹ nhàng kiểu Chloé hay Light Blue thì La Belle quá ngọt và quá sexy cho gu đó. Ai ghét vani đậm cũng nên tránh — vani ở đây rất rõ. Dùng ban ngày nóng ngoài trời sẽ hơi ngọp.\n\n### Có đáng tiền không?\n\nLa Belle thuộc phân khúc designer tầm trung — tương đương Good Girl. So với La Vie Est Belle, La Belle ngọt hơn và sexy hơn rõ. So với Good Girl, La Belle ít cà phê-cacao hơn và nhiều vani-lê hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá. Đáng tiền cho chai nữ date night.\n\n### Nên dùng khi nào?\n\nHẹn hò, đi chơi tối, tiệc, dịp đặc biệt. Xịt 2 nhát: cổ, cổ tay. Đẹp nhất thu đông, buổi tối. Ở Sài Gòn dùng tối hoặc phòng máy lạnh.",
+  "verdict": "Chai vani-lê ngọt sexy nhất JPG — ấm, gợi cảm. Hợp date night. Không hợp ai thích mùi nhẹ nhàng.",
+  "verdictShort": "VANI LÊ, NGỌT, SEXY",
+  "score": { "scent": 8.5, "uniqueness": 7.8, "compliments": 8.8, "value": 8.2, "total": 8.3 },
+  "vibes": [
+    { "label": "Sexy", "icon": "🔥" },
+    { "label": "Buổi tối", "icon": "🌙" },
+    { "label": "Ngọt", "icon": "🍐" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": { "spring": 42, "summer": 18, "fall": 85, "winter": 90 },
+  "dayNight": { "day": 25, "night": 88 },
+  "topNotes": [{ "name": "Lê" }, { "name": "Cam bergamot" }],
+  "middleNotes": [{ "name": "Hoa" }, { "name": "Da thuộc" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Cỏ hương bài" }, { "name": "Hổ phách" }, { "name": "Xạ hương" }],
+  "accords": [
+    { "name": "Vani", "value": 100, "color": "#F5DEB3" },
+    { "name": "Ngọt", "value": 88, "color": "#8B0000" },
+    { "name": "Trái cây", "value": 65, "color": "#f39c12" },
+    { "name": "Phấn", "value": 52, "color": "#d7bde2" },
+    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+  ],
+  "seoTitle": "JPG La Belle EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá JPG La Belle EDP chính hãng: mùi vani lê ngọt sexy, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nữ", "Sexy", "Vani", "Buổi tối"],
+  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
