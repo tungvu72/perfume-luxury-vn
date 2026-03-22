@@ -15,110 +15,35 @@
       "verified": true
     }
   ],
-  "description": "Chai niche gourmand boozy đẹp nhất — cognac, quế, đậu Tonka, vani, praline và gỗ đàn hương. Ngọt ấm, sang và gây nghiện. Unisex.",
-  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt hoặc thích mùi sạch tươi citrus/aquatic thì Angels' Share sẽ quá dày và quá ngọt. Ai ở Sài Gòn dùng ban ngày nóng ngoài trời cũng sẽ thấy hơi ngột. Ngoài ra, giá niche cao — không hợp blind buy nếu chưa biết gu mình.\n\n### Có đáng tiền không?\n\nAngels' Share thuộc phân khúc niche cao cấp Kilian — đắt hơn nhiều chai designer. So với BR540 cùng nhóm viral niche, Angels' Share boozy hơn, quế hơn và ít caramelized hơn. So với Lattafa Khamrah (clone), bản gốc mượt hơn, tinh tế hơn và lâu hơn rất nhiều. Hiệu năng quái vật: bám 10+ giờ, tỏa mạnh. Đây là chai niche đáng đầu tư nhất nhóm gourmand.\n\n### Nên dùng khi nào?\n\nĐi tối, tiệc, sự kiện, dịp đặc biệt. Xịt 1-2 nhát — tỏa rất mạnh. Đẹp nhất mùa đông hoặc trời mát dưới 22°C. Ở Sài Gòn chỉ dùng buổi tối hoặc phòng máy lạnh rất mạnh.",
-  "verdict": "Chai niche gourmand đẹp nhất — cognac, quế, vani. Bám 10h+. Hợp dịp đặc biệt. Quá dày cho dùng hằng ngày.",
-  "verdictShort": "COGNAC, SANG, GÂY NGHIỆN",
-  "score": {
-    "scent": 9.2,
-    "uniqueness": 8.8,
-    "compliments": 9.1,
-    "value": 7.6,
-    "total": 8.7
-  },
+  "description": "Chai niche cognac-quế-vani ấm nhất — cognac, quế, đậu Tonka, gỗ sồi, hedione, vani, praline, gỗ đàn hương và hạnh nhân kẹo. Boozy sang trọng, ấm như ngồi bên lò sưởi.",
+  "article": "### Ai không nên mua?\n\nNếu bạn không uống rượu và ghét mùi rượu thì Angels' Share sẽ khó chịu — chai này mở ra bằng cognac thật sự, mạnh và rõ, trước khi lắng xuống vani-quế. Ai thích mùi tươi sạch ban ngày cũng đừng nghĩ tới: dùng đi làm giờ hành chính thì đồng nghiệp sẽ nghĩ bạn vừa uống cognac lúc 8 giờ sáng. Thêm nữa, giá Kilian thuộc hàng đắt nhất niche — cân nhắc kỹ nếu budget dưới 5 triệu.\n\n### Có đáng tiền không?\n\nĐắt. Nhưng nếu so với những chai boozy-gourmand niche khác thì Angels' Share nổi bật bởi sự thanh lịch — cognac ở đây không bừa bãi kiểu nhậu, mà kiểu rót một ly Hennessy vào cốc pha lê rồi ngồi bên lò sưởi. So với Initio Side Effect — cùng nhóm boozy — thì Angels' Share sạch hơn, ít thuốc lá hơn và dễ mặc hơn. So với PdM Herod thì Angels' Share ngọt hơn và không smoky. Bám 7-8 giờ, tỏa vừa — loại gần ai mới ngửi, nhưng ai ngửi cũng hỏi.\n\n### Nên dùng khi nào?\n\nĐi bar, đi event, tiệc tất niên, hoặc ở nhà cuối tuần trời lạnh. Xịt 2 nhát cổ và cổ tay là đủ. Trời Hà Nội tháng 12-1, mặc áo len, ngồi quán cà phê ban đêm — Angels' Share lúc đó đẹp không tả nổi. Ở Sài Gòn thì chỉ nên dùng khi máy lạnh mạnh hoặc đêm mát hiếm hoi.",
+  "verdict": "Cognac-vani sang trọng bên lò sưởi. Đắt nhưng thanh lịch. Hợp trời lạnh và dịp đặc biệt.",
+  "verdictShort": "COGNAC VANI, SANG TRỌNG, LÒ SƯỞI",
+  "score": { "scent": 9.5, "uniqueness": 9.2, "compliments": 9.0, "value": 7.0, "total": 8.7 },
   "vibes": [
-    {
-      "label": "Dịp đặc biệt",
-      "icon": "🥂"
-    },
-    {
-      "label": "Thu đông",
-      "icon": "🍂"
-    },
-    {
-      "label": "Sang trọng",
-      "icon": "💎"
-    }
+    { "label": "Sang trọng", "icon": "🥃" },
+    { "label": "Thu đông", "icon": "🍂" },
+    { "label": "Dịp đặc biệt", "icon": "🥂" }
   ],
-  "longevity": 9,
-  "sillage": 8,
-  "seasons": {
-    "spring": 34,
-    "summer": 10,
-    "fall": 94,
-    "winter": 100
-  },
-  "dayNight": {
-    "day": 18,
-    "night": 100
-  },
-  "topNotes": [
-    {
-      "name": "Cognac"
-    }
-  ],
-  "middleNotes": [
-    {
-      "name": "Quế"
-    },
-    {
-      "name": "Đậu Tonka"
-    },
-    {
-      "name": "Gỗ sồi"
-    }
-  ],
-  "baseNotes": [
-    {
-      "name": "Vani"
-    },
-    {
-      "name": "Praline"
-    },
-    {
-      "name": "Gỗ đàn hương"
-    }
-  ],
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": { "spring": 28, "summer": 5, "fall": 82, "winter": 98 },
+  "dayNight": { "day": 15, "night": 92 },
+  "topNotes": [{ "name": "Cognac" }],
+  "middleNotes": [{ "name": "Quế" }, { "name": "Đậu Tonka" }, { "name": "Gỗ sồi" }, { "name": "Hedione" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Praline" }, { "name": "Gỗ đàn hương" }, { "name": "Hạnh nhân kẹo" }],
   "accords": [
-    {
-      "name": "Ngọt",
-      "value": 100,
-      "color": "#8B0000"
-    },
-    {
-      "name": "Gia vị ấm",
-      "value": 82,
-      "color": "#e67e22"
-    },
-    {
-      "name": "Rượu",
-      "value": 62,
-      "color": "#7b4b1f"
-    },
-    {
-      "name": "Gỗ",
-      "value": 52,
-      "color": "#8B4513"
-    },
-    {
-      "name": "Vani",
-      "value": 48,
-      "color": "#F5DEB3"
-    }
+    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
+    { "name": "Gia vị ấm", "value": 82, "color": "#e67e22" },
+    { "name": "Ngọt", "value": 72, "color": "#8B0000" },
+    { "name": "Vani", "value": 65, "color": "#F5DEB3" },
+    { "name": "Hổ phách", "value": 52, "color": "#d4a017" }
   ],
   "seoTitle": "Kilian Angels' Share chính hãng mua ở đâu? Review 2026",
-  "metaDescription": "Đánh giá Kilian Angels' Share chính hãng: mùi cognac quế vani sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": [
-    "Unisex",
-    "Niche",
-    "Dịp đặc biệt",
-    "Thu đông"
-  ],
-  "sizes": [
-    "10ml Chiết",
-    "50ml Fullbox"
-  ],
-  "basePrice": 5600000,
+  "metaDescription": "Đánh giá Kilian Angels' Share chính hãng: mùi cognac vani sang trọng bên lò sưởi, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Unisex", "Niche", "Sang trọng", "Thu đông"],
+  "sizes": ["10ml Chiết", "50ml Fullbox"],
+  "basePrice": 6500000,
   "shopeeOffers": [],
   "isPublished": true
 }
