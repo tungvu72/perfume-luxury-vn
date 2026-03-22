@@ -1,0 +1,49 @@
+{
+  "id": "chance-eau-tendre-edp",
+  "brandSlug": "chanel",
+  "brand": "CHANEL",
+  "name": "Chance Eau Tendre",
+  "subName": "Eau de Parfum",
+  "perfumer": "Olivier Polge",
+  "gender": "nu",
+  "image": "/images/products/chanel-chance-eau-tendre-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/chanel-chance-eau-tendre-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Chanel Chance Eau Tendre Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai Chanel nữ mọi người đều yêu — quả mộc qua, bưởi, hoa hồng, nhài và xạ hương trắng. Nhẹ nhàng, tươi hoa và cực kỳ universally flattering.",
+  "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi CÁ TÍNH, gây ấn tượng mạnh, khiến người ta nhớ bạn chỉ qua mùi hương — thì Chance Eau Tendre quá an toàn. Đây là chai \"ai xịt cũng đẹp\" — nhưng chính vì vậy mà nó không tạo dấu ấn riêng. Ai thích mùi ngọt đậm, mùi oud nặng, hay mùi sexy ban đêm cũng nên nhìn qua — Eau Tendre không có chiều sâu kiểu đó.\n\n### Có đáng tiền không?\n\nGiá Chanel — không rẻ, nhưng Chance Eau Tendre EDP là phiên bản đậm hơn EDT gốc, bám 7-8 giờ thay vì 4-5 giờ. So với Miss Dior Blooming Bouquet — cùng nhóm nữ hoa tươi — thì Eau Tendre ít hoa hồng hơn và nhiều quả mộc qua hơn, tạo ra mùi trái cây mềm thay vì hoa rõ ràng. So với Coco Mademoiselle — cùng hãng — thì Eau Tendre dịu hơn rất nhiều, kiểu \"em gái\" của Mademoiselle.\n\n### Nên dùng khi nào?\n\nMọi lúc: đi làm, đi cafe, gặp bạn, ăn trưa, dạo phố. Xịt 2-3 nhát cổ và cổ tay. Dùng quanh năm — bưởi tươi vào hè, xạ hương giữ mềm vào đông. Cả Sài Gòn và Hà Nội đều dùng thoải mái. Chai an toàn nhất Chanel cho ai tặng bạn gái mà không biết thích mùi gì.",
+  "verdict": "Chanel nữ an toàn nhất — hoa tươi, nhẹ nhàng, ai cũng khen. Quà tặng hoàn hảo. Dễ đụng nhưng không ai ghét.",
+  "verdictShort": "HOA TƯƠI NHẸ, AN TOÀN NHẤT CHANEL",
+  "score": { "scent": 8.0, "uniqueness": 6.5, "compliments": 8.8, "value": 7.8, "total": 7.8 },
+  "vibes": [
+    { "label": "An toàn", "icon": "✅" },
+    { "label": "Dịu dàng", "icon": "🌸" },
+    { "label": "Hằng ngày", "icon": "🧴" }
+  ],
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": { "spring": 88, "summer": 72, "fall": 68, "winter": 52 },
+  "dayNight": { "day": 85, "night": 52 },
+  "topNotes": [{ "name": "Quả mộc qua" }, { "name": "Bưởi" }],
+  "middleNotes": [{ "name": "Hoa hồng" }, { "name": "Hoa nhài" }],
+  "baseNotes": [{ "name": "Xạ hương trắng" }],
+  "accords": [
+    { "name": "Hoa", "value": 100, "color": "#e91e63" },
+    { "name": "Trái cây", "value": 72, "color": "#f39c12" },
+    { "name": "Tươi mát", "value": 62, "color": "#2ecc71" },
+    { "name": "Xạ hương", "value": 55, "color": "#bdc3c7" },
+    { "name": "Cam chanh", "value": 42, "color": "#f1c40f" }
+  ],
+  "seoTitle": "Chanel Chance Eau Tendre EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Chanel Chance Eau Tendre EDP chính hãng: mùi hoa tươi an toàn nhất Chanel, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026.",
+  "tags": ["Nữ", "An toàn", "Hoa tươi", "Hằng ngày"],
+  "sizes": ["10ml Chiết", "35ml Fullbox", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
+  "basePrice": 2800000,
+  "shopeeOffers": [],
+  "isPublished": true
+}
