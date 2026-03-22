@@ -1,0 +1,49 @@
+{
+  "id": "bleu-noir-parfum",
+  "brandSlug": "narciso-rodriguez",
+  "brand": "NARCISO RODRIGUEZ",
+  "name": "For Him Bleu Noir",
+  "subName": "Parfum",
+  "perfumer": "Sonia Constant",
+  "gender": "nam",
+  "image": "/images/products/narciso-rodriguez-bleu-noir-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/narciso-rodriguez-bleu-noir-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "Narciso Rodriguez For Him Bleu Noir Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam iris-da lộn-xạ hương kiểu trí thức — bạch đậu khấu, bách, cam bergamot, cam quýt, iris, xạ hương, da lộn, đậu Tonka, gỗ đàn hương, cỏ hương bài, da thuộc và gỗ tuyết tùng Atlas. Trầm, mượt và rất phức tạp.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi mạnh mẽ, cay nồng, tỏa xa kiểu Sauvage hay Eros — thì Bleu Noir Parfum sẽ khiến bạn hỏi \"tao xịt chưa nhỉ?\". Đây là chai skin scent: iris-xạ hương-da lộn nằm sát da, ai ôm mới ngửi, đứng xa 1 mét gần như không nghe. Cũng không phải mùi \"gây ấn tượng lần đầu\" — người mới chơi nước hoa sẽ thấy nó nhạt và buồn chán.\n\n### Có đáng tiền không?\n\nGiá Narciso Rodriguez tầm trung — nhưng bản Parfum (nồng độ cao nhất) bám 10+ giờ dù tỏa nhẹ — mùi nấp trong cổ áo, sáng xịt chiều vẫn còn khi cởi áo. So với Dior Homme Intense — cùng nhóm iris nam — thì Bleu Noir có da lộn và cỏ hương bài mà DHI thiếu, tạo chiều sâu đất hơn. So với Prada L'Homme — cùng nhóm iris sạch — thì Bleu Noir tối hơn và trưởng thành hơn.\n\n### Nên dùng khi nào?\n\nĐi làm ở văn phòng kín, gặp khách hàng nhỏ lẻ, ăn tối riêng tư, hoặc khi muốn mùi hương cho MÌNH chứ không cho ai khác. Xịt 3-4 nhát: cổ, ngực, cổ tay — vì skin scent. Dùng quanh năm nhưng đẹp nhất thu đông. Cả Hà Nội và Sài Gòn đều dùng thoải mái vì không bao giờ gây ngộp.",
+  "verdict": "Iris-da lộn-xạ hương trí thức — skin scent 10h, bám cổ áo cả ngày. Cho mình hơn cho người.",
+  "verdictShort": "IRIS DA LỘN, SKIN SCENT, TRÍ THỨC",
+  "score": { "scent": 9.0, "uniqueness": 8.8, "compliments": 7.2, "value": 8.0, "total": 8.3 },
+  "vibes": [
+    { "label": "Trí thức", "icon": "📚" },
+    { "label": "Skin scent", "icon": "🤍" },
+    { "label": "Trưởng thành", "icon": "🎩" }
+  ],
+  "longevity": 10,
+  "sillage": 4,
+  "seasons": { "spring": 72, "summer": 52, "fall": 82, "winter": 75 },
+  "dayNight": { "day": 72, "night": 68 },
+  "topNotes": [{ "name": "Bạch đậu khấu" }, { "name": "Bách" }, { "name": "Cam bergamot" }, { "name": "Cam quýt" }],
+  "middleNotes": [{ "name": "Iris" }, { "name": "Xạ hương" }, { "name": "Da lộn" }],
+  "baseNotes": [{ "name": "Đậu Tonka" }, { "name": "Gỗ đàn hương" }, { "name": "Cỏ hương bài" }, { "name": "Da thuộc" }, { "name": "Gỗ tuyết tùng Atlas" }],
+  "accords": [
+    { "name": "Xạ hương", "value": 100, "color": "#bdc3c7" },
+    { "name": "Gỗ", "value": 78, "color": "#8B4513" },
+    { "name": "Hoa", "value": 62, "color": "#e91e63" },
+    { "name": "Da lộn", "value": 55, "color": "#795548" },
+    { "name": "Cam chanh", "value": 42, "color": "#f1c40f" }
+  ],
+  "seoTitle": "Narciso Rodriguez Bleu Noir Parfum chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Narciso Rodriguez Bleu Noir Parfum chính hãng: mùi iris da lộn skin scent, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026.",
+  "tags": ["Nam", "Trí thức", "Skin scent", "Office"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
+}
