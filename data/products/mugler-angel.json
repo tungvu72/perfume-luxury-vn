@@ -4,51 +4,46 @@
   "brand": "MUGLER",
   "name": "Angel",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Olivier Cresp & Yves de Chirin",
   "gender": "nu",
   "image": "/images/products/mugler-angel-main.jpg",
   "images": [
     {
       "url": "/images/products/mugler-angel-main.jpg",
-      "source": "amazon",
-      "caption": "MUGLER Angel chính hãng",
+      "source": "fragram",
+      "caption": "Mugler Angel Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "(Chờ Coder viết bài)",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai khai sinh dòng gourmand — kẹo bông, socola, hoắc hương, vani và caramel. Ngọt đậm, gây nghiện và cực kỳ khác biệt. Love or hate.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt thì Angel sẽ là cơn ác mộng — đây là chai ngọt nhất lịch sử nước hoa: kẹo bông, socola, caramel và hoắc hương. Người thích mùi nhẹ nhàng, tươi mát hay floral thanh cũng nên tránh xa. Angel là mùi love-or-hate hoàn toàn — không có vùng an toàn. Bắt buộc phải test trước khi mua.\n\n### Có đáng tiền không?\n\nAngel thuộc phân khúc Mugler — rẻ hơn Chanel và Dior. So với La Vie Est Belle, Angel ngọt hơn GẤP ĐÔI và có socola-hoắc hương rất mạnh. So với Black Opium, Angel cổ điển hơn và gourmand hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa rất mạnh. Chai này xịt 1 nhát bám cả ngày — nếu hợp gu thì cực kỳ đáng tiền.\n\n### Nên dùng khi nào?\n\nMùa đông, trời lạnh, đi tối, tiệc, sự kiện. Xịt 1 nhát DUY NHẤT — tỏa quá mạnh. Đẹp nhất khi dưới 20°C. Ở Việt Nam chỉ nên dùng mùa lạnh Hà Nội hoặc phòng máy lạnh rất mạnh. Đừng bao giờ xịt 3 nhát đi ăn trưa.",
+  "verdict": "Chai gourmand huyền thoại — socola, hoắc hương, kẹo ngọt. Bám 10 giờ+. Love or hate. Phải test trước.",
+  "verdictShort": "GOURMAND KINH ĐIỂN, LOVE OR HATE",
+  "score": { "scent": 9.0, "uniqueness": 9.5, "compliments": 7.5, "value": 8.5, "total": 8.6 },
+  "vibes": [
+    { "label": "Gourmand", "icon": "🍫" },
+    { "label": "Cá tính", "icon": "🔥" },
+    { "label": "Kinh điển", "icon": "👑" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 10,
+  "sillage": 9,
+  "seasons": { "spring": 28, "summer": 10, "fall": 72, "winter": 98 },
+  "dayNight": { "day": 18, "night": 92 },
+  "topNotes": [{ "name": "Kẹo bông" }, { "name": "Dừa" }, { "name": "Cam bergamot" }, { "name": "Dứa" }],
+  "middleNotes": [{ "name": "Mật ong" }, { "name": "Quả mọng" }, { "name": "Mơ" }, { "name": "Nhục đậu khấu" }],
+  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Socola" }, { "name": "Caramel" }, { "name": "Vani" }, { "name": "Đậu Tonka" }],
+  "accords": [
+    { "name": "Ngọt", "value": 100, "color": "#8B0000" },
+    { "name": "Hoắc hương", "value": 85, "color": "#4e342e" },
+    { "name": "Gourmand", "value": 78, "color": "#6d4c41" },
+    { "name": "Vani", "value": 72, "color": "#F5DEB3" },
+    { "name": "Hoa", "value": 42, "color": "#e91e63" }
+  ],
+  "seoTitle": "Mugler Angel EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Mugler Angel EDP chính hãng: chai gourmand huyền thoại socola-hoắc hương, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nữ", "Gourmand", "Kinh điển", "Cá tính"],
+  "sizes": ["10ml Chiết", "25ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

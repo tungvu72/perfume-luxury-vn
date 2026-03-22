@@ -2,7 +2,7 @@
   "id": "issey-miyake-leau-dissey-pour-homme",
   "brandSlug": "issey-miyake",
   "brand": "ISSEY MIYAKE",
-  "name": "L�Eau d�Issey Pour Homme",
+  "name": "L'Eau d'Issey Pour Homme",
   "subName": "Eau de Toilette",
   "perfumer": "Jacques Cavallier",
   "gender": "nam",
@@ -15,94 +15,35 @@
       "verified": true
     }
   ],
-  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-  "productCopy": "Issey Miyake L'Eau d'Issey Pour Homme EDT là một trong những chai nước hoa nam tươi mát kinh điển. Mùi mở đầu rất sáng với citrus và cảm giác watery sạch sẽ, sau đó dần chuyển sang lớp hương cay nhẹ và gỗ thoáng. Tổng thể tạo cảm giác mát, thanh và có phần tối giản, đúng tinh thần gọn gàng mà nhiều người yêu ở các thiết kế Nhật Bản.\n\nĐiểm hay của chai này là sự trong trẻo. Nó không ngọt, không dày, không cố quyến rũ bằng kiểu nồng ấm. Thay vào đó, L'Eau d'Issey Pour Homme mang đến cảm giác người mặc rất sạch, rất dễ chịu và gần như luôn phù hợp trong môi trường hằng ngày. Đây là kiểu mùi cực ổn cho thời tiết nóng hoặc những ai ngại mùi quá nặng.\n\nKhi lên da, chai này giữ được sự sáng và mát khá lâu trước khi nền gỗ hiện ra. Điều đó làm tổng thể không bị quá mỏng mà vẫn giữ được tính nam cần thiết. Nó gợi ra hình ảnh một người đàn ông điềm tĩnh, tinh gọn và ưu tiên sự thoải mái hơn là phô diễn cá tính.\n\nVề hiệu năng, L'Eau d'Issey Pour Homme EDT ở mức khá với độ tỏa vừa phải. Đây không phải kiểu mùi bám cả ngày quá mạnh, nhưng lại rất đẹp cho ban ngày, văn phòng, đi học, đi dạo hoặc bất kỳ hoàn cảnh nào cần sự dễ chịu. Trong khí hậu Việt Nam, chai này là một lựa chọn rất hợp mùa nóng.\n\nNếu bạn cần một chai nước hoa nam tươi sạch, thanh lịch và không bao giờ quá đà, L'Eau d'Issey Pour Homme là cái tên rất đáng thử. Nó không phải kiểu trendy ồn ào, nhưng sự gọn gàng và cân bằng của nó vẫn khiến nhiều người trung thành suốt nhiều năm.",
-  "article": "L�Eau d�Issey Pour Homme dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-  "verdictShort": "LIVE CATALOG UPDATE",
-  "score": {
-    "scent": 8.4,
-    "uniqueness": 7.8,
-    "compliments": 8.6,
-    "value": 8.2,
-    "total": 8.3
-  },
+  "description": "Chai nam biển citrus kinh điển từ 1994 — yuzu, chanh, cam bergamot, hoa sen xanh, gỗ tuyết tùng và cỏ hương bài. Sạch, mát và tối giản kiểu Nhật.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt ấm hiện đại kiểu Valentino BIRI hay mùi đậm beast mode kiểu Sauvage Elixir thì L'Eau d'Issey quá nhẹ và quá thanh. Đây là chai aquatic-citrus rất tối giản — ai cần mùi nổi bật hoặc phô trương sẽ thấy thiếu. Vì là EDT cổ điển nên hiệu năng khá vừa phải.\n\n### Có đáng tiền không?\n\nL'Eau d'Issey thuộc phân khúc entry-level — rẻ nhất nhóm cùng Cool Water. So với Cool Water, L'Eau d'Issey thanh hơn, ít green hơn và tối giản hơn. So với ADG EDT, L'Eau d'Issey ít aquatic hơn và có yuzu Nhật rất đặc trưng. Hiệu năng vừa: bám 5-6 giờ, tỏa nhẹ. Giá rẻ nên rất đáng cho ai thích aquatic sạch.\n\n### Nên dùng khi nào?\n\nĐi làm ban ngày, đi học, đi dạo, trời nóng 30-38°C. Xịt 3-4 nhát vì tỏa nhẹ. Đẹp nhất mùa hè — chai mùa hè lý tưởng. Ở Sài Gòn dùng quanh năm rất thoải mái. Perfect cho văn phòng.",
+  "verdict": "Chai aquatic kinh điển — sạch, mát, tối giản kiểu Nhật. Hợp mùa hè, đi làm. Quá nhẹ cho ai thích mùi nổi bật.",
+  "verdictShort": "SẠCH, MÁT, TỐI GIẢN",
+  "score": { "scent": 8.2, "uniqueness": 8.0, "compliments": 7.8, "value": 8.8, "total": 8.2 },
   "vibes": [
-    {
-      "label": "nam",
-      "icon": "?"
-    },
-    {
-      "label": "D? d�ng",
-      "icon": "??"
-    },
-    {
-      "label": "Catalog live",
-      "icon": "??"
-    }
+    { "label": "Mùa hè", "icon": "☀️" },
+    { "label": "Tối giản", "icon": "🎌" },
+    { "label": "Sạch sẽ", "icon": "🧼" }
   ],
-  "longevity": 7,
-  "sillage": 7,
-  "seasons": {
-    "spring": 68,
-    "summer": 52,
-    "fall": 82,
-    "winter": 78
-  },
-  "dayNight": {
-    "day": 58,
-    "night": 82
-  },
-  "topNotes": [
-    {
-      "name": "Top note"
-    }
-  ],
-  "middleNotes": [
-    {
-      "name": "Middle note"
-    }
-  ],
-  "baseNotes": [
-    {
-      "name": "Base note"
-    }
-  ],
+  "longevity": 6,
+  "sillage": 5,
+  "seasons": { "spring": 82, "summer": 92, "fall": 45, "winter": 25 },
+  "dayNight": { "day": 92, "night": 25 },
+  "topNotes": [{ "name": "Yuzu" }, { "name": "Chanh" }, { "name": "Cam bergamot" }, { "name": "Cỏ roi ngựa" }, { "name": "Cam quýt" }],
+  "middleNotes": [{ "name": "Hoa sen xanh" }, { "name": "Nhục đậu khấu" }, { "name": "Hoa linh lan" }, { "name": "Nghệ tây" }, { "name": "Quế" }],
+  "baseNotes": [{ "name": "Cỏ hương bài" }, { "name": "Xạ hương" }, { "name": "Gỗ tuyết tùng" }, { "name": "Gỗ đàn hương" }, { "name": "Hổ phách" }, { "name": "Thuốc lá" }],
   "accords": [
-    {
-      "name": "Ch? d?o",
-      "value": 58,
-      "color": "#8B4513"
-    },
-    {
-      "name": "D? d�ng",
-      "value": 32,
-      "color": "#1abc9c"
-    },
-    {
-      "name": "Hi?n d?i",
-      "value": 24,
-      "color": "#9b59b6"
-    },
-    {
-      "name": "?m",
-      "value": 20,
-      "color": "#e67e22"
-    }
+    { "name": "Cam chanh", "value": 100, "color": "#f1c40f" },
+    { "name": "Biển", "value": 82, "color": "#3498db" },
+    { "name": "Gỗ", "value": 68, "color": "#8B4513" },
+    { "name": "Thơm thảo mộc", "value": 55, "color": "#2c7a4b" },
+    { "name": "Gia vị tươi", "value": 48, "color": "#4CAF50" }
   ],
-  "seoTitle": "L'Eau d'Issey Pour Homme giá bao nhiêu? Review 2026",
-  "metaDescription": "Đánh giá L'Eau d'Issey Pour Homme chính hãng: mùi citrus biển sạch nhẹ, độ lưu hương, độ tỏa hương và giá tham khảo 2026 tại Maison De Son.",
-  "tags": [
-    "nam",
-    "Catalog",
-    "Live",
-    "2026"
-  ],
-  "sizes": [
-    "10ml Chi?t",
-    "50ml Fullbox",
-    "100ml Fullbox"
-  ],
-  "basePrice": 1990000,
-  "shopeeOffers": []
+  "seoTitle": "Issey Miyake L'Eau d'Issey Pour Homme chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá L'Eau d'Issey Pour Homme chính hãng: mùi citrus biển tối giản, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Mùa hè", "Tối giản", "Sạch sẽ"],
+  "sizes": ["10ml Chiết", "40ml Fullbox", "75ml Fullbox", "125ml Fullbox", "200ml Fullbox"],
+  "basePrice": 1500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
