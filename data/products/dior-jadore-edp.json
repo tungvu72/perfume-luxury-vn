@@ -4,51 +4,46 @@
   "brand": "DIOR",
   "name": "J'adore",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Calice Becker",
   "gender": "nu",
   "image": "/images/products/dior-jadore-edp-main.jpg",
   "images": [
     {
       "url": "/images/products/dior-jadore-edp-main.jpg",
-      "source": "amazon",
-      "caption": "DIOR J'adore chính hãng",
+      "source": "fragram",
+      "caption": "Dior J'adore Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nJ’adore EDP là kiểu floral nữ sang theo trường phái kinh điển hiện đại: rạng rỡ, nữ tính, chỉn chu và rất “Dior”. Nó không ngọt đậm kiểu gourmand, cũng không tối kiểu oriental, mà đi theo hướng hoa sáng, tròn và dễ tạo thiện cảm trong nhiều hoàn cảnh. Đây là một trong những mùi nữ cao cấp rất an toàn theo nghĩa tích cực.\n\nĐiểm mạnh của J’adore là độ cân bằng. Nó đủ đẹp để dùng trong dịp quan trọng, nhưng cũng đủ dễ mặc để không bị xa cách. Trong bối cảnh Việt Nam, đây là kiểu chai đi làm, đi gặp gỡ, đi tiệc nhẹ hoặc dùng làm signature rất ổn nếu thích floral sang.\n\n## Diễn biến trên da\nMở đầu là cảm giác hoa sáng và sạch, sau đó các lớp hoa dần hòa vào nhau thành một tổng thể mượt, nữ tính và có độ bóng đẹp. Mùi không chuyển tầng quá gắt, mà ổn định và sang suốt quá trình dùng.\n\nDrydown mềm, floral ấm nhẹ và rất dễ chịu trên da. Nó không gây sốc hay quá cá tính, nhưng có độ hoàn thiện khiến người khác dễ thấy thơm và sang. Nhược điểm là người thích mùi độc, tối hoặc quá hiện đại có thể thấy J’adore hơi “safe”.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nJ’adore EDP có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, gặp gỡ, tiệc nhẹ, ban ngày lẫn tối sớm và nhiều hoàn cảnh cần mùi hương thanh lịch.\n\nỞ Việt Nam, chai này dùng khá khỏe nhờ floral sáng. Ưu điểm là sang, dễ dùng và nịnh nhiều độ tuổi; nhược điểm là độ cá tính không quá cao.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai floral sang, dễ mặc và rất ít rủi ro, J’adore EDP là lựa chọn cực ổn. Nó hợp người thích phong cách nữ tính, chỉn chu và muốn một mùi hương cao cấp nhưng không phức tạp.\n\nNên mua khi mày cần một chai signature floral an toàn. Nếu mày thích mùi tối, ngọt hoặc có tuyên ngôn mạnh, có thể tìm hướng khác.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai nữ Dior bán chạy nhất — lê, mộc lan, nhài, hoa huệ dạ, hoa hồng và xạ hương. Sang, rạng rỡ và rất nữ tính. Hợp mọi dịp.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tối, ngọt đậm kiểu Black Opium hay Dior Addict thì J'adore quá sáng và quá thanh cho gu đó. Ai thích mùi cá tính mạnh, khác biệt kiểu niche cũng sẽ thấy J'adore hơi \"an toàn\" và đại trà. Ngoài ra, người dưới 22 tuổi thích mùi vui vẻ trẻ trung kiểu Burberry Her có thể thấy J'adore hơi mature.\n\n### Có đáng tiền không?\n\nJ'adore thuộc phân khúc Dior — đắt hơn Armani Sì nhưng tương đương Coco Mademoiselle. So với Coco Mademoiselle, J'adore floral hơn và ít citrus-patchouli hơn. So với Chloé EDP, J'adore sang trọng hơn và có chiều sâu hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa vừa-khá. Đây là chai floral nữ kinh điển — gần như không bao giờ lỗi thời.\n\n### Nên dùng khi nào?\n\nDùng quanh năm — đi làm, gặp gỡ, tiệc, hẹn hò nhẹ. Xịt 2-3 nhát: cổ, cổ tay, sau tai. Đẹp nhất mùa xuân thu. Ở Sài Gòn dùng thoải mái vì floral sáng rất dễ chịu khi nóng.",
+  "verdict": "Chai floral nữ kinh điển — sang, rạng rỡ và rất nữ tính. Hợp mọi dịp. Hơi an toàn nếu thích mùi cá tính mạnh.",
+  "verdictShort": "SANG, HOA, RẠNG RỠ",
+  "score": { "scent": 8.8, "uniqueness": 7.8, "compliments": 9.0, "value": 8.2, "total": 8.5 },
+  "vibes": [
+    { "label": "Sang trọng", "icon": "💎" },
+    { "label": "Nữ tính", "icon": "🌸" },
+    { "label": "Đa dụng", "icon": "✅" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": { "spring": 85, "summer": 65, "fall": 78, "winter": 62 },
+  "dayNight": { "day": 72, "night": 62 },
+  "topNotes": [{ "name": "Lê" }, { "name": "Dưa" }, { "name": "Mộc lan" }, { "name": "Đào" }, { "name": "Cam bergamot" }],
+  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Hoa linh lan" }, { "name": "Hoa huệ dạ" }, { "name": "Hoa hồng" }, { "name": "Hoa violet" }],
+  "baseNotes": [{ "name": "Xạ hương" }, { "name": "Vani" }, { "name": "Gỗ tuyết tùng" }, { "name": "Mâm xôi đen" }],
+  "accords": [
+    { "name": "Hoa trắng", "value": 100, "color": "#ecf0f1" },
+    { "name": "Hoa", "value": 88, "color": "#e91e63" },
+    { "name": "Trái cây", "value": 72, "color": "#f39c12" },
+    { "name": "Ngọt", "value": 58, "color": "#e74c3c" },
+    { "name": "Tươi", "value": 48, "color": "#2ecc71" }
+  ],
+  "seoTitle": "Dior J'adore EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Dior J'adore EDP chính hãng: mùi hoa sang rạng rỡ, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nữ", "Sang trọng", "Hoa", "Đa dụng"],
+  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
+  "basePrice": 3500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
