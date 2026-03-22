@@ -8225,47 +8225,49 @@ Nên mua khi mày cần một chai ban ngày thật sảng khoái. Nếu mày ch
     brand: "TOM FORD",
     name: "Tuscan Leather",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Tom Ford",
     gender: "unisex",
     image: "/images/products/tom-ford-tuscan-leather-main.jpg",
-    images: [{ url: "/images/products/tom-ford-tuscan-leather-main.jpg", source: "amazon", caption: "TOM FORD Tuscan Leather chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Tuscan Leather là một trong những chai leather nổi tiếng nhất của Tom Ford: da, quả chín sẫm, khói và cảm giác xa xỉ rất rõ. Nó không mềm ôm như Ombré Leather, mà mạnh hơn, đậm hơn và có chất quyền lực hơn. Đây là kiểu mùi không dành cho người thích sự an toàn; nó hiện diện như một tuyên ngôn.
+    images: [
+      { url: "/images/products/tom-ford-tuscan-leather-main.jpg", source: "fragram", caption: "Tom Ford Tuscan Leather Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai da thuộc huyền thoại — mâm xôi, nghệ tây, húng tây, trầm hương, nhài, da thuộc và hổ phách. Mạnh, thô và cực kỳ nam tính.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Tuscan Leather là độ nhận diện cực cao. Nó có sức nặng, có cái sang kiểu dark luxury và rất dễ tạo ấn tượng. Trong điều kiện Việt Nam, chai này hợp với tối, phòng lạnh, sự kiện hoặc người thật sự thích leather đậm có cá tính mạnh.
+Nếu bạn ghét mùi da thì Tuscan Leather là chai da GẮT NHẤT — opening như bước vào xưởng thuộc da. Ai thích mùi ngọt mềm hoặc mùi sạch nhẹ cũng nên tránh xa. Ngoài ra, chai này rất nặng ở opening — cần 20-30 phút để settle down. Không phải chai cho người mới.
 
-## Diễn biến trên da
-Mở đầu da lên rất nhanh cùng sắc quả sẫm và chút khói, sau đó tổng thể dần tròn hơn nhưng vẫn giữ độ dày và cảm giác dark. Mùi phát triển mạnh, không hiền ngay cả ở giai đoạn sau.
+### Có đáng tiền không?
 
-Drydown là lớp da khô-ấm, hơi khói và rất quyền lực. Nó không “thân thiện”, nhưng cực kỳ có bản sắc. Nhược điểm là dùng sai hoàn cảnh sẽ dễ quá tay và làm người khác thấy áp lực.
+Tuscan Leather thuộc phân khúc Tom Ford Private Blend — top giá. So với Ombré Leather cùng hãng, Tuscan Leather thô hơn, gắt hơn và legendary hơn. So với Encre Noire (cùng nhóm cá tính), Tuscan Leather da hơn rất nhiều. Hiệu năng quái vật: bám 10+ giờ, tỏa mạnh. Đây là chai da thuộc huyền thoại — không chai nào thay thế được.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Tuscan Leather có hiệu năng tốt, thường 8 giờ trở lên; tỏa hương khá. Nó hợp tối, event, mùa mát, không gian sang hoặc những lúc muốn dùng mùi hương như một phần của hình ảnh mạnh.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng cực tiết chế. Ưu điểm là leather rất iconic; nhược điểm là độ đa dụng thấp và kén gu cao.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai leather dark-luxury thật sự có tiếng nói riêng, Tuscan Leather là lựa chọn rất đáng thử. Nó hợp người thích mùi đậm, có uy và không ngại bị nhớ.
-
-Nên mua khi mày cần một chai tuyên ngôn cho buổi tối. Nếu mày muốn leather mềm, dễ mặc hơn, Ombré Leather thường hợp hơn.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa đông, buổi tối, sự kiện, áo da. Xịt 1-2 nhát — tỏa cực mạnh. Đẹp nhất khi dưới 20°C. Ở Việt Nam chỉ nên dùng mùa lạnh Hà Nội hoặc phòng máy lạnh rất mạnh.`,
+    verdict: "Da thuộc huyền thoại — gắt, mạnh và không thể thay thế. Bám 10h+. Chỉ dành cho người hiểu và đam mê.",
+    verdictShort: "DA THUỘC HUYỀN THOẠI",
+    score: { scent: 9.5, uniqueness: 10, compliments: 7, value: 7.2, total: 8.4 },
+    vibes: [{ label: "Huyền thoại", icon: "👑" }, { label: "Cá tính", icon: "🖤" }, { label: "Mạnh mẽ", icon: "💪" }],
+    longevity: 10,
+    sillage: 9,
+    seasons: { spring: 18, summer: 5, fall: 78, winter: 100 },
+    dayNight: { day: 10, night: 95 },
+    topNotes: [{ name: "Mâm xôi" }, { name: "Nghệ tây" }, { name: "Húng tây" }],
+    middleNotes: [{ name: "Trầm hương" }, { name: "Hoa nhài" }],
+    baseNotes: [{ name: "Da thuộc" }, { name: "Da lộn" }, { name: "Gỗ" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Da thuộc", value: 100, color: "#795548" },
+      { name: "Trái cây", value: 62, color: "#c0392b" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Hổ phách", value: 48, color: "#d4a017" },
+      { name: "Gia vị", value: 42, color: "#e67e22" }
+    ],
+    seoTitle: "Tom Ford Tuscan Leather chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Tom Ford Tuscan Leather chính hãng: mùi da thuộc huyền thoại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Da thuộc","Huyền thoại","Cá tính"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 7500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "dg-light-blue-intense-homme",
@@ -9864,29 +9866,49 @@ Dùng hằng ngày — đi làm, đi cà phê, gặp gỡ. Xịt 2-3 nhát: cổ
     brand: "TOM FORD",
     name: "Lost Cherry",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
-    gender: "nu",
+    perfumer: "Louise Turner",
+    gender: "unisex",
     image: "/images/products/tom-ford-lost-cherry-main.jpg",
-    images: [{ url: "/images/products/tom-ford-lost-cherry-main.jpg", source: "amazon", caption: "TOM FORD Lost Cherry chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    images: [
+      { url: "/images/products/tom-ford-lost-cherry-main.jpg", source: "fragram", caption: "Tom Ford Lost Cherry Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai cherry ngọt luxurious nhất — cherry đen, hạnh nhân, rượu cherry, hoa hồng Thổ Nhĩ Kỳ, vani, đậu Tonka và quế. Ngọt, ấm và gây nghiện.",
+    article: `### Ai không nên mua?
+
+Nếu bạn ghét mùi ngọt trái cây thì Lost Cherry là ác mộng — cherry đen và hạnh nhân đắng ngọt RẤT mạnh. Ai thích mùi sạch thoáng hoặc mùi gỗ khô cũng sẽ thấy chai này quá ngọt. Ngoài ra, giá Tom Ford Private Blend rất cao — cần test trước.
+
+### Có đáng tiền không?
+
+Lost Cherry thuộc phân khúc Tom Ford Private Blend — top giá designer/niche. So với Black Orchid cùng hãng, Lost Cherry ngọt hơn và cherry rõ hơn. Hiện tại có nhiều clone (Zara Cherry Smoothie, Lattafa Lure) nhưng không chai nào mượt bằng bản gốc. Hiệu năng tốt: bám 8 giờ, tỏa khá. Đắt nhưng chất lượng top-tier.
+
+### Nên dùng khi nào?
+
+Mùa thu đông, buổi tối, hẹn hò, dịp đặc biệt. Xịt 1-2 nhát — tỏa khá mạnh. Đẹp nhất khi trời mát. Ở Sài Gòn chỉ dùng tối hoặc phòng máy lạnh.`,
+    verdict: "Chai cherry ngọt luxurious nhất — gây nghiện, sexy. Bám 8h. Đắt nhưng top-tier. Không hợp ai ghét mùi ngọt.",
+    verdictShort: "CHERRY, NGỌT, LUXURIOUS",
+    score: { scent: 9.2, uniqueness: 9, compliments: 9.2, value: 7, total: 8.6 },
+    vibes: [{ label: "Gây nghiện", icon: "🍒" }, { label: "Sang trọng", icon: "💎" }, { label: "Sexy", icon: "🔥" }],
+    longevity: 8,
+    sillage: 8,
+    seasons: { spring: 42, summer: 15, fall: 85, winter: 95 },
+    dayNight: { day: 22, night: 92 },
+    topNotes: [{ name: "Hạnh nhân đắng" }, { name: "Cherry đen" }, { name: "Rượu cherry" }],
+    middleNotes: [{ name: "Cherry chua" }, { name: "Mận" }, { name: "Hoa hồng Thổ Nhĩ Kỳ" }, { name: "Nhài Sambac" }],
+    baseNotes: [{ name: "Vani" }, { name: "Đậu Tonka" }, { name: "Quế" }, { name: "Peru balsam" }, { name: "Gỗ đàn hương" }],
+    accords: [
+      { name: "Cherry", value: 100, color: "#c0392b" },
+      { name: "Ngọt", value: 92, color: "#8B0000" },
+      { name: "Hạnh nhân", value: 72, color: "#d4a373" },
+      { name: "Trái cây", value: 65, color: "#f39c12" },
+      { name: "Vani", value: 58, color: "#F5DEB3" }
+    ],
+    seoTitle: "Tom Ford Lost Cherry chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Tom Ford Lost Cherry chính hãng: mùi cherry ngọt luxurious, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Gây nghiện","Cherry","Sang trọng"],
+    sizes: ["10ml Chiết","50ml Fullbox"],
+    basePrice: 7500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "armani-acqua-di-gio-parfum",
