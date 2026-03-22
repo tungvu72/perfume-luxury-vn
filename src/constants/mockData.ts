@@ -4317,41 +4317,41 @@ GIT thuộc phân khúc niche cao cấp Creed — đắt nhất nhóm fresh xanh
     gender: "nam",
     image: "/images/products/dior-eau-sauvage-main.jpg",
     images: [{ url: "/images/products/dior-eau-sauvage-main.jpg", source: "fragram", caption: "Dior Eau Sauvage Eau de Toilette chính hãng", verified: true }],
-    description: "Tượng đài citrus nam từ 1966 — chanh, cam bergamot, húng quế, hoa nhài, rêu sồi và cỏ hương bài. Thanh lịch kiểu Pháp, timeless và rất trưởng thành.",
+    description: "Chai nam kinh điển nhất lịch sử Dior từ 1966 — chanh, cam bergamot, húng quế, nhài, cỏ hương bài, rêu sồi và xạ hương. Tươi, sạch và bất tử.",
     article: `### Ai không nên mua?
 
-Nếu bạn thích mùi ngọt ấm hiện đại kiểu Sauvage Elixir hay Azzaro Most Wanted thì Eau Sauvage hoàn toàn khác thế giới — đây là mùi citrus-aromatic cổ điển 1966, rất thanh và rất sạch. Người trẻ dưới 25 thường thấy chai này hơi "ông" quá. Ngoài ra, hiệu năng EDT nên bám vừa phải — ai cần beast mode thì không hợp.
+Nếu bạn thích mùi ngọt ấm hiện đại kiểu Sauvage EDP (cái tên giống nhau nhưng hoàn toàn khác) thì Eau Sauvage quá citrus-thảo mộc và quá cổ điển. Ai cần beast mode bám cả ngày cũng sẽ thất vọng — đây là EDT 1966, bám 4-5 giờ. Người dưới 30 có thể thấy nó "bố".
 
 ### Có đáng tiền không?
 
-Eau Sauvage thuộc phân khúc Dior — giá tương đương Sauvage EDT. So với Sauvage EDT (cháu đời sau), Eau Sauvage thanh hơn nhiều, ít Ambroxan hơn và cổ điển hơn. So với Cool Water (vốn clone Eau Sauvage), Eau Sauvage sang hơn và có chiều sâu hơn nhiều. Hiệu năng vừa: bám 5-6 giờ, tỏa nhẹ. Đáng mua nếu bạn muốn sở hữu một cột mốc lịch sử nước hoa nam.
+Eau Sauvage thuộc phân khúc Dior — giá tốt cho chai huyền thoại 60 năm. So với Sauvage EDP (cùng hãng), Eau Sauvage nhẹ hơn, citrus hơn và hoàn toàn khác DNA. So với Terre d'Hermès, Eau Sauvage tươi hơn và ít earth hơn. Hiệu năng yếu (EDT cổ điển) nhưng giá rẻ. Đáng mua cho collection.
 
 ### Nên dùng khi nào?
 
-Đi làm ban ngày, gặp khách, họp hành, trời nóng. Xịt 3-4 nhát vì tỏa nhẹ. Đẹp nhất mùa xuân hè khi trời 28-35°C. Ở Sài Gòn dùng quanh năm. Đừng dùng hẹn hò tối — quá nhẹ và quá thanh.`,
-    verdict: "Tượng đài citrus nam kinh điển — thanh lịch, sạch và rất Pháp. Hợp đi làm, ban ngày. Quá cổ điển cho ai thích mùi hiện đại.",
-    verdictShort: "KINH ĐIỂN, CITRUS, THANH LỊCH",
-    score: { scent: 8.5, uniqueness: 8.5, compliments: 7.8, value: 7.8, total: 8.2 },
-    vibes: [{ label: "Kinh điển", icon: "👑" }, { label: "Thanh lịch", icon: "✨" }, { label: "Trưởng thành", icon: "🖤" }],
-    longevity: 6,
+Mùa hè, ban ngày, đi làm, dạo phố kiểu gentleman. Xịt 3-4 nhát vì tỏa nhẹ. Đẹp nhất khi trời nắng ấm. Ở Sài Gòn dùng quanh năm.`,
+    verdict: "Chai citrus kinh điển nhất 1966 — tươi, sạch, gentleman. 60 năm không lỗi thời. Bám yếu nhưng chất.",
+    verdictShort: "KINH ĐIỂN 1966, CITRUS, GENTLEMAN",
+    score: { scent: 8.5, uniqueness: 8.5, compliments: 7.5, value: 8, total: 8.1 },
+    vibes: [{ label: "Kinh điển", icon: "👑" }, { label: "Gentleman", icon: "🎩" }, { label: "Ban ngày", icon: "☀️" }],
+    longevity: 4,
     sillage: 5,
-    seasons: { spring: 82, summer: 85, fall: 55, winter: 35 },
-    dayNight: { day: 90, night: 28 },
+    seasons: { spring: 88, summer: 82, fall: 45, winter: 28 },
+    dayNight: { day: 92, night: 28 },
     topNotes: [{ name: "Chanh" }, { name: "Cam bergamot" }, { name: "Húng quế" }, { name: "Hương thảo" }],
-    middleNotes: [{ name: "Hoa nhài" }, { name: "Rau mùi" }, { name: "Hoắc hương" }, { name: "Gỗ đàn hương" }, { name: "Oải hương" }],
+    middleNotes: [{ name: "Hoa nhài" }, { name: "Rau mùi" }, { name: "Hoa cẩm chướng" }, { name: "Hoắc hương" }, { name: "Oải hương" }],
     baseNotes: [{ name: "Rêu sồi" }, { name: "Cỏ hương bài" }, { name: "Xạ hương" }, { name: "Hổ phách" }],
     accords: [
       { name: "Cam chanh", value: 100, color: "#f1c40f" },
-      { name: "Tươi", value: 85, color: "#2ecc71" },
-      { name: "Thơm thảo mộc", value: 68, color: "#2c7a4b" },
-      { name: "Xanh", value: 55, color: "#27ae60" },
-      { name: "Gỗ", value: 48, color: "#8B4513" }
+      { name: "Thơm thảo mộc", value: 82, color: "#2c7a4b" },
+      { name: "Gia vị tươi", value: 65, color: "#27ae60" },
+      { name: "Gỗ", value: 52, color: "#8B4513" },
+      { name: "Rêu", value: 42, color: "#4a6741" }
     ],
     seoTitle: "Dior Eau Sauvage chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Dior Eau Sauvage chính hãng: tượng đài citrus nam kinh điển, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nam","Kinh điển","Citrus","Thanh lịch"],
+    metaDescription: "Đánh giá Dior Eau Sauvage chính hãng: mùi citrus kinh điển 1966, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Kinh điển","Citrus","Gentleman"],
     sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox","200ml Fullbox"],
-    basePrice: 2800000,
+    basePrice: 2200000,
     shopeeOffers: [],
     isPublished: true
   },
@@ -6126,52 +6126,51 @@ Nên mua khi mày cần một chai signature ban ngày mùa nóng. Nếu mày ư
     id: "guerlain-habit-rouge-parfum",
     brandSlug: "guerlain",
     brand: "GUERLAIN",
-    name: "Habit Rouge Parfum",
+    name: "Habit Rouge",
     subName: "Parfum",
     perfumer: "Delphine Jelk",
     gender: "nam",
-    image: "/images/products/guerlain-habit-rouge-parfum-main.webp",
+    image: "/images/products/guerlain-habit-rouge-parfum-main.jpg",
     images: [
-      { url: "/images/products/guerlain-habit-rouge-parfum-main.webp", source: "amazon", caption: "Ảnh sản phẩm Guerlain Habit Rouge Parfum (chai và hộp)" },
-      { url: "/images/products/guerlain-habit-rouge-bottle.jpg", source: "studio", caption: "Ảnh chai Guerlain Habit Rouge Parfum" }
+      { url: "/images/products/guerlain-habit-rouge-parfum-main.jpg", source: "fragram", caption: "Guerlain Habit Rouge Parfum chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Habit Rouge Parfum là tinh thần quý ông Pháp cổ điển được làm đậm và mượt hơn. DNA của nó xoay quanh citrus, vanilla, da, nhựa thơm và chút oriental cổ điển, tạo ra cảm giác rất lịch sự, sang và có chiều sâu. Đây không phải kiểu mùi trẻ trung chạy theo trend, mà là kiểu mùi có phong thái, có lịch sử và cần người mặc có chút gu để lên đúng chất.
+    description: "Phiên bản Parfum đậm nhất Habit Rouge — vani Bourbon, rượu rum, hoắc hương, cam bergamot, da thuộc, gỗ đàn hương, rêu sồi và benzoin. Ấm, rượu và cực kỳ sang.",
+    article: `### Ai không nên mua?
 
-Điểm cuốn của Habit Rouge Parfum là nó sang theo kiểu rất khác với designer hiện đại. Không phải ngọt gắt, không phải fresh sạch, mà là ấm, trầm, có phần dressy và có chút retro charm. Trong bối cảnh Việt Nam, chai này hợp hơn với người trưởng thành, thích suit, sơ mi, giày da hoặc những ai muốn một mùi hương có bản sắc quý ông rõ ràng thay vì safe choice.
+Nếu bạn thích mùi sạch tươi hiện đại kiểu Sauvage hay Bleu de Chanel thì Habit Rouge Parfum hoàn toàn ngược — đây là mùi rượu-vani-da cổ điển rất ấm và rất namtính. Ai dưới 30 tuổi có thể thấy nó quá mature.
 
-## Diễn biến trên da
-Mở đầu là citrus cổ điển nhưng không quá sáng, chỉ đủ để mở màn cho lớp nền nhanh chóng đi vào vanilla, da và nhựa thơm. Càng xuống da, mùi càng trở nên ấm, tròn và mang màu hơi oriental rất đặc trưng của Guerlain.
+### Có đáng tiền không?
 
-Drydown là phần đẹp nhất: vanilla mềm, da nhẹ và một cảm giác cổ điển sang trọng rất riêng. Nó không quá dễ hiểu với người mới, nhưng lại có chiều sâu và độ lưu dấu cao với người yêu phong cách classic. Nhược điểm là nếu mày chỉ quen mùi hiện đại tươi sáng, Habit Rouge Parfum có thể thấy hơi già dặn.
+Habit Rouge Parfum thuộc phân khúc Guerlain cao cấp — 2024 release. So với bản EDT gốc, Parfum đậm hơn, nhiều vani-rượu hơn và bám cực lâu. So với PdM Herod (cùng nhóm ấm sang), Habit Rouge Parfum đậm rượu hơn và cổ điển hơn. Hiệu năng rất tốt: bám 9+ giờ. Chai collector cho gentleman thật sự.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Habit Rouge Parfum có độ lưu hương tốt, khoảng 7-9 giờ; tỏa hương vừa phải nhưng bền. Nó hợp nhất cho chiều tối, môi trường lịch sự, thời tiết mát, tiệc tối, gặp gỡ trang trọng hoặc những lúc ăn mặc chỉn chu.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này nên ưu tiên dùng trong phòng máy lạnh hoặc thời tiết dịu. Ưu điểm là đậm chất quý ông, có chiều sâu và khác biệt; nhược điểm là không đa dụng bằng các mùi hiện đại, và không phải ai cũng hợp ngay từ lần thử đầu.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích nước hoa nam cổ điển, sang, có độ lịch lãm chứ không chạy theo sự dễ khen tức thời, Habit Rouge Parfum rất đáng để thử kỹ. Nó hợp người trưởng thành, gu classic hoặc người sưu tập muốn có một đại diện đậm chất Guerlain.
-
-Nên mua khi mày cần một chai tối lịch sự và có khí chất quý ông. Nếu mày chỉ tìm một chai trẻ trung, dễ dùng hằng ngày, đây sẽ không phải lựa chọn đầu tiên.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [{ name: "Cam bergamot" }],
-    middleNotes: [{ name: "Vani" }, { name: "Rum" }],
-    baseNotes: [{ name: "Hoắc hương" }, { name: "Gỗ" }],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa đông, buổi tối, dịp đặc biệt, tiệc sang. Xịt 1-2 nhát — tỏa đẹp. Đẹp nhất khi trời lạnh. Ở Việt Nam dùng mùa lạnh Hà Nội hoặc phòng máy lạnh.`,
+    verdict: "Habit Rouge bản đậm nhất — rượu, vani, da. Bám 9h+. Collector piece cho gentleman. Quá mature cho giới trẻ.",
+    verdictShort: "RƯỢU VANI DA, GENTLEMAN KINH ĐIỂN",
+    score: { scent: 9, uniqueness: 9, compliments: 7.5, value: 7.5, total: 8.3 },
+    vibes: [{ label: "Gentleman", icon: "🎩" }, { label: "Kinh điển", icon: "👑" }, { label: "Thu đông", icon: "🍂" }],
+    longevity: 9,
+    sillage: 7,
+    seasons: { spring: 25, summer: 8, fall: 82, winter: 98 },
+    dayNight: { day: 18, night: 88 },
+    topNotes: [{ name: "Cam bergamot" }, { name: "Cam đắng" }],
+    middleNotes: [{ name: "Vani Bourbon" }, { name: "Rượu rum" }],
+    baseNotes: [{ name: "Hoắc hương" }, { name: "Da thuộc" }, { name: "Gỗ đàn hương" }, { name: "Rêu sồi" }, { name: "Benzoin" }, { name: "Labdanum" }],
+    accords: [
+      { name: "Vani", value: 100, color: "#F5DEB3" },
+      { name: "Rượu", value: 82, color: "#722f37" },
+      { name: "Da thuộc", value: 62, color: "#795548" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Hổ phách", value: 48, color: "#d4a017" }
+    ],
+    seoTitle: "Guerlain Habit Rouge Parfum chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Guerlain Habit Rouge Parfum chính hãng: mùi rượu vani da kinh điển, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Kinh điển","Gentleman","Thu đông"],
+    sizes: ["10ml Chiết","100ml Fullbox"],
+    basePrice: 4200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "penhaligons-halfeti",
