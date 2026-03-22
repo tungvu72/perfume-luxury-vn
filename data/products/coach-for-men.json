@@ -2,7 +2,7 @@
   "id": "coach-for-men",
   "brandSlug": "coach",
   "brand": "COACH",
-  "name": "For Men",
+  "name": "Coach For Men",
   "subName": "Eau de Toilette",
   "perfumer": "Anne Flipo & Bruno Jovanovic",
   "gender": "nam",
@@ -15,94 +15,30 @@
       "verified": true
     }
   ],
-  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-  "productCopy": "Coach for Men EDT là kiểu nước hoa nam dễ dùng ngay từ lần đầu thử. Mùi mở đầu sáng, tươi và có cảm giác trái cây nhẹ, sau đó chuyển sang lớp hương sạch hơn với chút gỗ và da rất mềm ở nền. Tổng thể mang màu sắc trẻ trung, hiện đại và khá thân thiện, không hề tạo cảm giác quá nghiêm hay quá phô trương.\n\nĐiểm đáng giá của chai này là sự dễ tiếp cận. Coach for Men phù hợp với nhiều người, từ người mới bắt đầu dùng nước hoa đến những ai muốn một chai thơm gọn để dùng hằng ngày. Nó cho cảm giác của một người đàn ông năng động, lịch sự vừa đủ, thích sự thoải mái và không cần mùi hương quá nặng để thể hiện bản thân.\n\nKhi lên da, chai này giữ được sự sáng trong thời gian đầu, sau đó trở nên mềm hơn và nam tính hơn nhờ lớp nền. Dù không quá phức tạp, Coach for Men EDT vẫn có độ hoàn thiện khá tốt trong tầm designer dễ dùng. Nó hợp với môi trường đi làm, đi học, đi cà phê hoặc gặp gỡ bạn bè cuối tuần.\n\nVề hiệu năng, chai này ở mức vừa phải: đủ lưu lại đẹp trên da và quần áo, nhưng không phải kiểu tỏa mạnh. Chính điều đó lại là ưu điểm với những ai thích mùi hương nhẹ nhàng, không làm phiền người xung quanh. Trong thời tiết Việt Nam, đây là dạng mùi rất dễ dùng quanh năm.\n\nNếu bạn cần một chai nước hoa nam trẻ, sạch, linh hoạt và không có rủi ro cao khi blind buy, Coach for Men EDT là lựa chọn khá an toàn. Nó không phải kiểu để gây choáng ngợp, nhưng lại rất hợp với người muốn thơm một cách tự nhiên và dễ gần.",
-  "article": "For Men dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-  "verdictShort": "LIVE CATALOG UPDATE",
-  "score": {
-    "scent": 8.4,
-    "uniqueness": 7.8,
-    "compliments": 8.6,
-    "value": 8.2,
-    "total": 8.3
-  },
-  "vibes": [
-    {
-      "label": "nam",
-      "icon": "?"
-    },
-    {
-      "label": "D? d�ng",
-      "icon": "??"
-    },
-    {
-      "label": "Catalog live",
-      "icon": "??"
-    }
-  ],
-  "longevity": 7,
-  "sillage": 7,
-  "seasons": {
-    "spring": 68,
-    "summer": 52,
-    "fall": 82,
-    "winter": 78
-  },
-  "dayNight": {
-    "day": 58,
-    "night": 82
-  },
-  "topNotes": [
-    {
-      "name": "Top note"
-    }
-  ],
-  "middleNotes": [
-    {
-      "name": "Middle note"
-    }
-  ],
-  "baseNotes": [
-    {
-      "name": "Base note"
-    }
-  ],
+  "description": "Chai nam trẻ trung, sáng và rất dễ dùng — lê, cam bergamot, bạch đậu khấu và da lộn. Giá mềm, hợp mọi ngày.",
+  "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi đậm, có chiều sâu hay beast mode thì Coach For Men quá nhẹ — đây là EDT tỏa gần, bám vừa. Ai thích mùi nổi bật kiểu Sauvage hay Most Wanted cũng sẽ thấy chai này quá hiền. Ngoài ra, mùi khá đơn giản nên không hợp người tìm sự phức tạp.\n\n### Có đáng tiền không?\n\nCoach For Men thuộc phân khúc designer entry-level — rẻ nhất nhóm cùng Boss Bottled và Cool Water. So với Boss Bottled EDP, Coach For Men trẻ hơn và nhẹ hơn. So với Prada Carbon, Coach mềm hơn và ít thảo mộc hơn. Hiệu năng trung bình: bám 5-6 giờ, tỏa nhẹ. Với giá mềm, đây là chai starter lý tưởng cho người mới.\n\n### Nên dùng khi nào?\n\nDùng hằng ngày — đi làm, đi học, đi cà phê, đi chơi. Xịt 3-4 nhát vì tỏa nhẹ. Dùng quanh năm nhưng đẹp nhất xuân hè. Ở Sài Gòn dùng rất thoải mái.",
+  "verdict": "Mùi nam trẻ trung, sạch và rất dễ dùng. Giá mềm, hợp mọi ngày. Không hợp ai cần mùi đậm hoặc nổi bật.",
+  "verdictShort": "TRẺ, SẠCH, GIÁ MỀM",
+  "score": { "scent": 7.8, "uniqueness": 7.0, "compliments": 7.8, "value": 9.0, "total": 7.9 },
+  "vibes": [{ "label": "Hằng ngày", "icon": "🧴" }, { "label": "Trẻ trung", "icon": "⚡" }, { "label": "Giá mềm", "icon": "💸" }],
+  "longevity": 6, "sillage": 5,
+  "seasons": { "spring": 82, "summer": 72, "fall": 62, "winter": 45 },
+  "dayNight": { "day": 85, "night": 35 },
+  "topNotes": [{ "name": "Lê" }, { "name": "Cam bergamot" }, { "name": "Quất" }, { "name": "Oải hương" }],
+  "middleNotes": [{ "name": "Bạch đậu khấu" }, { "name": "Rau mùi" }, { "name": "Phong lữ" }],
+  "baseNotes": [{ "name": "Cỏ hương bài" }, { "name": "Da lộn" }, { "name": "Long diên hương" }],
   "accords": [
-    {
-      "name": "Ch? d?o",
-      "value": 58,
-      "color": "#8B4513"
-    },
-    {
-      "name": "D? d�ng",
-      "value": 32,
-      "color": "#1abc9c"
-    },
-    {
-      "name": "Hi?n d?i",
-      "value": 24,
-      "color": "#9b59b6"
-    },
-    {
-      "name": "?m",
-      "value": 20,
-      "color": "#e67e22"
-    }
+    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
+    { "name": "Thơm thảo mộc", "value": 78, "color": "#2c7a4b" },
+    { "name": "Cam chanh", "value": 68, "color": "#f1c40f" },
+    { "name": "Tươi", "value": 58, "color": "#2ecc71" },
+    { "name": "Da thuộc", "value": 42, "color": "#795548" }
   ],
-  "seoTitle": "Coach For Men chính hãng giá bao nhiêu? Review mùi hương 2026",
-  "metaDescription": "Đánh giá Coach For Men chính hãng: mùi lê gỗ da trẻ trung, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-  "tags": [
-    "nam",
-    "Catalog",
-    "Live",
-    "2026"
-  ],
-  "sizes": [
-    "10ml Chi?t",
-    "50ml Fullbox",
-    "100ml Fullbox"
-  ],
-  "basePrice": 1990000,
-  "shopeeOffers": []
+  "seoTitle": "Coach For Men chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Coach For Men chính hãng: mùi lê gỗ da trẻ trung, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Hằng ngày", "Trẻ trung", "Giá mềm"],
+  "sizes": ["10ml Chiết", "40ml Fullbox", "60ml Fullbox", "100ml Fullbox"],
+  "basePrice": 1200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
