@@ -1,54 +1,84 @@
 {
   "id": "chloe-eau-de-parfum",
   "brandSlug": "chloe",
-  "brand": "CHLOE",
-  "name": "Chloe Eau de Parfum",
+  "brand": "CHLOÉ",
+  "name": "Chloé",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Amandine Clerc-Marie & Michel Almairac",
   "gender": "nu",
   "image": "/images/products/chloe-eau-de-parfum-main.jpg",
   "images": [
     {
       "url": "/images/products/chloe-eau-de-parfum-main.jpg",
-      "source": "amazon",
-      "caption": "CHLOE Chloe Eau de Parfum chính hãng",
+      "source": "fragram",
+      "caption": "Chloé Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "(Chờ Coder viết bài)",
-  "article": "(Chờ Coder viết bài)",
+  "description": "Chai nữ hoa hồng kinh điển — mẫu đơn, vải, hoa hồng và gỗ tuyết tùng. Thanh lịch, nữ tính và rất tinh khôi. Chai signature lý tưởng cho mọi ngày.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt đậm, sexy hoặc gourmand thì Chloé EDP sẽ quá nhẹ và quá thanh lịch cho gu đó. Đây là mùi hoa hồng phấn clean — rất elegant nhưng thiếu drama. Ai cần mùi tạo dấu ấn mạnh, tỏa xa cũng sẽ thấy Chloé hơi kín đáo. Ngoài ra, nam giới muốn mua tặng bạn gái nên chú ý: Chloé EDP khá mature — phù hợp phụ nữ 25+ hơn là teen.\n\n### Có đáng tiền không?\n\nChloé EDP thuộc phân khúc designer tầm trung — rẻ hơn Coco Mademoiselle và Chanel. So với Miss Dior Blooming Bouquet, Chloé EDP đậm hơn, hoa hồng rõ hơn và nữ tính trưởng thành hơn. So với Lancôme La Vie Est Belle, Chloé EDP ít ngọt hơn nhiều và thanh hơn. Hiệu năng khá: bám 6-7 giờ, tỏa vừa. Đây là chai signature nữ kinh điển — hoa hồng phấn mà gần như không ai ghét.\n\n### Nên dùng khi nào?\n\nDùng được quanh năm — đi làm, đi cà phê, gặp gỡ, đi tiệc nhẹ. Xịt 2-3 nhát: cổ, cổ tay, sau tai. Đẹp nhất mùa xuân hè khi trời ấm. Ở Sài Gòn dùng thoải mái vì rất nhẹ nhàng. Đây là kiểu chai phụ nữ nào dùng cũng thấy hợp — tinh tế, thanh lịch và rất ladylike.",
+  "verdict": "Mùi hoa hồng phấn thanh lịch — kinh điển và rất nữ tính. Hợp mọi ngày. Không hợp ai thích mùi nặng, sexy hay ngọt đậm.",
+  "verdictShort": "HOA HỒNG, THANH LỊCH, KINH ĐIỂN",
   "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
+    "scent": 8.5,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
   },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
+  "vibes": [
+    { "label": "Thanh lịch", "icon": "✨" },
+    { "label": "Nữ tính", "icon": "🌸" },
+    { "label": "Hằng ngày", "icon": "🧴" }
+  ],
+  "longevity": 7,
+  "sillage": 6,
   "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
+    "spring": 90,
+    "summer": 72,
+    "fall": 65,
+    "winter": 45
   },
   "dayNight": {
-    "day": 0,
-    "night": 0
+    "day": 82,
+    "night": 45
   },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
+  "topNotes": [
+    { "name": "Mẫu đơn" },
+    { "name": "Vải" },
+    { "name": "Lan Nam Phi" }
+  ],
+  "middleNotes": [
+    { "name": "Hoa hồng" },
+    { "name": "Hoa linh lan" },
+    { "name": "Mộc lan" }
+  ],
+  "baseNotes": [
+    { "name": "Gỗ tuyết tùng" },
+    { "name": "Hổ phách" }
+  ],
+  "accords": [
+    { "name": "Hoa", "value": 100, "color": "#e91e63" },
+    { "name": "Phấn", "value": 78, "color": "#d7bde2" },
+    { "name": "Hoa hồng", "value": 72, "color": "#f48fb1" },
+    { "name": "Tươi", "value": 62, "color": "#2ecc71" },
+    { "name": "Trái cây", "value": 48, "color": "#f39c12" }
+  ],
+  "seoTitle": "Chloé EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Chloé EDP chính hãng: mùi hoa hồng phấn thanh lịch kinh điển, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
   "tags": [
     "Nữ",
-    "NEEDS_SOURCE"
+    "Thanh lịch",
+    "Hoa hồng",
+    "Hằng ngày"
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "75ml Fullbox"
+  ],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

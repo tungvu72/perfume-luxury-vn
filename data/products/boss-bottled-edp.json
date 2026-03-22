@@ -15,94 +15,69 @@
       "verified": true
     }
   ],
-  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-  "productCopy": "Boss Bottled EDP là một kiểu nước hoa nam rất đúng tinh thần lịch sự, dễ dùng và thực tế. Mùi mở đầu có cảm giác táo và gia vị nhẹ, sau đó chuyển dần sang lớp gỗ ấm và sạch. Tổng thể không quá nổi loạn hay quá cá tính, mà thiên về hình ảnh một người đàn ông trưởng thành, đáng tin và biết cách giữ hình ảnh gọn gàng trong đời sống hằng ngày.\n\nĐiểm mạnh của Boss Bottled EDP là sự cân bằng. Nó đủ ấm để không bị nhạt, đủ tươi để không bị già, và đủ nam tính để dùng trong nhiều hoàn cảnh khác nhau. Đây là kiểu chai bạn có thể dùng đi làm, đi gặp đối tác, đi ăn tối nhẹ hoặc các dịp cần sự lịch sự mà không phải suy nghĩ nhiều.\n\nTrên da, Boss Bottled EDP phát triển theo hướng khá mượt. Lớp táo đầu giúp mùi dễ tiếp cận hơn, trong khi phần gỗ và gia vị phía sau giữ lại sự chững chạc. Nó không phải kiểu tạo cú sốc hay quá khác biệt, nhưng lại làm rất tốt việc khiến người xung quanh cảm thấy bạn thơm, gọn và dễ chịu.\n\nVề hiệu năng, chai này lưu hương khá và tỏa hương ở mức vừa phải. Trong điều kiện khí hậu Việt Nam, Boss Bottled EDP dùng tốt cả ngày lẫn tối, đặc biệt ở môi trường công sở hoặc nơi có máy lạnh. Đây là một lựa chọn ổn định cho người cần sự linh hoạt cao.\n\nNếu bạn muốn một chai nước hoa nam an toàn theo nghĩa tích cực, trưởng thành và hợp nhiều tình huống, Boss Bottled EDP là lựa chọn rất dễ sống chung lâu dài. Nó không quá flashy, nhưng sự ổn định và hình ảnh lịch sự mà nó mang lại luôn có giá trị thực tế.",
-  "article": "Boss Bottled dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-  "verdictShort": "LIVE CATALOG UPDATE",
+  "description": "Phiên bản ấm và sang hơn của Boss Bottled kinh điển — táo, tiêu đen, quế, hạt dẻ và xạ hương. Lịch sự, trưởng thành và rất hợp đi làm.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi fresh tươi mát, trẻ trung kiểu YSL Y hay Prada Carbon thì Boss Bottled EDP hơi ấm và hơi mature hơn gu đó. Đây là kiểu mùi gentleman truyền thống — gia vị, gỗ, musk. Người dưới 23 tuổi thích mùi trendy, năng lượng cao có thể thấy chai này hơi nghiêm túc.\n\n### Có đáng tiền không?\n\nBoss Bottled EDP thuộc phân khúc designer tầm trung — rẻ hơn Sauvage EDP và Bleu de Chanel. So với bản EDT kinh điển, EDP đậm hơn, ấm hơn và có chiều sâu hơn. So với D&G The One EDP, Boss Bottled EDP ít tối hơn nhưng vẫn ấm. Hiệu năng khá: bám 6-7 giờ, tỏa gần. Đây là chai đáng tin cho văn phòng và cuộc sống hằng ngày. Với giá tầm trung thì rất hợp lý.\n\n### Nên dùng khi nào?\n\nĐi làm, gặp khách, đi ăn tối nhẹ hoặc dùng hằng ngày. Xịt 2-3 nhát: cổ, ngực, cổ tay. Dùng quanh năm nhưng đẹp nhất mùa thu đông. Ở Sài Gòn dùng trong phòng máy lạnh rất ổn. Đây là kiểu chai an toàn — xịt xong đi luôn, không cần nghĩ nhiều.",
+  "verdict": "Mùi nam lịch sự, ấm và rất dễ dùng. Hợp đi làm, gặp gỡ mỗi ngày. Không hợp ai thích mùi tươi mát trẻ trung.",
+  "verdictShort": "LỊCH SỰ, ẤM, DỄ DÙNG",
   "score": {
-    "scent": 8.4,
-    "uniqueness": 7.8,
-    "compliments": 8.6,
-    "value": 8.2,
-    "total": 8.3
+    "scent": 8.2,
+    "uniqueness": 7.4,
+    "compliments": 8.4,
+    "value": 8.6,
+    "total": 8.2
   },
   "vibes": [
-    {
-      "label": "nam",
-      "icon": "?"
-    },
-    {
-      "label": "D? d�ng",
-      "icon": "??"
-    },
-    {
-      "label": "Catalog live",
-      "icon": "??"
-    }
+    { "label": "Đi làm", "icon": "💼" },
+    { "label": "Lịch sự", "icon": "🎩" },
+    { "label": "Trưởng thành", "icon": "🖤" }
   ],
   "longevity": 7,
-  "sillage": 7,
+  "sillage": 6,
   "seasons": {
-    "spring": 68,
-    "summer": 52,
-    "fall": 82,
-    "winter": 78
+    "spring": 72,
+    "summer": 45,
+    "fall": 85,
+    "winter": 82
   },
   "dayNight": {
-    "day": 58,
-    "night": 82
+    "day": 70,
+    "night": 60
   },
   "topNotes": [
-    {
-      "name": "Top note"
-    }
+    { "name": "Táo" },
+    { "name": "Tiêu đen" },
+    { "name": "Cam bergamot" }
   ],
   "middleNotes": [
-    {
-      "name": "Middle note"
-    }
+    { "name": "Quế" },
+    { "name": "Bạch đậu khấu" },
+    { "name": "Hạt dẻ" }
   ],
   "baseNotes": [
-    {
-      "name": "Base note"
-    }
+    { "name": "Xạ hương" },
+    { "name": "Cỏ hương bài" }
   ],
   "accords": [
-    {
-      "name": "Ch? d?o",
-      "value": 58,
-      "color": "#8B4513"
-    },
-    {
-      "name": "D? d�ng",
-      "value": 32,
-      "color": "#1abc9c"
-    },
-    {
-      "name": "Hi?n d?i",
-      "value": 24,
-      "color": "#9b59b6"
-    },
-    {
-      "name": "?m",
-      "value": 20,
-      "color": "#e67e22"
-    }
+    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
+    { "name": "Gia vị ấm", "value": 82, "color": "#b05c00" },
+    { "name": "Ngọt", "value": 68, "color": "#e74c3c" },
+    { "name": "Tươi", "value": 55, "color": "#2ecc71" },
+    { "name": "Trái cây", "value": 48, "color": "#f39c12" }
   ],
-  "seoTitle": "Boss Bottled EDP chính hãng giá bao nhiêu? Review 2026",
-  "metaDescription": "Đánh giá Boss Bottled EDP chính hãng: mùi gỗ gia vị lịch lãm, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026 tại Maison De Son.",
+  "seoTitle": "Boss Bottled EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Boss Bottled EDP chính hãng: mùi gỗ gia vị lịch lãm, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
   "tags": [
-    "nam",
-    "Catalog",
-    "Live",
-    "2026"
+    "Nam",
+    "Đi làm",
+    "Lịch sự",
+    "Đa dụng"
   ],
   "sizes": [
-    "10ml Chi?t",
+    "10ml Chiết",
     "50ml Fullbox",
     "100ml Fullbox"
   ],
-  "basePrice": 1990000,
-  "shopeeOffers": []
+  "basePrice": 1800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
