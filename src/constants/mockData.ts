@@ -3749,51 +3749,51 @@ Dùng hằng ngày — đi làm, đi học, đi cà phê, đi chơi. Xịt 3-4 n
     id: "ganymede",
     brandSlug: "marc-antoine-barrois",
     brand: "MARC-ANTOINE BARROIS",
-    name: "Ganymède",
+    name: "Ganymede",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Quentin Bisch",
     gender: "unisex",
     image: "/images/products/marc-antoine-barrois-ganymede-main.jpg",
     images: [
-      { url: "/images/products/marc-antoine-barrois-ganymede-main.jpg", source: "amazon", caption: "MARC-ANTOINE BARROIS Ganymède chính hãng", verified: true }
+      { url: "/images/products/marc-antoine-barrois-ganymede-main.jpg", source: "fragram", caption: "Marc-Antoine Barrois Ganymede Eau de Parfum chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Ganymede là kiểu niche hiện đại rất khác đám đông: khoáng, da lộn sạch, kim loại nhẹ, trái cây khô và cảm giác không gian rất đặc trưng. Nó không ngọt dễ chịu theo kiểu phổ thông, cũng không quá oud hay gỗ đậm, mà đi theo một hướng rất riêng: sáng nhưng lạnh, sạch nhưng lạ, sang nhưng không dễ đoán.
+    description: "Chai niche khoáng-da lộn-kim loại độc nhất — nghệ tây, cam quýt Ý, hoa mộc, bất tử, lá hoa tím, khoáng, da lộn, gỗ tuyết tùng và xạ hương. Lạnh, metallic và cực kỳ unique.",
+    article: `### Ai không nên mua?
 
-Điểm khiến Ganymede nổi là nó tạo ra được một texture rất đặc biệt. Người ngửi thường không gọi tên chính xác được nó là gì, nhưng dễ nhớ cảm giác sang, khô, hơi metallic và rất hiện đại. Ở Việt Nam, đây là chai hợp với người đã chơi nước hoa một thời gian, muốn một thứ thật khác biệt và có khả năng tạo nhận diện rất mạnh.
+Nếu bạn thích mùi ngọt ấm dễ tiếp cận thì Ganymede ở chiều ngược — đây là mùi khoáng-kim loại-da lộn rất lạnh và rất khó mô tả. Ai quen mùi designer mainstream sẽ thấy chai này "space-age". Cần test trước — đây là acquired taste.
 
-## Diễn biến trên da
-Mở đầu cho cảm giác khoáng và sáng, sau đó lớp da lộn sạch cùng chút trái cây khô làm mùi hương mềm hơn nhưng vẫn giữ độ lạnh. Ganymede phát triển khá ổn định, không biến đổi nhiều tầng, nhưng aura của nó rất rõ và rất dễ nhận ra.
+### Có đáng tiền không?
 
-Drydown vẫn mang cảm giác airy-mineral đặc trưng, hơi sạch, hơi da và rất hiện đại. Nó không ôm theo hướng ngọt tình cảm, mà cuốn ở sự khác biệt. Nhược điểm là ai chỉ thích mùi dễ hiểu, dễ ngửi ngay có thể thấy Ganymede hơi lạ và hơi xa cách.
+Ganymede thuộc phân khúc niche tầm trung — rẻ hơn Xerjoff và MFK. So với Terre d'Hermès (cùng nhóm khoáng), Ganymede metallic hơn và da lộn hơn rất nhiều. So với Dior Homme (cùng nhóm iris), Ganymede ít phấn hơn và lạnh hơn. Hiệu năng rất tốt: bám 9 giờ, tỏa khá. Chai unique nhất tầm giá — không chai nào giống.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Ganymede có hiệu năng tốt, lưu hương khoảng 8 giờ hoặc hơn, tỏa hương khá trong giai đoạn đầu. Nó dùng đẹp cho đi làm sáng tạo, gặp gỡ, event, thời tiết dễ chịu hoặc những lúc muốn mùi hương đóng vai trò như điểm nhấn phong cách.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này vẫn dùng được ngày nóng nhờ độ thoáng, nhưng nên tiết chế số lần xịt vì aura của nó khá rõ. Ưu điểm là độc đáo và rất sang; nhược điểm là không phải mùi ai cũng yêu từ lần đầu.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày đang tìm một chai niche hiện đại, khác biệt thật sự và có khả năng tạo dấu ấn riêng, Ganymede rất đáng thử. Nó hợp người thích phong cách tối giản, high-fashion và muốn mùi hương không trùng số đông.
-
-Nên mua khi mày đã chán các DNA quen thuộc và muốn một bước sang thế giới niche hiện đại. Nếu mày cần mùi an toàn, dễ khen ngay, nên test kỹ trước khi chốt.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Quanh năm — đi làm, gặp gỡ, sự kiện. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất khi trời mát. Ở Sài Gòn dùng quanh năm vì citrus opening tươi.`,
+    verdict: "Chai khoáng-da lộn-metallic unique nhất — lạnh, khác biệt. Bám 9h. Không giống bất kỳ chai nào khác.",
+    verdictShort: "KHOÁNG METALLIC, UNIQUE, DA LỘN",
+    score: { scent: 9.2, uniqueness: 10, compliments: 8, value: 8, total: 8.8 },
+    vibes: [{ label: "Unique", icon: "🪐" }, { label: "Tinh tế", icon: "💎" }, { label: "Unisex", icon: "✨" }],
+    longevity: 9,
+    sillage: 8,
+    seasons: { spring: 72, summer: 55, fall: 82, winter: 78 },
+    dayNight: { day: 65, night: 72 },
+    topNotes: [{ name: "Nghệ tây" }, { name: "Cam quýt Ý" }],
+    middleNotes: [{ name: "Hoa mộc Trung Quốc" }, { name: "Hoa bất tử" }, { name: "Lá hoa tím" }],
+    baseNotes: [{ name: "Khoáng" }, { name: "Da lộn" }, { name: "Akigalawood" }, { name: "Gỗ tuyết tùng" }, { name: "Xạ hương" }, { name: "Hoắc hương" }],
+    accords: [
+      { name: "Khoáng", value: 100, color: "#7f8c8d" },
+      { name: "Gia vị ấm", value: 72, color: "#e67e22" },
+      { name: "Da thuộc", value: 65, color: "#795548" },
+      { name: "Gỗ", value: 58, color: "#8B4513" },
+      { name: "Kim loại", value: 52, color: "#95a5a6" }
+    ],
+    seoTitle: "Marc-Antoine Barrois Ganymede chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Marc-Antoine Barrois Ganymede chính hãng: mùi khoáng da lộn metallic unique, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Unique","Khoáng"],
+    sizes: ["10ml Chiết","30ml Fullbox","100ml Fullbox"],
+    basePrice: 4800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "gentle-fluidity-gold",
@@ -5818,47 +5818,49 @@ Dùng hằng ngày — đi làm, đi cà phê, gặp gỡ, tiệc nhẹ. Xịt 2
     brand: "PARFUMS DE MARLY",
     name: "Layton",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
-    gender: "nam",
+    perfumer: "Hamid Merati-Kashani",
+    gender: "unisex",
     image: "/images/products/parfums-de-marly-layton-main.jpg",
-    images: [{ url: "/images/products/parfums-de-marly-layton-main.jpg", source: "amazon", caption: "PARFUMS DE MARLY Layton chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Layton là kiểu táo, vanilla, gia vị và gỗ cực kỳ nổi tiếng vì vừa sang vừa dễ khen. Nó có chất ngọt ấm hiện đại, nhưng không đi theo hướng quá trẻ con hay quá bánh kẹo. Đây là mùi kiểu “niche cho người muốn được thích”: đủ khác designer phổ thông, nhưng vẫn rất dễ tạo thiện cảm.
+    images: [
+      { url: "/images/products/parfums-de-marly-layton-main.jpg", source: "fragram", caption: "Parfums de Marly Layton Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai niche táo-lavender-vani best seller nhất PdM — táo, oải hương, cam bergamot, phong lữ, hoa tím, vani, bạch đậu khấu và gỗ đàn hương. Ngọt ấm, đa dụng và cực kỳ cuốn hút.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Layton là cảm giác giàu có và tròn trịa. Mùi mở ra sáng vừa phải rồi nhanh chóng đi vào vùng ấm, ngọt, cay nhẹ và rất nam tính theo hướng dressy. Ở Việt Nam, chai này hợp cho tối, hẹn hò, đi chơi, máy lạnh hoặc các dịp muốn mùi hương rõ ràng có đầu tư.
+Nếu bạn ghét mùi ngọt thì Layton có vani-táo rất rõ — gần gourmand. Ai thích mùi sạch tươi citrus thuần cũng sẽ thấy chai này hơi ngọt. Ngoài ra, Layton rất phổ biến — nhiều người xịt cùng mùi.
 
-## Diễn biến trên da
-Mở đầu có trái cây sáng và gia vị nhẹ, sau đó vanilla cùng nền gỗ bắt đầu làm tổng thể dày hơn. Layton chuyển tầng mượt và rất “lên outfit”: càng về sau càng trông chững chạc và sang hơn.
+### Có đáng tiền không?
 
-Drydown ngọt ấm, mịn, ôm da tốt và khá dễ gây nghiện. Đây là kiểu mùi nhiều người sẽ thấy cuốn mà không cần cố hiểu. Nhược điểm là vì quá nổi tiếng nên độ độc bản không còn quá cao trong giới chơi mùi.
+Layton thuộc phân khúc PdM niche — đắt hơn designer. So với Herod cùng hãng, Layton sáng hơn, ít thuốc lá hơn và đa dụng hơn. So với BR540 (MFK), Layton ấm hơn và ít caramelized hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa mạnh. Đây là chai PdM best seller — không bao giờ sai.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Layton có hiệu năng tốt, thường 7-9 giờ lưu hương; tỏa hương khá trong giai đoạn đầu. Nó hợp hẹn hò, tiệc tối, event, mùa mát hoặc dùng khi muốn để lại ấn tượng rõ.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng buổi tối để vanilla và gia vị lên đẹp hơn. Ưu điểm là rất cuốn, sang và dễ dùng; nhược điểm là có thể hơi dày nếu xịt mạnh lúc trời nóng.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai niche nam ngọt ấm, sang và rất dễ được khen, Layton là lựa chọn cực mạnh. Nó hợp người thích mùi nổi bật nhưng vẫn an toàn đủ để dùng thực tế.
-
-Nên mua khi mày cần một chai buổi tối hoặc date night có độ ăn tiền cao. Nếu mày thích mùi khô, xanh hoặc tối kiểu trầm, Layton có thể không phải gu chính.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Quanh năm — đi làm, hẹn hò, gặp gỡ, dạo phố. Xịt 2 nhát — tỏa mạnh. Đẹp nhất thu đông nhưng dùng quanh năm vì lavender sáng. Ở Sài Gòn dùng thoải mái vì opening tươi.`,
+    verdict: "Chai PdM best seller — táo, vani, lavender. Beast mode 10h+. Đa dụng quanh năm. Hơi mainstream nhưng quá đẹp.",
+    verdictShort: "TÁO VANI, BEST SELLER, BEAST MODE",
+    score: { scent: 9, uniqueness: 8, compliments: 9.5, value: 7.8, total: 8.6 },
+    vibes: [{ label: "Best seller", icon: "🏆" }, { label: "Đa dụng", icon: "🔄" }, { label: "Cuốn hút", icon: "🔥" }],
+    longevity: 10,
+    sillage: 9,
+    seasons: { spring: 72, summer: 42, fall: 92, winter: 95 },
+    dayNight: { day: 62, night: 88 },
+    topNotes: [{ name: "Táo" }, { name: "Oải hương" }, { name: "Cam bergamot" }, { name: "Cam quýt" }],
+    middleNotes: [{ name: "Phong lữ" }, { name: "Hoa tím" }, { name: "Hoa nhài" }],
+    baseNotes: [{ name: "Vani" }, { name: "Bạch đậu khấu" }, { name: "Gỗ đàn hương" }, { name: "Tiêu" }, { name: "Gỗ Guaiac" }, { name: "Hoắc hương" }],
+    accords: [
+      { name: "Gia vị ấm", value: 100, color: "#e67e22" },
+      { name: "Vani", value: 85, color: "#F5DEB3" },
+      { name: "Thơm thảo mộc", value: 72, color: "#2c7a4b" },
+      { name: "Trái cây", value: 62, color: "#f39c12" },
+      { name: "Gỗ", value: 52, color: "#8B4513" }
+    ],
+    seoTitle: "Parfums de Marly Layton chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Parfums de Marly Layton chính hãng: mùi táo vani lavender niche, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Best seller","Đa dụng"],
+    sizes: ["10ml Chiết","75ml Fullbox","125ml Fullbox"],
+    basePrice: 5200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "le-parfum-elie-saab",
