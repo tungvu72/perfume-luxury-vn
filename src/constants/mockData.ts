@@ -3577,47 +3577,49 @@ Hẹn hò, đi ăn tối, tiệc, buổi tối. Xịt 1-2 nhát: cổ, cổ tay 
     brand: "GUERLAIN",
     name: "Shalimar",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Jacques Guerlain",
     gender: "nu",
     image: "/images/products/guerlain-shalimar-edp-main.jpg",
-    images: [{ url: "/images/products/guerlain-shalimar-edp-main.jpg", source: "amazon", caption: "GUERLAIN Shalimar chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Shalimar là một huyền thoại đúng nghĩa của nước hoa nữ phương Đông. Nó mang vanilla, nhựa thơm, hổ phách, citrus và một cảm giác khói nhẹ theo cách rất cổ điển, rất sang và gần như vượt thời gian. Đây không phải mùi hương để làm vừa lòng tất cả mọi người, mà là mùi hương có bản lĩnh riêng, có lịch sử và có sức nặng rất rõ khi lên da.
+    images: [
+      { url: "/images/products/guerlain-shalimar-edp-main.jpg", source: "fragram", caption: "Guerlain Shalimar Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai nữ oriental đầu tiên lịch sử — cam bergamot, iris, nhài, vani, trầm hương, đậu Tonka và da thuộc. Ấm, sang và bất tử từ 1925.",
+    article: `### Ai không nên mua?
 
-Điểm đáng nể ở Shalimar là dù đã ra đời rất lâu, nó vẫn có thể tạo cảm giác đắt và cuốn với người hợp gu. Mùi hương này không trẻ trung theo chuẩn hiện đại, nhưng lại có phong thái rất riêng: sang, điềm tĩnh, bí ẩn và có chiều sâu. Ở Việt Nam, Shalimar hợp hơn với người yêu gu cổ điển, sưu tập nước hoa hoặc muốn một mùi signature không giống thị trường số đông.
+Nếu bạn dưới 25 tuổi và thích mùi trẻ trung tươi kiểu Burberry Her hay My Way thì Shalimar cổ điển quá — nhiều người gen Z sẽ gọi nó là "mùi bà ngoại". Ai ghét vani-hổ phách đậm cũng nên tránh. Ngoài ra, opening có chút civet/leather có thể hơi sốc với người chưa quen.
 
-## Diễn biến trên da
-Mở đầu là lớp citrus có phần cổ điển, sau đó rất nhanh vanilla, nhựa thơm và hổ phách kéo mùi vào thế giới oriental đặc trưng. Trên da, Shalimar thường phát triển theo hướng ngày càng ấm, mềm và khói hơn, rất có chiều sâu.
+### Có đáng tiền không?
 
-Drydown của Shalimar là nơi sức hút bộc lộ rõ nhất: vanilla không đơn giản là ngọt, mà có cảm giác resinous, tối và sang. Nó vừa mềm, vừa có lực. Nhược điểm là ai quen mùi nữ hiện đại sáng hoặc fruity có thể thấy Shalimar hơi quá cổ điển, thậm chí khó tiếp cận.
+Shalimar thuộc phân khúc Guerlain — giá tương đương Chanel. Đây là chai nước hoa nữ huyền thoại nhất lịch sử — chai amber/oriental đầu tiên, ra mắt 1925. So với Trésor (cùng nhóm oriental), Shalimar sâu hơn, đậm hơn và có civet-da thuộc. So với Miss Dior EDP, Shalimar hoàn toàn khác DNA — tối hơn rất nhiều. Hiệu năng tốt: bám 8 giờ. Chai collector huyền thoại.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Shalimar có độ lưu hương tốt, khoảng 7-9 giờ, tỏa hương vừa đến khá và khá bền trên áo quần. Nó hợp nhất cho tối, thời tiết mát, tiệc, không gian có dress code hoặc những lúc muốn một mùi nữ thật sự có trọng lượng.
+### Nên dùng khi nào?
 
-Trong khí hậu Việt Nam, nên ưu tiên dùng buổi tối hoặc trong phòng điều hòa. Ưu điểm là đẳng cấp, có khí chất và rất khác biệt; nhược điểm là độ kén khá cao nếu người dùng chỉ thích mùi dễ thương, hiện đại.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai nước hoa nữ kinh điển, phương Đông, sang và có chiều sâu thật sự, Shalimar là cái tên phải thử. Nó hợp người có gu, thích lịch sử nước hoa và muốn một mùi hương không bị hòa tan trong đám đông.
-
-Nên mua khi mày cần một chai tối, cổ điển, sang trọng và có bản sắc. Nếu mày cần mùi dễ dùng mỗi ngày, có thể nên bắt đầu bằng lựa chọn hiền hơn.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa đông, dịp đặc biệt, tiệc sang, buổi tối. Xịt 2 nhát: cổ, cổ tay. Đẹp nhất trời lạnh. Ở Việt Nam chỉ nên dùng mùa lạnh hoặc phòng máy lạnh thật mạnh.`,
+    verdict: "Chai oriental huyền thoại nhất lịch sử — vani, trầm, da. 100 năm vẫn đẹp. Quá mature cho người trẻ thích mùi hiện đại.",
+    verdictShort: "HUYỀN THOẠI, ORIENTAL KINH ĐIỂN",
+    score: { scent: 9, uniqueness: 9.5, compliments: 7.5, value: 8, total: 8.5 },
+    vibes: [{ label: "Huyền thoại", icon: "👑" }, { label: "Oriental", icon: "🕌" }, { label: "Sang trọng", icon: "💎" }],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 32, summer: 12, fall: 78, winter: 95 },
+    dayNight: { day: 18, night: 88 },
+    topNotes: [{ name: "Cam chanh" }, { name: "Cam bergamot" }, { name: "Chanh" }, { name: "Cam quýt" }],
+    middleNotes: [{ name: "Iris" }, { name: "Hoắc hương" }, { name: "Cỏ hương bài" }, { name: "Hoa nhài" }, { name: "Hoa hồng" }],
+    baseNotes: [{ name: "Trầm hương" }, { name: "Vani" }, { name: "Da thuộc" }, { name: "Gỗ đàn hương" }, { name: "Đậu Tonka" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Oriental", value: 100, color: "#d4a017" },
+      { name: "Vani", value: 88, color: "#F5DEB3" },
+      { name: "Hổ phách", value: 78, color: "#e67e22" },
+      { name: "Hoa", value: 58, color: "#e91e63" },
+      { name: "Cam chanh", value: 48, color: "#f1c40f" }
+    ],
+    seoTitle: "Guerlain Shalimar EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Guerlain Shalimar EDP chính hãng: mùi oriental huyền thoại vani trầm, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Huyền thoại","Oriental","Kinh điển"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","90ml Fullbox"],
+    basePrice: 3200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "guerlain-mon-guerlain",
@@ -6368,51 +6370,53 @@ Nên mua khi mày cần một chai có bản sắc old-school rõ. Nếu mục t
   },
   {
     id: "memo-african-leather",
-    brandSlug: "memo-paris",
+    brandSlug: "memo",
     brand: "MEMO PARIS",
     name: "African Leather",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Alienor Massenet",
     gender: "unisex",
     image: "/images/products/memo-african-leather-main.jpg",
-    images: [{ url: "/images/products/memo-african-leather-main.jpg", source: "amazon", caption: "MEMO PARIS African Leather chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-African Leather là kiểu mùi spicy-leather hiện đại rất có lực: gia vị, da, saffron và nền ấm khô tạo nên cảm giác sang, mạnh và có chút hoang dã được kiểm soát. Nó không phải kiểu da thuộc bụi bặm quá khó dùng, mà là loại da được làm bóng, có độ luxury và rất hợp cho những dịp muốn hiện diện rõ.
+    images: [
+      { url: "/images/products/memo-african-leather-main.jpg", source: "fragram", caption: "Memo Paris African Leather Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai niche da-oud-quế hoang dã nhất — bạch đậu khấu, tiêu hồng, phong lữ, hoắc hương, quế, da thuộc, oud và hổ phách. Mạnh, ấm và rất cá tính.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của African Leather là nó tạo hình ảnh rất nhanh. Chỉ vài phút đầu là đã thấy vibe sang tối, cá tính và hơi khác người. Trong bối cảnh Việt Nam, đây là chai hợp với tối, tiệc, date hoặc khi muốn một mùi hương có cá tính lớn hơn nhóm designer thông thường.
+Nếu bạn thích mùi sạch nhẹ nhàng hoặc mùi ngọt dễ thương thì African Leather ở chiều ngược — đây là mùi da-oud-gia vị cực mạnh và hoang dã. Ai ghét oud hoặc da thuộc nên tránh. Ngoài ra, giá niche rất cao — chỉ nên mua khi đã test và chắc chắn hợp.
 
-## Diễn biến trên da
-Mở đầu là gia vị rất nổi bật, tạo cảm giác nóng, khô và sắc. Sau đó phần da và nền ấm xuất hiện, làm mùi hương sang hơn và dày hơn. Nó không quá nhiều tầng lớp cầu kỳ nhưng đường phát triển rất chắc, rất tự tin.
+### Có đáng tiền không?
 
-Drydown giữ được độ da thuộc ấm và chút nhựa thơm, tạo hiệu ứng ôm da nhưng vẫn có lực. Nếu da mày nóng, gia vị có thể lên rõ hơn và khiến tổng thể mạnh hơn khá nhiều. Nhược điểm là người thích mùi nhẹ, sạch hoặc ban ngày có thể thấy chai này quá đậm.
+African Leather thuộc phân khúc Memo niche — đắt. So với Tom Ford Tuscan Leather (cùng nhóm da), African Leather có oud và quế rõ hơn, hoang dã hơn. So với Ombré Leather, African Leather mạnh hơn và ít refined hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa rất mạnh. Đây là chai statement — ai xịt ai cũng biết.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-African Leather có hiệu năng tốt, lưu hương khoảng 7-9 giờ và tỏa hương khá trong giai đoạn đầu. Nó hợp nhất cho tối, máy lạnh, thời tiết mát, event hoặc những dịp muốn lên mùi có cá tính.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên tiết chế số lần xịt và tránh dùng giữa trưa nóng. Ưu điểm là sang, độc đáo và có sức nặng; nhược điểm là độ đa dụng thấp và không phải chai dành cho số đông.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai da-gia vị cao cấp, có chất riêng và đủ nổi bật để dùng trong các dịp đặc biệt, African Leather là lựa chọn đáng cân nhắc. Nó hợp người thích mùi đậm, mạnh và mang tính tuyên ngôn.
-
-Nên mua khi mày cần một chai buổi tối có khí chất. Nếu ưu tiên sự an toàn, thân thiện và dùng hằng ngày, đây không phải hướng đầu tiên.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa đông, dịp đặc biệt, buổi tối, sự kiện VIP. Xịt 1 nhát DUY NHẤT — tỏa cực mạnh. Đẹp nhất khi trời lạnh. Ở Việt Nam chỉ dùng tối mùa lạnh hoặc phòng máy lạnh cực mạnh.`,
+    verdict: "Chai da-oud hoang dã nhất — mạnh, ấm và cá tính. Bám 10h+. Hợp mùa đông. Quá mạnh cho mọi ngày.",
+    verdictShort: "DA OUD, HOANG DÃ, CỰC MẠNH",
+    score: { scent: 9.5, uniqueness: 9.5, compliments: 7.5, value: 7, total: 8.4 },
+    vibes: [{ label: "Hoang dã", icon: "🦁" }, { label: "Cá tính", icon: "🖤" }, { label: "Dịp đặc biệt", icon: "🥂" }],
+    longevity: 10,
+    sillage: 10,
+    seasons: { spring: 15, summer: 5, fall: 72, winter: 100 },
+    dayNight: { day: 8, night: 95 },
+    topNotes: [{ name: "Bạch đậu khấu" }, { name: "Phong lữ" }, { name: "Tiêu hồng" }],
+    middleNotes: [{ name: "Hoắc hương" }, { name: "Quế" }, { name: "Hoa hồng" }],
+    baseNotes: [{ name: "Da thuộc" }, { name: "Oud" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Da thuộc", value: 100, color: "#795548" },
+      { name: "Oud", value: 82, color: "#3e2723" },
+      { name: "Gia vị ấm", value: 72, color: "#e67e22" },
+      { name: "Gỗ", value: 58, color: "#8B4513" },
+      { name: "Hoa", value: 42, color: "#e91e63" }
+    ],
+    seoTitle: "Memo African Leather chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Memo African Leather chính hãng: mùi da oud hoang dã cực mạnh, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Hoang dã","Da thuộc"],
+    sizes: ["10ml Chiết","75ml Fullbox"],
+    basePrice: 6200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "guerlain-linstant-homme-edp",
