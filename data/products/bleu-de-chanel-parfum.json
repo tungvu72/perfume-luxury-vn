@@ -4,51 +4,86 @@
   "brand": "CHANEL",
   "name": "Bleu de Chanel",
   "subName": "Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Olivier Polge",
   "gender": "nam",
   "image": "/images/products/bleu-de-chanel-parfum-main.jpg",
   "images": [
     {
       "url": "/images/products/bleu-de-chanel-parfum-main.jpg",
-      "source": "amazon",
-      "caption": "CHANEL Bleu de Chanel chính hãng",
+      "source": "fragram",
+      "caption": "Chanel Bleu de Chanel Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nBleu de Chanel Parfum là phiên bản ấm, dày và sang hơn của DNA Bleu de Chanel. Nó vẫn giữ tinh thần sạch, nam tính và lịch thiệp quen thuộc, nhưng giảm độ tươi gắt để tăng cảm giác gỗ, chiều sâu và độ trưởng thành. Đây là kiểu mùi dành cho người thích sự chỉn chu cao cấp hơn là sự bùng nổ trẻ trung.\n\nĐiểm mạnh của bản Parfum là sự mượt và sang kín. Nó không cố gây ấn tượng bằng độ tỏa quá mạnh, mà bằng cảm giác hoàn thiện rất đẹp trên da. Trong bối cảnh Việt Nam, chai này hợp cho đi làm môi trường tốt, gặp gỡ lịch sự, tối nhẹ hoặc làm signature cho người thích phong cách trưởng thành.\n\n## Diễn biến trên da\nMở đầu vẫn có chút tươi sáng quen thuộc, nhưng nhanh chóng nhường chỗ cho nền gỗ ấm và mượt hơn. So với bản EDP, Parfum ít sắc hơn, ít “blue” hơn và thiên về sự tròn, dày.\n\nDrydown là nơi nó phát huy đẹp nhất: gỗ sạch, ấm, nam tính và rất gọn. Nó không tạo cảm giác quá ồn ào nhưng rất đáng tin. Nhược điểm là ai thích cảm giác sáng, bùng nổ hơn có thể thấy bản này hơi kín.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nBleu de Chanel Parfum có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, đi gặp đối tác, tối nhẹ, sự kiện gọn gàng hoặc những lúc cần mùi hương lịch thiệp và ít rủi ro.\n\nỞ Việt Nam, chai này dùng khá ổn quanh năm. Ưu điểm là sang, mượt và rất an toàn theo nghĩa tích cực; nhược điểm là độ nổi bật không quá lớn nếu mày thích statement scent.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích Bleu de Chanel nhưng muốn phiên bản trưởng thành, mượt và sang hơn, bản Parfum rất đáng cân nhắc. Nó hợp người thích sự chỉn chu, nam tính kín và độ wearable cao.\n\nNên mua khi mày cần một chai signature lịch thiệp. Nếu mày muốn độ tươi sáng linh hoạt hơn, bản EDP thường dễ trúng hơn.",
-  "article": "(Chờ Coder viết bài)",
+  "description": "Phiên bản trưởng thành nhất của Bleu de Chanel — gỗ ấm, mượt và sang hơn bản EDP. Ít fresh hơn nhưng bù lại bằng chiều sâu và sự hoàn thiện cao cấp.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích cảm giác tươi sáng, bùng nổ của Bleu de Chanel EDT hay EDP thì bản Parfum sẽ hơi kín và thiếu năng lượng so với kỳ vọng. Đây là bản trưởng thành nhất — ít citrus hơn, ít \"blue\" hơn. Ai dưới 25 tuổi thích mùi trẻ trung, dynamic cũng sẽ thấy Parfum hơi già so với mình. Ngoài ra, hiệu năng tỏa vừa phải — không thuộc nhóm beast mode.\n\n### Có đáng tiền không?\n\nBleu Parfum đắt hơn bản EDP khoảng 15-20% nhưng cho cảm giác hoàn thiện và sang hơn rõ. So với Bleu EDP, Parfum mượt hơn, ấm hơn và có chiều sâu hơn nhưng ít tươi hơn. So với Dior Sauvage Elixir cùng phân khúc \"bản cao nhất\", Bleu Parfum thanh lịch hơn và ít nặng hơn. Đây là chai hợp làm signature lâu dài vì rất ít khi nào sai. Nên mua chiết 10ml thử trước nếu đang phân vân giữa EDP và Parfum.\n\n### Nên dùng khi nào?\n\nDùng được quanh năm nhưng đẹp nhất mùa thu đông và trời mát. Hợp đi làm, gặp khách, dự tiệc hoặc bất kỳ dịp nào cần hình ảnh lịch thiệp. Xịt 2-3 nhát: 1 sau gáy, 1 trước ngực, 1 cổ tay. Ở Sài Gòn dùng ban ngày trong phòng máy lạnh rất đẹp. Đây là kiểu mùi an toàn cao — gần như không bao giờ sai.",
+  "verdict": "Bản hoàn thiện nhất của Bleu de Chanel — mượt, ấm và sang. Hợp người thích phong cách trưởng thành, lịch thiệp. Ít tươi hơn EDP nhưng bù lại bằng chiều sâu.",
+  "verdictShort": "MƯỢT, ẤM, HOÀN THIỆN",
   "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
+    "scent": 9.0,
+    "uniqueness": 7.8,
+    "compliments": 8.8,
+    "value": 8.0,
+    "total": 8.4
   },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
+  "vibes": [
+    { "label": "Lịch thiệp", "icon": "🎩" },
+    { "label": "Trưởng thành", "icon": "🖤" },
+    { "label": "Đa dụng", "icon": "✅" }
+  ],
+  "longevity": 7,
+  "sillage": 7,
   "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
+    "spring": 72,
+    "summer": 45,
+    "fall": 85,
+    "winter": 88
   },
   "dayNight": {
-    "day": 0,
-    "night": 0
+    "day": 65,
+    "night": 72
   },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
+  "topNotes": [
+    { "name": "Vỏ chanh" },
+    { "name": "Cam bergamot" },
+    { "name": "Bạc hà" },
+    { "name": "Ngải cứu" }
+  ],
+  "middleNotes": [
+    { "name": "Oải hương" },
+    { "name": "Phong lữ" },
+    { "name": "Dứa" },
+    { "name": "Hương xanh" }
+  ],
+  "baseNotes": [
+    { "name": "Gỗ đàn hương" },
+    { "name": "Gỗ tuyết tùng" },
+    { "name": "Amberwood" },
+    { "name": "Iso E Super" },
+    { "name": "Đậu Tonka" }
+  ],
+  "accords": [
+    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
+    { "name": "Cam chanh", "value": 82, "color": "#f1c40f" },
+    { "name": "Thơm thảo mộc", "value": 75, "color": "#2c7a4b" },
+    { "name": "Hổ phách", "value": 62, "color": "#d4a017" },
+    { "name": "Gia vị tươi", "value": 55, "color": "#4CAF50" }
+  ],
+  "seoTitle": "Bleu de Chanel Parfum chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Bleu de Chanel Parfum chính hãng: mùi gỗ ấm sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
   "tags": [
     "Nam",
-    "NEEDS_SOURCE"
+    "Lịch thiệp",
+    "Đa dụng",
+    "Cao cấp"
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "150ml Fullbox"
+  ],
+  "basePrice": 4500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
