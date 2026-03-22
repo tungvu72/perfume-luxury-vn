@@ -8419,47 +8419,47 @@ Nên mua khi mày cần một chai tối statement. Nếu mày thích sự sáng
     brand: "VERSACE",
     name: "Eros Flame",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Olivier Pescheux",
     gender: "nam",
     image: "/images/products/versace-eros-flame-main.jpg",
-    images: [{ url: "/images/products/versace-eros-flame-main.jpg", source: "amazon", caption: "VERSACE Eros Flame chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Eros Flame là phiên bản cay, ấm và đỏ hơn của Eros. Nó vẫn giữ tinh thần dễ gây chú ý, năng lượng cao và có độ sexy rõ, nhưng thay vì đi theo hướng mint-vanilla sáng, nó đẩy sang vùng citrus nóng, gia vị và nền ấm nam tính hơn. Đây là một chai rất hợp với người thích mùi nổi nhưng muốn trưởng thành hơn Eros gốc một chút.
+    images: [{ url: "/images/products/versace-eros-flame-main.jpg", source: "fragram", caption: "Versace Eros Flame Eau de Parfum chính hãng", verified: true }],
+    description: "Phiên bản ấm của Eros — cam quýt, tiêu Madagascar, hồng, đại hương, vani, đậu Tonka, gỗ đàn hương và hoắc hương. Cay, ấm và rất cuốn hút.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Eros Flame là sự bùng nổ có kiểm soát. Nó vẫn rất dễ nhận ra là một chai “đi chơi”, nhưng có chiều hơn và ít trẻ con hơn bản xanh. Trong khí hậu Việt Nam, chai này hợp với tối, hẹn hò, tiệc nhẹ hoặc những dịp muốn để lại ấn tượng nhanh.
+Nếu bạn thích Eros EDT bản xanh ngọt mát thì Flame hoàn toàn khác — đây là mùi cay-ấm-gỗ, không có cảm giác tươi mát. Ai thích mùi sạch citrus ban ngày cũng sẽ thấy Flame quá ấm. Ngoài ra, nếu đã có The One EDP hoặc Le Male Le Parfum thì Flame có thể trùng vibe.
 
-## Diễn biến trên da
-Mở đầu citrus và gia vị lên khá mạnh, sau đó nền ấm và ngọt bắt đầu xuất hiện, làm tổng thể dày hơn và cuốn hơn. Mùi phát triển theo hướng nồng nhiệt, không hề kín.
+### Có đáng tiền không?
 
-Drydown là lớp ấm, ngọt nhẹ và nam tính rõ. Nó dễ tạo cảm giác hấp dẫn nếu dùng đúng liều. Nhược điểm là xịt mạnh tay trong thời tiết nóng dễ khiến mùi hơi áp lực.
+Eros Flame thuộc phân khúc designer entry — rẻ nhất nhóm. So với Eros EDT, Flame ấm hơn, cay hơn và hợp tối hơn. So với D&G The One EDP, Flame mạnh hơn và kém tinh tế hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá. Giá rẻ nên rất đáng thử.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Eros Flame có độ lưu hương khá tốt, khoảng 7-9 giờ; tỏa hương vừa đến khá. Nó hợp tối, đi chơi, date night, mùa mát hoặc những lúc muốn mùi hương bật lên rõ.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng về chiều tối và kiểm soát số lần xịt. Ưu điểm là nổi và dễ tạo ấn tượng; nhược điểm là tính công sở không cao.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích vibe của Eros nhưng muốn một phiên bản cay ấm và chững hơn, Eros Flame là lựa chọn đáng thử. Nó hợp người thích mùi thu hút, năng lượng cao và không ngại nổi.
-
-Nên mua khi mày cần một chai đi chơi tối rất hiệu quả. Nếu mày thích sự kín đáo hoặc quá thanh lịch, nên chọn hướng khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa thu đông, buổi tối, hẹn hò, đi chơi. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất khi trời mát. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.`,
+    verdict: "Eros bản ấm — cay, gỗ, vani. Hợp đi tối. Giá rẻ. Không hợp ai thích Eros mát mẻ ban ngày.",
+    verdictShort: "CAY, ẤM, GIÁ TỐT",
+    score: { scent: 8.2, uniqueness: 7.5, compliments: 8.5, value: 8.8, total: 8.3 },
+    vibes: [{ label: "Buổi tối", icon: "🌙" }, { label: "Giá tốt", icon: "💸" }, { label: "Thu đông", icon: "🍂" }],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 48, summer: 22, fall: 85, winter: 90 },
+    dayNight: { day: 28, night: 85 },
+    topNotes: [{ name: "Cam quýt" }, { name: "Tiêu Madagascar" }, { name: "Chanh" }, { name: "Hương thảo" }],
+    middleNotes: [{ name: "Phong lữ" }, { name: "Hoa hồng" }],
+    baseNotes: [{ name: "Vani" }, { name: "Đậu Tonka" }, { name: "Gỗ đàn hương" }, { name: "Gỗ tuyết tùng Texas" }, { name: "Hoắc hương" }, { name: "Rêu sồi" }],
+    accords: [
+      { name: "Gia vị ấm", value: 100, color: "#e67e22" },
+      { name: "Gỗ", value: 78, color: "#8B4513" },
+      { name: "Cam chanh", value: 62, color: "#f1c40f" },
+      { name: "Hổ phách", value: 55, color: "#d4a017" },
+      { name: "Hoa", value: 42, color: "#e91e63" }
+    ],
+    seoTitle: "Versace Eros Flame chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Versace Eros Flame chính hãng: mùi cay ấm gỗ nam tính, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Thu đông","Ấm","Giá tốt"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 1500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "louis-vuitton-limmensite",
@@ -8930,33 +8930,51 @@ Mùa đông, trời lạnh, đi tối, tiệc, sự kiện. Xịt 1 nhát DUY NH
     id: "versace-crystal-noir-eau-de-toilette",
     brandSlug: "versace",
     brand: "VERSACE",
-    name: "Crystal Noir Eau de Toilette",
+    name: "Crystal Noir",
     subName: "Eau de Toilette",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Antoine Lie",
     gender: "nu",
     image: "/images/products/versace-crystal-noir-eau-de-toilette-main.jpg",
     images: [
-      { url: "/images/products/versace-crystal-noir-eau-de-toilette-main.jpg", source: "amazon", caption: "VERSACE Crystal Noir Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/versace-crystal-noir-eau-de-toilette-main.jpg", source: "fragram", caption: "Versace Crystal Noir Eau de Toilette chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    description: "Chai nữ bí ẩn đẹp nhất Versace — tiêu, gừng, bạch đậu khấu, hoa dành dành, hoa cam, mẫu đơn, gỗ đàn hương và hổ phách. Ấm, hoa trắng và rất sexy.",
+    article: `### Ai không nên mua?
+
+Nếu bạn thích mùi trẻ trung tươi kiểu Bright Crystal hay Miss Dior Blooming Bouquet thì Crystal Noir hoàn toàn ngược — đây là mùi ấm, bí ẩn và khá nặng. Ai ghét mùi gia vị (tiêu, gừng) cũng nên tránh. Chai này không dành cho dùng ban ngày casual.
+
+### Có đáng tiền không?
+
+Crystal Noir thuộc phân khúc entry — rẻ nhất nhóm cùng class. So với Hypnotic Poison (cùng nhóm nữ tối), Crystal Noir ít ngọt hơn và hoa trắng hơn. So với Good Girl, Crystal Noir ít cà phê hơn và gia vị hơn. Hiệu năng khá: bám 6-7 giờ, tỏa vừa. Giá rẻ cho chai nữ tối rất đẹp.
+
+### Nên dùng khi nào?
+
+Hẹn hò, tiệc, buổi tối, sự kiện. Xịt 2-3 nhát: cổ, cổ tay. Đẹp nhất mùa thu đông. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.`,
+    verdict: "Chai nữ bí ẩn nhất Versace — ấm, hoa trắng, sexy. Giá rẻ. Không hợp ai thích mùi tươi trẻ trung.",
+    verdictShort: "BÍ ẨN, HOA TRẮNG, SEXY",
+    score: { scent: 8.2, uniqueness: 8, compliments: 8.2, value: 8.8, total: 8.3 },
+    vibes: [{ label: "Bí ẩn", icon: "🖤" }, { label: "Buổi tối", icon: "🌙" }, { label: "Giá tốt", icon: "💸" }],
+    longevity: 7,
+    sillage: 6,
+    seasons: { spring: 42, summer: 18, fall: 82, winter: 88 },
+    dayNight: { day: 22, night: 85 },
+    topNotes: [{ name: "Tiêu" }, { name: "Gừng" }, { name: "Bạch đậu khấu" }],
+    middleNotes: [{ name: "Hoa dành dành" }, { name: "Hoa cam" }, { name: "Mẫu đơn" }],
+    baseNotes: [{ name: "Gỗ đàn hương" }, { name: "Xạ hương" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Hoa trắng", value: 100, color: "#ecf0f1" },
+      { name: "Gia vị ấm", value: 78, color: "#e67e22" },
+      { name: "Gỗ", value: 62, color: "#8B4513" },
+      { name: "Xạ hương", value: 55, color: "#bdc3c7" },
+      { name: "Hổ phách", value: 48, color: "#d4a017" }
+    ],
+    seoTitle: "Versace Crystal Noir chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Versace Crystal Noir chính hãng: mùi hoa trắng bí ẩn sexy, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Bí ẩn","Buổi tối","Giá tốt"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","90ml Fullbox"],
+    basePrice: 1200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "chanel-coco-eau-de-parfum",

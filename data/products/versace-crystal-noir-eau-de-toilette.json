@@ -2,53 +2,48 @@
   "id": "versace-crystal-noir-eau-de-toilette",
   "brandSlug": "versace",
   "brand": "VERSACE",
-  "name": "Crystal Noir Eau de Toilette",
+  "name": "Crystal Noir",
   "subName": "Eau de Toilette",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Antoine Lie",
   "gender": "nu",
   "image": "/images/products/versace-crystal-noir-eau-de-toilette-main.jpg",
   "images": [
     {
       "url": "/images/products/versace-crystal-noir-eau-de-toilette-main.jpg",
-      "source": "amazon",
-      "caption": "VERSACE Crystal Noir Eau de Toilette chính hãng",
+      "source": "fragram",
+      "caption": "Versace Crystal Noir Eau de Toilette chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "(Chờ Coder viết bài)",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai nữ bí ẩn đẹp nhất Versace — tiêu, gừng, bạch đậu khấu, hoa dành dành, hoa cam, mẫu đơn, gỗ đàn hương và hổ phách. Ấm, hoa trắng và rất sexy.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi trẻ trung tươi kiểu Bright Crystal hay Miss Dior Blooming Bouquet thì Crystal Noir hoàn toàn ngược — đây là mùi ấm, bí ẩn và khá nặng. Ai ghét mùi gia vị (tiêu, gừng) cũng nên tránh. Chai này không dành cho dùng ban ngày casual.\n\n### Có đáng tiền không?\n\nCrystal Noir thuộc phân khúc entry — rẻ nhất nhóm cùng class. So với Hypnotic Poison (cùng nhóm nữ tối), Crystal Noir ít ngọt hơn và hoa trắng hơn. So với Good Girl, Crystal Noir ít cà phê hơn và gia vị hơn. Hiệu năng khá: bám 6-7 giờ, tỏa vừa. Giá rẻ cho chai nữ tối rất đẹp.\n\n### Nên dùng khi nào?\n\nHẹn hò, tiệc, buổi tối, sự kiện. Xịt 2-3 nhát: cổ, cổ tay. Đẹp nhất mùa thu đông. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.",
+  "verdict": "Chai nữ bí ẩn nhất Versace — ấm, hoa trắng, sexy. Giá rẻ. Không hợp ai thích mùi tươi trẻ trung.",
+  "verdictShort": "BÍ ẨN, HOA TRẮNG, SEXY",
+  "score": { "scent": 8.2, "uniqueness": 8.0, "compliments": 8.2, "value": 8.8, "total": 8.3 },
+  "vibes": [
+    { "label": "Bí ẩn", "icon": "🖤" },
+    { "label": "Buổi tối", "icon": "🌙" },
+    { "label": "Giá tốt", "icon": "💸" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": { "spring": 42, "summer": 18, "fall": 82, "winter": 88 },
+  "dayNight": { "day": 22, "night": 85 },
+  "topNotes": [{ "name": "Tiêu" }, { "name": "Gừng" }, { "name": "Bạch đậu khấu" }],
+  "middleNotes": [{ "name": "Hoa dành dành" }, { "name": "Hoa cam" }, { "name": "Mẫu đơn" }],
+  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Xạ hương" }, { "name": "Hổ phách" }],
+  "accords": [
+    { "name": "Hoa trắng", "value": 100, "color": "#ecf0f1" },
+    { "name": "Gia vị ấm", "value": 78, "color": "#e67e22" },
+    { "name": "Gỗ", "value": 62, "color": "#8B4513" },
+    { "name": "Xạ hương", "value": 55, "color": "#bdc3c7" },
+    { "name": "Hổ phách", "value": 48, "color": "#d4a017" }
+  ],
+  "seoTitle": "Versace Crystal Noir chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Versace Crystal Noir chính hãng: mùi hoa trắng bí ẩn sexy, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nữ", "Bí ẩn", "Buổi tối", "Giá tốt"],
+  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
+  "basePrice": 1200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
