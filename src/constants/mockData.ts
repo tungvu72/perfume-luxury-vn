@@ -1048,60 +1048,43 @@ Dior Homme Intense thuộc phân khúc designer cao cấp — tương đương B
     images: [
       { url: "/images/products/valentino-uomo-born-in-roma-intense-main.jpg", source: "fragram", caption: "Valentino Uomo Born in Roma Intense chính hãng", verified: true }
     ],
-    description: "Đây là kiểu mùi nam ngọt ấm, hiện đại và dễ gây thiện cảm. Hợp đi tối, hẹn hò hoặc người thích mùi nam trẻ mà vẫn lịch sự. Nếu bạn ghét vanilla ngọt, bản này có thể hơi nhiều.",
-    productCopy: `Valentino Uomo Born In Roma Intense EDP là kiểu nước hoa nam đi theo hướng ngọt ấm hiện đại, dễ thích và rất hợp với thị hiếu ngày nay. Mùi mở đầu mềm, hơi ngọt và có cảm giác sạch, sau đó dần chuyển sang lớp vanilla dày hơn với nền gỗ ấm phía dưới. Tổng thể cho cảm giác trẻ trung, mượt và khá cuốn theo kiểu gần gũi.
+    description: "Phiên bản đậm của Uomo Born In Roma — vanilla, lavender và vetiver ngọt ấm hơn. Rất hợp hẹn hò và đi tối. Trendy, dễ được khen.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của chai này là nó vừa sexy vừa dễ dùng. Nó không quá ngọt như một số chai party scent, nhưng cũng không quá kín như những mùi formal. Nhờ đó, Uomo Born In Roma Intense rất hợp với các buổi hẹn hò, đi chơi tối, ăn tối cuối tuần hoặc những lúc muốn thơm theo kiểu hiện đại và gợi cảm vừa đủ.
+Nếu bạn ghét vanilla ngọt thì Uomo BIRI hoàn toàn không hợp — vanilla ở đây rất rõ từ đầu đến cuối. Ai thích mùi sạch sẽ, khô hoặc kiểu văn phòng nghiêm túc cũng nên tránh vì chai này thiên về ngọt ấm party. Người muốn mùi thật cá tính riêng kiểu niche sẽ thấy BIRI hơi an toàn và hơi giống nhiều chai ngọt hiện đại khác.
 
-Khi lên da, mùi phát triển theo hướng ngày càng mềm và ấm hơn. Vanilla đóng vai trò khá rõ, nhưng được giữ trong mức dễ chịu nhờ phần nền gỗ và cảm giác sạch ở phía trên. Điều này giúp chai nước hoa có độ nịnh mũi cao, đặc biệt với người xung quanh trong khoảng cách gần.
+### Có đáng tiền không?
 
-Về hiệu năng, Valentino Uomo Born In Roma Intense EDP có độ lưu hương tốt và tỏa hương khá ổn. Trong điều kiện Việt Nam, nó sẽ đẹp nhất vào buổi tối, trời mát hoặc không gian máy lạnh. Nếu dùng ban ngày, chỉ cần tiết chế một chút là đủ để giữ độ sang mà không bị quá dày.
+Uomo BIRI thuộc phân khúc designer tầm trung-cao — đắt hơn Afnan 9PM nhưng rẻ hơn Sauvage Elixir. So với bản Donna BIRI (nữ cùng dòng), Uomo phiên bản nam hướng lavender-vetiver nhiều hơn. So với JPG Ultra Male cùng nhóm ngọt, Uomo BIRI mượt hơn và ít ngọt gắt hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá mạnh. Với người trẻ thích mùi trendy mà vẫn có chất lượng, đây rất đáng.
 
-Nếu bạn muốn một chai nước hoa nam vừa trendy, vừa dễ được khen, vừa có chất quyến rũ hiện đại, đây là lựa chọn rất đáng cân nhắc. Nó không quá khác người, nhưng lại làm rất tốt nhiệm vụ khiến bạn trở nên thơm, cuốn và dễ được nhớ đến.`,
-    article: `Tại Maison de SON, Uomo Born In Roma Intense là một trong những chai nước hoa nam hiện đại dễ được thích nhanh. Nó ngọt ấm, có vanilla rõ nhưng vẫn giữ được cảm giác sạch sẽ vừa đủ để không quá nặng nề.
+### Nên dùng khi nào?
 
-### Nguồn gốc và xuất xứ
-Đây là sản phẩm thuộc Valentino, thương hiệu Ý nổi tiếng với hình ảnh thời trang trẻ và sang. Dòng Born In Roma hướng tới sự hiện đại và dễ tiếp cận hơn với số đông.
-
-### Ra mắt khi nào?
-Uomo Born In Roma Intense ra mắt năm 2023 như một phiên bản đậm hơn và thiên tối hơn so với bản gốc.
-
-### Câu chuyện ra đời
-Sau khi Born In Roma được yêu thích nhờ sự trẻ trung, bản Intense ra đời để tăng độ quyến rũ và độ bám, phục vụ tốt hơn cho đi tối và hẹn hò.
-
-### Mùi hương mang lại cảm giác gì?
-Vanilla nổi khá rõ, đi cùng lavender và vetiver tạo cảm giác ngọt ấm, hiện đại và dễ tạo thiện cảm. Nó không quá phức tạp nhưng rất hợp gu số đông.
-
-### Khi nào nên dùng?
-- Hẹn hò, đi tối, trời mát
-- Hợp người thích mùi nam trẻ nhưng vẫn lịch sự
-- Không hợp lắm nếu bạn ghét vanilla ngọt
-
-### Nhận xét của Maison de SON
-Đây là kiểu chai thơm ngay, dễ thích ngay. Điểm yếu là cá tính không quá sâu, nhưng bù lại hiệu quả thực chiến rất tốt.`,
-    verdict: "Mùi này ngọt ấm, hiện đại và dễ mến. Hợp đi tối hoặc lúc muốn tạo thiện cảm nhanh. Nếu bạn ghét vanilla, bản này hơi ngọt.",
-    verdictShort: "NGỌT ẤM, HIỆN ĐẠI, DỄ MẾN",
-    score: { scent: 8.7, uniqueness: 7.8, compliments: 9.1, value: 8.3, total: 8.5 },
-    vibes: [{ label: "Hẹn hò", icon: "❤️" }, { label: "Hiện đại", icon: "⚡" }, { label: "Buổi tối", icon: "🌙" }],
+Hẹn hò, đi chơi tối, tụ tập cuối tuần, bar. Xịt 2 nhát: 1 sau gáy, 1 cổ tay. Đẹp nhất trời mát dưới 25°C — mùa đông hoặc mùa mưa. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh. Đừng dùng đi làm ban ngày.`,
+    verdict: "Mùi ngọt ấm hiện đại, trendy và dễ gây thiện cảm. Hợp hẹn hò, đi tối. Không hợp ai ghét vanilla hoặc cần mùi văn phòng.",
+    verdictShort: "NGỌT ẤM, TRENDY, DỄ MẾN",
+    score: { scent: 8.8, uniqueness: 7.9, compliments: 9.1, value: 8.4, total: 8.5 },
+    vibes: [{ label: "Hẹn hò", icon: "❤️" }, { label: "Buổi tối", icon: "🌙" }, { label: "Hiện đại", icon: "✨" }],
     longevity: 8,
-    sillage: 8,
-    seasons: { spring: 55, summer: 20, fall: 88, winter: 94 },
-    dayNight: { day: 34, night: 96 },
-    topNotes: [{ name: "Vanilla" }],
-    middleNotes: [{ name: "Lavender" }],
-    baseNotes: [{ name: "Vetiver" }],
+    sillage: 7,
+    seasons: { spring: 52, summer: 28, fall: 88, winter: 92 },
+    dayNight: { day: 34, night: 92 },
+    topNotes: [{ name: "Vani" }],
+    middleNotes: [{ name: "Oải hương" }],
+    baseNotes: [{ name: "Cỏ hương bài" }],
     accords: [
-      { name: "Ngọt", value: 80, color: "#8B0000" },
-      { name: "Vanilla", value: 72, color: "#f5deb3" },
-      { name: "Thơm thảo mộc", value: 34, color: "#2c7a4b" },
-      { name: "Gỗ", value: 24, color: "#8B4513" }
+      { name: "Vani", value: 100, color: "#f5deb3" },
+      { name: "Ngọt", value: 82, color: "#8B0000" },
+      { name: "Gia vị ấm", value: 62, color: "#e67e22" },
+      { name: "Thơm thảo mộc", value: 52, color: "#2c7a4b" },
+      { name: "Gỗ", value: 42, color: "#8B4513" }
     ],
-    seoTitle: "Valentino Uomo Born In Roma Intense giá bao nhiêu? Review",
-    metaDescription: "Đánh giá Valentino Uomo Born In Roma Intense chính hãng: mùi ngọt gia vị khói, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-    tags: ["Nam","Hẹn hò","Buổi tối","Cao cấp"],
+    seoTitle: "Valentino Uomo Born In Roma Intense chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Valentino Uomo Born In Roma Intense chính hãng: mùi vanilla lavender trendy, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Hẹn hò","Buổi tối","Hiện đại"],
     sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
     basePrice: 2950000,
-    shopeeOffers: []
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "jpg-le-beau-le-parfum",
@@ -3786,47 +3769,47 @@ Nên mua khi mày muốn một chai signature ít rủi ro, dễ tạo thiện c
     brand: "DIOR",
     name: "Dior Addict",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "François Demachy",
     gender: "nu",
     image: "/images/products/dior-addict-edp-main.jpg",
-    images: [{ url: "/images/products/dior-addict-edp-main.jpg", source: "amazon", caption: "DIOR Dior Addict chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Dior Addict EDP là kiểu floral oriental đậm, tối và rất gợi cảm theo phong cách nữ tính trưởng thành. Nó không đi theo hướng hoa trong trẻo hay ngọt dễ thương, mà thiên về vanilla, hoa trắng và độ dày rất rõ trên da. Đây là một mùi hương có thần thái mạnh, hợp với người thích sự hiện diện thay vì chỉ thơm nhẹ nhàng.
+    images: [{ url: "/images/products/dior-addict-edp-main.jpg", source: "fragram", caption: "Dior Addict Eau de Parfum chính hãng", verified: true }],
+    description: "Chai nữ Dior đậm nhất — hoa cam, nhài sambac và vani Bourbon. Gợi cảm, ấm và có chiều sâu. Hợp đi tối và hẹn hò.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Dior Addict là cá tính. Nó cho cảm giác sang, hơi dramatic và có màu sắc rất riêng, khác với nhiều chai nữ hiện đại quá an toàn. Ở Việt Nam, chai này hợp hơn cho buổi tối, không gian điều hòa, đi tiệc hoặc người thật sự thích mùi hương đậm và có bản lĩnh.
+Nếu bạn thích mùi nhẹ nhàng, tươi trẻ kiểu Chance Eau Tendre hay Chloé EDP thì Dior Addict EDP quá đậm và quá sexy cho gu đó. Đây là mùi vani hoa trắng rất rõ — ấm, ngọt và có trọng lượng. Ai dùng ban ngày đi văn phòng sẽ thấy hơi nhiều, đặc biệt khi trời nóng.
 
-## Diễn biến trên da
-Mở đầu có sắc hoa khá rõ, nhưng rất nhanh vanilla và nền ấm bắt đầu kéo tổng thể xuống sâu hơn. Mùi phát triển theo hướng dày dần, mềm dần và gợi cảm hơn khi ngồi sát da.
+### Có đáng tiền không?
 
-Drydown là lớp vanilla - hoa trắng ấm, mịn và khá quyến rũ. Nó không quá gourmand, nhưng cũng không phải floral thuần. Nhược điểm là nếu dùng nặng tay trong thời tiết nóng, mùi dễ trở nên hơi dày và áp lực.
+Dior Addict thuộc phân khúc Dior — giá tương đương Miss Dior EDP. So với Black Opium, Dior Addict ít cà phê hơn nhưng vani nồng hơn. So với Coco Noir, Dior Addict ngọt hơn và ít hoắc hương hơn. Hiệu năng rất tốt: bám 7-8 giờ, tỏa mạnh. Đây là chai tạo dấu ấn mạnh — xịt 1 lần là người khác nhớ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Dior Addict EDP có hiệu năng tốt, thường 7-9 giờ lưu hương; tỏa hương vừa đến khá. Nó hợp tối, hẹn hò, tiệc, sự kiện hoặc những dịp muốn mùi hương có độ gợi cảm rõ rệt.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này đẹp nhất khi dùng buổi tối hoặc phòng lạnh. Ưu điểm là sang và rất có cá tính; nhược điểm là không phải kiểu mùi dễ blind buy cho số đông.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai nữ đậm, sang và sexy theo kiểu trưởng thành, Dior Addict EDP là cái tên rất đáng thử. Nó hợp người thích vanilla hoa trắng có chiều sâu và không ngại mùi hương có trọng lượng.
-
-Nên mua khi mày cần một chai buổi tối thật nổi. Nếu mày thích mùi nhẹ, airy hoặc quá dễ dùng ban ngày, đây không phải hướng ưu tiên.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Hẹn hò, đi ăn tối, tiệc, dịp đặc biệt. Xịt 1-2 nhát: cổ, cổ tay — tỏa rất mạnh nên tiết chế. Đẹp nhất mùa thu đông, trời mát. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.`,
+    verdict: "Mùi vani hoa trắng đậm, gợi cảm và sang. Hợp đi tối, hẹn hò. Không hợp ai thích mùi nhẹ nhàng ban ngày.",
+    verdictShort: "VANI, GỢI CẢM, ĐẬM",
+    score: { scent: 8.8, uniqueness: 8.2, compliments: 8.8, value: 8, total: 8.5 },
+    vibes: [{ label: "Hẹn hò", icon: "❤️" }, { label: "Buổi tối", icon: "🌙" }, { label: "Gợi cảm", icon: "🔥" }],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 48, summer: 22, fall: 88, winter: 92 },
+    dayNight: { day: 28, night: 92 },
+    topNotes: [{ name: "Lá quýt" }, { name: "Hoa cam" }],
+    middleNotes: [{ name: "Hoa nhài sambac" }],
+    baseNotes: [{ name: "Vani Bourbon" }],
+    accords: [
+      { name: "Vani", value: 100, color: "#F5DEB3" },
+      { name: "Hoa trắng", value: 82, color: "#ecf0f1" },
+      { name: "Ngọt", value: 72, color: "#8B0000" },
+      { name: "Cam chanh", value: 55, color: "#f1c40f" },
+      { name: "Ấm", value: 48, color: "#e67e22" }
+    ],
+    seoTitle: "Dior Addict EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Dior Addict EDP chính hãng: mùi vani hoa trắng gợi cảm, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Hẹn hò","Buổi tối","Gợi cảm"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 3200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "ysl-libre-le-parfum",
