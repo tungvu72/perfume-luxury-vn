@@ -4115,48 +4115,47 @@ Hacivat thuộc phân khúc niche cao cấp Nishane — đắt hơn Mancera như
     subName: "Eau de Parfum",
     perfumer: "Daniela Andrier",
     gender: "nam",
-    image: "/images/products/prada-lhomme-intense-bottle.jpg",
+    image: "/images/products/prada-lhomme-intense-main.jpg",
     images: [
-      { url: "/images/products/prada-lhomme-intense-bottle.jpg", source: "studio", caption: "Ảnh sản phẩm Prada L'Homme Intense (chai và hộp)" },
-      { url: "/images/products/prada-lhomme-intense-main.jpg", source: "studio", caption: "Ảnh chai Prada L'Homme Intense" }
+      { url: "/images/products/prada-lhomme-intense-main.jpg", source: "fragram", caption: "Prada L'Homme Intense Eau de Parfum chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Prada L'Homme Intense là bản tối, dày và gợi cảm hơn của Prada L'Homme gốc. Nếu bản thường giống một chiếc sơ mi trắng sạch sẽ thì bản Intense giống một bộ suit tối màu trong không gian ánh đèn vàng. Iris vẫn là linh hồn chính, nhưng lần này được phủ lên bởi amber, da và đậu tonka, khiến tổng thể ấm hơn, dày hơn và có độ buổi tối rõ hơn.
+    description: "Chai iris nam sang nhất — iris, hổ phách, hoắc hương, đậu Tonka, da thuộc và gỗ đàn hương. Phấn, ấm và rất chỉnh tề. Kiểu khác biệt.",
+    article: `### Ai không nên mua?
 
-Điểm hấp dẫn của chai này là nó vẫn giữ được cảm giác sạch sang đặc trưng của Prada, nhưng thêm chiều sâu để phù hợp các dịp trang trọng hoặc hẹn hò. Nó không ngọt theo hướng trẻ, cũng không da thuộc quá gắt; thay vào đó là kiểu ấm, mượt, tinh tế và có khí chất trưởng thành. Trong phân khúc designer nam mặc suit đi tối, đây là một option rất đáng giá.
+Nếu bạn thích mùi sweet compliment-getter kiểu BIRI hoặc Most Wanted thì Prada L'Homme Intense quá phấn và quá iris cho gu đó. Ai thích mùi sạch tươi citrus cũng sẽ thấy chai này khô. Đây là chai "acquired taste" — phải thử vài lần mới thấy đẹp.
 
-## Diễn biến trên da
-Mở đầu vẫn có cảm giác iris sạch quen thuộc nhưng nhanh chóng chuyển sang nền amber dày và da mềm. Chính phần da này không quá bụi hay khô mà được làm mượt, nên mùi lên rất sang và liền mạch. Trên da ấm, phần tonka và amber nổi rõ hơn, tạo cảm giác ấm áp và rất ôm da.
+### Có đáng tiền không?
 
-Drydown là lúc Prada L'Homme Intense đẹp nhất: phấn sạch, da mềm, chút ngọt ấm và cực kỳ chỉn chu. Nó mang nét formal và có phần quiet luxury, không ồn nhưng người tinh mũi sẽ nhận ra chất lượng. Điểm trừ là nếu mày thích bản gốc vì sự sáng và dễ dùng ban ngày, bản Intense có thể hơi nặng hơn nhu cầu.
+L'Homme Intense thuộc phân khúc designer cao cấp. So với Dior Homme Intense (cùng nhóm iris), Prada hơi khô hơn và da hơn. So với bản L'Homme EDT, Intense ấm hơn, đậm hơn và hợp tối hơn. Hiệu năng khá: bám 7 giờ, tỏa vừa. Đây là chai cho người hiểu iris — rất tinh tế.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Hiệu năng của bản Intense tốt hơn bản thường: lưu hương khoảng 7-9 giờ, tỏa hương vừa đến khá. Nó hợp nhất cho chiều tối, phòng máy lạnh, hẹn hò, event có dress code hoặc những lúc muốn thơm sang mà không quá đại trà.
+### Nên dùng khi nào?
 
-Trong khí hậu Việt Nam, chai này nên ưu tiên dùng khi trời mát hoặc không gian điều hòa. Ban ngày nắng nóng có thể vẫn dùng được nếu xịt nhẹ, nhưng đây không phải sân chơi đẹp nhất của nó. Ưu điểm là sang, khác biệt vừa đủ và có chiều sâu; nhược điểm là độ đa dụng thấp hơn Prada L'Homme bản gốc.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích DNA sạch sang của Prada nhưng muốn bản trưởng thành, tối và quyến rũ hơn, Prada L'Homme Intense là nâng cấp rất hợp lý. Nó hợp người đi làm đã có gu, thích suit, thích mùi sạch nhưng không muốn quá văn phòng.
-
-Nên mua khi mày cần một chai tối lịch sự, hẹn hò hoặc đi event. Nếu đang tìm một chai dùng ban ngày quanh năm, bản gốc sẽ hợp hơn.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [{ name: "Hoa diên vĩ" }],
+Hẹn hò, ăn tối, buổi tối, gặp gỡ thân mật. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất thu đông. Ở Sài Gòn dùng tối hoặc phòng máy lạnh.`,
+    verdict: "Chai iris nam tinh tế nhất — phấn, ấm, da. Hợp hẹn hò kiểu gentleman. Acquired taste — phải thử trước.",
+    verdictShort: "IRIS, PHẤN, TINH TẾ",
+    score: { scent: 8.8, uniqueness: 8.8, compliments: 8, value: 7.8, total: 8.4 },
+    vibes: [{ label: "Tinh tế", icon: "🎭" }, { label: "Gentleman", icon: "🎩" }, { label: "Buổi tối", icon: "🌙" }],
+    longevity: 7,
+    sillage: 6,
+    seasons: { spring: 52, summer: 25, fall: 85, winter: 88 },
+    dayNight: { day: 32, night: 85 },
+    topNotes: [{ name: "Iris" }],
     middleNotes: [{ name: "Hổ phách" }, { name: "Hoắc hương" }],
     baseNotes: [{ name: "Đậu Tonka" }, { name: "Da thuộc" }, { name: "Gỗ đàn hương" }],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    accords: [
+      { name: "Iris", value: 100, color: "#9b59b6" },
+      { name: "Hổ phách", value: 78, color: "#d4a017" },
+      { name: "Da thuộc", value: 62, color: "#795548" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Phấn", value: 48, color: "#d7bde2" }
+    ],
+    seoTitle: "Prada L'Homme Intense chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Prada L'Homme Intense chính hãng: mùi iris da thuộc tinh tế, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Tinh tế","Iris","Buổi tối"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "sospiro-vibrato",
@@ -8322,47 +8321,49 @@ Ban ngày mùa nóng — đi biển, du lịch, đi làm, đi chơi ngoài trờ
     brand: "PRADA",
     name: "Luna Rossa Black",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Daniela Andrier",
     gender: "nam",
     image: "/images/products/prada-luna-rossa-black-main.jpg",
-    images: [{ url: "/images/products/prada-luna-rossa-black-main.jpg", source: "amazon", caption: "PRADA Luna Rossa Black chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Luna Rossa Black là kiểu mùi nam ấm, tối nhẹ và rất mượt theo cách Prada: sạch, hơi powder, hơi amber và cực kỳ dễ mặc. Nó không gào lên “sexy” như nhiều chai ngọt tối, mà cuốn theo kiểu gần da, tinh tế và hiện đại. Đây là một chai buổi tối rất hợp với người thích mùi hương sang nhưng không ồn.
+    images: [
+      { url: "/images/products/prada-luna-rossa-black-main.jpg", source: "fragram", caption: "Prada Luna Rossa Black Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai nam gỗ-hổ phách đầy đặn nhất dòng Luna Rossa — cam bergamot, angelica, hoắc hương, coumarin, hổ phách và xạ hương. Ấm, đầy và rất masculine.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của chai này là texture. Nó mịn, tròn, hơi phấn nhẹ và rất dễ chịu khi lên da. Trong bối cảnh Việt Nam, Luna Rossa Black hợp với tối, hẹn hò, đi ăn, môi trường điều hòa hoặc người không thích mùi quá gắt.
+Nếu bạn đã có Luna Rossa Carbon và thích mùi sạch thoáng thì Black hoàn toàn khác — đây là mùi ấm, đậm và hổ phách rõ. Ai thích mùi ngọt fruity cũng sẽ thấy Black quá khô và quá gỗ. Dùng ban ngày trời nóng sẽ hơi dày.
 
-## Diễn biến trên da
-Mở đầu có cảm giác sạch tối khá rõ, sau đó phần amber và nền mềm làm tổng thể dày hơn nhưng vẫn giữ nét Prada rất gọn. Mùi phát triển êm, ít góc cạnh và khá ôm.
+### Có đáng tiền không?
 
-Drydown là lớp ấm, sạch, hơi powder và rất dễ gần. Nó không quá nổ, nhưng càng ngửi gần càng thấy đẹp. Nhược điểm là ai thích projection lớn hoặc mùi statement mạnh có thể thấy nó hơi kín.
+Luna Rossa Black thuộc phân khúc Prada — tương đương Dior Sauvage EDP. So với Luna Rossa Carbon, Black ấm hơn, đậm hơn và hợp tối hơn. So với D&G The One EDP (cùng nhóm ấm), Black gỗ hơn và ít thuốc lá hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá. Đây là chai underrated của Prada.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Luna Rossa Black có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, hẹn hò, đi ăn tối, đi làm buổi chiều tối hoặc dùng như một chai dark-clean signature.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng khá ổn trong máy lạnh. Ưu điểm là mượt, sang và dễ sống cùng; nhược điểm là độ cá tính không thuộc nhóm bùng nổ.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai nam tối nhẹ, sạch và sang kiểu Prada, Luna Rossa Black rất đáng thử. Nó hợp người thích mùi gần da, tinh tế và không muốn quá phô trương.
-
-Nên mua khi mày cần một chai buổi tối mềm và gọn. Nếu mày muốn mùi thật đậm hoặc thật ngọt, có thể chưa đủ đô.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa thu đông, buổi tối, hẹn hò, gặp gỡ. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất khi trời mát. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.`,
+    verdict: "Chai Luna Rossa ấm nhất — gỗ, hổ phách, masculine. Hợp thu đông. Underrated gem của Prada.",
+    verdictShort: "GỖ HỔ PHÁCH, ẤM, UNDERRATED",
+    score: { scent: 8.5, uniqueness: 8, compliments: 8.5, value: 8.2, total: 8.3 },
+    vibes: [{ label: "Nam tính", icon: "🖤" }, { label: "Thu đông", icon: "🍂" }, { label: "Ấm áp", icon: "🤎" }],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 45, summer: 18, fall: 88, winter: 92 },
+    dayNight: { day: 32, night: 85 },
+    topNotes: [{ name: "Cam bergamot" }, { name: "Angelica" }],
+    middleNotes: [{ name: "Hoắc hương" }, { name: "Coumarin" }],
+    baseNotes: [{ name: "Hổ phách" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Hổ phách", value: 100, color: "#d4a017" },
+      { name: "Gỗ", value: 82, color: "#8B4513" },
+      { name: "Ấm", value: 72, color: "#e67e22" },
+      { name: "Thơm thảo mộc", value: 55, color: "#2c7a4b" },
+      { name: "Xạ hương", value: 42, color: "#bdc3c7" }
+    ],
+    seoTitle: "Prada Luna Rossa Black chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Prada Luna Rossa Black chính hãng: mùi gỗ hổ phách ấm nam tính, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Ấm","Gỗ","Thu đông"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "parfums-de-marly-carlisle",

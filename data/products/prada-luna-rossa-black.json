@@ -4,51 +4,46 @@
   "brand": "PRADA",
   "name": "Luna Rossa Black",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Daniela Andrier",
   "gender": "nam",
   "image": "/images/products/prada-luna-rossa-black-main.jpg",
   "images": [
     {
       "url": "/images/products/prada-luna-rossa-black-main.jpg",
-      "source": "amazon",
-      "caption": "PRADA Luna Rossa Black chính hãng",
+      "source": "fragram",
+      "caption": "Prada Luna Rossa Black Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nLuna Rossa Black là kiểu mùi nam ấm, tối nhẹ và rất mượt theo cách Prada: sạch, hơi powder, hơi amber và cực kỳ dễ mặc. Nó không gào lên “sexy” như nhiều chai ngọt tối, mà cuốn theo kiểu gần da, tinh tế và hiện đại. Đây là một chai buổi tối rất hợp với người thích mùi hương sang nhưng không ồn.\n\nĐiểm mạnh của chai này là texture. Nó mịn, tròn, hơi phấn nhẹ và rất dễ chịu khi lên da. Trong bối cảnh Việt Nam, Luna Rossa Black hợp với tối, hẹn hò, đi ăn, môi trường điều hòa hoặc người không thích mùi quá gắt.\n\n## Diễn biến trên da\nMở đầu có cảm giác sạch tối khá rõ, sau đó phần amber và nền mềm làm tổng thể dày hơn nhưng vẫn giữ nét Prada rất gọn. Mùi phát triển êm, ít góc cạnh và khá ôm.\n\nDrydown là lớp ấm, sạch, hơi powder và rất dễ gần. Nó không quá nổ, nhưng càng ngửi gần càng thấy đẹp. Nhược điểm là ai thích projection lớn hoặc mùi statement mạnh có thể thấy nó hơi kín.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nLuna Rossa Black có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, hẹn hò, đi ăn tối, đi làm buổi chiều tối hoặc dùng như một chai dark-clean signature.\n\nỞ Việt Nam, chai này dùng khá ổn trong máy lạnh. Ưu điểm là mượt, sang và dễ sống cùng; nhược điểm là độ cá tính không thuộc nhóm bùng nổ.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nam tối nhẹ, sạch và sang kiểu Prada, Luna Rossa Black rất đáng thử. Nó hợp người thích mùi gần da, tinh tế và không muốn quá phô trương.\n\nNên mua khi mày cần một chai buổi tối mềm và gọn. Nếu mày muốn mùi thật đậm hoặc thật ngọt, có thể chưa đủ đô.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nam",
-    "NEEDS_SOURCE"
+  "description": "Chai nam gỗ-hổ phách đầy đặn nhất dòng Luna Rossa — cam bergamot, angelica, hoắc hương, coumarin, hổ phách và xạ hương. Ấm, đầy và rất masculine.",
+  "article": "### Ai không nên mua?\n\nNếu bạn đã có Luna Rossa Carbon và thích mùi sạch thoáng thì Black hoàn toàn khác — đây là mùi ấm, đậm và hổ phách rõ. Ai thích mùi ngọt fruity cũng sẽ thấy Black quá khô và quá gỗ. Dùng ban ngày trời nóng sẽ hơi dày.\n\n### Có đáng tiền không?\n\nLuna Rossa Black thuộc phân khúc Prada — tương đương Dior Sauvage EDP. So với Luna Rossa Carbon, Black ấm hơn, đậm hơn và hợp tối hơn. So với D&G The One EDP (cùng nhóm ấm), Black gỗ hơn và ít thuốc lá hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá. Đây là chai underrated của Prada.\n\n### Nên dùng khi nào?\n\nMùa thu đông, buổi tối, hẹn hò, gặp gỡ. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất khi trời mát. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.",
+  "verdict": "Chai Luna Rossa ấm nhất — gỗ, hổ phách, masculine. Hợp thu đông. Underrated gem của Prada.",
+  "verdictShort": "GỖ HỔ PHÁCH, ẤM, UNDERRATED",
+  "score": { "scent": 8.5, "uniqueness": 8.0, "compliments": 8.5, "value": 8.2, "total": 8.3 },
+  "vibes": [
+    { "label": "Nam tính", "icon": "🖤" },
+    { "label": "Thu đông", "icon": "🍂" },
+    { "label": "Ấm áp", "icon": "🤎" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": { "spring": 45, "summer": 18, "fall": 88, "winter": 92 },
+  "dayNight": { "day": 32, "night": 85 },
+  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Angelica" }],
+  "middleNotes": [{ "name": "Hoắc hương" }, { "name": "Coumarin" }],
+  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Xạ hương" }],
+  "accords": [
+    { "name": "Hổ phách", "value": 100, "color": "#d4a017" },
+    { "name": "Gỗ", "value": 82, "color": "#8B4513" },
+    { "name": "Ấm", "value": 72, "color": "#e67e22" },
+    { "name": "Thơm thảo mộc", "value": 55, "color": "#2c7a4b" },
+    { "name": "Xạ hương", "value": 42, "color": "#bdc3c7" }
+  ],
+  "seoTitle": "Prada Luna Rossa Black chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Prada Luna Rossa Black chính hãng: mùi gỗ hổ phách ấm nam tính, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Ấm", "Gỗ", "Thu đông"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
