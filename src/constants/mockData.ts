@@ -813,60 +813,43 @@ Ultra Male hấp dẫn vì hiệu ứng mạnh và dễ vui. Điểm yếu là n
     gender: "nam",
     image: "/images/products/montblanc-explorer-main.jpg",
     images: [{ url: "/images/products/montblanc-explorer-main.jpg", source: "fragram", caption: "Montblanc Explorer Eau de Parfum chính hãng", verified: true }],
-    description: "Đây là kiểu mùi nam tươi, gỗ và khá dễ dùng. Hợp người cần một chai chỉnh chu, nam tính nhẹ và giá dễ vào hơn nhóm cao cấp. Nếu bạn cần mùi thật khác biệt, bản này hơi an toàn.",
-    productCopy: `Montblanc Explorer EDP là kiểu nước hoa nam rất dễ dùng và dễ tạo thiện cảm. Mùi mở đầu sáng, thoáng và hơi citrus, sau đó đi vào lớp hương gỗ sạch, khô và gọn gàng. Tổng thể cho cảm giác hiện đại, lịch sự và không quá phô trương, rất hợp với người thích phong cách chỉn chu trong đời sống thường ngày.
+    description: "Chai nam gỗ sạch giá tốt nhất — cam bergamot, tiêu hồng, vetiver, hoắc hương và Ambroxan. Dễ dùng, nam tính và rất đáng tiền.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Explorer là sự an toàn theo nghĩa tích cực. Nó không gây sốc, không quá ngọt, không quá cay, cũng không quá trẻ. Đây là kiểu mùi bạn có thể cầm lên dùng khi đi làm, gặp đối tác, đi cà phê, đi ăn tối hoặc đi xa mà gần như không sợ lệch hoàn cảnh.
+Nếu bạn muốn mùi cực kỳ độc đáo, khác biệt thì Explorer quá an toàn — đây là bản Aventus DNA giá mềm, nhiều người sẽ thấy nó quen. Ai thích mùi ngọt ấm trendy kiểu BIRI hay Most Wanted cũng sẽ thấy Explorer khô và thiếu ngọt. Ngoài ra, tỏa hương vừa phải — không phải beast mode.
 
-Trên da, Explorer giữ được sự sạch và nam tính khá ổn định. Lớp nền gỗ hiện lên rõ hơn sau một lúc, giúp mùi có chiều sâu hơn thay vì chỉ dừng ở cảm giác tươi mát. Nó cho cảm giác người mặc gọn gàng, thực tế và có gu vừa đủ mà không cần cố gắng quá nhiều.
+### Có đáng tiền không?
 
-Về hiệu năng, Montblanc Explorer EDP lưu hương khá và tỏa hương ở mức vừa phải. Nó không phải kiểu bùng nổ, nhưng đủ để người đứng gần cảm nhận được sự hiện diện. Trong khí hậu Việt Nam, đây là chai rất dễ dùng quanh năm, nhất là cho môi trường văn phòng và di chuyển hằng ngày.
+Explorer thuộc phân khúc entry — rẻ nhất nhóm designer. So với Creed Aventus (cùng DNA), Explorer rẻ hơn 5-6 lần mà 70% giống. So với Prada Carbon, Explorer có da hơn và ít lavender hơn. Hiệu năng khá: bám 7 giờ, tỏa vừa. Đây là chai giá trị tốt nhất nhóm cùng DNA — mua chắc không hối.
 
-Nếu bạn cần một chai nước hoa nam dễ dùng, lịch sự, hợp nhiều tình huống và có cảm giác cao cấp hơn tầm giá, Montblanc Explorer là lựa chọn đáng tin cậy. Nó không quá độc lạ, nhưng chính sự gọn gàng và hiệu quả ổn định mới là điều làm chai này được ưa chuộng lâu dài.`,
-    article: `Tại Maison de SON, Montblanc Explorer là một trong những chai nước hoa nam dễ gợi ý ở tầm giá trung cao. Nó sạch, gỗ, dễ dùng và hợp với người muốn một hình ảnh nam tính gọn gàng.
+### Nên dùng khi nào?
 
-### Nguồn gốc và xuất xứ
-Explorer thuộc Montblanc, thương hiệu nổi tiếng với hình ảnh lịch sự và nam tính. Dòng này được biết đến rộng rãi vì dễ tiếp cận và dễ dùng.
-
-### Ra mắt khi nào?
-Explorer ra mắt năm 2019. Đây là một trong những chai giúp Montblanc hiện diện mạnh hơn ở nhóm nam hiện đại.
-
-### Câu chuyện ra đời
-Mùi này được phát triển theo hướng an toàn, dễ dùng và có tính ứng dụng cao cho số đông. Nó đánh vào nhu cầu có một chai nam gọn gàng mà không quá tốn kém.
-
-### Mùi hương mang lại cảm giác gì?
-Mở đầu tươi với bergamot, sau đó hoắc hương, vetiver và ambroxan tạo cảm giác gỗ sạch, nam tính và khá chỉn chu.
-
-### Khi nào nên dùng?
-- Đi làm, đi gặp gỡ, dùng hằng ngày
-- Hợp người thích mùi nam sạch gỗ hiện đại
-- Không hợp lắm nếu bạn cần mùi thật độc lạ
-
-### Nhận xét của Maison de SON
-Explorer đáng tiền ở chỗ dễ dùng và không kén hoàn cảnh. Điểm yếu là cá tính không quá mạnh.`,
-    verdict: "Mùi này gỗ sạch, nam tính và dễ dùng. Hợp người muốn một chai gọn gàng cho nhiều hoàn cảnh mà giá không quá nặng. Nếu bạn thích sự khác biệt lớn, bản này hơi an toàn.",
-    verdictShort: "GỖ SẠCH, NAM TÍNH, DỄ DÙNG",
-    score: { scent: 8.3, uniqueness: 7.2, compliments: 8.6, value: 8.9, total: 8.3 },
-    vibes: [{ label: "Văn phòng", icon: "💼" }, { label: "Hằng ngày", icon: "🧴" }, { label: "Nam tính", icon: "🖤" }],
+Dùng quanh năm — đi làm, đi học, gặp khách, dùng hằng ngày. Xịt 2-3 nhát: cổ, ngực, cổ tay. Đẹp nhất xuân hè. Ở Sài Gòn dùng rất thoải mái. Perfect cho văn phòng.`,
+    verdict: "Chai nam gỗ sạch giá tốt nhất — Aventus DNA giá mềm. Dễ dùng, đa dụng. Hơi an toàn cho ai thích sự độc lạ.",
+    verdictShort: "GỖ SẠCH, GIÁ TỐT, ĐA DỤNG",
+    score: { scent: 8.3, uniqueness: 7.2, compliments: 8.6, value: 9.2, total: 8.3 },
+    vibes: [{ label: "Văn phòng", icon: "💼" }, { label: "Hằng ngày", icon: "🧴" }, { label: "Giá tốt", icon: "💸" }],
     longevity: 7,
-    sillage: 7,
+    sillage: 6,
     seasons: { spring: 80, summer: 72, fall: 76, winter: 56 },
     dayNight: { day: 90, night: 45 },
     topNotes: [{ name: "Cam bergamot" }, { name: "Tiêu hồng" }],
-    middleNotes: [{ name: "Vetiver" }, { name: "Da thuộc" }],
+    middleNotes: [{ name: "Cỏ hương bài" }, { name: "Da thuộc" }],
     baseNotes: [{ name: "Ambroxan" }, { name: "Hoắc hương" }, { name: "Ca cao" }],
     accords: [
-      { name: "Gỗ", value: 72, color: "#8B4513" },
-      { name: "Tươi", value: 58, color: "#2ecc71" },
-      { name: "Da thuộc", value: 26, color: "#6e3b1f" },
-      { name: "Thơm thảo mộc", value: 20, color: "#2c7a4b" }
+      { name: "Gỗ", value: 100, color: "#8B4513" },
+      { name: "Tươi", value: 72, color: "#2ecc71" },
+      { name: "Da thuộc", value: 55, color: "#6e3b1f" },
+      { name: "Thơm thảo mộc", value: 45, color: "#2c7a4b" },
+      { name: "Cam chanh", value: 40, color: "#f1c40f" }
     ],
-    seoTitle: "Montblanc Explorer chính hãng giá bao nhiêu? Review 2026",
-    metaDescription: "Đánh giá Montblanc Explorer chính hãng: mùi gỗ cam bergamot nam tính, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-    tags: ["Nam","Văn phòng","Hằng ngày","Giá trị tốt"],
+    seoTitle: "Montblanc Explorer chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Montblanc Explorer chính hãng: mùi gỗ cam bergamot nam tính, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Văn phòng","Hằng ngày","Giá tốt"],
     sizes: ["10ml Chiết","60ml Fullbox","100ml Fullbox"],
     basePrice: 1650000,
-    shopeeOffers: []
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "prada-lhomme",
@@ -2995,40 +2978,43 @@ Nếu bạn thích một chai nước hoa nữ có cá tính mạnh, khác biệ
     images: [
       { url: "/images/products/elie-saab-le-parfum-main.jpg", source: "fragram", caption: "Elie Saab Le Parfum Eau de Parfum chính hãng", verified: true }
     ],
-    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-    productCopy: `Elie Saab Le Parfum EDP là kiểu nước hoa nữ mang cảm giác sang và thanh lịch rất rõ ngay từ những phút đầu. Mùi mở ra với hoa cam rực rỡ, sau đó đi vào lớp hoa trắng dày hơn cùng mật ong và nền gỗ nhẹ. Tổng thể tạo cảm giác sáng, nữ tính và chỉn chu, như một chiếc váy đẹp được cắt may rất khéo chứ không cần quá nhiều chi tiết phô diễn.
+    description: "Chai nữ sang trọng kiểu haute couture — hoa cam châu Phi, nhài, mật ong trắng, hoắc hương và gỗ tuyết tùng. Thanh lịch, rạng rỡ và rất dressy.",
+    article: `### Ai không nên mua?
 
-Điểm đẹp của chai này là sự sang trọng mềm mại. Nó không ngọt kiểu trẻ trung, cũng không quá sắc lạnh. Thay vào đó, Elie Saab Le Parfum mang lại hình ảnh một người phụ nữ trưởng thành, ăn mặc đẹp, có sự dịu dàng nhưng vẫn toát ra đẳng cấp rất rõ. Mùi hương này hợp với tiệc, sự kiện, gặp gỡ trang trọng hoặc những ngày muốn mình thật thanh lịch.
+Nếu bạn thích mùi ngọt đậm kiểu La Vie Est Belle hay mùi tối sexy kiểu Black Opium thì Le Parfum sẽ quá thanh và quá chỉnh tề cho gu đó. Đây là mùi hoa-mật ong rất sang — kiểu tiệc cocktail chứ không phải club. Ai thích mùi trẻ trung vui vẻ cũng sẽ thấy chai này hơi mature.
 
-Trên da, lớp mật ong làm mùi trở nên ấm hơn và có chiều sâu hơn, nhưng hoa cam vẫn giữ cho tổng thể sự rạng rỡ. Chính sự kết hợp đó giúp chai này vừa có ánh sáng của hoa, vừa có độ ôm của nền ấm, tạo cảm giác rất cân bằng và cao cấp.
+### Có đáng tiền không?
 
-Về hiệu năng, Elie Saab Le Parfum EDP lưu hương khá tốt và tỏa hương vừa đến khá. Trong khí hậu Việt Nam, nên dùng vừa tay vào ban ngày nóng để mùi giữ được độ tinh tế. Buổi tối, môi trường máy lạnh hoặc thời tiết dịu sẽ là thời điểm chai này lên rất đẹp.
+Le Parfum thuộc phân khúc designer tầm trung — rẻ hơn Chanel và Dior. So với J'adore EDP, Le Parfum thanh hơn và có mật ong rõ hơn. So với Chloé EDP, Le Parfum sang hơn và dressy hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá. Đây là chai elegant nữ rất đẹp — giá tốt mà chất lượng blend của Francis Kurkdjian.
 
-Nếu bạn muốn một chai nước hoa nữ sang, thanh lịch và có chất “dressy” rõ ràng, Elie Saab Le Parfum là lựa chọn rất đáng cân nhắc. Nó không ồn ào hay quá trendy, nhưng sự tinh tế và độ hoàn thiện của nó đủ để khiến người mặc trông rất có gu.`,
-    article: "Le Parfum dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-    verdictShort: "LIVE CATALOG UPDATE",
-    score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
-    vibes: [{ label: "nu", icon: "?" }, { label: "D? d�ng", icon: "??" }, { label: "Catalog live", icon: "??" }],
+### Nên dùng khi nào?
+
+Tiệc, sự kiện, gặp gỡ trang trọng, đi ăn tối, dịp đặc biệt. Xịt 2-3 nhát: cổ, cổ tay, sau tai. Dùng quanh năm — đẹp nhất xuân thu. Ở Sài Gòn dùng thoải mái vì hoa cam rất sáng.`,
+    verdict: "Mùi nữ sang thanh lịch — hoa cam, nhài, mật ong. Rất dressy và cao cấp. Không hợp ai thích mùi ngọt đậm hoặc tối.",
+    verdictShort: "SANG, THANH LỊCH, DRESSY",
+    score: { scent: 8.6, uniqueness: 8, compliments: 8.5, value: 8.5, total: 8.4 },
+    vibes: [{ label: "Thanh lịch", icon: "✨" }, { label: "Sang trọng", icon: "💎" }, { label: "Dressy", icon: "👗" }],
     longevity: 7,
     sillage: 7,
-    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
-    dayNight: { day: 58, night: 82 },
-    topNotes: [{ name: "Top note" }],
-    middleNotes: [{ name: "Middle note" }],
-    baseNotes: [{ name: "Base note" }],
+    seasons: { spring: 82, summer: 62, fall: 78, winter: 68 },
+    dayNight: { day: 65, night: 72 },
+    topNotes: [{ name: "Hoa cam châu Phi" }],
+    middleNotes: [{ name: "Hoa nhài" }],
+    baseNotes: [{ name: "Mật ong trắng" }, { name: "Hoắc hương" }, { name: "Hoa hồng" }, { name: "Gỗ tuyết tùng Virginia" }],
     accords: [
-      { name: "Ch? d?o", value: 58, color: "#8B4513" },
-      { name: "D? d�ng", value: 32, color: "#1abc9c" },
-      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
-      { name: "?m", value: 20, color: "#e67e22" }
+      { name: "Hoa trắng", value: 100, color: "#ecf0f1" },
+      { name: "Mật ong", value: 82, color: "#f39c12" },
+      { name: "Hoắc hương", value: 65, color: "#4e342e" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Hoa", value: 48, color: "#e91e63" }
     ],
-    seoTitle: "Elie Saab Le Parfum chính hãng giá bao nhiêu? Review 2026",
-    metaDescription: "Đánh giá Elie Saab Le Parfum chính hãng: mùi hoa cam sang trọng nữ tính, độ lưu hương, độ tỏa hương và giá tham khảo 2026.",
-    tags: ["nu","Catalog","Live","2026"],
-    sizes: ["10ml Chi?t","50ml Fullbox","100ml Fullbox"],
+    seoTitle: "Elie Saab Le Parfum chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Elie Saab Le Parfum chính hãng: mùi hoa cam mật ong sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Thanh lịch","Sang trọng","Dressy"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","90ml Fullbox"],
     basePrice: 2290000,
-    shopeeOffers: []
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "maison-francis-kurkdjian-gentle-fluidity-gold",
