@@ -1,0 +1,49 @@
+{
+  "id": "uomo-intense",
+  "brandSlug": "valentino",
+  "brand": "VALENTINO",
+  "name": "Uomo Intense",
+  "subName": "Eau de Parfum",
+  "perfumer": "Valentino Perfumery Team",
+  "gender": "nam",
+  "image": "/images/products/valentino-uomo-intense-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/valentino-uomo-intense-main.jpg",
+      "source": "fragram",
+      "caption": "Valentino Uomo Intense Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam iris-vani-da kiểu Italian dapper — cam quýt, cỏ xô thơm, iris, đậu Tonka, vani, da thuộc và hoắc hương. Mềm, ấm, phấn và rất quyến rũ.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi fresh-sporty hay mùi mạnh mẽ aggressive thì Valentino Uomo Intense sẽ khiến bạn hỏi \"mùi gì mà mềm thế?\". Đây là chai MỀM — iris phấn, vani ngọt, da mịn — tất cả hòa thành thứ gì đó gần như... nỉ cashmere. Ai muốn mùi tỏa xa kiểu Sauvage cũng nên biết: chai này tỏa vừa phải, kiểu gần ai mới ngửi.\n\n### Có đáng tiền không?\n\nGiá Valentino tầm trung designer — và Uomo Intense đang bị discontinue (ngừng sản xuất), nên giá đang tăng trên thị trường secondhand. So với Dior Homme Intense — cùng iris nam, cùng kiểu phấn — thì Uomo Intense ấm hơn, nhiều vani hơn và ít \"son phấn\" hơn. So với D&G The One EDP — cùng nhóm ấm date night — thì Uomo Intense iris hơn, phức tạp hơn. Bám 7-8 giờ, tỏa vừa phải.\n\n### Nên dùng khi nào?\n\nDate night, ăn tối sang, hoặc bất cứ lúc nào muốn tạo hình ảnh Italian gentleman. Xịt 2-3 nhát: cổ và cổ tay. Đẹp nhất thu đông — Hà Nội tháng 10-2. Ở Sài Gòn thì tối phòng máy lạnh. Vì đang discontinued, nếu thích thì nên mua sớm trước khi hết hang.",
+  "verdict": "Iris-vani-da kiểu Italian dapper — mềm, ấm, quyến rũ. Đang discontinued. Mua sớm nếu thích.",
+  "verdictShort": "IRIS VANI DA, ITALIAN, ĐANG DISCONTINUED",
+  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 8.8, "value": 8.0, "total": 8.5 },
+  "vibes": [
+    { "label": "Quyến rũ", "icon": "💜" },
+    { "label": "Date night", "icon": "🌙" },
+    { "label": "Italian", "icon": "🇮🇹" }
+  ],
+  "longevity": 8,
+  "sillage": 6,
+  "seasons": { "spring": 42, "summer": 12, "fall": 85, "winter": 88 },
+  "dayNight": { "day": 25, "night": 88 },
+  "topNotes": [{ "name": "Cam quýt" }, { "name": "Cỏ xô thơm" }],
+  "middleNotes": [{ "name": "Iris" }, { "name": "Đậu Tonka" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Da thuộc" }, { "name": "Hoắc hương" }],
+  "accords": [
+    { "name": "Da thuộc", "value": 100, "color": "#795548" },
+    { "name": "Hoa", "value": 72, "color": "#e91e63" },
+    { "name": "Gỗ", "value": 62, "color": "#8B4513" },
+    { "name": "Phấn", "value": 58, "color": "#d7bde2" },
+    { "name": "Vani", "value": 52, "color": "#F5DEB3" }
+  ],
+  "seoTitle": "Valentino Uomo Intense chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Valentino Uomo Intense chính hãng: mùi iris vani da Italian quyến rũ, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Quyến rũ", "Date night", "Italian"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2500000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

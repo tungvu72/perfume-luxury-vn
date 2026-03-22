@@ -1,0 +1,49 @@
+{
+  "id": "gentleman-edp-boisee",
+  "brandSlug": "givenchy",
+  "brand": "GIVENCHY",
+  "name": "Gentleman Boisée",
+  "subName": "Eau de Parfum",
+  "perfumer": "Olivier Cresp & Nathalie Lorson",
+  "gender": "nam",
+  "image": "/images/products/givenchy-gentleman-edp-boisee-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/givenchy-gentleman-edp-boisee-main.jpg",
+      "source": "fragram",
+      "caption": "Givenchy Gentleman Eau de Parfum Boisée chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam tiêu-iris-cacao-gỗ cháy bí ẩn nhất Givenchy — tiêu đen, phong lữ, rau mùi, iris, cacao, gỗ tuyết tùng, gỗ đàn hương, hoắc hương và gỗ cháy. Ấm, gỗ cháy và đầy chiều sâu.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi mát hay mùi sạch văn phòng thì Gentleman Boisée tối hơn nhiều — gỗ cháy (burning wood) ở base tạo ra cảm giác lò sưởi đang cháy, rất ấm nhưng không phải kiểu ai cũng thích. Ai đã có Valentino Uomo Intense cũng nên cân nhắc vì cả hai đều có iris-cacao, dù Boisée gỗ hơn.\n\n### Có đáng tiền không?\n\nGiá Givenchy thuộc nhóm affordable designer — rẻ hơn Dior và Chanel đáng kể. Gentleman Boisée đặc biệt ở nốt \"gỗ cháy\" — thứ ít chai nào có — tạo ra lớp khói nhẹ rất chân thực, kiểu ngồi cạnh lò sưởi trong cabin gỗ. So với Dior Homme Intense — cùng iris — thì Boisée nhiều cacao và gỗ hơn, ít phấn hơn. So với Spicebomb Extreme — cùng nhóm ấm — thì Boisée thanh lịch hơn, ít cay gắt hơn. Bám 8-9 giờ, tỏa tốt.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, hẹn hò, sự kiện buổi tối, hoặc cuối tuần thu đông. Xịt 2-3 nhát: cổ và ngực. Trời mát-lạnh là tuyệt vời — Hà Nội tháng 11-2. Ở Sài Gòn thì tối mát hoặc phòng điều hòa. Chai này \"gentleman\" đúng nghĩa — không la hét nhưng ai ngồi gần đều muốn ngồi gần hơn.",
+  "verdict": "Iris-cacao-gỗ cháy — lò sưởi cabin gỗ. Givenchy underrated nhất. Gentleman đúng nghĩa.",
+  "verdictShort": "IRIS CACAO GỖ CHÁY, GENTLEMAN, UNDERRATED",
+  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 8.5, "value": 8.8, "total": 8.7 },
+  "vibes": [
+    { "label": "Gentleman", "icon": "🎩" },
+    { "label": "Lò sưởi", "icon": "🔥" },
+    { "label": "Thu đông", "icon": "🍂" }
+  ],
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": { "spring": 38, "summer": 8, "fall": 88, "winter": 92 },
+  "dayNight": { "day": 28, "night": 85 },
+  "topNotes": [{ "name": "Tiêu đen" }, { "name": "Phong lữ" }, { "name": "Rau mùi" }],
+  "middleNotes": [{ "name": "Iris" }, { "name": "Cacao" }, { "name": "Gỗ tuyết tùng" }],
+  "baseNotes": [{ "name": "Gỗ" }, { "name": "Gỗ đàn hương" }, { "name": "Hoắc hương" }, { "name": "Gỗ cháy" }],
+  "accords": [
+    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
+    { "name": "Gia vị ấm", "value": 72, "color": "#e67e22" },
+    { "name": "Gourmand", "value": 58, "color": "#d4a373" },
+    { "name": "Hoa", "value": 48, "color": "#e91e63" },
+    { "name": "Khói", "value": 42, "color": "#7f8c8d" }
+  ],
+  "seoTitle": "Givenchy Gentleman EDP Boisée chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Givenchy Gentleman Boisée chính hãng: mùi iris cacao gỗ cháy gentleman, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026.",
+  "tags": ["Nam", "Gentleman", "Thu đông", "Underrated"],
+  "sizes": ["10ml Chiết", "60ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
+}
