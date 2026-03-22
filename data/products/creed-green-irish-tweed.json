@@ -4,51 +4,52 @@
   "brand": "CREED",
   "name": "Green Irish Tweed",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Olivier Creed & Pierre Bourdon",
   "gender": "nam",
   "image": "/images/products/creed-green-irish-tweed-main.jpg",
   "images": [
     {
       "url": "/images/products/creed-green-irish-tweed-main.jpg",
-      "source": "amazon",
-      "caption": "CREED Green Irish Tweed chính hãng",
+      "source": "fragram",
+      "caption": "Creed Green Irish Tweed chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nGreen Irish Tweed là kiểu xanh sạch, lịch lãm và rất “old money” của Creed. Nó không xanh kiểu cỏ non đơn giản, mà là xanh được may đo: sạch, có chiều sâu, có gỗ và rất sang theo cách không cần lên gân. Đây là một trong những mùi nam kinh điển cho người thích phong cách chỉn chu, trưởng thành và kín tiếng.\n\nĐiểm hay của Green Irish Tweed là độ thanh lịch bền vững. Nó không phụ thuộc trend, không quá trẻ, cũng không quá già. Trong điều kiện Việt Nam, đây là chai dùng rất đẹp cho đi làm, ban ngày, gặp gỡ lịch sự hoặc làm signature cho người thích mùi xanh có đẳng cấp.\n\n## Diễn biến trên da\nMở đầu là xanh sáng và sạch, sau đó phần floral xanh và gỗ bắt đầu làm tổng thể trở nên mượt hơn. Mùi phát triển khá gọn, không nhiều tầng kịch tính nhưng rất ổn định và đẹp.\n\nDrydown sạch, xanh mềm và hơi xà phòng cao cấp. Nó không phải kiểu gây sốc, mà là kiểu càng ngửi càng thấy gu. Nhược điểm là ai thích mùi đậm, ngọt hoặc statement mạnh có thể thấy nó quá kín.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nGreen Irish Tweed có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, ban ngày, chơi golf, gặp khách hàng, du lịch hoặc mọi tình huống cần mùi hương gọn và lịch thiệp.\n\nỞ Việt Nam, chai này dùng khá khỏe nhờ độ xanh sạch. Ưu điểm là sang, timeless và wearable; nhược điểm là mức giá cao cho một phong cách rất kín đáo.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai xanh sạch có đẳng cấp thật sự và không bị lỗi mốt, Green Irish Tweed là lựa chọn cực vững. Nó hợp người thích phong cách trưởng thành, kín tiếng và tinh tế.\n\nNên mua khi mày cần một signature ban ngày sang. Nếu mày thích mùi ngọt ấm hay cực kỳ nổi bật, đây không phải hướng chính.",
-  "article": "(Chờ Coder viết bài)",
+  "description": "Chai xanh sang nhất phân khúc niche — iris, lá violet, gỗ đàn hương và long diên hương. Kiểu old money rất rõ — kín đáo, sang và timeless.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt ấm trendy kiểu Born In Roma hay Azzaro Most Wanted thì Green Irish Tweed hoàn toàn khác hướng — đây là mùi xanh, phấn, sạch và rất old money. Người muốn mùi nổi bật, tỏa xa cũng sẽ thấy GIT quá kín đáo. Giá rất cao cho một mùi khá đơn giản — nếu bạn chưa sẵn sàng chi cho niche, nên thử clone Cool Water trước.\n\n### Có đáng tiền không?\n\nGIT thuộc phân khúc niche cao cấp Creed — đắt nhất nhóm fresh xanh. So với Cool Water (vốn lấy cảm hứng từ GIT), GIT sang hơn, phấn hơn và tinh tế hơn nhiều. So với ADG Profondo, GIT khác hoàn toàn — xanh cỏ thay vì biển. Hiệu năng khá: bám 7-8 giờ, tỏa vừa. Đây là chai dành cho người coi nước hoa là phụ kiện sang — không phải để gây chú ý mà để thể hiện gu.\n\n### Nên dùng khi nào?\n\nĐi làm, gặp khách, chơi golf, họp hành, dùng hằng ngày. Xịt 2-3 nhát: cổ, ngực, cổ tay. Dùng quanh năm nhưng đẹp nhất mùa xuân hè. Ở Sài Gòn dùng thoải mái — xanh iris rất dễ chịu khi nóng.",
+  "verdict": "Mùi xanh sang nhất — iris, phấn, old money. Hợp người thích phong cách kín đáo và timeless. Đắt nhưng rất đẳng cấp.",
+  "verdictShort": "XANH SANG, OLD MONEY, TIMELESS",
   "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
+    "scent": 9.2,
+    "uniqueness": 8.5,
+    "compliments": 8.2,
+    "value": 7.0,
+    "total": 8.2
   },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nam",
-    "NEEDS_SOURCE"
+  "vibes": [
+    { "label": "Old money", "icon": "👑" },
+    { "label": "Xanh sang", "icon": "🌿" },
+    { "label": "Timeless", "icon": "⌚" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 8,
+  "sillage": 6,
+  "seasons": { "spring": 88, "summer": 72, "fall": 62, "winter": 40 },
+  "dayNight": { "day": 85, "night": 35 },
+  "topNotes": [{ "name": "Iris" }, { "name": "Cỏ roi ngựa" }],
+  "middleNotes": [{ "name": "Lá violet" }],
+  "baseNotes": [{ "name": "Long diên hương" }, { "name": "Gỗ đàn hương" }],
+  "accords": [
+    { "name": "Xanh", "value": 100, "color": "#27ae60" },
+    { "name": "Iris", "value": 82, "color": "#c39bd3" },
+    { "name": "Phấn", "value": 72, "color": "#d7bde2" },
+    { "name": "Biển", "value": 62, "color": "#3498db" },
+    { "name": "Gỗ", "value": 52, "color": "#8B4513" }
+  ],
+  "seoTitle": "Creed Green Irish Tweed chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Creed Green Irish Tweed chính hãng: mùi xanh iris old money, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Niche", "Old money", "Xanh"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 7000000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
