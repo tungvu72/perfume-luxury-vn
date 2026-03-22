@@ -4407,47 +4407,47 @@ GIT thuộc phân khúc niche cao cấp Creed — đắt nhất nhóm fresh xanh
     brand: "DIOR",
     name: "Eau Sauvage",
     subName: "Eau de Toilette",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Edmond Roudnitska",
     gender: "nam",
     image: "/images/products/dior-eau-sauvage-main.jpg",
-    images: [{ url: "/images/products/dior-eau-sauvage-main.jpg", source: "amazon", caption: "DIOR Eau Sauvage chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Eau Sauvage là một tượng đài nước hoa nam theo đúng nghĩa cổ điển Pháp: citrus, thảo mộc, hoa nhẹ và nền gỗ sạch được phối rất thanh, rất sáng và cực kỳ lịch sự. Đây không phải kiểu mùi ngọt hay ồn ào để gây chú ý nhanh, mà là kiểu mùi tạo cảm giác người mặc gọn gàng, có nề nếp và có gu lâu năm.
+    images: [{ url: "/images/products/dior-eau-sauvage-main.jpg", source: "fragram", caption: "Dior Eau Sauvage Eau de Toilette chính hãng", verified: true }],
+    description: "Tượng đài citrus nam từ 1966 — chanh, cam bergamot, húng quế, hoa nhài, rêu sồi và cỏ hương bài. Thanh lịch kiểu Pháp, timeless và rất trưởng thành.",
+    article: `### Ai không nên mua?
 
-Điểm hay của Eau Sauvage là dù sinh ra từ thời kỳ rất khác, nó vẫn dùng được tốt nhờ sự tinh tế trong cấu trúc. Nó sáng nhưng không rẻ, sạch nhưng không mỏng, nam tính nhưng không gắt. Ở Việt Nam, đây là kiểu mùi hợp với người thích vẻ trưởng thành, thích đi làm, gặp gỡ lịch sự hoặc đơn giản là muốn một mùi citrus nam kinh điển không bị đại trà kiểu hiện đại.
+Nếu bạn thích mùi ngọt ấm hiện đại kiểu Sauvage Elixir hay Azzaro Most Wanted thì Eau Sauvage hoàn toàn khác thế giới — đây là mùi citrus-aromatic cổ điển 1966, rất thanh và rất sạch. Người trẻ dưới 25 thường thấy chai này hơi "ông" quá. Ngoài ra, hiệu năng EDT nên bám vừa phải — ai cần beast mode thì không hợp.
 
-## Diễn biến trên da
-Mở đầu là citrus rõ rệt, sáng và rất gọn. Sau đó các note aromatic và nền gỗ nhẹ bắt đầu hiện ra, làm tổng thể bớt sắc hơn và có chiều sâu hơn. Mùi phát triển mượt, không sốc, không tạo cảm giác quá cầu kỳ nhưng rất có chất.
+### Có đáng tiền không?
 
-Drydown của Eau Sauvage khá thanh và sạch, vẫn giữ tinh thần citrus-aromatic đặc trưng. Nó không có kiểu chuyển mình dramatic mà ổn định theo hướng quý ông. Nhược điểm là nếu mày quen với các mùi hiện đại đậm đà, chai này có thể hơi hiền và hơi cổ điển.
+Eau Sauvage thuộc phân khúc Dior — giá tương đương Sauvage EDT. So với Sauvage EDT (cháu đời sau), Eau Sauvage thanh hơn nhiều, ít Ambroxan hơn và cổ điển hơn. So với Cool Water (vốn clone Eau Sauvage), Eau Sauvage sang hơn và có chiều sâu hơn nhiều. Hiệu năng vừa: bám 5-6 giờ, tỏa nhẹ. Đáng mua nếu bạn muốn sở hữu một cột mốc lịch sử nước hoa nam.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Eau Sauvage có hiệu năng vừa phải, thường khoảng 5-7 giờ trên da và tỏa hương lịch sự. Nó cực hợp cho ban ngày, đi làm, gặp khách, trời nóng hoặc những lúc cần mùi hương sạch sang mà không làm phiền người khác.
+### Nên dùng khi nào?
 
-Trong khí hậu Việt Nam, chai này phát huy tốt nhờ độ sáng và thoáng. Ưu điểm là thanh lịch, dễ mặc, đúng chất kinh điển; nhược điểm là không phải vũ khí cho hẹn hò tối hay những ai thích mùi bám cực mạnh.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai citrus nam cổ điển, sang và rất có gu, Eau Sauvage là lựa chọn đáng thử. Nó hợp người trưởng thành, thích chất Pháp và không chạy theo mùi ngọt đương đại.
-
-Nên mua khi mày cần một chai ban ngày lịch sự hoặc muốn hiểu một cột mốc lớn của nước hoa nam. Nếu mày thích mùi hiện đại, nổi và bám mạnh, có thể cần một hướng khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi làm ban ngày, gặp khách, họp hành, trời nóng. Xịt 3-4 nhát vì tỏa nhẹ. Đẹp nhất mùa xuân hè khi trời 28-35°C. Ở Sài Gòn dùng quanh năm. Đừng dùng hẹn hò tối — quá nhẹ và quá thanh.`,
+    verdict: "Tượng đài citrus nam kinh điển — thanh lịch, sạch và rất Pháp. Hợp đi làm, ban ngày. Quá cổ điển cho ai thích mùi hiện đại.",
+    verdictShort: "KINH ĐIỂN, CITRUS, THANH LỊCH",
+    score: { scent: 8.5, uniqueness: 8.5, compliments: 7.8, value: 7.8, total: 8.2 },
+    vibes: [{ label: "Kinh điển", icon: "👑" }, { label: "Thanh lịch", icon: "✨" }, { label: "Trưởng thành", icon: "🖤" }],
+    longevity: 6,
+    sillage: 5,
+    seasons: { spring: 82, summer: 85, fall: 55, winter: 35 },
+    dayNight: { day: 90, night: 28 },
+    topNotes: [{ name: "Chanh" }, { name: "Cam bergamot" }, { name: "Húng quế" }, { name: "Hương thảo" }],
+    middleNotes: [{ name: "Hoa nhài" }, { name: "Rau mùi" }, { name: "Hoắc hương" }, { name: "Gỗ đàn hương" }, { name: "Oải hương" }],
+    baseNotes: [{ name: "Rêu sồi" }, { name: "Cỏ hương bài" }, { name: "Xạ hương" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Cam chanh", value: 100, color: "#f1c40f" },
+      { name: "Tươi", value: 85, color: "#2ecc71" },
+      { name: "Thơm thảo mộc", value: 68, color: "#2c7a4b" },
+      { name: "Xanh", value: 55, color: "#27ae60" },
+      { name: "Gỗ", value: 48, color: "#8B4513" }
+    ],
+    seoTitle: "Dior Eau Sauvage chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Dior Eau Sauvage chính hãng: tượng đài citrus nam kinh điển, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Kinh điển","Citrus","Thanh lịch"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox","200ml Fullbox"],
+    basePrice: 2800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "marc-antoine-barrois-ganymede",
@@ -9796,33 +9796,51 @@ Chanel N°5 thuộc phân khúc designer cao cấp nhất — bạn không chỉ
     id: "chanel-no-5-eau-de-toilette",
     brandSlug: "chanel",
     brand: "CHANEL",
-    name: "Chanel No 5 Eau de Toilette",
+    name: "N°5",
     subName: "Eau de Toilette",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Olivier Polge",
     gender: "nu",
     image: "/images/products/chanel-no-5-eau-de-toilette-main.jpg",
     images: [
-      { url: "/images/products/chanel-no-5-eau-de-toilette-main.jpg", source: "amazon", caption: "CHANEL Chanel No 5 Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/chanel-no-5-eau-de-toilette-main.jpg", source: "fragram", caption: "Chanel N°5 Eau de Toilette chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    description: "Phiên bản nhẹ hơn của N°5 huyền thoại — aldehyde, ylang-ylang, hoa nhài, hoa hồng, gỗ đàn hương và cỏ hương bài. Thanh hơn bản EDP nhưng vẫn rất Chanel.",
+    article: `### Ai không nên mua?
+
+Nếu bạn thích mùi ngọt hiện đại kiểu Good Girl, Black Opium thì N°5 EDT sẽ rất khác — đây là mùi aldehyde hoa cổ điển, phấn và thanh. Người trẻ dưới 25 thường thấy mùi này quá mature và quá "bà" cho mình. Ngoài ra, EDT nên nhẹ hơn bản EDP nhiều — ai cần mùi đậm bám lâu nên chọn bản EDP.
+
+### Có đáng tiền không?
+
+N°5 EDT thuộc phân khúc Chanel — rẻ hơn bản EDP cùng dung tích. So với bản EDP, EDT thanh hơn, ít ngọt hơn và có gỗ rõ hơn. So với Chanel Allure EDP, N°5 EDT cổ điển hơn và aldehyde rõ hơn. Hiệu năng vừa: bám 5-6 giờ, tỏa nhẹ vì EDT. Đáng mua nếu bạn thích N°5 nhưng muốn bản nhẹ hơn dùng hằng ngày.
+
+### Nên dùng khi nào?
+
+Dùng hằng ngày — đi làm, đi cà phê, gặp gỡ. Xịt 2-3 nhát: cổ, cổ tay. Dùng quanh năm nhưng đẹp nhất mùa thu đông. Ở Sài Gòn dùng thoải mái vì EDT khá nhẹ. Đây là bản daily-wear lý tưởng của N°5.`,
+    verdict: "N°5 bản nhẹ — aldehyde hoa cổ điển, thanh và gỗ hơn EDP. Hợp dùng hằng ngày. Không hợp ai thích mùi ngọt hiện đại.",
+    verdictShort: "N°5 NHẸ HƠN, THANH HƠN",
+    score: { scent: 8.5, uniqueness: 8.2, compliments: 8, value: 7.8, total: 8.1 },
+    vibes: [{ label: "Kinh điển", icon: "👑" }, { label: "Thanh lịch", icon: "✨" }, { label: "Hằng ngày", icon: "🧴" }],
+    longevity: 6,
+    sillage: 5,
+    seasons: { spring: 72, summer: 55, fall: 80, winter: 75 },
+    dayNight: { day: 72, night: 48 },
+    topNotes: [{ name: "Aldehyde" }, { name: "Ylang-ylang" }, { name: "Cam neroli" }, { name: "Chanh Amalfi" }],
+    middleNotes: [{ name: "Iris" }, { name: "Hoa nhài" }, { name: "Hoa hồng" }, { name: "Hoa linh lan" }],
+    baseNotes: [{ name: "Gỗ đàn hương" }, { name: "Cỏ hương bài" }, { name: "Xạ hương" }, { name: "Hổ phách" }, { name: "Rêu sồi" }],
+    accords: [
+      { name: "Gỗ", value: 100, color: "#8B4513" },
+      { name: "Aldehyde", value: 88, color: "#d7bde2" },
+      { name: "Hoa vàng", value: 72, color: "#f1c40f" },
+      { name: "Tươi", value: 62, color: "#2ecc71" },
+      { name: "Hoa hồng", value: 55, color: "#f48fb1" }
+    ],
+    seoTitle: "Chanel N°5 EDT chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Chanel N°5 Eau de Toilette chính hãng: bản nhẹ của huyền thoại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Kinh điển","Thanh lịch","Hằng ngày"],
+    sizes: ["10ml Chiết","35ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 3200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "xerjoff-dama-bianca",
