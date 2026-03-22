@@ -1733,49 +1733,49 @@ Quanh năm — đi làm, gặp gỡ, dạo phố. Xịt 2-3 nhát: cổ, ngực.
     id: "born-in-roma-intense",
     brandSlug: "valentino",
     brand: "VALENTINO",
-    name: "Born In Roma Intense",
-    subName: "Uomo Eau de Parfum Intense",
-    perfumer: "Antoine Maisondieu & Guillaume Flavigny",
-    gender: "nam",
+    name: "Donna Born in Roma Intense",
+    subName: "Eau de Parfum",
+    perfumer: "Amandine Clerc-Marie & Honorine Blanc",
+    gender: "nu",
     image: "/images/products/valentino-born-in-roma-intense-main.jpg",
     images: [
-      { url: "/images/products/valentino-born-in-roma-intense-main.jpg", source: "fragram", caption: "Valentino Uomo Born in Roma Intense chính hãng", verified: true }
+      { url: "/images/products/valentino-born-in-roma-intense-main.jpg", source: "fragram", caption: "Valentino Donna Born in Roma Intense Eau de Parfum chính hãng", verified: true }
     ],
-    description: "Chai nam ngọt ấm hiện đại — vanilla, lavender, vetiver. Dễ ngửi, dễ thích và rất hợp hẹn hò. Hợp người trẻ muốn mùi trendy mà vẫn sang.",
+    description: "Chai nữ vani-nhài-benzoin ấm nhất Valentino — vani Bourbon, hổ phách, nhài sáng và nhựa benzoin. Ngọt, ấm và rất cozy.",
     article: `### Ai không nên mua?
 
-Nếu bạn ghét vanilla thì Born In Roma Intense hoàn toàn không hợp — vanilla ở đây rất rõ từ đầu đến cuối. Ai thích mùi sạch sẽ, khô hoặc fresh ban ngày cũng nên tránh vì chai này thiên about ngọt ấm đi tối. Ngoài ra, người thích mùi cá tính riêng kiểu niche sẽ thấy BIRI hơi an toàn và hơi giống nhiều chai ngọt hiện đại khác.
+Nếu bạn thích mùi tươi sáng citrus hay mùi sạch nhẹ nhàng thì Born in Roma Intense quá ngọt và quá vani cho gu đó. Ai ghét mùi ngọt cũng nên tránh. Dùng mùa hè nóng sẽ hơi ngọp.
 
 ### Có đáng tiền không?
 
-BIRI thuộc phân khúc designer tầm trung-cao — đắt hơn Afnan 9PM hay Azzaro Most Wanted nhưng rẻ hơn Dior Sauvage Elixir. So với JPG Ultra Male, BIRI mượt hơn và ít ngọt gắt hơn. So với Armani Code Absolu, BIRI trẻ hơn và lavender rõ hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa mạnh. Với người trẻ thích mùi trendy mà vẫn sang, đây là lựa chọn rất đáng.
+Born in Roma Intense thuộc phân khúc Valentino — giá tốt cho 2023 release. So với bản gốc Born in Roma, Intense đậm hơn và nhiều vani hơn rõ rệt. So với La Vie Est Belle Intensément, Born in Roma Intense có benzoin ấm hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa vừa-mạnh. Chai vani nữ mới nhất đáng mua.
 
 ### Nên dùng khi nào?
 
-Hẹn hò, đi chơi tối, tụ tập cuối tuần. Xịt 2 nhát: 1 sau gáy, 1 cổ tay. Đẹp nhất khi trời mát dưới 25°C — mùa đông hoặc mùa mưa. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh. Đừng dùng đi làm ban ngày vì hơi ngọt và hơi party cho môi trường chuyên nghiệp.`,
-    verdict: "Mùi này ngọt ấm, hiện đại và dễ tạo thiện cảm. Hợp đi tối hoặc hẹn hò. Không hợp ai ghét vanilla hoặc cần mùi sạch ban ngày.",
-    verdictShort: "NGỌT ẤM, HIỆN ĐẠI, DỄ MẾN",
-    score: { scent: 8.8, uniqueness: 7.9, compliments: 9.1, value: 8.4, total: 8.5 },
-    vibes: [{ label: "Hẹn hò", icon: "❤️" }, { label: "Buổi tối", icon: "🌙" }, { label: "Hiện đại", icon: "✨" }],
+Mùa thu đông, buổi tối, hẹn hò, dịp ấm cúng. Xịt 2-3 nhát: cổ, cổ tay. Đẹp nhất khi trời mát. Ở Sài Gòn dùng tối hoặc phòng máy lạnh.`,
+    verdict: "Chai vani-nhài Valentino 2023 — ngọt ấm cozy. Bám 8h. Hợp thu đông. Best vani nữ tầm giá.",
+    verdictShort: "VANI NHÀI, ẤM, COZY",
+    score: { scent: 8.5, uniqueness: 7.8, compliments: 8.8, value: 8.5, total: 8.4 },
+    vibes: [{ label: "Cozy", icon: "🤎" }, { label: "Hẹn hò", icon: "❤️" }, { label: "Thu đông", icon: "🍂" }],
     longevity: 8,
     sillage: 7,
-    seasons: { spring: 52, summer: 28, fall: 88, winter: 92 },
-    dayNight: { day: 34, night: 92 },
-    topNotes: [{ name: "Vani" }],
-    middleNotes: [{ name: "Oải hương" }],
-    baseNotes: [{ name: "Cỏ hương bài" }],
+    seasons: { spring: 42, summer: 15, fall: 88, winter: 92 },
+    dayNight: { day: 28, night: 85 },
+    topNotes: [{ name: "Vani Bourbon" }, { name: "Hổ phách" }],
+    middleNotes: [{ name: "Nhài" }],
+    baseNotes: [{ name: "Benzoin" }],
     accords: [
-      { name: "Vani", value: 100, color: "#f5deb3" },
+      { name: "Vani", value: 100, color: "#F5DEB3" },
       { name: "Ngọt", value: 78, color: "#8B0000" },
-      { name: "Gia vị ấm", value: 58, color: "#e67e22" },
-      { name: "Thơm thảo mộc", value: 48, color: "#2c7a4b" },
-      { name: "Gỗ", value: 40, color: "#8B4513" }
+      { name: "Hổ phách", value: 65, color: "#d4a017" },
+      { name: "Hoa trắng", value: 52, color: "#ecf0f1" },
+      { name: "Nhựa", value: 42, color: "#5d4037" }
     ],
-    seoTitle: "Valentino Born In Roma Intense chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Valentino Born In Roma Intense chính hãng: mùi vanilla lavender hiện đại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nam","Hẹn hò","Buổi tối","Hiện đại"],
+    seoTitle: "Valentino Born in Roma Intense chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Valentino Born in Roma Intense chính hãng: mùi vani nhài ấm cozy, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Vani","Cozy","Thu đông"],
     sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
-    basePrice: 2950000,
+    basePrice: 2500000,
     shopeeOffers: [],
     isPublished: true
   },
@@ -3690,39 +3690,39 @@ Nên mua khi mày cần một chai tối có khí chất riêng. Nếu mày mê 
     images: [
       { url: "/images/products/narciso-rodriguez-for-her-edp-main.jpg", source: "fragram", caption: "Narciso Rodriguez For Her Eau de Parfum chính hãng", verified: true }
     ],
-    description: "Chai nữ xạ hương đẹp nhất — hoa hồng, đào, xạ hương, hổ phách, hoắc hương và gỗ đàn hương. Mềm sâu, gợi cảm và rất ôm da.",
+    description: "Chai xạ hương thuần túy nhất dành cho nữ — hoa hồng, đào, xạ hương, hổ phách, hoắc hương và gỗ đàn hương. Mềm, gợi cảm và rất skin-scent.",
     article: `### Ai không nên mua?
 
-Nếu bạn thích mùi hoa sáng rạng rỡ kiểu J'adore hay Gucci Bloom thì For Her EDP sẽ quá tối và quá musky cho gu đó. Đây là mùi xạ hương là chủ đạo — mềm, sâu và khá kín đáo. Ai thích mùi tỏa xa, nổi bật cũng sẽ thất vọng vì For Her thiên về ôm da hơn là phô trương.
+Nếu bạn thích mùi tỏa mạnh hoặc mùi hoa rõ ràng thì For Her EDP quá subtle — đây là skin-scent thuần xạ hương, gần da hơn là tỏa xa. Ai cần mùi nhận diện ngay lập tức cũng sẽ thấy chai này hiền.
 
 ### Có đáng tiền không?
 
-For Her EDP thuộc phân khúc designer tầm trung — rẻ hơn Chanel và Dior. So với Coco Mademoiselle, For Her tối hơn nhiều và musky hơn. So với Armani Sì, For Her ít hoa hơn và gần da hơn. Hiệu năng tốt: bám 8 giờ, tỏa gần. Đây là chai skin scent — musky ấm bám da cả ngày. Rất đáng tiền cho ai thích kiểu mùi này.
+For Her EDP thuộc phân khúc Narciso Rodriguez — giá tốt. So với bản EDT, EDP đậm hơn và hoa hồng rõ hơn. So với Chloé EDP, For Her EDP ít hoa hơn và nhiều xạ hương hơn. Hiệu năng lạ: bám rất lâu (8-9 giờ) trên da nhưng tỏa nhẹ — kiểu ôm mới ngửi thấy. Đó chính là sức hút.
 
 ### Nên dùng khi nào?
 
-Hẹn hò, đi ăn tối, dùng hằng ngày, môi trường gần. Xịt 2-3 nhát: cổ, cổ tay, sau tai. Dùng quanh năm — đẹp nhất mùa thu đông. Ở Sài Gòn dùng thoải mái vì musky không bao giờ ngọp.`,
-    verdict: "Chai xạ hương nữ đẹp nhất — mềm sâu, ôm da và rất gợi cảm kiểu kín đáo. Hợp ai thích skin scent. Không nổi bật nếu thích mùi tỏa xa.",
-    verdictShort: "XẠ HƯƠNG, ÔM DA, GỢI CẢM",
-    score: { scent: 8.8, uniqueness: 8.5, compliments: 8.2, value: 8.4, total: 8.5 },
-    vibes: [{ label: "Gợi cảm", icon: "🔥" }, { label: "Ôm da", icon: "🤍" }, { label: "Tinh tế", icon: "✨" }],
+Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. Đẹp quanh năm. Ở Sài Gòn dùng thoải mái.`,
+    verdict: "Chai xạ hương skin-scent đẹp nhất — mềm, gợi cảm, gần da. Hợp hằng ngày. Ai ôm mới ngửi thấy.",
+    verdictShort: "XẠ HƯƠNG, SKIN-SCENT, GỢI CẢM",
+    score: { scent: 8.5, uniqueness: 8.2, compliments: 8, value: 8.2, total: 8.2 },
+    vibes: [{ label: "Gợi cảm", icon: "💕" }, { label: "Skin-scent", icon: "🤍" }, { label: "Hằng ngày", icon: "🧴" }],
     longevity: 8,
     sillage: 5,
-    seasons: { spring: 68, summer: 52, fall: 82, winter: 85 },
-    dayNight: { day: 58, night: 78 },
+    seasons: { spring: 78, summer: 62, fall: 72, winter: 65 },
+    dayNight: { day: 68, night: 72 },
     topNotes: [{ name: "Hoa hồng" }, { name: "Đào" }],
     middleNotes: [{ name: "Xạ hương" }, { name: "Hổ phách" }],
     baseNotes: [{ name: "Hoắc hương" }, { name: "Gỗ đàn hương" }],
     accords: [
       { name: "Xạ hương", value: 100, color: "#bdc3c7" },
-      { name: "Hoa", value: 68, color: "#e91e63" },
-      { name: "Gỗ", value: 58, color: "#8B4513" },
-      { name: "Ấm", value: 52, color: "#e67e22" },
-      { name: "Hổ phách", value: 45, color: "#d4a017" }
+      { name: "Hoa", value: 65, color: "#e91e63" },
+      { name: "Hổ phách", value: 55, color: "#d4a017" },
+      { name: "Gỗ", value: 48, color: "#8B4513" },
+      { name: "Phấn", value: 35, color: "#d7bde2" }
     ],
     seoTitle: "Narciso Rodriguez For Her EDP chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Narciso For Her EDP chính hãng: mùi xạ hương ấm gợi cảm, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nữ","Gợi cảm","Xạ hương","Tinh tế"],
+    metaDescription: "Đánh giá Narciso Rodriguez For Her EDP chính hãng: mùi xạ hương skin-scent gợi cảm, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Gợi cảm","Xạ hương","Hằng ngày"],
     sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
     basePrice: 2200000,
     shopeeOffers: [],
