@@ -4,51 +4,46 @@
   "brand": "BYREDO",
   "name": "Bal d'Afrique",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Jérôme Epinette",
   "gender": "unisex",
   "image": "/images/products/byredo-bal-dafrique-main.jpg",
   "images": [
     {
       "url": "/images/products/byredo-bal-dafrique-main.jpg",
-      "source": "amazon",
-      "caption": "BYREDO Bal d'Afrique chính hãng",
+      "source": "fragram",
+      "caption": "Byredo Bal d'Afrique Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nBal d'Afrique là một trong những mùi clean-luxury dễ yêu nhất của Byredo: citrus, hoa mềm, gỗ sáng và xạ hương được làm rất mượt, tạo ra cảm giác vừa tươi vừa ấm rất đặc trưng. Nó không quá niche khó gần, cũng không quá đại trà, mà nằm ở giữa: sang, sáng, vui và có chất thời trang rõ.\n\nĐiểm hay của Bal d'Afrique là khả năng tạo cảm giác thoải mái nhưng vẫn đắt. Nó có ánh nắng, có sự sạch sẽ và có độ mềm rất dễ gần. Ở Việt Nam, đây là kiểu mùi dùng được nhiều hoàn cảnh, đặc biệt cho người thích phong cách gọn gàng, nghệ, hơi lifestyle hơn là formal cổ điển.\n\n## Diễn biến trên da\nMở đầu là citrus và trái cây sáng, sau đó hoa cùng xạ hương làm mùi mềm đi và trở nên rất dễ chịu. Lớp nền gỗ giữ mọi thứ đứng form, không để mùi bị quá nhẹ hay quá ngọt.\n\nDrydown của Bal d'Afrique rất đẹp: sạch, mềm, hơi kem nhẹ và rất dễ mến. Nó không quá phức tạp, nhưng blend rất khéo nên tạo cảm giác sang nhẹ nhàng. Nhược điểm là ai thích chiều sâu tối hoặc hiệu ứng quá mạnh có thể thấy chai này hơi hiền.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nBal d'Afrique có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa phải. Nó hợp cho ban ngày, đi làm sáng tạo, cà phê, brunch, hẹn nhẹ hoặc làm signature quanh năm.\n\nTrong khí hậu Việt Nam, chai này dùng rất tốt vì vừa sáng vừa mềm, không quá nặng. Ưu điểm là dễ mặc, sang và hợp nhiều giới; nhược điểm là giá cao nếu xét trên độ bùng nổ hay độc lạ.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai niche dễ dùng, sạch, sáng và có chất thời trang, Bal d'Afrique là ứng viên rất mạnh. Nó hợp người thích phong cách hiện đại, tinh và không muốn mùi hương quá nghiêm.\n\nNên mua khi mày cần một signature ban ngày cao cấp, dễ sống chung. Nếu mày muốn một mùi rất tối hoặc cực kỳ khác người, đây không phải hướng đầu tiên.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Unisex",
-    "NEEDS_SOURCE"
+  "description": "Chai niche hoa-gỗ-citrus sang nhất Byredo — cam bergamot, cúc vạn thọ Phi, neroli, hoa tím, nhài, cỏ hương bài, gỗ tuyết tùng và xạ hương. Sáng, thanh lịch và rất artistic.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt đậm ấm kiểu vani-oud hay mùi beast mode thì Bal d'Afrique quá nhẹ và quá thoáng cho gu đó. Ai cần mùi bám 10+ giờ cũng sẽ hơi thất vọng — Byredo thiên về sillage nhẹ và elegant. Ngoài ra, giá Byredo rất cao.\n\n### Có đáng tiền không?\n\nBal d'Afrique thuộc phân khúc Byredo niche — top giá. So với Terre d'Hermès (cùng nhóm tươi sang), Bal d'Afrique hoa hơn và artistic hơn. So với Le Labo Santal 33, Bal d'Afrique sáng hơn và ít gỗ hơn. Hiệu năng vừa: bám 6-7 giờ, tỏa nhẹ-vừa. Đây là chai Byredo best seller number 1 — có lý do.\n\n### Nên dùng khi nào?\n\nQuanh năm — đi làm, gặp gỡ, cà phê, du lịch, dạo phố. Xịt 3-4 nhát vì tỏa nhẹ. Đẹp nhất xuân hè. Ở Sài Gòn dùng quanh năm rất thoải mái.",
+  "verdict": "Chai Byredo best seller — sáng, hoa, thanh lịch. Hợp quanh năm. Niche artistic và rất dễ mến.",
+  "verdictShort": "HOA GỖ CITRUS, ARTISTIC, BEST SELLER",
+  "score": { "scent": 8.8, "uniqueness": 8.8, "compliments": 8.5, "value": 7.0, "total": 8.3 },
+  "vibes": [
+    { "label": "Artistic", "icon": "🎨" },
+    { "label": "Đa dụng", "icon": "🔄" },
+    { "label": "Unisex", "icon": "✨" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 6,
+  "sillage": 6,
+  "seasons": { "spring": 88, "summer": 78, "fall": 62, "winter": 42 },
+  "dayNight": { "day": 82, "night": 52 },
+  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Cúc vạn thọ Phi" }, { "name": "Chanh" }, { "name": "Neroli" }],
+  "middleNotes": [{ "name": "Hoa tím" }, { "name": "Hoa nhài" }, { "name": "Hoa anh thảo" }],
+  "baseNotes": [{ "name": "Cỏ hương bài" }, { "name": "Gỗ tuyết tùng" }, { "name": "Hổ phách đen" }, { "name": "Xạ hương" }],
+  "accords": [
+    { "name": "Thơm thảo mộc", "value": 100, "color": "#2c7a4b" },
+    { "name": "Cam chanh", "value": 82, "color": "#f1c40f" },
+    { "name": "Gỗ", "value": 68, "color": "#8B4513" },
+    { "name": "Hoa", "value": 62, "color": "#e91e63" },
+    { "name": "Phấn", "value": 42, "color": "#d7bde2" }
+  ],
+  "seoTitle": "Byredo Bal d'Afrique chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Byredo Bal d'Afrique chính hãng: mùi hoa gỗ citrus artistic, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Unisex", "Niche", "Artistic", "Đa dụng"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 5500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

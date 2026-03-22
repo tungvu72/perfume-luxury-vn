@@ -1282,47 +1282,49 @@ BR540 thuộc phân khúc niche cao cấp — đắt hơn đáng kể so với d
     brand: "BYREDO",
     name: "Bal d'Afrique",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Jérôme Epinette",
     gender: "unisex",
     image: "/images/products/byredo-bal-dafrique-main.jpg",
-    images: [{ url: "/images/products/byredo-bal-dafrique-main.jpg", source: "amazon", caption: "BYREDO Bal d'Afrique chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Bal d'Afrique là một trong những mùi clean-luxury dễ yêu nhất của Byredo: citrus, hoa mềm, gỗ sáng và xạ hương được làm rất mượt, tạo ra cảm giác vừa tươi vừa ấm rất đặc trưng. Nó không quá niche khó gần, cũng không quá đại trà, mà nằm ở giữa: sang, sáng, vui và có chất thời trang rõ.
+    images: [
+      { url: "/images/products/byredo-bal-dafrique-main.jpg", source: "fragram", caption: "Byredo Bal d'Afrique Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai niche hoa-gỗ-citrus sang nhất Byredo — cam bergamot, cúc vạn thọ Phi, neroli, hoa tím, nhài, cỏ hương bài, gỗ tuyết tùng và xạ hương. Sáng, thanh lịch và rất artistic.",
+    article: `### Ai không nên mua?
 
-Điểm hay của Bal d'Afrique là khả năng tạo cảm giác thoải mái nhưng vẫn đắt. Nó có ánh nắng, có sự sạch sẽ và có độ mềm rất dễ gần. Ở Việt Nam, đây là kiểu mùi dùng được nhiều hoàn cảnh, đặc biệt cho người thích phong cách gọn gàng, nghệ, hơi lifestyle hơn là formal cổ điển.
+Nếu bạn thích mùi ngọt đậm ấm kiểu vani-oud hay mùi beast mode thì Bal d'Afrique quá nhẹ và quá thoáng cho gu đó. Ai cần mùi bám 10+ giờ cũng sẽ hơi thất vọng — Byredo thiên về sillage nhẹ và elegant. Ngoài ra, giá Byredo rất cao.
 
-## Diễn biến trên da
-Mở đầu là citrus và trái cây sáng, sau đó hoa cùng xạ hương làm mùi mềm đi và trở nên rất dễ chịu. Lớp nền gỗ giữ mọi thứ đứng form, không để mùi bị quá nhẹ hay quá ngọt.
+### Có đáng tiền không?
 
-Drydown của Bal d'Afrique rất đẹp: sạch, mềm, hơi kem nhẹ và rất dễ mến. Nó không quá phức tạp, nhưng blend rất khéo nên tạo cảm giác sang nhẹ nhàng. Nhược điểm là ai thích chiều sâu tối hoặc hiệu ứng quá mạnh có thể thấy chai này hơi hiền.
+Bal d'Afrique thuộc phân khúc Byredo niche — top giá. So với Terre d'Hermès (cùng nhóm tươi sang), Bal d'Afrique hoa hơn và artistic hơn. So với Le Labo Santal 33, Bal d'Afrique sáng hơn và ít gỗ hơn. Hiệu năng vừa: bám 6-7 giờ, tỏa nhẹ-vừa. Đây là chai Byredo best seller number 1 — có lý do.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Bal d'Afrique có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa phải. Nó hợp cho ban ngày, đi làm sáng tạo, cà phê, brunch, hẹn nhẹ hoặc làm signature quanh năm.
+### Nên dùng khi nào?
 
-Trong khí hậu Việt Nam, chai này dùng rất tốt vì vừa sáng vừa mềm, không quá nặng. Ưu điểm là dễ mặc, sang và hợp nhiều giới; nhược điểm là giá cao nếu xét trên độ bùng nổ hay độc lạ.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai niche dễ dùng, sạch, sáng và có chất thời trang, Bal d'Afrique là ứng viên rất mạnh. Nó hợp người thích phong cách hiện đại, tinh và không muốn mùi hương quá nghiêm.
-
-Nên mua khi mày cần một signature ban ngày cao cấp, dễ sống chung. Nếu mày muốn một mùi rất tối hoặc cực kỳ khác người, đây không phải hướng đầu tiên.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Quanh năm — đi làm, gặp gỡ, cà phê, du lịch, dạo phố. Xịt 3-4 nhát vì tỏa nhẹ. Đẹp nhất xuân hè. Ở Sài Gòn dùng quanh năm rất thoải mái.`,
+    verdict: "Chai Byredo best seller — sáng, hoa, thanh lịch. Hợp quanh năm. Niche artistic và rất dễ mến.",
+    verdictShort: "HOA GỖ CITRUS, ARTISTIC, BEST SELLER",
+    score: { scent: 8.8, uniqueness: 8.8, compliments: 8.5, value: 7, total: 8.3 },
+    vibes: [{ label: "Artistic", icon: "🎨" }, { label: "Đa dụng", icon: "🔄" }, { label: "Unisex", icon: "✨" }],
+    longevity: 6,
+    sillage: 6,
+    seasons: { spring: 88, summer: 78, fall: 62, winter: 42 },
+    dayNight: { day: 82, night: 52 },
+    topNotes: [{ name: "Cam bergamot" }, { name: "Cúc vạn thọ Phi" }, { name: "Chanh" }, { name: "Neroli" }],
+    middleNotes: [{ name: "Hoa tím" }, { name: "Hoa nhài" }, { name: "Hoa anh thảo" }],
+    baseNotes: [{ name: "Cỏ hương bài" }, { name: "Gỗ tuyết tùng" }, { name: "Hổ phách đen" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Thơm thảo mộc", value: 100, color: "#2c7a4b" },
+      { name: "Cam chanh", value: 82, color: "#f1c40f" },
+      { name: "Gỗ", value: 68, color: "#8B4513" },
+      { name: "Hoa", value: 62, color: "#e91e63" },
+      { name: "Phấn", value: 42, color: "#d7bde2" }
+    ],
+    seoTitle: "Byredo Bal d'Afrique chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Byredo Bal d'Afrique chính hãng: mùi hoa gỗ citrus artistic, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Artistic","Đa dụng"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 5500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "bianco-latte",
@@ -2991,47 +2993,49 @@ Nên mua khi mày muốn một chai mang mood rõ. Nếu mày cần floral sáng
     brand: "VERSACE",
     name: "Pour Homme Dylan Blue",
     subName: "Eau de Toilette",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Alberto Morillas",
     gender: "nam",
     image: "/images/products/versace-dylan-blue-main.jpg",
-    images: [{ url: "/images/products/versace-dylan-blue-main.jpg", source: "amazon", caption: "VERSACE Dylan Blue chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Dylan Blue là một blue fragrance nam hiện đại rất hiệu quả: sạch, tối vừa, có ambroxan, citrus và chút ngọt nhẹ đủ để tạo cảm giác mạnh mẽ nhưng vẫn dễ dùng. Nó không quá tinh như Chanel, cũng không quá khô, mà thiên về việc làm người mặc trông gọn gàng, tự tin và dễ tạo thiện cảm.
+    images: [
+      { url: "/images/products/versace-dylan-blue-main.jpg", source: "fragram", caption: "Versace Pour Homme Dylan Blue Eau de Toilette chính hãng", verified: true }
+    ],
+    description: "Chai nam tươi-thảo mộc bán chạy nhất Versace — cam bergamot, nước, bưởi, lá vả, ambroxan, tiêu đen, hoắc hương, trầm hương và đậu Tonka. Tươi, mạnh và rất đa dụng.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Dylan Blue là tính thực chiến. Đây là kiểu chai dễ dùng, dễ hợp nhiều độ tuổi và bối cảnh, đặc biệt với ai cần một mùi nam hiện đại không quá đắt đỏ. Trong điều kiện Việt Nam, nó hợp đi làm, đi học, đi chơi và dùng quanh năm khá ổn.
+Nếu bạn đã có Sauvage EDT hoặc Bleu de Chanel và cần chai KHÁC BIỆT thì Dylan Blue sẽ hơi trùng vibe — cùng nhóm tươi-ambroxan. Ai thích mùi ngọt ấm hay mùi niche phức tạp cũng sẽ thấy chai này quá generic.
 
-## Diễn biến trên da
-Mở đầu là citrus sạch và cảm giác hơi tối kiểu blue fragrance, sau đó ambroxan cùng nền gỗ giúp tổng thể trở nên nam tính và ổn định hơn. Mùi phát triển gọn, dễ hiểu và hiệu quả.
+### Có đáng tiền không?
 
-Drydown sạch, hơi ngọt nhẹ, nam tính và có độ bám khá dễ chịu. Nó không quá độc bản nhưng làm tốt đúng vai trò của nó. Nhược điểm là ai đã có nhiều chai blue sẽ thấy Dylan Blue không quá mới.
+Dylan Blue thuộc phân khúc entry — rẻ nhất thị trường. So với Dior Sauvage EDT, Dylan Blue mềm hơn và ít gắt hơn. So với Bleu de Chanel, Dylan Blue bình dân hơn nhưng performance tương đương. Hiệu năng tốt: bám 7-8 giờ, tỏa khá mạnh nhờ ambroxan. GIÁ CỰC TỐT — best bang-for-buck designer.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Dylan Blue có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa đến khá. Nó hợp đi làm, đi chơi, ban ngày lẫn tối nhẹ, du lịch hoặc dùng làm chai grab-and-go rất tiện.
+### Nên dùng khi nào?
 
-Ở Việt Nam, đây là kiểu mùi dùng khỏe vì sạch và linh hoạt. Ưu điểm là dễ mặc, nam tính và ít rủi ro; nhược điểm là tính cá nhân không quá cao.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai blue fragrance dễ dùng, giá dễ chịu và hiệu quả tốt, Dylan Blue là lựa chọn đáng cân nhắc. Nó hợp người cần một chai nam hiện đại gọn và không phải suy nghĩ nhiều.
-
-Nên mua khi mày cần một chai everyday đa dụng. Nếu mày muốn chất cao cấp tinh hơn, có thể nhìn sang hướng khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Quanh năm — đi làm, đi học, gặp gỡ, gym, dạo phố. Xịt 2-3 nhát: cổ, ngực. Dùng thoải mái mọi lúc. Ở Sài Gòn dùng quanh năm. Chai safe choice hoàn hảo.`,
+    verdict: "Chai safe choice giá rẻ nhất — tươi, đa dụng, performance tốt. Hợp mọi dịp. Hơi generic nhưng không sai.",
+    verdictShort: "TƯƠI, ĐA DỤNG, GIÁ TỐT NHẤT",
+    score: { scent: 8, uniqueness: 7, compliments: 8.5, value: 9.5, total: 8.3 },
+    vibes: [{ label: "Đa dụng", icon: "🔄" }, { label: "Giá tốt", icon: "💸" }, { label: "Safe choice", icon: "✅" }],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 82, summer: 72, fall: 68, winter: 55 },
+    dayNight: { day: 78, night: 62 },
+    topNotes: [{ name: "Cam bergamot Calabria" }, { name: "Nước" }, { name: "Bưởi" }, { name: "Lá vả" }],
+    middleNotes: [{ name: "Ambroxan" }, { name: "Tiêu đen" }, { name: "Hoắc hương" }, { name: "Lá hoa tím" }, { name: "Papyrus" }],
+    baseNotes: [{ name: "Trầm hương" }, { name: "Xạ hương" }, { name: "Đậu Tonka" }, { name: "Nghệ tây" }],
+    accords: [
+      { name: "Thơm thảo mộc", value: 100, color: "#2c7a4b" },
+      { name: "Gỗ", value: 78, color: "#8B4513" },
+      { name: "Tươi mát", value: 72, color: "#2ecc71" },
+      { name: "Cam chanh", value: 62, color: "#f1c40f" },
+      { name: "Xạ hương", value: 48, color: "#bdc3c7" }
+    ],
+    seoTitle: "Versace Dylan Blue chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Versace Dylan Blue chính hãng: mùi tươi đa dụng giá tốt, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Đa dụng","Giá tốt","Safe choice"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox","200ml Fullbox"],
+    basePrice: 1200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "eau-de-parfum",
