@@ -4,7 +4,7 @@
   "brand": "INITIO",
   "name": "Side Effect",
   "subName": "Eau de Parfum",
-  "perfumer": "Initio",
+  "perfumer": "Initio Parfums Privés",
   "gender": "unisex",
   "image": "/images/products/initio-side-effect-main.jpg",
   "images": [
@@ -15,94 +15,35 @@
       "verified": true
     }
   ],
-  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-  "productCopy": "Initio Side Effect EDP là kiểu nước hoa khiến người ta nghĩ ngay đến chữ quyến rũ theo nghĩa trưởng thành. Mùi hương mở ra với cảm giác rượu mạnh, ngọt ấm và hơi cay, sau đó nhanh chóng đi vào lớp thuốc lá, vanilla và gỗ mềm. Tổng thể vừa dày, vừa mượt, vừa có độ tối vừa đủ để tạo ra cảm giác sang và cuốn mà không bị thô. Đây là một mùi hương không đi theo hướng an toàn, nhưng một khi hợp gu thì rất dễ gây nghiện.\n\nĐiểm mạnh nhất của Side Effect là chiều sâu cảm xúc. Nó không cố gây ấn tượng bằng sự phức tạp cầu kỳ, mà bằng cảm giác rất rõ của một buổi tối đẹp: ánh đèn thấp, ly rượu ngon, không khí ấm và một sự thân mật được kiểm soát. Đây là kiểu mùi unisex nhưng nghiêng về tinh thần sensual nhiều hơn là sạch hay tươi. Người mặc Side Effect thường sẽ tạo cảm giác tự tin, có chủ đích và biết cách để lại dấu ấn.\n\nKhi lên da, lớp rượu và gia vị đầu tạo hiệu ứng rất bắt mũi, nhưng điều đáng giá hơn nằm ở phần dry down. Sau khoảng 20 đến 30 phút, mùi trở nên tròn hơn, mềm hơn và rất ôm da, với vanilla, thuốc lá và nền gỗ làm tất cả hòa lại thành một khối mượt. Đây là lúc Side Effect đẹp nhất: không còn quá sắc, nhưng cực kỳ hấp dẫn ở khoảng cách gần.\n\nVề hiệu năng, Initio Side Effect làm rất tốt. Độ lưu hương lâu, độ tỏa khá rõ và khả năng giữ sự hiện diện trong nhiều giờ là điểm mạnh thực sự. Trong khí hậu Việt Nam, chai này nên dùng vào buổi tối, phòng máy lạnh, mùa mưa hoặc những ngày thời tiết dịu để mùi phát huy đúng chất.\n\nNếu bạn cần một chai nước hoa unisex thiên về quyến rũ, trưởng thành và có chiều sâu rất rõ, Initio Side Effect là lựa chọn cực kỳ đáng thử. Nó không phải kiểu thơm dễ chiều số đông, nhưng lại rất hợp với người muốn mùi hương của mình có sức hút kiểu chậm, dày và rất khó quên.",
-  "article": "Side Effect dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-  "verdictShort": "LIVE CATALOG UPDATE",
-  "score": {
-    "scent": 8.4,
-    "uniqueness": 7.8,
-    "compliments": 8.6,
-    "value": 8.2,
-    "total": 8.3
-  },
+  "description": "Chai niche rượu rum-thuốc lá-vani say đắm nhất — rượu rum, thuốc lá, vani, quế, da thuộc, xạ hương, hedione và nghệ tây. Boozy, smoky và cực kỳ addictive.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi sạch tươi nhẹ nhàng thì Side Effect ở cực đối lập — đây là rượu rum-thuốc lá đậm đặc, ngọt và ấm. Ai ghét mùi thuốc lá hoặc rượu cũng nên tránh. Dùng ban ngày nóng sẽ ngọp.\n\n### Có đáng tiền không?\n\nSide Effect thuộc phân khúc Initio niche. So với PdM Herod (cùng nhóm thuốc lá), Side Effect có rum rõ hơn và boozy hơn. So với Xerjoff Naxos (cùng nhóm gourmand niche), Side Effect ít lavender hơn và nhiều rượu hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa mạnh. Chai \"gây nghiện\" đúng nghĩa.\n\n### Nên dùng khi nào?\n\nMùa thu đông, buổi tối, hẹn hò, tiệc. Xịt 1-2 nhát — tỏa cực mạnh. Đẹp nhất khi trời lạnh. Ở Việt Nam hợp mùa đông Hà Nội.",
+  "verdict": "Chai rum-thuốc lá gây nghiện nhất — boozy, smoky, beast mode 10h+. Hợp thu đông. Addictive thật sự.",
+  "verdictShort": "RUM THUỐC LÁ, BOOZY, ADDICTIVE",
+  "score": { "scent": 9.2, "uniqueness": 9.0, "compliments": 8.8, "value": 7.5, "total": 8.6 },
   "vibes": [
-    {
-      "label": "unisex",
-      "icon": "?"
-    },
-    {
-      "label": "D? d�ng",
-      "icon": "??"
-    },
-    {
-      "label": "Catalog live",
-      "icon": "??"
-    }
+    { "label": "Addictive", "icon": "😵" },
+    { "label": "Boozy", "icon": "🥃" },
+    { "label": "Thu đông", "icon": "🍂" }
   ],
-  "longevity": 7,
-  "sillage": 7,
-  "seasons": {
-    "spring": 68,
-    "summer": 52,
-    "fall": 82,
-    "winter": 78
-  },
-  "dayNight": {
-    "day": 58,
-    "night": 82
-  },
-  "topNotes": [
-    {
-      "name": "Top note"
-    }
-  ],
-  "middleNotes": [
-    {
-      "name": "Middle note"
-    }
-  ],
-  "baseNotes": [
-    {
-      "name": "Base note"
-    }
-  ],
+  "longevity": 10,
+  "sillage": 9,
+  "seasons": { "spring": 22, "summer": 5, "fall": 88, "winter": 98 },
+  "dayNight": { "day": 12, "night": 95 },
+  "topNotes": [{ "name": "Rượu rum" }, { "name": "Quế" }, { "name": "Nghệ tây" }],
+  "middleNotes": [{ "name": "Thuốc lá" }, { "name": "Hedione" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Da thuộc" }, { "name": "Xạ hương" }],
   "accords": [
-    {
-      "name": "Ch? d?o",
-      "value": 58,
-      "color": "#8B4513"
-    },
-    {
-      "name": "D? d�ng",
-      "value": 32,
-      "color": "#1abc9c"
-    },
-    {
-      "name": "Hi?n d?i",
-      "value": 24,
-      "color": "#9b59b6"
-    },
-    {
-      "name": "?m",
-      "value": 20,
-      "color": "#e67e22"
-    }
+    { "name": "Rượu", "value": 100, "color": "#722f37" },
+    { "name": "Gia vị ấm", "value": 85, "color": "#e67e22" },
+    { "name": "Thuốc lá", "value": 72, "color": "#5d4037" },
+    { "name": "Ngọt", "value": 62, "color": "#8B0000" },
+    { "name": "Vani", "value": 55, "color": "#F5DEB3" }
   ],
-  "seoTitle": "Initio Side Effect chính hãng giá bao nhiêu? Review 2026",
-  "metaDescription": "Đánh giá Initio Side Effect chính hãng: mùi rum vanilla hổ phách đậm, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-  "tags": [
-    "unisex",
-    "Catalog",
-    "Live",
-    "2026"
-  ],
-  "sizes": [
-    "10ml Chi?t",
-    "50ml Fullbox",
-    "100ml Fullbox"
-  ],
-  "basePrice": 1990000,
-  "shopeeOffers": []
+  "seoTitle": "Initio Side Effect chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Initio Side Effect chính hãng: mùi rum thuốc lá vani boozy niche, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Unisex", "Niche", "Addictive", "Thu đông"],
+  "sizes": ["10ml Chiết", "90ml Fullbox"],
+  "basePrice": 5800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

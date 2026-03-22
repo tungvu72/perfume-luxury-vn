@@ -4,51 +4,46 @@
   "brand": "ESSENTIAL PARFUMS",
   "name": "Bois Impérial",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Quentin Bisch",
   "gender": "unisex",
   "image": "/images/products/essential-parfums-bois-imperial-main.jpg",
   "images": [
     {
       "url": "/images/products/essential-parfums-bois-imperial-main.jpg",
-      "source": "amazon",
-      "caption": "ESSENTIAL PARFUMS Bois Imperial chính hãng",
+      "source": "fragram",
+      "caption": "Essential Parfums Bois Impérial Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nBois Impérial là kiểu woody-aromatic hiện đại rất sáng, rất khoáng và cực kỳ đúng tinh thần niche tối giản. Nó không ngọt, không quá ấm, không đi theo kiểu gỗ cổ điển, mà thiên về cảm giác sạch, xanh, mineral và rất sắc. Đây là một mùi hương có cá tính rõ nhưng vẫn dùng được thực tế, nhất là trong thời tiết nóng.\n\nĐiểm mạnh của Bois Impérial là sự hiện đại. Nó cho cảm giác công nghệ, kiến trúc, vật liệu sạch hơn là gỗ mềm truyền thống. Trong bối cảnh Việt Nam, đây là chai cực hợp cho người thích mùi khác số đông nhưng vẫn thoáng và wearable ban ngày.\n\n## Diễn biến trên da\nMở đầu khá sắc và khoáng, sau đó phần gỗ cùng aromatic xanh bắt đầu tròn lại nhưng vẫn giữ độ crisp. Mùi phát triển gọn, không quá nhiều tầng, nhưng bản sắc rất rõ.\n\nDrydown sạch, hơi mặn-khoáng và gỗ sáng, bám da đẹp theo kiểu rất hiện đại. Nhược điểm là ai thích mùi mềm, ngọt hoặc cổ điển có thể thấy nó hơi lạnh.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nBois Impérial có độ lưu hương khá đến tốt, khoảng 6-8 giờ; tỏa hương vừa đến khá. Nó hợp đi làm, ban ngày, mùa nóng, môi trường sáng tạo hoặc làm signature cho người thích mùi niche sạch-sắc.\n\nỞ Việt Nam, chai này dùng rất khỏe. Ưu điểm là hiện đại, khác biệt và ít ngợp; nhược điểm là không phải kiểu mùi ai cũng thấy “dễ thương” ngay.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai woody hiện đại, khoáng, sáng và có cá tính riêng, Bois Impérial là cái tên rất đáng thử. Nó hợp người thích phong cách tối giản, lạnh và khác biệt với blue fragrance phổ thông.\n\nNên mua khi mày cần một chai ban ngày có gu riêng. Nếu mày thích mùi ấm, ngọt hoặc mềm mại, hướng này có thể chưa hợp.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Unisex",
-    "NEEDS_SOURCE"
+  "description": "Chai niche gỗ-gia vị giá tốt nhất — akigalawood, húng quế, cỏ hương bài, tiêu Timur, ambroxan và hoắc hương. Gỗ sạch, gia vị tươi và cực kỳ đa dụng.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt vani hay mùi hoa nữ tính thì Bois Impérial quá gỗ và quá sạch cho gu đó. Ai cần mùi nổi bật nhận diện ngay cũng sẽ thấy chai này subtle — nó đẹp nhưng gần da.\n\n### Có đáng tiền không?\n\nBois Impérial là deal tốt nhất niche — giá bằng designer nhưng chất niche thật. So với Dior Sauvage (cùng ambroxan), Bois Impérial gỗ hơn và tinh tế hơn rất nhiều. So với Ganymede (cùng perfumer Quentin Bisch), Bois Impérial ấm hơn và ít metallic hơn. Hiệu năng tốt: bám 7-8 giờ. Best value niche trên thị trường.\n\n### Nên dùng khi nào?\n\nQuanh năm — đi làm, gặp gỡ, dạo phố. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất thu xuân. Ở Sài Gòn dùng quanh năm.",
+  "verdict": "Chai niche giá tốt nhất — gỗ, gia vị, akigalawood. Best value niche. Đa dụng quanh năm.",
+  "verdictShort": "GỖ GIA VỊ, BEST VALUE NICHE",
+  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 8.2, "value": 9.5, "total": 8.8 },
+  "vibes": [
+    { "label": "Best value", "icon": "💸" },
+    { "label": "Đa dụng", "icon": "🔄" },
+    { "label": "Niche", "icon": "💎" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": { "spring": 78, "summer": 55, "fall": 82, "winter": 72 },
+  "dayNight": { "day": 72, "night": 65 },
+  "topNotes": [{ "name": "Húng quế" }, { "name": "Tiêu Timur" }],
+  "middleNotes": [{ "name": "Akigalawood" }, { "name": "Gỗ" }],
+  "baseNotes": [{ "name": "Cỏ hương bài" }, { "name": "Ambroxan" }, { "name": "Hoắc hương" }],
+  "accords": [
+    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
+    { "name": "Gia vị tươi", "value": 78, "color": "#27ae60" },
+    { "name": "Thơm thảo mộc", "value": 65, "color": "#2c7a4b" },
+    { "name": "Hổ phách", "value": 52, "color": "#d4a017" },
+    { "name": "Tươi mát", "value": 42, "color": "#2ecc71" }
+  ],
+  "seoTitle": "Essential Parfums Bois Impérial chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Essential Parfums Bois Impérial chính hãng: mùi gỗ gia vị niche giá tốt nhất, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Unisex", "Niche", "Best value", "Đa dụng"],
+  "sizes": ["10ml Chiết", "100ml Fullbox", "150ml Fullbox"],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
