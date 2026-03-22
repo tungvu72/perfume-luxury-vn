@@ -279,65 +279,43 @@ Ngay từ đầu đã có cảm giác ngọt và hơi tối. Sau đó cà phê, 
     gender: "nam",
     image: "/images/products/creed-aventus-main.jpg",
     images: [{ url: "/images/products/creed-aventus-main.jpg", source: "fragram", caption: "Creed Aventus chính hãng", verified: true }],
-    description: "Đây là kiểu mùi nam trái cây, khói và khá có khí chất. Hợp người muốn thử một chai nổi tiếng, có tính tham chiếu cao trong thế giới nước hoa. Nếu bạn chỉ cần một chai dễ dùng, ít drama và giá hợp lý, bản này không phải lựa chọn đơn giản nhất.",
-    productCopy: `Creed Aventus EDP là một trong những chai nước hoa nam được nhắc đến nhiều nhất khi nói về hình ảnh thành đạt, tự tin và có khí chất lãnh đạo. Mùi mở đầu bằng cảm giác trái cây tươi sáng, thường gợi ra sự mọng của dứa và táo, sau đó chuyển dần sang lớp hương khói nhẹ và gỗ khô rất đặc trưng. Tổng thể vừa sáng, vừa sang, vừa có độ nam tính hiện đại.
+    description: "Chai nước hoa nam biểu tượng — mùi trái cây tươi sáng mở đầu, chuyển sang khói gỗ bạch dương rất đặc trưng. Sang, có khí chất lãnh đạo, hợp người muốn thử một chai nổi tiếng nhất thế giới nước hoa.",
+    article: `### Ai không nên mua?
 
-Điểm khiến Aventus được yêu thích là sự cân bằng giữa độ dễ dùng và độ đẳng cấp. Nó không quá tối, không quá ngọt, không quá trẻ, cũng không quá già. Mùi hương này cho cảm giác chỉn chu, giàu năng lượng và có sự tự tin tự nhiên, rất hợp với người làm việc trong môi trường cần hình ảnh chuyên nghiệp.
+Nếu bạn đang tìm một chai dễ mua, giá mềm và không cần nghĩ nhiều thì Aventus không phải lựa chọn. Đây là phân khúc niche cao cấp, giá không hề rẻ và có vấn đề batch — mỗi lô sản xuất mùi có thể hơi khác nhau. Ai không thích mùi trái cây (đặc biệt dứa) cũng sẽ không hợp vì dứa rất rõ ở lớp đầu. Ngoài ra, nếu bạn muốn mùi ngọt ấm kiểu gourmand, Aventus hoàn toàn không theo hướng đó.
 
-Trên da, Creed Aventus thay đổi khá thú vị. Lớp đầu tươi và sắc nét, nhưng càng về sau lại càng mượt, khô và lịch lãm hơn. Cảm giác khói ở đây không quá nặng mà chỉ đủ để tạo chiều sâu, giúp chai này khác biệt với nhiều mùi fresh thông thường. Chính điều đó làm nó vừa dễ gần, vừa có chất riêng.
+### Có đáng tiền không?
 
-Về hiệu năng, Aventus lưu hương khá ổn và tỏa hương vừa phải đến khá, tùy da. Đây là kiểu mùi dùng tốt cho đi làm, gặp khách hàng, sự kiện, hẹn hò hoặc những ngày cần ăn mặc gọn gàng. Trong khí hậu Việt Nam, nó hoạt động đẹp ở cả ban ngày lẫn buổi tối, đặc biệt trong môi trường máy lạnh.
+Aventus thuộc phân khúc niche cao cấp nhất — đắt hơn đáng kể so với các chai designer như Bleu de Chanel hay Sauvage. Nhưng so với các chai niche cùng tầm như Tom Ford Oud Wood hay Louis Vuitton Imagination, Aventus có lợi thế là độ nhận diện rất cao và tính tham chiếu mạnh. Nhiều chai clone lấy cảm hứng từ Aventus (như Armaf CDNIM) nhưng không chai nào đạt được sự cân bằng giữa trái cây, khói và gỗ như bản gốc. Nếu chưa chắc, nên mua chiết 10ml dùng thử trước — vì đây là khoản đầu tư lớn.
 
-Nếu bạn đang tìm một chai nước hoa nam cao cấp, lịch lãm và có khả năng tạo thiện cảm rất tốt, Creed Aventus EDP vẫn là cái tên đáng cân nhắc. Nó không quá phá cách, nhưng độ hoàn thiện và thần thái mà nó mang lại vẫn khiến nhiều người xem đây là một chuẩn mực khó thay thế.`,
-    article: `Tại Maison de SON, Creed Aventus thường được xem như một cột mốc trong nhóm nước hoa nam cao cấp. Với nhiều người chơi lâu năm, đây gần như là cái tên phải thử một lần để biết vì sao nó được nhắc nhiều đến vậy. Trong số các chai nổi bật của Creed, Aventus là biểu tượng rõ nhất.
+### Nên dùng khi nào?
 
-### Nguồn gốc và xuất xứ
-Aventus thuộc Creed - nhà nước hoa lâu đời ở phân khúc cao cấp, nổi tiếng với hình ảnh sang trọng và câu chuyện di sản.
-
-### Ra mắt khi nào?
-Aventus ra mắt năm 2010 và rất nhanh đã trở thành một trong những chai nam cao cấp nổi tiếng nhất thế giới.
-
-### Câu chuyện ra đời
-Điều làm Aventus đặc biệt không chỉ là mùi, mà còn là ảnh hưởng của nó lên thị trường. Nó kéo theo vô số bản lấy cảm hứng, đồng thời cũng tạo ra cả một văn hóa tranh luận về batch, hiệu năng và giá trị thật.
-
-### Dòng Aventus có những phiên bản nào?
-- Aventus EDP bản chủ lực
-- Aventus Cologne sáng và dễ dùng hơn
-- Ngoài ra còn có khác biệt batch giữa nhiều giai đoạn sản xuất
-
-### Mùi hương mang lại cảm giác gì?
-Lúc đầu sẽ thấy trái cây sáng, đặc biệt là dứa. Sau đó phần gỗ và khói đi lên khiến mùi có chiều sâu hơn. Tổng thể vừa có sự sang, vừa có chút kiêu và khá dễ làm người khác nhớ.
-
-### Khi nào nên dùng?
-- Gặp gỡ, đi chơi, môi trường cần tạo hình ảnh chỉn chu
-- Hợp người muốn thử một chai có tiếng trong giới chơi nước hoa
-- Không hợp lắm nếu bạn đang tìm lựa chọn tiết kiệm và ít phải nghĩ nhiều
-
-### Nhận xét của Maison de SON
-Aventus đáng thử vì nó là một hệ quy chiếu quan trọng. Nhưng cũng cần nói thật: giá cao, batch là chuyện có thật, và không phải ai ngửi xong cũng thấy xứng đáng ngay với số tiền bỏ ra.`,
-    verdict: "Mùi này sang, có trái cây và khói rất dễ nhận ra. Hợp người muốn thử một chai có tiếng và có khí chất rõ. Nếu bạn ưu tiên dễ mua, dễ dùng và giá mềm, Aventus không phải đường ngắn nhất.",
-    verdictShort: "SANG, CÓ KHÍ CHẤT, DỄ NHỚ",
+Aventus đẹp nhất khi đi gặp khách hàng, dự sự kiện hoặc những ngày cần hình ảnh chỉn chu, tự tin. Xịt 2 nhát — 1 sau gáy, 1 trước ngực là đủ. Dùng được cả ngày lẫn tối, nhưng đẹp nhất khi trời mát (dưới 28°C). Mùa thu và xuân ở Hà Nội là lúc Aventus tỏa đẹp nhất. Ở Sài Gòn nên dùng trong phòng máy lạnh hoặc buổi tối. Đừng xịt quá nhiều — 2 nhát là tối ưu.`,
+    verdict: "Chai nam biểu tượng — trái cây, khói, gỗ rất cân bằng. Sang, có khí chất và tạo thiện cảm tốt. Giá cao, cần thử trước khi quyết định fullbox.",
+    verdictShort: "BIỂU TƯỢNG, SANG, CÓ KHÍ CHẤT",
     score: { scent: 9.3, uniqueness: 9.4, compliments: 8.8, value: 6.2, total: 8.4 },
     vibes: [{ label: "Niche", icon: "💎" }, { label: "Nam tính", icon: "🖤" }, { label: "Biểu tượng", icon: "👑" }],
-    longevity: 7,
+    longevity: 8,
     sillage: 7,
-    seasons: { spring: 72, summer: 52, fall: 90, winter: 84 },
-    dayNight: { day: 75, night: 78 },
-    topNotes: [{ name: "Dứa" }, { name: "Cam bergamot" }, { name: "Lý chua đen" }, { name: "Táo" }],
-    middleNotes: [{ name: "Bạch dương" }, { name: "Hoắc hương" }, { name: "Hoa hồng" }, { name: "Hoa nhài Morocco" }],
-    baseNotes: [{ name: "Xạ hương" }, { name: "Địa y" }, { name: "Long diên hương" }, { name: "Vani" }],
+    seasons: { spring: 80, summer: 50, fall: 90, winter: 75 },
+    dayNight: { day: 75, night: 70 },
+    topNotes: [{ name: "Lý chua đen" }, { name: "Cam bergamot" }, { name: "Táo" }, { name: "Dứa" }],
+    middleNotes: [{ name: "Hoa hồng" }, { name: "Bạch dương" }, { name: "Hoa nhài Morocco" }, { name: "Hoắc hương" }],
+    baseNotes: [{ name: "Địa y" }, { name: "Xạ hương" }, { name: "Long diên hương" }, { name: "Vani" }],
     accords: [
-      { name: "Trái cây", value: 88, color: "#f39c12" },
-      { name: "Khói", value: 70, color: "#616161" },
-      { name: "Gỗ", value: 68, color: "#8B4513" },
-      { name: "Tươi", value: 62, color: "#2ecc71" }
+      { name: "Trái cây", value: 100, color: "#f39c12" },
+      { name: "Ngọt", value: 72, color: "#e74c3c" },
+      { name: "Da thuộc", value: 68, color: "#8B4513" },
+      { name: "Gỗ", value: 65, color: "#6D4C41" },
+      { name: "Khói", value: 60, color: "#616161" }
     ],
-    seoTitle: "Creed Aventus chính hãng giá bao nhiêu? Review mùi hương 2026",
-    metaDescription: "Đánh giá Creed Aventus chính hãng: mùi trái cây khói biểu tượng, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026 tại Maison De Son.",
-    tags: ["Cao cấp","Nam","Biểu tượng","Chủ lực"],
+    seoTitle: "Creed Aventus chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Creed Aventus chính hãng: mùi trái cây khói biểu tượng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Cao cấp","Nam","Biểu tượng","Niche"],
     sizes: ["5ml Chiết","10ml Chiết","100ml Fullbox"],
     basePrice: 8000000,
-    shopeeOffers: []
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "baccarat-rouge-540",
@@ -351,64 +329,43 @@ Aventus đáng thử vì nó là một hệ quy chiếu quan trọng. Nhưng cũ
     images: [
       { url: "/images/products/baccarat-rouge-540-main.jpg", source: "fragram", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum chính hãng", verified: true }
     ],
-    description: "Đây là kiểu mùi ngọt trong, sang và rất dễ để lại ấn tượng. Hợp người thích mùi nổi tiếng, có độ nhận diện cao và thiên unisex. Nếu bạn không thích kiểu mùi ngọt hơi bay bay hoặc sợ đụng hàng, bạn nên cân nhắc.",
-    productCopy: `Maison Francis Kurkdjian Baccarat Rouge 540 EDP là một trong những chai nước hoa niche có độ nhận diện cao nhất trên thị trường hiện nay. Điều làm nó đặc biệt không nằm ở việc mùi quá phức tạp, mà ở chỗ nó tạo ra một hiệu ứng rất riêng: sáng, trong, hơi ngọt, hơi khoáng và gần như có cảm giác phát sáng trên da. Đây là kiểu mùi khiến nhiều người ngửi một lần là nhớ, vì nó không đi theo lối hoa ngọt hay gỗ ấm truyền thống.
+    description: "Chai nước hoa unisex biểu tượng — mùi ngọt trong, hổ phách sáng và có cảm giác phát sáng trên da. Sang, lạ và cực kỳ dễ nhớ. Hợp người thích mùi unisex có độ nhận diện cao.",
+    article: `### Ai không nên mua?
 
-Điểm đắt của Baccarat Rouge 540 là cảm giác sang theo kiểu sạch sẽ, hiện đại và rất có không khí. Nó không phô trương bằng độ dày hay độ tối, mà gây ấn tượng bằng một thứ aura rất đặc trưng: trong veo nhưng không mỏng, ngọt nhưng không kẹo, ấm nhưng không nặng. Chính sự lửng lơ đó làm chai này vừa unisex thật sự, vừa rất dễ tạo tò mò với người xung quanh.
+Nếu bạn không thích mùi ngọt dạng bay bay, hơi airy thì BR540 không hợp. Đây là kiểu mùi rất đặc trưng — có người mê ngay, có người thấy lạ không chịu được. Ai thích mùi sạch sẽ kiểu fresh hoặc mùi gỗ khô tối sẽ không hợp với BR540. Ngoài ra, vì chai này quá nổi tiếng nên khả năng đụng hàng rất cao — nếu bạn cần sự độc lạ riêng thì cũng nên cân nhắc.
 
-Khi lên da, Baccarat Rouge 540 thường cho cảm giác thoáng ở giai đoạn đầu, sau đó dần trở nên ấm hơn và mượt hơn. Nhiều người cảm nhận nó như mùi đường cháy rất tinh khiết, pha cùng nhựa hổ phách và chút khoáng sạch. Nó không phải kiểu ôm sát da hiền lành, mà là kiểu tạo vùng hương mờ nhưng rõ sự hiện diện, rất hợp với những ai thích một mùi thơm sang mà không cần nói quá nhiều.
+### Có đáng tiền không?
 
-Về hiệu năng, đây là chai làm rất tốt ở cả độ lưu hương lẫn độ tỏa. Trong điều kiện khí hậu Việt Nam, Baccarat Rouge 540 vẫn hoạt động ổn nếu dùng tiết chế, đặc biệt đẹp trong môi trường máy lạnh, buổi tối hoặc những dịp cần hình ảnh chỉn chu. Chỉ cần vài xịt là đủ, vì đây là dạng mùi rất dễ đọng lại trong trí nhớ người khác.
+BR540 thuộc phân khúc niche cao cấp — đắt hơn đáng kể so với designer. Nhưng so với các chai niche cùng tầm giá, BR540 có lợi thế là hiệu năng rất tốt: chỉ cần 2 nhát xịt, mùi bám cả ngày và tỏa khá xa. Nhiều chai clone lấy cảm hứng từ BR540 (như Ariana Cloud, Lattafa Oud For Glory) nhưng không chai nào đạt được sự tinh tế của bản gốc. So với bản Extrait thì EDP sáng hơn, nhẹ hơn và dễ dùng hằng ngày hơn. Nếu chưa chắc, nên mua chiết 5-10ml dùng thử trước.
 
-Nếu bạn muốn một chai nước hoa niche sang, khác biệt, có độ nhận diện cao và tạo cảm giác đắt tiền rất rõ, Baccarat Rouge 540 là lựa chọn cực mạnh. Nó không dành cho người thích sự kín đáo tuyệt đối, nhưng lại rất hợp với ai muốn mùi hương của mình vừa tinh tế, vừa có sức hút riêng khó nhầm lẫn.`,
-    article: `Tại Maison de SON, Baccarat Rouge 540 là một trong những chai nước hoa unisex được nhắc đến nhiều nhất trong vài năm gần đây. Nó không phải kiểu mùi ai cũng mô tả được bằng lời, nhưng lại là kiểu ngửi một lần rất dễ nhớ. Trong các sáng tạo nổi bật của Maison Francis Kurkdjian, đây là cái tên có sức ảnh hưởng mạnh nhất.
+### Nên dùng khi nào?
 
-### Nguồn gốc và xuất xứ
-Đây là sản phẩm của Maison Francis Kurkdjian - nhà nước hoa Pháp cao cấp nổi tiếng với các mùi hiện đại, tinh chỉnh và có độ nhận diện mạnh.
-
-### Ra mắt khi nào?
-Baccarat Rouge 540 ra mắt năm 2015 và nhanh chóng trở thành hiện tượng lớn trong thế giới nước hoa cao cấp.
-
-### Câu chuyện ra đời
-Mùi này được tạo ra trong bối cảnh hợp tác với Baccarat để đánh dấu cột mốc của nhà pha lê nổi tiếng. Vì vậy nó không chỉ là một chai thơm, mà còn gắn với một câu chuyện thương hiệu khá đặc biệt.
-
-### Dòng Baccarat Rouge 540 có những phiên bản nào?
-- Baccarat Rouge 540 EDP
-- Baccarat Rouge 540 Extrait de Parfum đậm và dày hơn
-
-### Mùi hương mang lại cảm giác gì?
-Đây là kiểu ngọt trong, hơi airy, có saffron, hổ phách và gỗ. Nó vừa sang vừa lạ với người mới, nhưng với người đã ngửi nhiều thì lại rất dễ nhận ra ngay từ xa.
-
-### Khi nào nên dùng?
-- Đi chơi, gặp gỡ, dịp muốn tạo dấu ấn
-- Hợp cả nam và nữ nếu thích mùi ngọt sang
-- Không hợp lắm nếu bạn sợ đụng hàng hoặc ghét kiểu ngọt bay
-
-### Nhận xét của Maison de SON
-BR540 nổi tiếng là có lý do, vì nó thực sự tạo ra hiệu ứng nhận diện rất mạnh. Nhưng cũng cần nói thật: vì nổi quá nên cảm giác độc lạ của nó không còn như thời đầu nữa.`,
+Đẹp nhất khi trời mát — mùa đông Hà Nội hoặc mùa mưa Sài Gòn. Hợp đi ăn tối, dự tiệc hoặc những dịp muốn tạo dấu ấn. Xịt 1 nhát sau gáy và 1 nhát cổ tay là đủ — đừng xịt quá 2 nhát vì mùi rất tỏa. Dùng ban ngày trong phòng máy lạnh cũng đẹp. Đừng dùng ngày nóng 35°C ngoài trời vì sẽ hơi ngọp.`,
     verdict: "Mùi này sang, ngọt và rất dễ bị nhớ. Hợp người thích mùi unisex có độ nhận diện cao và muốn tạo dấu ấn. Nếu bạn ghét đụng hàng hoặc không thích ngọt, bản này có thể không hợp.",
     verdictShort: "SANG, NGỌT VÀ RẤT DỄ NHỚ",
     score: { scent: 9.5, uniqueness: 9, compliments: 9, value: 7.1, total: 8.7 },
     vibes: [{ label: "Phi giới tính", icon: "✨" }, { label: "Sang trọng", icon: "💎" }, { label: "Biểu tượng", icon: "👑" }],
-    longevity: 9,
+    longevity: 8,
     sillage: 8,
-    seasons: { spring: 65, summer: 45, fall: 90, winter: 95 },
-    dayNight: { day: 55, night: 95 },
+    seasons: { spring: 60, summer: 35, fall: 90, winter: 95 },
+    dayNight: { day: 35, night: 85 },
     topNotes: [{ name: "Nghệ tây" }, { name: "Hoa nhài" }],
-    middleNotes: [{ name: "Amberwood" }, { name: "Ambergris" }],
+    middleNotes: [{ name: "Amberwood" }, { name: "Long diên hương" }],
     baseNotes: [{ name: "Nhựa thông" }, { name: "Gỗ tuyết tùng" }],
     accords: [
-      { name: "Hổ phách", value: 100, color: "#d4a017" },
-      { name: "Ngọt", value: 84, color: "#FF6D00" },
-      { name: "Gia vị ấm", value: 58, color: "#b05c00" },
-      { name: "Gỗ", value: 55, color: "#614326" }
+      { name: "Gỗ", value: 100, color: "#8B4513" },
+      { name: "Hổ phách", value: 92, color: "#d4a017" },
+      { name: "Gia vị ấm", value: 72, color: "#b05c00" },
+      { name: "Kim loại", value: 58, color: "#9E9E9E" },
+      { name: "Gia vị tươi", value: 48, color: "#4CAF50" }
     ],
-    seoTitle: "BR 540 chính hãng giá bao nhiêu? Review mùi hương 2026",
-    metaDescription: "Đánh giá Baccarat Rouge 540 chính hãng: mùi ngọt trong sang trọng, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
+    seoTitle: "Baccarat Rouge 540 chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Baccarat Rouge 540 chính hãng: mùi ngọt trong sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
     tags: ["Unisex","Cao cấp","Hổ phách","Biểu tượng"],
     sizes: ["5ml Chiết","10ml Chiết","70ml Fullbox"],
     basePrice: 6700000,
-    shopeeOffers: []
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "tom-ford-noir-extreme",
@@ -563,75 +520,44 @@ Nếu cần một chai nước hoa nam an toàn nhưng vẫn đủ lịch sự v
     gender: "nam",
     image: "/images/products/ysl-y-edp-main.jpg",
     images: [{ url: "/images/products/ysl-y-edp-main.jpg", source: "fragram", caption: "YSL Y Eau de Parfum chính hãng", verified: true }],
-    description: "Đây là kiểu mùi nam tươi, ngọt nhẹ và rất dễ gần. Hợp người trẻ hoặc người thích phong cách hiện đại, gọn gàng. Nếu bạn ghét ambroxan hoặc không thích mùi phổ thông dễ khen, bản này có thể hơi quen.",
-    productCopy: `## Mùi hương tổng thể
-Y Eau de Parfum là một trong những chai designer nam hiện đại thành công nhất vì nó kết hợp được cảm giác sạch, trẻ, ambroxan sáng và chút ngọt vừa đủ theo kiểu rất dễ dùng. Đây là loại mùi đúng nghĩa mass appealing: vừa dễ ngửi, vừa lên người gọn gàng, vừa đủ hiện đại để hợp gu số đông.
+    description: "Chai nam tươi sạch, ngọt nhẹ kiểu hiện đại — rất dễ gần và dễ được khen. Hợp người trẻ hoặc ai cần một chai đa dụng dùng hằng ngày không sợ lỗi.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Y EDP là tính linh hoạt. Nó không quá thể thao, không quá nghiêm, cũng không quá tình cảm. Thành ra đi làm, đi chơi, hẹn hò nhẹ hay dùng hằng ngày đều ổn. Ở thị trường Việt Nam, đây là kiểu chai rất dễ được đón nhận vì nó sạch, tươi và có cảm giác sáng nam tính vừa phải.
+Nếu bạn đã có nhiều chai designer nam hiện đại kiểu Dior Sauvage, Dylan Blue hay Prada Luna Rossa Carbon thì Y EDP sẽ hơi quen vì cùng nhóm fresh-ambroxan. Ai thích mùi đặc biệt, cá tính riêng hoặc theo hướng niche sẽ thấy chai này quá an toàn và thiếu chiều sâu. Ngoài ra, người ghét ambroxan (cái chất sạch hơi tổng hợp phổ biến ở designer đời mới) thì nên tránh.
 
-## Diễn biến trên da
-Mở đầu là táo, bergamot và độ sạch mát khá rõ. Sau đó xô thơm, gỗ và ambroxan làm tổng thể trở nên hiện đại hơn, nam tính hơn và có hiệu ứng thơm sạch rất quen thuộc của designer đời mới.
+### Có đáng tiền không?
 
-Drydown của Y EDP ôm về hướng fresh-sweet ambroxan khá mượt. Nó không có chiều sâu quá phức tạp, nhưng cực kỳ hiệu quả trong đời sống thực tế. Nhược điểm là độ độc đáo không cao nếu mày đã ngửi nhiều designer nam cùng thời.
+Y EDP thuộc phân khúc designer tầm trung — giá mềm hơn Bleu de Chanel hay Dior Sauvage EDP. So với Bleu de Chanel, Y EDP trẻ hơn, tươi hơn nhưng ít sâu hơn. So với Sauvage EDP, Y EDP ít nặng hơn và dễ dùng hằng ngày hơn. Hiệu năng khá tốt cho phân khúc: bám 7-8 giờ, tỏa rõ trong 3-4 giờ đầu. Nếu cần một chai đa dụng, dễ khen và không đắt, Y EDP là lựa chọn rất đáng cân nhắc. Nên mua chiết 10ml thử trước.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Y EDP có hiệu năng tốt trong phân khúc, thường 7-9 giờ và tỏa hương khá rõ ở giai đoạn đầu. Nó hợp đi làm, đi học, đi chơi, hẹn hò, dùng quanh năm và đặc biệt tốt với người cần một chai đa dụng.
+### Nên dùng khi nào?
 
-Trong khí hậu Việt Nam, Y EDP dùng ổn cả ngày nóng lẫn tối mát nếu xịt hợp lý. Ưu điểm là dễ dùng, bám khá và dễ được khen; nhược điểm là cảm giác hơi phổ biến với người thích mùi cá tính hơn.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày cần một chai nam hiện đại, đa dụng, dễ khen và gần như khó fail, Y EDP là lựa chọn rất mạnh. Nó hợp người mới chơi, người trẻ hoặc ai cần một chai all-rounder đáng tin cậy.
-
-Nên mua khi mày muốn một signature dễ dùng. Nếu mày cần cá tính riêng mạnh hoặc một mùi ít đụng hàng hơn, nên tìm sang nhóm niche hoặc designer đặc thù hơn.`,
-    article: `Tại Maison de SON, Y Eau de Parfum là một trong những chai nước hoa nam hiện đại dễ tiếp cận nhất của Yves Saint Laurent. Nó vừa sáng, vừa sạch, vừa có độ ngọt nhẹ đủ để tạo thiện cảm mà không quá nặng nề.
-
-### Nguồn gốc và xuất xứ
-Y là dòng nước hoa nam nổi bật của Yves Saint Laurent, thương hiệu Pháp nổi tiếng ở nhóm mùi hiện đại và dễ dùng. Dòng này hướng tới hình ảnh trẻ, năng động và gọn gàng.
-
-### Ra mắt khi nào?
-Y Eau de Parfum ra mắt năm 2018. So với bản EDT, phiên bản này đậm hơn, giữ mùi tốt hơn và có cảm giác hoàn thiện hơn.
-
-### Câu chuyện ra đời
-Y được tạo ra cho nhóm nam trẻ thích sự sạch sẽ, chỉn chu nhưng vẫn muốn có chút cá tính. Bản EDP giúp công thức trưởng thành hơn và dùng được nhiều dịp hơn.
-
-### Có những phiên bản nào trong dòng Y?
-- Y EDT: nhẹ và sáng hơn
-- Y EDP: cân bằng nhất với đa số người dùng
-- Y Le Parfum: đậm và tối hơn
-
-### Mùi hương mang lại cảm giác gì?
-Mở đầu là táo, cam bergamot và gừng cho cảm giác tươi. Sau đó sage, ambroxan và gỗ đi lên, tạo ra tổng thể sạch, trẻ và rất dễ được thích.
-
-### Khi nào nên dùng?
-- Đi học, đi làm, đi chơi hằng ngày
-- Hợp người thích phong cách trẻ, sáng và gọn gàng
-- Không hợp lắm nếu bạn ghét mùi hiện đại kiểu ambroxan
-
-### Nhận xét của Maison de SON
-Y EDP là chai dễ gợi ý cho người muốn một mùi nam thời nay, dễ dùng và dễ được khen. Điểm yếu là không quá khác biệt nếu bạn đã thử nhiều chai cùng nhóm.`,
-    verdict: "Mùi này tươi, sạch và dễ gần. Hợp người cần một chai trẻ trung để dùng hằng ngày mà không phải suy nghĩ nhiều. Nếu bạn ghét kiểu mùi hiện đại dễ khen, bản này sẽ hơi quen.",
+Dùng được quanh năm — đi làm, đi học, đi chơi, hẹn hò nhẹ. Xịt 2-3 nhát: 1 sau gáy, 1 trước ngực, 1 cổ tay. Đẹp nhất vào mùa xuân và thu khi trời mát (22-28°C). Ở Sài Gòn dùng tốt trong phòng máy lạnh. Đây là kiểu chai xịt xong đi luôn, không cần nghĩ nhiều. Đừng dùng cho dịp quan trọng cần gây ấn tượng mạnh — Y EDP là mùi dễ chịu hơn là mùi ấn tượng.`,
+    verdict: "Mùi này tươi, sạch và dễ gần. Hợp người cần một chai trẻ trung để dùng hằng ngày mà không phải suy nghĩ nhiều. Không hợp ai tìm sự độc đáo hay cá tính mạnh.",
     verdictShort: "TƯƠI, SẠCH, DỄ GẦN",
     score: { scent: 8.7, uniqueness: 7.5, compliments: 9.1, value: 8.5, total: 8.4 },
     vibes: [{ label: "Trẻ trung", icon: "⚡" }, { label: "Hằng ngày", icon: "🧴" }, { label: "Dễ khen", icon: "👍" }],
-    longevity: 8,
-    sillage: 8,
-    seasons: { spring: 82, summer: 68, fall: 82, winter: 70 },
-    dayNight: { day: 88, night: 55 },
-    topNotes: [{ name: "Táo" }, { name: "Cam bergamot" }, { name: "Gừng" }],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 85, summer: 60, fall: 80, winter: 55 },
+    dayNight: { day: 85, night: 40 },
+    topNotes: [{ name: "Táo" }, { name: "Gừng" }, { name: "Cam bergamot" }],
     middleNotes: [{ name: "Xô thơm" }, { name: "Bách xù" }, { name: "Phong lữ" }],
-    baseNotes: [{ name: "Ambroxan" }, { name: "Gỗ tuyết tùng" }, { name: "Đậu tonka" }],
+    baseNotes: [{ name: "Ambroxan" }, { name: "Đậu Tonka" }, { name: "Gỗ tuyết tùng" }, { name: "Cỏ hương bài" }, { name: "Nhũ hương" }],
     accords: [
-      { name: "Thơm thảo mộc", value: 88, color: "#2c7a4b" },
-      { name: "Tươi", value: 76, color: "#2ecc71" },
-      { name: "Ngọt", value: 42, color: "#8B0000" },
-      { name: "Gỗ", value: 40, color: "#8B4513" }
+      { name: "Thơm thảo mộc", value: 100, color: "#2c7a4b" },
+      { name: "Gỗ", value: 82, color: "#8B4513" },
+      { name: "Gia vị tươi", value: 70, color: "#4CAF50" },
+      { name: "Hổ phách", value: 62, color: "#d4a017" },
+      { name: "Thảo mộc", value: 55, color: "#558B2F" },
+      { name: "Cam chanh", value: 48, color: "#f1c40f" }
     ],
-    seoTitle: "YSL Y EDP chính hãng giá bao nhiêu? Review mùi hương 2026",
-    metaDescription: "Đánh giá YSL Y EDP chính hãng: mùi tươi sạch trẻ trung, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026 tại Maison De Son.",
-    tags: ["Nam","Trẻ trung","Hằng ngày","Cao cấp"],
+    seoTitle: "YSL Y EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá YSL Y EDP chính hãng: mùi tươi sạch trẻ trung, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Trẻ trung","Hằng ngày","Đa dụng"],
     sizes: ["10ml Chiết","60ml Fullbox","100ml Fullbox"],
     basePrice: 2850000,
-    shopeeOffers: []
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "versace-eros-edp",
@@ -2718,40 +2644,44 @@ Nếu bạn muốn một chai nước hoa nữ sang, trưởng thành, dễ dùn
     images: [
       { url: "/images/products/chanel-coco-mademoiselle-edp-main.jpg", source: "fragram", caption: "Chanel Coco Mademoiselle Eau de Parfum chính hãng", verified: true }
     ],
-    description: "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-    productCopy: `Chanel Coco Mademoiselle EDP là một trong những chai nước hoa nữ nổi tiếng nhất của Chanel vì nó thể hiện rất rõ hình ảnh người phụ nữ thanh lịch nhưng không hề mờ nhạt. Mùi mở đầu sáng với citrus, sau đó nhanh chóng phát triển sang lớp hoa và patchouli rất đặc trưng. Tổng thể cho cảm giác sắc, sạch, sang và cực kỳ chỉnh chu, đúng kiểu mùi hương có thể khiến người mặc trông đắt giá hơn chỉ bằng cách xuất hiện cùng nó.
+    description: "Chai nước hoa nữ kinh điển của Chanel — mùi cam citrus sáng mở đầu, chuyển sang hoa hồng, nhài rồi kết bằng patchouli sâu. Thanh lịch, sắc sảo, dùng được quanh năm.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Coco Mademoiselle là khí chất. Nó không ngọt hiền theo kiểu dễ thương, cũng không mềm kiểu romantic. Đây là kiểu nữ tính có xương sống: rõ ràng, tự tin và có độ sắc sảo rất đẹp. Chính patchouli là yếu tố làm chai này khác biệt, vì nó cho mùi một đường nét rõ, giúp tổng thể luôn có chiều sâu thay vì chỉ là một mùi floral-citrus dễ quên.
+Nếu bạn thích mùi ngọt dễ thương kiểu Ariana Grande hay Victoria's Secret thì Coco Mademoiselle không hợp đâu. Đây là kiểu nữ tính có xương sống — sắc, sang và khá mature. Bạn nào dưới 22 tuổi, thích mùi trẻ trung vui vẻ sẽ thấy chai này "già" hơn mình. Ngoài ra, ai dị ứng với patchouli thì cũng nên tránh vì lớp base có patchouli rất rõ.
 
-Khi lên da, phần citrus đầu làm mùi bắt rất nhanh và gọn, nhưng càng về sau lớp hoa cùng patchouli càng nổi bật hơn. Đây là lúc Coco Mademoiselle đẹp nhất: sang, sáng nhưng vẫn có trọng lượng. Nó phù hợp với phụ nữ đi làm, gặp khách hàng, dự tiệc nhẹ, đi ăn tối hoặc bất kỳ dịp nào cần hình ảnh thật chỉn chu và có thần thái.
+### Có đáng tiền không?
 
-Về hiệu năng, Chanel Coco Mademoiselle EDP lưu hương tốt và tỏa hương khá rõ trong những giờ đầu. Nó đủ nổi để tạo dấu ấn nhưng vẫn giữ được chất thanh lịch, không trở nên nặng nề nếu dùng hợp lý. Trong khí hậu Việt Nam, chai này dùng được quanh năm, chỉ cần tiết chế số lần xịt vào những ngày quá nóng.
+Coco Mademoiselle thuộc phân khúc designer cao cấp của Chanel — tức là không rẻ nhưng bạn đang mua một chai có độ nhận diện rất cao và gần như không lỗi thời. So với Miss Dior EDP cùng phân khúc, Coco Mademoiselle sắc sảo và trưởng thành hơn. So với YSL Libre EDP thì Coco Mademoiselle thanh lịch hơn, ít ngọt hơn. Chỉ cần 2-3 nhát xịt, chai fullbox dùng rất lâu. Nếu chưa chắc hợp, nên mua chiết 10ml dùng thử trước.
 
-Nếu bạn muốn một chai nước hoa nữ kinh điển, sang, có độ nhận diện cao và gần như không lỗi thời, Coco Mademoiselle EDP là lựa chọn rất mạnh. Nó không phải mùi để thử nghiệm cá tính lạ, mà là mùi để khẳng định sự chỉn chu, khí chất và gu thẩm mỹ một cách rất rõ ràng.`,
-    article: "Coco Mademoiselle dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-    verdict: "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-    verdictShort: "LIVE CATALOG UPDATE",
+### Nên dùng khi nào?
+
+Đẹp nhất khi đi làm, gặp khách hàng, dự tiệc nhẹ hoặc đi ăn tối. Xịt 1 nhát sau gáy, 1 nhát cổ tay là đủ — tỏa khá mạnh trong 3-4 giờ đầu. Dùng quanh năm được, nhưng đẹp nhất vào mùa thu đông hoặc những ngày Sài Gòn mát mẻ. Đừng xịt quá nhiều vào ngày nóng 35°C vì citrus + patchouli khi nóng sẽ hơi nồng.`,
+    verdict: "Nước hoa nữ kinh điển — sang, sắc và có khí chất rõ ràng. Hợp phụ nữ đi làm, dự tiệc hoặc cần hình ảnh chỉn chu. Không hợp ai thích mùi ngọt dễ thương.",
+    verdictShort: "SANG, SẮC, KINH ĐIỂN",
     score: { scent: 8.4, uniqueness: 7.8, compliments: 8.6, value: 8.2, total: 8.3 },
-    vibes: [{ label: "nu", icon: "?" }, { label: "D? d�ng", icon: "??" }, { label: "Catalog live", icon: "??" }],
-    longevity: 7,
+    vibes: [{ label: "Thanh lịch", icon: "✨" }, { label: "Đi làm", icon: "💼" }, { label: "Kinh điển", icon: "👑" }],
+    longevity: 8,
     sillage: 7,
-    seasons: { spring: 68, summer: 52, fall: 82, winter: 78 },
-    dayNight: { day: 58, night: 82 },
-    topNotes: [{ name: "Top note" }],
-    middleNotes: [{ name: "Middle note" }],
-    baseNotes: [{ name: "Base note" }],
+    seasons: { spring: 75, summer: 45, fall: 85, winter: 80 },
+    dayNight: { day: 65, night: 75 },
+    topNotes: [{ name: "Cam" }, { name: "Quýt" }, { name: "Cam bergamot" }, { name: "Hoa cam" }],
+    middleNotes: [{ name: "Hoa hồng Thổ Nhĩ Kỳ" }, { name: "Hoa nhài" }, { name: "Mimosa" }, { name: "Ngọc lan tây" }],
+    baseNotes: [{ name: "Hoắc hương" }, { name: "Xạ hương trắng" }, { name: "Vani" }, { name: "Cỏ hương bài" }, { name: "Đậu Tonka" }],
     accords: [
-      { name: "Ch? d?o", value: 58, color: "#8B4513" },
-      { name: "D? d�ng", value: 32, color: "#1abc9c" },
-      { name: "Hi?n d?i", value: 24, color: "#9b59b6" },
-      { name: "?m", value: 20, color: "#e67e22" }
+      { name: "Cam chanh", value: 100, color: "#f1c40f" },
+      { name: "Gỗ", value: 88, color: "#8B6914" },
+      { name: "Hoắc hương", value: 85, color: "#556B2F" },
+      { name: "Ngọt", value: 82, color: "#e74c3c" },
+      { name: "Hoa trắng", value: 78, color: "#ecf0f1" },
+      { name: "Hoa hồng", value: 72, color: "#e91e63" }
     ],
-    seoTitle: "Coco Mademoiselle EDP giá bao nhiêu? Review mùi hương 2026",
-    metaDescription: "Đánh giá Coco Mademoiselle EDP chính hãng: mùi cam hoa hồng sang trọng, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-    tags: ["nu","Catalog","Live","2026"],
-    sizes: ["10ml Chi?t","50ml Fullbox","100ml Fullbox"],
-    basePrice: 1990000,
-    shopeeOffers: []
+    seoTitle: "Chanel Coco Mademoiselle EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Chanel Coco Mademoiselle EDP chính hãng: mùi cam hoa sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Thanh lịch","Đi làm","Kinh điển"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 3800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "armaf-club-de-nuit-intense-man",
@@ -3699,47 +3629,47 @@ Nên mua khi mày cần một chai buổi tối có chất thời trang. Nếu m
     brand: "TOM FORD",
     name: "Oud Wood",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Richard Herpin",
     gender: "unisex",
     image: "/images/products/tom-ford-oud-wood-main.jpg",
-    images: [{ url: "/images/products/tom-ford-oud-wood-main.jpg", source: "amazon", caption: "TOM FORD Oud Wood chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Oud Wood là kiểu gỗ phương Đông sang, khô vừa phải và rất dễ tiếp cận so với cái tên “oud”. Nó không đi theo hướng oud động vật, tối đen hoặc nặng trầm, mà nghiêng về gỗ mịn, gia vị nhẹ, chút khói và cảm giác high-end rất rõ. Đây là một trong những chai niche-luxury dễ dùng nhất cho người muốn bước vào nhóm mùi gỗ tối sang.
+    images: [{ url: "/images/products/tom-ford-oud-wood-main.jpg", source: "fragram", caption: "Tom Ford Oud Wood chính hãng", verified: true }],
+    description: "Chai gỗ trầm sang trọng nhất dòng Private Blend — oud sạch, gỗ đàn hương mịn, gia vị nhẹ. Rất dễ tiếp cận cho người muốn thử oud mà không bị sốc.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Oud Wood là sự tinh. Nó không cố làm quá, không quá dày, không quá tối, nhưng vẫn cho cảm giác đắt tiền ngay từ đầu. Trong điều kiện Việt Nam, đây là chai hợp cho tối, không gian điều hòa, gặp gỡ lịch sự hoặc người muốn một mùi sang mà không quá phô trương.
+Nếu bạn muốn một chai oud nặng, tối và quái kiểu Trung Đông truyền thống thì Oud Wood sẽ quá hiền. Đây là kiểu oud Tây hóa — sạch, mịn và sang kiểu luxury, không phải oud thú. Ai thích mùi fresh tươi mát kiểu thể thao hay citrus cũng không nên mua vì Oud Wood hoàn toàn ngược hướng. Ngoài ra, hiệu năng chai này không thuộc nhóm mạnh — nếu bạn cần mùi tỏa xa cả ngày thì sẽ thất vọng.
 
-## Diễn biến trên da
-Mở đầu có gia vị và gỗ rất mượt, sau đó nền oud theo kiểu sạch và gỗ khô dần ổn định hơn. Mùi phát triển mềm, ít góc cạnh và không làm người mới chơi bị sốc.
+### Có đáng tiền không?
 
-Drydown là lớp gỗ ấm, khô vừa, sang và khá ôm da. Nó không bùng nổ nhưng có chiều tinh tế cao. Nhược điểm là ai kỳ vọng oud mạnh, tối và quái có thể thấy Oud Wood hơi hiền.
+Oud Wood thuộc phân khúc niche cao cấp — dòng Private Blend của Tom Ford. So với các chai oud Trung Đông cùng tầm giá, Oud Wood tinh tế hơn và dễ dùng hằng ngày hơn nhiều. So với Baccarat Rouge 540 cùng phân khúc niche, Oud Wood tối hơn, gỗ hơn và ít ngọt hơn. Nhược điểm là hiệu năng vừa phải — khoảng 6-7 giờ, tỏa vừa. Nhưng bù lại, mùi rất sang và phù hợp nhiều dịp. Nên mua chiết 5-10ml dùng thử trước vì đây là khoản đầu tư lớn.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Oud Wood có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, máy lạnh, công việc cần hình ảnh chỉn chu, event nhỏ hoặc hẹn hò theo hướng lịch thiệp.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng ổn hơn nhiều mùi gỗ tối khác vì không quá nặng. Ưu điểm là sang, dễ tiếp cận và rất wearable; nhược điểm là hiệu năng không thuộc nhóm bùng nổ.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai gỗ tối sang, cao cấp và không quá khó gần, Oud Wood rất đáng thử. Nó hợp người thích phong cách lịch thiệp, tối giản và muốn mùi hương tạo cảm giác đắt tiền nhẹ nhàng.
-
-Nên mua khi mày cần một chai buổi tối sang nhưng không quá nặng. Nếu mày thích oud cực mạnh, có thể hướng này chưa đủ đô.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đẹp nhất khi đi ăn tối, dự tiệc hoặc những dịp cần hình ảnh lịch thiệp, cao cấp. Xịt 2-3 nhát: cổ, sau tai và cổ tay. Hợp trời mát — mùa đông Hà Nội hoặc phòng máy lạnh Sài Gòn. Dùng được cả ban ngày nếu trong môi trường công sở lịch sự. Đừng dùng ngày nóng 35°C ngoài trời vì gỗ + gia vị khi nóng sẽ hơi ngọp.`,
+    verdict: "Chai oud sang nhất cho người muốn thử oud mà không bị sốc. Gỗ mịn, gia vị nhẹ, rất tinh tế. Hiệu năng vừa phải nhưng bù lại bằng sự thanh lịch.",
+    verdictShort: "OUD SANG, TINH TẾ, DỄ MẶC",
+    score: { scent: 9, uniqueness: 8.8, compliments: 8.2, value: 6.8, total: 8.2 },
+    vibes: [{ label: "Sang trọng", icon: "💎" }, { label: "Lịch thiệp", icon: "🎩" }, { label: "Gỗ trầm", icon: "🌿" }],
+    longevity: 7,
+    sillage: 6,
+    seasons: { spring: 55, summer: 25, fall: 85, winter: 90 },
+    dayNight: { day: 40, night: 80 },
+    topNotes: [{ name: "Gỗ trầm hương" }, { name: "Gỗ hồng Brasil" }, { name: "Bạch đậu khấu" }],
+    middleNotes: [{ name: "Gỗ đàn hương" }, { name: "Tiêu Tứ Xuyên" }],
+    baseNotes: [{ name: "Vani" }, { name: "Cỏ hương bài" }, { name: "Đậu Tonka" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Gỗ", value: 100, color: "#8B4513" },
+      { name: "Gia vị ấm", value: 78, color: "#b05c00" },
+      { name: "Trầm hương", value: 72, color: "#3E2723" },
+      { name: "Thơm thảo mộc", value: 58, color: "#2c7a4b" },
+      { name: "Vani", value: 48, color: "#F5DEB3" }
+    ],
+    seoTitle: "Tom Ford Oud Wood chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Tom Ford Oud Wood chính hãng: mùi gỗ trầm sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Gỗ trầm","Sang trọng"],
+    sizes: ["5ml Chiết","10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 6500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "dior-homme-parfum",
@@ -3795,49 +3725,50 @@ Nên mua khi mày cần một chai tối thật đẹp. Nếu mày thích mùi s
     brand: "GIORGIO ARMANI",
     name: "Acqua di Giò Profumo",
     subName: "Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Alberto Morillas",
     gender: "nam",
     image: "/images/products/acqua-di-gio-profumo-main.jpg",
     images: [
-      { url: "/images/products/acqua-di-gio-profumo-main.jpg", source: "amazon", caption: "GIORGIO ARMANI Acqua di Giò Profumo chính hãng", verified: true }
+      { url: "/images/products/acqua-di-gio-profumo-main.jpg", source: "fragram", caption: "Giorgio Armani Acqua di Giò Profumo chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Acqua di Giò Profumo là phiên bản trưởng thành và có chiều sâu hơn hẳn DNA Acqua di Giò quen thuộc. Nó vẫn giữ tinh thần biển sạch, khoáng và rất dễ sống, nhưng thêm vào sắc hương tối hơn với thảo mộc và chút khói, khiến tổng thể nam tính và chững chạc hơn. Đây là kiểu chai cực mạnh cho ai muốn mùi vừa an toàn vừa có bản sắc.
+    description: "Phiên bản trưởng thành của Acqua di Giò — biển sạch kết hợp thảo mộc và khói nhẹ. Đa dụng, nam tính và chững chạc hơn bản gốc. Dùng được quanh năm.",
+    article: `### Ai không nên mua?
 
-Điểm hay của Profumo là nó đứng giữa hai thế giới: đủ fresh để dùng nhiều, đủ tối để không nhạt như aquatic thông thường. Trong điều kiện Việt Nam, đây là một trong những chai nam linh hoạt nhất cho đi làm, đi chơi, gặp gỡ và thậm chí cả buổi tối.
+Nếu bạn thích mùi ngọt ấm kiểu gourmand hay vanilla thì Profumo không hợp — đây hoàn toàn là hướng aquatic-aromatic. Ai muốn mùi cực nổi bật, gây ấn tượng mạnh cũng sẽ thấy Profumo hơi an toàn vì nó thiên về sự cân bằng hơn là phô trương. Ngoài ra, nếu bạn đã có Acqua di Giò Parfum (bản mới hơn 2022) thì 2 chai khá gần nhau, cân nhắc trước khi mua thêm.
 
-## Diễn biến trên da
-Mở đầu là biển-khoáng sạch rất quen, sau đó phần thảo mộc và nét khói nhẹ bắt đầu làm mùi sâu hơn. Profumo chuyển tầng mượt, gọn và rất dễ mặc, không bị đột ngột.
+### Có đáng tiền không?
 
-Drydown cho cảm giác sạch, nam tính, hơi tối và trưởng thành hơn bản gốc. Nó không quá nặng, nhưng đủ khác để người đã quen Acqua di Giò thường nhận ra ngay. Nhược điểm là nếu mày thích mùi cực sáng và trẻ, bản này có thể hơi nghiêm hơn mong đợi.
+Profumo thuộc phân khúc designer cao cấp — giá tương đương Bleu de Chanel EDP hay Dior Sauvage EDP. So với bản gốc Acqua di Giò EDT, Profumo trưởng thành hơn, sâu hơn và bám lâu hơn đáng kể. So với Bleu de Chanel EDP, Profumo thiên biển hơn và ít gỗ hơn. Hiệu năng rất tốt cho phân khúc: 7-8 giờ lưu hương, tỏa mạnh 3-4 giờ đầu. Chai fullbox dùng rất lâu vì chỉ cần 2-3 nhát. Nên mua chiết 10ml thử trước.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Profumo có hiệu năng khá tốt, khoảng 6-8 giờ; tỏa hương vừa đến khá. Nó hợp đi làm, đi chơi, ban ngày lẫn tối, du lịch, hội họp và gần như quanh năm.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng rất khỏe nhờ độ cân bằng tốt. Ưu điểm là đa dụng, nam tính và chững hơn bản thường; nhược điểm là độ độc đáo không quá cao với người chơi lâu năm.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai nam đa dụng, sạch nhưng trưởng thành hơn fresh phổ thông, Acqua di Giò Profumo là lựa chọn cực vững. Nó hợp người cần một chai mặc được nhiều hoàn cảnh mà vẫn có khí chất riêng.
-
-Nên mua khi mày cần một chai an toàn nhưng không nhạt. Nếu mày thích mùi ngọt ấm hoặc cực kỳ nổi, Profumo không đi theo hướng đó.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Dùng được quanh năm — đi làm, đi chơi, du lịch, hẹn hò nhẹ. Đẹp nhất vào mùa xuân và hè khi trời ấm (25-32°C), nhưng mùa thu cũng rất ổn. Xịt 2-3 nhát: 1 sau gáy, 1 trước ngực, 1 cổ tay. Ở Sài Gòn dùng ban ngày rất thoải mái vì biển + thảo mộc không bao giờ ngọp. Đây là kiểu chai an toàn cho mọi hoàn cảnh — hiếm khi nào xịt Profumo mà sai.`,
+    verdict: "Phiên bản trưởng thành của Acqua di Giò — biển sạch, thảo mộc, khói nhẹ. Đa dụng, nam tính và rất khó sai. Hợp ai cần một chai an toàn mà vẫn có khí chất.",
+    verdictShort: "ĐA DỤNG, NAM TÍNH, KHÓ SAI",
+    score: { scent: 8.8, uniqueness: 7.6, compliments: 8.9, value: 8.6, total: 8.5 },
+    vibes: [{ label: "Đa dụng", icon: "🌊" }, { label: "Nam tính", icon: "🖤" }, { label: "An toàn", icon: "✅" }],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 88, summer: 75, fall: 72, winter: 45 },
+    dayNight: { day: 78, night: 55 },
+    topNotes: [{ name: "Hương biển" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Hương thảo" }, { name: "Xô thơm" }, { name: "Phong lữ" }],
+    baseNotes: [{ name: "Nhũ hương" }, { name: "Hoắc hương" }],
+    accords: [
+      { name: "Thơm thảo mộc", value: 100, color: "#2c7a4b" },
+      { name: "Biển", value: 85, color: "#1e88e5" },
+      { name: "Gia vị tươi", value: 72, color: "#4CAF50" },
+      { name: "Hổ phách", value: 62, color: "#d4a017" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Khói", value: 45, color: "#616161" }
+    ],
+    seoTitle: "Acqua di Giò Profumo chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Acqua di Giò Profumo chính hãng: mùi biển sạch trưởng thành, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Đa dụng","Biển","Thảo mộc"],
+    sizes: ["10ml Chiết","75ml Fullbox","125ml Fullbox"],
+    basePrice: 3200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "bleu-de-chanel-parfum",
