@@ -1193,45 +1193,45 @@ Dùng được quanh năm — đi làm, gặp khách, đi ăn tối nhẹ. Xịt
     brand: "CREED",
     name: "Aventus",
     subName: "Eau de Parfum",
-    perfumer: "Olivier Creed & Erwin Creed",
+    perfumer: "Jean-Christophe Hérault & Erwin Creed",
     gender: "nam",
     image: "/images/products/creed-aventus-main.jpg",
-    images: [{ url: "/images/products/creed-aventus-main.jpg", source: "fragram", caption: "Creed Aventus chính hãng", verified: true }],
-    description: "Chai nước hoa nam biểu tượng — mùi trái cây tươi sáng mở đầu, chuyển sang khói gỗ bạch dương rất đặc trưng. Sang, có khí chất lãnh đạo, hợp người muốn thử một chai nổi tiếng nhất thế giới nước hoa.",
+    images: [{ url: "/images/products/creed-aventus-main.jpg", source: "fragram", caption: "Creed Aventus Eau de Parfum chính hãng", verified: true }],
+    description: "Chai nam dứa-bạch dương-rêu sồi huyền thoại nhất thế kỷ 21 — cam bergamot, lý chua đen, táo, dứa, hoắc hương, nhài, bạch dương, rêu sồi, xạ hương, long diên hương và vani. Trái cây, khói và quyền lực.",
     article: `### Ai không nên mua?
 
-Nếu bạn đang tìm một chai dễ mua, giá mềm và không cần nghĩ nhiều thì Aventus không phải lựa chọn. Đây là phân khúc niche cao cấp, giá không hề rẻ và có vấn đề batch — mỗi lô sản xuất mùi có thể hơi khác nhau. Ai không thích mùi trái cây (đặc biệt dứa) cũng sẽ không hợp vì dứa rất rõ ở lớp đầu. Ngoài ra, nếu bạn muốn mùi ngọt ấm kiểu gourmand, Aventus hoàn toàn không theo hướng đó.
+Nếu bạn cần chai nước hoa để "âm thầm mà hiệu quả" thì Aventus là sai lựa chọn — vì ai trong giới nước hoa cũng nhận ra Aventus ngay lập tức. Xịt Aventus trong nhóm yêu nước hoa giống như đeo Rolex Submariner trong hội đồng hồ: ai cũng biết, ai cũng có ý kiến. Ngoài ra, giá Creed rất cao — và nhiều chai clone 200-300k ngửi gần giống 80%. Nếu budget dưới 3 triệu, nên thử Montblanc Explorer hoặc CDNIM trước.
 
 ### Có đáng tiền không?
 
-Aventus thuộc phân khúc niche cao cấp nhất — đắt hơn đáng kể so với các chai designer như Bleu de Chanel hay Sauvage. Nhưng so với các chai niche cùng tầm như Tom Ford Oud Wood hay Louis Vuitton Imagination, Aventus có lợi thế là độ nhận diện rất cao và tính tham chiếu mạnh. Nhiều chai clone lấy cảm hứng từ Aventus (như Armaf CDNIM) nhưng không chai nào đạt được sự cân bằng giữa trái cây, khói và gỗ như bản gốc. Nếu chưa chắc, nên mua chiết 10ml dùng thử trước — vì đây là khoản đầu tư lớn.
+Đây là câu hỏi gây tranh cãi nhất cộng đồng nước hoa. Giá Creed thuộc top cao nhất — nhưng Aventus tạo ra một DNA mà cả ngành công nghiệp phải clone theo: dứa-bạch dương-rêu sồi. So với Explorer (Montblanc) — clone phổ biến nhất — thì Aventus có bạch dương smoky và tỏa xa hơn hẳn. So với CDNIM (Armaf) — clone rẻ nhất — thì Aventus mượt hơn, ít synthetic hơn và lắng xuống đẹp hơn. Bám 8-10 giờ, tỏa mạnh. Câu hỏi thật sự không phải "có đáng không" mà là "bạn có cần bản gốc không".
 
 ### Nên dùng khi nào?
 
-Aventus đẹp nhất khi đi gặp khách hàng, dự sự kiện hoặc những ngày cần hình ảnh chỉn chu, tự tin. Xịt 2 nhát — 1 sau gáy, 1 trước ngực là đủ. Dùng được cả ngày lẫn tối, nhưng đẹp nhất khi trời mát (dưới 28°C). Mùa thu và xuân ở Hà Nội là lúc Aventus tỏa đẹp nhất. Ở Sài Gòn nên dùng trong phòng máy lạnh hoặc buổi tối. Đừng xịt quá nhiều — 2 nhát là tối ưu.`,
-    verdict: "Chai nam biểu tượng — trái cây, khói, gỗ rất cân bằng. Sang, có khí chất và tạo thiện cảm tốt. Giá cao, cần thử trước khi quyết định fullbox.",
-    verdictShort: "BIỂU TƯỢNG, SANG, CÓ KHÍ CHẤT",
-    score: { scent: 9.3, uniqueness: 9.4, compliments: 8.8, value: 6.2, total: 8.4 },
-    vibes: [{ label: "Niche", icon: "💎" }, { label: "Nam tính", icon: "🖤" }, { label: "Biểu tượng", icon: "👑" }],
-    longevity: 8,
-    sillage: 7,
-    seasons: { spring: 80, summer: 50, fall: 90, winter: 75 },
-    dayNight: { day: 75, night: 70 },
-    topNotes: [{ name: "Lý chua đen" }, { name: "Cam bergamot" }, { name: "Táo" }, { name: "Dứa" }],
-    middleNotes: [{ name: "Hoa hồng" }, { name: "Bạch dương" }, { name: "Hoa nhài Morocco" }, { name: "Hoắc hương" }],
-    baseNotes: [{ name: "Địa y" }, { name: "Xạ hương" }, { name: "Long diên hương" }, { name: "Vani" }],
+Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp đối tác, hẹn hò. Xịt 2-3 nhát cổ và ngực. Aventus tỏa rất mạnh 2 giờ đầu rồi lắng xuống thành skin scent gỗ-rêu sồi. Dùng quanh năm — Sài Gòn thì dứa-cam mở ra tươi, Hà Nội mùa đông thì bạch dương-rêu sồi ấm. Chai mà mặc vest hay jeans đều hợp.`,
+    verdict: "Huyền thoại dứa-bạch dương — DNA mà cả ngành phải clone. Đắt nhưng iconic. Câu hỏi là bạn có cần bản gốc.",
+    verdictShort: "DỨA BẠCH DƯƠNG, HUYỀN THOẠI, ICONIC",
+    score: { scent: 9.5, uniqueness: 8, compliments: 9.5, value: 6.5, total: 8.4 },
+    vibes: [{ label: "Huyền thoại", icon: "👑" }, { label: "Quyền lực", icon: "🦁" }, { label: "Đa dụng", icon: "🔄" }],
+    longevity: 9,
+    sillage: 9,
+    seasons: { spring: 82, summer: 65, fall: 78, winter: 72 },
+    dayNight: { day: 75, night: 78 },
+    topNotes: [{ name: "Cam bergamot" }, { name: "Lý chua đen" }, { name: "Táo" }, { name: "Dứa" }, { name: "Chanh" }, { name: "Tiêu hồng" }],
+    middleNotes: [{ name: "Dứa" }, { name: "Hoắc hương" }, { name: "Nhài Morocco" }, { name: "Hoa hồng" }, { name: "Bạch dương khô" }],
+    baseNotes: [{ name: "Rêu sồi" }, { name: "Xạ hương" }, { name: "Long diên hương" }, { name: "Vani" }, { name: "Gỗ tuyết tùng" }, { name: "Ambroxan" }],
     accords: [
       { name: "Trái cây", value: 100, color: "#f39c12" },
-      { name: "Ngọt", value: 72, color: "#e74c3c" },
-      { name: "Da thuộc", value: 68, color: "#8B4513" },
-      { name: "Gỗ", value: 65, color: "#6D4C41" },
-      { name: "Khói", value: 60, color: "#616161" }
+      { name: "Cam chanh", value: 78, color: "#f1c40f" },
+      { name: "Thơm thảo mộc", value: 65, color: "#2c7a4b" },
+      { name: "Gỗ", value: 58, color: "#8B4513" },
+      { name: "Gia vị ấm", value: 48, color: "#e67e22" }
     ],
     seoTitle: "Creed Aventus chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Creed Aventus chính hãng: mùi trái cây khói biểu tượng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Cao cấp","Nam","Biểu tượng","Niche"],
-    sizes: ["5ml Chiết","10ml Chiết","100ml Fullbox"],
-    basePrice: 8000000,
+    metaDescription: "Đánh giá Creed Aventus chính hãng: mùi dứa bạch dương huyền thoại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Niche","Huyền thoại","Iconic"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 7500000,
     shopeeOffers: [],
     isPublished: true
   },
@@ -8477,47 +8477,49 @@ Nên mua khi mày cần một chai dressy cao cấp. Nếu mày ưu tiên sự n
     brand: "AMOUAGE",
     name: "Reflection Man",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Lucas Sieuzac",
     gender: "nam",
     image: "/images/products/amouage-reflection-man-main.jpg",
-    images: [{ url: "/images/products/amouage-reflection-man-main.jpg", source: "amazon", caption: "AMOUAGE Reflection Man chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Reflection Man là kiểu floral woody nam cực kỳ sạch, sáng và sang theo cách trưởng thành. Nó nổi bật ở cảm giác hoa trắng được xử lý rất nam tính: mượt, thanh lịch, có chất xà phòng cao cấp nhưng không hề yếu. Đây là mùi của một người đàn ông chỉn chu, mặc sơ mi đẹp và không cần mùi hương phải gào lên để gây chú ý.
+    images: [
+      { url: "/images/products/amouage-reflection-man-main.jpg", source: "fragram", caption: "Amouage Reflection Man Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai nam nhài-neroli-iris sạch sang nhất — hương thảo, tiêu hồng, petitgrain, nhài, neroli, iris, gỗ đàn hương, gỗ tuyết tùng, cỏ hương bài và hoắc hương. Sạch, trắng và rất gentlemanly.",
+    article: `### Ai không nên mua?
 
-Điểm ăn tiền của Reflection Man là sự lịch thiệp. Nó khác với các mùi fresh thể thao hoặc blue fragrance thường gặp vì có độ mịn và chiều sâu hơn hẳn. Trong điều kiện Việt Nam, đây là chai dùng rất đẹp cho đi làm, gặp gỡ lịch sự, văn phòng cao cấp hoặc làm signature nếu mày thích phong cách gọn và sang.
+Nếu bạn thích "mùi nước hoa nam" kiểu mạnh mẽ — oud, da, thuốc lá, hoặc ít nhất là ambroxan tỏa xa — thì Reflection Man sẽ khiến bạn thất vọng. Chai này sạch đến mức nhiều người nói "như mùi xà phòng cao cấp" — và tùy góc nhìn, đó là khen hoặc chê. Ai cần mùi gây ấn tượng mạnh trong 3 giây đầu cũng nên nhìn qua: Reflection Man cần 30 phút để lắng xuống mới đẹp.
 
-## Diễn biến trên da
-Mở đầu khá sáng và sạch, sau đó lớp floral cùng gỗ bắt đầu hiện rõ hơn. Mùi chuyển tầng mượt, không có đoạn gắt và giữ được sự chỉn chu gần như xuyên suốt.
+### Có đáng tiền không?
 
-Drydown mềm, sạch, có chút kem và rất sang. Nó không phải kiểu sexy lộ liễu, mà cuốn theo kiểu tinh tế. Nhược điểm là ai thích cá tính mạnh hoặc mùi quá tối sẽ thấy nó hơi quá lịch sự.
+Amouage thuộc niche Oman — đắt hơn designer nhưng rẻ hơn MFK và Creed. Điều Reflection Man làm xuất sắc là hoa nhài trong nước hoa nam mà không bị nữ tính — nhờ hương thảo và gỗ đàn hương cân bằng. So với Dior Homme Intense — cùng nhóm hoa-phấn nam — thì Reflection sạch hơn, ít iris phấn hơn và nhiều gỗ hơn. So với Bleu de Chanel — cùng nhóm "sạch sang" — thì Reflection thanh lịch hơn một tầm rõ rệt. Bám 7-8 giờ, tỏa nhẹ-vừa.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Reflection Man có độ lưu hương khá tốt, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, ban ngày, họp hành, sự kiện lịch sự và đặc biệt đẹp trong môi trường điều hòa.
+### Nên dùng khi nào?
 
-Ở Việt Nam, đây là chai khá dễ dùng vì sạch và thoáng. Ưu điểm là sang, mịn, trưởng thành; nhược điểm là độ “wow” với người thích mùi đậm sẽ không quá mạnh.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày cần một chai nam sạch-sang-trưởng thành và khác hẳn hướng blue phổ thông, Reflection Man rất đáng thử. Nó hợp người thích sự thanh lịch, gọn gàng và mùi hương có nền tảng sang rõ rệt.
-
-Nên mua khi mày muốn một signature văn phòng hoặc gặp gỡ lịch sự. Nếu mày cần mùi tối, ngọt hoặc nổi mạnh, nên cân nhắc chai khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi làm sang trọng, gặp khách hàng quan trọng, đi ăn trưa ở nhà hàng, hoặc bất cứ khi nào muốn tạo hình ảnh chỉnh tề mà không cần la hét. Xịt 3 nhát: cổ, ngực, cổ tay. Dùng quanh năm — Sài Gòn hay Hà Nội đều thoải mái vì mùi rất sạch. Tránh đi club hay nhậu — lãng phí.`,
+    verdict: "Chai nhài-iris sạch sang nhất — gentleman thầm lặng. Amouage blend đỉnh. Cho ai thích sạch mà quý phái.",
+    verdictShort: "SẠCH, SANG, GENTLEMAN THẦM LẶNG",
+    score: { scent: 9, uniqueness: 8.8, compliments: 7.8, value: 7.5, total: 8.3 },
+    vibes: [{ label: "Gentleman", icon: "🎩" }, { label: "Sạch", icon: "🤍" }, { label: "Niche", icon: "💎" }],
+    longevity: 7,
+    sillage: 6,
+    seasons: { spring: 85, summer: 68, fall: 72, winter: 58 },
+    dayNight: { day: 82, night: 52 },
+    topNotes: [{ name: "Hương thảo" }, { name: "Tiêu hồng" }, { name: "Petitgrain" }],
+    middleNotes: [{ name: "Hoa nhài" }, { name: "Neroli" }, { name: "Iris" }, { name: "Ngọc lan tây" }],
+    baseNotes: [{ name: "Gỗ đàn hương" }, { name: "Gỗ tuyết tùng" }, { name: "Cỏ hương bài" }, { name: "Hoắc hương" }],
+    accords: [
+      { name: "Hoa trắng", value: 100, color: "#ecf0f1" },
+      { name: "Gỗ", value: 72, color: "#8B4513" },
+      { name: "Thơm thảo mộc", value: 62, color: "#2c7a4b" },
+      { name: "Phấn", value: 48, color: "#d7bde2" },
+      { name: "Tươi mát", value: 42, color: "#2ecc71" }
+    ],
+    seoTitle: "Amouage Reflection Man chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Amouage Reflection Man chính hãng: mùi nhài iris sạch sang gentlemanly, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Niche","Gentleman","Sạch"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 4500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "rive-gauche",
