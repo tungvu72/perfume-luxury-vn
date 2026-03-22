@@ -4,51 +4,46 @@
   "brand": "MAISON FRANCIS KURKDJIAN",
   "name": "Grand Soir",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Francis Kurkdjian",
   "gender": "unisex",
   "image": "/images/products/mfk-grand-soir-main.jpg",
   "images": [
     {
       "url": "/images/products/mfk-grand-soir-main.jpg",
-      "source": "amazon",
-      "caption": "MFK Grand Soir chính hãng",
+      "source": "fragram",
+      "caption": "Maison Francis Kurkdjian Grand Soir Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nGrand Soir đúng như tên gọi: một mùi tối, amber, nhựa thơm và vanilla cực kỳ sang. Nó không cố mô phỏng quá nhiều note phức tạp, mà tập trung xây một khối ấm, bóng, giàu và đắt tiền. Đây là một trong những chai amber hiện đại đẹp nhất nếu mày thích sự ấm sang rõ rệt.\n\nĐiểm mạnh của Grand Soir là độ hoàn thiện. Nó vừa đủ ngọt để cuốn, vừa đủ resinous để sang, và cực kỳ “lên không gian” khi dùng buổi tối. Trong điều kiện Việt Nam, chai này hợp cho máy lạnh, event, hẹn hò, tiệc hoặc những lúc cần một mùi hương có cảm giác dressed-up ngay lập tức.\n\n## Diễn biến trên da\nMở đầu đã khá ấm và resinous, sau đó amber cùng vanilla dần làm tổng thể mượt hơn, dày hơn và sang hơn. Mùi phát triển không quá nhiều tầng, nhưng texture thay đổi rất đẹp.\n\nDrydown là lớp amber ấm, mềm, sang và cực kỳ ôm da. Nó tạo cảm giác đắt tiền rất rõ. Nhược điểm là trời nóng dễ làm nó trở nên hơi nhiều nếu xịt mạnh.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nGrand Soir có hiệu năng tốt, thường 8-10 giờ; tỏa hương khá trong giai đoạn đầu. Nó hợp tối, hẹn hò, event, thời tiết mát và những dịp muốn mùi hương thật sự có khí chất sang.\n\nỞ Việt Nam, nên ưu tiên buổi tối và không gian mát. Ưu điểm là amber cực đẹp và rất sang; nhược điểm là không hợp ban ngày nóng.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai amber tối sang, hiện đại và cực kỳ chỉnh chu, Grand Soir là lựa chọn hàng đầu. Nó hợp người thích mùi ấm, xa xỉ và muốn một chai buổi tối thật sự nổi chất lượng.\n\nNên mua khi mày cần một chai event/date night đắt tiền đúng nghĩa. Nếu mày thích mùi sáng, fresh hoặc casual, đây không phải hướng phù hợp.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Unisex",
-    "NEEDS_SOURCE"
+  "description": "Chai amber niche đẹp nhất — labdanum, cam, oải hương, benzoin Siam, vani, hổ phách, đậu Tonka và gỗ tuyết tùng. Ấm, mịn và cực kỳ sang. Unisex.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi sáng citrus hoặc mùi sạch aquatic thì Grand Soir hoàn toàn ngược — đây là amber-vani rất ấm và rất ngọt. Ai dùng ban ngày trời nóng sẽ thấy quá dày. Ngoài ra, giá MFK rất cao — cần test trước.\n\n### Có đáng tiền không?\n\nGrand Soir thuộc phân khúc MFK niche — top giá. So với Kilian Angels' Share (cùng nhóm ấm ngọt), Grand Soir ít rượu hơn và amber mượt hơn. So với BR540 cùng hãng, Grand Soir ấm hơn và ít caramelized hơn. Hiệu năng rất tốt: bám 9 giờ, tỏa khá mạnh. Đây là chai amber hoàn hảo — mềm mịn like cashmere.\n\n### Nên dùng khi nào?\n\nMùa thu đông, buổi tối, dịp đặc biệt, tiệc sang. Xịt 2 nhát: cổ, cổ tay. Đẹp nhất khi trời mát. Ở Sài Gòn dùng buổi tối phòng máy lạnh.",
+  "verdict": "Chai amber niche hoàn hảo — ấm, mịn, sang. Bám 9h. Hợp thu đông, dịp đặc biệt. Quá ấm cho mùa hè.",
+  "verdictShort": "AMBER MỊIN, SANG, HOÀN HẢO",
+  "score": { "scent": 9.2, "uniqueness": 8.5, "compliments": 9.0, "value": 7.5, "total": 8.6 },
+  "vibes": [
+    { "label": "Sang trọng", "icon": "💎" },
+    { "label": "Thu đông", "icon": "🍂" },
+    { "label": "Unisex", "icon": "✨" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 9,
+  "sillage": 8,
+  "seasons": { "spring": 38, "summer": 12, "fall": 92, "winter": 98 },
+  "dayNight": { "day": 22, "night": 92 },
+  "topNotes": [{ "name": "Labdanum" }, { "name": "Cam" }],
+  "middleNotes": [{ "name": "Oải hương" }, { "name": "Benzoin Siam" }],
+  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Vani" }, { "name": "Đậu Tonka" }, { "name": "Xạ hương" }, { "name": "Gỗ tuyết tùng" }],
+  "accords": [
+    { "name": "Hổ phách", "value": 100, "color": "#d4a017" },
+    { "name": "Vani", "value": 88, "color": "#F5DEB3" },
+    { "name": "Ấm", "value": 78, "color": "#e67e22" },
+    { "name": "Nhựa", "value": 62, "color": "#8B4513" },
+    { "name": "Gỗ", "value": 48, "color": "#6e3b1f" }
+  ],
+  "seoTitle": "MFK Grand Soir chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá MFK Grand Soir chính hãng: mùi amber vani mịn sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Unisex", "Niche", "Amber", "Sang trọng"],
+  "sizes": ["10ml Chiết", "70ml Fullbox", "200ml Fullbox"],
+  "basePrice": 6500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

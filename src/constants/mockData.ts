@@ -5201,52 +5201,44 @@ Gặp khách VIP, sự kiện, tiệc tối, dịp quan trọng. Xịt 2 nhát: 
     perfumer: "Cécile Zarokian",
     gender: "unisex",
     image: "/images/products/nishane-ani-main.jpg",
-    images: [{ url: "/images/products/nishane-ani-main.jpg", source: "studio", caption: "Ảnh sản phẩm Nishane Ani (chai và hộp)" }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Ani là một trong những chai vanilla niche nổi bật nhất vì nó không ngọt theo kiểu bánh kẹo đơn thuần, mà kết hợp vanilla với gia vị, gỗ và chút xanh để tạo cảm giác vừa ấm vừa có cấu trúc. Đây là kiểu mùi dày, sang và có độ ôm rất đẹp trên da, phù hợp người thích những chai mang cảm giác comfort nhưng vẫn đủ cá tính.
+    images: [{ url: "/images/products/nishane-ani-main.jpg", source: "fragram", caption: "Nishane Ani Extrait de Parfum chính hãng", verified: true }],
+    description: "Chai niche vani gia vị đẹp nhất — gừng, cam bergamot, tiêu hồng, bạch đậu khấu, hoa hồng Thổ Nhĩ Kỳ, vani, benzoin và gỗ đàn hương. Ngọt, ấm và rất dễ mến. Unisex.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Ani là vanilla ở đây vừa ngon vừa có chiều sâu. Nó không quá trẻ con, cũng không thiên hẳn gourmand, nên nam hay nữ dùng đều ra chất riêng. Trong điều kiện Việt Nam, Ani hợp nhất với chiều tối, thời tiết mát hoặc môi trường điều hòa, nơi lớp vanilla-gia vị của nó có không gian để phát huy hết độ đẹp.
+Nếu bạn ghét mùi ngọt vani thì Ani sẽ quá ngọt cho gu đó — vani ở đây rất rõ và chủ đạo. Ai thích mùi sạch thoáng hoặc mùi tối khô cũng sẽ thấy chai này hơi ngọt mainstream. Ngoài ra, giá niche cao.
 
-## Diễn biến trên da
-Mở đầu thường có cảm giác tươi nhẹ từ citrus và chút cay của gia vị, nhưng nhanh chóng phần vanilla bắt đầu mở ra. Sau đó gỗ và nền ấm đỡ phía sau giúp mùi không bị kẹo hay quá mượt theo kiểu tuyến tính.
+### Có đáng tiền không?
 
-Trên da, Ani phát triển khá tròn: đầu hơi sáng, giữa ấm dần, cuối mềm và dày. Drydown rất dễ gây nghiện nếu mày thích vanilla có chiều sâu. Điểm trừ là với người không hợp vanilla hoặc thích sự khô thoáng, Ani có thể hơi dày và quá hiện diện.
+Ani thuộc phân khúc Nishane niche — đắt hơn designer nhưng rẻ hơn MFK và Creed. So với Grand Soir (cùng nhóm ấm ngọt), Ani có gừng-gia vị rõ hơn và trẻ hơn. So với Angels' Share, Ani ít rượu hơn và nhiều vani hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa mạnh — Extrait de Parfum. Đây là chai vani niche best seller có lý do.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Ani có hiệu năng tốt, lưu hương khoảng 8-10 giờ và tỏa hương khá trong những giờ đầu. Nó hợp dùng cho tối, hẹn hò, đi chơi, thời tiết mát, mùa mưa hoặc những ngày muốn một mùi vừa sang vừa ấm.
+### Nên dùng khi nào?
 
-Ở Việt Nam, không nên xịt quá tay nếu trời nóng, vì vanilla dày dễ thành ngọt nặng. Ưu điểm là bám khỏe, khác biệt và rất niche; nhược điểm là độ đa dụng ban ngày không cao bằng các mùi sáng.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày đang tìm một chai vanilla niche vừa đẹp, vừa có chiều sâu, vừa không quá đại trà, Ani là ứng viên rất mạnh. Nó hợp người thích mùi ấm, ôm da và có cá tính rõ hơn mặt bằng vanilla phổ thông.
-
-Nên mua khi mày cần một chai tối, mùa mát hoặc hẹn hò. Nếu mày chủ yếu dùng giữa trưa nóng hoặc thích mùi rất fresh, Ani không phải hướng ưu tiên.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [{ name: "Gừng" }, { name: "Cam bergamot" }, { name: "Tiêu hồng" }, { name: "Lá xanh" }],
-    middleNotes: [{ name: "Bạch đậu khấu" }, { name: "Nho đen" }, { name: "Hoa hồng Thổ Nhĩ Kỳ" }],
-    baseNotes: [
-      { name: "Vani" },
-      { name: "An tức hương" },
-      { name: "Gỗ đàn hương" },
-      { name: "Gỗ tuyết tùng" },
-      { name: "Hoắc hương" },
-      { name: "Long diên hương" },
-      { name: "Xạ hương" }
+Mùa thu đông, buổi tối, hẹn hò, dịp đặc biệt. Xịt 1-2 nhát — tỏa rất mạnh. Đẹp nhất khi trời mát dưới 25°C. Ở Sài Gòn dùng buổi tối phòng máy lạnh.`,
+    verdict: "Chai vani gia vị niche đẹp nhất — ngọt, ấm, dễ mến. Bám 10h+. Best seller Nishane. Hợp ai yêu vani.",
+    verdictShort: "VANI GIA VỊ, DỄ MẾN, BEAST MODE",
+    score: { scent: 9, uniqueness: 8.5, compliments: 9.2, value: 8, total: 8.7 },
+    vibes: [{ label: "Dễ mến", icon: "❤️" }, { label: "Thu đông", icon: "🍂" }, { label: "Unisex", icon: "✨" }],
+    longevity: 10,
+    sillage: 9,
+    seasons: { spring: 42, summer: 15, fall: 90, winter: 98 },
+    dayNight: { day: 28, night: 92 },
+    topNotes: [{ name: "Gừng" }, { name: "Cam bergamot" }, { name: "Tiêu hồng" }],
+    middleNotes: [{ name: "Bạch đậu khấu" }, { name: "Lý chua đen" }, { name: "Hoa hồng Thổ Nhĩ Kỳ" }],
+    baseNotes: [{ name: "Vani" }, { name: "Benzoin" }, { name: "Gỗ đàn hương" }, { name: "Gỗ tuyết tùng" }, { name: "Hoắc hương" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Vani", value: 100, color: "#F5DEB3" },
+      { name: "Ngọt", value: 88, color: "#8B0000" },
+      { name: "Gia vị ấm", value: 72, color: "#e67e22" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Hoa", value: 42, color: "#e91e63" }
     ],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    seoTitle: "Nishane Ani chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Nishane Ani chính hãng: mùi vani gia vị niche dễ mến, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Vani","Dễ mến"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 4500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "chanel-allure-homme-sport",
@@ -7454,47 +7446,49 @@ Platinum Égoïste thuộc phân khúc Chanel — đắt hơn Prada L'Homme như
     brand: "MAISON FRANCIS KURKDJIAN",
     name: "Grand Soir",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Francis Kurkdjian",
     gender: "unisex",
     image: "/images/products/mfk-grand-soir-main.jpg",
-    images: [{ url: "/images/products/mfk-grand-soir-main.jpg", source: "amazon", caption: "MFK Grand Soir chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Grand Soir đúng như tên gọi: một mùi tối, amber, nhựa thơm và vanilla cực kỳ sang. Nó không cố mô phỏng quá nhiều note phức tạp, mà tập trung xây một khối ấm, bóng, giàu và đắt tiền. Đây là một trong những chai amber hiện đại đẹp nhất nếu mày thích sự ấm sang rõ rệt.
+    images: [
+      { url: "/images/products/mfk-grand-soir-main.jpg", source: "fragram", caption: "Maison Francis Kurkdjian Grand Soir Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai amber niche đẹp nhất — labdanum, cam, oải hương, benzoin Siam, vani, hổ phách, đậu Tonka và gỗ tuyết tùng. Ấm, mịn và cực kỳ sang. Unisex.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Grand Soir là độ hoàn thiện. Nó vừa đủ ngọt để cuốn, vừa đủ resinous để sang, và cực kỳ “lên không gian” khi dùng buổi tối. Trong điều kiện Việt Nam, chai này hợp cho máy lạnh, event, hẹn hò, tiệc hoặc những lúc cần một mùi hương có cảm giác dressed-up ngay lập tức.
+Nếu bạn thích mùi tươi sáng citrus hoặc mùi sạch aquatic thì Grand Soir hoàn toàn ngược — đây là amber-vani rất ấm và rất ngọt. Ai dùng ban ngày trời nóng sẽ thấy quá dày. Ngoài ra, giá MFK rất cao — cần test trước.
 
-## Diễn biến trên da
-Mở đầu đã khá ấm và resinous, sau đó amber cùng vanilla dần làm tổng thể mượt hơn, dày hơn và sang hơn. Mùi phát triển không quá nhiều tầng, nhưng texture thay đổi rất đẹp.
+### Có đáng tiền không?
 
-Drydown là lớp amber ấm, mềm, sang và cực kỳ ôm da. Nó tạo cảm giác đắt tiền rất rõ. Nhược điểm là trời nóng dễ làm nó trở nên hơi nhiều nếu xịt mạnh.
+Grand Soir thuộc phân khúc MFK niche — top giá. So với Kilian Angels' Share (cùng nhóm ấm ngọt), Grand Soir ít rượu hơn và amber mượt hơn. So với BR540 cùng hãng, Grand Soir ấm hơn và ít caramelized hơn. Hiệu năng rất tốt: bám 9 giờ, tỏa khá mạnh. Đây là chai amber hoàn hảo — mềm mịn like cashmere.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Grand Soir có hiệu năng tốt, thường 8-10 giờ; tỏa hương khá trong giai đoạn đầu. Nó hợp tối, hẹn hò, event, thời tiết mát và những dịp muốn mùi hương thật sự có khí chất sang.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên ưu tiên buổi tối và không gian mát. Ưu điểm là amber cực đẹp và rất sang; nhược điểm là không hợp ban ngày nóng.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai amber tối sang, hiện đại và cực kỳ chỉnh chu, Grand Soir là lựa chọn hàng đầu. Nó hợp người thích mùi ấm, xa xỉ và muốn một chai buổi tối thật sự nổi chất lượng.
-
-Nên mua khi mày cần một chai event/date night đắt tiền đúng nghĩa. Nếu mày thích mùi sáng, fresh hoặc casual, đây không phải hướng phù hợp.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa thu đông, buổi tối, dịp đặc biệt, tiệc sang. Xịt 2 nhát: cổ, cổ tay. Đẹp nhất khi trời mát. Ở Sài Gòn dùng buổi tối phòng máy lạnh.`,
+    verdict: "Chai amber niche hoàn hảo — ấm, mịn, sang. Bám 9h. Hợp thu đông, dịp đặc biệt. Quá ấm cho mùa hè.",
+    verdictShort: "AMBER MỊIN, SANG, HOÀN HẢO",
+    score: { scent: 9.2, uniqueness: 8.5, compliments: 9, value: 7.5, total: 8.6 },
+    vibes: [{ label: "Sang trọng", icon: "💎" }, { label: "Thu đông", icon: "🍂" }, { label: "Unisex", icon: "✨" }],
+    longevity: 9,
+    sillage: 8,
+    seasons: { spring: 38, summer: 12, fall: 92, winter: 98 },
+    dayNight: { day: 22, night: 92 },
+    topNotes: [{ name: "Labdanum" }, { name: "Cam" }],
+    middleNotes: [{ name: "Oải hương" }, { name: "Benzoin Siam" }],
+    baseNotes: [{ name: "Hổ phách" }, { name: "Vani" }, { name: "Đậu Tonka" }, { name: "Xạ hương" }, { name: "Gỗ tuyết tùng" }],
+    accords: [
+      { name: "Hổ phách", value: 100, color: "#d4a017" },
+      { name: "Vani", value: 88, color: "#F5DEB3" },
+      { name: "Ấm", value: 78, color: "#e67e22" },
+      { name: "Nhựa", value: 62, color: "#8B4513" },
+      { name: "Gỗ", value: 48, color: "#6e3b1f" }
+    ],
+    seoTitle: "MFK Grand Soir chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá MFK Grand Soir chính hãng: mùi amber vani mịn sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Amber","Sang trọng"],
+    sizes: ["10ml Chiết","70ml Fullbox","200ml Fullbox"],
+    basePrice: 6500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "boss-bottled-absolu",

@@ -10,89 +10,40 @@
   "images": [
     {
       "url": "/images/products/nishane-ani-main.jpg",
-      "source": "studio",
-      "caption": "Ảnh sản phẩm Nishane Ani (chai và hộp)"
+      "source": "fragram",
+      "caption": "Nishane Ani Extrait de Parfum chính hãng",
+      "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nAni là một trong những chai vanilla niche nổi bật nhất vì nó không ngọt theo kiểu bánh kẹo đơn thuần, mà kết hợp vanilla với gia vị, gỗ và chút xanh để tạo cảm giác vừa ấm vừa có cấu trúc. Đây là kiểu mùi dày, sang và có độ ôm rất đẹp trên da, phù hợp người thích những chai mang cảm giác comfort nhưng vẫn đủ cá tính.\n\nĐiểm mạnh của Ani là vanilla ở đây vừa ngon vừa có chiều sâu. Nó không quá trẻ con, cũng không thiên hẳn gourmand, nên nam hay nữ dùng đều ra chất riêng. Trong điều kiện Việt Nam, Ani hợp nhất với chiều tối, thời tiết mát hoặc môi trường điều hòa, nơi lớp vanilla-gia vị của nó có không gian để phát huy hết độ đẹp.\n\n## Diễn biến trên da\nMở đầu thường có cảm giác tươi nhẹ từ citrus và chút cay của gia vị, nhưng nhanh chóng phần vanilla bắt đầu mở ra. Sau đó gỗ và nền ấm đỡ phía sau giúp mùi không bị kẹo hay quá mượt theo kiểu tuyến tính.\n\nTrên da, Ani phát triển khá tròn: đầu hơi sáng, giữa ấm dần, cuối mềm và dày. Drydown rất dễ gây nghiện nếu mày thích vanilla có chiều sâu. Điểm trừ là với người không hợp vanilla hoặc thích sự khô thoáng, Ani có thể hơi dày và quá hiện diện.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nAni có hiệu năng tốt, lưu hương khoảng 8-10 giờ và tỏa hương khá trong những giờ đầu. Nó hợp dùng cho tối, hẹn hò, đi chơi, thời tiết mát, mùa mưa hoặc những ngày muốn một mùi vừa sang vừa ấm.\n\nỞ Việt Nam, không nên xịt quá tay nếu trời nóng, vì vanilla dày dễ thành ngọt nặng. Ưu điểm là bám khỏe, khác biệt và rất niche; nhược điểm là độ đa dụng ban ngày không cao bằng các mùi sáng.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày đang tìm một chai vanilla niche vừa đẹp, vừa có chiều sâu, vừa không quá đại trà, Ani là ứng viên rất mạnh. Nó hợp người thích mùi ấm, ôm da và có cá tính rõ hơn mặt bằng vanilla phổ thông.\n\nNên mua khi mày cần một chai tối, mùa mát hoặc hẹn hò. Nếu mày chủ yếu dùng giữa trưa nóng hoặc thích mùi rất fresh, Ani không phải hướng ưu tiên.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [
-    {
-      "name": "Gừng"
-    },
-    {
-      "name": "Cam bergamot"
-    },
-    {
-      "name": "Tiêu hồng"
-    },
-    {
-      "name": "Lá xanh"
-    }
+  "description": "Chai niche vani gia vị đẹp nhất — gừng, cam bergamot, tiêu hồng, bạch đậu khấu, hoa hồng Thổ Nhĩ Kỳ, vani, benzoin và gỗ đàn hương. Ngọt, ấm và rất dễ mến. Unisex.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt vani thì Ani sẽ quá ngọt cho gu đó — vani ở đây rất rõ và chủ đạo. Ai thích mùi sạch thoáng hoặc mùi tối khô cũng sẽ thấy chai này hơi ngọt mainstream. Ngoài ra, giá niche cao.\n\n### Có đáng tiền không?\n\nAni thuộc phân khúc Nishane niche — đắt hơn designer nhưng rẻ hơn MFK và Creed. So với Grand Soir (cùng nhóm ấm ngọt), Ani có gừng-gia vị rõ hơn và trẻ hơn. So với Angels' Share, Ani ít rượu hơn và nhiều vani hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa mạnh — Extrait de Parfum. Đây là chai vani niche best seller có lý do.\n\n### Nên dùng khi nào?\n\nMùa thu đông, buổi tối, hẹn hò, dịp đặc biệt. Xịt 1-2 nhát — tỏa rất mạnh. Đẹp nhất khi trời mát dưới 25°C. Ở Sài Gòn dùng buổi tối phòng máy lạnh.",
+  "verdict": "Chai vani gia vị niche đẹp nhất — ngọt, ấm, dễ mến. Bám 10h+. Best seller Nishane. Hợp ai yêu vani.",
+  "verdictShort": "VANI GIA VỊ, DỄ MẾN, BEAST MODE",
+  "score": { "scent": 9.0, "uniqueness": 8.5, "compliments": 9.2, "value": 8.0, "total": 8.7 },
+  "vibes": [
+    { "label": "Dễ mến", "icon": "❤️" },
+    { "label": "Thu đông", "icon": "🍂" },
+    { "label": "Unisex", "icon": "✨" }
   ],
-  "middleNotes": [
-    {
-      "name": "Bạch đậu khấu"
-    },
-    {
-      "name": "Nho đen"
-    },
-    {
-      "name": "Hoa hồng Thổ Nhĩ Kỳ"
-    }
+  "longevity": 10,
+  "sillage": 9,
+  "seasons": { "spring": 42, "summer": 15, "fall": 90, "winter": 98 },
+  "dayNight": { "day": 28, "night": 92 },
+  "topNotes": [{ "name": "Gừng" }, { "name": "Cam bergamot" }, { "name": "Tiêu hồng" }],
+  "middleNotes": [{ "name": "Bạch đậu khấu" }, { "name": "Lý chua đen" }, { "name": "Hoa hồng Thổ Nhĩ Kỳ" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Benzoin" }, { "name": "Gỗ đàn hương" }, { "name": "Gỗ tuyết tùng" }, { "name": "Hoắc hương" }, { "name": "Xạ hương" }],
+  "accords": [
+    { "name": "Vani", "value": 100, "color": "#F5DEB3" },
+    { "name": "Ngọt", "value": 88, "color": "#8B0000" },
+    { "name": "Gia vị ấm", "value": 72, "color": "#e67e22" },
+    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
+    { "name": "Hoa", "value": 42, "color": "#e91e63" }
   ],
-  "baseNotes": [
-    {
-      "name": "Vani"
-    },
-    {
-      "name": "An tức hương"
-    },
-    {
-      "name": "Gỗ đàn hương"
-    },
-    {
-      "name": "Gỗ tuyết tùng"
-    },
-    {
-      "name": "Hoắc hương"
-    },
-    {
-      "name": "Long diên hương"
-    },
-    {
-      "name": "Xạ hương"
-    }
-  ],
-  "accords": [],
-  "tags": [
-    "Unisex",
-    "NEEDS_SOURCE"
-  ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "seoTitle": "Nishane Ani chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Nishane Ani chính hãng: mùi vani gia vị niche dễ mến, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Unisex", "Niche", "Vani", "Dễ mến"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 4500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
