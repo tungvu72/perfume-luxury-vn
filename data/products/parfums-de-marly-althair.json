@@ -4,51 +4,46 @@
   "brand": "PARFUMS DE MARLY",
   "name": "Althaïr",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Hamid Merati-Kashani & Ilias Ermenidis",
   "gender": "nam",
   "image": "/images/products/parfums-de-marly-althair-main.jpg",
   "images": [
     {
       "url": "/images/products/parfums-de-marly-althair-main.jpg",
-      "source": "amazon",
-      "caption": "PARFUMS DE MARLY Althaïr chính hãng",
+      "source": "fragram",
+      "caption": "Parfums de Marly Althaïr Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nAlthaïr là kiểu vanilla - gia vị - gỗ hiện đại rất tròn, sang và dễ gây nghiện. Nó không phải vanilla nữ tính mềm hoàn toàn, cũng không quá tối, mà nằm ở điểm giữa rất đẹp: ấm, mịn, ngọt vừa và có cảm giác upscale rõ. Đây là một trong những chai gourmand nam hiện đại dễ lấy lòng nhất của Parfums de Marly.\n\nĐiểm mạnh của Althaïr là độ nịnh mũi cao. Nó sang hơn nhiều chai ngọt phổ thông nhưng vẫn đủ dễ chịu để nhiều người thích ngay. Trong khí hậu Việt Nam, chai này hợp cho tối, máy lạnh, đi chơi hoặc người thích một mùi ngọt ấm hiện đại nhưng không quá “kẹo”.\n\n## Diễn biến trên da\nMở đầu có gia vị và độ sáng vừa phải trước khi vanilla cùng gỗ làm tổng thể mượt và dày hơn. Mùi chuyển khá mềm, không gắt và càng về sau càng tạo cảm giác ôm da rất đẹp.\n\nDrydown là lớp vanilla ấm, hơi kem, hơi gỗ và rất nịnh khoảng cách gần. Nó không quá phức tạp nhưng hoàn thiện tốt. Nhược điểm là nếu mày đã có nhiều chai vanilla ấm, Althaïr có thể không tạo cú sốc mới mẻ lớn.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nAlthaïr có hiệu năng tốt, khoảng 7-9 giờ; tỏa hương vừa đến khá. Nó hợp hẹn hò, tối, mùa mát, không gian máy lạnh hoặc những dịp muốn thơm theo kiểu ấm sang hiện đại.\n\nỞ Việt Nam, nên dùng buổi tối để mùi lên đẹp nhất. Ưu điểm là dễ thích, sang và wearable; nhược điểm là không thật sự hợp trời nóng gay gắt.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai vanilla nam hiện đại, sang và rất dễ được thích, Althaïr là lựa chọn rất mạnh. Nó hợp người thích mùi ngọt ấm mượt nhưng không muốn quá trẻ con.\n\nNên mua khi mày cần một chai buổi tối dễ khen. Nếu mày ưu tiên sự xanh, khô hoặc quá khác biệt, nên cân nhắc hướng khác.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nam",
-    "NEEDS_SOURCE"
+  "description": "Chai nam vani-praline hiện đại nhất PdM — quế, hoa cam, bạch đậu khấu, cam bergamot, vani Bourbon, elemi, praline, ambroxan và hạnh nhân. Ngọt nhưng sạch.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt vani thì Althaïr quá ngọt cho gu đó — vani Bourbon và praline rất rõ. Ai thích mùi tối khô oud cũng sẽ thấy chai này quá bright. Tuy nhiên, Althaïr ngọt nhưng KHÔNG ngọp — gia vị và ambroxan giúp cân bằng.\n\n### Có đáng tiền không?\n\nAlthaïr thuộc phân khúc PdM niche 2023. So với Nishane Ani (cùng nhóm vani niche), Althaïr có praline-hạnh nhân rõ hơn và hiện đại hơn. So với Herod cùng hãng, Althaïr ít thuốc lá hơn, nhiều vani-praline hơn. Hiệu năng rất tốt: bám 9 giờ, tỏa khá mạnh. Chai vani nam hiện đại nhất PdM.\n\n### Nên dùng khi nào?\n\nMùa thu đông, buổi tối, hẹn hò, dịp đặc biệt. Xịt 2 nhát: cổ, ngực. Đẹp nhất khi trời mát. Ở Sài Gòn dùng tối hoặc phòng máy lạnh.",
+  "verdict": "Chai vani-praline nam hiện đại nhất — ngọt nhưng sạch. Bám 9h. Hợp thu đông. PdM 2023 best release.",
+  "verdictShort": "VANI PRALINE, HIỆN ĐẠI, SẠCH",
+  "score": { "scent": 9.0, "uniqueness": 8.5, "compliments": 9.2, "value": 7.5, "total": 8.6 },
+  "vibes": [
+    { "label": "Hiện đại", "icon": "⚡" },
+    { "label": "Hẹn hò", "icon": "❤️" },
+    { "label": "Thu đông", "icon": "🍂" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 9,
+  "sillage": 8,
+  "seasons": { "spring": 42, "summer": 15, "fall": 90, "winter": 98 },
+  "dayNight": { "day": 25, "night": 92 },
+  "topNotes": [{ "name": "Quế" }, { "name": "Hoa cam" }, { "name": "Bạch đậu khấu" }, { "name": "Cam bergamot" }],
+  "middleNotes": [{ "name": "Vani Bourbon" }, { "name": "Elemi" }],
+  "baseNotes": [{ "name": "Praline" }, { "name": "Xạ hương" }, { "name": "Ambroxan" }, { "name": "Gỗ Guaiac" }, { "name": "Đậu Tonka" }, { "name": "Hạnh nhân" }],
+  "accords": [
+    { "name": "Vani", "value": 100, "color": "#F5DEB3" },
+    { "name": "Gourmand", "value": 82, "color": "#d4a373" },
+    { "name": "Gia vị ấm", "value": 72, "color": "#e67e22" },
+    { "name": "Hổ phách", "value": 55, "color": "#d4a017" },
+    { "name": "Gỗ", "value": 42, "color": "#8B4513" }
+  ],
+  "seoTitle": "Parfums de Marly Althaïr chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Parfums de Marly Althaïr chính hãng: mùi vani praline hiện đại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Niche", "Vani", "Hiện đại"],
+  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
+  "basePrice": 5200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

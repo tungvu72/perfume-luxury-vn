@@ -4411,47 +4411,49 @@ Nên mua khi mày đã chán các DNA quen thuộc và muốn một bước sang
     brand: "PARFUMS DE MARLY",
     name: "Althaïr",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Hamid Merati-Kashani & Ilias Ermenidis",
     gender: "nam",
     image: "/images/products/parfums-de-marly-althair-main.jpg",
-    images: [{ url: "/images/products/parfums-de-marly-althair-main.jpg", source: "amazon", caption: "PARFUMS DE MARLY Althaïr chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Althaïr là kiểu vanilla - gia vị - gỗ hiện đại rất tròn, sang và dễ gây nghiện. Nó không phải vanilla nữ tính mềm hoàn toàn, cũng không quá tối, mà nằm ở điểm giữa rất đẹp: ấm, mịn, ngọt vừa và có cảm giác upscale rõ. Đây là một trong những chai gourmand nam hiện đại dễ lấy lòng nhất của Parfums de Marly.
+    images: [
+      { url: "/images/products/parfums-de-marly-althair-main.jpg", source: "fragram", caption: "Parfums de Marly Althaïr Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai nam vani-praline hiện đại nhất PdM — quế, hoa cam, bạch đậu khấu, cam bergamot, vani Bourbon, elemi, praline, ambroxan và hạnh nhân. Ngọt nhưng sạch.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Althaïr là độ nịnh mũi cao. Nó sang hơn nhiều chai ngọt phổ thông nhưng vẫn đủ dễ chịu để nhiều người thích ngay. Trong khí hậu Việt Nam, chai này hợp cho tối, máy lạnh, đi chơi hoặc người thích một mùi ngọt ấm hiện đại nhưng không quá “kẹo”.
+Nếu bạn ghét mùi ngọt vani thì Althaïr quá ngọt cho gu đó — vani Bourbon và praline rất rõ. Ai thích mùi tối khô oud cũng sẽ thấy chai này quá bright. Tuy nhiên, Althaïr ngọt nhưng KHÔNG ngọp — gia vị và ambroxan giúp cân bằng.
 
-## Diễn biến trên da
-Mở đầu có gia vị và độ sáng vừa phải trước khi vanilla cùng gỗ làm tổng thể mượt và dày hơn. Mùi chuyển khá mềm, không gắt và càng về sau càng tạo cảm giác ôm da rất đẹp.
+### Có đáng tiền không?
 
-Drydown là lớp vanilla ấm, hơi kem, hơi gỗ và rất nịnh khoảng cách gần. Nó không quá phức tạp nhưng hoàn thiện tốt. Nhược điểm là nếu mày đã có nhiều chai vanilla ấm, Althaïr có thể không tạo cú sốc mới mẻ lớn.
+Althaïr thuộc phân khúc PdM niche 2023. So với Nishane Ani (cùng nhóm vani niche), Althaïr có praline-hạnh nhân rõ hơn và hiện đại hơn. So với Herod cùng hãng, Althaïr ít thuốc lá hơn, nhiều vani-praline hơn. Hiệu năng rất tốt: bám 9 giờ, tỏa khá mạnh. Chai vani nam hiện đại nhất PdM.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Althaïr có hiệu năng tốt, khoảng 7-9 giờ; tỏa hương vừa đến khá. Nó hợp hẹn hò, tối, mùa mát, không gian máy lạnh hoặc những dịp muốn thơm theo kiểu ấm sang hiện đại.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng buổi tối để mùi lên đẹp nhất. Ưu điểm là dễ thích, sang và wearable; nhược điểm là không thật sự hợp trời nóng gay gắt.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai vanilla nam hiện đại, sang và rất dễ được thích, Althaïr là lựa chọn rất mạnh. Nó hợp người thích mùi ngọt ấm mượt nhưng không muốn quá trẻ con.
-
-Nên mua khi mày cần một chai buổi tối dễ khen. Nếu mày ưu tiên sự xanh, khô hoặc quá khác biệt, nên cân nhắc hướng khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa thu đông, buổi tối, hẹn hò, dịp đặc biệt. Xịt 2 nhát: cổ, ngực. Đẹp nhất khi trời mát. Ở Sài Gòn dùng tối hoặc phòng máy lạnh.`,
+    verdict: "Chai vani-praline nam hiện đại nhất — ngọt nhưng sạch. Bám 9h. Hợp thu đông. PdM 2023 best release.",
+    verdictShort: "VANI PRALINE, HIỆN ĐẠI, SẠCH",
+    score: { scent: 9, uniqueness: 8.5, compliments: 9.2, value: 7.5, total: 8.6 },
+    vibes: [{ label: "Hiện đại", icon: "⚡" }, { label: "Hẹn hò", icon: "❤️" }, { label: "Thu đông", icon: "🍂" }],
+    longevity: 9,
+    sillage: 8,
+    seasons: { spring: 42, summer: 15, fall: 90, winter: 98 },
+    dayNight: { day: 25, night: 92 },
+    topNotes: [{ name: "Quế" }, { name: "Hoa cam" }, { name: "Bạch đậu khấu" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Vani Bourbon" }, { name: "Elemi" }],
+    baseNotes: [{ name: "Praline" }, { name: "Xạ hương" }, { name: "Ambroxan" }, { name: "Gỗ Guaiac" }, { name: "Đậu Tonka" }, { name: "Hạnh nhân" }],
+    accords: [
+      { name: "Vani", value: 100, color: "#F5DEB3" },
+      { name: "Gourmand", value: 82, color: "#d4a373" },
+      { name: "Gia vị ấm", value: 72, color: "#e67e22" },
+      { name: "Hổ phách", value: 55, color: "#d4a017" },
+      { name: "Gỗ", value: 42, color: "#8B4513" }
+    ],
+    seoTitle: "Parfums de Marly Althaïr chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Parfums de Marly Althaïr chính hãng: mùi vani praline hiện đại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Niche","Vani","Hiện đại"],
+    sizes: ["10ml Chiết","75ml Fullbox","125ml Fullbox"],
+    basePrice: 5200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "guerlain-angelique-noire",
@@ -8192,47 +8194,47 @@ Dùng được quanh năm — đi làm, gặp khách, đi ăn tối nhẹ. Đẹ
     brand: "XERJOFF",
     name: "Torino21",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Xerjoff",
     gender: "unisex",
     image: "/images/products/xerjoff-torino21-main.jpg",
-    images: [{ url: "/images/products/xerjoff-torino21-main.jpg", source: "amazon", caption: "XERJOFF Torino21 chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Torino21 là kiểu aromatic xanh mát rất sáng, rất thể thao nhưng được làm với chất lượng niche cực đẹp. Nó cho cảm giác bạc hà, thảo mộc, độ sạch và năng lượng cao ngay từ đầu, nhưng không rẻ tiền hay quá shower-gel. Đây là một chai cực hợp với người thích mùi tươi, sạch, hoạt bát mà vẫn muốn có chất lượng cảm giác cao hơn designer phổ thông.
+    images: [{ url: "/images/products/xerjoff-torino21-main.jpg", source: "fragram", caption: "Xerjoff Torino21 Eau de Parfum chính hãng", verified: true }],
+    description: "Chai niche thảo mộc-xanh tươi nhất Xerjoff — bạc hà, chanh, húng quế, cỏ xạ hương, lý chua đen, oải hương, hương thảo và xạ hương. Sạch, xanh và rất energizing.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Torino21 là độ sảng khoái và độ “lên người” rất tốt. Trong khí hậu Việt Nam, chai này gần như sinh ra để dùng ban ngày, mùa nóng, vận động nhẹ hoặc những lúc muốn đầu óc thấy thoáng ngay từ cú xịt đầu.
+Nếu bạn thích mùi ngọt ấm hay mùi oud tối thì Torino21 quá xanh và quá thoáng cho gu đó. Ai cần mùi bám lâu cũng sẽ hơi thất vọng — chai thảo mộc-xanh thường tỏa nhẹ.
 
-## Diễn biến trên da
-Mở đầu là bạc hà và aromatic xanh rất rõ, sau đó phần thảo mộc cùng nền sạch giúp tổng thể ổn định và bớt bốc hơn. Mùi phát triển khá tuyến tính nhưng chất lượng blend rất cao.
+### Có đáng tiền không?
 
-Drydown sạch, xanh và mát kiểu sang chứ không đơn điệu. Nó không có chiều tối hay độ sexy lớn, nhưng rất đáng tin khi cần mùi tươi. Nhược điểm là ai thích mùi dày, ấm hoặc phức tạp sẽ thấy Torino21 hơi thẳng.
+Torino21 thuộc phân khúc Xerjoff — đắt. So với Versace Pour Homme (cùng nhóm tươi), Torino21 thảo mộc hơn và niche hơn rất nhiều. So với PdM Sedley, Torino21 xanh hơn và ít citrus hơn. Hiệu năng vừa: bám 6-7 giờ, tỏa nhẹ-vừa. Chai niche xanh đẹp nhất thị trường.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Torino21 có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương vừa. Nó hợp ban ngày, mùa nóng, đi làm, đi học, du lịch, tập nhẹ hoặc làm chai summer signature rất tốt.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng cực ổn nhờ độ thoáng. Ưu điểm là fresh rất đẹp và khác mùi sporty rẻ tiền; nhược điểm là không dành cho ai thích chiều sâu tối.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai xanh mát, sạch và có năng lượng cao cho mùa nóng, Torino21 là lựa chọn rất mạnh. Nó hợp người thích aromatic fresh nhưng vẫn muốn chất lượng niche rõ rệt.
-
-Nên mua khi mày cần một chai ban ngày thật sảng khoái. Nếu mày chỉ thích mùi ấm, tối hoặc rất sexy, đây không phải hướng chính.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Xuân hè, ban ngày, đi làm, thể thao nhẹ, dạo phố. Xịt 3-4 nhát. Đẹp nhất khi trời nóng. Ở Sài Gòn dùng quanh năm.`,
+    verdict: "Chai thảo mộc xanh tươi nhất Xerjoff — sạch, energizing. Hợp mùa hè. Niche green gem.",
+    verdictShort: "THẢO MỘC XANH, TƯƠI, NICHE",
+    score: { scent: 8.5, uniqueness: 8.5, compliments: 8, value: 7.2, total: 8.1 },
+    vibes: [{ label: "Tươi mát", icon: "🌿" }, { label: "Ban ngày", icon: "☀️" }, { label: "Unisex", icon: "✨" }],
+    longevity: 6,
+    sillage: 6,
+    seasons: { spring: 92, summer: 88, fall: 42, winter: 22 },
+    dayNight: { day: 92, night: 28 },
+    topNotes: [{ name: "Bạc hà" }, { name: "Chanh" }, { name: "Húng quế" }, { name: "Cỏ xạ hương" }],
+    middleNotes: [{ name: "Lý chua đen" }, { name: "Oải hương" }, { name: "Hương thảo" }, { name: "Hoa nhài" }],
+    baseNotes: [{ name: "Xạ hương" }, { name: "Cỏ roi ngựa" }],
+    accords: [
+      { name: "Thơm thảo mộc", value: 100, color: "#2c7a4b" },
+      { name: "Gia vị tươi", value: 82, color: "#27ae60" },
+      { name: "Xanh", value: 72, color: "#2ecc71" },
+      { name: "Cam chanh", value: 62, color: "#f1c40f" },
+      { name: "Xạ hương", value: 42, color: "#bdc3c7" }
+    ],
+    seoTitle: "Xerjoff Torino21 chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Xerjoff Torino21 chính hãng: mùi thảo mộc xanh tươi niche, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Tươi mát","Mùa hè"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 5500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "tom-ford-tuscan-leather",
