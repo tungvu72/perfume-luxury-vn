@@ -763,48 +763,48 @@ Nên mua khi mày muốn một chai dùng ban ngày thật ổn. Nếu mày thí
     brandSlug: "chanel",
     brand: "CHANEL",
     name: "Allure Homme Sport Eau Extrême",
-    subName: "Eau de Parfum",
+    subName: "Eau de Toilette Concentrée",
     perfumer: "Jacques Polge",
     gender: "nam",
     image: "/images/products/chanel-allure-homme-sport-eau-extreme-main.jpg",
     images: [
       { url: "/images/products/chanel-allure-homme-sport-eau-extreme-main.jpg", source: "fragram", caption: "Chanel Allure Homme Sport Eau Extrême chính hãng", verified: true }
     ],
-    description: "Chai nam đa dụng hàng đầu Chanel — quýt, bạc hà, đậu Tonka và gỗ đàn hương. Vừa tươi vừa ấm, dùng được quanh năm.",
+    description: "Chai nam bạc hà-tiêu-gỗ dynamic nhất Chanel — cam quýt, bạc hà, bách, xô thơm, tiêu, đậu Tonka, xạ hương, gỗ đàn hương và gỗ tuyết tùng. Tươi, ấm và cực kỳ safe.",
     article: `### Ai không nên mua?
 
-Nếu bạn muốn mùi cực kỳ độc đáo, khác biệt thì AHSEE sẽ hơi an toàn — đây là chai dễ dùng, dễ thích nhưng không quá cá tính. Ai đã có nhiều chai fresh-sweet designer cũng có thể thấy nó trùng vibe. Ngoài ra, nếu bạn cần mùi tối sexy cho hẹn hò thì AHSEE hơi sáng.
+Nếu bạn muốn chai nổi bật, khác biệt, gây ấn tượng mạnh — thì Allure Homme Sport Eau Extrême sẽ khiến bạn cảm thấy... bình thường. Đây là chai "đẹp trai mà bình thường" — ai ngửi cũng khen nhưng ít ai ngoắc lại hỏi "mùi gì thế". Nếu bạn đã có Bleu de Chanel EDP, thì cả hai chia sẻ vị trí "chai Chanel nam an toàn" và có thể trùng nhau về dịp dùng.
 
 ### Có đáng tiền không?
 
-AHSEE thuộc phân khúc Chanel — đắt hơn Sauvage EDP và YSL Y EDP. Nhưng chất lượng blend của Chanel là lý do chính: rất mượt, không có note nào lỗi. So với Sauvage EDP, AHSEE ấm hơn và có tonka rõ hơn. So với Bleu de Chanel EDP, AHSEE trẻ hơn và sporty hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa vừa. Đáng mua nếu bạn cần một chai quanh năm chất lượng cao.
+Giá Chanel — nhỉnh hơn designer bình thường. Nhưng Eau Extrême (bản concentrated) bám lâu hơn hẳn bản Sport thường — 8-9 giờ so với 4-5 giờ. Đó là lý do bạn nên mua bản Extrême thay vì bản thường. So với Dior Sauvage EDT — cùng nhóm nam an toàn — thì Eau Extrême mềm hơn, ít aggressive hơn và nhiều đậu Tonka ấm hơn. So với Bleu de Chanel EDP cùng hãng — thì Eau Extrême sporty hơn, nhiều bạc hà hơn và trẻ trung hơn.
 
 ### Nên dùng khi nào?
 
-Dùng quanh năm — đi làm, đi chơi, hẹn hò nhẹ, cà phê. Xịt 2-3 nhát: cổ, ngực, cổ tay. Đẹp nhất mùa xuân thu. Ở Sài Gòn dùng thoải mái — vừa tươi vừa ấm nên hợp cả nắng và máy lạnh.`,
-    verdict: "Chai đa dụng hoàn hảo — tươi, ấm, mượt và rất Chanel. Dùng quanh năm. Hơi an toàn nếu bạn thích mùi cá tính mạnh.",
-    verdictShort: "ĐA DỤNG, MƯỢT, RẤT CHANEL",
-    score: { scent: 9, uniqueness: 7.8, compliments: 9.2, value: 8, total: 8.5 },
-    vibes: [{ label: "Đa dụng", icon: "🔄" }, { label: "Thể thao sang", icon: "⚡" }, { label: "Quanh năm", icon: "✅" }],
+Mọi lúc: đi làm, đi gym, đi chơi, hẹn hò casual. Xịt 3-4 nhát: cổ, ngực, cổ tay. Chai 4 mùa — ở Sài Gòn thì bạc hà-cam tươi trong nóng, ở Hà Nội thì đậu Tonka ấm trong lạnh. Đây là chai "main rotation" — xịt 5 ngày/tuần không ai phàn nàn, không bao giờ sai.`,
+    verdict: "Chai Chanel nam sporty đa dụng nhất — tươi, ấm, an toàn tuyệt đối. Bám 9h. Main rotation 5 ngày/tuần.",
+    verdictShort: "TƯƠI ẤM, AN TOÀN, MAIN ROTATION",
+    score: { scent: 8.5, uniqueness: 7, compliments: 8.8, value: 8, total: 8.1 },
+    vibes: [{ label: "Sporty", icon: "⚡" }, { label: "An toàn", icon: "✅" }, { label: "Hằng ngày", icon: "🧴" }],
     longevity: 8,
     sillage: 7,
-    seasons: { spring: 82, summer: 68, fall: 80, winter: 65 },
-    dayNight: { day: 78, night: 58 },
-    topNotes: [{ name: "Quýt" }, { name: "Bạc hà" }, { name: "Bách xanh" }, { name: "Xô thơm" }],
+    seasons: { spring: 82, summer: 72, fall: 72, winter: 62 },
+    dayNight: { day: 82, night: 62 },
+    topNotes: [{ name: "Cam quýt" }, { name: "Bạc hà" }, { name: "Bách" }, { name: "Xô thơm" }],
     middleNotes: [{ name: "Tiêu" }],
     baseNotes: [{ name: "Đậu Tonka" }, { name: "Xạ hương" }, { name: "Gỗ đàn hương" }, { name: "Gỗ tuyết tùng" }],
     accords: [
-      { name: "Gia vị tươi", value: 100, color: "#4CAF50" },
-      { name: "Tươi", value: 82, color: "#2ecc71" },
-      { name: "Ngọt", value: 72, color: "#e74c3c" },
-      { name: "Gỗ", value: 62, color: "#8B4513" },
-      { name: "Thơm thảo mộc", value: 55, color: "#2c7a4b" }
+      { name: "Gỗ", value: 100, color: "#8B4513" },
+      { name: "Thơm thảo mộc", value: 78, color: "#2c7a4b" },
+      { name: "Tươi mát", value: 72, color: "#2ecc71" },
+      { name: "Gia vị ấm", value: 55, color: "#e67e22" },
+      { name: "Cam chanh", value: 48, color: "#f1c40f" }
     ],
     seoTitle: "Chanel Allure Homme Sport Eau Extrême chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá AHSEE chính hãng: mùi tươi ấm đa dụng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nam","Đa dụng","Quanh năm","Cao cấp"],
+    metaDescription: "Đánh giá Chanel Allure Homme Sport Eau Extrême chính hãng: mùi tươi ấm sporty đa dụng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Sporty","An toàn","Đa dụng"],
     sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox","150ml Fullbox"],
-    basePrice: 3400000,
+    basePrice: 2800000,
     shopeeOffers: [],
     isPublished: true
   },
@@ -2441,41 +2441,50 @@ Coco Mademoiselle thuộc phân khúc designer cao cấp của Chanel — tức 
     gender: "nu",
     image: "/images/products/chanel-coco-noir-main.jpg",
     images: [{ url: "/images/products/chanel-coco-noir-main.jpg", source: "fragram", caption: "Chanel Coco Noir Eau de Parfum chính hãng", verified: true }],
-    description: "Chai nữ Chanel tối nhất — bưởi, hoa hồng, hoắc hương, đậu Tonka và vani. Quyến rũ, bí ẩn và rất sang. Hợp đi tối và hẹn hò.",
+    description: "Chai Chanel tối nhất — bưởi, cam bergamot, cam, hoa hồng, phong lữ, nhài, thuỷ tiên, đào, hoắc hương, gỗ đàn hương, trầm hương, đậu Tonka, vani, xạ hương trắng, đinh hương và benzoin. Tối, đậm, quyến rũ.",
     article: `### Ai không nên mua?
 
-Nếu bạn thích mùi nhẹ nhàng, tươi trẻ kiểu Chance Eau Tendre hay Miss Dior Blooming Bouquet thì Coco Noir hoàn toàn ngược — đây là mùi tối, ấm và khá nặng. Ai dùng ban ngày đi văn phòng sẽ thấy quá nhiều. Người dưới 25 tuổi thích mùi cute cũng sẽ thấy Coco Noir quá mature.
+Nếu bạn quen với Chanel No.5 hoặc Chance — nhẹ, sáng, phấn — thì Coco Noir sẽ hoàn toàn là một Chanel khác. Đây là chai TỐI nhất trong collection: hoắc hương, trầm hương và vani đè lên hoa hồng-nhài, tạo ra mùi "nguy hiểm" thay vì "dễ thương". Nếu bạn mua chai Chanel để mặc đi brunch Chủ nhật, thì không phải chai này. Coco Noir là chai bạn dùng khi muốn khiến ai đó không thể quên mình.
 
 ### Có đáng tiền không?
 
-Coco Noir thuộc phân khúc Chanel cao cấp — giá tương đương Coco Mademoiselle. So với Coco Mademoiselle, Coco Noir tối hơn nhiều, ít citrus hơn và hoắc hương mạnh hơn. So với Black Opium, Coco Noir sang hơn và ít cà phê hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá mạnh. Đây là chai evening Chanel cho phụ nữ — rất khác biệt trong lineup Chanel.
+Giá Chanel — không rẻ, nhưng Coco Noir ít khi giảm giá vì Chanel không bao giờ bán như vậy. So với Chanel Chance Eau Tendre — cùng hãng nhưng khác hoàn toàn — thì Coco Noir tối hơn, đậm hơn và trưởng thành hơn rất nhiều. So với YSL Black Opium — cùng nhóm nữ tối — thì Coco Noir ít ngọt hơn, nhiều trầm hương hơn và kiểu "đắt" hơn. Bám 7-8 giờ, tỏa vừa.
 
 ### Nên dùng khi nào?
 
-Đi ăn tối, hẹn hò, dự tiệc, sự kiện. Xịt 1-2 nhát: cổ, cổ tay — tỏa mạnh nên không cần nhiều. Đẹp nhất mùa thu đông, trời mát. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.`,
-    verdict: "Mùi Chanel nữ tối nhất — hoắc hương, vani, sang và bí ẩn. Hợp đi tối, hẹn hò. Không hợp ai thích mùi nhẹ nhàng ban ngày.",
-    verdictShort: "TỐI, SANG, BÍ ẨN",
-    score: { scent: 8.8, uniqueness: 8.5, compliments: 8.6, value: 8, total: 8.5 },
-    vibes: [{ label: "Buổi tối", icon: "🌙" }, { label: "Quyến rũ", icon: "🔥" }, { label: "Sang trọng", icon: "💎" }],
-    longevity: 8,
+Đi ăn tối ở nhà hàng, dự sự kiện buổi tối, hoặc khi muốn mặc đồ đen ra ngoài. Xịt 2 nhát sau cổ và cổ tay. Đẹp nhất thu đông — Hà Nội tháng 10-2 là lý tưởng. Ở Sài Gòn thì dùng tối, phòng máy lạnh. Tránh ban ngày nóng vì hoắc hương sẽ nặng.`,
+    verdict: "Chanel tối nhất — hoắc hương, trầm, vani. Cho buổi tối và dịp quyến rũ. Không phải Chanel \"dễ thương\".",
+    verdictShort: "CHANEL TỐI NHẤT, QUYẾN RŨ, BUỔI TỐI",
+    score: { scent: 8.8, uniqueness: 8.5, compliments: 8.5, value: 7.5, total: 8.3 },
+    vibes: [{ label: "Quyến rũ", icon: "🖤" }, { label: "Buổi tối", icon: "🌙" }, { label: "Sang trọng", icon: "💎" }],
+    longevity: 7,
     sillage: 7,
-    seasons: { spring: 45, summer: 22, fall: 88, winter: 95 },
-    dayNight: { day: 25, night: 92 },
-    topNotes: [{ name: "Bưởi chùm" }, { name: "Cam bergamot" }, { name: "Cam" }],
+    seasons: { spring: 42, summer: 15, fall: 85, winter: 88 },
+    dayNight: { day: 22, night: 88 },
+    topNotes: [{ name: "Bưởi" }, { name: "Cam bergamot" }, { name: "Cam" }],
     middleNotes: [{ name: "Hoa hồng" }, { name: "Phong lữ" }, { name: "Hoa nhài" }, { name: "Thuỷ tiên" }, { name: "Đào" }],
-    baseNotes: [{ name: "Hoắc hương" }, { name: "Gỗ đàn hương" }, { name: "Nhựa trầm" }, { name: "Đậu Tonka" }, { name: "Vani" }, { name: "Xạ hương trắng" }],
+    baseNotes: [
+      { name: "Hoắc hương" },
+      { name: "Gỗ đàn hương" },
+      { name: "Trầm hương" },
+      { name: "Đậu Tonka" },
+      { name: "Vani" },
+      { name: "Xạ hương trắng" },
+      { name: "Đinh hương" },
+      { name: "Benzoin" }
+    ],
     accords: [
-      { name: "Gỗ", value: 100, color: "#8B4513" },
-      { name: "Hoắc hương", value: 88, color: "#4e342e" },
+      { name: "Hoắc hương", value: 100, color: "#4e342e" },
       { name: "Hoa", value: 72, color: "#e91e63" },
-      { name: "Ấm", value: 65, color: "#e67e22" },
-      { name: "Vani", value: 55, color: "#F5DEB3" }
+      { name: "Gỗ", value: 65, color: "#8B4513" },
+      { name: "Vani", value: 55, color: "#F5DEB3" },
+      { name: "Gia vị ấm", value: 42, color: "#e67e22" }
     ],
     seoTitle: "Chanel Coco Noir chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Chanel Coco Noir chính hãng: mùi hoắc hương vani tối quyến rũ, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nữ","Buổi tối","Quyến rũ","Sang trọng"],
+    metaDescription: "Đánh giá Chanel Coco Noir chính hãng: chai Chanel tối nhất quyến rũ nhất, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Quyến rũ","Buổi tối","Sang trọng"],
     sizes: ["10ml Chiết","35ml Fullbox","50ml Fullbox","100ml Fullbox"],
-    basePrice: 3800000,
+    basePrice: 3200000,
     shopeeOffers: [],
     isPublished: true
   },
