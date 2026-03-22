@@ -1,0 +1,139 @@
+{
+  "id": "club-de-nuit-intense-man",
+  "brandSlug": "armaf",
+  "brand": "ARMAF",
+  "name": "Club de Nuit Intense Man",
+  "subName": "Eau de Toilette",
+  "perfumer": "Armaf",
+  "gender": "nam",
+  "image": "/images/products/armaf-club-de-nuit-intense-man-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/armaf-club-de-nuit-intense-man-main.jpg",
+      "source": "fragram",
+      "caption": "Armaf Club de Nuit Intense Man chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Clone Creed Aventus nổi tiếng nhất — citrus, trái cây, khói và da thuộc. Giá mềm nhưng hiệu năng rất mạnh. Hợp người muốn mùi Aventus mà không tốn quá nhiều.",
+  "article": "### Ai không nên mua?\n\nNếu bạn đã có Creed Aventus chính hãng thì CDNIM sẽ không mang lại gì mới — nó là phiên bản lấy cảm hứng từ Aventus ở tầm giá rẻ hơn. Ai nhạy mũi sẽ nhận ra lớp mở đầu khá gắt so với bản gốc — citrus + hóa chất hơi sắc trong 15-20 phút đầu. Ngoài ra, nếu bạn thích mùi ngọt ấm kiểu gourmand hoặc thu đông thì CDNIM không theo hướng đó — đây là mùi fresh-smoky thiên ban ngày.\n\n### Có đáng tiền không?\n\nĐây là lợi thế lớn nhất của CDNIM: giá chỉ bằng 1/8-1/10 Creed Aventus mà cho hiệu năng tương đương hoặc hơn — bám 8 giờ, tỏa mạnh. So với Aventus, CDNIM gắt hơn ở đầu nhưng dry down khá gần. So với Afnan 9PM cùng phân khúc Arab, CDNIM khác hoàn toàn vì thiên fresh-citrus thay vì ngọt ấm. Nếu bạn thích phong cách Aventus mà chưa sẵn sàng đầu tư fullbox Creed, CDNIM là lựa chọn thực dụng nhất.\n\n### Nên dùng khi nào?\n\nDùng được quanh năm — đi làm, đi chơi, gặp gỡ. Đẹp nhất ban ngày và trời ấm (25-32°C). Xịt 2-3 nhát: 1 sau gáy, 1 trước ngực, 1 cổ tay. Tỏa rất mạnh nên đừng xịt quá nhiều trong phòng kín. Mùa xuân và hè là lúc CDNIM tỏa đẹp nhất. Buổi tối cũng OK nhưng không đẹp bằng ban ngày.",
+  "verdict": "Clone Aventus giá mềm — citrus, trái cây, khói rất hiệu quả. Lớp đầu hơi gắt nhưng dry down rất đáng. Tốt nhất cho người muốn thử phong cách Aventus mà không tốn quá nhiều.",
+  "verdictShort": "CLONE AVENTUS GIÁ MỀM",
+  "score": {
+    "scent": 8.2,
+    "uniqueness": 6.8,
+    "compliments": 8.5,
+    "value": 9.5,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Giá mềm",
+      "icon": "💸"
+    },
+    {
+      "label": "Nam tính",
+      "icon": "🖤"
+    },
+    {
+      "label": "Đa dụng",
+      "icon": "✅"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 8,
+  "seasons": {
+    "spring": 82,
+    "summer": 65,
+    "fall": 72,
+    "winter": 68
+  },
+  "dayNight": {
+    "day": 75,
+    "night": 60
+  },
+  "topNotes": [
+    {
+      "name": "Chanh"
+    },
+    {
+      "name": "Dứa"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Lý chua đen"
+    },
+    {
+      "name": "Táo"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Bạch dương"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Long diên hương"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Vani"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Trái cây",
+      "value": 88,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 75,
+      "color": "#795548"
+    },
+    {
+      "name": "Khói",
+      "value": 68,
+      "color": "#616161"
+    },
+    {
+      "name": "Gỗ",
+      "value": 62,
+      "color": "#8B4513"
+    }
+  ],
+  "seoTitle": "Armaf Club de Nuit Intense Man chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Armaf CDNIM chính hãng: clone Aventus giá mềm, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Giá mềm",
+    "Clone Aventus",
+    "Đa dụng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "105ml Fullbox"
+  ],
+  "basePrice": 750000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

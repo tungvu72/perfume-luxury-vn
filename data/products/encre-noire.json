@@ -1,0 +1,119 @@
+{
+  "id": "encre-noire",
+  "brandSlug": "lalique",
+  "brand": "LALIQUE",
+  "name": "Encre Noire",
+  "subName": "Eau de Toilette",
+  "perfumer": "Nathalie Lorson",
+  "gender": "nam",
+  "image": "/images/products/lalique-encre-noire-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/lalique-encre-noire-main.jpg",
+      "source": "fragram",
+      "caption": "Lalique Encre Noire Eau de Toilette chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam vetiver tối nhất — bách xanh, cỏ hương bài Bourbon, gỗ cashmere và xạ hương. Tối, khô, lạnh và cực kỳ cá tính. Giá rẻ bất ngờ.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt ấm dễ thương kiểu BIRI hay mùi sạch sáng kiểu Sauvage thì Encre Noire là thế giới hoàn toàn khác — đây là mùi tối, khô, gỗ-đất-vetiver rất cá tính. Người mới chơi nước hoa sẽ choáng. Ai cần mùi dễ được khen cũng nên tránh vì mùi này KHÔNG dễ được khen — nó được tôn trọng.\n\n### Có đáng tiền không?\n\nEncre Noire thuộc phân khúc entry — RẺ NHẤT trong mọi chai có cá tính thật sự. So với Terre d'Hermès (cùng nhóm gỗ-vetiver), Encre Noire tối hơn và rẻ hơn 3 lần. So với Dior Fahrenheit, Encre Noire ít leather hơn và nhiều vetiver hơn. Hiệu năng khá: bám 7-8 giờ, tỏa gần. Giá siêu rẻ mà chất mùi niche-level — value king.\n\n### Nên dùng khi nào?\n\nChiều tối, mùa mưa, trời mát, ngày xám, mood introvert. Xịt 2 nhát: cổ, ngực. Đẹp nhất mùa thu đông hoặc ngày mưa Sài Gòn. Đừng dùng đi tiệc hay hẹn hò lần đầu — quá tối.",
+  "verdict": "Chai vetiver tối cá tính nhất — khô, lạnh, đất. Giá siêu rẻ. Hợp introvert, ngày mưa. Không hợp số đông.",
+  "verdictShort": "VETIVER TỐI, GIÁ RẺ, CÁ TÍNH",
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 9.2,
+    "compliments": 6.5,
+    "value": 9.5,
+    "total": 8.5
+  },
+  "vibes": [
+    {
+      "label": "Cá tính",
+      "icon": "🖤"
+    },
+    {
+      "label": "Ngày mưa",
+      "icon": "🌧️"
+    },
+    {
+      "label": "Giá tốt",
+      "icon": "💸"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 5,
+  "seasons": {
+    "spring": 42,
+    "summer": 18,
+    "fall": 88,
+    "winter": 85
+  },
+  "dayNight": {
+    "day": 32,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Bách xanh"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Cỏ hương bài Bourbon"
+    },
+    {
+      "name": "Cỏ hương bài Haiti"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ cashmere"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Cỏ hương bài",
+      "value": 100,
+      "color": "#4a6741"
+    },
+    {
+      "name": "Gỗ",
+      "value": 82,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Đất",
+      "value": 68,
+      "color": "#5d4037"
+    },
+    {
+      "name": "Xanh",
+      "value": 55,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 42,
+      "color": "#2c7a4b"
+    }
+  ],
+  "seoTitle": "Lalique Encre Noire chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Lalique Encre Noire chính hãng: mùi vetiver tối cá tính, giá siêu rẻ, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Cá tính",
+    "Vetiver",
+    "Giá tốt"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 650000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

@@ -1,0 +1,100 @@
+{
+  "id": "l-homme-ideal-eau-de-parfum",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "L Homme Ideal Eau de Parfum",
+  "subName": "Eau de Parfum",
+  "perfumer": "Thierry Wasser, Delphine Jelk",
+  "gender": "nam",
+  "image": "/images/products/guerlain-l-homme-ideal-eau-de-parfum-main.webp",
+  "images": [
+    {
+      "url": "/images/products/guerlain-l-homme-ideal-eau-de-parfum-main.webp",
+      "source": "amazon",
+      "caption": "Ảnh sản phẩm L'Homme Ideal EDP (chai và hộp)"
+    },
+    {
+      "url": "/images/products/guerlain-l-homme-ideal-edp-bottle.jpg",
+      "source": "studio",
+      "caption": "Ảnh chai L'Homme Ideal EDP"
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nL'Homme Ideal Eau de Parfum là một trong những chai designer nam có cá tính riêng rõ nhất của Guerlain. DNA nổi bật là hạnh nhân, cherry, vanilla, da và chút gia vị ấm, tạo cảm giác sang, hơi dark và có độ ăn chơi vừa đủ. Đây không phải kiểu ngọt trẻ trung theo hướng kẹo hay bubblegum, mà là kiểu ngọt có chiều sâu, phù hợp người muốn một mùi nam tính nhưng vẫn có điểm nhấn khác biệt.\n\nỞ Việt Nam, chai này hợp với những ai đã chán các mùi xanh sạch phổ thông và muốn thứ gì đó đậm đà hơn cho chiều tối. Nó vừa có độ quyến rũ, vừa có tính nhận diện tốt. Khi lên đúng da, phần cherry-hạnh nhân-da của L'Homme Ideal EDP rất bắt, tạo cảm giác sang và hơi bad boy theo cách trưởng thành.\n\n## Diễn biến trên da\nMở đầu thường có chút gia vị và citrus nhẹ, nhưng rất nhanh hạnh nhân và cherry xuất hiện, tạo ra màu sắc gần như đặc trưng riêng của dòng này. Sau đó vanilla, da và gỗ làm tổng thể sâu hơn, ấm hơn và dày hơn. Nếu da mày ấm, phần ngọt sẽ rõ hơn; nếu da khô, phần da và gỗ sẽ nổi hơn.\n\nĐây là chai có diễn biến khá thú vị vì từ đầu đến cuối nó vẫn giữ được chất dark sweet riêng. Drydown thường mềm, tròn và có cảm giác hơi quyến rũ kiểu dressed-up. Nhược điểm là với ai cực ghét note ngọt hoặc cherry, chai này có thể hơi kén hơn các mùi nam phổ thông.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nL'Homme Ideal EDP có hiệu năng khá tốt, lưu hương khoảng 7-9 giờ, tỏa hương vừa đến khá trong giai đoạn đầu. Nó hợp nhất cho buổi tối, hẹn hò, đi chơi, tiệc nhẹ, thời tiết mát hoặc không gian máy lạnh.\n\nTrong khí hậu Việt Nam, nên tiết chế số lần xịt nếu dùng khi trời nóng. Mùa mưa, phòng lạnh, tối hoặc dịp cuối năm là lúc chai này phát huy đẹp nhất. Ưu điểm là mùi có màu sắc riêng và dễ tạo ấn tượng; nhược điểm là không phải kiểu an toàn tuyệt đối cho văn phòng chật kín.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai designer nam khác biệt hơn mặt bằng chung, có chiều sâu, có độ sexy và không quá đại trà, L'Homme Ideal EDP rất đáng thử. Nó hợp người thích phong cách tối màu, buổi tối, có chút bí ẩn và muốn một mùi làm điểm nhấn cá nhân.\n\nNên mua khi mày đã có ít nhất một chai fresh hoặc văn phòng, và đang cần một option tối hơn cho hẹn hò hay đi chơi tối. Không nên ưu tiên nó làm chai duy nhất nếu nhu cầu chính là đi làm mỗi ngày giữa thời tiết nóng.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [
+    {
+      "name": "Hạnh nhân"
+    },
+    {
+      "name": "Gia vị"
+    },
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Hương thảo"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Anh đào"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Trầm hương"
+    },
+    {
+      "name": "Hoa hồng Bulgaria"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "Hạnh nhân-cherry-da thuộc gourmand, phong cách nam tính hiện đại",
+  "verdictShort": "VERIFIED",
+  "shopeeOffers": []
+}

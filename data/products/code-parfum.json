@@ -1,0 +1,125 @@
+{
+  "id": "code-parfum",
+  "brandSlug": "armani",
+  "brand": "GIORGIO ARMANI",
+  "name": "Armani Code",
+  "subName": "Parfum",
+  "perfumer": "Antoine Maisondieu",
+  "gender": "nam",
+  "image": "/images/products/armani-code-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/armani-code-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "Giorgio Armani Code Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phiên bản sang và hiện đại nhất dòng Armani Code — iris sạch, bergamot, gỗ tuyết tùng và đậu Tonka. Lịch thiệp, dễ dùng và rất hợp làm signature.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt đậm kiểu party hoặc mùi tối sexy như Armani Code Absolu thì bản Parfum sẽ hơi nhẹ và an toàn so với kỳ vọng. Đây là kiểu iris-gỗ sạch, lịch sự — không phải kiểu gây ấn tượng mạnh. Ai cần mùi beast mode tỏa xa cũng sẽ hơi thất vọng vì hiệu năng ở mức vừa phải.\n\n### Có đáng tiền không?\n\nArmani Code Parfum thuộc phân khúc designer cao cấp — giá tương đương Bleu de Chanel Parfum hay YSL Y Le Parfum. So với bản Armani Code EDT cũ, Parfum sang hơn, sạch hơn và hiện đại hơn rõ rệt. So với Dior Homme Intense cùng nhóm iris, Armani Code Parfum ít phấn hơn và dễ dùng hằng ngày hơn. Hiệu năng khá: bám 6-8 giờ, tỏa vừa phải. Chai này hợp làm signature lâu dài vì rất ít khi sai. Nên mua chiết 10ml thử trước.\n\n### Nên dùng khi nào?\n\nDùng được quanh năm — đi làm, gặp khách, đi ăn tối nhẹ. Đẹp nhất vào mùa xuân thu khi trời mát. Xịt 2-3 nhát: 1 sau gáy, 1 trước ngực, 1 cổ tay. Ở Sài Gòn dùng trong phòng máy lạnh rất đẹp. Đây là kiểu chai signature cho người thích sự chỉn chu gọn gàng — xịt xong đi luôn, không cần nghĩ nhiều.",
+  "verdict": "Mùi này sạch, sang và rất dễ dùng. Hợp người thích phong cách lịch thiệp hiện đại. Không hợp ai cần mùi sexy mạnh hay beast mode.",
+  "verdictShort": "SẠCH, SANG, DỄ DÙNG",
+  "score": {
+    "scent": 8.6,
+    "uniqueness": 7.8,
+    "compliments": 8.5,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Lịch thiệp",
+      "icon": "🎩"
+    },
+    {
+      "label": "Đa dụng",
+      "icon": "✅"
+    },
+    {
+      "label": "Hiện đại",
+      "icon": "⚡"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": {
+    "spring": 78,
+    "summer": 50,
+    "fall": 82,
+    "winter": 75
+  },
+  "dayNight": {
+    "day": 65,
+    "night": 68
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Lá cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Aldehyde"
+    },
+    {
+      "name": "Xô thơm"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 82,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Iris",
+      "value": 72,
+      "color": "#c39bd3"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 62,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Ấm ngọt",
+      "value": 55,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Armani Code Parfum chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Armani Code Parfum chính hãng: mùi iris gỗ sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Lịch thiệp",
+    "Đa dụng",
+    "Hiện đại"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "125ml Fullbox"
+  ],
+  "basePrice": 3200000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

@@ -1,0 +1,54 @@
+{
+  "id": "linstant-homme-edp",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "L'Instant de Guerlain pour Homme",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/guerlain-linstant-homme-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/guerlain-linstant-homme-edp-main.jpg",
+      "source": "amazon",
+      "caption": "GUERLAIN L'Instant de Guerlain pour Homme chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nL’Instant de Guerlain pour Homme EDP là một mùi nam rất đẹp theo hướng cacao, gia vị, gỗ và cảm giác ấm sang. Nó không phải kiểu ngọt trẻ hay fresh dễ đoán, mà có sự mềm, sâu và rất Pháp. Đây là kiểu mùi phù hợp với người thích nam tính lịch thiệp nhưng không muốn đi theo blue fragrance đại trà.\n\nĐiểm ăn tiền của chai này là độ tinh tế. Nó có sự quyến rũ kín, không ồn ào nhưng càng ngửi càng thấy gu. Trong khí hậu Việt Nam, chai này hợp cho tối, đi làm môi trường mát, hẹn hò hoặc những ai muốn một designer nam có chiều sâu hơn mặt bằng chung.\n\n## Diễn biến trên da\nMở đầu có sắc cay và chút sáng vừa đủ, sau đó cacao cùng nền gỗ bắt đầu làm tổng thể mềm, ấm và chững hơn. Mùi chuyển tầng khá mượt, không gắt và giữ được cảm giác sang kín xuyên suốt.\n\nDrydown là lớp cacao - gỗ ấm, hơi ngọt nhẹ và rất ôm da. Nó không bùng nổ nhưng rất dễ ghi điểm ở khoảng cách gần. Nhược điểm là với người thích mùi cực nam tính khô hoặc cực tươi, chai này có thể hơi “mềm”.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nL’Instant pour Homme EDP có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, hẹn hò, ăn tối, văn phòng máy lạnh hoặc những dịp muốn mùi hương lịch thiệp mà khác số đông.\n\nỞ Việt Nam, chai này dùng đẹp nhất về chiều tối. Ưu điểm là sang, tinh và có bản sắc; nhược điểm là không quá hợp người thích mùi bùng nổ.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nam ấm, sang, hơi gourmand nhẹ nhưng vẫn rất lịch thiệp, L’Instant de Guerlain pour Homme EDP rất đáng thử. Nó hợp người thích gu Pháp và muốn sự quyến rũ kín.\n\nNên mua khi mày cần một chai tối tinh tế. Nếu mày thích mùi quá fresh hoặc quá dark, nên cân nhắc kỹ.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

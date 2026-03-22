@@ -1,0 +1,133 @@
+{
+  "id": "habit-rouge-parfum",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "Habit Rouge",
+  "subName": "Parfum",
+  "perfumer": "Delphine Jelk",
+  "gender": "nam",
+  "image": "/images/products/guerlain-habit-rouge-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/guerlain-habit-rouge-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "Guerlain Habit Rouge Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Phiên bản Parfum đậm nhất Habit Rouge — vani Bourbon, rượu rum, hoắc hương, cam bergamot, da thuộc, gỗ đàn hương, rêu sồi và benzoin. Ấm, rượu và cực kỳ sang.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi sạch tươi hiện đại kiểu Sauvage hay Bleu de Chanel thì Habit Rouge Parfum hoàn toàn ngược — đây là mùi rượu-vani-da cổ điển rất ấm và rất namtính. Ai dưới 30 tuổi có thể thấy nó quá mature.\n\n### Có đáng tiền không?\n\nHabit Rouge Parfum thuộc phân khúc Guerlain cao cấp — 2024 release. So với bản EDT gốc, Parfum đậm hơn, nhiều vani-rượu hơn và bám cực lâu. So với PdM Herod (cùng nhóm ấm sang), Habit Rouge Parfum đậm rượu hơn và cổ điển hơn. Hiệu năng rất tốt: bám 9+ giờ. Chai collector cho gentleman thật sự.\n\n### Nên dùng khi nào?\n\nMùa đông, buổi tối, dịp đặc biệt, tiệc sang. Xịt 1-2 nhát — tỏa đẹp. Đẹp nhất khi trời lạnh. Ở Việt Nam dùng mùa lạnh Hà Nội hoặc phòng máy lạnh.",
+  "verdict": "Habit Rouge bản đậm nhất — rượu, vani, da. Bám 9h+. Collector piece cho gentleman. Quá mature cho giới trẻ.",
+  "verdictShort": "RƯỢU VANI DA, GENTLEMAN KINH ĐIỂN",
+  "score": {
+    "scent": 9,
+    "uniqueness": 9,
+    "compliments": 7.5,
+    "value": 7.5,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Gentleman",
+      "icon": "🎩"
+    },
+    {
+      "label": "Kinh điển",
+      "icon": "👑"
+    },
+    {
+      "label": "Thu đông",
+      "icon": "🍂"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 7,
+  "seasons": {
+    "spring": 25,
+    "summer": 8,
+    "fall": 82,
+    "winter": 98
+  },
+  "dayNight": {
+    "day": 18,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Cam đắng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Vani Bourbon"
+    },
+    {
+      "name": "Rượu rum"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Labdanum"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Vani",
+      "value": 100,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Rượu",
+      "value": 82,
+      "color": "#722f37"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 62,
+      "color": "#795548"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 48,
+      "color": "#d4a017"
+    }
+  ],
+  "seoTitle": "Guerlain Habit Rouge Parfum chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Guerlain Habit Rouge Parfum chính hãng: mùi rượu vani da kinh điển, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Kinh điển",
+    "Gentleman",
+    "Thu đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "100ml Fullbox"
+  ],
+  "basePrice": 4200000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

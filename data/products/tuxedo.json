@@ -1,0 +1,54 @@
+{
+  "id": "tuxedo",
+  "brandSlug": "ysl",
+  "brand": "YVES SAINT LAURENT",
+  "name": "Tuxedo",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "unisex",
+  "image": "/images/products/ysl-tuxedo-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/ysl-tuxedo-main.jpg",
+      "source": "amazon",
+      "caption": "YVES SAINT LAURENT Tuxedo chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nTuxedo là một trong những mùi patchouli-amber sang nhất của YSL theo hướng dressy, tối và cực kỳ tinh. Nó không nặng kiểu oud, không ngọt kiểu gourmand, mà quyến rũ bằng sự sạch tối, gia vị nhẹ, patchouli mượt và nền amber rất sang. Đây là kiểu mùi đúng với cái tên: mặc lên là thấy outfit đẹp hơn.\n\nĐiểm ăn tiền của Tuxedo là độ thanh lịch có khí chất. Nó vừa hiện đại vừa cổ điển, vừa sang vừa dễ tiếp cận hơn nhiều chai niche rất khó. Trong bối cảnh Việt Nam, đây là chai rất hợp cho tối, event, gặp gỡ lịch sự hoặc những lúc muốn một mùi hương làm phần mở rộng cho phong cách ăn mặc.\n\n## Diễn biến trên da\nMở đầu có chút gia vị và độ sạch sáng rất vừa phải, sau đó patchouli cùng amber bắt đầu tạo khung chính. Cái hay là patchouli ở đây không bẩn, không quá earthy, mà mượt và rất polished.\n\nDrydown của Tuxedo đẹp theo kiểu sang kín: hơi tối, hơi ấm, rất chỉn chu và giữ khí chất tốt. Nó không quăng quá nhiều tầng note vào mặt người ngửi, mà thắng ở tổng thể hoàn thiện. Nhược điểm là giá cao và ai thích mùi cực nổi, cực quái có thể thấy nó quá lịch thiệp.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nTuxedo có độ lưu hương tốt, thường 7-9 giờ; tỏa hương vừa đến khá. Nó hợp nhất cho tối, máy lạnh, event, tiệc hoặc những lúc mặc đồ có cấu trúc và muốn thơm theo hướng sang.\n\nỞ Việt Nam, nên dùng buổi tối hoặc không gian điều hòa. Ưu điểm là rất sang và linh hoạt trong nhóm mùi dressy; nhược điểm là không phải chai dành cho mọi ngày hoặc mọi mood.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai sang tối, patchouli-amber thật đẹp và có chất high-end rõ ràng, Tuxedo là ứng viên rất mạnh. Nó hợp người thích phong cách chỉn chu, thanh lịch và muốn mùi hương đồng bộ với outfit.\n\nNên mua khi mày cần một chai event hoặc buổi tối cao cấp. Nếu mày ưu tiên sự tươi sáng, casual và giá dễ chịu hơn, nên cân nhắc hướng khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Unisex",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

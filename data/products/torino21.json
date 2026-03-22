@@ -1,0 +1,134 @@
+{
+  "id": "torino21",
+  "brandSlug": "xerjoff",
+  "brand": "XERJOFF",
+  "name": "Torino21",
+  "subName": "Eau de Parfum",
+  "perfumer": "Xerjoff",
+  "gender": "unisex",
+  "image": "/images/products/xerjoff-torino21-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/xerjoff-torino21-main.jpg",
+      "source": "fragram",
+      "caption": "Xerjoff Torino21 Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai niche thảo mộc-xanh tươi nhất Xerjoff — bạc hà, chanh, húng quế, cỏ xạ hương, lý chua đen, oải hương, hương thảo và xạ hương. Sạch, xanh và rất energizing.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt ấm hay mùi oud tối thì Torino21 quá xanh và quá thoáng cho gu đó. Ai cần mùi bám lâu cũng sẽ hơi thất vọng — chai thảo mộc-xanh thường tỏa nhẹ.\n\n### Có đáng tiền không?\n\nTorino21 thuộc phân khúc Xerjoff — đắt. So với Versace Pour Homme (cùng nhóm tươi), Torino21 thảo mộc hơn và niche hơn rất nhiều. So với PdM Sedley, Torino21 xanh hơn và ít citrus hơn. Hiệu năng vừa: bám 6-7 giờ, tỏa nhẹ-vừa. Chai niche xanh đẹp nhất thị trường.\n\n### Nên dùng khi nào?\n\nXuân hè, ban ngày, đi làm, thể thao nhẹ, dạo phố. Xịt 3-4 nhát. Đẹp nhất khi trời nóng. Ở Sài Gòn dùng quanh năm.",
+  "verdict": "Chai thảo mộc xanh tươi nhất Xerjoff — sạch, energizing. Hợp mùa hè. Niche green gem.",
+  "verdictShort": "THẢO MỘC XANH, TƯƠI, NICHE",
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.5,
+    "compliments": 8,
+    "value": 7.2,
+    "total": 8.1
+  },
+  "vibes": [
+    {
+      "label": "Tươi mát",
+      "icon": "🌿"
+    },
+    {
+      "label": "Ban ngày",
+      "icon": "☀️"
+    },
+    {
+      "label": "Unisex",
+      "icon": "✨"
+    }
+  ],
+  "longevity": 6,
+  "sillage": 6,
+  "seasons": {
+    "spring": 92,
+    "summer": 88,
+    "fall": 42,
+    "winter": 22
+  },
+  "dayNight": {
+    "day": 92,
+    "night": 28
+  },
+  "topNotes": [
+    {
+      "name": "Bạc hà"
+    },
+    {
+      "name": "Chanh"
+    },
+    {
+      "name": "Húng quế"
+    },
+    {
+      "name": "Cỏ xạ hương"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Lý chua đen"
+    },
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Hương thảo"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Cỏ roi ngựa"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Thơm thảo mộc",
+      "value": 100,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gia vị tươi",
+      "value": 82,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Xanh",
+      "value": 72,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 62,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 42,
+      "color": "#bdc3c7"
+    }
+  ],
+  "seoTitle": "Xerjoff Torino21 chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Xerjoff Torino21 chính hãng: mùi thảo mộc xanh tươi niche, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Tươi mát",
+    "Mùa hè"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 5500000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

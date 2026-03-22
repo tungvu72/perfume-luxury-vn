@@ -1,0 +1,132 @@
+{
+  "id": "allure-homme-sport-eau-extreme",
+  "brandSlug": "chanel",
+  "brand": "CHANEL",
+  "name": "Allure Homme Sport Eau Extrême",
+  "subName": "Eau de Parfum",
+  "perfumer": "Jacques Polge",
+  "gender": "nam",
+  "image": "/images/products/chanel-allure-homme-sport-eau-extreme-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/chanel-allure-homme-sport-eau-extreme-main.jpg",
+      "source": "fragram",
+      "caption": "Chanel Allure Homme Sport Eau Extrême chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam đa dụng hàng đầu Chanel — quýt, bạc hà, đậu Tonka và gỗ đàn hương. Vừa tươi vừa ấm, dùng được quanh năm.",
+  "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi cực kỳ độc đáo, khác biệt thì AHSEE sẽ hơi an toàn — đây là chai dễ dùng, dễ thích nhưng không quá cá tính. Ai đã có nhiều chai fresh-sweet designer cũng có thể thấy nó trùng vibe. Ngoài ra, nếu bạn cần mùi tối sexy cho hẹn hò thì AHSEE hơi sáng.\n\n### Có đáng tiền không?\n\nAHSEE thuộc phân khúc Chanel — đắt hơn Sauvage EDP và YSL Y EDP. Nhưng chất lượng blend của Chanel là lý do chính: rất mượt, không có note nào lỗi. So với Sauvage EDP, AHSEE ấm hơn và có tonka rõ hơn. So với Bleu de Chanel EDP, AHSEE trẻ hơn và sporty hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa vừa. Đáng mua nếu bạn cần một chai quanh năm chất lượng cao.\n\n### Nên dùng khi nào?\n\nDùng quanh năm — đi làm, đi chơi, hẹn hò nhẹ, cà phê. Xịt 2-3 nhát: cổ, ngực, cổ tay. Đẹp nhất mùa xuân thu. Ở Sài Gòn dùng thoải mái — vừa tươi vừa ấm nên hợp cả nắng và máy lạnh.",
+  "verdict": "Chai đa dụng hoàn hảo — tươi, ấm, mượt và rất Chanel. Dùng quanh năm. Hơi an toàn nếu bạn thích mùi cá tính mạnh.",
+  "verdictShort": "ĐA DỤNG, MƯỢT, RẤT CHANEL",
+  "score": {
+    "scent": 9,
+    "uniqueness": 7.8,
+    "compliments": 9.2,
+    "value": 8,
+    "total": 8.5
+  },
+  "vibes": [
+    {
+      "label": "Đa dụng",
+      "icon": "🔄"
+    },
+    {
+      "label": "Thể thao sang",
+      "icon": "⚡"
+    },
+    {
+      "label": "Quanh năm",
+      "icon": "✅"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": {
+    "spring": 82,
+    "summer": 68,
+    "fall": 80,
+    "winter": 65
+  },
+  "dayNight": {
+    "day": 78,
+    "night": 58
+  },
+  "topNotes": [
+    {
+      "name": "Quýt"
+    },
+    {
+      "name": "Bạc hà"
+    },
+    {
+      "name": "Bách xanh"
+    },
+    {
+      "name": "Xô thơm"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Tiêu"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Gia vị tươi",
+      "value": 100,
+      "color": "#4CAF50"
+    },
+    {
+      "name": "Tươi",
+      "value": 82,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Ngọt",
+      "value": 72,
+      "color": "#e74c3c"
+    },
+    {
+      "name": "Gỗ",
+      "value": 62,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 55,
+      "color": "#2c7a4b"
+    }
+  ],
+  "seoTitle": "Chanel Allure Homme Sport Eau Extrême chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá AHSEE chính hãng: mùi tươi ấm đa dụng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Đa dụng",
+    "Quanh năm",
+    "Cao cấp"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "150ml Fullbox"
+  ],
+  "basePrice": 3400000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

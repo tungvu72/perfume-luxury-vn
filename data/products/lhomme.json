@@ -1,0 +1,140 @@
+{
+  "id": "lhomme",
+  "brandSlug": "prada",
+  "brand": "PRADA",
+  "name": "L'Homme",
+  "subName": "Eau de Toilette",
+  "perfumer": "Daniela Andrier",
+  "gender": "nam",
+  "image": "/images/products/prada-lhomme-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/prada-lhomme-main.jpg",
+      "source": "fragram",
+      "caption": "Prada L'Homme Eau de Toilette chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam iris sạch đẹp nhất phân khúc designer — phấn, neroli, gỗ đàn hương. Thanh lịch cực kỳ, lý tưởng cho văn phòng.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt ấm gây ấn tượng mạnh kiểu Sauvage Elixir hay Most Wanted thì Prada L'Homme hoàn toàn ngược — đây là mùi sạch, phấn, kín đáo và rất hiền. Ai đi tối muốn mùi sexy, cuốn cũng sẽ thất vọng vì L'Homme quá Clean cho mục đích đó. Nghe như xà phòng sang — nếu bạn ghét cảm giác đó thì nên tránh.\n\n### Có đáng tiền không?\n\nPrada L'Homme thuộc phân khúc designer tầm trung-cao. So với Luna Rossa Carbon cùng hãng, L'Homme phấn hơn, iris hơn và sang hơn. So với Dior Homme Intense cùng nhóm iris, L'Homme sáng hơn và dễ dùng ban ngày hơn. So với Bleu de Chanel EDP, L'Homme kín đáo hơn và ít bùng nổ hơn. Hiệu năng khá: bám 6-7 giờ, tỏa gần. Đây là chai văn phòng king — gần như không chai nào sạch sang hơn ở tầm giá này.\n\n### Nên dùng khi nào?\n\nĐi làm, gặp khách, họp hành, dùng hằng ngày. Xịt 2-3 nhát: cổ, ngực, cổ tay. Dùng quanh năm nhưng đẹp nhất mùa xuân hè. Ở Sài Gòn dùng thoải mái — iris phấn rất dễ chịu khi nóng. Đứng cạnh ai cũng thấy bạn thơm sạch và chỉn chu. Đừng dùng đi bar đêm — quá lịch sự.",
+  "verdict": "Mùi iris sạch, phấn và thanh lịch hàng đầu. Hợp văn phòng, gặp khách, dùng hằng ngày. Không hợp đi tối hay cần mùi nổi bật.",
+  "verdictShort": "SẠCH, PHẤN, THANH LỊCH",
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.1,
+    "compliments": 8.7,
+    "value": 8,
+    "total": 8.4
+  },
+  "vibes": [
+    {
+      "label": "Văn phòng",
+      "icon": "💼"
+    },
+    {
+      "label": "Lịch sự",
+      "icon": "🕴️"
+    },
+    {
+      "label": "Sạch sẽ",
+      "icon": "🧼"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": {
+    "spring": 84,
+    "summer": 70,
+    "fall": 72,
+    "winter": 50
+  },
+  "dayNight": {
+    "day": 92,
+    "night": 30
+  },
+  "topNotes": [
+    {
+      "name": "Hoa cam Neroli"
+    },
+    {
+      "name": "Tiêu đen"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Hạt cà rốt"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Hoa violet"
+    },
+    {
+      "name": "Phong lữ"
+    },
+    {
+      "name": "Mate"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Phấn",
+      "value": 100,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Iris",
+      "value": 88,
+      "color": "#c39bd3"
+    },
+    {
+      "name": "Sạch",
+      "value": 78,
+      "color": "#85c1e9"
+    },
+    {
+      "name": "Hoa",
+      "value": 62,
+      "color": "#e75480"
+    },
+    {
+      "name": "Gỗ",
+      "value": 48,
+      "color": "#8B4513"
+    }
+  ],
+  "seoTitle": "Prada L'Homme chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Prada L'Homme chính hãng: mùi iris phấn thanh lịch, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Văn phòng",
+    "Lịch sự",
+    "Cao cấp"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2550000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

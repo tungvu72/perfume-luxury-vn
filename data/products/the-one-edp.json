@@ -1,0 +1,126 @@
+{
+  "id": "the-one-edp",
+  "brandSlug": "dolce-gabbana",
+  "brand": "DOLCE & GABBANA",
+  "name": "The One",
+  "subName": "Eau de Parfum",
+  "perfumer": "Olivier Polge",
+  "gender": "nam",
+  "image": "/images/products/dolce-gabbana-the-one-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dolce-gabbana-the-one-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Dolce & Gabbana The One Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam quyến rũ kiểu gentleman — bưởi, gừng, bạch đậu khấu, thuốc lá, hổ phách và gỗ tuyết tùng. Ấm, lịch sự và rất hẹn hò.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi sạch sáng tươi kiểu Bleu de Chanel hay Sauvage thì The One EDP quá ấm và quá tối cho gu đó. Ai cần hiệu năng beast mode cũng sẽ thất vọng — The One EDP nổi tiếng hiệu năng trung bình, tỏa gần. Đây là chai seduction gần da — không phải projection monster.\n\n### Có đáng tiền không?\n\nThe One EDP thuộc phân khúc designer tầm trung. So với bản EDT, EDP đậm hơn, thuốc lá rõ hơn và hợp tối hơn. So với Dior Homme Intense (cùng nhóm hẹn hò), The One EDP ấm hơn và ít phấn hơn. Hiệu năng vừa: bám 6 giờ, tỏa gần — đúng kiểu skin scent. Đáng tiền nếu bạn chỉ cần chai đi đêm nhẹ.\n\n### Nên dùng khi nào?\n\nHẹn hò, ăn tối, gặp gỡ thân mật, buổi tối. Xịt 3 nhát vì tỏa nhẹ: cổ, ngực, cổ tay. Đẹp nhất mùa thu đông. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.",
+  "verdict": "Chai nam hẹn hò kinh điển — ấm, thuốc lá, gentleman. Hợp đi tối. Hiệu năng trung bình nếu cần tỏa xa.",
+  "verdictShort": "ẤM, LỊCH SỰ, HẸN HÒ",
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 7.7,
+    "compliments": 8.9,
+    "value": 8,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Hẹn hò",
+      "icon": "❤️"
+    },
+    {
+      "label": "Lịch sự",
+      "icon": "🕴️"
+    },
+    {
+      "label": "Ấm áp",
+      "icon": "🤎"
+    }
+  ],
+  "longevity": 6,
+  "sillage": 5,
+  "seasons": {
+    "spring": 50,
+    "summer": 24,
+    "fall": 88,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 28,
+    "night": 94
+  },
+  "topNotes": [
+    {
+      "name": "Bưởi"
+    },
+    {
+      "name": "Gừng"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Thuốc lá"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ấm gia vị",
+      "value": 100,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Thuốc lá",
+      "value": 72,
+      "color": "#6e3b1f"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 62,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gỗ",
+      "value": 52,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 42,
+      "color": "#f1c40f"
+    }
+  ],
+  "seoTitle": "D&G The One EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá D&G The One EDP chính hãng: mùi ấm thuốc lá hẹn hò, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Hẹn hò",
+    "Lịch sự",
+    "Buổi tối"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "150ml Fullbox"
+  ],
+  "basePrice": 2350000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

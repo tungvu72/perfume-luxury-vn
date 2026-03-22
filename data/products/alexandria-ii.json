@@ -1,0 +1,139 @@
+{
+  "id": "alexandria-ii",
+  "brandSlug": "xerjoff",
+  "brand": "XERJOFF",
+  "name": "Alexandria II",
+  "subName": "Eau de Parfum",
+  "perfumer": "Chris Maurice",
+  "gender": "unisex",
+  "image": "/images/products/xerjoff-alexandria-ii-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/xerjoff-alexandria-ii-main.jpg",
+      "source": "fragram",
+      "caption": "Xerjoff Alexandria II Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai niche oud-vani-phấn đẳng cấp nhất — gỗ trắc, oải hương, quế, hoa hồng, gỗ tuyết tùng, oud, gỗ đàn hương và vani. Phấn, sang và cực kỳ luxurious.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi sáng hoặc mùi ngọt fruity hiện đại thì Alexandria II ở chiều ngược — đây là mùi phấn-oud-vani cổ điển rất sang. Ai ghét oud hoặc mùi phấn cũng nên tránh. Giá Xerjoff rất cao — chai này cho người sưu tầm.\n\n### Có đáng tiền không?\n\nAlexandria II thuộc phân khúc super niche Xerjoff — top giá thị trường. So với MFK Grand Soir, Alexandria II có oud và phấn rõ hơn. So với Tom Ford Oud Wood, Alexandria II dày hơn và phức tạp hơn. Hiệu năng rất tốt: bám 10+ giờ, tỏa khá. Chai ultra-luxury cho collector.\n\n### Nên dùng khi nào?\n\nDịp đặc biệt nhất, sự kiện VIP, mùa đông. Xịt 1-2 nhát — tỏa rõ. Đẹp nhất khi trời lạnh. Chai signature ultimate.",
+  "verdict": "Chai oud-phấn-vani ultra-luxury — sang nhất Xerjoff. Bám 10h+. Chỉ cho collector và dịp đặc biệt.",
+  "verdictShort": "OUD PHẤN, ULTRA-LUXURY",
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 9.5,
+    "compliments": 8,
+    "value": 6.5,
+    "total": 8.4
+  },
+  "vibes": [
+    {
+      "label": "Ultra-luxury",
+      "icon": "👑"
+    },
+    {
+      "label": "Dịp đặc biệt",
+      "icon": "🥂"
+    },
+    {
+      "label": "Collector",
+      "icon": "💎"
+    }
+  ],
+  "longevity": 10,
+  "sillage": 8,
+  "seasons": {
+    "spring": 28,
+    "summer": 8,
+    "fall": 82,
+    "winter": 98
+  },
+  "dayNight": {
+    "day": 15,
+    "night": 92
+  },
+  "topNotes": [
+    {
+      "name": "Gỗ trắc"
+    },
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Táo"
+    },
+    {
+      "name": "Quế"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Hoa linh lan"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Oud"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 82,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Phấn",
+      "value": 72,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Oud",
+      "value": 65,
+      "color": "#3e2723"
+    },
+    {
+      "name": "Vani",
+      "value": 55,
+      "color": "#F5DEB3"
+    }
+  ],
+  "seoTitle": "Xerjoff Alexandria II chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Xerjoff Alexandria II chính hãng: mùi oud vani phấn ultra-luxury, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Unisex",
+    "Ultra-luxury",
+    "Oud",
+    "Collector"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox"
+  ],
+  "basePrice": 9500000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

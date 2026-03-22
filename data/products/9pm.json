@@ -1,0 +1,127 @@
+{
+  "id": "9pm",
+  "brandSlug": "afnan",
+  "brand": "AFNAN",
+  "name": "9PM",
+  "subName": "Eau de Parfum",
+  "perfumer": "In-house",
+  "gender": "nam",
+  "image": "/images/products/afnan-9pm-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/afnan-9pm-main.jpg",
+      "source": "fragram",
+      "caption": "Afnan 9PM Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam ngọt nổi tiếng nhất ở tầm giá dễ tiếp cận — vani, quế, trái cây rất vui và dễ gây chú ý. Hợp đi tối, đi chơi hoặc người trẻ thích mùi party.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt đậm thì 9PM sẽ quá nhiều. Đây là kiểu mùi rất ngọt từ đầu đến cuối — vani, quế, đậu Tonka nặng rõ. Ai thích mùi sạch sẽ, fresh hoặc gỗ tối sẽ không hợp. Ngoài ra, người cần mùi cho văn phòng, họp hành nghiêm túc cũng nên tránh vì 9PM quá party và quá nổi cho môi trường chuyên nghiệp. Lưu ý thêm: tỏa rất mạnh nên dễ bị quá liều nếu xịt nhiều hơn 2 nhát.\n\n### Có đáng tiền không?\n\n9PM thuộc phân khúc dễ tiếp cận — rẻ hơn đáng kể so với designer. Đây chính là lợi thế lớn nhất: bạn có một chai bám 8 giờ, tỏa mạnh mà giá chỉ bằng 1/3 so với Jean Paul Gaultier Ultra Male (mùi gần tương tự). So với Lattafa Khamrah cùng phân khúc Arab, 9PM trẻ hơn, vui hơn nhưng ít chiều sâu hơn. Hiệu năng rất tốt: bám cả ngày, tỏa xa. Với giá này thì gần như không có gì phải nghĩ — mua thử ngon ơ.\n\n### Nên dùng khi nào?\n\nĐi tối là chính — bar, quán cà phê, đi chơi cuối tuần, hẹn hò casual. Xịt 1-2 nhát thôi: 1 sau gáy và 1 cổ tay. Đủ rồi vì mùi rất tỏa. Hợp trời mát, mùa đông hoặc buổi tối mùa mưa Sài Gòn. Đừng xịt 3-4 nhát đi ăn trong nhà hàng nhỏ — mọi người xung quanh sẽ chỉ ngửi thấy bạn thôi.",
+  "verdict": "Mùi này ngọt, trẻ và khá nổi. Hợp người muốn một chai đi tối dễ gây chú ý mà giá vẫn mềm. Không hợp ai ghét mùi ngọt đậm.",
+  "verdictShort": "NGỌT, TRẺ, GIÁ MỀM",
+  "score": {
+    "scent": 8.3,
+    "uniqueness": 7.2,
+    "compliments": 8.8,
+    "value": 9.4,
+    "total": 8.4
+  },
+  "vibes": [
+    {
+      "label": "Giá mềm",
+      "icon": "💸"
+    },
+    {
+      "label": "Buổi tối",
+      "icon": "🌙"
+    },
+    {
+      "label": "Trẻ trung",
+      "icon": "⚡"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 8,
+  "seasons": {
+    "spring": 52,
+    "summer": 22,
+    "fall": 88,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 28,
+    "night": 94
+  },
+  "topNotes": [
+    {
+      "name": "Táo"
+    },
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Oải hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ngọt",
+      "value": 100,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 72,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 60,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Vani",
+      "value": 55,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Trái cây",
+      "value": 45,
+      "color": "#f39c12"
+    }
+  ],
+  "seoTitle": "Afnan 9PM chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Afnan 9PM chính hãng: mùi ngọt ấm dễ gây chú ý, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Buổi tối",
+    "Giá mềm",
+    "Trẻ trung"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "100ml Fullbox"
+  ],
+  "basePrice": 950000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

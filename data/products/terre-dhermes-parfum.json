@@ -1,0 +1,122 @@
+{
+  "id": "terre-dhermes-parfum",
+  "brandSlug": "hermes",
+  "brand": "HERMÈS",
+  "name": "Terre d'Hermès",
+  "subName": "Parfum",
+  "perfumer": "Jean-Claude Ellena",
+  "gender": "nam",
+  "image": "/images/products/hermes-terre-dhermes-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/hermes-terre-dhermes-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "Hermès Terre d'Hermès Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam đất-gỗ sang nhất Hermès — cam, bưởi, đá lửa, gỗ nhựa, rêu sồi và benzoin. Đất, khoáng và cực kỳ tinh tế. Bản Parfum đậm nhất.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt ấm sexy kiểu Le Male Le Parfum hay Most Wanted thì Terre d'Hermès Parfum hoàn toàn ngược — đây là mùi đất-khoáng-gỗ rất khô và tiết chế. Ai cần mùi nổi bật, bắt tai ngay cũng sẽ thấy chai này quá subtle. Đây là mùi cho người hiểu và đam mê.\n\n### Có đáng tiền không?\n\nTerre Parfum thuộc phân khúc Hermès — đắt hơn Dior và Chanel. So với bản EDT gốc, Parfum đậm hơn, gỗ hơn và bám lâu hơn nhiều. So với Encre Noire (cùng nhóm gỗ-vetiver), Terre Parfum sang hơn và citrus hơn. Hiệu năng rất tốt: bám 9 giờ, tỏa vừa-khá. Đây là chai \"quiet luxury\" — sang mà không cần gào.\n\n### Nên dùng khi nào?\n\nDùng quanh năm — đi làm, gặp khách VIP, sự kiện, dạo phố. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất mùa thu. Ở Sài Gòn dùng quanh năm — citrus đầu rất hợp nóng.",
+  "verdict": "Chai đất-gỗ-khoáng tinh tế nhất — quiet luxury. Bám 9h. Hợp đi làm, gặp khách VIP. Quá subtle cho ai thích mùi nổi.",
+  "verdictShort": "ĐẤT, GỖ, QUIET LUXURY",
+  "score": {
+    "scent": 9,
+    "uniqueness": 9,
+    "compliments": 7.8,
+    "value": 8,
+    "total": 8.5
+  },
+  "vibes": [
+    {
+      "label": "Tinh tế",
+      "icon": "🪨"
+    },
+    {
+      "label": "Sang trọng",
+      "icon": "💎"
+    },
+    {
+      "label": "Đa dụng",
+      "icon": "🔄"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 7,
+  "seasons": {
+    "spring": 72,
+    "summer": 55,
+    "fall": 88,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 72,
+    "night": 62
+  },
+  "topNotes": [
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Bưởi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Đá lửa (Flint)"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ nhựa"
+    },
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Benzoin"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Khoáng",
+      "value": 100,
+      "color": "#7f8c8d"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 78,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Đất",
+      "value": 62,
+      "color": "#5d4037"
+    },
+    {
+      "name": "Nhựa",
+      "value": 48,
+      "color": "#d4a017"
+    }
+  ],
+  "seoTitle": "Hermès Terre d'Hermès Parfum chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Hermès Terre d'Hermès Parfum chính hãng: mùi đất gỗ khoáng tinh tế, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Tinh tế",
+    "Sang trọng",
+    "Đa dụng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox",
+    "200ml Fullbox"
+  ],
+  "basePrice": 3500000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

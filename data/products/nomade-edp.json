@@ -1,0 +1,144 @@
+{
+  "id": "nomade-edp",
+  "brandSlug": "chloe",
+  "brand": "CHLOÉ",
+  "name": "Nomade",
+  "subName": "Eau de Parfum",
+  "perfumer": "Quentin Bisch",
+  "gender": "nu",
+  "image": "/images/products/chloe-nomade-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/chloe-nomade-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Chloé Nomade Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nữ chypre hiện đại — mận mirabelle, lan Nam Phi, hoa hồng, rêu sồi và hoắc hương. Tự do, thanh lịch và có gu. Hợp phụ nữ năng động.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt đậm sexy kiểu Good Girl hay Black Opium thì Nomade sẽ quá thanh và quá chypre cho gu đó. Đây là mùi trái cây-hoa-rêu — thanh lịch nhưng thiếu drama. Ai thích mùi nữ cổ điển ngọt ôm cũng sẽ thấy Nomade hơi khô và hơi hiện đại quá.\n\n### Có đáng tiền không?\n\nNomade thuộc phân khúc Chloé — rẻ hơn Chanel nhưng tương đương Armani Sì. So với Chloé EDP (signature), Nomade khô hơn, ít hoa hồng phấn hơn và có chypre rõ hơn. So với Miss Dior EDP, Nomade thanh hơn và hiện đại hơn. Hiệu năng khá: bám 6-7 giờ, tỏa vừa. Đây là chai cho phụ nữ thích sự tự do — thanh lịch nhưng không câu nệ.\n\n### Nên dùng khi nào?\n\nĐi làm, du lịch, đi cà phê, gặp gỡ, đi chơi ban ngày. Xịt 2-3 nhát: cổ, cổ tay, tóc. Dùng quanh năm nhưng đẹp nhất xuân hè. Ở Sài Gòn dùng rất thoải mái — chypre khô rất dễ chịu khi nóng.",
+  "verdict": "Mùi nữ chypre hiện đại — thanh, tự do và có gu. Hợp phụ nữ năng động, đi làm, du lịch. Không hợp ai thích mùi ngọt đậm.",
+  "verdictShort": "CHYPRE, TỰ DO, CÓ GU",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 8,
+    "compliments": 8.2,
+    "value": 8.2,
+    "total": 8.2
+  },
+  "vibes": [
+    {
+      "label": "Tự do",
+      "icon": "✈️"
+    },
+    {
+      "label": "Thanh lịch",
+      "icon": "✨"
+    },
+    {
+      "label": "Hiện đại",
+      "icon": "⚡"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": {
+    "spring": 85,
+    "summer": 70,
+    "fall": 65,
+    "winter": 45
+  },
+  "dayNight": {
+    "day": 82,
+    "night": 42
+  },
+  "topNotes": [
+    {
+      "name": "Mận mirabelle"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Chanh"
+    },
+    {
+      "name": "Cam"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Lan Nam Phi"
+    },
+    {
+      "name": "Đào"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Amberwood"
+    },
+    {
+      "name": "Xạ hương trắng"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Chypre",
+      "value": 100,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Hoa",
+      "value": 82,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Trái cây",
+      "value": 72,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Gỗ",
+      "value": 62,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 48,
+      "color": "#bdc3c7"
+    }
+  ],
+  "seoTitle": "Chloé Nomade EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Chloé Nomade EDP chính hãng: mùi chypre hiện đại tự do, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nữ",
+    "Tự do",
+    "Thanh lịch",
+    "Hiện đại"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "75ml Fullbox"
+  ],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

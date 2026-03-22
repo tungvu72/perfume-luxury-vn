@@ -1,0 +1,129 @@
+{
+  "id": "la-vie-est-belle",
+  "brandSlug": "lancome",
+  "brand": "LANCÔME",
+  "name": "La Vie Est Belle",
+  "subName": "Eau de Parfum",
+  "perfumer": "Olivier Polge, Dominique Ropion & Anne Flipo",
+  "gender": "nu",
+  "image": "/images/products/lancome-la-vie-est-belle-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/lancome-la-vie-est-belle-main.jpg",
+      "source": "fragram",
+      "caption": "Lancôme La Vie Est Belle Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nữ ngọt sang phổ biến nhất thế giới — lê, iris, praline và vani. Dễ thích, dễ dùng và rất nữ tính. Hợp mọi ngày.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt thì La Vie Est Belle sẽ quá ngọt — praline, vani, iris tạo tổng thể rất ngọt nữ. Ai thích mùi tươi mát, chypre khô hoặc mùi cá tính niche cũng sẽ thấy chai này quá mainstream và quá safe. Ngoài ra, dùng trời nóng ngoài trời mà xịt nhiều sẽ hơi ngọp.\n\n### Có đáng tiền không?\n\nLa Vie Est Belle thuộc phân khúc designer tầm trung — rẻ hơn Dior và Chanel. So với J'adore EDP, La Vie Est Belle ngọt hơn, ít floral thuần hơn và trẻ hơn. So với YSL Black Opium, La Vie Est Belle ít cà phê hơn và thanh hơn. Hiệu năng tốt: bám 8 giờ, tỏa khá mạnh. Với giá tầm trung, đây là chai best seller vì lý do — ngọt sang, hiệu quả cao.\n\n### Nên dùng khi nào?\n\nDùng hằng ngày — đi làm, đi cà phê, gặp gỡ, tiệc nhẹ. Xịt 2 nhát: cổ, cổ tay. Dùng quanh năm nhưng đẹp nhất mùa thu đông. Ở Sài Gòn dùng trong phòng máy lạnh hoặc buổi tối cho dễ chịu nhất.",
+  "verdict": "Chai ngọt sang nữ phổ biến nhất — iris, praline, vani. Dễ thích, dễ dùng. Hơi mainstream nếu thích mùi cá tính.",
+  "verdictShort": "NGỌT SANG, DỄ THÍCH, PHỔ BIẾN",
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 7.2,
+    "compliments": 8.9,
+    "value": 8.4,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Hằng ngày",
+      "icon": "🧴"
+    },
+    {
+      "label": "Nữ tính",
+      "icon": "✨"
+    },
+    {
+      "label": "Dễ dùng",
+      "icon": "👍"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": {
+    "spring": 74,
+    "summer": 44,
+    "fall": 80,
+    "winter": 84
+  },
+  "dayNight": {
+    "day": 78,
+    "night": 58
+  },
+  "topNotes": [
+    {
+      "name": "Lê"
+    },
+    {
+      "name": "Lý chua đen"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa cam"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Praline"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ngọt",
+      "value": 100,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Hoa",
+      "value": 68,
+      "color": "#e75480"
+    },
+    {
+      "name": "Iris",
+      "value": 58,
+      "color": "#c39bd3"
+    },
+    {
+      "name": "Phấn",
+      "value": 48,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Trái cây",
+      "value": 42,
+      "color": "#f39c12"
+    }
+  ],
+  "seoTitle": "La Vie Est Belle chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá La Vie Est Belle chính hãng: mùi iris praline ngọt sang, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nữ",
+    "Hằng ngày",
+    "Dễ dùng",
+    "Ngọt sang"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2450000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

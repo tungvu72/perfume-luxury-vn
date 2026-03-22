@@ -1,0 +1,132 @@
+{
+  "id": "oud-wood",
+  "brandSlug": "tom-ford",
+  "brand": "TOM FORD",
+  "name": "Oud Wood",
+  "subName": "Eau de Parfum",
+  "perfumer": "Richard Herpin",
+  "gender": "unisex",
+  "image": "/images/products/tom-ford-oud-wood-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/tom-ford-oud-wood-main.jpg",
+      "source": "fragram",
+      "caption": "Tom Ford Oud Wood chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai gỗ trầm sang trọng nhất dòng Private Blend — oud sạch, gỗ đàn hương mịn, gia vị nhẹ. Rất dễ tiếp cận cho người muốn thử oud mà không bị sốc.",
+  "article": "### Ai không nên mua?\n\nNếu bạn muốn một chai oud nặng, tối và quái kiểu Trung Đông truyền thống thì Oud Wood sẽ quá hiền. Đây là kiểu oud Tây hóa — sạch, mịn và sang kiểu luxury, không phải oud thú. Ai thích mùi fresh tươi mát kiểu thể thao hay citrus cũng không nên mua vì Oud Wood hoàn toàn ngược hướng. Ngoài ra, hiệu năng chai này không thuộc nhóm mạnh — nếu bạn cần mùi tỏa xa cả ngày thì sẽ thất vọng.\n\n### Có đáng tiền không?\n\nOud Wood thuộc phân khúc niche cao cấp — dòng Private Blend của Tom Ford. So với các chai oud Trung Đông cùng tầm giá, Oud Wood tinh tế hơn và dễ dùng hằng ngày hơn nhiều. So với Baccarat Rouge 540 cùng phân khúc niche, Oud Wood tối hơn, gỗ hơn và ít ngọt hơn. Nhược điểm là hiệu năng vừa phải — khoảng 6-7 giờ, tỏa vừa. Nhưng bù lại, mùi rất sang và phù hợp nhiều dịp. Nên mua chiết 5-10ml dùng thử trước vì đây là khoản đầu tư lớn.\n\n### Nên dùng khi nào?\n\nĐẹp nhất khi đi ăn tối, dự tiệc hoặc những dịp cần hình ảnh lịch thiệp, cao cấp. Xịt 2-3 nhát: cổ, sau tai và cổ tay. Hợp trời mát — mùa đông Hà Nội hoặc phòng máy lạnh Sài Gòn. Dùng được cả ban ngày nếu trong môi trường công sở lịch sự. Đừng dùng ngày nóng 35°C ngoài trời vì gỗ + gia vị khi nóng sẽ hơi ngọp.",
+  "verdict": "Chai oud sang nhất cho người muốn thử oud mà không bị sốc. Gỗ mịn, gia vị nhẹ, rất tinh tế. Hiệu năng vừa phải nhưng bù lại bằng sự thanh lịch.",
+  "verdictShort": "OUD SANG, TINH TẾ, DỄ MẶC",
+  "score": {
+    "scent": 9,
+    "uniqueness": 8.8,
+    "compliments": 8.2,
+    "value": 6.8,
+    "total": 8.2
+  },
+  "vibes": [
+    {
+      "label": "Sang trọng",
+      "icon": "💎"
+    },
+    {
+      "label": "Lịch thiệp",
+      "icon": "🎩"
+    },
+    {
+      "label": "Gỗ trầm",
+      "icon": "🌿"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": {
+    "spring": 55,
+    "summer": 25,
+    "fall": 85,
+    "winter": 90
+  },
+  "dayNight": {
+    "day": 40,
+    "night": 80
+  },
+  "topNotes": [
+    {
+      "name": "Gỗ trầm hương"
+    },
+    {
+      "name": "Gỗ hồng Brasil"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Tiêu Tứ Xuyên"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 78,
+      "color": "#b05c00"
+    },
+    {
+      "name": "Trầm hương",
+      "value": 72,
+      "color": "#3E2723"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 58,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Vani",
+      "value": 48,
+      "color": "#F5DEB3"
+    }
+  ],
+  "seoTitle": "Tom Ford Oud Wood chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Tom Ford Oud Wood chính hãng: mùi gỗ trầm sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Gỗ trầm",
+    "Sang trọng"
+  ],
+  "sizes": [
+    "5ml Chiết",
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 6500000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

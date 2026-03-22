@@ -1,0 +1,54 @@
+{
+  "id": "eau-sauvage-parfum",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Eau Sauvage Parfum",
+  "subName": "Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nam",
+  "image": "/images/products/dior-eau-sauvage-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dior-eau-sauvage-parfum-main.jpg",
+      "source": "amazon",
+      "caption": "DIOR Eau Sauvage Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nEau Sauvage Parfum giữ tinh thần lịch thiệp cổ điển của Eau Sauvage nhưng làm tối hơn, sâu hơn và nam tính trưởng thành hơn rõ. Nó không còn chỉ là citrus sạch sáng, mà có thêm chiều dày của gỗ và độ ấm khiến tổng thể rất dressy. Đây là một mùi nam đẹp cho người thích phong cách cổ điển được làm sang trọng hơn.\n\nĐiểm mạnh của bản Parfum là sự chững chạc. Nó vẫn thanh lịch, nhưng có nhiều chiều sâu hơn bản EDT và hợp hoàn cảnh buổi tối hơn. Trong khí hậu Việt Nam, chai này rất hợp với người thích mùi lịch thiệp nam tính mà không muốn quá ngọt hay quá hiện đại.\n\n## Diễn biến trên da\nMở đầu vẫn có nét citrus cổ điển quen thuộc, sau đó gỗ và nền ấm bắt đầu hiện lên làm mùi trở nên tròn, sâu và trưởng thành hơn. Mùi phát triển khá mượt, giữ chất quý ông rất rõ.\n\nDrydown là lớp gỗ ấm, sạch và rất tinh. Nó không quá phô trương nhưng có độ sang cao. Nhược điểm là ai thích kiểu fresh trẻ trung có thể thấy bản Parfum hơi nghiêm.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nEau Sauvage Parfum có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, đi làm môi trường lịch sự, gặp đối tác hoặc những dịp cần một mùi nam rất chỉnh tề.\n\nỞ Việt Nam, chai này dùng đẹp trong phòng lạnh hoặc chiều tối. Ưu điểm là sang, tinh và rất gentleman; nhược điểm là không quá hợp người thích mùi hiện đại đậm ambroxan.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích mùi nam cổ điển nhưng muốn chiều sâu và sự dressy hơn bản thường, Eau Sauvage Parfum rất đáng thử. Nó hợp người thích phong cách quý ông, gọn và có gu lâu dài.\n\nNên mua khi mày cần một chai lịch thiệp cho tối hoặc dịp nghiêm chỉnh. Nếu mày thích mùi ngọt ấm hiện đại, nên đi hướng khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nam",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

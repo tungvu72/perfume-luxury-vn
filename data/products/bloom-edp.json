@@ -1,0 +1,114 @@
+{
+  "id": "bloom-edp",
+  "brandSlug": "gucci",
+  "brand": "GUCCI",
+  "name": "Bloom",
+  "subName": "Eau de Parfum",
+  "perfumer": "Alberto Morillas",
+  "gender": "nu",
+  "image": "/images/products/gucci-bloom-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/gucci-bloom-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Gucci Bloom Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai hoa trắng nữ kinh điển — nhài, huệ dạ và hoa Rangoon. Đậm hoa, nữ tính và rất thẳng thắn. Hợp ai yêu hương hoa trắng.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét hoa trắng đậm thì Gucci Bloom sẽ quá nhiều — nhài, huệ dạ rất rõ từ đầu đến cuối. Ai thích mùi ngọt fruity, gourmand cũng sẽ thấy Bloom thiếu đường và thiếu trái cây. Ngoài ra, mùi khá tuyến tính — không chuyển tầng nhiều nên dễ bị nhàm nếu thích mùi phức tạp.\n\n### Có đáng tiền không?\n\nGucci Bloom thuộc phân khúc designer tầm trung — rẻ hơn Chanel. So với J'adore EDP, Bloom hoa hơn, ít trái cây hơn và thẳng thắn hơn. So với Chloé EDP, Bloom đậm hơn vì huệ dạ. Hiệu năng khá: bám 7 giờ, tỏa vừa. Đây là chai hoa trắng nữ tốt nhất tầm giá — nếu hợp gu thì rất đáng.\n\n### Nên dùng khi nào?\n\nĐi làm, đi cà phê, gặp gỡ, dùng hằng ngày. Xịt 2 nhát: cổ, cổ tay. Dùng quanh năm nhưng đẹp nhất xuân hè. Ở Sài Gòn dùng thoải mái — hoa trắng rất dễ chịu khi nóng nếu xịt vừa tay.",
+  "verdict": "Chai hoa trắng nữ đẹp nhất tầm giá — nhài, huệ dạ đậm và thẳng thắn. Hợp ai yêu hoa. Không hợp ai thích mùi ngọt hay phức tạp.",
+  "verdictShort": "HOA TRẮNG, ĐẬM, NỮ TÍNH",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 8,
+    "compliments": 8.2,
+    "value": 8.4,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Hoa trắng",
+      "icon": "🌸"
+    },
+    {
+      "label": "Nữ tính",
+      "icon": "✨"
+    },
+    {
+      "label": "Thanh lịch",
+      "icon": "🤍"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": {
+    "spring": 88,
+    "summer": 68,
+    "fall": 62,
+    "winter": 42
+  },
+  "dayNight": {
+    "day": 78,
+    "night": 45
+  },
+  "topNotes": [
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa huệ dạ"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoa Rangoon"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Hoa",
+      "value": 88,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Phấn",
+      "value": 62,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Xanh",
+      "value": 48,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 42,
+      "color": "#bdc3c7"
+    }
+  ],
+  "seoTitle": "Gucci Bloom EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Gucci Bloom EDP chính hãng: mùi hoa trắng đậm nữ tính, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nữ",
+    "Hoa trắng",
+    "Thanh lịch",
+    "Hằng ngày"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2400000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

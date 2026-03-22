@@ -1,0 +1,54 @@
+{
+  "id": "musk-therapy",
+  "brandSlug": "initio",
+  "brand": "INITIO PARFUMS PRIVÉS",
+  "name": "Musk Therapy",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/initio-musk-therapy-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/initio-musk-therapy-main.jpg",
+      "source": "amazon",
+      "caption": "INITIO PARFUMS PRIVÉS Musk Therapy chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "(Chờ Coder viết bài)",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

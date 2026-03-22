@@ -1,0 +1,140 @@
+{
+  "id": "aventus",
+  "brandSlug": "creed",
+  "brand": "CREED",
+  "name": "Aventus",
+  "subName": "Eau de Parfum",
+  "perfumer": "Olivier Creed & Erwin Creed",
+  "gender": "nam",
+  "image": "/images/products/creed-aventus-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/creed-aventus-main.jpg",
+      "source": "fragram",
+      "caption": "Creed Aventus chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nước hoa nam biểu tượng — mùi trái cây tươi sáng mở đầu, chuyển sang khói gỗ bạch dương rất đặc trưng. Sang, có khí chất lãnh đạo, hợp người muốn thử một chai nổi tiếng nhất thế giới nước hoa.",
+  "article": "### Ai không nên mua?\n\nNếu bạn đang tìm một chai dễ mua, giá mềm và không cần nghĩ nhiều thì Aventus không phải lựa chọn. Đây là phân khúc niche cao cấp, giá không hề rẻ và có vấn đề batch — mỗi lô sản xuất mùi có thể hơi khác nhau. Ai không thích mùi trái cây (đặc biệt dứa) cũng sẽ không hợp vì dứa rất rõ ở lớp đầu. Ngoài ra, nếu bạn muốn mùi ngọt ấm kiểu gourmand, Aventus hoàn toàn không theo hướng đó.\n\n### Có đáng tiền không?\n\nAventus thuộc phân khúc niche cao cấp nhất — đắt hơn đáng kể so với các chai designer như Bleu de Chanel hay Sauvage. Nhưng so với các chai niche cùng tầm như Tom Ford Oud Wood hay Louis Vuitton Imagination, Aventus có lợi thế là độ nhận diện rất cao và tính tham chiếu mạnh. Nhiều chai clone lấy cảm hứng từ Aventus (như Armaf CDNIM) nhưng không chai nào đạt được sự cân bằng giữa trái cây, khói và gỗ như bản gốc. Nếu chưa chắc, nên mua chiết 10ml dùng thử trước — vì đây là khoản đầu tư lớn.\n\n### Nên dùng khi nào?\n\nAventus đẹp nhất khi đi gặp khách hàng, dự sự kiện hoặc những ngày cần hình ảnh chỉn chu, tự tin. Xịt 2 nhát — 1 sau gáy, 1 trước ngực là đủ. Dùng được cả ngày lẫn tối, nhưng đẹp nhất khi trời mát (dưới 28°C). Mùa thu và xuân ở Hà Nội là lúc Aventus tỏa đẹp nhất. Ở Sài Gòn nên dùng trong phòng máy lạnh hoặc buổi tối. Đừng xịt quá nhiều — 2 nhát là tối ưu.",
+  "verdict": "Chai nam biểu tượng — trái cây, khói, gỗ rất cân bằng. Sang, có khí chất và tạo thiện cảm tốt. Giá cao, cần thử trước khi quyết định fullbox.",
+  "verdictShort": "BIỂU TƯỢNG, SANG, CÓ KHÍ CHẤT",
+  "score": {
+    "scent": 9.3,
+    "uniqueness": 9.4,
+    "compliments": 8.8,
+    "value": 6.2,
+    "total": 8.4
+  },
+  "vibes": [
+    {
+      "label": "Niche",
+      "icon": "💎"
+    },
+    {
+      "label": "Nam tính",
+      "icon": "🖤"
+    },
+    {
+      "label": "Biểu tượng",
+      "icon": "👑"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": {
+    "spring": 80,
+    "summer": 50,
+    "fall": 90,
+    "winter": 75
+  },
+  "dayNight": {
+    "day": 75,
+    "night": 70
+  },
+  "topNotes": [
+    {
+      "name": "Lý chua đen"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Táo"
+    },
+    {
+      "name": "Dứa"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Bạch dương"
+    },
+    {
+      "name": "Hoa nhài Morocco"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Địa y"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Long diên hương"
+    },
+    {
+      "name": "Vani"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Trái cây",
+      "value": 100,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Ngọt",
+      "value": 72,
+      "color": "#e74c3c"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 68,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gỗ",
+      "value": 65,
+      "color": "#6D4C41"
+    },
+    {
+      "name": "Khói",
+      "value": 60,
+      "color": "#616161"
+    }
+  ],
+  "seoTitle": "Creed Aventus chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Creed Aventus chính hãng: mùi trái cây khói biểu tượng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Cao cấp",
+    "Nam",
+    "Biểu tượng",
+    "Niche"
+  ],
+  "sizes": [
+    "5ml Chiết",
+    "10ml Chiết",
+    "100ml Fullbox"
+  ],
+  "basePrice": 8000000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

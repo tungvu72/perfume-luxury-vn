@@ -1,0 +1,144 @@
+{
+  "id": "no-5-eau-de-parfum",
+  "brandSlug": "chanel",
+  "brand": "CHANEL",
+  "name": "Chanel N°5",
+  "subName": "Eau de Parfum",
+  "perfumer": "Jacques Polge",
+  "gender": "nu",
+  "image": "/images/products/chanel-no-5-eau-de-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/chanel-no-5-eau-de-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "Chanel N°5 Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nước hoa nữ huyền thoại nhất thế giới — aldehyde, hoa trắng, gỗ đàn hương. Sang, cổ điển và có sức nặng văn hóa không chai nào sánh được.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi trẻ trung, ngọt dễ thương kiểu Victoria's Secret hay Ariana Grande thì N°5 EDP sẽ quá \"bà\" cho gu của bạn. Đây là mùi aldehyde hoa cổ điển — phấn, xà phòng và hoa trắng rất rõ. Người dưới 25 tuổi thường thấy N°5 quá mature. Ngoài ra, ai ghét cảm giác phấn bột hoặc mùi xà phòng sang nên tránh.\n\n### Có đáng tiền không?\n\nChanel N°5 thuộc phân khúc designer cao cấp nhất — bạn không chỉ mua mùi mà đang mua một biểu tượng văn hóa hơn 100 năm. So với Coco Mademoiselle, N°5 cổ điển hơn, phấn hơn và ít citrus hơn. So với Dior J'adore, N°5 sâu hơn và ít tươi hơn. Hiệu năng rất tốt cho EDP: bám 7-8 giờ, tỏa khá mạnh 3-4 giờ đầu. Nếu bạn muốn một chai có lịch sử, có khí chất và sẽ không bao giờ lỗi thời, N°5 là lựa chọn vô đối.\n\n### Nên dùng khi nào?\n\nĐẹp nhất khi dự tiệc, đi ăn tối, dự sự kiện hoặc những dịp cần hình ảnh chỉn chu, sang trọng. Xịt 2 nhát: 1 cổ, 1 cổ tay — đủ rồi vì tỏa mạnh. Hợp trời mát, mùa thu đông. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh. Đừng dùng đi gym hay đi biển.",
+  "verdict": "Huyền thoại — aldehyde, hoa trắng, phấn sang. Chai này không cần quảng cáo vì tên nó đã là quảng cáo. Không hợp ai thích mùi trẻ trung ngọt nhẹ.",
+  "verdictShort": "HUYỀN THOẠI, SANG, CỔ ĐIỂN",
+  "score": {
+    "scent": 9.2,
+    "uniqueness": 9.5,
+    "compliments": 8.5,
+    "value": 8,
+    "total": 8.8
+  },
+  "vibes": [
+    {
+      "label": "Kinh điển",
+      "icon": "👑"
+    },
+    {
+      "label": "Sang trọng",
+      "icon": "💎"
+    },
+    {
+      "label": "Quyến rũ",
+      "icon": "✨"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": {
+    "spring": 65,
+    "summer": 30,
+    "fall": 85,
+    "winter": 90
+  },
+  "dayNight": {
+    "day": 45,
+    "night": 80
+  },
+  "topNotes": [
+    {
+      "name": "Aldehyde"
+    },
+    {
+      "name": "Ngọc lan tây"
+    },
+    {
+      "name": "Cam neroli"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Hoa linh lan"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Aldehyde",
+      "value": 88,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Hoa trắng",
+      "value": 82,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Phấn",
+      "value": 72,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Tươi",
+      "value": 62,
+      "color": "#2ecc71"
+    }
+  ],
+  "seoTitle": "Chanel N°5 EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Chanel N°5 EDP chính hãng: nước hoa huyền thoại, mùi aldehyde hoa trắng kinh điển và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nữ",
+    "Kinh điển",
+    "Sang trọng",
+    "Huyền thoại"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "35ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 3800000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

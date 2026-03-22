@@ -1,0 +1,134 @@
+{
+  "id": "limmensite",
+  "brandSlug": "louis-vuitton",
+  "brand": "LOUIS VUITTON",
+  "name": "L'Immensité",
+  "subName": "Eau de Parfum",
+  "perfumer": "Jacques Cavallier Belletrud",
+  "gender": "nam",
+  "image": "/images/products/louis-vuitton-limmensite-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/louis-vuitton-limmensite-main.jpg",
+      "source": "fragram",
+      "caption": "Louis Vuitton L'Immensité Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam citrus-gừng-amber ultra-luxury — bưởi, cam bergamot, gừng, hương thảo, xô thơm, ambroxan và labdanum. Sáng, rộng và cực kỳ tự do.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi đậm ấm tối kiểu thuốc lá hay oud thì L'Immensité quá sáng và quá thoáng cho gu đó. Ai cần beast mode projection mạnh cũng sẽ thấy chai này vừa phải. Giá LV rất cao — cần test trước.\n\n### Có đáng tiền không?\n\nL'Immensité thuộc phân khúc ultra-luxury LV — top giá. So với Imagination cùng hãng, L'Immensité tươi hơn, nhiều gừng-thảo mộc hơn. So với Dior Sauvage EDP, L'Immensité sang hơn và ít aggressive hơn. Hiệu năng khá: bám 7-8 giờ nhờ ambroxan, tỏa vừa. Chai LV best seller có lý do.\n\n### Nên dùng khi nào?\n\nQuanh năm — đi làm, gặp khách, du lịch, dạo phố. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất xuân hè. Ở Sài Gòn dùng quanh năm. Chai daily driver luxury.",
+  "verdict": "Chai citrus-gừng ultra-luxury — tươi, rộng và tự do. Hợp quanh năm. LV best seller. Đắt.",
+  "verdictShort": "CITRUS GỪNG, TỰ DO, LV BEST SELLER",
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.2,
+    "compliments": 8.8,
+    "value": 6.5,
+    "total": 8.1
+  },
+  "vibes": [
+    {
+      "label": "Tự do",
+      "icon": "🌊"
+    },
+    {
+      "label": "Đa dụng",
+      "icon": "🔄"
+    },
+    {
+      "label": "Ultra-luxury",
+      "icon": "👑"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 90,
+    "summer": 82,
+    "fall": 55,
+    "winter": 38
+  },
+  "dayNight": {
+    "day": 88,
+    "night": 42
+  },
+  "topNotes": [
+    {
+      "name": "Bưởi"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Gừng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hương thảo"
+    },
+    {
+      "name": "Xô thơm"
+    },
+    {
+      "name": "Nước"
+    },
+    {
+      "name": "Phong lữ"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Ambroxan"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Labdanum"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Gia vị tươi",
+      "value": 78,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 62,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 55,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 42,
+      "color": "#bdc3c7"
+    }
+  ],
+  "seoTitle": "Louis Vuitton L'Immensité chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Louis Vuitton L'Immensité chính hãng: mùi citrus gừng ultra-luxury, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Ultra-luxury",
+    "Đa dụng",
+    "Tươi mát"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "100ml Fullbox",
+    "200ml Fullbox"
+  ],
+  "basePrice": 10500000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

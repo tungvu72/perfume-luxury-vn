@@ -1,0 +1,49 @@
+{
+  "id": "le-parfum-elie-saab",
+  "brandSlug": "elie-saab",
+  "brand": "ELIE SAAB",
+  "name": "Le Parfum",
+  "subName": "Eau de Parfum",
+  "perfumer": "Francis Kurkdjian",
+  "gender": "nu",
+  "image": "/images/products/elie-saab-le-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/elie-saab-le-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "Elie Saab Le Parfum Eau de Parfum ch├¡nh h├úng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nß╗» sang trß╗ìng kiß╗âu haute couture ΓÇö hoa cam ch├óu Phi, nh├ái, mß║¡t ong trß║»ng, hoß║»c h╞░╞íng v├á gß╗ù tuyß║┐t t├╣ng. Thanh lß╗ïch, rß║íng rß╗í v├á rß║Ñt dressy.",
+  "article": "### Ai kh├┤ng n├¬n mua?\n\nNß║┐u bß║ín th├¡ch m├╣i ngß╗ìt ─æß║¡m kiß╗âu La Vie Est Belle hay m├╣i tß╗æi sexy kiß╗âu Black Opium th├¼ Le Parfum sß║╜ qu├í thanh v├á qu├í chß╗ënh tß╗ü cho gu ─æ├│. ─É├óy l├á m├╣i hoa-mß║¡t ong rß║Ñt sang ΓÇö kiß╗âu tiß╗çc cocktail chß╗⌐ kh├┤ng phß║úi club. Ai th├¡ch m├╣i trß║╗ trung vui vß║╗ c┼⌐ng sß║╜ thß║Ñy chai n├áy h╞íi mature.\n\n### C├│ ─æ├íng tiß╗ün kh├┤ng?\n\nLe Parfum thuß╗Öc ph├ón kh├║c designer tß║ºm trung ΓÇö rß║╗ h╞ín Chanel v├á Dior. So vß╗¢i J'adore EDP, Le Parfum thanh h╞ín v├á c├│ mß║¡t ong r├╡ h╞ín. So vß╗¢i Chlo├⌐ EDP, Le Parfum sang h╞ín v├á dressy h╞ín. Hiß╗çu n─âng tß╗æt: b├ím 7-8 giß╗¥, tß╗Åa kh├í. ─É├óy l├á chai elegant nß╗» rß║Ñt ─æß║╣p ΓÇö gi├í tß╗æt m├á chß║Ñt l╞░ß╗úng blend cß╗ºa Francis Kurkdjian.\n\n### N├¬n d├╣ng khi n├áo?\n\nTiß╗çc, sß╗▒ kiß╗çn, gß║╖p gß╗í trang trß╗ìng, ─æi ─ân tß╗æi, dß╗ïp ─æß║╖c biß╗çt. Xß╗ït 2-3 nh├ít: cß╗ò, cß╗ò tay, sau tai. D├╣ng quanh n─âm ΓÇö ─æß║╣p nhß║Ñt xu├ón thu. ß╗₧ S├ái G├▓n d├╣ng thoß║úi m├íi v├¼ hoa cam rß║Ñt s├íng.",
+  "verdict": "M├╣i nß╗» sang thanh lß╗ïch ΓÇö hoa cam, nh├ái, mß║¡t ong. Rß║Ñt dressy v├á cao cß║Ñp. Kh├┤ng hß╗úp ai th├¡ch m├╣i ngß╗ìt ─æß║¡m hoß║╖c tß╗æi.",
+  "verdictShort": "SANG, THANH Lß╗èCH, DRESSY",
+  "score": { "scent": 8.6, "uniqueness": 8.0, "compliments": 8.5, "value": 8.5, "total": 8.4 },
+  "vibes": [
+    { "label": "Thanh lß╗ïch", "icon": "Γ£¿" },
+    { "label": "Sang trß╗ìng", "icon": "≡ƒÆÄ" },
+    { "label": "Dressy", "icon": "≡ƒæù" }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": { "spring": 82, "summer": 62, "fall": 78, "winter": 68 },
+  "dayNight": { "day": 65, "night": 72 },
+  "topNotes": [{ "name": "Hoa cam ch├óu Phi" }],
+  "middleNotes": [{ "name": "Hoa nh├ái" }],
+  "baseNotes": [{ "name": "Mß║¡t ong trß║»ng" }, { "name": "Hoß║»c h╞░╞íng" }, { "name": "Hoa hß╗ông" }, { "name": "Gß╗ù tuyß║┐t t├╣ng Virginia" }],
+  "accords": [
+    { "name": "Hoa trß║»ng", "value": 100, "color": "#ecf0f1" },
+    { "name": "Mß║¡t ong", "value": 82, "color": "#f39c12" },
+    { "name": "Hoß║»c h╞░╞íng", "value": 65, "color": "#4e342e" },
+    { "name": "Gß╗ù", "value": 55, "color": "#8B4513" },
+    { "name": "Hoa", "value": 48, "color": "#e91e63" }
+  ],
+  "seoTitle": "Elie Saab Le Parfum ch├¡nh h├úng mua ß╗ƒ ─æ├óu? Review 2026",
+  "metaDescription": "─É├ính gi├í Elie Saab Le Parfum ch├¡nh h├úng: m├╣i hoa cam mß║¡t ong sang trß╗ìng, ─æß╗Ö b├ím tß╗Åa thß╗▒c tß║┐ v├á t╞░ vß║Ñn n╞íi mua uy t├¡n 2026 tß║íi Maison De Son.",
+  "tags": ["Nß╗»", "Thanh lß╗ïch", "Sang trß╗ìng", "Dressy"],
+  "sizes": ["10ml Chiß║┐t", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
+  "basePrice": 2290000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

@@ -1,0 +1,124 @@
+{
+  "id": "angels-share",
+  "brandSlug": "kilian",
+  "brand": "KILIAN",
+  "name": "Angels' Share",
+  "subName": "Eau de Parfum",
+  "perfumer": "Benoist Lapouza",
+  "gender": "unisex",
+  "image": "/images/products/kilian-angels-share-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/kilian-angels-share-main.jpg",
+      "source": "fragram",
+      "caption": "Kilian Angels' Share Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai niche gourmand boozy đẹp nhất — cognac, quế, đậu Tonka, vani, praline và gỗ đàn hương. Ngọt ấm, sang và gây nghiện. Unisex.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt hoặc thích mùi sạch tươi citrus/aquatic thì Angels' Share sẽ quá dày và quá ngọt. Ai ở Sài Gòn dùng ban ngày nóng ngoài trời cũng sẽ thấy hơi ngột. Ngoài ra, giá niche cao — không hợp blind buy nếu chưa biết gu mình.\n\n### Có đáng tiền không?\n\nAngels' Share thuộc phân khúc niche cao cấp Kilian — đắt hơn nhiều chai designer. So với BR540 cùng nhóm viral niche, Angels' Share boozy hơn, quế hơn và ít caramelized hơn. So với Lattafa Khamrah (clone), bản gốc mượt hơn, tinh tế hơn và lâu hơn rất nhiều. Hiệu năng quái vật: bám 10+ giờ, tỏa mạnh. Đây là chai niche đáng đầu tư nhất nhóm gourmand.\n\n### Nên dùng khi nào?\n\nĐi tối, tiệc, sự kiện, dịp đặc biệt. Xịt 1-2 nhát — tỏa rất mạnh. Đẹp nhất mùa đông hoặc trời mát dưới 22°C. Ở Sài Gòn chỉ dùng buổi tối hoặc phòng máy lạnh rất mạnh.",
+  "verdict": "Chai niche gourmand đẹp nhất — cognac, quế, vani. Bám 10h+. Hợp dịp đặc biệt. Quá dày cho dùng hằng ngày.",
+  "verdictShort": "COGNAC, SANG, GÂY NGHIỆN",
+  "score": {
+    "scent": 9.2,
+    "uniqueness": 8.8,
+    "compliments": 9.1,
+    "value": 7.6,
+    "total": 8.7
+  },
+  "vibes": [
+    {
+      "label": "Dịp đặc biệt",
+      "icon": "🥂"
+    },
+    {
+      "label": "Thu đông",
+      "icon": "🍂"
+    },
+    {
+      "label": "Sang trọng",
+      "icon": "💎"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 8,
+  "seasons": {
+    "spring": 34,
+    "summer": 10,
+    "fall": 94,
+    "winter": 100
+  },
+  "dayNight": {
+    "day": 18,
+    "night": 100
+  },
+  "topNotes": [
+    {
+      "name": "Cognac"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Gỗ sồi"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Praline"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Ngọt",
+      "value": 100,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 82,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Rượu",
+      "value": 62,
+      "color": "#7b4b1f"
+    },
+    {
+      "name": "Gỗ",
+      "value": 52,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Vani",
+      "value": 48,
+      "color": "#F5DEB3"
+    }
+  ],
+  "seoTitle": "Kilian Angels' Share chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Kilian Angels' Share chính hãng: mùi cognac quế vani sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Dịp đặc biệt",
+    "Thu đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox"
+  ],
+  "basePrice": 5600000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

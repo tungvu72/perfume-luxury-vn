@@ -1,0 +1,135 @@
+{
+  "id": "mon-guerlain",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "Mon Guerlain",
+  "subName": "Eau de Parfum",
+  "perfumer": "Thierry Wasser & Delphine Jelk",
+  "gender": "nu",
+  "image": "/images/products/guerlain-mon-guerlain-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/guerlain-mon-guerlain-main.jpg",
+      "source": "fragram",
+      "caption": "Guerlain Mon Guerlain Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nữ vani-lavender thanh lịch nhất — oải hương, cam bergamot, iris, nhài Sambac, vani Tahiti, gỗ đàn hương và benzoin. Ấm, mềm và rất comforting.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi trẻ trung fruity kiểu Burberry Her hay mùi sạch citrus kiểu Light Blue thì Mon Guerlain sẽ hơi ấm và hơi vani cho gu đó. Ai không thích lavender trong nước hoa nữ cũng nên thử trước — oải hương ở đây rất rõ.\n\n### Có đáng tiền không?\n\nMon Guerlain thuộc phân khúc Guerlain — tương đương Dior và Chanel. So với La Vie Est Belle cùng nhóm vani nữ, Mon Guerlain có lavender và wood rõ hơn, bớt ngọt hơn. So với Trésor, Mon Guerlain hiện đại hơn và ít phấn hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa vừa. Đây là chai vani nữ thanh lịch nhất segment designer.\n\n### Nên dùng khi nào?\n\nDùng quanh năm — đi làm, gặp gỡ, cà phê, hẹn hò nhẹ. Xịt 2-3 nhát: cổ, cổ tay. Đẹp nhất thu đông. Ở Sài Gòn dùng thoải mái vì lavender giúp mùi sáng hơn.",
+  "verdict": "Chai vani-lavender nữ thanh lịch nhất — ấm, comforting. Hợp quanh năm. Không hợp ai thích mùi tươi trẻ.",
+  "verdictShort": "VANI LAVENDER, THANH LỊCH",
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8,
+    "compliments": 8.5,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Thanh lịch",
+      "icon": "✨"
+    },
+    {
+      "label": "Ấm áp",
+      "icon": "🤎"
+    },
+    {
+      "label": "Hằng ngày",
+      "icon": "🧴"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 72,
+    "summer": 48,
+    "fall": 85,
+    "winter": 82
+  },
+  "dayNight": {
+    "day": 62,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Nhài Sambac"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani Tahiti"
+    },
+    {
+      "name": "Coumarin"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Vani",
+      "value": 100,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Oải hương",
+      "value": 82,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "Gỗ",
+      "value": 62,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hoa",
+      "value": 55,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Phấn",
+      "value": 42,
+      "color": "#d7bde2"
+    }
+  ],
+  "seoTitle": "Guerlain Mon Guerlain EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Guerlain Mon Guerlain EDP chính hãng: mùi vani lavender thanh lịch, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nữ",
+    "Thanh lịch",
+    "Vani",
+    "Hằng ngày"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2800000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

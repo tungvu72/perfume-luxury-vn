@@ -1,0 +1,148 @@
+{
+  "id": "coco-mademoiselle-edp",
+  "brandSlug": "chanel",
+  "brand": "CHANEL",
+  "name": "Coco Mademoiselle",
+  "subName": "Eau de Parfum",
+  "perfumer": "Jacques Polge",
+  "gender": "nu",
+  "image": "/images/products/chanel-coco-mademoiselle-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/chanel-coco-mademoiselle-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Chanel Coco Mademoiselle Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nước hoa nữ kinh điển của Chanel — mùi cam citrus sáng mở đầu, chuyển sang hoa hồng, nhài rồi kết bằng patchouli sâu. Thanh lịch, sắc sảo, dùng được quanh năm.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt dễ thương kiểu Ariana Grande hay Victoria's Secret thì Coco Mademoiselle không hợp đâu. Đây là kiểu nữ tính có xương sống — sắc, sang và khá mature. Bạn nào dưới 22 tuổi, thích mùi trẻ trung vui vẻ sẽ thấy chai này \"già\" hơn mình. Ngoài ra, ai dị ứng với patchouli thì cũng nên tránh vì lớp base có patchouli rất rõ.\n\n### Có đáng tiền không?\n\nCoco Mademoiselle thuộc phân khúc designer cao cấp của Chanel — tức là không rẻ nhưng bạn đang mua một chai có độ nhận diện rất cao và gần như không lỗi thời. So với Miss Dior EDP cùng phân khúc, Coco Mademoiselle sắc sảo và trưởng thành hơn. So với YSL Libre EDP thì Coco Mademoiselle thanh lịch hơn, ít ngọt hơn. Chỉ cần 2-3 nhát xịt, chai fullbox dùng rất lâu. Nếu chưa chắc hợp, nên mua chiết 10ml dùng thử trước.\n\n### Nên dùng khi nào?\n\nĐẹp nhất khi đi làm, gặp khách hàng, dự tiệc nhẹ hoặc đi ăn tối. Xịt 1 nhát sau gáy, 1 nhát cổ tay là đủ — tỏa khá mạnh trong 3-4 giờ đầu. Dùng quanh năm được, nhưng đẹp nhất vào mùa thu đông hoặc những ngày Sài Gòn mát mẻ. Đừng xịt quá nhiều vào ngày nóng 35°C vì citrus + patchouli khi nóng sẽ hơi nồng.",
+  "verdict": "Nước hoa nữ kinh điển — sang, sắc và có khí chất rõ ràng. Hợp phụ nữ đi làm, dự tiệc hoặc cần hình ảnh chỉn chu. Không hợp ai thích mùi ngọt dễ thương.",
+  "verdictShort": "SANG, SẮC, KINH ĐIỂN",
+  "score": {
+    "scent": 8.4,
+    "uniqueness": 7.8,
+    "compliments": 8.6,
+    "value": 8.2,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Thanh lịch",
+      "icon": "✨"
+    },
+    {
+      "label": "Đi làm",
+      "icon": "💼"
+    },
+    {
+      "label": "Kinh điển",
+      "icon": "👑"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": {
+    "spring": 75,
+    "summer": 45,
+    "fall": 85,
+    "winter": 80
+  },
+  "dayNight": {
+    "day": 65,
+    "night": 75
+  },
+  "topNotes": [
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Quýt"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Hoa cam"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng Thổ Nhĩ Kỳ"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Mimosa"
+    },
+    {
+      "name": "Ngọc lan tây"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Xạ hương trắng"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Đậu Tonka"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Gỗ",
+      "value": 88,
+      "color": "#8B6914"
+    },
+    {
+      "name": "Hoắc hương",
+      "value": 85,
+      "color": "#556B2F"
+    },
+    {
+      "name": "Ngọt",
+      "value": 82,
+      "color": "#e74c3c"
+    },
+    {
+      "name": "Hoa trắng",
+      "value": 78,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Hoa hồng",
+      "value": 72,
+      "color": "#e91e63"
+    }
+  ],
+  "seoTitle": "Chanel Coco Mademoiselle EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Chanel Coco Mademoiselle EDP chính hãng: mùi cam hoa sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nữ",
+    "Thanh lịch",
+    "Đi làm",
+    "Kinh điển"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 3800000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

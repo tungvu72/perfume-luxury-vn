@@ -1,0 +1,130 @@
+{
+  "id": "african-leather",
+  "brandSlug": "memo",
+  "brand": "MEMO PARIS",
+  "name": "African Leather",
+  "subName": "Eau de Parfum",
+  "perfumer": "Alienor Massenet",
+  "gender": "unisex",
+  "image": "/images/products/memo-african-leather-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/memo-african-leather-main.jpg",
+      "source": "fragram",
+      "caption": "Memo Paris African Leather Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai niche da-oud-quế hoang dã nhất — bạch đậu khấu, tiêu hồng, phong lữ, hoắc hương, quế, da thuộc, oud và hổ phách. Mạnh, ấm và rất cá tính.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi sạch nhẹ nhàng hoặc mùi ngọt dễ thương thì African Leather ở chiều ngược — đây là mùi da-oud-gia vị cực mạnh và hoang dã. Ai ghét oud hoặc da thuộc nên tránh. Ngoài ra, giá niche rất cao — chỉ nên mua khi đã test và chắc chắn hợp.\n\n### Có đáng tiền không?\n\nAfrican Leather thuộc phân khúc Memo niche — đắt. So với Tom Ford Tuscan Leather (cùng nhóm da), African Leather có oud và quế rõ hơn, hoang dã hơn. So với Ombré Leather, African Leather mạnh hơn và ít refined hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa rất mạnh. Đây là chai statement — ai xịt ai cũng biết.\n\n### Nên dùng khi nào?\n\nMùa đông, dịp đặc biệt, buổi tối, sự kiện VIP. Xịt 1 nhát DUY NHẤT — tỏa cực mạnh. Đẹp nhất khi trời lạnh. Ở Việt Nam chỉ dùng tối mùa lạnh hoặc phòng máy lạnh cực mạnh.",
+  "verdict": "Chai da-oud hoang dã nhất — mạnh, ấm và cá tính. Bám 10h+. Hợp mùa đông. Quá mạnh cho mọi ngày.",
+  "verdictShort": "DA OUD, HOANG DÃ, CỰC MẠNH",
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 9.5,
+    "compliments": 7.5,
+    "value": 7,
+    "total": 8.4
+  },
+  "vibes": [
+    {
+      "label": "Hoang dã",
+      "icon": "🦁"
+    },
+    {
+      "label": "Cá tính",
+      "icon": "🖤"
+    },
+    {
+      "label": "Dịp đặc biệt",
+      "icon": "🥂"
+    }
+  ],
+  "longevity": 10,
+  "sillage": 10,
+  "seasons": {
+    "spring": 15,
+    "summer": 5,
+    "fall": 72,
+    "winter": 100
+  },
+  "dayNight": {
+    "day": 8,
+    "night": 95
+  },
+  "topNotes": [
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Phong lữ"
+    },
+    {
+      "name": "Tiêu hồng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Oud"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Da thuộc",
+      "value": 100,
+      "color": "#795548"
+    },
+    {
+      "name": "Oud",
+      "value": 82,
+      "color": "#3e2723"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 72,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Gỗ",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hoa",
+      "value": 42,
+      "color": "#e91e63"
+    }
+  ],
+  "seoTitle": "Memo African Leather chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Memo African Leather chính hãng: mùi da oud hoang dã cực mạnh, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Hoang dã",
+    "Da thuộc"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox"
+  ],
+  "basePrice": 6200000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

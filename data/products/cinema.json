@@ -1,0 +1,54 @@
+{
+  "id": "cinema",
+  "brandSlug": "ysl",
+  "brand": "YVES SAINT LAURENT",
+  "name": "Cinéma",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/ysl-cinema-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/ysl-cinema-main.jpg",
+      "source": "amazon",
+      "caption": "YVES SAINT LAURENT Cinéma chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nCinema là một mùi nữ rất YSL theo nghĩa cổ điển sang: hoa, vanilla, chút ấm và cảm giác ánh vàng rất rõ. Nó không phải floral sáng hiện đại, cũng không hẳn oriental đậm, mà đứng ở giữa với khí chất nữ tính, lấp lánh và rất “lên đèn”. Đây là kiểu mùi hợp người thích vẻ đẹp cổ điển nhưng vẫn đủ mềm để dùng thực tế.\n\nĐiểm đẹp của Cinema là thần thái. Nó cho cảm giác váy đẹp, ánh đèn, son môi và sự chỉn chu kiểu Paris cũ. Trong bối cảnh Việt Nam, chai này hợp với người thích mùi nữ sang, dùng tối hoặc trong những dịp cần vẻ ngoài được hoàn thiện hơn.\n\n## Diễn biến trên da\nMở đầu floral sáng vừa phải, sau đó vanilla và nền ấm làm mùi trở nên tròn, bóng và mềm hơn. Mùi phát triển mượt, không quá kịch tính nhưng giữ khí chất tốt xuyên suốt.\n\nDrydown là lớp hoa ấm, hơi bột nhẹ và khá sang. Nó không quá trẻ, nhưng cũng không già nếu dùng đúng hoàn cảnh. Nhược điểm là người thích mùi tối giản hiện đại có thể thấy Cinema hơi “dressy”.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nCinema có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, tiệc nhẹ, gặp gỡ, hẹn hò hoặc những lúc muốn một mùi nữ sáng sang chứ không quá ngọt.\n\nỞ Việt Nam, chai này dùng đẹp hơn về chiều tối hoặc phòng lạnh. Ưu điểm là có khí chất và dễ nhận ra; nhược điểm là không hẳn là chai signature cho mọi ngày.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích mùi nữ cổ điển sang, có ánh vàng và thần thái rõ, Cinema là cái tên rất đáng thử. Nó hợp người thích floral ấm kiểu thanh lịch hơn là mùi ngọt dễ thương.\n\nNên mua khi mày cần một chai cho dịp cần lên mood nữ tính sang. Nếu mày muốn mùi quá trẻ hoặc quá casual, có thể chưa phải lựa chọn đầu tiên.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

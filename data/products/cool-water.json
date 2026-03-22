@@ -1,0 +1,148 @@
+{
+  "id": "cool-water",
+  "brandSlug": "davidoff",
+  "brand": "DAVIDOFF",
+  "name": "Cool Water",
+  "subName": "Eau de Toilette",
+  "perfumer": "Pierre Bourdon",
+  "gender": "nam",
+  "image": "/images/products/davidoff-cool-water-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/davidoff-cool-water-main.jpg",
+      "source": "fragram",
+      "caption": "Davidoff Cool Water Eau de Toilette chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Tượng đài mùi biển nam — lavender, bạc hà, gỗ đàn hương và rêu sồi. Kinh điển từ 1988, giá mềm và cực kỳ hợp mùa nóng Việt Nam.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt ấm hiện đại kiểu Valentino Born In Roma hay Azzaro Most Wanted thì Cool Water hoàn toàn ngược — đây là mùi aquatic cổ điển, mát và khá đơn giản. Ai cần mùi bám cả ngày cũng sẽ thất vọng vì đây là EDT — bám khoảng 4-5 giờ. Ngoài ra, mùi này khá cổ điển, nên người thích trend hiện đại sẽ thấy nó hơi dated.\n\n### Có đáng tiền không?\n\nCool Water là một trong những chai nam rẻ nhất ở phân khúc chính hãng — giá thấp hơn nhiều so với ADG Profondo hay Prada Carbon. So với ADG Profondo, Cool Water cổ điển hơn, đơn giản hơn nhưng rẻ hơn rất nhiều. So với Prada Carbon, Cool Water ít thảo mộc hơn và mát hơn. Hiệu năng yếu nhất trong nhóm (EDT, 4-5 giờ), nhưng giá cũng thấp nhất. Đáng mua nếu bạn cần chai xịt thoải mái mùa hè mà không tiếc.\n\n### Nên dùng khi nào?\n\nBan ngày mùa nóng — đi làm, đi học, đi biển, tập gym nhẹ. Xịt 4-5 nhát thoải mái vì mùi nhẹ. Đẹp nhất khi trời 30-36°C. Ở Sài Gòn dùng quanh năm được. Đừng dùng cho hẹn hò buổi tối — quá nhẹ và quá casual.",
+  "verdict": "Tượng đài mùi biển kinh điển — mát, sạch, giá mềm. Hợp mùa nóng và dùng thoải mái. Hiệu năng yếu nhưng bù lại bằng giá rất tốt.",
+  "verdictShort": "KINH ĐIỂN, MÁT, GIÁ MỀM",
+  "score": {
+    "scent": 7.8,
+    "uniqueness": 7,
+    "compliments": 7.5,
+    "value": 9.2,
+    "total": 7.9
+  },
+  "vibes": [
+    {
+      "label": "Mùa hè",
+      "icon": "☀️"
+    },
+    {
+      "label": "Giá mềm",
+      "icon": "💸"
+    },
+    {
+      "label": "Kinh điển",
+      "icon": "👑"
+    }
+  ],
+  "longevity": 5,
+  "sillage": 5,
+  "seasons": {
+    "spring": 78,
+    "summer": 95,
+    "fall": 45,
+    "winter": 25
+  },
+  "dayNight": {
+    "day": 92,
+    "night": 25
+  },
+  "topNotes": [
+    {
+      "name": "Nước biển"
+    },
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Bạc hà"
+    },
+    {
+      "name": "Hương thảo"
+    },
+    {
+      "name": "Rau mùi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Phong lữ"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Thuốc lá"
+    },
+    {
+      "name": "Long diên hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Tươi",
+      "value": 100,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Biển",
+      "value": 88,
+      "color": "#3498db"
+    },
+    {
+      "name": "Xanh",
+      "value": 72,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 62,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gia vị",
+      "value": 48,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Davidoff Cool Water chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Davidoff Cool Water chính hãng: tượng đài mùi biển kinh điển, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Mùa hè",
+    "Giá mềm",
+    "Kinh điển"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "40ml Fullbox",
+    "75ml Fullbox",
+    "125ml Fullbox",
+    "200ml Fullbox"
+  ],
+  "basePrice": 700000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

@@ -1,0 +1,123 @@
+{
+  "id": "for-her-edp",
+  "brandSlug": "narciso-rodriguez",
+  "brand": "NARCISO RODRIGUEZ",
+  "name": "For Her",
+  "subName": "Eau de Parfum",
+  "perfumer": "Christine Nagel & Francis Kurkdjian",
+  "gender": "nu",
+  "image": "/images/products/narciso-rodriguez-for-her-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/narciso-rodriguez-for-her-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Narciso Rodriguez For Her Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nữ xạ hương đẹp nhất — hoa hồng, đào, xạ hương, hổ phách, hoắc hương và gỗ đàn hương. Mềm sâu, gợi cảm và rất ôm da.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi hoa sáng rạng rỡ kiểu J'adore hay Gucci Bloom thì For Her EDP sẽ quá tối và quá musky cho gu đó. Đây là mùi xạ hương là chủ đạo — mềm, sâu và khá kín đáo. Ai thích mùi tỏa xa, nổi bật cũng sẽ thất vọng vì For Her thiên về ôm da hơn là phô trương.\n\n### Có đáng tiền không?\n\nFor Her EDP thuộc phân khúc designer tầm trung — rẻ hơn Chanel và Dior. So với Coco Mademoiselle, For Her tối hơn nhiều và musky hơn. So với Armani Sì, For Her ít hoa hơn và gần da hơn. Hiệu năng tốt: bám 8 giờ, tỏa gần. Đây là chai skin scent — musky ấm bám da cả ngày. Rất đáng tiền cho ai thích kiểu mùi này.\n\n### Nên dùng khi nào?\n\nHẹn hò, đi ăn tối, dùng hằng ngày, môi trường gần. Xịt 2-3 nhát: cổ, cổ tay, sau tai. Dùng quanh năm — đẹp nhất mùa thu đông. Ở Sài Gòn dùng thoải mái vì musky không bao giờ ngọp.",
+  "verdict": "Chai xạ hương nữ đẹp nhất — mềm sâu, ôm da và rất gợi cảm kiểu kín đáo. Hợp ai thích skin scent. Không nổi bật nếu thích mùi tỏa xa.",
+  "verdictShort": "XẠ HƯƠNG, ÔM DA, GỢI CẢM",
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.5,
+    "compliments": 8.2,
+    "value": 8.4,
+    "total": 8.5
+  },
+  "vibes": [
+    {
+      "label": "Gợi cảm",
+      "icon": "🔥"
+    },
+    {
+      "label": "Ôm da",
+      "icon": "🤍"
+    },
+    {
+      "label": "Tinh tế",
+      "icon": "✨"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 5,
+  "seasons": {
+    "spring": 68,
+    "summer": 52,
+    "fall": 82,
+    "winter": 85
+  },
+  "dayNight": {
+    "day": 58,
+    "night": 78
+  },
+  "topNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Đào"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Xạ hương",
+      "value": 100,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Hoa",
+      "value": 68,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Gỗ",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Ấm",
+      "value": 52,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 45,
+      "color": "#d4a017"
+    }
+  ],
+  "seoTitle": "Narciso Rodriguez For Her EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Narciso For Her EDP chính hãng: mùi xạ hương ấm gợi cảm, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nữ",
+    "Gợi cảm",
+    "Xạ hương",
+    "Tinh tế"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

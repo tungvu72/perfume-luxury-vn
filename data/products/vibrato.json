@@ -1,0 +1,139 @@
+{
+  "id": "vibrato",
+  "brandSlug": "sospiro",
+  "brand": "SOSPIRO",
+  "name": "Vibrato",
+  "subName": "Eau de Parfum",
+  "perfumer": "Christian Provenzano",
+  "gender": "unisex",
+  "image": "/images/products/sospiro-vibrato-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/sospiro-vibrato-main.jpg",
+      "source": "fragram",
+      "caption": "Sospiro Vibrato Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai niche citrus-hoa-gỗ thanh lịch — bưởi, cam bergamot, nhài, mộc lan, gừng, xạ hương, gỗ tuyết tùng, hổ phách và hoắc hương. Sáng, thanh lịch và dễ mến.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi đậm nặng kiểu oud hoặc mùi ngọt gourmand thì Vibrato quá nhẹ và quá thanh cho gu đó. Ai cần beast mode projection mạnh cũng sẽ thấy chai này vừa phải.\n\n### Có đáng tiền không?\n\nVibrato thuộc phân khúc Sospiro niche — giá tốt cho niche. So với Bleu de Chanel (cùng nhóm sáng đa dụng), Vibrato hoa hơn và gỗ hơn. So với PdM Sedley, Vibrato ít thảo mộc hơn và hoa hơn. Hiệu năng khá: bám 7 giờ, tỏa vừa. Chai niche daily driver dễ mến.\n\n### Nên dùng khi nào?\n\nQuanh năm — đi làm, gặp gỡ, cà phê, dạo phố. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất xuân hè. Ở Sài Gòn dùng quanh năm.",
+  "verdict": "Chai niche citrus-hoa thanh lịch — sáng, dễ mến và đa dụng. Hợp quanh năm. Giá tốt cho niche.",
+  "verdictShort": "CITRUS HOA, THANH LỊCH, DỄ MẾN",
+  "score": {
+    "scent": 8.2,
+    "uniqueness": 7.8,
+    "compliments": 8.2,
+    "value": 8,
+    "total": 8.1
+  },
+  "vibes": [
+    {
+      "label": "Thanh lịch",
+      "icon": "✨"
+    },
+    {
+      "label": "Đa dụng",
+      "icon": "🔄"
+    },
+    {
+      "label": "Unisex",
+      "icon": "💫"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": {
+    "spring": 88,
+    "summer": 72,
+    "fall": 55,
+    "winter": 38
+  },
+  "dayNight": {
+    "day": 82,
+    "night": 42
+  },
+  "topNotes": [
+    {
+      "name": "Bưởi"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Mộc lan"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gừng"
+    },
+    {
+      "name": "Thảo mộc"
+    },
+    {
+      "name": "Phấn"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Rễ iris"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Hoa",
+      "value": 78,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Gỗ",
+      "value": 62,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 52,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 42,
+      "color": "#d4a017"
+    }
+  ],
+  "seoTitle": "Sospiro Vibrato chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Sospiro Vibrato chính hãng: mùi citrus hoa thanh lịch niche, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Thanh lịch",
+    "Đa dụng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "100ml Fullbox"
+  ],
+  "basePrice": 3800000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

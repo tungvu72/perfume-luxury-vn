@@ -1,0 +1,132 @@
+{
+  "id": "the-one-for-men-eau-de-parfum",
+  "brandSlug": "dg",
+  "brand": "DOLCE & GABBANA",
+  "name": "The One for Men",
+  "subName": "Eau de Parfum",
+  "perfumer": "Olivier Polge",
+  "gender": "nam",
+  "image": "/images/products/dg-the-one-for-men-eau-de-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dg-the-one-for-men-eau-de-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "Dolce & Gabbana The One for Men Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam ấm gia vị kinh điển — hổ phách, thuốc lá, gỗ tuyết tùng. Mùi gentleman rất chuẩn, sang và dễ tạo thiện cảm. Hợp đi tối, hẹn hò hoặc dịp lịch sự.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi mát, sạch hoặc thể thao thì The One EDP hoàn toàn ngược — đây là mùi ấm, gia vị, hơi thuốc lá rất trưởng thành. Người dưới 25 tuổi thích vibe trẻ trung năng lượng cao sẽ thấy chai này hơi \"bố\" so với mình. Ngoài ra, hiệu năng bản EDP tuy tốt hơn EDT nhưng vẫn không thuộc nhóm beast mode — đừng kỳ vọng tỏa cả phòng.\n\n### Có đáng tiền không?\n\nThe One EDP thuộc phân khúc designer tầm trung — giá tương đương Bleu de Chanel EDP hay Dior Sauvage EDP. So với bản EDT, EDP đậm hơn, ấm hơn và bám tốt hơn rõ rệt. So với Dior Homme Intense cùng nhóm evening scent, The One EDP ấm hơn, ít phấn hơn và nam tính truyền thống hơn. Hiệu năng khá: bám 6-8 giờ, tỏa gần. Đây là kiểu mùi gentleman rất chuẩn — hầu như ai ngửi cũng thấy sang.\n\n### Nên dùng khi nào?\n\nĐẹp nhất khi đi ăn tối, hẹn hò hoặc dự tiệc. Xịt 2-3 nhát: cổ, sau tai, cổ tay. Hợp trời mát — mùa đông Hà Nội hoặc buổi tối Sài Gòn. Dùng trong phòng máy lạnh cũng rất đẹp. Đây là kiểu mùi close-range — người đến gần mới cảm nhận được, rất hợp cho những cuộc trò chuyện thân mật.",
+  "verdict": "Mùi gentleman kinh điển — hổ phách, thuốc lá, gỗ rất sang. Hợp hẹn hò, đi tối hoặc ai thích phong cách trưởng thành. Hiệu năng vừa phải nhưng bù lại bằng chất lượng mùi.",
+  "verdictShort": "GENTLEMAN, ẤM, KINH ĐIỂN",
+  "score": {
+    "scent": 9,
+    "uniqueness": 8,
+    "compliments": 8.8,
+    "value": 8.2,
+    "total": 8.5
+  },
+  "vibes": [
+    {
+      "label": "Gentleman",
+      "icon": "🎩"
+    },
+    {
+      "label": "Buổi tối",
+      "icon": "🌙"
+    },
+    {
+      "label": "Hẹn hò",
+      "icon": "❤️"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": {
+    "spring": 55,
+    "summer": 20,
+    "fall": 90,
+    "winter": 95
+  },
+  "dayNight": {
+    "day": 35,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Bưởi chùm"
+    },
+    {
+      "name": "Rau mùi"
+    },
+    {
+      "name": "Húng quế"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Gừng"
+    },
+    {
+      "name": "Hoa cam"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Thuốc lá"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Gia vị ấm",
+      "value": 100,
+      "color": "#b05c00"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 88,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Thuốc lá",
+      "value": 72,
+      "color": "#795548"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 62,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    }
+  ],
+  "seoTitle": "D&G The One EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá D&G The One EDP chính hãng: mùi hổ phách thuốc lá sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Buổi tối",
+    "Hẹn hò",
+    "Gentleman"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "150ml Fullbox"
+  ],
+  "basePrice": 2800000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

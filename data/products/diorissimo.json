@@ -1,0 +1,54 @@
+{
+  "id": "diorissimo",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Diorissimo",
+  "subName": "Eau de Toilette",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/dior-diorissimo-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dior-diorissimo-main.jpg",
+      "source": "amazon",
+      "caption": "DIOR Diorissimo chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nDiorissimo là một tượng đài của mùi hoa linh lan: xanh, trong, thanh và rất tinh tế. Nó không ngọt, không dày, không cố sexy, mà đẹp ở sự sạch, mềm và gần như mong manh. Đây là kiểu mùi floral cổ điển rất khác thị trường hiện nay, hợp với người yêu sự tinh giản và thanh lịch thật sự.\n\nĐiểm mạnh của Diorissimo là độ tinh khiết. Nó cho cảm giác như bó hoa trắng xanh vừa cắt xong, có gió và có ánh sáng. Trong điều kiện Việt Nam, đây là chai rất đẹp cho ban ngày, người thích mùi nhẹ và không muốn mùi hương áp lên không gian quá mạnh.\n\n## Diễn biến trên da\nMở đầu floral xanh rất rõ, sau đó mùi mềm dần nhưng vẫn giữ nét sáng và thanh suốt quá trình dùng. Nó không có nhiều lớp tối hay ngọt; toàn bộ vẻ đẹp nằm ở sự trong trẻo và liền lạc.\n\nDrydown sạch, floral mềm và hơi xanh nhẹ, rất dễ chịu trên da. Nó không tạo cảm giác phô trương mà nghiêng về sự kín đáo. Nhược điểm là ai thích mùi đậm, ngọt hoặc sexy sẽ thấy Diorissimo quá hiền.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nDiorissimo có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương nhẹ đến vừa. Nó hợp đi làm, ban ngày, mùa nóng, gặp gỡ nhẹ hoặc khi muốn một mùi hương thật thanh.\n\nỞ Việt Nam, chai này dùng rất ổn nhờ độ thoáng. Ưu điểm là tinh và lịch sự; nhược điểm là độ statement thấp.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích floral xanh sạch, cổ điển và rất thanh, Diorissimo là lựa chọn đẹp. Nó hợp người yêu nước hoa hoa cỏ theo hướng tinh tế hơn là gây chú ý.\n\nNên mua khi mày cần một chai ban ngày nhẹ và có gu. Nếu mày muốn mùi nổi hoặc ngọt ấm, đây không phải hướng phù hợp.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

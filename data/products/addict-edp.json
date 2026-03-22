@@ -1,0 +1,117 @@
+{
+  "id": "addict-edp",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Addict",
+  "subName": "Eau de Parfum",
+  "perfumer": "François Demachy",
+  "gender": "nu",
+  "image": "/images/products/dior-addict-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dior-addict-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Dior Addict Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nữ hoa trắng-vani gây nghiện nhất Dior — lá cam quýt, hoa cam, nhài Sambac và vani Bourbon. Ngọt, hoa trắng và rất addictive.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi sáng nhẹ nhàng kiểu Miss Dior Blooming Bouquet hay Light Blue thì Addict quá đậm, ngọt và hoa trắng cho gu đó. Ai ghét vani đậm hoặc hoa cam nặng cũng nên tránh. Dùng ban ngày trời nóng sẽ hơi ngọp.\n\n### Có đáng tiền không?\n\nAddict EDP thuộc phân khúc Dior — tương đương J'adore và Miss Dior. So với Miss Dior EDP, Addict ngọt hơn, hoa trắng mạnh hơn và sexy hơn. So với Black Opium (YSL), Addict ít cà phê hơn và nhiều hoa cam-nhài hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá. Đây là chai Dior sexy nhất cho nữ.\n\n### Nên dùng khi nào?\n\nHẹn hò, tiệc, buổi tối, dịp đặc biệt. Xịt 2 nhát: cổ, cổ tay. Đẹp nhất thu đông. Ở Sài Gòn dùng tối hoặc phòng máy lạnh.",
+  "verdict": "Chai Dior nữ sexy nhất — hoa trắng, vani, gây nghiện. Hợp hẹn hò. Không hợp ai thích mùi nhẹ nhàng.",
+  "verdictShort": "HOA TRẮNG VANI, SEXY, GÂY NGHIỆN",
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.2,
+    "compliments": 8.8,
+    "value": 8,
+    "total": 8.5
+  },
+  "vibes": [
+    {
+      "label": "Gây nghiện",
+      "icon": "😵"
+    },
+    {
+      "label": "Sexy",
+      "icon": "🔥"
+    },
+    {
+      "label": "Buổi tối",
+      "icon": "🌙"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": {
+    "spring": 48,
+    "summer": 22,
+    "fall": 85,
+    "winter": 90
+  },
+  "dayNight": {
+    "day": 28,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Lá cam quýt"
+    },
+    {
+      "name": "Hoa cam"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Nhài Sambac"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani Bourbon"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Vani",
+      "value": 82,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Ngọt",
+      "value": 72,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 48,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Phấn",
+      "value": 35,
+      "color": "#d7bde2"
+    }
+  ],
+  "seoTitle": "Dior Addict EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Dior Addict EDP chính hãng: mùi hoa trắng vani gây nghiện, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nữ",
+    "Gây nghiện",
+    "Sexy",
+    "Hoa trắng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 3200000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

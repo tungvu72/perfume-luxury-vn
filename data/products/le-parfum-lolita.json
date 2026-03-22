@@ -1,0 +1,54 @@
+{
+  "id": "le-parfum-lolita",
+  "brandSlug": "lolita-lempicka",
+  "brand": "LOLITA LEMPICKA",
+  "name": "Lolita Lempicka Le Parfum",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/lolita-lempicka-le-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/lolita-lempicka-le-parfum-main.jpg",
+      "source": "amazon",
+      "caption": "LOLITA LEMPICKA Lolita Lempicka Le Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nLolita Lempicka Le Parfum là kiểu gourmand fantasy rất đặc trưng: ngọt, hơi kẹo, hơi thảo mộc và có cảm giác cổ tích đêm. Nó không phải vanilla đơn giản, mà có màu tím đậm, hơi licorice và một chất mơ màng rất riêng. Đây là kiểu mùi dành cho người thích thế giới mùi hương có concept rõ và không quá thực dụng.\n\nĐiểm mạnh của chai này là cá tính. Nó vừa nữ tính vừa bí ẩn, vừa ngọt vừa có cạnh tối nhỏ khiến tổng thể không bị quá phẳng. Trong điều kiện Việt Nam, đây là chai hợp cho tối, đi chơi, hẹn hò hoặc những ai mê mùi ngọt có màu sắc riêng.\n\n## Diễn biến trên da\nMở đầu ngọt khá rõ, sau đó các sắc thảo mộc và nền ấm giúp mùi bớt đơn giản và trở nên sâu hơn. Mùi phát triển theo hướng mượt, ôm và có chút kỳ ảo đúng tinh thần thương hiệu.\n\nDrydown là lớp ngọt tím, mềm, hơi bột và khá gây nghiện nếu hợp gu. Nó không phải kiểu gourmand sạch sẽ đại trà. Nhược điểm là ai không thích licorice hoặc mùi ngọt có cá tính sẽ thấy nó hơi lạ.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nLe Parfum có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, mùa mát, đi chơi, hẹn hò hoặc khi muốn một mùi hương ngọt có câu chuyện riêng.\n\nỞ Việt Nam, nên dùng nhẹ tay nếu trời oi. Ưu điểm là rất riêng và có hình ảnh; nhược điểm là tính đại chúng không cao.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích gourmand fantasy, hơi tím, hơi cổ tích và không ngại cá tính, Lolita Lempicka Le Parfum rất đáng thử. Nó hợp người muốn một mùi ngọt khác số đông.\n\nNên mua khi mày cần một chai tối có màu sắc riêng. Nếu mày thích floral sạch hoặc gourmand đơn giản, nên test trước.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

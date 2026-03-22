@@ -1,0 +1,138 @@
+{
+  "id": "her-edp",
+  "brandSlug": "burberry",
+  "brand": "BURBERRY",
+  "name": "Her",
+  "subName": "Eau de Parfum",
+  "perfumer": "Francis Kurkdjian",
+  "gender": "nu",
+  "image": "/images/products/burberry-her-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/burberry-her-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Burberry Her Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nữ quả mọng ngọt mọng — dâu tây, mâm xôi, hoa violet và vani. Rất trẻ trung, vui vẻ và dễ được khen. Hợp mọi ngày.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi sang trọng, mature kiểu Chanel hay Dior thì Burberry Her sẽ hơi trẻ và hơi \"ngọt vui\" cho gu đó. Đây là mùi quả mọng rất rõ — dâu tây, mâm xôi, cherry — nếu bạn ghét mùi trái cây ngọt thì nên tránh. Ngoài ra, ai muốn mùi phức tạp, có chiều sâu kiểu niche sẽ thấy Burberry Her hơi đơn giản.\n\n### Có đáng tiền không?\n\nBurberry Her thuộc phân khúc designer tầm trung — rẻ hơn Coco Mademoiselle và Black Opium. So với Marc Jacobs Daisy cùng phân khúc trẻ, Burberry Her đậm hơn và ngọt hơn. So với Miss Dior Blooming Bouquet, Burberry Her vui hơn, mọng hơn nhưng ít thanh lịch hơn. Hiệu năng tốt: bám 6-7 giờ, tỏa vừa. Đặc biệt là perfumer Francis Kurkdjian (người tạo BR540) nên chất lượng mùi rất tốt cho tầm giá.\n\n### Nên dùng khi nào?\n\nDùng hằng ngày — đi làm, đi học, đi cà phê, đi chơi. Xịt 2-3 nhát: cổ, cổ tay, tóc. Dùng quanh năm nhưng đẹp nhất xuân hè. Ở Sài Gòn dùng rất thoải mái — quả mọng không bao giờ ngọp. Đây là kiểu chai grab-and-go — xịt xong đi luôn, ai ngửi cũng thấy dễ chịu.",
+  "verdict": "Mùi quả mọng ngọt, trẻ trung và cực kỳ dễ mến. Hợp mọi ngày. Không hợp ai thích mùi sang trọng mature hoặc phức tạp.",
+  "verdictShort": "QUẢ MỌNG, TRẺ, DỄ MẾN",
+  "score": {
+    "scent": 8.3,
+    "uniqueness": 7.6,
+    "compliments": 8.8,
+    "value": 8.4,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Trẻ trung",
+      "icon": "⚡"
+    },
+    {
+      "label": "Vui vẻ",
+      "icon": "🍓"
+    },
+    {
+      "label": "Hằng ngày",
+      "icon": "🧴"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": {
+    "spring": 90,
+    "summer": 78,
+    "fall": 55,
+    "winter": 40
+  },
+  "dayNight": {
+    "day": 85,
+    "night": 40
+  },
+  "topNotes": [
+    {
+      "name": "Dâu tây"
+    },
+    {
+      "name": "Mâm xôi"
+    },
+    {
+      "name": "Mâm xôi đen"
+    },
+    {
+      "name": "Cherry chua"
+    },
+    {
+      "name": "Lý chua đen"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa violet"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Cashmeran"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Trái cây",
+      "value": 100,
+      "color": "#e74c3c"
+    },
+    {
+      "name": "Ngọt",
+      "value": 88,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Quả mọng",
+      "value": 82,
+      "color": "#c0392b"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 55,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Vani",
+      "value": 48,
+      "color": "#F5DEB3"
+    }
+  ],
+  "seoTitle": "Burberry Her EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Burberry Her EDP chính hãng: mùi dâu quả mọng trẻ trung, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nữ",
+    "Trẻ trung",
+    "Quả mọng",
+    "Hằng ngày"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1900000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

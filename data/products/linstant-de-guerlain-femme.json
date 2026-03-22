@@ -1,0 +1,54 @@
+{
+  "id": "linstant-de-guerlain-femme",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "L'Instant de Guerlain",
+  "subName": "Eau de Parfum",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/guerlain-linstant-de-guerlain-femme-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/guerlain-linstant-de-guerlain-femme-main.jpg",
+      "source": "amazon",
+      "caption": "GUERLAIN L'Instant de Guerlain chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nL’Instant de Guerlain Femme là một mùi nữ rất đẹp theo kiểu Guerlain: floral ấm, mềm, có chút gourmand nhẹ nhưng vẫn sang và rất nữ tính. Nó không hoàn toàn cổ điển nặng đô, cũng không chạy theo style ngọt trẻ, mà nằm ở vùng trưởng thành, tinh tế và hơi lãng mạn. Đây là chai dành cho người thích mùi nữ có chiều sâu mà vẫn mềm mại.\n\nĐiểm mạnh của chai này là độ duyên. Nó không cố gây ấn tượng bằng sự bùng nổ, mà chinh phục bằng sự mượt và rất “đàn bà”. Trong điều kiện Việt Nam, chai này hợp tối nhẹ, đi làm phòng lạnh, gặp gỡ hoặc người thích mùi floral ấm có chất Guerlain rõ nhưng dễ tiếp cận hơn các tượng đài vintage.\n\n## Diễn biến trên da\nMở đầu mềm với floral khá nhanh, sau đó nền ấm và chút ngọt nhẹ làm tổng thể tròn hơn, mượt hơn và giàu cảm xúc hơn. Mùi phát triển đẹp ở cách các lớp hòa vào nhau rất tự nhiên.\n\nDrydown là lớp floral ấm, mềm và hơi bột nhẹ, tạo cảm giác rất ôm. Nó nữ tính mà không yếu. Nhược điểm là ai thích mùi rất sắc nét hoặc rất hiện đại có thể thấy nó hơi dịu.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nL’Instant de Guerlain Femme có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, tối nhẹ, hẹn hò, gặp gỡ lịch sự hoặc làm signature nữ theo hướng mềm sang.\n\nỞ Việt Nam, chai này dùng khá ổn nếu tiết chế. Ưu điểm là thanh lịch và có chiều sâu; nhược điểm là không phải kiểu mùi “đập vào mặt” ngay lập tức.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích floral ấm, mềm và rất nữ tính theo phong cách Guerlain, L’Instant de Guerlain Femme là lựa chọn rất đáng thử. Nó hợp người thích vẻ đẹp trưởng thành, tinh tế và không ồn ào.\n\nNên mua khi mày cần một chai nữ dễ sống nhưng vẫn có hồn. Nếu mày muốn mùi thật trẻ, thật ngọt hoặc cực kỳ hiện đại, nên chọn hướng khác.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

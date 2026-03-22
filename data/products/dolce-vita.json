@@ -1,0 +1,54 @@
+{
+  "id": "dolce-vita",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Dolce Vita",
+  "subName": "Eau de Toilette",
+  "perfumer": "BLOCKED_SOURCE",
+  "gender": "nu",
+  "image": "/images/products/dior-dolce-vita-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dior-dolce-vita-main.jpg",
+      "source": "amazon",
+      "caption": "DIOR Dolce Vita chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "(Chờ nguồn xác minh)",
+  "productCopy": "## Mùi hương tổng thể\nDolce Vita là một mùi nữ ấm, cay nhẹ, gỗ và hơi fruity theo cách rất riêng của Dior thời cũ. Nó không floral sáng kiểu dễ mặc hiện đại, mà có độ vàng, dày và hơi retro rất đẹp. Đây là kiểu mùi gợi cảm theo hướng chững chạc, có cá tính và không cố làm hài lòng tất cả mọi người.\n\nĐiểm đặc biệt của Dolce Vita là màu sắc. Nó tạo cảm giác nắng vàng, vải vóc, da thịt ấm và chút xa hoa cổ điển. Trong khí hậu Việt Nam, chai này hợp với người thích mùi nữ trưởng thành, có chiều sâu và không ngại nét vintage.\n\n## Diễn biến trên da\nMở đầu có sắc trái cây và gia vị nhẹ, sau đó nền gỗ ấm làm tổng thể trở nên dày hơn, mềm hơn và sang hơn. Mùi chuyển tầng khá mượt, không quá gắt nhưng luôn có sự hiện diện rõ.\n\nDrydown là lớp ấm, mềm và hơi spicy rất đẹp. Nó không ngọt kiểu trẻ, mà quyến rũ theo hướng trưởng thành. Nhược điểm là người thích floral tươi hoặc gourmand hiện đại có thể thấy nó hơi lạ.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nDolce Vita có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, mùa mát, đi ăn tối, gặp gỡ hoặc những lúc muốn mùi hương có màu sắc riêng.\n\nỞ Việt Nam, dùng đẹp nhất về chiều tối hoặc phòng lạnh. Ưu điểm là cá tính và sang; nhược điểm là không phải kiểu an toàn đại trà.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích mùi nữ ấm, hơi retro, hơi spicy và rất có thần thái, Dolce Vita là cái tên đáng thử. Nó hợp người muốn một chai có cá tính hơn mặt bằng floral hiện đại.\n\nNên mua khi mày cần một mùi nữ trưởng thành và khác biệt. Nếu mày thích sự trong trẻo dễ thương, nên test trước kỹ.",
+  "article": "(Chờ Coder viết bài)",
+  "score": {
+    "scent": 0,
+    "uniqueness": 0,
+    "compliments": 0,
+    "value": 0,
+    "total": 0
+  },
+  "vibes": [],
+  "longevity": 0,
+  "sillage": 0,
+  "seasons": {
+    "spring": 0,
+    "summer": 0,
+    "fall": 0,
+    "winter": 0
+  },
+  "dayNight": {
+    "day": 0,
+    "night": 0
+  },
+  "topNotes": [],
+  "middleNotes": [],
+  "baseNotes": [],
+  "accords": [],
+  "tags": [
+    "Nữ",
+    "NEEDS_SOURCE"
+  ],
+  "sizes": [],
+  "basePrice": 0,
+  "verdict": "(Chờ nguồn xác minh)",
+  "verdictShort": "NEEDS_SOURCE",
+  "shopeeOffers": []
+}

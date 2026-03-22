@@ -1,0 +1,131 @@
+{
+  "id": "tuscan-leather",
+  "brandSlug": "tom-ford",
+  "brand": "TOM FORD",
+  "name": "Tuscan Leather",
+  "subName": "Eau de Parfum",
+  "perfumer": "Tom Ford",
+  "gender": "unisex",
+  "image": "/images/products/tom-ford-tuscan-leather-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/tom-ford-tuscan-leather-main.jpg",
+      "source": "fragram",
+      "caption": "Tom Ford Tuscan Leather Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai da thuộc huyền thoại — mâm xôi, nghệ tây, húng tây, trầm hương, nhài, da thuộc và hổ phách. Mạnh, thô và cực kỳ nam tính.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi da thì Tuscan Leather là chai da GẮT NHẤT — opening như bước vào xưởng thuộc da. Ai thích mùi ngọt mềm hoặc mùi sạch nhẹ cũng nên tránh xa. Ngoài ra, chai này rất nặng ở opening — cần 20-30 phút để settle down. Không phải chai cho người mới.\n\n### Có đáng tiền không?\n\nTuscan Leather thuộc phân khúc Tom Ford Private Blend — top giá. So với Ombré Leather cùng hãng, Tuscan Leather thô hơn, gắt hơn và legendary hơn. So với Encre Noire (cùng nhóm cá tính), Tuscan Leather da hơn rất nhiều. Hiệu năng quái vật: bám 10+ giờ, tỏa mạnh. Đây là chai da thuộc huyền thoại — không chai nào thay thế được.\n\n### Nên dùng khi nào?\n\nMùa đông, buổi tối, sự kiện, áo da. Xịt 1-2 nhát — tỏa cực mạnh. Đẹp nhất khi dưới 20°C. Ở Việt Nam chỉ nên dùng mùa lạnh Hà Nội hoặc phòng máy lạnh rất mạnh.",
+  "verdict": "Da thuộc huyền thoại — gắt, mạnh và không thể thay thế. Bám 10h+. Chỉ dành cho người hiểu và đam mê.",
+  "verdictShort": "DA THUỘC HUYỀN THOẠI",
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 10,
+    "compliments": 7,
+    "value": 7.2,
+    "total": 8.4
+  },
+  "vibes": [
+    {
+      "label": "Huyền thoại",
+      "icon": "👑"
+    },
+    {
+      "label": "Cá tính",
+      "icon": "🖤"
+    },
+    {
+      "label": "Mạnh mẽ",
+      "icon": "💪"
+    }
+  ],
+  "longevity": 10,
+  "sillage": 9,
+  "seasons": {
+    "spring": 18,
+    "summer": 5,
+    "fall": 78,
+    "winter": 100
+  },
+  "dayNight": {
+    "day": 10,
+    "night": 95
+  },
+  "topNotes": [
+    {
+      "name": "Mâm xôi"
+    },
+    {
+      "name": "Nghệ tây"
+    },
+    {
+      "name": "Húng tây"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Trầm hương"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Da lộn"
+    },
+    {
+      "name": "Gỗ"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Da thuộc",
+      "value": 100,
+      "color": "#795548"
+    },
+    {
+      "name": "Trái cây",
+      "value": 62,
+      "color": "#c0392b"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 48,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gia vị",
+      "value": 42,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Tom Ford Tuscan Leather chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Tom Ford Tuscan Leather chính hãng: mùi da thuộc huyền thoại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Unisex",
+    "Da thuộc",
+    "Huyền thoại",
+    "Cá tính"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 7500000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

@@ -1,0 +1,128 @@
+{
+  "id": "hacivat",
+  "brandSlug": "nishane",
+  "brand": "NISHANE",
+  "name": "Hacivat",
+  "subName": "Extrait de Parfum",
+  "perfumer": "Jorge Lee",
+  "gender": "unisex",
+  "image": "/images/products/nishane-hacivat-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/nishane-hacivat-main.jpg",
+      "source": "fragram",
+      "caption": "Nishane Hacivat Extrait de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai niche sáng sang nhất — dứa, bưởi, cam bergamot, gỗ tuyết tùng, hoắc hương và rêu sồi. Sạch, sắc và rất premium. Unisex.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt ấm mềm kiểu Valentino BIRI hay Angels' Share thì Hacivat hoàn toàn ngược — đây là mùi sáng, sắc và hơi lạnh. Ai thích mùi tình cảm, ôm da cũng sẽ thấy Hacivat hơi xa cách. Ngoài ra, rêu sồi ở base khá mạnh — kén người ghét mùi xanh khoáng.\n\n### Có đáng tiền không?\n\nHacivat thuộc phân khúc niche cao cấp Nishane — đắt hơn Mancera nhưng rẻ hơn Creed. So với Creed Aventus (cùng DNA), Hacivat sáng hơn, sạch hơn và ít khói hơn. So với Cedrat Boisé, Hacivat sang hơn và rêu sồi rõ hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa rất mạnh — Extrait de Parfum nên cực kỳ bền. Đây là chai premium Aventus DNA.\n\n### Nên dùng khi nào?\n\nĐi làm, gặp khách VIP, sự kiện, ban ngày. Xịt 2 nhát — tỏa rất mạnh. Đẹp nhất mùa xuân hè. Ở Sài Gòn dùng quanh năm. Perfect cho ai muốn mùi signature cao cấp.",
+  "verdict": "Chai niche sáng sang nhất — dứa, gỗ, rêu sồi. Bám 10h+. Hợp đi làm, premium. Hơi sắc cho ai thích mùi mềm.",
+  "verdictShort": "SÁNG, SANG, PREMIUM",
+  "score": {
+    "scent": 9,
+    "uniqueness": 8.5,
+    "compliments": 9,
+    "value": 8,
+    "total": 8.6
+  },
+  "vibes": [
+    {
+      "label": "Premium",
+      "icon": "💎"
+    },
+    {
+      "label": "Đa dụng",
+      "icon": "🔄"
+    },
+    {
+      "label": "Unisex",
+      "icon": "✨"
+    }
+  ],
+  "longevity": 10,
+  "sillage": 9,
+  "seasons": {
+    "spring": 85,
+    "summer": 75,
+    "fall": 72,
+    "winter": 52
+  },
+  "dayNight": {
+    "day": 85,
+    "night": 52
+  },
+  "topNotes": [
+    {
+      "name": "Dứa"
+    },
+    {
+      "name": "Bưởi"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Gỗ"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Trái cây",
+      "value": 100,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 82,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Xanh",
+      "value": 58,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Rêu sồi",
+      "value": 48,
+      "color": "#4a6741"
+    }
+  ],
+  "seoTitle": "Nishane Hacivat chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Nishane Hacivat chính hãng: mùi dứa gỗ rêu sồi premium, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Premium",
+    "Đa dụng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 4500000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

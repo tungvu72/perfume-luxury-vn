@@ -1,0 +1,151 @@
+{
+  "id": "halfeti",
+  "brandSlug": "penhaligons",
+  "brand": "PENHALIGON'S",
+  "name": "Halfeti",
+  "subName": "Eau de Parfum",
+  "perfumer": "Christian Provenzano",
+  "gender": "unisex",
+  "image": "/images/products/penhaligons-halfeti-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/penhaligons-halfeti-main.jpg",
+      "source": "fragram",
+      "caption": "Penhaligon's Halfeti Eau de Parfum chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai niche oud-hoa hồng-gia vị bí ẩn nhất — bách, nghệ tây, bạch đậu khấu, hoa hồng Bulgaria, nhục đậu khấu, oud, da thuộc và vani. Tối, phức tạp và rất nghệ thuật.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi sạch tươi đơn giản thì Halfeti quá phức tạp — đây là mùi oud-hoa hồng-gia vị nhiều lớp rất nghệ thuật. Ai ghét oud hoặc nghệ tây cũng nên tránh. Giá Penhaligon's rất cao.\n\n### Có đáng tiền không?\n\nHalfeti thuộc phân khúc British niche — tương đương Xerjoff. So với African Leather (cùng nhóm oud-gia vị), Halfeti tinh tế hơn, có hoa hồng rõ hơn. So với Tom Ford Oud Wood, Halfeti ấm hơn và nhiều gia vị hơn. Hiệu năng tốt: bám 8-9 giờ, tỏa khá. Đây là chai hoa hồng đen — lấy cảm hứng từ làng Halfeti nổi tiếng hoa hồng đen.\n\n### Nên dùng khi nào?\n\nMùa thu đông, buổi tối, dịp đặc biệt, sự kiện VIP. Xịt 2 nhát: cổ, ngực. Đẹp nhất khi trời mát. Ở Sài Gòn chỉ dùng tối hoặc phòng máy lạnh.",
+  "verdict": "Chai hoa hồng đen-oud bí ẩn nhất — phức tạp, nghệ thuật. Bám 9h. Hợp collector và connoisseur.",
+  "verdictShort": "HOA HỒNG ĐEN, OUD, BÍ ẨN",
+  "score": {
+    "scent": 9.2,
+    "uniqueness": 9.5,
+    "compliments": 8,
+    "value": 7,
+    "total": 8.4
+  },
+  "vibes": [
+    {
+      "label": "Bí ẩn",
+      "icon": "🖤"
+    },
+    {
+      "label": "Nghệ thuật",
+      "icon": "🎭"
+    },
+    {
+      "label": "Dịp đặc biệt",
+      "icon": "🥂"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 8,
+  "seasons": {
+    "spring": 28,
+    "summer": 8,
+    "fall": 82,
+    "winter": 98
+  },
+  "dayNight": {
+    "day": 15,
+    "night": 92
+  },
+  "topNotes": [
+    {
+      "name": "Bách"
+    },
+    {
+      "name": "Nghệ tây"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Bưởi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng Bulgaria"
+    },
+    {
+      "name": "Nhục đậu khấu"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Oud"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 82,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Oud",
+      "value": 72,
+      "color": "#3e2723"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 58,
+      "color": "#795548"
+    },
+    {
+      "name": "Hoa",
+      "value": 48,
+      "color": "#e91e63"
+    }
+  ],
+  "seoTitle": "Penhaligon's Halfeti chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Penhaligon's Halfeti chính hãng: mùi hoa hồng đen oud bí ẩn, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Bí ẩn",
+    "Oud"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "100ml Fullbox"
+  ],
+  "basePrice": 6500000,
+  "shopeeOffers": [],
+  "isPublished": true
+}

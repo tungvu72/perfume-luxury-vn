@@ -1,0 +1,144 @@
+{
+  "id": "eau-sauvage",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Eau Sauvage",
+  "subName": "Eau de Toilette",
+  "perfumer": "Edmond Roudnitska",
+  "gender": "nam",
+  "image": "/images/products/dior-eau-sauvage-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/dior-eau-sauvage-main.jpg",
+      "source": "fragram",
+      "caption": "Dior Eau Sauvage Eau de Toilette chính hãng",
+      "verified": true
+    }
+  ],
+  "description": "Chai nam kinh điển nhất lịch sử Dior từ 1966 — chanh, cam bergamot, húng quế, nhài, cỏ hương bài, rêu sồi và xạ hương. Tươi, sạch và bất tử.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt ấm hiện đại kiểu Sauvage EDP (cái tên giống nhau nhưng hoàn toàn khác) thì Eau Sauvage quá citrus-thảo mộc và quá cổ điển. Ai cần beast mode bám cả ngày cũng sẽ thất vọng — đây là EDT 1966, bám 4-5 giờ. Người dưới 30 có thể thấy nó \"bố\".\n\n### Có đáng tiền không?\n\nEau Sauvage thuộc phân khúc Dior — giá tốt cho chai huyền thoại 60 năm. So với Sauvage EDP (cùng hãng), Eau Sauvage nhẹ hơn, citrus hơn và hoàn toàn khác DNA. So với Terre d'Hermès, Eau Sauvage tươi hơn và ít earth hơn. Hiệu năng yếu (EDT cổ điển) nhưng giá rẻ. Đáng mua cho collection.\n\n### Nên dùng khi nào?\n\nMùa hè, ban ngày, đi làm, dạo phố kiểu gentleman. Xịt 3-4 nhát vì tỏa nhẹ. Đẹp nhất khi trời nắng ấm. Ở Sài Gòn dùng quanh năm.",
+  "verdict": "Chai citrus kinh điển nhất 1966 — tươi, sạch, gentleman. 60 năm không lỗi thời. Bám yếu nhưng chất.",
+  "verdictShort": "KINH ĐIỂN 1966, CITRUS, GENTLEMAN",
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.5,
+    "compliments": 7.5,
+    "value": 8,
+    "total": 8.1
+  },
+  "vibes": [
+    {
+      "label": "Kinh điển",
+      "icon": "👑"
+    },
+    {
+      "label": "Gentleman",
+      "icon": "🎩"
+    },
+    {
+      "label": "Ban ngày",
+      "icon": "☀️"
+    }
+  ],
+  "longevity": 4,
+  "sillage": 5,
+  "seasons": {
+    "spring": 88,
+    "summer": 82,
+    "fall": 45,
+    "winter": 28
+  },
+  "dayNight": {
+    "day": 92,
+    "night": 28
+  },
+  "topNotes": [
+    {
+      "name": "Chanh"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Húng quế"
+    },
+    {
+      "name": "Hương thảo"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Rau mùi"
+    },
+    {
+      "name": "Hoa cẩm chướng"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Oải hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 82,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gia vị tươi",
+      "value": 65,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Gỗ",
+      "value": 52,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Rêu",
+      "value": 42,
+      "color": "#4a6741"
+    }
+  ],
+  "seoTitle": "Dior Eau Sauvage chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Dior Eau Sauvage chính hãng: mùi citrus kinh điển 1966, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": [
+    "Nam",
+    "Kinh điển",
+    "Citrus",
+    "Gentleman"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "200ml Fullbox"
+  ],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
+}
