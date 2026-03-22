@@ -4,51 +4,46 @@
   "brand": "ACQUA DI PARMA",
   "name": "Colonia",
   "subName": "Eau de Cologne",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Carlo Magnani",
   "gender": "unisex",
   "image": "/images/products/acqua-di-parma-colonia-main.jpg",
   "images": [
     {
       "url": "/images/products/acqua-di-parma-colonia-main.jpg",
-      "source": "amazon",
-      "caption": "ACQUA DI PARMA Colonia chính hãng",
+      "source": "fragram",
+      "caption": "Acqua di Parma Colonia Eau de Cologne chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nColonia là hình mẫu của citrus cổ điển Ý: sáng, sạch, thanh lịch và cực kỳ gọn gàng. Nó không theo hướng trẻ trung ngọt hoặc quá sporty, mà là vẻ đẹp của áo sơ mi trắng, barber tinh tế và phong thái lịch sự nhẹ nhàng. Đây là một trong những mùi citrus kinh điển cho người thích sự thanh sạch đúng nghĩa.\n\nĐiểm mạnh của Colonia là khí chất. Nó không cần phải đậm mới sang, mà sang ở cách đứng rất thẳng, rất sạch và rất chuẩn. Trong khí hậu Việt Nam, chai này hợp ban ngày, đi làm, gặp gỡ lịch sự hoặc những ai thích mùi citrus không đại trà kiểu shower gel.\n\n## Diễn biến trên da\nMở đầu citrus rất sáng và tự nhiên, sau đó lavender/aromatic nhẹ cùng nền gỗ - xạ giúp tổng thể tròn hơn mà vẫn giữ nét mát thanh. Mùi phát triển tinh tế, ít phô trương.\n\nDrydown sạch, hơi barbershop và cực kỳ lịch thiệp. Nó không sexy trực diện, nhưng rất có gu. Nhược điểm là hiệu năng không thuộc nhóm mạnh và tính hiện đại “wow” không cao.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nColonia có độ lưu hương vừa, khoảng 4-6 giờ; tỏa hương nhẹ đến vừa. Nó hợp đi làm, buổi sáng, mùa nóng, gặp đối tác hoặc làm chai fresh thanh lịch hằng ngày.\n\nỞ Việt Nam, chai này dùng rất hợp nhờ độ thoáng. Ưu điểm là đẹp, sạch và sang kiểu cổ điển; nhược điểm là ai thích mùi đậm sẽ thấy hơi hiền.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích citrus thanh lịch, barbershop sạch và khí chất Ý cổ điển, Colonia là lựa chọn rất đáng thử. Nó hợp người thích mùi hương gọn, có giáo dưỡng và không cần phô trương.\n\nNên mua khi mày cần một chai buổi sáng thật đẹp. Nếu mày muốn hiệu năng mạnh hoặc vibe hiện đại hơn, nên cân nhắc hướng khác.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Unisex",
-    "NEEDS_SOURCE"
+  "description": "Chai citrus kinh điển nhất nước Ý từ 1916 — cam Sicily, oải hương, cỏ roi ngựa chanh, hương thảo, hoa hồng Bulgaria, nhài, hổ phách, gỗ đàn hương và cỏ hương bài. Sáng, sạch và vượt thời gian.",
+  "article": "### Ai không nên mua?\n\nNếu bạn cần beast mode bám 10 giờ thì Colonia không dành cho bạn — đây là Eau de Cologne, bám 3-4 giờ. Ai thích mùi ngọt đậm cũng sẽ thấy chai này quá nhẹ và quá sạch. Giá Acqua di Parma khá cao cho EDC.\n\n### Có đáng tiền không?\n\nColonia thuộc phân khúc Italian luxury — 110 năm tuổi. So với Dior Eau Sauvage, Colonia ấm hơn và nhiều hoa hơn. So với 4711 Original, Colonia sang hơn rất nhiều với chất liệu đỉnh. Hiệu năng yếu (EDC) nhưng blend đỉnh cao. Đáng mua cho connoisseur và collection.\n\n### Nên dùng khi nào?\n\nMùa hè, ban ngày, đi brunch, dạo phố kiểu gentleman Ý. Xịt 4-5 nhát vì tỏa nhẹ. Đẹp nhất khi trời nóng. Ở Sài Gòn dùng quanh năm.",
+  "verdict": "Chai citrus 110 năm bất tử — sáng, sạch, gentleman Ý. Bám yếu nhưng blend đỉnh cao. Collector piece.",
+  "verdictShort": "CITRUS KINH ĐIỂN 1916, Ý, BẤT TỬ",
+  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 7.5, "value": 7.0, "total": 8.0 },
+  "vibes": [
+    { "label": "Kinh điển", "icon": "👑" },
+    { "label": "Gentleman", "icon": "🎩" },
+    { "label": "Mùa hè", "icon": "☀️" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 3,
+  "sillage": 4,
+  "seasons": { "spring": 85, "summer": 92, "fall": 42, "winter": 22 },
+  "dayNight": { "day": 92, "night": 22 },
+  "topNotes": [{ "name": "Cam Sicily" }, { "name": "Oải hương" }, { "name": "Cỏ roi ngựa chanh" }, { "name": "Hương thảo" }],
+  "middleNotes": [{ "name": "Hoa hồng Bulgaria" }, { "name": "Hoa nhài" }],
+  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Xạ hương nhẹ" }, { "name": "Gỗ đàn hương" }, { "name": "Hoắc hương" }, { "name": "Cỏ hương bài" }],
+  "accords": [
+    { "name": "Cam chanh", "value": 100, "color": "#f1c40f" },
+    { "name": "Thơm thảo mộc", "value": 78, "color": "#2c7a4b" },
+    { "name": "Gia vị tươi", "value": 62, "color": "#27ae60" },
+    { "name": "Gỗ", "value": 48, "color": "#8B4513" },
+    { "name": "Phấn", "value": 35, "color": "#d7bde2" }
+  ],
+  "seoTitle": "Acqua di Parma Colonia chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Acqua di Parma Colonia chính hãng: mùi citrus kinh điển 1916, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Unisex", "Kinh điển", "Citrus", "Mùa hè"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "180ml Fullbox"],
+  "basePrice": 3200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
