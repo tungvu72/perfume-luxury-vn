@@ -8107,42 +8107,42 @@ Nếu bạn nghe "oud" và tưởng tượng mùi thú vật gắt kiểu Trung 
     perfumer: "Richard Herpin",
     gender: "unisex",
     image: "/images/products/tom-ford-oud-wood-main.jpg",
-    images: [{ url: "/images/products/tom-ford-oud-wood-main.jpg", source: "fragram", caption: "Tom Ford Oud Wood chính hãng", verified: true }],
-    description: "Chai gỗ trầm sang trọng nhất dòng Private Blend — oud sạch, gỗ đàn hương mịn, gia vị nhẹ. Rất dễ tiếp cận cho người muốn thử oud mà không bị sốc.",
+    images: [{ url: "/images/products/tom-ford-oud-wood-main.jpg", source: "fragram", caption: "Tom Ford Oud Wood Eau de Parfum chính hãng", verified: true }],
+    description: "Chai niche oud-gỗ-gia vị tối giản nhất — trầm hương, gỗ hồng Brazil, bạch đậu khấu, gỗ đàn hương, tiêu Tứ Xuyên, vani, cỏ hương bài, đậu Tonka và hổ phách. Gỗ khô, thanh và rất clean.",
     article: `### Ai không nên mua?
 
-Nếu bạn muốn một chai oud nặng, tối và quái kiểu Trung Đông truyền thống thì Oud Wood sẽ quá hiền. Đây là kiểu oud Tây hóa — sạch, mịn và sang kiểu luxury, không phải oud thú. Ai thích mùi fresh tươi mát kiểu thể thao hay citrus cũng không nên mua vì Oud Wood hoàn toàn ngược hướng. Ngoài ra, hiệu năng chai này không thuộc nhóm mạnh — nếu bạn cần mùi tỏa xa cả ngày thì sẽ thất vọng.
+Nếu bạn tìm chai oud "Trung Đông" — nặng, ngọt, nhựa, phả vào mặt — thì Oud Wood sẽ làm thất vọng. Đây là oud "phương Tây hóa": khô, sạch, thanh, gần như minimalist. Nhiều người xịt lần đầu sẽ hỏi "oud đâu?" vì nó nằm sâu bên trong thay vì nhảy ra ngoài mặt. Ngoài ra, giá Tom Ford rất cao — và với mùi nhẹ nhàng này, nhiều người cảm thấy không "xứng" với số tiền bỏ ra vì kỳ vọng gì đó mạnh hơn.
 
 ### Có đáng tiền không?
 
-Oud Wood thuộc phân khúc niche cao cấp — dòng Private Blend của Tom Ford. So với các chai oud Trung Đông cùng tầm giá, Oud Wood tinh tế hơn và dễ dùng hằng ngày hơn nhiều. So với Baccarat Rouge 540 cùng phân khúc niche, Oud Wood tối hơn, gỗ hơn và ít ngọt hơn. Nhược điểm là hiệu năng vừa phải — khoảng 6-7 giờ, tỏa vừa. Nhưng bù lại, mùi rất sang và phù hợp nhiều dịp. Nên mua chiết 5-10ml dùng thử trước vì đây là khoản đầu tư lớn.
+Đắt. Nhưng Oud Wood tạo ra cả một phân khúc clone — gần như mọi hãng dupe trên thị trường đều có bản copy chai này. So với MFK Oud Satin Mood — cùng oud niche — thì Oud Wood khô hơn, ít hoa hơn và masculine hơn. So với Rasasi La Yuqawam — clone nổi tiếng nhất — thì original mượt hơn, ít gắt hơn và lắng xuống đẹp hơn. Bám 6-7 giờ, tỏa nhẹ — kiểu skin scent gỗ trầm. Chai dành cho người thích sự tối giản sang trọng.
 
 ### Nên dùng khi nào?
 
-Đẹp nhất khi đi ăn tối, dự tiệc hoặc những dịp cần hình ảnh lịch thiệp, cao cấp. Xịt 2-3 nhát: cổ, sau tai và cổ tay. Hợp trời mát — mùa đông Hà Nội hoặc phòng máy lạnh Sài Gòn. Dùng được cả ban ngày nếu trong môi trường công sở lịch sự. Đừng dùng ngày nóng 35°C ngoài trời vì gỗ + gia vị khi nóng sẽ hơi ngọp.`,
-    verdict: "Chai oud sang nhất cho người muốn thử oud mà không bị sốc. Gỗ mịn, gia vị nhẹ, rất tinh tế. Hiệu năng vừa phải nhưng bù lại bằng sự thanh lịch.",
-    verdictShort: "OUD SANG, TINH TẾ, DỄ MẶC",
-    score: { scent: 9, uniqueness: 8.8, compliments: 8.2, value: 6.8, total: 8.2 },
-    vibes: [{ label: "Sang trọng", icon: "💎" }, { label: "Lịch thiệp", icon: "🎩" }, { label: "Gỗ trầm", icon: "🌿" }],
+Đi làm ở văn phòng sang, ăn tối nhẹ nhàng, gặp khách hàng, hoặc bất cứ khi nào cần "có mùi" mà không muốn nổi bật. Xịt 3 nhát: cổ, ngực, cổ tay — vì tỏa nhẹ. Dùng quanh năm nhưng đẹp nhất thu đông. Ở Sài Gòn dùng thoải mái vì rất nhẹ. Hà Nội mùa đông thì bạch đậu khấu và gỗ ấm lên đẹp.`,
+    verdict: "Oud phương Tây hóa — gỗ khô, sạch, minimalist. Tom Ford kinh điển. Cho ai thích tối giản sang trọng.",
+    verdictShort: "OUD GỖ KHÔ, TỐI GIẢN, SANG TRỌNG",
+    score: { scent: 9, uniqueness: 8.5, compliments: 8, value: 6.5, total: 8 },
+    vibes: [{ label: "Tối giản", icon: "🪵" }, { label: "Sang trọng", icon: "💎" }, { label: "Office", icon: "💼" }],
     longevity: 7,
     sillage: 6,
-    seasons: { spring: 55, summer: 25, fall: 85, winter: 90 },
-    dayNight: { day: 40, night: 80 },
-    topNotes: [{ name: "Gỗ trầm hương" }, { name: "Gỗ hồng Brasil" }, { name: "Bạch đậu khấu" }],
+    seasons: { spring: 68, summer: 45, fall: 82, winter: 78 },
+    dayNight: { day: 68, night: 65 },
+    topNotes: [{ name: "Trầm hương" }, { name: "Gỗ hồng Brazil" }, { name: "Bạch đậu khấu" }],
     middleNotes: [{ name: "Gỗ đàn hương" }, { name: "Tiêu Tứ Xuyên" }],
     baseNotes: [{ name: "Vani" }, { name: "Cỏ hương bài" }, { name: "Đậu Tonka" }, { name: "Hổ phách" }],
     accords: [
       { name: "Gỗ", value: 100, color: "#8B4513" },
-      { name: "Gia vị ấm", value: 78, color: "#b05c00" },
-      { name: "Trầm hương", value: 72, color: "#3E2723" },
-      { name: "Thơm thảo mộc", value: 58, color: "#2c7a4b" },
-      { name: "Vani", value: 48, color: "#F5DEB3" }
+      { name: "Oud", value: 78, color: "#3e2723" },
+      { name: "Gia vị ấm", value: 62, color: "#e67e22" },
+      { name: "Hổ phách", value: 48, color: "#d4a017" },
+      { name: "Vani", value: 38, color: "#F5DEB3" }
     ],
     seoTitle: "Tom Ford Oud Wood chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Tom Ford Oud Wood chính hãng: mùi gỗ trầm sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Unisex","Niche","Gỗ trầm","Sang trọng"],
-    sizes: ["5ml Chiết","10ml Chiết","50ml Fullbox","100ml Fullbox"],
-    basePrice: 6500000,
+    metaDescription: "Đánh giá Tom Ford Oud Wood chính hãng: mùi oud gỗ tối giản sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Tối giản","Sang trọng"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 7000000,
     shopeeOffers: [],
     isPublished: true
   },
@@ -9476,47 +9476,49 @@ Nên mua khi mày cần một chai đi chơi hoặc mùa mát có chất riêng.
     brand: "TOM FORD",
     name: "Tobacco Vanille",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Olivier Gillotin",
     gender: "unisex",
     image: "/images/products/tom-ford-tobacco-vanille-main.jpg",
-    images: [{ url: "/images/products/tom-ford-tobacco-vanille-main.jpg", source: "amazon", caption: "TOM FORD Tobacco Vanille chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Tobacco Vanille là một trong những mùi thuốc lá-vanilla nổi tiếng nhất vì nó làm rất rõ hai chữ đậm và sang. Thuốc lá ở đây không bụi bặm kiểu khói thuốc thực tế, mà khô, ngọt, dày và được phủ bởi vanilla, cacao, trái cây khô cùng gia vị ấm. Kết quả là một mùi hương rất giàu texture, rất tối và cực kỳ hợp buổi tối.
+    images: [
+      { url: "/images/products/tom-ford-tobacco-vanille-main.jpg", source: "fragram", caption: "Tom Ford Tobacco Vanille Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai niche thuốc lá-vani đỉnh nhất Tom Ford — thuốc lá, gia vị, gừng, vani, cacao, đậu Tonka, hoa thuốc lá, trái cây khô và gỗ. Ngọt, ấm và sang trọng tuyệt đối.",
+    article: `### Ai không nên mua?
 
-Điểm ăn tiền của Tobacco Vanille là khí chất luxury rõ ràng ngay từ đầu. Nó không cần tinh tế kiểu kín đáo; chỉ cần lên da là đã thấy sang tối và có lực. Trong điều kiện Việt Nam, đây là chai dùng đẹp nhất khi trời mát, phòng máy lạnh, đi event, đi tối hoặc những dịp muốn mùi hương thật sự nổi bật.
+Nếu bạn dị ứng với mùi thuốc lá — dù chỉ liên tưởng — thì Tobacco Vanille sẽ là cực hình. Mùi thuốc lá ở đây không phải mùi tàn thuốc trong gạt tàn, mà là mùi lá thuốc thượng hạng để trong hộp gỗ ở phòng cigar — nhưng vẫn là thuốc lá. Ngoài ra, chai này NGỌT không kém mùi nữ — vani và cacao đậm đến mức nhiều người nói "mùi nước hoa con gái". Nếu bạn muốn mùi nam tính truyền thống thẳng thừng, Tobacco Vanille sẽ gây hoang mang.
 
-## Diễn biến trên da
-Mở đầu là thuốc lá khô và gia vị rõ nét, sau đó vanilla cùng cacao làm mùi tròn và dày lên rất nhanh. Trên da ấm, tổng thể có thể rất đậm và cho cảm giác gần như món tráng miệng phương Đông nhưng vẫn giữ bộ khung nam tính.
+### Có đáng tiền không?
 
-Drydown là lớp vanilla-thuốc lá-gỗ rất bền, ôm sát nhưng không hề nhẹ. Nó tạo cảm giác sang và hơi áp đảo nếu dùng nhiều. Nhược điểm là độ dày cao, dễ nặng trong thời tiết nóng và không phải kiểu mùi dùng vô tư ban ngày.
+Tom Ford Private Blend — một trong những dòng đắt nhất trên thị trường. Nhưng Tobacco Vanille có thứ không chai nào khác làm được ở tầm giá lẫn trên tầm giá: kết hợp thuốc lá và vani sao cho SANG thay vì dùng chỉ một trong hai. So với PdM Herod — cùng nhóm thuốc lá — thì TV ngọt hơn và không smoky. So với Xerjoff Naxos — cùng nhóm gourmand đắt — thì TV ít lavender hơn nhưng nhiều thuốc lá hơn. Bám 10+ giờ, tỏa mạnh 2-3 giờ đầu. Chai fullbox mỗi lần chỉ xịt 1-2 nhát nên dùng rất lâu.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Tobacco Vanille có hiệu năng mạnh, lưu hương 8-10 giờ hoặc hơn, tỏa hương rõ trong những giờ đầu. Nó hợp nhất cho tối, mùa mát, tiệc, máy lạnh, dịp đặc biệt hoặc khi muốn lên outfit thật có lực.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này nên dùng tiết chế và tránh trưa nóng. Ưu điểm là sang, đặc trưng và rất dễ nhận diện; nhược điểm là khá kén hoàn cảnh và không hợp người ghét mùi ngọt đậm.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai sang tối, đậm, thuốc lá-vanilla đúng nghĩa statement piece, Tobacco Vanille là lựa chọn kinh điển. Nó hợp người thích mùi ấm, giàu texture và có sức nặng rõ ràng.
-
-Nên mua khi mày cần một chai tối, mùa lạnh hoặc dịp đặc biệt. Nếu mày chủ yếu dùng giữa thời tiết nóng ẩm ban ngày, đây không phải hướng ưu tiên.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa đông, trời rét, buổi tối. Đi bar upscale, sự kiện Giáng sinh, hoặc ở nhà cuối tuần đọc sách. Xịt 1-2 nhát sau cổ — DUY NHẤT. Xịt nhiều hơn sẽ ngộp. Trời Hà Nội tháng 12 khoác peacoat ra phố — Tobacco Vanille lúc đó là kiệt tác. Ở Sài Gòn thì chỉ nên dùng khi ngồi trong phòng điều hòa hoặc đêm hiếm hoi dưới 25°C.`,
+    verdict: "Thuốc lá-vani kiệt tác — Tom Ford đỉnh nhất. Đắt nhưng 1 nhát = cả ngày. Chỉ dùng mùa đông.",
+    verdictShort: "THUỐC LÁ VANI, ĐỈNH CAO, MÙA ĐÔNG",
+    score: { scent: 9.8, uniqueness: 9.5, compliments: 8.5, value: 6.5, total: 8.6 },
+    vibes: [{ label: "Đỉnh cao", icon: "🏆" }, { label: "Mùa đông", icon: "❄️" }, { label: "Sang trọng", icon: "💎" }],
+    longevity: 10,
+    sillage: 9,
+    seasons: { spring: 18, summer: 2, fall: 72, winter: 98 },
+    dayNight: { day: 8, night: 95 },
+    topNotes: [{ name: "Lá thuốc lá" }, { name: "Gia vị" }, { name: "Gừng" }],
+    middleNotes: [{ name: "Vani" }, { name: "Cacao" }, { name: "Đậu Tonka" }, { name: "Hoa thuốc lá" }],
+    baseNotes: [{ name: "Trái cây khô" }, { name: "Gỗ" }],
+    accords: [
+      { name: "Gia vị ấm", value: 100, color: "#e67e22" },
+      { name: "Vani", value: 85, color: "#F5DEB3" },
+      { name: "Ngọt", value: 72, color: "#8B0000" },
+      { name: "Thuốc lá", value: 68, color: "#5d4037" },
+      { name: "Gourmand", value: 55, color: "#d4a373" }
+    ],
+    seoTitle: "Tom Ford Tobacco Vanille chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Tom Ford Tobacco Vanille chính hãng: mùi thuốc lá vani kiệt tác, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Đỉnh cao","Mùa đông"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 7200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "torino21",
