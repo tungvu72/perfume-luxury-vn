@@ -15,94 +15,66 @@
       "verified": true
     }
   ],
-  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-  "productCopy": "Miss Dior Blooming Bouquet EDT là kiểu nước hoa nữ mang cảm giác nhẹ nhàng, trong trẻo và rất dễ mến. Mùi mở đầu sáng và mềm, sau đó nhanh chóng chuyển sang lớp hoa mỏng nhẹ với cảm giác sạch và thanh. Tổng thể giống như một bó hoa hồng phấn được làm thật gọn, không quá ngọt, không quá dày, rất hợp với hình ảnh nữ tính dịu dàng.\n\nĐiểm mạnh của chai này là sự tinh khôi. Nó không cố trở nên quá sexy hay quá sang theo kiểu sắc nét, mà thiên về vẻ đẹp trẻ trung, gọn gàng và dễ tạo thiện cảm. Miss Dior Blooming Bouquet rất hợp với đi làm, đi học, đi cà phê, gặp gỡ ban ngày hoặc những lúc chỉ muốn mình thơm nhẹ một cách tinh tế.\n\nKhi lên da, mùi gần da hơn và giữ cảm giác sạch, hoa mềm khá ổn định. Đây không phải kiểu nước hoa chuyển lớp quá nhiều hay tạo dấu ấn mạnh trong cả căn phòng, nhưng lại rất đẹp ở khoảng cách gần. Nó khiến người ta có cảm giác bạn chỉn chu, dễ gần và có gu nhẹ nhàng.\n\nVề hiệu năng, vì là EDT nên Miss Dior Blooming Bouquet có độ lưu hương và độ tỏa ở mức vừa phải. Chính điều đó lại làm nó trở thành lựa chọn an toàn cho ban ngày và khí hậu nóng ẩm như Việt Nam. Nếu cần bám lâu hơn, có thể xịt thêm trên quần áo.\n\nNếu bạn đang tìm một chai nước hoa nữ nhẹ, thanh lịch và mang tinh thần “clean floral” dễ dùng, Miss Dior Blooming Bouquet là lựa chọn rất đáng yêu. Nó không quá kịch tính, nhưng lại có sức hút của sự tinh tế và dịu dàng mà nhiều người rất khó chê.",
-  "article": "Miss Dior dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-  "verdictShort": "LIVE CATALOG UPDATE",
+  "description": "Chai nữ nhẹ nhàng, trong trẻo nhất dòng Miss Dior — hoa mẫu đơn, hoa hồng và xạ hương trắng. Rất dễ mến, dùng được quanh năm.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi nặng, tối hoặc mùi ngọt đậm kiểu gourmand thì Blooming Bouquet hoàn toàn ngược — đây là mùi hoa nhẹ, sáng và rất clean. Ai cần mùi bám cả ngày cũng sẽ hơi thất vọng vì đây là EDT nên bám khoảng 4-6 giờ trên da. Ngoài ra, nếu bạn thích mùi cá tính, khác biệt thì Blooming Bouquet quá an toàn và quá phổ biến.\n\n### Có đáng tiền không?\n\nBlooming Bouquet thuộc phân khúc designer cao cấp Dior — giá tương đương Coco Mademoiselle hay Miss Dior EDP. So với Miss Dior EDP, Blooming Bouquet nhẹ hơn, sáng hơn và trẻ hơn. So với Coco Mademoiselle, Blooming Bouquet mềm hơn nhiều và ít sắc sảo hơn. Nhược điểm là hiệu năng EDT — bám vừa, tỏa nhẹ. Nhưng bù lại, mùi rất dễ dùng và gần như không bao giờ sai. Nên mua chiết 10ml thử trước nếu phân vân.\n\n### Nên dùng khi nào?\n\nĐi làm, đi học, đi cà phê, gặp gỡ ban ngày. Xịt 3-4 nhát: cổ, sau tai, cổ tay, tóc — vì EDT bay nhanh nên cần xịt nhiều hơn EDP. Dùng quanh năm nhưng đẹp nhất mùa xuân và hè khi trời ấm. Ở Sài Gòn dùng rất thoải mái vì không bao giờ ngọp. Đây là kiểu chai thơm nhẹ cho mọi ngày — tinh tế và dễ chịu.",
+  "verdict": "Mùi hoa nhẹ, trong trẻo và rất dễ mến. Hợp phụ nữ thích sự tinh khôi, dịu dàng. Không hợp ai cần mùi nặng hay bám cả ngày.",
+  "verdictShort": "NHẸ, TRONG TRẺO, DỄ MẾN",
   "score": {
-    "scent": 8.4,
-    "uniqueness": 7.8,
-    "compliments": 8.6,
-    "value": 8.2,
-    "total": 8.3
+    "scent": 8.0,
+    "uniqueness": 7.2,
+    "compliments": 8.4,
+    "value": 7.8,
+    "total": 7.9
   },
   "vibes": [
-    {
-      "label": "nu",
-      "icon": "?"
-    },
-    {
-      "label": "D? d�ng",
-      "icon": "??"
-    },
-    {
-      "label": "Catalog live",
-      "icon": "??"
-    }
+    { "label": "Dịu dàng", "icon": "🌸" },
+    { "label": "Ban ngày", "icon": "☀️" },
+    { "label": "Thanh lịch", "icon": "✨" }
   ],
-  "longevity": 7,
-  "sillage": 7,
+  "longevity": 5,
+  "sillage": 5,
   "seasons": {
-    "spring": 68,
-    "summer": 52,
-    "fall": 82,
-    "winter": 78
+    "spring": 92,
+    "summer": 80,
+    "fall": 55,
+    "winter": 35
   },
   "dayNight": {
-    "day": 58,
-    "night": 82
+    "day": 90,
+    "night": 30
   },
   "topNotes": [
-    {
-      "name": "Top note"
-    }
+    { "name": "Cam bergamot" },
+    { "name": "Đậu ngọt" }
   ],
   "middleNotes": [
-    {
-      "name": "Middle note"
-    }
+    { "name": "Mẫu đơn" },
+    { "name": "Hoa hồng Damask" }
   ],
   "baseNotes": [
-    {
-      "name": "Base note"
-    }
+    { "name": "Xạ hương trắng" }
   ],
   "accords": [
-    {
-      "name": "Ch? d?o",
-      "value": 58,
-      "color": "#8B4513"
-    },
-    {
-      "name": "D? d�ng",
-      "value": 32,
-      "color": "#1abc9c"
-    },
-    {
-      "name": "Hi?n d?i",
-      "value": 24,
-      "color": "#9b59b6"
-    },
-    {
-      "name": "?m",
-      "value": 20,
-      "color": "#e67e22"
-    }
+    { "name": "Hoa", "value": 100, "color": "#e91e63" },
+    { "name": "Hoa hồng", "value": 85, "color": "#f48fb1" },
+    { "name": "Tươi", "value": 72, "color": "#2ecc71" },
+    { "name": "Phấn", "value": 55, "color": "#d7bde2" },
+    { "name": "Xạ hương", "value": 48, "color": "#bdc3c7" }
   ],
-  "seoTitle": "Miss Dior Blooming Bouquet giá bao nhiêu? Review 2026",
-  "metaDescription": "Đánh giá Miss Dior Blooming Bouquet chính hãng: mùi hoa nhẹ tươi nữ tính, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
+  "seoTitle": "Miss Dior Blooming Bouquet chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Miss Dior Blooming Bouquet chính hãng: mùi hoa nhẹ tươi nữ tính, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
   "tags": [
-    "nu",
-    "Catalog",
-    "Live",
-    "2026"
+    "Nữ",
+    "Nhẹ nhàng",
+    "Ban ngày",
+    "Hoa"
   ],
   "sizes": [
-    "10ml Chi?t",
+    "10ml Chiết",
     "50ml Fullbox",
     "100ml Fullbox"
   ],
-  "basePrice": 1990000,
-  "shopeeOffers": []
+  "basePrice": 2800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
