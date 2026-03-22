@@ -3592,41 +3592,41 @@ Dùng quanh năm — đi làm, đi học, gặp khách, dùng hằng ngày. Xị
     gender: "nam",
     image: "/images/products/dior-fahrenheit-main.jpg",
     images: [{ url: "/images/products/dior-fahrenheit-main.jpg", source: "fragram", caption: "Dior Fahrenheit Eau de Toilette chính hãng", verified: true }],
-    description: "Tượng đài nam lạ nhất — lá violet, nhục đậu khấu, da thuộc, cỏ hương bài và hổ phách. Mùi xăng-violet-da rất riêng. Chai dành cho người có cá tính.",
+    description: "Chai nam da-xăng-hoa tím huyền thoại từ 1988 — nhục đậu khấu, oải hương, cam quýt, lá hoa tím, gỗ tuyết tùng, da thuộc, cỏ hương bài, xạ hương và hổ phách. Nóng, masculine và cách mạng.",
     article: `### Ai không nên mua?
 
-Nếu bạn thích mùi ngọt ấm dễ thương kiểu Valentino BIRI hay mùi sạch sáng kiểu Bleu de Chanel thì Fahrenheit sẽ lạ đến mức khó mặc. Lớp đầu có cảm giác xăng-violet rất đặc trưng — nhiều người mới ngửi lần đầu sẽ choáng. Đây tuyệt đối KHÔNG phải chai blind buy cho người mới chơi. Phải test trước.
+Nếu bạn quen mùi Sauvage EDP hay Bleu de Chanel — các chai tươi sạch, dễ chịu, ai xịt cũng khen — thì Fahrenheit sẽ gây sốc. Mùi xăng, da và hoa tím phả vào mặt ngay phút đầu, nhiều người sẽ hỏi "anh vừa đổ xăng à?". Không nên xịt đi phỏng vấn, họp khách hàng, hoặc bất cứ chỗ nào cần gây thiện cảm lần đầu. Anh em dưới 25 tuổi phần lớn sẽ thấy nó già, vì thật ra Fahrenheit ra đời năm 1988 và thuộc về thế hệ cha chú.
 
 ### Có đáng tiền không?
 
-Fahrenheit thuộc phân khúc Dior — giá tương đương Sauvage EDT. So với Sauvage, Fahrenheit hoàn toàn khác biệt — da, violet, xăng thay vì Ambroxan sạch. So với Terre d'Hermès (cùng nhóm cá tính), Fahrenheit mạnh hơn và đậm hơn. Hiệu năng khá: bám 7-8 giờ, tỏa vừa. Đây là chai cho người sưu tầm hoặc người đã biết mình muốn gì — nếu hợp thì rất đáng tiền.
+Fahrenheit giá chỉ bằng nửa Tom Ford Tuscan Leather — mà mùi da không thua kém là bao. Chai này rẻ nhất trong lineup Dior nam, nhưng chất liệu da và hoa tím bên trong thì không chai designer nào khác có. Nếu bạn đã từng ngửi Tuscan Leather và thích nhưng sợ giá, thì nên thử Fahrenheit trước. Lưu ý là EDT nên tỏa hương không quá mạnh — tầm 5-6 giờ, vòng tay trở vào. Nhưng với giá này thì xịt thêm nhát buổi chiều cũng chẳng tiếc.
 
 ### Nên dùng khi nào?
 
-Chiều tối, trời mát, lái xe, đi chơi riêng hoặc dịp muốn mùi hương có bản sắc. Xịt 2 nhát: 1 cổ, 1 ngực. Đẹp nhất mùa thu đông. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh. Đừng xịt đi làm ban ngày — quá cá tính.`,
-    verdict: "Tượng đài nam cá tính nhất — da, violet, xăng. Ai hợp thì mê rất sâu. Không dành cho số đông hay blind buy.",
-    verdictShort: "DA, VIOLET, CÁ TÍNH MẠNH",
-    score: { scent: 9, uniqueness: 9.5, compliments: 7.5, value: 8, total: 8.5 },
-    vibes: [{ label: "Cá tính", icon: "🔥" }, { label: "Kinh điển", icon: "👑" }, { label: "Khác biệt", icon: "💎" }],
-    longevity: 8,
+Đi chơi cuối tuần, đi bar, xem nhạc sống, hoặc chạy xe chiều tối trời mát. Xịt 2-3 nhát trước ngực và sau cổ. Trời Hà Nội tháng 11-12, khoác áo khoác da rồi xịt Fahrenheit lên cổ áo — đó là lúc nó đẹp nhất. Ở Sài Gòn thì tối mát hoặc phòng máy lạnh mới nên dùng. Không phải chai hằng ngày, nhưng khi đúng lúc thì không gì thay được.`,
+    verdict: "Chai da-xăng huyền thoại 1988 — nóng, bold, cách mạng. Hợp thu đông. Yêu hoặc ghét.",
+    verdictShort: "DA XĂNG, HUYỀN THOẠI 1988, BOLD",
+    score: { scent: 8.8, uniqueness: 9.5, compliments: 7.5, value: 8, total: 8.5 },
+    vibes: [{ label: "Huyền thoại", icon: "👑" }, { label: "Bold", icon: "🔥" }, { label: "Thu đông", icon: "🍂" }],
+    longevity: 7,
     sillage: 7,
-    seasons: { spring: 52, summer: 28, fall: 85, winter: 88 },
-    dayNight: { day: 35, night: 82 },
-    topNotes: [{ name: "Nhục đậu khấu" }, { name: "Oải hương" }, { name: "Gỗ tuyết tùng" }, { name: "Cam quýt" }, { name: "Cam bergamot" }],
-    middleNotes: [{ name: "Lá violet" }, { name: "Nhục đậu khấu" }, { name: "Gỗ đàn hương" }, { name: "Hoa cẩm chướng" }, { name: "Hoa nhài" }],
+    seasons: { spring: 42, summer: 18, fall: 85, winter: 88 },
+    dayNight: { day: 35, night: 78 },
+    topNotes: [{ name: "Nhục đậu khấu" }, { name: "Oải hương" }, { name: "Cam quýt" }, { name: "Gỗ tuyết tùng" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Lá hoa tím" }, { name: "Nhục đậu khấu" }, { name: "Gỗ đàn hương" }, { name: "Hoa cẩm chướng" }, { name: "Hoa nhài" }],
     baseNotes: [{ name: "Da thuộc" }, { name: "Cỏ hương bài" }, { name: "Xạ hương" }, { name: "Hổ phách" }, { name: "Hoắc hương" }, { name: "Đậu Tonka" }],
     accords: [
       { name: "Da thuộc", value: 100, color: "#795548" },
-      { name: "Violet", value: 85, color: "#9b59b6" },
-      { name: "Gỗ", value: 72, color: "#8B4513" },
-      { name: "Cam chanh", value: 58, color: "#f1c40f" },
-      { name: "Gia vị tươi", value: 52, color: "#4CAF50" }
+      { name: "Thơm thảo mộc", value: 78, color: "#2c7a4b" },
+      { name: "Gỗ", value: 68, color: "#8B4513" },
+      { name: "Gia vị ấm", value: 55, color: "#e67e22" },
+      { name: "Hoa", value: 42, color: "#e91e63" }
     ],
     seoTitle: "Dior Fahrenheit chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Dior Fahrenheit chính hãng: tượng đài mùi da-violet cá tính, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nam","Cá tính","Kinh điển","Da thuộc"],
-    sizes: ["10ml Chiết","50ml Fullbox","75ml Fullbox","100ml Fullbox","200ml Fullbox"],
-    basePrice: 2800000,
+    metaDescription: "Đánh giá Dior Fahrenheit chính hãng: mùi da xăng huyền thoại 1988, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Huyền thoại","Da thuộc","Bold"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox","200ml Fullbox"],
+    basePrice: 2200000,
     shopeeOffers: [],
     isPublished: true
   },
@@ -4487,47 +4487,47 @@ Mùa thu đông, buổi tối, hẹn hò, tiệc, dịp đặc biệt. Xịt 2 n
     id: "homme-intense",
     brandSlug: "dior",
     brand: "DIOR",
-    name: "Dior Homme Intense",
+    name: "Homme Intense",
     subName: "Eau de Parfum",
     perfumer: "François Demachy",
     gender: "nam",
     image: "/images/products/dior-homme-intense-main.jpg",
     images: [{ url: "/images/products/dior-homme-intense-main.jpg", source: "fragram", caption: "Dior Homme Intense Eau de Parfum chính hãng", verified: true }],
-    description: "Chai nam phấn iris đẹp nhất dòng Dior Homme — mềm, sang và rất có gu. Hợp hẹn hò, đi tối hoặc người thích phong cách lịch lãm khác số đông.",
+    description: "Chai nam iris-phấn sang nhất Dior — oải hương, iris Florence, hạt cỏ xạ, lê, gỗ tuyết tùng Virginia và cỏ hương bài. Phấn, thanh lịch và cực kỳ seductive.",
     article: `### Ai không nên mua?
 
-Nếu bạn thích mùi sạch thể thao kiểu Acqua di Giò hay Sauvage thì Dior Homme Intense hoàn toàn ngược hướng — đây là kiểu mùi phấn, mềm và khá "ăn diện". Người dùng hằng ngày đi làm trong môi trường casual cũng sẽ thấy chai này hơi điệu. Ngoài ra, bạn nào ghét cảm giác phấn (powder) trên da thì nên tránh vì iris + ambrette ở đây rất rõ.
+Chai này không dành cho ai muốn xịt lên rồi cả phòng quay lại nhìn. Dior Homme Intense kén người — iris nặng phấn, mềm mại, gần như đi ngược lại mọi thứ mà Sauvage đại diện. Nhiều anh em ngửi lần đầu sẽ nói "mùi son phấn" hoặc "mùi nữ", và thật ra cũng không sai. Nếu bạn thích kiểu nam tính rõ ràng, tươi mát, mạnh mẽ — thì đây không phải chai cho bạn. Cũng không hợp đi gym, đi team building hay những dịp cần sự thoải mái.
 
 ### Có đáng tiền không?
 
-Dior Homme Intense thuộc phân khúc designer cao cấp — tương đương Bleu de Chanel EDP hay Sauvage Elixir. Nhưng nó khác hoàn toàn về phong cách: DHI là mùi gentleman, mềm mại, có chiều sâu thay vì mạnh mẽ. So với Valentino Uomo Intense cùng nhóm ngọt-phấn, DHI tinh tế hơn và ít ngọt hơn. So với Prada L'Homme cũng về iris, DHI đậm hơn và quyến rũ hơn rõ. Hiệu năng tốt: bám 7-8 giờ, tỏa vừa phải — đúng kiểu close-range seduction. Nên mua chiết 10ml thử trước.
+Giá tầm designer bình thường — rẻ hơn nhiều so với Prada L'Homme Intense hay các chai iris niche. Nhưng cái Dior Homme Intense làm được mà hiếm chai khác làm nổi: nó biến iris — một nguyên liệu thường bị gắn với nước hoa nữ — thành thứ gì đó quyến rũ kiểu đàn ông. Giống như mặc vest đen cổ điển: không la hét nhưng ai nhìn cũng ngại. Tỏa hương vừa phải, bám khoảng 6-7 giờ trên da, gần ai mới ngửi được. Nếu lần đầu, mua chiết 10ml dùng 3-4 lần rồi hãy quyết.
 
 ### Nên dùng khi nào?
 
-Đẹp nhất khi hẹn hò buổi tối, đi ăn nhà hàng hoặc dự tiệc nhỏ. Xịt 2 nhát: 1 cổ, 1 sau tai — để người đến gần mới cảm nhận được. Hợp trời mát và mùa đông — phấn iris tỏa đẹp khi nhiệt độ dưới 25°C. Ở Sài Gòn dùng trong phòng máy lạnh rất đẹp. Đừng dùng cho ngày nóng ngoài trời hoặc đi gym.`,
-    verdict: "Mùi này phấn, sang và khá có gu. Hợp người thích phong cách lịch sự, chỉn chu và đi tối đẹp. Không hợp ai thích mùi thể thao sạch sẽ.",
-    verdictShort: "PHẤN, SANG, KHÁ CÓ GU",
-    score: { scent: 9, uniqueness: 8.6, compliments: 8.7, value: 8.2, total: 8.6 },
-    vibes: [{ label: "Lịch lãm", icon: "🕴️" }, { label: "Buổi tối", icon: "🌙" }, { label: "Thu đông", icon: "🍂" }],
-    longevity: 8,
+Đi ăn tối hai người, đi xem phim, hoặc bất cứ dịp nào muốn tạo không khí riêng tư, gần gũi. Xịt 2 nhát: 1 trước ngực, 1 sau cổ — chỉ ai lại gần mới ngửi, mà đó mới chính là ý đồ. Trời mát Hà Nội từ tháng 10 đến tháng 3 là lý tưởng. Ở Sài Gòn thì nên dùng tối, phòng máy lạnh, hoặc những ngày hiếm hoi trời se se.`,
+    verdict: "Chai iris nam đỉnh nhất — phấn, thanh lịch, seductive. Hợp date night. Polarizing nhưng ai mà thích thì nghiện.",
+    verdictShort: "IRIS PHẤN, THANH LỊCH, SEDUCTIVE",
+    score: { scent: 9.2, uniqueness: 9.2, compliments: 8.5, value: 8, total: 8.7 },
+    vibes: [{ label: "Thanh lịch", icon: "✨" }, { label: "Seductive", icon: "💜" }, { label: "Date night", icon: "🌙" }],
+    longevity: 7,
     sillage: 7,
-    seasons: { spring: 46, summer: 18, fall: 90, winter: 96 },
-    dayNight: { day: 28, night: 95 },
+    seasons: { spring: 62, summer: 28, fall: 85, winter: 82 },
+    dayNight: { day: 35, night: 85 },
     topNotes: [{ name: "Oải hương" }],
-    middleNotes: [{ name: "Iris" }, { name: "Ambrette" }],
-    baseNotes: [{ name: "Cacao" }, { name: "Cỏ hương bài" }, { name: "Gỗ tuyết tùng" }],
+    middleNotes: [{ name: "Iris" }, { name: "Hạt cỏ xạ" }, { name: "Lê" }],
+    baseNotes: [{ name: "Gỗ tuyết tùng Virginia" }, { name: "Cỏ hương bài" }],
     accords: [
-      { name: "Phấn", value: 100, color: "#d7bde2" },
-      { name: "Iris", value: 88, color: "#c39bd3" },
-      { name: "Hoa", value: 65, color: "#e91e63" },
-      { name: "Gỗ", value: 52, color: "#8B4513" },
-      { name: "Ngọt", value: 45, color: "#e74c3c" }
+      { name: "Iris", value: 100, color: "#9b59b6" },
+      { name: "Phấn", value: 82, color: "#d7bde2" },
+      { name: "Gỗ", value: 62, color: "#8B4513" },
+      { name: "Xạ hương", value: 55, color: "#bdc3c7" },
+      { name: "Hoa", value: 42, color: "#e91e63" }
     ],
     seoTitle: "Dior Homme Intense chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Dior Homme Intense chính hãng: mùi iris phấn sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nam","Lịch lãm","Buổi tối","Thu đông"],
-    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
-    basePrice: 3400000,
+    metaDescription: "Đánh giá Dior Homme Intense chính hãng: mùi iris phấn thanh lịch nhất, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Thanh lịch","Iris","Date night"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox","150ml Fullbox"],
+    basePrice: 2800000,
     shopeeOffers: [],
     isPublished: true
   },
