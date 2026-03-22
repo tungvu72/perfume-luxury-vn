@@ -9339,43 +9339,43 @@ Hẹn hò buổi tối, đi bar, đi ăn nhà hàng hoặc những dịp muốn 
     gender: "nam",
     image: "/images/products/dolce-gabbana-the-one-edp-main.jpg",
     images: [
-      { url: "/images/products/dolce-gabbana-the-one-edp-main.jpg", source: "fragram", caption: "Dolce & Gabbana The One Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/dolce-gabbana-the-one-edp-main.jpg", source: "fragram", caption: "Dolce & Gabbana The One EDP chính hãng", verified: true }
     ],
-    description: "Chai nam quyến rũ kiểu gentleman — bưởi, gừng, bạch đậu khấu, thuốc lá, hổ phách và gỗ tuyết tùng. Ấm, lịch sự và rất hẹn hò.",
+    description: "Chai nam gỗ-gia vị-thuốc lá ấm nhất D&G — bưởi, rau mùi, húng quế, bạch đậu khấu, gừng, hoa cam, hổ phách, thuốc lá và gỗ tuyết tùng. Ấm, sang và rất date night.",
     article: `### Ai không nên mua?
 
-Nếu bạn thích mùi sạch sáng tươi kiểu Bleu de Chanel hay Sauvage thì The One EDP quá ấm và quá tối cho gu đó. Ai cần hiệu năng beast mode cũng sẽ thất vọng — The One EDP nổi tiếng hiệu năng trung bình, tỏa gần. Đây là chai seduction gần da — không phải projection monster.
+Nếu bạn thích mùi tươi mát đi biển hay mùi sporty năng động thì The One EDP hoàn toàn ngược hướng — đây là chai ẤM, kiểu ngồi trong nhà hàng ánh nến. Cũng không phải chai đi làm tốt vì tỏa hương yếu — bạn ngồi đối diện mới ngửi được, nên trong phòng họp 10 người thì gần như vô hình. Nếu cần chai tỏa mạnh gây ấn tượng từ xa, nhìn qua.
 
 ### Có đáng tiền không?
 
-The One EDP thuộc phân khúc designer tầm trung. So với bản EDT, EDP đậm hơn, thuốc lá rõ hơn và hợp tối hơn. So với Dior Homme Intense (cùng nhóm hẹn hò), The One EDP ấm hơn và ít phấn hơn. Hiệu năng vừa: bám 6 giờ, tỏa gần — đúng kiểu skin scent. Đáng tiền nếu bạn chỉ cần chai đi đêm nhẹ.
+Giá D&G thuộc nhóm rẻ nhất designer — best deal cho chai date night. So với Dior Homme Intense — cùng nhóm date night — thì The One ấm hơn, ít phấn hơn, dễ tiếp cận hơn. So với Valentino Uomo Intense — cùng nhóm ngọt ấm — thì The One có thuốc lá và gia vị mà Valentino thiếu. Nhược điểm lớn nhất: bám chỉ 5-6 giờ, tỏa yếu. Cần xịt lại trước khi gặp người. Nhưng với giá này, xịt thêm cũng không tiếc.
 
 ### Nên dùng khi nào?
 
-Hẹn hò, ăn tối, gặp gỡ thân mật, buổi tối. Xịt 3 nhát vì tỏa nhẹ: cổ, ngực, cổ tay. Đẹp nhất mùa thu đông. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.`,
-    verdict: "Chai nam hẹn hò kinh điển — ấm, thuốc lá, gentleman. Hợp đi tối. Hiệu năng trung bình nếu cần tỏa xa.",
-    verdictShort: "ẤM, LỊCH SỰ, HẸN HÒ",
-    score: { scent: 8.8, uniqueness: 7.7, compliments: 8.9, value: 8, total: 8.3 },
-    vibes: [{ label: "Hẹn hò", icon: "❤️" }, { label: "Lịch sự", icon: "🕴️" }, { label: "Ấm áp", icon: "🤎" }],
+Date night. Nghiêm túc: chai này sinh ra để đi hẹn hò. Ăn tối, uống cocktail, xem phim, hoặc bất cứ dịp nào hai người ngồi gần nhau. Xịt 3-4 nhát: cổ, ngực, cổ tay — vì tỏa yếu. Đẹp nhất thu đông, trời mát. Ở Sài Gòn dùng tối phòng máy lạnh. Hà Nội tháng 10-3 là hoàn hảo.`,
+    verdict: "Chai date night đỉnh nhất tầm giá — ấm, thuốc lá nhẹ, sang. Tỏa yếu nhưng ai gần mới ngửi, đó là mục đích.",
+    verdictShort: "ẤM, DATE NIGHT, KIỂU NHÀ HÀNG ÁNH NẾN",
+    score: { scent: 8.5, uniqueness: 7.5, compliments: 8.5, value: 8.8, total: 8.3 },
+    vibes: [{ label: "Date night", icon: "🕯️" }, { label: "Ấm", icon: "🤎" }, { label: "Giá tốt", icon: "💸" }],
     longevity: 6,
     sillage: 5,
-    seasons: { spring: 50, summer: 24, fall: 88, winter: 92 },
-    dayNight: { day: 28, night: 94 },
-    topNotes: [{ name: "Bưởi" }, { name: "Gừng" }, { name: "Bạch đậu khấu" }],
-    middleNotes: [{ name: "Hoa cam" }, { name: "Hổ phách" }],
-    baseNotes: [{ name: "Thuốc lá" }, { name: "Gỗ tuyết tùng" }],
+    seasons: { spring: 55, summer: 22, fall: 85, winter: 88 },
+    dayNight: { day: 28, night: 88 },
+    topNotes: [{ name: "Bưởi" }, { name: "Rau mùi" }, { name: "Húng quế" }],
+    middleNotes: [{ name: "Bạch đậu khấu" }, { name: "Gừng" }, { name: "Hoa cam" }],
+    baseNotes: [{ name: "Hổ phách" }, { name: "Thuốc lá" }, { name: "Gỗ tuyết tùng" }],
     accords: [
-      { name: "Ấm gia vị", value: 100, color: "#e67e22" },
-      { name: "Thuốc lá", value: 72, color: "#6e3b1f" },
-      { name: "Hổ phách", value: 62, color: "#d4a017" },
-      { name: "Gỗ", value: 52, color: "#8B4513" },
+      { name: "Gia vị ấm", value: 100, color: "#e67e22" },
+      { name: "Gỗ", value: 72, color: "#8B4513" },
+      { name: "Hổ phách", value: 65, color: "#d4a017" },
+      { name: "Thơm thảo mộc", value: 48, color: "#2c7a4b" },
       { name: "Cam chanh", value: 42, color: "#f1c40f" }
     ],
     seoTitle: "D&G The One EDP chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá D&G The One EDP chính hãng: mùi ấm thuốc lá hẹn hò, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nam","Hẹn hò","Lịch sự","Buổi tối"],
+    metaDescription: "Đánh giá Dolce & Gabbana The One EDP chính hãng: mùi ấm sang date night, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Date night","Ấm","Giá tốt"],
     sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox","150ml Fullbox"],
-    basePrice: 2350000,
+    basePrice: 1800000,
     shopeeOffers: [],
     isPublished: true
   },
