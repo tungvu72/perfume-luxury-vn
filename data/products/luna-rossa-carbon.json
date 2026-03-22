@@ -15,108 +15,35 @@
       "verified": true
     }
   ],
-  "description": "Chai nam sạch, khoáng và hiện đại — lavender, ambroxan, than khoáng. Rất dễ dùng hằng ngày, hợp văn phòng và đi làm. Ít ngọt, ít drama.",
-  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt ấm sexy kiểu đi tối thì Luna Rossa Carbon hoàn toàn ngược — đây là mùi sạch, mát, ban ngày. Ai muốn mùi thật nổi bật, gây ấn tượng mạnh cũng sẽ thấy Carbon hơi hiền. Ngoài ra, nếu bạn đã có Dior Sauvage EDT thì 2 chai khá gần nhau về vibe (đều dùng ambroxan mạnh) — cân nhắc trước khi mua thêm.\n\n### Có đáng tiền không?\n\nLuna Rossa Carbon thuộc phân khúc designer tầm trung — rẻ hơn Bleu de Chanel hay Sauvage EDP. So với Sauvage EDT, Carbon mịn hơn, ít gắt hơn và có cảm giác khoáng khác biệt. So với YSL Y EDP, Carbon ít ngọt hơn và sạch hơn. Hiệu năng OK: bám 6-7 giờ, tỏa gần. Ưu điểm lớn nhất là sự tiện lợi — xịt đi luôn, không bao giờ sai. Với giá này thì rất hợp lý cho một chai daily driver.\n\n### Nên dùng khi nào?\n\nĐi làm, đi học, gặp khách, di chuyển mỗi ngày. Xịt 3-4 nhát: sau gáy, ngực, cổ tay — vì tỏa nhẹ nên cần nhiều hơn. Dùng quanh năm nhưng đẹp nhất mùa xuân hè khi trời ấm. Ở Sài Gòn dùng rất thoải mái vì không bao giờ ngọp. Đừng dùng cho hẹn hò buổi tối — quá sạch và thiếu sex appeal.",
-  "verdict": "Mùi này sạch, tinh gọn và khá lịch sự. Hợp đi làm mỗi ngày. Không hợp ai cần mùi nổi bật hay sexy.",
-  "verdictShort": "SẠCH, TINH GỌN, KHÁ LỊCH SỰ",
-  "score": {
-    "scent": 8.4,
-    "uniqueness": 7.6,
-    "compliments": 8.5,
-    "value": 8.5,
-    "total": 8.3
-  },
+  "description": "Chai nam lavender-ambroxan sạch kiểu công nghệ — cam bergamot, tiêu, oải hương, khoáng, nước, ambroxan và hoắc hương. Sạch, metallic và rất office-friendly.",
+  "article": "### Ai không nên mua?\n\nNếu bạn đã có Dior Sauvage EDT hoặc EDP thì nên cân nhắc kỹ. Luna Rossa Carbon chia sẻ chung thành phần chủ đạo là ambroxan, và khi xịt cách 2 mét thì nhiều người sẽ nhầm là Sauvage. Nếu mục đích là tìm mùi KHÁC BIỆT, thì đây không phải đáp án. Chai này cũng không có gì bất ngờ — anh em thích mùi niche có chiều sâu hoặc mùi ấm có cá tính sẽ thấy Carbon nhạt nhẽo và vô danh.\n\n### Có đáng tiền không?\n\nLuna Rossa Carbon rẻ hơn Sauvage khoảng 20-30%, và đó là lý do nó tồn tại. Cùng DNA ambroxan-lavender nhưng Carbon mềm hơn, sạch hơn, ít gắt hơn — phù hợp văn phòng hơn Sauvage. Nếu bạn thử Sauvage và thấy nó hơi \"quá\" cho chỗ làm, thì Carbon giải quyết đúng vấn đề đó. Bám 6-7 giờ, tỏa vừa phải, không ai phàn nàn nhưng cũng ít ai hỏi \"mùi gì thế\". An toàn tuyệt đối.\n\n### Nên dùng khi nào?\n\nĐi làm. Nghiêm túc mà nói: đây là chai đi làm 5 ngày/tuần. Văn phòng máy lạnh, họp team, gặp khách — Carbon không bao giờ sai. Xịt 2-3 nhát sáng, nếu hết hơn thì bổ sung 1 nhát sau giờ ăn trưa. Dùng quanh năm ở cả Hà Nội lẫn Sài Gòn. Muốn đi hẹn hò hay đám tiệc thì nên chọn chai khác — Carbon không tạo ấn tượng, nó tạo sự chuyên nghiệp.",
+  "verdict": "Sauvage phiên bản nhẹ hơn, rẻ hơn, office hơn. An toàn tuyệt đối nhưng không tạo ấn tượng riêng.",
+  "verdictShort": "SẠCH, OFFICE, AN TOÀN TUYỆT ĐỐI",
+  "score": { "scent": 7.8, "uniqueness": 6.5, "compliments": 8.0, "value": 8.5, "total": 7.7 },
   "vibes": [
-    {
-      "label": "Văn phòng",
-      "icon": "💼"
-    },
-    {
-      "label": "Hằng ngày",
-      "icon": "🧴"
-    },
-    {
-      "label": "Tinh gọn",
-      "icon": "⚪"
-    }
+    { "label": "Office", "icon": "💼" },
+    { "label": "An toàn", "icon": "✅" },
+    { "label": "Hằng ngày", "icon": "🧴" }
   ],
   "longevity": 7,
   "sillage": 6,
-  "seasons": {
-    "spring": 82,
-    "summer": 76,
-    "fall": 74,
-    "winter": 58
-  },
-  "dayNight": {
-    "day": 90,
-    "night": 40
-  },
-  "topNotes": [
-    {
-      "name": "Cam bergamot"
-    },
-    {
-      "name": "Tiêu"
-    }
-  ],
-  "middleNotes": [
-    {
-      "name": "Oải hương"
-    },
-    {
-      "name": "Than khoáng"
-    }
-  ],
-  "baseNotes": [
-    {
-      "name": "Ambroxan"
-    },
-    {
-      "name": "Hoắc hương"
-    }
-  ],
+  "seasons": { "spring": 78, "summer": 68, "fall": 72, "winter": 62 },
+  "dayNight": { "day": 85, "night": 42 },
+  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Tiêu" }],
+  "middleNotes": [{ "name": "Oải hương" }, { "name": "Kim loại" }, { "name": "Nước" }, { "name": "Than" }, { "name": "Phong lữ" }],
+  "baseNotes": [{ "name": "Ambroxan" }, { "name": "Hoắc hương" }],
   "accords": [
-    {
-      "name": "Thơm thảo mộc",
-      "value": 100,
-      "color": "#2c7a4b"
-    },
-    {
-      "name": "Gỗ",
-      "value": 72,
-      "color": "#8B4513"
-    },
-    {
-      "name": "Khoáng",
-      "value": 62,
-      "color": "#7f8c8d"
-    },
-    {
-      "name": "Oải hương",
-      "value": 55,
-      "color": "#9b59b6"
-    },
-    {
-      "name": "Gia vị tươi",
-      "value": 48,
-      "color": "#4CAF50"
-    }
+    { "name": "Thơm thảo mộc", "value": 100, "color": "#2c7a4b" },
+    { "name": "Tươi mát", "value": 78, "color": "#2ecc71" },
+    { "name": "Gỗ", "value": 62, "color": "#8B4513" },
+    { "name": "Cam chanh", "value": 55, "color": "#f1c40f" },
+    { "name": "Xạ hương", "value": 42, "color": "#bdc3c7" }
   ],
   "seoTitle": "Prada Luna Rossa Carbon chính hãng mua ở đâu? Review 2026",
-  "metaDescription": "Đánh giá Prada Luna Rossa Carbon chính hãng: mùi sạch hiện đại nam tính, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": [
-    "Nam",
-    "Văn phòng",
-    "Hằng ngày",
-    "Ít ngọt"
-  ],
-  "sizes": [
-    "10ml Chiết",
-    "50ml Fullbox",
-    "100ml Fullbox"
-  ],
-  "basePrice": 2150000,
+  "metaDescription": "Đánh giá Prada Luna Rossa Carbon chính hãng: mùi sạch office ambroxan lavender, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Office", "An toàn", "Hằng ngày"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
+  "basePrice": 2000000,
   "shopeeOffers": [],
   "isPublished": true
 }
