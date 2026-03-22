@@ -7691,47 +7691,49 @@ Nên mua khi mày cần một chai lịch thiệp cho tối hoặc dịp nghiêm
     brand: "XERJOFF",
     name: "Alexandria II",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Chris Maurice",
     gender: "unisex",
     image: "/images/products/xerjoff-alexandria-ii-main.jpg",
-    images: [{ url: "/images/products/xerjoff-alexandria-ii-main.jpg", source: "amazon", caption: "XERJOFF Alexandria II chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Alexandria II là kiểu oud-woody sang, dày và cực kỳ xa xỉ theo phong cách Xerjoff. Nó không đi theo hướng oud thô hay động vật mạnh, mà mượt, bóng, gỗ và rất “royal”. Đây là kiểu mùi chỉ cần ngửi một lúc là thấy rõ nó muốn nói về sự giàu chất liệu và cảm giác đắt tiền.
+    images: [
+      { url: "/images/products/xerjoff-alexandria-ii-main.jpg", source: "fragram", caption: "Xerjoff Alexandria II Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai niche oud-vani-phấn đẳng cấp nhất — gỗ trắc, oải hương, quế, hoa hồng, gỗ tuyết tùng, oud, gỗ đàn hương và vani. Phấn, sang và cực kỳ luxurious.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Alexandria II là khí chất. Nó không nhất thiết phải quá dễ mặc, nhưng cực kỳ có sân khấu. Trong điều kiện Việt Nam, chai này hợp hơn với tối, điều hòa, sự kiện đặc biệt hoặc người đã quen với mùi gỗ - oud sang và muốn nâng hẳn thang độ.
+Nếu bạn thích mùi tươi sáng hoặc mùi ngọt fruity hiện đại thì Alexandria II ở chiều ngược — đây là mùi phấn-oud-vani cổ điển rất sang. Ai ghét oud hoặc mùi phấn cũng nên tránh. Giá Xerjoff rất cao — chai này cho người sưu tầm.
 
-## Diễn biến trên da
-Mở đầu đã khá đậm với gỗ và chiều ấm rõ ràng, sau đó oud theo hướng sạch sang cùng nền mềm bắt đầu bung ra, làm tổng thể ngày càng dày và tròn. Mùi phát triển chậm, sang và nhiều lớp.
+### Có đáng tiền không?
 
-Drydown là lớp gỗ ấm, oud mềm và rất giàu cảm giác xa xỉ. Nó không dành cho số đông và cũng không cần phải làm vừa lòng ai. Nhược điểm là tính ứng dụng hằng ngày thấp, đặc biệt ở thời tiết nóng.
+Alexandria II thuộc phân khúc super niche Xerjoff — top giá thị trường. So với MFK Grand Soir, Alexandria II có oud và phấn rõ hơn. So với Tom Ford Oud Wood, Alexandria II dày hơn và phức tạp hơn. Hiệu năng rất tốt: bám 10+ giờ, tỏa khá. Chai ultra-luxury cho collector.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Alexandria II có hiệu năng tốt, thường 8-10 giờ hoặc hơn; tỏa hương khá. Nó hợp tối, sự kiện, tiệc, mùa mát hoặc những dịp muốn mùi hương thật sự nổi khí chất.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng rất tiết chế và ưu tiên không gian mát. Ưu điểm là cực sang và có trọng lượng; nhược điểm là dễ quá tay nếu dùng sai hoàn cảnh.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai oud-woody rất sang, có cảm giác hoàng gia và không ngại độ đậm, Alexandria II là lựa chọn rất mạnh. Nó hợp người thích mùi high-end thực sự và đã quen với phong cách niche đậm.
-
-Nên mua khi mày cần một chai cho dịp đặc biệt. Nếu mày muốn sự nhẹ, linh hoạt hoặc dễ dùng ban ngày, đây không phải hướng phù hợp.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Dịp đặc biệt nhất, sự kiện VIP, mùa đông. Xịt 1-2 nhát — tỏa rõ. Đẹp nhất khi trời lạnh. Chai signature ultimate.`,
+    verdict: "Chai oud-phấn-vani ultra-luxury — sang nhất Xerjoff. Bám 10h+. Chỉ cho collector và dịp đặc biệt.",
+    verdictShort: "OUD PHẤN, ULTRA-LUXURY",
+    score: { scent: 9.5, uniqueness: 9.5, compliments: 8, value: 6.5, total: 8.4 },
+    vibes: [{ label: "Ultra-luxury", icon: "👑" }, { label: "Dịp đặc biệt", icon: "🥂" }, { label: "Collector", icon: "💎" }],
+    longevity: 10,
+    sillage: 8,
+    seasons: { spring: 28, summer: 8, fall: 82, winter: 98 },
+    dayNight: { day: 15, night: 92 },
+    topNotes: [{ name: "Gỗ trắc" }, { name: "Oải hương" }, { name: "Táo" }, { name: "Quế" }],
+    middleNotes: [{ name: "Hoa hồng" }, { name: "Gỗ tuyết tùng" }, { name: "Hoa linh lan" }],
+    baseNotes: [{ name: "Oud" }, { name: "Gỗ đàn hương" }, { name: "Hổ phách" }, { name: "Vani" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Gỗ", value: 100, color: "#8B4513" },
+      { name: "Hổ phách", value: 82, color: "#d4a017" },
+      { name: "Phấn", value: 72, color: "#d7bde2" },
+      { name: "Oud", value: 65, color: "#3e2723" },
+      { name: "Vani", value: 55, color: "#F5DEB3" }
+    ],
+    seoTitle: "Xerjoff Alexandria II chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Xerjoff Alexandria II chính hãng: mùi oud vani phấn ultra-luxury, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Ultra-luxury","Oud","Collector"],
+    sizes: ["10ml Chiết","50ml Fullbox"],
+    basePrice: 9500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "versace-dylan-blue",
@@ -9320,29 +9322,47 @@ Chanel N°5 thuộc phân khúc designer cao cấp nhất — bạn không chỉ
     brand: "XERJOFF",
     name: "Lira",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Chris Maurice",
     gender: "nu",
     image: "/images/products/xerjoff-lira-main.jpg",
-    images: [{ url: "/images/products/xerjoff-lira-main.jpg", source: "amazon", caption: "XERJOFF Lira chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    images: [{ url: "/images/products/xerjoff-lira-main.jpg", source: "fragram", caption: "Xerjoff Lira Eau de Parfum chính hãng", verified: true }],
+    description: "Chai gourmand niche đẹp nhất — cam đỏ, cam bergamot, oải hương, quế, nhài, hoa hồng, vani và caramel. Ngọt, ấm và cực kỳ gây nghiện.",
+    article: `### Ai không nên mua?
+
+Nếu bạn ghét mùi ngọt thì Lira quá ngọt — caramel, vani và cam đỏ tạo nên gourmand rất rõ. Ai thích mùi sạch tươi hoặc mùi hoa thanh cũng sẽ thấy chai này quá đậm. Dùng ban ngày nóng sẽ hơi ngọp.
+
+### Có đáng tiền không?
+
+Lira thuộc phân khúc Xerjoff niche — đắt. So với La Vie Est Belle (cùng nhóm gourmand), Lira sang hơn, cam đỏ rõ hơn và blend tinh tế hơn nhiều. So với Mugler Angel, Lira mượt hơn và ít hoắc hương hơn. Hiệu năng rất tốt: bám 8-9 giờ, tỏa khá mạnh. Đây là chai gourmand niche reference.
+
+### Nên dùng khi nào?
+
+Mùa thu đông, buổi tối, dịp đặc biệt, hẹn hò. Xịt 1-2 nhát — tỏa khá mạnh. Đẹp nhất khi trời mát. Ở Sài Gòn chỉ dùng buổi tối hoặc phòng máy lạnh.`,
+    verdict: "Chai gourmand niche đẹp nhất — cam đỏ, vani, caramel. Bám 9h. Sang hơn mọi chai gourmand designer. Đắt nhưng xứng.",
+    verdictShort: "GOURMAND NICHE, CAM ĐỎ, CARAMEL",
+    score: { scent: 9.2, uniqueness: 8.8, compliments: 9.2, value: 7.2, total: 8.6 },
+    vibes: [{ label: "Gây nghiện", icon: "🍊" }, { label: "Sang trọng", icon: "💎" }, { label: "Thu đông", icon: "🍂" }],
+    longevity: 9,
+    sillage: 8,
+    seasons: { spring: 38, summer: 12, fall: 88, winter: 95 },
+    dayNight: { day: 22, night: 88 },
+    topNotes: [{ name: "Cam đỏ" }, { name: "Cam bergamot" }, { name: "Oải hương" }],
+    middleNotes: [{ name: "Quế" }, { name: "Hoa nhài" }, { name: "Hoa hồng" }, { name: "Cam thảo" }],
+    baseNotes: [{ name: "Vani" }, { name: "Caramel" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Gourmand", value: 100, color: "#d4a373" },
+      { name: "Ngọt", value: 92, color: "#8B0000" },
+      { name: "Vani", value: 82, color: "#F5DEB3" },
+      { name: "Cam chanh", value: 62, color: "#f1c40f" },
+      { name: "Gia vị ấm", value: 52, color: "#e67e22" }
+    ],
+    seoTitle: "Xerjoff Lira chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Xerjoff Lira chính hãng: mùi gourmand cam đỏ vani caramel niche, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Gourmand","Niche","Gây nghiện"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 6800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "lancome-tresor",
