@@ -5921,42 +5921,42 @@ Quanh năm — đi làm, hẹn hò, gặp gỡ, dạo phố. Xịt 2 nhát — t
     gender: "nu",
     image: "/images/products/elie-saab-le-parfum-main.jpg",
     images: [
-      { url: "/images/products/elie-saab-le-parfum-main.jpg", source: "fragram", caption: "Elie Saab Le Parfum Eau de Parfum ch├¡nh h├úng", verified: true }
+      { url: "/images/products/elie-saab-le-parfum-main.jpg", source: "fragram", caption: "Elie Saab Le Parfum Eau de Parfum chính hãng", verified: true }
     ],
-    description: "Chai nß╗» sang trß╗ìng kiß╗âu haute couture ΓÇö hoa cam ch├óu Phi, nh├ái, mß║¡t ong trß║»ng, hoß║»c h╞░╞íng v├á gß╗ù tuyß║┐t t├╣ng. Thanh lß╗ïch, rß║íng rß╗í v├á rß║Ñt dressy.",
-    article: `### Ai kh├┤ng n├¬n mua?
+    description: "Chai nữ hoa cam-nhài-mật ong thanh lịch nhất — hoa cam châu Phi, nhài grandiflorum và sambac, mật ong trắng, hoắc hương, hoa hồng và gỗ tuyết tùng Virginia. Sang và rạng rỡ.",
+    article: `### Ai không nên mua?
 
-Nß║┐u bß║ín th├¡ch m├╣i ngß╗ìt ─æß║¡m kiß╗âu La Vie Est Belle hay m├╣i tß╗æi sexy kiß╗âu Black Opium th├¼ Le Parfum sß║╜ qu├í thanh v├á qu├í chß╗ënh tß╗ü cho gu ─æ├│. ─É├óy l├á m├╣i hoa-mß║¡t ong rß║Ñt sang ΓÇö kiß╗âu tiß╗çc cocktail chß╗⌐ kh├┤ng phß║úi club. Ai th├¡ch m├╣i trß║╗ trung vui vß║╗ c┼⌐ng sß║╜ thß║Ñy chai n├áy h╞íi mature.
+Nếu bạn thích mùi ngọt đậm kiểu vani-caramel hay mùi tối sexy kiểu đi club thì Le Parfum quá thanh và quá "chỉnh tề" cho những dịp đó. Đây là chai nước hoa kiểu mặc đầm dự tiệc — không phải mặc jeans đi uống bia. Ai dưới 22 tuổi cũng có thể thấy nó hơi mature, vì hoa cam và nhài ở đây rất haute couture.
 
-### C├│ ─æ├íng tiß╗ün kh├┤ng?
+### Có đáng tiền không?
 
-Le Parfum thuß╗Öc ph├ón kh├║c designer tß║ºm trung ΓÇö rß║╗ h╞ín Chanel v├á Dior. So vß╗¢i J'adore EDP, Le Parfum thanh h╞ín v├á c├│ mß║¡t ong r├╡ h╞ín. So vß╗¢i Chlo├⌐ EDP, Le Parfum sang h╞ín v├á dressy h╞ín. Hiß╗çu n─âng tß╗æt: b├ím 7-8 giß╗¥, tß╗Åa kh├í. ─É├óy l├á chai elegant nß╗» rß║Ñt ─æß║╣p ΓÇö gi├í tß╗æt m├á chß║Ñt l╞░ß╗úng blend cß╗ºa Francis Kurkdjian.
+Bất ngờ: Le Parfum rẻ hơn đáng kể so với Dior, Chanel cùng phân khúc — nhưng người đứng sau lại là Francis Kurkdjian, perfumer tạo ra BR540. So với J'adore EDP — cùng là chai nữ sang — thì Le Parfum có mật ong trắng mà J'adore không có, tạo cảm giác ấm hơn một chút. So với Chloé EDP — cùng nhóm hoa sáng — thì Le Parfum dressy hơn, sang hơn và kém casual hơn. Bám 7-8 giờ, tỏa vừa phải. Giá rất hợp lý cho chất lượng blend.
 
-### N├¬n d├╣ng khi n├áo?
+### Nên dùng khi nào?
 
-Tiß╗çc, sß╗▒ kiß╗çn, gß║╖p gß╗í trang trß╗ìng, ─æi ─ân tß╗æi, dß╗ïp ─æß║╖c biß╗çt. Xß╗ït 2-3 nh├ít: cß╗ò, cß╗ò tay, sau tai. D├╣ng quanh n─âm ΓÇö ─æß║╣p nhß║Ñt xu├ón thu. ß╗₧ S├ái G├▓n d├╣ng thoß║úi m├íi v├¼ hoa cam rß║Ñt s├íng.`,
-    verdict: "M├╣i nß╗» sang thanh lß╗ïch ΓÇö hoa cam, nh├ái, mß║¡t ong. Rß║Ñt dressy v├á cao cß║Ñp. Kh├┤ng hß╗úp ai th├¡ch m├╣i ngß╗ìt ─æß║¡m hoß║╖c tß╗æi.",
-    verdictShort: "SANG, THANH Lß╗èCH, DRESSY",
+Đám cưới (có thể là đám cưới bạn), tiệc cocktail, ăn tối ở nhà hàng, hoặc bất cứ khi nào bạn mặc váy. Xịt 2-3 nhát: cổ, cổ tay, sau tai. Đẹp nhất khi trời xuân thu — Hà Nội tháng 3-4 và tháng 10. Ở Sài Gòn dùng quanh năm vì hoa cam rất sáng, nhưng tránh ngoài trời nắng gắt.`,
+    verdict: "Chai nữ elegant underrated — hoa cam, nhài, mật ong. Francis Kurkdjian blend, giá tốt. Cho tiệc và dịp sang.",
+    verdictShort: "SANG, THANH LỊCH, DRESSY",
     score: { scent: 8.6, uniqueness: 8, compliments: 8.5, value: 8.5, total: 8.4 },
-    vibes: [{ label: "Thanh lß╗ïch", icon: "Γ£¿" }, { label: "Sang trß╗ìng", icon: "≡ƒÆÄ" }, { label: "Dressy", icon: "≡ƒæù" }],
+    vibes: [{ label: "Thanh lịch", icon: "✨" }, { label: "Sang trọng", icon: "💎" }, { label: "Dressy", icon: "👗" }],
     longevity: 7,
     sillage: 7,
     seasons: { spring: 82, summer: 62, fall: 78, winter: 68 },
     dayNight: { day: 65, night: 72 },
-    topNotes: [{ name: "Hoa cam ch├óu Phi" }],
-    middleNotes: [{ name: "Hoa nh├ái" }],
-    baseNotes: [{ name: "Mß║¡t ong trß║»ng" }, { name: "Hoß║»c h╞░╞íng" }, { name: "Hoa hß╗ông" }, { name: "Gß╗ù tuyß║┐t t├╣ng Virginia" }],
+    topNotes: [{ name: "Hoa cam châu Phi" }],
+    middleNotes: [{ name: "Hoa nhài" }],
+    baseNotes: [{ name: "Mật ong trắng" }, { name: "Hoắc hương" }, { name: "Hoa hồng" }, { name: "Gỗ tuyết tùng Virginia" }],
     accords: [
-      { name: "Hoa trß║»ng", value: 100, color: "#ecf0f1" },
-      { name: "Mß║¡t ong", value: 82, color: "#f39c12" },
-      { name: "Hoß║»c h╞░╞íng", value: 65, color: "#4e342e" },
-      { name: "Gß╗ù", value: 55, color: "#8B4513" },
+      { name: "Hoa trắng", value: 100, color: "#ecf0f1" },
+      { name: "Mật ong", value: 82, color: "#f39c12" },
+      { name: "Hoắc hương", value: 65, color: "#4e342e" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
       { name: "Hoa", value: 48, color: "#e91e63" }
     ],
-    seoTitle: "Elie Saab Le Parfum ch├¡nh h├úng mua ß╗ƒ ─æ├óu? Review 2026",
-    metaDescription: "─É├ính gi├í Elie Saab Le Parfum ch├¡nh h├úng: m├╣i hoa cam mß║¡t ong sang trß╗ìng, ─æß╗Ö b├ím tß╗Åa thß╗▒c tß║┐ v├á t╞░ vß║Ñn n╞íi mua uy t├¡n 2026 tß║íi Maison De Son.",
-    tags: ["Nß╗»","Thanh lß╗ïch","Sang trß╗ìng","Dressy"],
-    sizes: ["10ml Chiß║┐t","30ml Fullbox","50ml Fullbox","90ml Fullbox"],
+    seoTitle: "Elie Saab Le Parfum chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Elie Saab Le Parfum chính hãng: mùi hoa cam nhài mật ong thanh lịch, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Thanh lịch","Sang trọng","Dressy"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","90ml Fullbox"],
     basePrice: 2290000,
     shopeeOffers: [],
     isPublished: true
@@ -8071,31 +8071,49 @@ Nên mua khi mày muốn một chai tối, lạnh, có statement rõ. Nếu mày
     brand: "MAISON FRANCIS KURKDJIAN",
     name: "Oud Satin Mood",
     subName: "Eau de Parfum",
-    perfumer: "BLOCKED_SOURCE",
-    gender: "nu",
+    perfumer: "Francis Kurkdjian",
+    gender: "unisex",
     image: "/images/products/mfk-oud-satin-mood-main.jpg",
     images: [
-      { url: "/images/products/mfk-oud-satin-mood-main.jpg", source: "amazon", caption: "MAISON FRANCIS KURKDJIAN Oud Satin Mood chính hãng", verified: true }
+      { url: "/images/products/mfk-oud-satin-mood-main.jpg", source: "fragram", caption: "Maison Francis Kurkdjian Oud Satin Mood Eau de Parfum chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    description: "Chai niche hoa hồng-oud-vani xa hoa nhất MFK — hoa hồng Bulgaria, hoa tím, dâu tây, hoa hồng Thổ Nhĩ Kỳ, trầm hương, vani, hổ phách, benzoin, caramel và gỗ tuyết tùng. Satin mềm, opulent.",
+    article: `### Ai không nên mua?
+
+Nếu bạn nghe "oud" và tưởng tượng mùi thú vật gắt kiểu Trung Đông thì hãy yên tâm — Oud Satin Mood không như vậy. Nhưng nếu bạn thích mùi tươi sạch hay mùi tối giản thì chai này ngược hoàn toàn: đây là hoa hồng-oud-vani đậm, ngọt, và rất "giàu có". Ai mặc quần jean đi cà phê sáng sẽ thấy nó lạc lõng. Chai này kén hoàn cảnh — chọn sai dịp sẽ bị overdrеssed về mùi hương.
+
+### Có đáng tiền không?
+
+Đắt — nhưng MFK dùng nguyên liệu thật và không cắt xén. So với Tom Ford Oud Wood — cùng oud nhưng gỗ và khô hơn — thì Oud Satin Mood mềm hơn nhiều, nhiều hoa hồng hơn và ngọt hơn. So với Frederic Malle Portrait of a Lady — cùng hoa hồng opulent — thì Oud Satin Mood bớt hoắc hương hơn và thay bằng oud-vani mềm như satin. Bám 8-9 giờ, tỏa vừa phải. Chai này thiên về chất lượng blend hơn là độ tỏa xa.
+
+### Nên dùng khi nào?
+
+Đi event trang trọng, đám cưới, gặp bạn bè quan trọng, hoặc khi muốn cảm giác sang trong không gian riêng. Xịt 2 nhát: sau cổ và cổ tay. Trời mát-lạnh là lý tưởng. Ở Sài Gòn chỉ dùng tối trong nhà hàng hoặc phòng điều hòa mạnh. Hà Nội mùa đông là thiên đường cho chai này.`,
+    verdict: "Hoa hồng-oud mềm như satin — opulent, ngọt, rất MFK. Kén dịp nhưng đúng lúc thì không gì sánh.",
+    verdictShort: "HOA HỒNG OUD, SATIN MỀM, OPULENT",
+    score: { scent: 9.5, uniqueness: 9, compliments: 8.8, value: 7.5, total: 8.7 },
+    vibes: [{ label: "Opulent", icon: "👑" }, { label: "Sang trọng", icon: "💎" }, { label: "Dịp đặc biệt", icon: "🥂" }],
+    longevity: 9,
+    sillage: 7,
+    seasons: { spring: 35, summer: 8, fall: 82, winter: 95 },
+    dayNight: { day: 18, night: 88 },
+    topNotes: [{ name: "Hoa hồng Bulgaria" }, { name: "Hoa tím" }, { name: "Dâu tây" }],
+    middleNotes: [{ name: "Hoa hồng Thổ Nhĩ Kỳ" }],
+    baseNotes: [{ name: "Trầm hương" }, { name: "Vani" }, { name: "Hổ phách" }, { name: "Benzoin" }, { name: "Caramel" }, { name: "Gỗ tuyết tùng" }],
+    accords: [
+      { name: "Hoa", value: 100, color: "#e91e63" },
+      { name: "Oud", value: 78, color: "#3e2723" },
+      { name: "Vani", value: 65, color: "#F5DEB3" },
+      { name: "Hổ phách", value: 55, color: "#d4a017" },
+      { name: "Gỗ", value: 45, color: "#8B4513" }
+    ],
+    seoTitle: "MFK Oud Satin Mood chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá MFK Oud Satin Mood chính hãng: mùi hoa hồng oud vani satin opulent, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Opulent","Dịp đặc biệt"],
+    sizes: ["10ml Chiết","70ml Fullbox","200ml Fullbox"],
+    basePrice: 6800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "oud-wood",
