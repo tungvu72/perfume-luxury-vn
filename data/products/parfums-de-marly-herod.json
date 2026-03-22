@@ -4,51 +4,46 @@
   "brand": "PARFUMS DE MARLY",
   "name": "Herod",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
+  "perfumer": "Olivier Pescheux",
   "gender": "nam",
   "image": "/images/products/parfums-de-marly-herod-main.jpg",
   "images": [
     {
       "url": "/images/products/parfums-de-marly-herod-main.jpg",
-      "source": "amazon",
-      "caption": "PARFUMS DE MARLY Herod chính hãng",
+      "source": "fragram",
+      "caption": "Parfums de Marly Herod Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nHerod là một trong những mùi tobacco ngọt đẹp nhất của Parfums de Marly: quế, thuốc lá, vanilla và gỗ hòa vào nhau theo kiểu rất mượt, rất sang và rất dễ gây nghiện. Nó không khô khắc kiểu thuốc lá cổ điển, mà mềm, ấm và có sức hút rõ ngay từ đầu. Đây là kiểu mùi tối rất mạnh cho người thích chất nam tính quyến rũ.\n\nĐiểm mạnh của Herod là độ cân bằng giữa tobacco và vanilla. Nó đủ tối để có chiều sâu, nhưng đủ mượt để không khó gần. Trong khí hậu Việt Nam, chai này hợp cho tối, hẹn hò, máy lạnh hoặc các dịp muốn một mùi hương sang và cuốn.\n\n## Diễn biến trên da\nMở đầu là gia vị và độ ngọt ấm lên khá nhanh, sau đó thuốc lá bắt đầu rõ hơn và kéo tổng thể vào vùng dày, tròn và quyến rũ. Mùi phát triển mượt, rất “nằm da”.\n\nDrydown là lớp tobacco-vanilla mềm, ấm và cực kỳ dễ gây thiện cảm ở cự ly gần. Nó không quá khói hay quá khô. Nhược điểm là trời nóng và xịt mạnh tay dễ làm mùi trở nên hơi dày.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nHerod có hiệu năng khá tốt, khoảng 7-9 giờ; tỏa hương vừa đến khá. Nó hợp tối, hẹn hò, ăn tối, event hoặc mùa mát khi muốn một mùi thật sự có sức hút.\n\nỞ Việt Nam, dùng đẹp nhất trong điều hòa hoặc buổi tối. Ưu điểm là tobacco rất đẹp và wearable; nhược điểm là không phải kiểu chai vô tư dùng giữa trưa nóng.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích tobacco ngọt ấm, sang và nịnh mũi, Herod là lựa chọn cực mạnh. Nó hợp người cần một chai tối có chiều sâu mà vẫn đủ dễ dùng để được thích.\n\nNên mua khi mày muốn một chai date night hoặc mùa mát rất ăn tiền. Nếu mày ghét mùi ngọt ấm, nên test trước.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nam",
-    "NEEDS_SOURCE"
+  "description": "Chai nam thuốc lá vani sang nhất — quế, tiêu, thuốc lá, trầm, vani, gỗ tuyết tùng và cỏ hương bài. Ấm, khói và cực kỳ gentleman.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi sạch tươi citrus kiểu Bleu de Chanel thì Herod hoàn toàn ngược — đây là mùi thuốc lá-vani-quế rất ấm và đậm. Ai dùng ban ngày trời nóng sẽ thấy quá nặng. Ngoài ra, giá niche cao — không hợp blind buy nếu chưa test.\n\n### Có đáng tiền không?\n\nHerod thuộc phân khúc niche — đắt hơn D&G The One EDP nhưng rẻ hơn Tom Ford. So với D&G The One EDP (cùng nhóm thuốc lá), Herod đậm hơn, sang hơn và vani mạnh hơn. So với Angels' Share, Herod ít rượu hơn, nhiều thuốc lá-quế hơn. Hiệu năng rất tốt: bám 9 giờ, tỏa khá mạnh. Đây là chai niche thuốc lá-vani đẹp nhất.\n\n### Nên dùng khi nào?\n\nMùa thu đông, buổi tối, hẹn hò, tiệc, dịp đặc biệt. Xịt 2 nhát: cổ, ngực. Đẹp nhất khi trời mát dưới 22°C. Ở Sài Gòn chỉ dùng buổi tối hoặc phòng máy lạnh.",
+  "verdict": "Chai thuốc lá-vani niche đẹp nhất — ấm, sang và gentleman. Bám 9h. Hợp thu đông. Quá đậm cho mùa hè.",
+  "verdictShort": "THUỐC LÁ VANI, SANG, GENTLEMAN",
+  "score": { "scent": 9.2, "uniqueness": 8.5, "compliments": 9.0, "value": 7.8, "total": 8.6 },
+  "vibes": [
+    { "label": "Gentleman", "icon": "🎩" },
+    { "label": "Thu đông", "icon": "🍂" },
+    { "label": "Sang trọng", "icon": "💎" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 9,
+  "sillage": 8,
+  "seasons": { "spring": 35, "summer": 10, "fall": 92, "winter": 98 },
+  "dayNight": { "day": 22, "night": 95 },
+  "topNotes": [{ "name": "Quế" }, { "name": "Tiêu" }],
+  "middleNotes": [{ "name": "Thuốc lá" }, { "name": "Trầm hương" }, { "name": "Hoa mộc" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Iso E Super" }, { "name": "Gỗ tuyết tùng" }, { "name": "Xạ hương" }, { "name": "Cỏ hương bài" }, { "name": "Hoắc hương" }],
+  "accords": [
+    { "name": "Gia vị ấm", "value": 100, "color": "#e67e22" },
+    { "name": "Vani", "value": 88, "color": "#F5DEB3" },
+    { "name": "Thuốc lá", "value": 78, "color": "#6e3b1f" },
+    { "name": "Ngọt", "value": 62, "color": "#8B0000" },
+    { "name": "Gỗ", "value": 52, "color": "#8B4513" }
+  ],
+  "seoTitle": "Parfums de Marly Herod chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Parfums de Marly Herod chính hãng: mùi thuốc lá vani quế sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Niche", "Gentleman", "Thu đông"],
+  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
+  "basePrice": 5200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

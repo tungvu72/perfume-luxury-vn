@@ -4,51 +4,46 @@
   "brand": "TOM FORD",
   "name": "Ombré Leather",
   "subName": "Eau de Parfum",
-  "perfumer": "BLOCKED_SOURCE",
-  "gender": "nam",
+  "perfumer": "Sonia Constant",
+  "gender": "unisex",
   "image": "/images/products/tom-ford-ombre-leather-main.jpg",
   "images": [
     {
       "url": "/images/products/tom-ford-ombre-leather-main.jpg",
-      "source": "amazon",
-      "caption": "TOM FORD Ombre Leather chính hãng",
+      "source": "fragram",
+      "caption": "Tom Ford Ombré Leather Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nOmbré Leather là kiểu da hiện đại rất Tom Ford: sạch, tối, mượt và có độ sexy rõ mà không quá hoang dã. Nó không phải da bụi bặm kiểu khô cứng, mà là da bóng, sang, có chút floral làm mượt và rất dễ mặc hơn nhiều người tưởng. Đây là chai dùng được cho cả nam lẫn nữ nếu thích tông da sang.\n\nĐiểm mạnh của Ombré Leather là sự cân bằng giữa cá tính và khả năng dùng thực tế. Nó vẫn ra mùi da rất rõ, nhưng không quá khó gần như vài mùi leather niche nặng đô. Trong khí hậu Việt Nam, chai này hợp cho tối, máy lạnh, đi chơi, event hoặc khi muốn nâng outfit lên một bậc.\n\n## Diễn biến trên da\nMở đầu là da hiện lên gần như ngay lập tức, sau đó các sắc floral và gỗ làm mùi tròn hơn, mượt hơn. Toàn bộ quá trình phát triển không quá nhiều tầng, nhưng giữ được texture da rất đẹp.\n\nDrydown ấm, da mềm và hơi ôm da, tạo cảm giác sang và gần. Nó không quá gắt nếu dùng đúng liều. Nhược điểm là ai không thích leather rõ có thể thấy nó hơi áp lực.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nOmbré Leather có hiệu năng tốt, khoảng 7-9 giờ lưu hương; tỏa hương vừa đến khá. Nó hợp tối, hẹn hò, tiệc, máy lạnh và các dịp cần mùi hương có chất thời trang rõ.\n\nỞ Việt Nam, nên dùng tối và xịt tiết chế. Ưu điểm là da đẹp, sang và rất wearable; nhược điểm là kém linh hoạt cho ban ngày nóng.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai leather hiện đại, dễ mặc hơn tưởng tượng và rất hợp outfit tối màu, Ombré Leather là lựa chọn rất mạnh. Nó hợp người thích tông da sang và muốn một mùi có cá tính nhưng chưa quá khó.\n\nNên mua khi mày cần một chai buổi tối có chất thời trang. Nếu mày ghét mùi da, nên tránh blind buy.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nam",
-    "NEEDS_SOURCE"
+  "description": "Chai da thuộc sang nhất Tom Ford — bạch đậu khấu, da thuộc, nhài Sambac, hổ phách, rêu và hoắc hương. Đậm, nam tính và cực kỳ luxurious.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi da thuộc thì Ombré Leather đúng nghĩa là da — da đen, da mới, da thuộc rất rõ từ đầu đến cuối. Ai thích mùi ngọt hoặc mùi tươi citrus cũng sẽ thấy chai này khô và nặng. Ngoài ra, chai này unisex nhưng nghiêng nam mạnh.\n\n### Có đáng tiền không?\n\nOmbré Leather thuộc phân khúc Tom Ford — đắt nhưng chất. So với Fahrenheit cùng nhóm da, Ombré Leather sang hơn và đơn giản hơn (ít violet). So với Tuscan Leather cùng hãng, Ombré Leather mềm hơn, hiện đại hơn và dễ mặc hơn. Hiệu năng tốt: bám 8-9 giờ, tỏa vừa-khá. Đây là chai da thuộc đẹp nhất segment Tom Ford.\n\n### Nên dùng khi nào?\n\nMùa thu đông, buổi tối, sự kiện, áo da jacket. Xịt 2 nhát: cổ, ngực. Đẹp nhất khi trời mát dưới 25°C. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.",
+  "verdict": "Chai da thuộc đẹp nhất Tom Ford — đậm, sang và cực nam. Hợp thu đông. Không hợp ai ghét mùi da hoặc thích mùi nhẹ.",
+  "verdictShort": "DA THUỘC, SANG, CỰC NAM",
+  "score": { "scent": 9.0, "uniqueness": 8.8, "compliments": 8.2, "value": 7.5, "total": 8.4 },
+  "vibes": [
+    { "label": "Nam tính", "icon": "🖤" },
+    { "label": "Sang trọng", "icon": "💎" },
+    { "label": "Thu đông", "icon": "🍂" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 9,
+  "sillage": 7,
+  "seasons": { "spring": 38, "summer": 12, "fall": 88, "winter": 95 },
+  "dayNight": { "day": 28, "night": 85 },
+  "topNotes": [{ "name": "Bạch đậu khấu" }],
+  "middleNotes": [{ "name": "Da thuộc" }, { "name": "Nhài Sambac" }],
+  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Rêu" }, { "name": "Hoắc hương" }],
+  "accords": [
+    { "name": "Da thuộc", "value": 100, "color": "#795548" },
+    { "name": "Gỗ", "value": 72, "color": "#8B4513" },
+    { "name": "Gia vị ấm", "value": 62, "color": "#e67e22" },
+    { "name": "Hoa", "value": 48, "color": "#e91e63" },
+    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+  ],
+  "seoTitle": "Tom Ford Ombré Leather chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Tom Ford Ombré Leather chính hãng: mùi da thuộc sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Unisex", "Da thuộc", "Sang trọng", "Thu đông"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 4500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
