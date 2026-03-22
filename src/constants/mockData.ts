@@ -2989,53 +2989,52 @@ Nếu bạn muốn một chai nước hoa unisex sang, mềm, tinh tế và mang
   {
     id: "ysl-la-nuit-de-lhomme",
     brandSlug: "ysl",
-    brand: "YVES SAINT LAURENT",
-    name: "La Nuit de l'Homme",
+    brand: "YSL",
+    name: "La Nuit de L'Homme",
     subName: "Eau de Toilette",
-    perfumer: "Anne Flipo, Pierre Wargnye, Dominique Ropion",
+    perfumer: "Anne Flipo, Pierre Wargnye & Dominique Ropion",
     gender: "nam",
     image: "/images/products/ysl-la-nuit-de-lhomme-main.jpg",
     images: [
-      { url: "/images/products/ysl-la-nuit-de-lhomme-main.jpg", source: "studio", caption: "Ảnh sản phẩm La Nuit de L'Homme (chai và hộp)" },
-      { url: "/images/products/ysl-la-nuit-de-lhomme-bottle.jpg", source: "studio", caption: "Ảnh chai La Nuit de L'Homme" }
+      { url: "/images/products/ysl-la-nuit-de-lhomme-main.jpg", source: "fragram", caption: "YSL La Nuit de L'Homme Eau de Toilette chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-La Nuit de l'Homme là một trong những chai nước hoa nam quyến rũ nhất của YSL theo kiểu mềm, gần, sang và có chút bí ẩn. Mùi hương không đi theo hướng nam tính gắt hay tỏa ồn ào, mà chọn cách dùng bạch đậu khấu, oải hương, gỗ và chút ngọt vừa đủ để tạo cảm giác rất cuốn khi đứng gần. Đây là kiểu mùi khiến người đối diện muốn lại gần hơn chứ không phải kiểu bước vào phòng ai cũng nhận ra ngay.
+    description: "Chai nam hẹn hò huyền thoại — bạch đậu khấu, cam bergamot, oải hương, gỗ tuyết tùng Virginia và cỏ hương bài. Ấm, gia vị và cực kỳ seductive.",
+    article: `### Ai không nên mua?
 
-Cái hay của La Nuit nằm ở sự cân bằng. Nó vừa đủ lịch sự để không bị phản cảm, vừa đủ sensual để dùng cho buổi tối, hẹn hò hoặc không gian thân mật. Ở thị trường Việt Nam, đây là nhóm mùi rất dễ được khen vì nó sạch, quyến rũ nhưng không phô. Tuy nhiên, độ bùng nổ của nó không nằm ở projection mà ở aura khi tiếp xúc gần.
+Nếu bạn cần hiệu năng beast mode thì La Nuit de L'Homme là CHAI TỆ NHẤT — bám 3-4 giờ, tỏa gần. Đây là chai nổi tiếng... yếu hiệu năng nhất lịch sử. Ai dùng hằng ngày đi làm hoặc thích mùi sạch tươi cũng sẽ thấy nó quá ấm và quá tối cho ban ngày.
 
-## Diễn biến trên da
-Mở đầu là bạch đậu khấu khá rõ, tạo cảm giác cay nhẹ và sang. Sau đó oải hương làm mùi hương mềm lại, còn gỗ tuyết tùng giữ cho tổng thể vẫn nam tính và đứng form. Trên da ấm, La Nuit thường lên mượt hơn, ngọt hơn một chút và có độ ôm da rất đẹp.
+### Có đáng tiền không?
 
-Khoảng sau 30-45 phút, mùi chuyển sang giai đoạn ổn định nhất: cay nhẹ, thơm sạch, trầm vừa đủ và rất dễ chịu. Nó không có quá nhiều lớp biến chuyển phức tạp, nhưng lại cực kỳ dễ dùng. Điểm mạnh là sự chỉn chu và cảm giác gợi cảm kín đáo; điểm yếu là ai kỳ vọng mùi cực sâu hoặc cực niche có thể thấy nó hơi an toàn.
+La Nuit thuộc phân khúc designer tầm trung. So với D&G The One EDP (cùng nhóm hẹn hò), La Nuit mềm hơn, nhiều lavender hơn nhưng bám YẾU hơn rất nhiều. So với Dior Homme Intense, La Nuit dễ dùng hơn nhưng ít phấn hơn. Hiệu năng cực yếu (3-4 giờ) là điểm trừ lớn. MÙI RẤT ĐẸP nhưng bám tệ — nên xịt lên quần áo.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-La Nuit de l'Homme bản EDT có độ lưu hương trung bình, thường khoảng 4-6 giờ trên da, trên quần áo sẽ khá hơn. Tỏa hương ở mức gần đến vừa, nên đặc biệt hợp môi trường hẹn hò, ăn tối, đi bar nhẹ, cà phê tối hoặc văn phòng máy lạnh nếu mày xịt tiết chế.
+### Nên dùng khi nào?
 
-Trong khí hậu nóng ẩm Việt Nam, chai này lên đẹp nhất vào chiều tối, trời mát hoặc không gian điều hòa. Ban ngày nắng gắt vẫn dùng được nhưng không phải thời điểm đẹp nhất của nó. Nhược điểm lớn nhất là hiệu năng không quá mạnh so với kỳ vọng giá tiền, nên ai ưu tiên bền mùi có thể thấy hơi thiếu.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai nước hoa nam thiên về quyến rũ, lịch sự, dễ gần và cực hợp hẹn hò, La Nuit de l'Homme vẫn là lựa chọn kinh điển. Nó hợp người trẻ đến trung niên, đặc biệt ai thích phong cách ăn mặc gọn gàng, tối giản nhưng có gu.
-
-Nên mua khi mày cần một mùi buổi tối an toàn, dễ dùng và có khả năng tạo thiện cảm cao. Không nên mua nếu mục tiêu là hiệu năng mạnh, tỏa xa hoặc cần một mùi quá khác biệt.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "Hương gỗ cay thanh lịch, biểu tượng quyến rũ ban đêm",
-    verdictShort: "VERIFIED",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [{ name: "Bạch đậu khấu" }],
-    middleNotes: [{ name: "Oải hương" }, { name: "Gỗ tuyết tùng Virginia" }, { name: "Cam bergamot" }],
-    baseNotes: [{ name: "Cỏ hương bài" }, { name: "Thì là Ai Cập" }],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Hẹn hò buổi tối, ăn tối lãng mạn. Xịt 4-5 nhát vì rất nhanh tan: cổ, ngực, cổ tay, quần áo. Đẹp nhất cuối thu qua đông. Ở Sài Gòn dùng buổi tối phòng máy lạnh.`,
+    verdict: "Mùi hẹn hò đẹp nhất — nhưng hiệu năng tệ nhất. Bám 3-4 giờ. Ai chịu được điểm yếu này thì rất đáng dùng.",
+    verdictShort: "MÙI ĐẸP, HIỆU NĂNG TỆ",
+    score: { scent: 9.2, uniqueness: 8.2, compliments: 9.5, value: 6.5, total: 8.3 },
+    vibes: [{ label: "Hẹn hò", icon: "❤️" }, { label: "Buổi tối", icon: "🌙" }, { label: "Quyến rũ", icon: "🔥" }],
+    longevity: 3,
+    sillage: 4,
+    seasons: { spring: 52, summer: 22, fall: 88, winter: 92 },
+    dayNight: { day: 22, night: 95 },
+    topNotes: [{ name: "Bạch đậu khấu" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Oải hương" }, { name: "Gỗ tuyết tùng Virginia" }],
+    baseNotes: [{ name: "Cỏ hương bài" }, { name: "Thì là" }],
+    accords: [
+      { name: "Gia vị ấm", value: 100, color: "#e67e22" },
+      { name: "Gỗ", value: 72, color: "#8B4513" },
+      { name: "Thơm thảo mộc", value: 62, color: "#2c7a4b" },
+      { name: "Hoa", value: 48, color: "#9b59b6" },
+      { name: "Ngọt", value: 42, color: "#8B0000" }
+    ],
+    seoTitle: "YSL La Nuit de L'Homme chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá YSL La Nuit de L'Homme chính hãng: mùi hẹn hò huyền thoại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Hẹn hò","Buổi tối","Huyền thoại"],
+    sizes: ["10ml Chiết","60ml Fullbox","100ml Fullbox"],
+    basePrice: 2400000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "xerjoff-naxos",
@@ -4209,51 +4208,51 @@ Nên mua khi mày đang tìm một signature ban ngày cao cấp. Nếu ưu tiê
     id: "hermes-terre-dhermes-parfum",
     brandSlug: "hermes",
     brand: "HERMÈS",
-    name: "Terre d'Hermès Parfum",
+    name: "Terre d'Hermès",
     subName: "Parfum",
-    perfumer: "BLOCKED_SOURCE",
+    perfumer: "Jean-Claude Ellena",
     gender: "nam",
     image: "/images/products/hermes-terre-dhermes-parfum-main.jpg",
     images: [
-      { url: "/images/products/hermes-terre-dhermes-parfum-main.jpg", source: "amazon", caption: "HERMÈS Terre d'Hermès Parfum chính hãng", verified: true }
+      { url: "/images/products/hermes-terre-dhermes-parfum-main.jpg", source: "fragram", caption: "Hermès Terre d'Hermès Parfum chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Terre d'Hermes Parfum là phiên bản đậm, tròn và sâu hơn so với bản gốc EDT. Nó vẫn giữ DNA cam chanh khoáng chất và vetiver đặc trưng, nhưng giảm độ sắc của phần citrus để nhường chỗ cho lớp nền gỗ, nhựa cây và khoáng ấm hơn. Kết quả là một mùi hương trưởng thành, chắc chắn, sang và có cảm giác formal hơn bản gốc.
+    description: "Chai nam đất-gỗ sang nhất Hermès — cam, bưởi, đá lửa, gỗ nhựa, rêu sồi và benzoin. Đất, khoáng và cực kỳ tinh tế. Bản Parfum đậm nhất.",
+    article: `### Ai không nên mua?
 
-Nếu EDT giống hình ảnh một người đàn ông đi làm chỉn chu ban ngày thì bản Parfum giống phiên bản chững hơn, sang hơn và phù hợp thời điểm chiều tối hoặc những dịp cần vẻ đĩnh đạc nhiều hơn. Đây là chai rất hợp với người đã hiểu Terre d'Hermes và muốn một bản ít chua hơn, mượt hơn nhưng vẫn giữ cái hồn khoáng-gỗ rất riêng của Hermes.
+Nếu bạn thích mùi ngọt ấm sexy kiểu Le Male Le Parfum hay Most Wanted thì Terre d'Hermès Parfum hoàn toàn ngược — đây là mùi đất-khoáng-gỗ rất khô và tiết chế. Ai cần mùi nổi bật, bắt tai ngay cũng sẽ thấy chai này quá subtle. Đây là mùi cho người hiểu và đam mê.
 
-## Diễn biến trên da
-Mở đầu vẫn có cam và citrus, nhưng không bùng sáng như EDT. Thay vào đó, cảm giác khô, khoáng và gỗ xuất hiện sớm hơn, khiến tổng thể dày và sâu hơn ngay từ đầu. Khoảng sau 20-30 phút, phần nhựa, gỗ và vetiver bắt đầu ôm lấy làn da, tạo cảm giác rất điềm tĩnh và có trọng lượng.
+### Có đáng tiền không?
 
-Drydown của bản Parfum thường đẹp hơn với người không thích độ sắc của bản gốc. Nó mềm hơn, ít bụi đá hơn nhưng lại già dặn hơn. Nhược điểm là ai mê chính sự tươi sáng, linh hoạt và độ mở ban ngày của EDT có thể thấy Parfum kém thoáng hơn một chút.
+Terre Parfum thuộc phân khúc Hermès — đắt hơn Dior và Chanel. So với bản EDT gốc, Parfum đậm hơn, gỗ hơn và bám lâu hơn nhiều. So với Encre Noire (cùng nhóm gỗ-vetiver), Terre Parfum sang hơn và citrus hơn. Hiệu năng rất tốt: bám 9 giờ, tỏa vừa-khá. Đây là chai "quiet luxury" — sang mà không cần gào.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Terre d'Hermes Parfum có độ lưu hương tốt, thường 7-9 giờ; tỏa hương ở mức vừa phải nhưng bám ổn định. Nó rất hợp đi làm, gặp đối tác, không gian cần sự trưởng thành, ăn mặc nghiêm túc hoặc những ngày mát trời. So với EDT, bản này hợp chiều tối và mùa mát hơn.
+### Nên dùng khi nào?
 
-Trong thời tiết Việt Nam, vẫn dùng được quanh năm nhưng đẹp nhất khi tiết trời dễ chịu hoặc ở môi trường máy lạnh. Ưu điểm là sang, chững và có chiều sâu; nhược điểm là mức độ thân thiện với người mới không cao bằng bản EDT, vì tính khoáng-gỗ của dòng Terre luôn có chút khô và nghiêm.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích DNA Terre d'Hermes nhưng muốn bản đậm hơn, trưởng thành hơn và sang hơn, bản Parfum là lựa chọn hợp lý. Nó hợp người đã đi làm, thích phong cách kín, gọn, ít nói nhưng có trọng lượng.
-
-Nên mua khi mày muốn một chai dùng cho công việc, gặp gỡ nghiêm túc hoặc làm mùi chữ ký trưởng thành. Nếu mày cần sự linh hoạt, sáng và dễ gần hơn, bản EDT vẫn dễ dùng hơn.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Dùng quanh năm — đi làm, gặp khách VIP, sự kiện, dạo phố. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất mùa thu. Ở Sài Gòn dùng quanh năm — citrus đầu rất hợp nóng.`,
+    verdict: "Chai đất-gỗ-khoáng tinh tế nhất — quiet luxury. Bám 9h. Hợp đi làm, gặp khách VIP. Quá subtle cho ai thích mùi nổi.",
+    verdictShort: "ĐẤT, GỖ, QUIET LUXURY",
+    score: { scent: 9, uniqueness: 9, compliments: 7.8, value: 8, total: 8.5 },
+    vibes: [{ label: "Tinh tế", icon: "🪨" }, { label: "Sang trọng", icon: "💎" }, { label: "Đa dụng", icon: "🔄" }],
+    longevity: 9,
+    sillage: 7,
+    seasons: { spring: 72, summer: 55, fall: 88, winter: 78 },
+    dayNight: { day: 72, night: 62 },
+    topNotes: [{ name: "Cam" }, { name: "Bưởi" }],
+    middleNotes: [{ name: "Đá lửa (Flint)" }],
+    baseNotes: [{ name: "Gỗ nhựa" }, { name: "Rêu sồi" }, { name: "Benzoin" }],
+    accords: [
+      { name: "Khoáng", value: 100, color: "#7f8c8d" },
+      { name: "Cam chanh", value: 78, color: "#f1c40f" },
+      { name: "Gỗ", value: 72, color: "#8B4513" },
+      { name: "Đất", value: 62, color: "#5d4037" },
+      { name: "Nhựa", value: 48, color: "#d4a017" }
+    ],
+    seoTitle: "Hermès Terre d'Hermès Parfum chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Hermès Terre d'Hermès Parfum chính hãng: mùi đất gỗ khoáng tinh tế, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Tinh tế","Sang trọng","Đa dụng"],
+    sizes: ["10ml Chiết","75ml Fullbox","200ml Fullbox"],
+    basePrice: 3500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "creed-green-irish-tweed",
