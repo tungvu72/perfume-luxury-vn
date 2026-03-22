@@ -4,7 +4,7 @@
   "brand": "MUGLER",
   "name": "Angel",
   "subName": "Eau de Parfum",
-  "perfumer": "Olivier Cresp & Yves de Chirin",
+  "perfumer": "Olivier Cresp & Yves de Chiris",
   "gender": "nu",
   "image": "/images/products/mugler-angel-main.jpg",
   "images": [
@@ -15,129 +15,34 @@
       "verified": true
     }
   ],
-  "description": "Chai khai sinh dòng gourmand — kẹo bông, socola, hoắc hương, vani và caramel. Ngọt đậm, gây nghiện và cực kỳ khác biệt. Love or hate.",
-  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt thì Angel sẽ là cơn ác mộng — đây là chai ngọt nhất lịch sử nước hoa: kẹo bông, socola, caramel và hoắc hương. Người thích mùi nhẹ nhàng, tươi mát hay floral thanh cũng nên tránh xa. Angel là mùi love-or-hate hoàn toàn — không có vùng an toàn. Bắt buộc phải test trước khi mua.\n\n### Có đáng tiền không?\n\nAngel thuộc phân khúc Mugler — rẻ hơn Chanel và Dior. So với La Vie Est Belle, Angel ngọt hơn GẤP ĐÔI và có socola-hoắc hương rất mạnh. So với Black Opium, Angel cổ điển hơn và gourmand hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa rất mạnh. Chai này xịt 1 nhát bám cả ngày — nếu hợp gu thì cực kỳ đáng tiền.\n\n### Nên dùng khi nào?\n\nMùa đông, trời lạnh, đi tối, tiệc, sự kiện. Xịt 1 nhát DUY NHẤT — tỏa quá mạnh. Đẹp nhất khi dưới 20°C. Ở Việt Nam chỉ nên dùng mùa lạnh Hà Nội hoặc phòng máy lạnh rất mạnh. Đừng bao giờ xịt 3 nhát đi ăn trưa.",
-  "verdict": "Chai gourmand huyền thoại — socola, hoắc hương, kẹo ngọt. Bám 10 giờ+. Love or hate. Phải test trước.",
-  "verdictShort": "GOURMAND KINH ĐIỂN, LOVE OR HATE",
-  "score": {
-    "scent": 9,
-    "uniqueness": 9.5,
-    "compliments": 7.5,
-    "value": 8.5,
-    "total": 8.6
-  },
+  "description": "Chai gourmand đầu tiên trong lịch sử nước hoa — kẹo bông, dừa, mâm xôi, mật ong, chocolate, hoắc hương, vani, caramel và gỗ đàn hương. Ngọt, sốc và cách mạng từ 1992.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt thì Angel là ÁC MỘNG — đây là chai ngọt nhất mọi thời đại. Ai thích mùi sạch tươi nhẹ nhàng cũng nên tránh xa. Dùng ban ngày mùa hè sẽ buồn nôn. Chai này polarizing cực kỳ — người yêu thì nghiện, người ghét thì muốn bỏ chạy.\n\n### Có đáng tiền không?\n\nAngel thuộc phân khúc designer — giá rất tốt cho chai huyền thoại 1992. Đây là chai MỞ RA thể loại gourmand — La Vie Est Belle, Black Opium, Good Girl đều chịu ảnh hưởng từ Angel. So với Black Opium, Angel ngọt hơn và có hoắc hương mạnh hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa rất mạnh. Giá rẻ — best value legend.\n\n### Nên dùng khi nào?\n\nMùa đông, buổi tối. Xịt 1 nhát — tỏa cả phòng. Đẹp nhất khi trời lạnh. Ở Sài Gòn chỉ dùng tối trong phòng máy lạnh.",
+  "verdict": "Chai cách mạng 1992 — cha đẻ gourmand. Ngọt, sốc, beast mode 10h+. Yêu hoặc ghét, không ai quên.",
+  "verdictShort": "GOURMAND HUYỀN THOẠI 1992, CỰC NGỌT",
+  "score": { "scent": 8.5, "uniqueness": 10.0, "compliments": 7.5, "value": 8.5, "total": 8.6 },
   "vibes": [
-    {
-      "label": "Gourmand",
-      "icon": "🍫"
-    },
-    {
-      "label": "Cá tính",
-      "icon": "🔥"
-    },
-    {
-      "label": "Kinh điển",
-      "icon": "👑"
-    }
+    { "label": "Huyền thoại", "icon": "👑" },
+    { "label": "Gourmand", "icon": "🍫" },
+    { "label": "Polarizing", "icon": "⚡" }
   ],
   "longevity": 10,
-  "sillage": 9,
-  "seasons": {
-    "spring": 28,
-    "summer": 10,
-    "fall": 72,
-    "winter": 98
-  },
-  "dayNight": {
-    "day": 18,
-    "night": 92
-  },
-  "topNotes": [
-    {
-      "name": "Kẹo bông"
-    },
-    {
-      "name": "Dừa"
-    },
-    {
-      "name": "Cam bergamot"
-    },
-    {
-      "name": "Dứa"
-    }
-  ],
-  "middleNotes": [
-    {
-      "name": "Mật ong"
-    },
-    {
-      "name": "Quả mọng"
-    },
-    {
-      "name": "Mơ"
-    },
-    {
-      "name": "Nhục đậu khấu"
-    }
-  ],
-  "baseNotes": [
-    {
-      "name": "Hoắc hương"
-    },
-    {
-      "name": "Socola"
-    },
-    {
-      "name": "Caramel"
-    },
-    {
-      "name": "Vani"
-    },
-    {
-      "name": "Đậu Tonka"
-    }
-  ],
+  "sillage": 10,
+  "seasons": { "spring": 15, "summer": 2, "fall": 72, "winter": 98 },
+  "dayNight": { "day": 5, "night": 92 },
+  "topNotes": [{ "name": "Kẹo bông" }, { "name": "Dừa" }, { "name": "Lý chua đen" }, { "name": "Dứa" }, { "name": "Cam bergamot" }],
+  "middleNotes": [{ "name": "Mật ong" }, { "name": "Quả mọng đỏ" }, { "name": "Mận" }, { "name": "Nhục đậu khấu" }, { "name": "Hoa hồng" }],
+  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Chocolate" }, { "name": "Caramel" }, { "name": "Vani" }, { "name": "Đậu Tonka" }, { "name": "Hổ phách" }, { "name": "Xạ hương" }, { "name": "Gỗ đàn hương" }],
   "accords": [
-    {
-      "name": "Ngọt",
-      "value": 100,
-      "color": "#8B0000"
-    },
-    {
-      "name": "Hoắc hương",
-      "value": 85,
-      "color": "#4e342e"
-    },
-    {
-      "name": "Gourmand",
-      "value": 78,
-      "color": "#6d4c41"
-    },
-    {
-      "name": "Vani",
-      "value": 72,
-      "color": "#F5DEB3"
-    },
-    {
-      "name": "Hoa",
-      "value": 42,
-      "color": "#e91e63"
-    }
+    { "name": "Gourmand", "value": 100, "color": "#d4a373" },
+    { "name": "Hoắc hương", "value": 82, "color": "#4e342e" },
+    { "name": "Ngọt", "value": 78, "color": "#8B0000" },
+    { "name": "Vani", "value": 65, "color": "#F5DEB3" },
+    { "name": "Trái cây", "value": 48, "color": "#f39c12" }
   ],
   "seoTitle": "Mugler Angel EDP chính hãng mua ở đâu? Review 2026",
-  "metaDescription": "Đánh giá Mugler Angel EDP chính hãng: chai gourmand huyền thoại socola-hoắc hương, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": [
-    "Nữ",
-    "Gourmand",
-    "Kinh điển",
-    "Cá tính"
-  ],
-  "sizes": [
-    "10ml Chiết",
-    "25ml Fullbox",
-    "50ml Fullbox",
-    "100ml Fullbox"
-  ],
+  "metaDescription": "Đánh giá Mugler Angel EDP chính hãng: chai gourmand huyền thoại 1992, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nữ", "Huyền thoại", "Gourmand", "Polarizing"],
+  "sizes": ["10ml Chiết", "25ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
   "basePrice": 2500000,
   "shopeeOffers": [],
   "isPublished": true
