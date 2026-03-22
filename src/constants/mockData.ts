@@ -219,51 +219,51 @@ Gặp khách VIP, sự kiện, tiệc tối, dịp quan trọng. Xịt 2 nhát: 
   },
   {
     id: "acqua-di-gio-profondo",
-    brandSlug: "armani",
+    brandSlug: "giorgio-armani",
     brand: "GIORGIO ARMANI",
     name: "Acqua di Giò Profondo",
     subName: "Eau de Parfum",
     perfumer: "Alberto Morillas",
     gender: "nam",
-    image: "/images/products/acqua-di-gio-profondo-main.jpg",
+    image: "/images/products/giorgio-armani-acqua-di-gio-profondo-main.jpg",
     images: [
-      { url: "/images/products/acqua-di-gio-profondo-main.jpg", source: "fragram", caption: "Giorgio Armani Acqua di Giò Profondo Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/giorgio-armani-acqua-di-gio-profondo-main.jpg", source: "fragram", caption: "Acqua di Giò Profondo Eau de Parfum chính hãng", verified: true }
     ],
-    description: "Phiên bản biển sâu hiện đại của Acqua di Giò — mát, khoáng và nam tính hơn bản gốc. Xuất sắc cho mùa nóng và đi làm ban ngày.",
+    description: "Chai nam biển-khoáng-hoắc hương sâu nhất dòng AdG — biển, aquozone, cam bergamot, cam xanh, hương thảo, oải hương, bách, khoáng, xạ hương, hoắc hương và hổ phách. Biển sâu, khoáng và hiện đại.",
     article: `### Ai không nên mua?
 
-Nếu bạn thích mùi ngọt ấm kiểu đi tối hoặc mùi gỗ đậm thì Profondo hoàn toàn ngược — đây là mùi biển mát, sạch, ban ngày. Ai cần mùi tạo ấn tượng mạnh, sexy hay beast mode cũng sẽ thấy Profondo hơi hiền. Ngoài ra, mùa đông Hà Nội dùng Profondo sẽ hơi lạnh — không hợp trời rét.
+Nếu bạn đang tìm bản "Acqua di Gio hiện đại" thì Profondo chính xác là thứ bạn cần. Nhưng nếu bạn nostalgia AdG gốc 1996 — kiểu biển nhẹ, tươi mát, đơn giản — thì Profondo sẽ khác hẳn: nặng hơn, tối hơn, nhiều khoáng-hoắc hương hơn. Ai thích mùi ấm ngọt cũng sẽ thấy nó lạnh và "mineral" quá.
 
 ### Có đáng tiền không?
 
-Profondo thuộc phân khúc designer tầm trung-cao. So với bản ADG EDT cổ điển, Profondo hiện đại hơn, sâu hơn và bám tốt hơn. So với Prada Luna Rossa Carbon cùng nhóm fresh ban ngày, Profondo biển hơn và mát hơn. So với bản ADG Profumo, Profondo sáng hơn và ít khói hơn. Hiệu năng khá: bám 6-7 giờ, tỏa vừa. Đây là chai summer king — dùng mùa nóng ở Việt Nam thì không chai nào hợp hơn.
+Giá Armani tầm trung — và Alberto Morillas (cùng perfumer tạo Acqua di Gio gốc) quay lại làm Profondo. So với Bleu de Chanel EDP — cùng nhóm nam sạch hiện đại — thì Profondo biển hơn, khoáng hơn và ít gỗ hơn. So với Versace Dylan Blue — rẻ hơn — thì Profondo phức tạp hơn một bậc với lớp lentisque-cypress. Bám 7-8 giờ (tốt hơn AdG gốc rất nhiều), tỏa vừa.
 
 ### Nên dùng khi nào?
 
-Đi làm, đi học, đi biển, đi chơi ban ngày. Xịt 3-4 nhát: cổ, ngực, cổ tay — vì tỏa nhẹ nên xịt nhiều hơn. Đẹp nhất mùa hè, mùa xuân khi trời nóng 28-35°C. Ở Sài Gòn dùng quanh năm được luôn. Đừng dùng cho hẹn hò tối — quá sạch và thiếu depth cho buổi tối.`,
-    verdict: "Mùi biển mát, sạch và cực kỳ hợp mùa nóng. Hợp đi làm ban ngày. Không hợp ai thích mùi ngọt ấm hay đi tối.",
-    verdictShort: "MÁT, SẠCH, HỢP TRỜI NÓNG",
-    score: { scent: 8.7, uniqueness: 7.4, compliments: 8.8, value: 8.3, total: 8.3 },
-    vibes: [{ label: "Mùa hè", icon: "☀️" }, { label: "Biển", icon: "🌊" }, { label: "Văn phòng", icon: "💼" }],
-    longevity: 7,
+Đi làm, đi chơi ban ngày, du lịch biển, dạo phố. Xịt 3 nhát: cổ, ngực, cổ tay. Dùng xuân hè là đẹp nhất — ở Sài Gòn dùng quanh năm. Hà Nội từ tháng 3-10. Mùa đông có thể hơi lạnh vì khoáng. Chai "làm mới AdG" cho thế hệ 2020.`,
+    verdict: "Biển sâu khoáng — Acqua di Gio nâng cấp 2020. Morillas quay lại. Sạch, hiện đại, bám tốt hơn gốc.",
+    verdictShort: "BIỂN SÂU KHOÁNG, ADG NAG CẤP, HIỆN ĐẠI",
+    score: { scent: 8.5, uniqueness: 7.5, compliments: 8.5, value: 8, total: 8.1 },
+    vibes: [{ label: "Biển sâu", icon: "🌊" }, { label: "Hiện đại", icon: "✨" }, { label: "Office", icon: "💼" }],
+    longevity: 8,
     sillage: 7,
-    seasons: { spring: 82, summer: 96, fall: 58, winter: 36 },
-    dayNight: { day: 94, night: 35 },
-    topNotes: [{ name: "Cam bergamot" }, { name: "Quýt xanh" }],
-    middleNotes: [{ name: "Oải hương" }, { name: "Hương thảo" }, { name: "Bách" }],
-    baseNotes: [{ name: "Khoáng" }, { name: "Xạ hương" }, { name: "Hoắc hương" }],
+    seasons: { spring: 88, summer: 82, fall: 52, winter: 28 },
+    dayNight: { day: 88, night: 42 },
+    topNotes: [{ name: "Biển" }, { name: "Aquozone" }, { name: "Cam bergamot" }, { name: "Cam xanh" }],
+    middleNotes: [{ name: "Hương thảo" }, { name: "Oải hương" }, { name: "Bách" }, { name: "Lentisque" }],
+    baseNotes: [{ name: "Khoáng" }, { name: "Xạ hương" }, { name: "Hoắc hương" }, { name: "Hổ phách" }],
     accords: [
-      { name: "Biển", value: 100, color: "#3498db" },
-      { name: "Tươi", value: 88, color: "#2ecc71" },
-      { name: "Thơm thảo mộc", value: 65, color: "#2c7a4b" },
-      { name: "Khoáng", value: 55, color: "#95a5a6" },
-      { name: "Cam chanh", value: 48, color: "#f1c40f" }
+      { name: "Nước", value: 100, color: "#2980b9" },
+      { name: "Thơm thảo mộc", value: 72, color: "#2c7a4b" },
+      { name: "Cam chanh", value: 62, color: "#f1c40f" },
+      { name: "Khoáng", value: 55, color: "#7f8c8d" },
+      { name: "Gỗ", value: 42, color: "#8B4513" }
     ],
     seoTitle: "Acqua di Giò Profondo chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Acqua di Giò Profondo chính hãng: mùi biển sạch hiện đại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nam","Mùa hè","Văn phòng","Biển"],
+    metaDescription: "Đánh giá Acqua di Giò Profondo chính hãng: mùi biển sâu khoáng hiện đại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Biển","Hiện đại","Office"],
     sizes: ["10ml Chiết","40ml Fullbox","75ml Fullbox","125ml Fullbox"],
-    basePrice: 2700000,
+    basePrice: 2200000,
     shopeeOffers: [],
     isPublished: true
   },
