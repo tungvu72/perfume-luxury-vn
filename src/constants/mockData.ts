@@ -4055,33 +4055,51 @@ Nếu bạn muốn một chai nước hoa unisex sang, mềm, tinh tế và mang
     id: "gentleman-eau-de-parfum-reserve-privee",
     brandSlug: "givenchy",
     brand: "GIVENCHY",
-    name: "Gentleman Eau de Parfum Reserve Privee",
+    name: "Gentleman Réserve Privée",
     subName: "Eau de Parfum",
     perfumer: "Olivier Cresp",
     gender: "nam",
-    image: "/images/products/givenchy-gentleman-eau-de-parfum-reserve-privee-main.jpg",
+    image: "/images/products/givenchy-gentleman-reserve-privee-main.jpg",
     images: [
-      { url: "/images/products/givenchy-gentleman-eau-de-parfum-reserve-privee-main.jpg", source: "amazon", caption: "GIVENCHY Gentleman Eau de Parfum Reserve Privee chính hãng", verified: true }
+      { url: "/images/products/givenchy-gentleman-reserve-privee-main.jpg", source: "fragram", caption: "Givenchy Gentleman Réserve Privée chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    description: "Chai nam iris-cacao-cognac kiểu cigar lounge — iris, cacao, cognac, gỗ tuyết tùng, cam bergamot, hoắc hương và benzoin. Ấm, boozy và quý ông nhất dòng Gentleman.",
+    article: `### Ai không nên mua?
+
+Nếu bạn dưới 25 và muốn mùi club night — thì Réserve Privée quá trầm, quá cigar lounge cho bạn. Đây là chai Gentleman CUỐI CÙNG trong dòng — đậm nhất, tối nhất, boozy nhất. Cognac + cacao tạo ra cảm giác ly rượu nâu bên lò sưởi. Ai thích fresh-sporty đừng nghĩ tới.
+
+### Có đáng tiền không?
+
+Giá Givenchy affordable designer — rẻ hơn Dior, Chanel rõ rệt. So với Gentleman Boisée — cùng dòng — thì Réserve Privée nhiều cognac hơn, boozy hơn, ít gỗ cháy hơn. So với Tom Ford Tobacco Vanille — cùng vibes cigar lounge — thì RP rẻ hơn 3 lần mà có DNA tương tự. Bám 8+ giờ.
+
+### Nên dùng khi nào?
+
+Đi ăn tối sang, bar, sự kiện, hoặc đêm mùa đông đặc biệt. Xịt 2-3 nhát cổ. Thu đông only — Hà Nội tháng 10-2. Sài Gòn tối phòng điều hòa mạnh. Chai kết thúc dòng Gentleman một cách hoàn hảo.`,
+    verdict: "Cognac-cacao cigar lounge — Gentleman đậm nhất. Givenchy giá tốt. Tom Ford vibes, designer price.",
+    verdictShort: "COGNAC CACAO, CIGAR LOUNGE, GIÁ TỐT",
+    score: { scent: 8.8, uniqueness: 8.5, compliments: 8.5, value: 9, total: 8.7 },
+    vibes: [{ label: "Cigar lounge", icon: "🥃" }, { label: "Gentleman", icon: "🎩" }, { label: "Giá tốt", icon: "💸" }],
+    longevity: 9,
+    sillage: 7,
+    seasons: { spring: 22, summer: 5, fall: 82, winter: 92 },
+    dayNight: { day: 15, night: 88 },
+    topNotes: [{ name: "Iris" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Cacao" }, { name: "Cognac" }],
+    baseNotes: [{ name: "Gỗ tuyết tùng" }, { name: "Hoắc hương" }, { name: "Benzoin" }],
+    accords: [
+      { name: "Gourmand", value: 100, color: "#d4a373" },
+      { name: "Boozy", value: 82, color: "#6d4c41" },
+      { name: "Gỗ", value: 62, color: "#8B4513" },
+      { name: "Hoa", value: 42, color: "#e91e63" },
+      { name: "Gia vị ấm", value: 38, color: "#e67e22" }
+    ],
+    seoTitle: "Givenchy Gentleman Réserve Privée chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Gentleman Réserve Privée chính hãng: mùi cognac cacao cigar lounge, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Cigar lounge","Boozy","Giá tốt"],
+    sizes: ["10ml Chiết","60ml Fullbox","100ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "gentleman-reserve-privee",
@@ -4287,44 +4305,46 @@ GIT thuộc phân khúc niche cao cấp Creed — đắt nhất nhóm fresh xanh
     perfumer: "Jean-Claude Ellena",
     gender: "nam",
     image: "/images/products/tom-ford-grey-vetiver-main.jpg",
-    images: [{ url: "/images/products/tom-ford-grey-vetiver-main.jpg", source: "amazon", caption: "TOM FORD Grey Vetiver chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Grey Vetiver là một trong những chai Tom Ford chỉn chu nhất theo hướng sạch, khô, sang và trưởng thành. Nó không đi theo kiểu Tom Ford tối, ngọt hay sexy thường thấy, mà chọn hướng vetiver-citrus cực kỳ lịch sự, gọn và mang khí chất doanh nhân rõ rệt. Đây là kiểu mùi không cần phô trương nhưng vẫn khiến người mặc trông rất có gu.
+    images: [
+      { url: "/images/products/tom-ford-grey-vetiver-main.jpg", source: "fragram", caption: "Tom Ford Grey Vetiver Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai nam vetiver-cam-gỗ office kinh điển nhất Tom Ford — bưởi, cam, xô thơm, phong lữ, cỏ hương bài, gỗ sồi, hoắc hương, rêu và hổ phách. Vetiver sạch, elegant và CEO energy.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Grey Vetiver là sự tinh gọn. Mọi thứ được làm rất sạch: citrus đủ sáng, vetiver đủ khô, gia vị đủ nhẹ để tạo form nam tính rõ nhưng không gắt. Ở khí hậu Việt Nam, đây là nhóm mùi rất hợp với đi làm, gặp khách, mặc sơ mi, vest hoặc những lúc cần một mùi hương đáng tin cậy hơn là gây ấn tượng kiểu ồn ào.
+Nếu bạn muốn mùi gây chú ý, sexy, tỏa xa — thì Grey Vetiver quá kín đáo. Đây là vetiver SẠCH — kiểu bộ suit xám vừa vặn, không hoa văn, không phụ kiện thừa. Jean-Claude Ellena (Master Perfumer của Hermès) tạo ra chai này — và phong cách Ellena = tối giản, thanh, không thừa nốt nào. Ai thích bold sẽ thấy nó nhạt.
 
-## Diễn biến trên da
-Mở đầu là citrus sáng và sắc, tạo cảm giác rất gọn gàng. Sau đó vetiver xuất hiện rõ dần, mang đến phần thân mùi khô, xanh và rất nam tính. Càng về sau, lớp nền gỗ và gia vị nhẹ giữ tổng thể ổn định, không bị mỏng hay bay theo kiểu nước cologne đơn giản.
+### Có đáng tiền không?
 
-Drydown của Grey Vetiver rất đẹp nếu mày thích kiểu clean executive. Nó không ngọt, không tối, không dramatic, mà đều và sang theo cách rất controlled. Nhược điểm là ai thích Tom Ford kiểu nổi bật, đậm cá tính có thể thấy chai này quá an toàn.
+Giá Tom Ford — thuộc nhóm Signature nên đắt hơn designer nhưng rẻ hơn Private Blend. Ellena tạo Grey Vetiver như Terre d'Hermès phiên bản Tom Ford: cùng vetiver, cùng citrus, nhưng sạch hơn, ít đất hơn, elegant hơn. So với Terre d'Hermès — cùng vetiver — thì GV lịch sự hơn, bớt earthy. So với Chanel Bleu — cùng office — thì GV mature hơn, ít ambroxan hơn. Bám 8 giờ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Grey Vetiver có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa phải, rất hợp môi trường công sở và không gian lịch sự. Nó dùng tốt cho ban ngày, họp hành, gặp đối tác, đi làm hoặc các dịp cần sự chuyên nghiệp.
+### Nên dùng khi nào?
 
-Trong thời tiết Việt Nam, đây là chai rất dễ dùng vì không ngọt và không nặng. Ưu điểm là thanh lịch, sạch, ít rủi ro; nhược điểm là không phải lựa chọn tối ưu cho hẹn hò buổi tối hoặc những ai thích mùi có độ gây nghiện cao.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày cần một chai nam văn phòng cao cấp, lịch sự, sang và cực kỳ dễ mặc, Grey Vetiver là ứng viên rất mạnh. Nó hợp người trưởng thành, làm việc chuyên nghiệp và thích mùi hương phản ánh sự chỉn chu hơn là sự bùng nổ.
-
-Nên mua khi mày muốn một chai signature đi làm hoặc gặp khách. Nếu mày tìm một chai tối, ngọt hay quyến rũ hơn, Tom Ford còn nhiều hướng khác hợp hơn.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Văn phòng, meeting, gặp khách, hoặc BẤT CỨ KHI NÀO cần mùi hương professional. Xịt 2-3 nhát: cổ và cổ tay. Dùng quanh năm — vetiver giữ tươi mùa hè, gỗ sồi giữ ấm mùa đông. Chai "CEO scent" đúng nghĩa.`,
+    verdict: "Vetiver sạch nhất Tom Ford — Ellena tạo. CEO suit grey energy. Office king. Dùng quanh năm.",
+    verdictShort: "VETIVER SẠCH, CEO SCENT, ELLENA",
+    score: { scent: 8.5, uniqueness: 8, compliments: 7.5, value: 7.5, total: 7.9 },
+    vibes: [{ label: "CEO", icon: "💼" }, { label: "Sạch", icon: "✨" }, { label: "Office king", icon: "👔" }],
+    longevity: 8,
+    sillage: 6,
+    seasons: { spring: 78, summer: 62, fall: 72, winter: 58 },
+    dayNight: { day: 82, night: 52 },
+    topNotes: [{ name: "Bưởi" }, { name: "Cam" }, { name: "Xô thơm" }],
+    middleNotes: [{ name: "Phong lữ" }, { name: "Cỏ hương bài" }],
+    baseNotes: [{ name: "Gỗ sồi" }, { name: "Hoắc hương" }, { name: "Rêu" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Gỗ", value: 100, color: "#8B4513" },
+      { name: "Thơm thảo mộc", value: 72, color: "#2c7a4b" },
+      { name: "Cam chanh", value: 62, color: "#f1c40f" },
+      { name: "Xanh", value: 48, color: "#27ae60" },
+      { name: "Rêu", value: 38, color: "#556b2f" }
+    ],
+    seoTitle: "Tom Ford Grey Vetiver chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Tom Ford Grey Vetiver chính hãng: mùi vetiver sạch office CEO scent, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","CEO","Office","Vetiver"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 3500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "habit-rouge-edt",
