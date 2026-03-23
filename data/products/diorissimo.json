@@ -10,45 +10,40 @@
   "images": [
     {
       "url": "/images/products/dior-diorissimo-main.jpg",
-      "source": "amazon",
-      "caption": "DIOR Diorissimo chính hãng",
+      "source": "fragram",
+      "caption": "Dior Diorissimo Eau de Toilette chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nDiorissimo là một tượng đài của mùi hoa linh lan: xanh, trong, thanh và rất tinh tế. Nó không ngọt, không dày, không cố sexy, mà đẹp ở sự sạch, mềm và gần như mong manh. Đây là kiểu mùi floral cổ điển rất khác thị trường hiện nay, hợp với người yêu sự tinh giản và thanh lịch thật sự.\n\nĐiểm mạnh của Diorissimo là độ tinh khiết. Nó cho cảm giác như bó hoa trắng xanh vừa cắt xong, có gió và có ánh sáng. Trong điều kiện Việt Nam, đây là chai rất đẹp cho ban ngày, người thích mùi nhẹ và không muốn mùi hương áp lên không gian quá mạnh.\n\n## Diễn biến trên da\nMở đầu floral xanh rất rõ, sau đó mùi mềm dần nhưng vẫn giữ nét sáng và thanh suốt quá trình dùng. Nó không có nhiều lớp tối hay ngọt; toàn bộ vẻ đẹp nằm ở sự trong trẻo và liền lạc.\n\nDrydown sạch, floral mềm và hơi xanh nhẹ, rất dễ chịu trên da. Nó không tạo cảm giác phô trương mà nghiêng về sự kín đáo. Nhược điểm là ai thích mùi đậm, ngọt hoặc sexy sẽ thấy Diorissimo quá hiền.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nDiorissimo có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương nhẹ đến vừa. Nó hợp đi làm, ban ngày, mùa nóng, gặp gỡ nhẹ hoặc khi muốn một mùi hương thật thanh.\n\nỞ Việt Nam, chai này dùng rất ổn nhờ độ thoáng. Ưu điểm là tinh và lịch sự; nhược điểm là độ statement thấp.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích floral xanh sạch, cổ điển và rất thanh, Diorissimo là lựa chọn đẹp. Nó hợp người yêu nước hoa hoa cỏ theo hướng tinh tế hơn là gây chú ý.\n\nNên mua khi mày cần một chai ban ngày nhẹ và có gu. Nếu mày muốn mùi nổi hoặc ngọt ấm, đây không phải hướng phù hợp.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai nữ linh lan-nhài kiểu Dior cổ điển nhất — hoa linh lan, nhài, hổ phách, rêu và boronia. Linh lan thuần khiết, xanh và đẹp kiểu nắng mai.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi mạnh, ngọt, hay sexy — thì Diorissimo sẽ quá nhẹ, quá \"trắng\", quá innocent. Đây là hoa linh lan (lily of the valley) — loài hoa mà Dior yêu nhất — được Edmond Roudnitska, một trong những perfumer VĨ ĐẠI NHẤT lịch sử, tái hiện trên da. Mùi như WI sáng đầu xuân — sạch, xanh, tươi — không có gì nặng nề.\n\n### Có đáng tiền không?\n\nGiá Dior tầm trung — nhưng Diorissimo thuộc dòng heritage, ra đời 1956. Edmond Roudnitska (perfumer cũng tạo Eau Sauvage) là legend — và Diorissimo được coi là KIỆT TÁC soliflore linh lan. Vấn đề: hoa linh lan không thể chiết xuất tự nhiên — nên toàn bộ là art of synthesis. So với Guerlain Muguet — cùng linh lan — thì Diorissimo sạch hơn, ít phấn hơn. Bám 4-5 giờ (EDT nhẹ).\n\n### Nên dùng khi nào?\n\nMùa xuân, ban ngày, đi dạo, dự lễ, hoặc khi muốn mùi hương thuần khiết nhất. Xịt 3-4 nhát vì EDT nhẹ. Đẹp nhất tháng 3-5 — khi hoa thật sự nở. Cả Sài Gòn và Hà Nội dùng ban ngày. Chai dành cho ai hiểu rằng đơn giản là đỉnh cao.",
+  "verdict": "Linh lan thuần khiết — Roudnitska 1956. Kiệt tác soliflore. Đơn giản nhưng đỉnh cao nước hoa.",
+  "verdictShort": "LINH LAN THUẦN KHIẾT, 1956, KIỆT TÁC",
+  "score": { "scent": 9.0, "uniqueness": 9.0, "compliments": 6.5, "value": 7.5, "total": 8.0 },
+  "vibes": [
+    { "label": "Thuần khiết", "icon": "🤍" },
+    { "label": "Mùa xuân", "icon": "🌿" },
+    { "label": "Kiệt tác", "icon": "🏛️" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 4,
+  "sillage": 4,
+  "seasons": { "spring": 95, "summer": 62, "fall": 35, "winter": 18 },
+  "dayNight": { "day": 88, "night": 22 },
+  "topNotes": [{ "name": "Hoa linh lan" }],
+  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Boronia" }],
+  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Rêu" }],
+  "accords": [
+    { "name": "Hoa", "value": 100, "color": "#e91e63" },
+    { "name": "Xanh", "value": 72, "color": "#27ae60" },
+    { "name": "Tươi mát", "value": 62, "color": "#2ecc71" },
+    { "name": "Xạ hương", "value": 42, "color": "#bdc3c7" },
+    { "name": "Phấn", "value": 35, "color": "#d7bde2" }
+  ],
+  "seoTitle": "Dior Diorissimo chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Dior Diorissimo chính hãng: mùi linh lan thuần khiết kiệt tác 1956, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nữ", "Kiệt tác", "Thuần khiết", "Mùa xuân"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
