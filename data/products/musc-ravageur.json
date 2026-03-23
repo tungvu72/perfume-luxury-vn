@@ -1,54 +1,35 @@
 {
   "id": "musc-ravageur",
   "brandSlug": "frederic-malle",
-  "brand": "FRÉDÉRIC MALLE",
+  "brand": "FREDERIC MALLE",
   "name": "Musc Ravageur",
   "subName": "Eau de Parfum",
   "perfumer": "Maurice Roucel",
   "gender": "unisex",
   "image": "/images/products/frederic-malle-musc-ravageur-main.jpg",
-  "images": [
-    {
-      "url": "/images/products/frederic-malle-musc-ravageur-main.jpg",
-      "source": "amazon",
-      "caption": "FRÉDÉRIC MALLE Musc Ravageur chính hãng",
-      "verified": true
-    }
+  "images": [{ "url": "/images/products/frederic-malle-musc-ravageur-main.jpg", "source": "fragram", "caption": "Frederic Malle Musc Ravageur chính hãng", "verified": true }],
+  "description": "Chai unisex xạ hương-vani-hổ phách kiểu sex in a bottle — xạ hương, vani, hổ phách, quế, oải hương, cam quýt, benzoin, gỗ đàn hương và cỏ hương bài. Xạ hương tàn phá, nóng và rất nổi tiếng.",
+  "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi office sạch — Musc Ravageur là SEX IN A BOTTLE theo nghĩa đen. Maurice Roucel (24 Faubourg, Insolence) tạo ra chai xạ hương-vani-hổ phách mà nhiều người gọi là \"mùi da sau khi...\" — warm, animalic, intimate. Tên \"Ravageur\" = TÀN PHÁ. Không phải cho tất cả mọi người.\n\n### Có đáng tiền không?\n\nGiá Frederic Malle — đắt top niche. Nhưng DNA ở đây không ai copy được: xạ hương + vani ở nồng độ cao tạo ra aura mà generic designer musk không thể. So với Narciso Rodriguez For Her Musc Noir — mainstream musk — thì Ravageur MẠNH hơn 5x, sâu hơn 5x. So với Kilian Good Girl Gone Bad — cùng niche sexy — thì Ravageur nhiều xạ hương hơn, ít hoa hơn. Bám 10+ giờ.\n\n### Nên dùng khi nào?\n\nĐêm đặc biệt, hẹn hò, phòng ngủ. Xịt 1 nhát GÓC CỔ — MỘT NHÁT thôi. Thu đông. Hà Nội tháng 11-2. Sài Gòn chỉ tối phòng điều hòa lạnh. Không phải hằng ngày.",
+  "verdict": "Sex in a bottle — Roucel xạ hương tàn phá. Frederic Malle legend. 10h+. 1 nhát cổ = đủ.",
+  "verdictShort": "XẠ HƯƠNG TÀN PHÁ, SEX IN A BOTTLE, ROUCEL",
+  "score": { "scent": 9.5, "uniqueness": 9.5, "compliments": 9.0, "value": 7.0, "total": 8.8 },
+  "vibes": [{ "label": "Sex", "icon": "🔥" }, { "label": "Tàn phá", "icon": "💣" }, { "label": "Niche", "icon": "💎" }],
+  "longevity": 10, "sillage": 9,
+  "seasons": { "spring": 18, "summer": 2, "fall": 72, "winter": 92 },
+  "dayNight": { "day": 5, "night": 95 },
+  "topNotes": [{ "name": "Oải hương" }, { "name": "Cam quýt" }],
+  "middleNotes": [{ "name": "Xạ hương" }, { "name": "Quế" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Hổ phách" }, { "name": "Benzoin" }, { "name": "Gỗ đàn hương" }, { "name": "Cỏ hương bài" }],
+  "accords": [
+    { "name": "Xạ hương", "value": 100, "color": "#bdc3c7" },
+    { "name": "Vani", "value": 85, "color": "#F5DEB3" },
+    { "name": "Hổ phách", "value": 72, "color": "#d4a017" },
+    { "name": "Gia vị ấm", "value": 55, "color": "#e67e22" },
+    { "name": "Nốt động vật", "value": 42, "color": "#5d4037" }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nMusc Ravageur là kiểu mùi ấm, da thịt và cực kỳ gợi cảm theo cách rất người lớn. Nó không sạch sáng, không playful, không dễ chiều; thay vào đó là xạ hương, vanilla, gia vị và nhựa thơm tạo thành một tổng thể nóng, sâu và rất ôm da. Đây là một trong những chai niche có sức hút xác thịt rõ rệt nhất.\n\nĐiểm mạnh của Musc Ravageur là nó không cố làm đẹp theo kiểu an toàn. Nó muốn quyến rũ, và nó làm điều đó rất trực diện nhưng vẫn có chất lượng blend cao. Trong điều kiện Việt Nam, đây là chai hợp buổi tối, máy lạnh, hẹn hò hoặc những dịp muốn một mùi hương thật sự có sức kéo cảm xúc.\n\n## Diễn biến trên da\nMở đầu là gia vị và độ ấm khá nhanh, sau đó xạ hương cùng vanilla bắt đầu làm tổng thể trở nên dày và mềm hơn. Mùi không đi theo hướng sáng mở rồi tối dần, mà gần như ngay từ đầu đã rất ôm, rất thân mật.\n\nDrydown của Musc Ravageur cực kỳ đẹp nếu mày thích skin scent có lực: ấm, mịn, quyến rũ và rất sâu. Nhược điểm là nó không hề dễ mặc trong thời tiết nóng hoặc những bối cảnh cần sự sạch sẽ trung tính.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nMusc Ravageur có hiệu năng tốt, thường 7-9 giờ hoặc hơn; tỏa hương vừa đến khá. Nó hợp nhất cho tối, hẹn hò, không gian kín, trời mát hoặc những lúc muốn mùi hương mang tính thân mật rõ ràng.\n\nỞ Việt Nam, nên dùng cực tiết chế và ưu tiên tối hoặc phòng lạnh. Ưu điểm là sexy, niche, rất có chiều sâu; nhược điểm là không đa dụng và khá kén thời tiết.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai niche thật sự gợi cảm, ấm và có cảm giác rất da thịt, Musc Ravageur là cái tên đáng thử nghiêm túc. Nó hợp người đã biết gu mình, thích mùi ôm sát và có sức nặng cảm xúc.\n\nNên mua khi mày cần một chai tối đặc biệt cho hẹn hò hoặc dịp riêng tư. Nếu mày cần mùi đi làm sáng sạch, đây không phải hướng phù hợp.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Unisex",
-    "NEEDS_SOURCE"
-  ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "seoTitle": "Frederic Malle Musc Ravageur chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Musc Ravageur chính hãng: mùi xạ hương tàn phá niche legend, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Unisex", "Niche", "Sex", "Legend"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 6000000, "shopeeOffers": [], "isPublished": true
 }

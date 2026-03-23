@@ -7,48 +7,29 @@
   "perfumer": "Thierry Wasser",
   "gender": "nu",
   "image": "/images/products/guerlain-mon-guerlain-intense-main.jpg",
-  "images": [
-    {
-      "url": "/images/products/guerlain-mon-guerlain-intense-main.jpg",
-      "source": "amazon",
-      "caption": "GUERLAIN Mon Guerlain Intense chính hãng",
-      "verified": true
-    }
+  "images": [{ "url": "/images/products/guerlain-mon-guerlain-intense-main.jpg", "source": "fragram", "caption": "Guerlain Mon Guerlain Intense chính hãng", "verified": true }],
+  "description": "Phiên bản Intense đậm nhất Mon Guerlain — oải hương, cam bergamot, nhài, vani, gỗ đàn hương, coumarin, benzoin và iris. Mon Guerlain đậm hơn, vani hơn, cho đêm.",
+  "article": "### Ai không nên mua?\n\nNếu bạn có Mon Guerlain EDP gốc — Intense SẤT giống nhưng đẩy vani lên. Thierry Wasser giữ nguyên DNA oải hương-nhài-vani nhưng thêm coumarin (ngọt hạnh nhân) và benzoin. Sự khác biệt: đêm hơn, ngọt hơn, bám lâu hơn. Nếu gốc đủ rồi thì Intense redundant.\n\n### Có đáng tiền không?\n\nGiá Guerlain Intense — hơi đắt hơn gốc. So với Mon Guerlain EDP — tối hơn, ngọt hơn, 8-9 giờ vs 6-7 giờ. So với YSL Libre Intense — cùng nhóm nữ intense — thì Mon Guerlain Intense nhiều nhài hơn, ít oải hương hơn.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, hẹn hò, sự kiện. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối điều hòa. Mon Guerlain cho đêm lạnh.",
+  "verdict": "Mon Guerlain đậm — vani coumarin thêm. Cho đêm thu đông. Cùng DNA nhưng push ngọt.",
+  "verdictShort": "MON GUERLAIN TỐI, VANI ĐẬM, ĐÊM",
+  "score": { "scent": 8.0, "uniqueness": 7.0, "compliments": 8.0, "value": 7.5, "total": 7.6 },
+  "vibes": [{ "label": "Đêm", "icon": "🌙" }, { "label": "Vani", "icon": "🍦" }, { "label": "Ấm", "icon": "🕯️" }],
+  "longevity": 9, "sillage": 7,
+  "seasons": { "spring": 35, "summer": 12, "fall": 82, "winter": 85 },
+  "dayNight": { "day": 22, "night": 82 },
+  "topNotes": [{ "name": "Oải hương" }, { "name": "Cam bergamot" }],
+  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Iris" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Coumarin" }, { "name": "Benzoin" }],
+  "accords": [
+    { "name": "Vani", "value": 100, "color": "#F5DEB3" },
+    { "name": "Hoa trắng", "value": 72, "color": "#f5f5dc" },
+    { "name": "Thơm thảo mộc", "value": 48, "color": "#2c7a4b" },
+    { "name": "Ngọt", "value": 42, "color": "#8B0000" },
+    { "name": "Gỗ", "value": 38, "color": "#8B4513" }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nMon Guerlain Intense là phiên bản đậm, ấm và dày hơn của Mon Guerlain gốc. Nó vẫn giữ lavender, vanilla và cảm giác nữ tính sang đặc trưng, nhưng được làm sâu hơn, tối hơn và quyến rũ hơn rõ rệt. Đây là kiểu mùi rất hợp với người thích phong cách nữ hiện đại, mềm nhưng không nhạt.\n\nĐiểm hay của bản Intense là nó tăng chiều sâu mà không đánh mất sự dễ mặc. So với bản gốc, chai này có nhiều “trọng lượng” hơn, hợp buổi tối và môi trường máy lạnh hơn. Ở Việt Nam, đây là lựa chọn đẹp cho người thích mùi ấm sang nhưng vẫn muốn giữ độ nịnh mũi cao.\n\n## Diễn biến trên da\nMở đầu vẫn có nét floral-aromatic quen thuộc, sau đó vanilla và nền ấm bắt đầu kéo tổng thể xuống vùng mềm, dày và mượt hơn. Mùi phát triển liền lạc, không gắt và giữ được chất Guerlain rất rõ.\n\nDrydown là lớp vanilla ấm, nữ tính và khá ôm da. Nó sang theo kiểu mềm chứ không áp đảo. Nhược điểm là ai thích sự sáng thoáng ban ngày có thể vẫn hợp bản gốc hơn.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nMon Guerlain Intense có độ lưu hương khá tốt, khoảng 7-9 giờ; tỏa hương vừa. Nó hợp tối, hẹn hò, tiệc nhẹ, dùng mùa mát hoặc khi muốn một mùi nữ tính sang rõ hơn thường ngày.\n\nỞ Việt Nam, nên dùng đẹp nhất vào chiều tối hoặc phòng điều hòa. Ưu điểm là quyến rũ, dễ mặc và giữ DNA rất tốt; nhược điểm là không quá hợp trời nóng gắt.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích Mon Guerlain nhưng muốn phiên bản đậm và trưởng thành hơn, bản Intense rất đáng mua. Nó hợp người thích vanilla-lavender nữ tính sang và muốn một chai tối dễ dùng.\n\nNên mua khi mày cần một chai ấm sang cho buổi tối. Nếu mày ưu tiên sự thoáng nhẹ ban ngày, bản gốc vẫn dễ sống hơn.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
-  ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "seoTitle": "Guerlain Mon Guerlain Intense chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Mon Guerlain Intense chính hãng: mùi vani oải hương đậm cho đêm, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nữ", "Đêm", "Vani", "Thu đông"],
+  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "75ml Fullbox"],
+  "basePrice": 2500000, "shopeeOffers": [], "isPublished": true
 }
