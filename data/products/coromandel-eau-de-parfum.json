@@ -2,53 +2,48 @@
   "id": "coromandel-eau-de-parfum",
   "brandSlug": "chanel",
   "brand": "CHANEL",
-  "name": "Coromandel Eau de Parfum",
-  "subName": "Eau de Parfum",
+  "name": "Coromandel",
+  "subName": "Eau de Parfum (Les Exclusifs)",
   "perfumer": "Jacques Polge & Christopher Sheldrake",
-  "gender": "nu",
-  "image": "/images/products/chanel-coromandel-eau-de-parfum-main.jpg",
+  "gender": "unisex",
+  "image": "/images/products/chanel-coromandel-edp-main.jpg",
   "images": [
     {
-      "url": "/images/products/chanel-coromandel-eau-de-parfum-main.jpg",
-      "source": "amazon",
-      "caption": "CHANEL Coromandel Eau de Parfum chính hãng",
+      "url": "/images/products/chanel-coromandel-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Chanel Coromandel Les Exclusifs Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "(Chờ Coder viết bài)",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai unisex hoắc hương-chocolate trắng-trầm kiểu Les Exclusifs — cam đắng, neroli, citrus, hoắc hương, iris, hồng, nhài, benzoin, chocolate trắng, gỗ, trầm và vani. Hoắc hương chocolate, ấm và cực sang.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét hoắc hương — dừng lại. Coromandel là chai HOẮC HƯƠNG tốt nhất Chanel từng làm — dày, đen, ấm, phủ chocolate trắng bên trên. Tên lấy từ bình phong lacquer kiểu Coromandel mà Coco Chanel yêu thích — đen, vàng, phương Đông. Ai thích mùi nhẹ nhàng tươi mát sẽ thấy nó quá nặng và quá tối.\n\n### Có đáng tiền không?\n\nLes Exclusifs — dòng cao nhất Chanel, chỉ bán ở boutique Chanel. Giá đắt nhưng so với niche cùng level (như Tom Ford Private Blend) thì ngang. Coromandel đặc biệt ở nốt chocolate trắng — thứ hiếm thấy trong nước hoa — tạo ra cảm giác kem mượt trên nền hoắc hương đen. So với Tom Ford White Suede — cùng tier — thì Coromandel tối hơn, nhiều hoắc hương hơn. So với Dior Oud Rosewood — cùng nhóm gỗ oriental — thì Coromandel ngọt hơn. Bám 10+ giờ.\n\n### Nên dùng khi nào?\n\nDịp đặc biệt, sự kiện sang, hoặc khi muốn mùi Chanel mà 99% người không biết Chanel có. Xịt 2 nhát cổ — EDP mạnh. Dùng quanh năm nhưng đẹp nhất thu đông. Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai bí mật nhất Chanel.",
+  "verdict": "Hoắc hương-chocolate trắng Les Exclusifs — bí mật nhất Chanel. Bình phong lacquer Coromandel. 10h. Cho connoisseur.",
+  "verdictShort": "HOẮC HƯƠNG CHOCOLATE, LES EXCLUSIFS, BÍ MẬT",
+  "score": { "scent": 9.5, "uniqueness": 9.5, "compliments": 8.0, "value": 7.0, "total": 8.5 },
+  "vibes": [
+    { "label": "Exclusive", "icon": "💎" },
+    { "label": "Hoắc hương", "icon": "🖤" },
+    { "label": "Bí mật", "icon": "🤫" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 10,
+  "sillage": 7,
+  "seasons": { "spring": 52, "summer": 22, "fall": 85, "winter": 88 },
+  "dayNight": { "day": 42, "night": 78 },
+  "topNotes": [{ "name": "Cam đắng" }, { "name": "Neroli" }, { "name": "Cam chanh" }],
+  "middleNotes": [{ "name": "Hoắc hương" }, { "name": "Iris" }, { "name": "Hoa hồng" }, { "name": "Hoa nhài" }],
+  "baseNotes": [{ "name": "Benzoin" }, { "name": "Chocolate trắng" }, { "name": "Gỗ" }, { "name": "Trầm hương" }, { "name": "Vani Tahiti" }, { "name": "Nhũ hương" }, { "name": "Xạ hương" }],
+  "accords": [
+    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
+    { "name": "Hoắc hương", "value": 88, "color": "#556b2f" },
+    { "name": "Gourmand", "value": 62, "color": "#d4a373" },
+    { "name": "Hoa", "value": 48, "color": "#e91e63" },
+    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+  ],
+  "seoTitle": "Chanel Coromandel Les Exclusifs chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Chanel Coromandel Les Exclusifs chính hãng: mùi hoắc hương chocolate trắng exclusive, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Unisex", "Exclusive", "Hoắc hương", "Bí mật"],
+  "sizes": ["10ml Chiết", "75ml Fullbox", "200ml Fullbox"],
+  "basePrice": 5500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

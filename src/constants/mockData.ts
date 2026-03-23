@@ -2451,33 +2451,57 @@ Sự kiện trang trọng, opera, tiệc tối, hoặc khi muốn MÙI HƯƠNG C
     id: "coco-eau-de-toilette",
     brandSlug: "chanel",
     brand: "CHANEL",
-    name: "Coco Eau de Toilette",
+    name: "Coco",
     subName: "Eau de Toilette",
     perfumer: "Jacques Polge",
     gender: "nu",
-    image: "/images/products/chanel-coco-eau-de-toilette-main.jpg",
-    images: [
-      { url: "/images/products/chanel-coco-eau-de-toilette-main.jpg", source: "amazon", caption: "CHANEL Coco Eau de Toilette chính hãng", verified: true }
+    image: "/images/products/chanel-coco-edt-main.jpg",
+    images: [{ url: "/images/products/chanel-coco-edt-main.jpg", source: "fragram", caption: "Chanel Coco Eau de Toilette chính hãng", verified: true }],
+    description: "Phiên bản EDT nhẹ hơn của Chanel Coco kinh điển — hoa hồng Bulgaria, rau mùi, đào, nhài, cam quýt, đinh hương, mimosa, hoa cam, gỗ đàn hương, hổ phách, vani và labdanum. Oriental nhẹ, gia vị nhẹ, thoải mái hơn EDP.",
+    article: `### Ai không nên mua?
+
+Nếu bạn đã có Coco EDP — hãy biết EDT nhẹ hơn RẤT NHIỀU. Cùng DNA gia vị-hoa-hổ phách nhưng EDT mỏng hơn, tỏa gần hơn, bám ngắn hơn (5-6 giờ so với 9 giờ EDP). Nếu muốn full Coco experience, chọn EDP. EDT phù hợp hơn ai thấy EDP quá nặng hoặc muốn dùng ban ngày. Gen Z thích mùi nhẹ tươi cũng sẽ thấy EDT vẫn "mature" quá.
+
+### Có đáng tiền không?
+
+Giá Chanel — EDT rẻ hơn EDP chút. Vấn đề là: EDT bám yếu, cần xịt lại sau 4-5 giờ. So với Coco EDP — cùng DNA — thì EDT nhẹ hơn, phù hợp ngày ấm hơn. So với Coco Mademoiselle EDT — trẻ hơn, hiện đại hơn — thì Coco EDT cổ điển hơn, gia vị hơn, ít citrus hơn.
+
+### Nên dùng khi nào?
+
+Ban ngày thu nhẹ, đi ăn trưa, hoặc khi muốn Coco mà không quá nặng. Xịt 3-4 nhát vì EDT nhẹ: cổ, ngực, cổ tay. Dùng thu đông — Hà Nội tháng 10-3. Sài Gòn ban ngày phòng điều hòa. Nếu chưa thử Coco, nên bắt đầu từ EDT rồi quyết EDP sau.`,
+    verdict: "Coco kinh điển phiên bản nhẹ — gia vị hoa hổ phách. Cho ai muốn Coco ban ngày. EDP vẫn là best.",
+    verdictShort: "COCO NHẸ, BAN NGÀY, THỬ TRƯỚC EDP",
+    score: { scent: 8, uniqueness: 8, compliments: 7, value: 7, total: 7.5 },
+    vibes: [{ label: "Cổ điển", icon: "👑" }, { label: "Nhẹ nhàng", icon: "🌸" }, { label: "Ban ngày", icon: "☀️" }],
+    longevity: 5,
+    sillage: 5,
+    seasons: { spring: 55, summer: 22, fall: 72, winter: 72 },
+    dayNight: { day: 55, night: 62 },
+    topNotes: [{ name: "Hoa hồng Bulgaria" }, { name: "Rau mùi" }, { name: "Đào" }, { name: "Cam quýt" }, { name: "Hoa nhài" }],
+    middleNotes: [{ name: "Đinh hương" }, { name: "Hoa hồng" }, { name: "Mimosa" }, { name: "Hoa cam" }, { name: "Cỏ ba lá" }],
+    baseNotes: [
+      { name: "Gỗ đàn hương" },
+      { name: "Hổ phách" },
+      { name: "Opoponax" },
+      { name: "Cầy hương" },
+      { name: "Vani" },
+      { name: "Đậu Tonka" },
+      { name: "Labdanum" }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    accords: [
+      { name: "Hổ phách", value: 100, color: "#d4a017" },
+      { name: "Gia vị ấm", value: 72, color: "#e67e22" },
+      { name: "Ngọt", value: 55, color: "#8B0000" },
+      { name: "Phấn", value: 48, color: "#d7bde2" },
+      { name: "Gỗ", value: 42, color: "#8B4513" }
+    ],
+    seoTitle: "Chanel Coco EDT chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Chanel Coco EDT chính hãng: mùi oriental nhẹ nhàng ban ngày, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Cổ điển","Oriental","Ban ngày"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "coco-mademoiselle-edp",
@@ -2739,33 +2763,59 @@ Ban ngày mùa nóng — đi làm, đi học, đi biển, tập gym nhẹ. Xịt
     id: "coromandel-eau-de-parfum",
     brandSlug: "chanel",
     brand: "CHANEL",
-    name: "Coromandel Eau de Parfum",
-    subName: "Eau de Parfum",
+    name: "Coromandel",
+    subName: "Eau de Parfum (Les Exclusifs)",
     perfumer: "Jacques Polge & Christopher Sheldrake",
-    gender: "nu",
-    image: "/images/products/chanel-coromandel-eau-de-parfum-main.jpg",
+    gender: "unisex",
+    image: "/images/products/chanel-coromandel-edp-main.jpg",
     images: [
-      { url: "/images/products/chanel-coromandel-eau-de-parfum-main.jpg", source: "amazon", caption: "CHANEL Coromandel Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/chanel-coromandel-edp-main.jpg", source: "fragram", caption: "Chanel Coromandel Les Exclusifs Eau de Parfum chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    description: "Chai unisex hoắc hương-chocolate trắng-trầm kiểu Les Exclusifs — cam đắng, neroli, citrus, hoắc hương, iris, hồng, nhài, benzoin, chocolate trắng, gỗ, trầm và vani. Hoắc hương chocolate, ấm và cực sang.",
+    article: `### Ai không nên mua?
+
+Nếu bạn ghét hoắc hương — dừng lại. Coromandel là chai HOẮC HƯƠNG tốt nhất Chanel từng làm — dày, đen, ấm, phủ chocolate trắng bên trên. Tên lấy từ bình phong lacquer kiểu Coromandel mà Coco Chanel yêu thích — đen, vàng, phương Đông. Ai thích mùi nhẹ nhàng tươi mát sẽ thấy nó quá nặng và quá tối.
+
+### Có đáng tiền không?
+
+Les Exclusifs — dòng cao nhất Chanel, chỉ bán ở boutique Chanel. Giá đắt nhưng so với niche cùng level (như Tom Ford Private Blend) thì ngang. Coromandel đặc biệt ở nốt chocolate trắng — thứ hiếm thấy trong nước hoa — tạo ra cảm giác kem mượt trên nền hoắc hương đen. So với Tom Ford White Suede — cùng tier — thì Coromandel tối hơn, nhiều hoắc hương hơn. So với Dior Oud Rosewood — cùng nhóm gỗ oriental — thì Coromandel ngọt hơn. Bám 10+ giờ.
+
+### Nên dùng khi nào?
+
+Dịp đặc biệt, sự kiện sang, hoặc khi muốn mùi Chanel mà 99% người không biết Chanel có. Xịt 2 nhát cổ — EDP mạnh. Dùng quanh năm nhưng đẹp nhất thu đông. Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai bí mật nhất Chanel.`,
+    verdict: "Hoắc hương-chocolate trắng Les Exclusifs — bí mật nhất Chanel. Bình phong lacquer Coromandel. 10h. Cho connoisseur.",
+    verdictShort: "HOẮC HƯƠNG CHOCOLATE, LES EXCLUSIFS, BÍ MẬT",
+    score: { scent: 9.5, uniqueness: 9.5, compliments: 8, value: 7, total: 8.5 },
+    vibes: [{ label: "Exclusive", icon: "💎" }, { label: "Hoắc hương", icon: "🖤" }, { label: "Bí mật", icon: "🤫" }],
+    longevity: 10,
+    sillage: 7,
+    seasons: { spring: 52, summer: 22, fall: 85, winter: 88 },
+    dayNight: { day: 42, night: 78 },
+    topNotes: [{ name: "Cam đắng" }, { name: "Neroli" }, { name: "Cam chanh" }],
+    middleNotes: [{ name: "Hoắc hương" }, { name: "Iris" }, { name: "Hoa hồng" }, { name: "Hoa nhài" }],
+    baseNotes: [
+      { name: "Benzoin" },
+      { name: "Chocolate trắng" },
+      { name: "Gỗ" },
+      { name: "Trầm hương" },
+      { name: "Vani Tahiti" },
+      { name: "Nhũ hương" },
+      { name: "Xạ hương" }
+    ],
+    accords: [
+      { name: "Gỗ", value: 100, color: "#8B4513" },
+      { name: "Hoắc hương", value: 88, color: "#556b2f" },
+      { name: "Gourmand", value: 62, color: "#d4a373" },
+      { name: "Hoa", value: 48, color: "#e91e63" },
+      { name: "Hổ phách", value: 42, color: "#d4a017" }
+    ],
+    seoTitle: "Chanel Coromandel Les Exclusifs chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Chanel Coromandel Les Exclusifs chính hãng: mùi hoắc hương chocolate trắng exclusive, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Unisex","Exclusive","Hoắc hương","Bí mật"],
+    sizes: ["10ml Chiết","75ml Fullbox","200ml Fullbox"],
+    basePrice: 5500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "crystal-noir-eau-de-toilette",
