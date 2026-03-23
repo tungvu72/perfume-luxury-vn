@@ -1,54 +1,23 @@
 {
-  "id": "pour-homme",
-  "brandSlug": "versace",
-  "brand": "VERSACE",
-  "name": "Pour Homme",
-  "subName": "Eau de Toilette",
-  "perfumer": "Jean-Louis Sieuzac",
-  "gender": "nam",
-  "image": "/images/products/versace-pour-homme-main.jpg",
-  "images": [
-    {
-      "url": "/images/products/versace-pour-homme-main.jpg",
-      "source": "amazon",
-      "caption": "VERSACE Pour Homme chính hãng",
-      "verified": true
-    }
-  ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nVersace Pour Homme là kiểu citrus aromatic nam rất sáng, sạch và dễ dùng. Nó không cố trở nên quá cá tính hay quá sang kiểu trầm, mà tập trung vào cảm giác gọn gàng, dễ gần và cực hợp thời tiết nóng. Đây là một trong những chai designer nam fresh dễ sống nhất nếu mày cần thứ gì đó đơn giản mà hiệu quả.\n\nĐiểm mạnh của chai này là tính ứng dụng. Nó đi làm, đi học, đi chơi ban ngày, đi cà phê hay du lịch đều ổn. Trong khí hậu Việt Nam, đây là kiểu mùi gần như luôn có đất diễn vì sáng, thoáng và ít gây mệt cho người xung quanh.\n\n## Diễn biến trên da\nMở đầu là citrus và neroli sạch sáng lên khá nhanh, sau đó nền xạ hương và gỗ nhẹ giúp mùi tròn hơn nhưng vẫn giữ cảm giác mát. Mùi phát triển gọn, dễ hiểu và không có góc gắt.\n\nDrydown sạch, hơi xà phòng cao cấp và khá ôm da. Nó không tạo cảm giác quá phô trương, nhưng đủ khiến người khác thấy mày thơm và chỉnh tề. Nhược điểm là độ cá tính và độ bùng nổ không cao.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nVersace Pour Homme có độ lưu hương vừa, khoảng 4-6 giờ; tỏa hương vừa nhẹ. Nó hợp đi làm, đi học, mùa nóng, sau tắm, du lịch hoặc làm chai fresh hằng ngày rất thực dụng.\n\nỞ Việt Nam, chai này dùng cực khỏe nhờ độ thoáng. Ưu điểm là dễ mặc, sạch và giá trị sử dụng cao; nhược điểm là hiệu năng chỉ ở mức ổn.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày cần một chai nam fresh dễ dùng, ít rủi ro và hợp thời tiết nóng, Versace Pour Homme là lựa chọn rất ổn. Nó hợp người thích mùi sạch, sáng và không muốn suy nghĩ nhiều.\n\nNên mua khi mày muốn một chai ban ngày thật thực dụng. Nếu mày cần mùi đậm, tối hoặc thật nổi, nên tìm hướng khác.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nam",
-    "NEEDS_SOURCE"
-  ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "id": "pour-homme", "brandSlug": "dior", "brand": "DIOR", "name": "Dior Pour Homme", "subName": "Eau de Toilette",
+  "perfumer": "François Demachy", "gender": "nam",
+  "image": "/images/products/dior-pour-homme-main.jpg",
+  "images": [{ "url": "/images/products/dior-pour-homme-main.jpg", "source": "fragram", "caption": "Dior Pour Homme chính hãng", "verified": true }],
+  "description": "Chai nam iris-cacao-cam bergamot kiểu quý ông French — cam bergamot, xô thơm, iris, cacao, hổ phách, cỏ hương bài, gỗ đàn hương và xạ hương. Iris, sạch và rất Dior Homme.",
+  "article": "### Ai không nên mua?\n\nNếu bạn nhầm với Dior Homme — thì Pour Homme là phiên bản KHÁC: 2022 reformulate dòng Homme, bỏ tên \"Homme\" thành \"Pour Homme\". DNA iris vẫn ở nhưng nhẹ hơn, tươi hơn, dễ mặc hơn Homme gốc. Gita chú thích: nốt cacao ở đây nhẹ, subtile, không gourmand.\n\n### Có đáng tiền không?\n\nGiá Dior EDT. So với Dior Homme EDT gốc — Pour Homme nhẹ hơn, ít iris bột hơn, tươi hơn. So với Bleu de Chanel EDT — cùng office — thì Pour Homme có iris mà Bleu thiếu. Bám 5-6 giờ (EDT).\n\n### Nên dùng khi nào?\n\nĐi làm, meeting, ban ngày mát. Xịt 3 nhát cổ. Dùng quanh năm nhưng xuân thu đẹp nhất. Chai đi làm tinh tế nhất Dior.",
+  "verdict": "Iris nhẹ — Dior Homme rename. Demachy tươi hơn gốc. Office tinh tế. Quý ông Pháp nhẹ nhàng.",
+  "verdictShort": "IRIS NHẸ, OFFICE, QUÝ ÔNG PHÁP",
+  "score": { "scent": 7.5, "uniqueness": 7.0, "compliments": 7.5, "value": 7.5, "total": 7.4 },
+  "vibes": [{ "label": "Office", "icon": "💼" }, { "label": "Tinh tế", "icon": "✨" }, { "label": "Quý ông", "icon": "🎩" }],
+  "longevity": 5, "sillage": 5,
+  "seasons": { "spring": 78, "summer": 52, "fall": 72, "winter": 52 },
+  "dayNight": { "day": 78, "night": 42 },
+  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Xô thơm" }],
+  "middleNotes": [{ "name": "Iris" }, { "name": "Cacao" }],
+  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Cỏ hương bài" }, { "name": "Gỗ đàn hương" }, { "name": "Xạ hương" }],
+  "accords": [{ "name": "Hoa", "value": 100, "color": "#e91e63" }, { "name": "Phấn", "value": 72, "color": "#d7bde2" }, { "name": "Gỗ", "value": 55, "color": "#8B4513" }, { "name": "Cam chanh", "value": 48, "color": "#f1c40f" }],
+  "seoTitle": "Dior Pour Homme chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Dior Pour Homme chính hãng: mùi iris cacao office tinh tế quý ông Pháp, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nam", "Office", "Tinh tế", "Quý ông"], "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
+  "basePrice": 2200000, "shopeeOffers": [], "isPublished": true
 }

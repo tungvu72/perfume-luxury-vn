@@ -7560,29 +7560,46 @@ Nếu bạn muốn một chai nước hoa nữ ngọt hoa hiện đại, lãng m
     subName: "Eau de Parfum",
     perfumer: "Sonia Constant",
     gender: "nu",
-    image: "/images/products/narciso-rodriguez-musc-noir-rose-for-her-main.jpg",
+    image: "/images/products/narciso-rodriguez-musc-noir-rose-main.jpg",
     images: [
-      { url: "/images/products/narciso-rodriguez-musc-noir-rose-for-her-main.jpg", source: "amazon", caption: "NARCISO RODRIGUEZ Musc Noir Rose For Her chính hãng", verified: true }
+      { url: "/images/products/narciso-rodriguez-musc-noir-rose-main.jpg", source: "fragram", caption: "NR Musc Noir Rose For Her chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    description: "Chai nữ hồng-xạ hương đen-hoắc hương kiểu romantic dark — hoa hồng Thổ Nhĩ Kỳ, hoắc hương, xạ hương đen, hổ phách và gỗ tuyết tùng. Hồng tối, xạ hương và elegant.",
+    article: `### Ai không nên mua?
+
+Nếu bạn muốn hoa hồng tươi sáng — Musc Noir Rose là hoa hồng TỐI: phủ xạ hương đen và hoắc hương. Sonia Constant tạo ra hoa hồng kiểu bóng tối — romantic nhưng không cổ tích, elegant nhưng edgy. Ai muốn rose sáng kiểu Jo Malone sẽ thấy nó quá dark.
+
+### Có đáng tiền không?
+
+Giá NR tầm trung — và For Her line bám cực tốt (7-8 giờ) nhờ xạ hương nền. So với For Her gốc — thêm hồng, romantic hơn. So với YSL Mon Paris — cùng hồng dark — thì Musc Noir Rose nhiều xạ hương hơn, ít berry hơn.
+
+### Nên dùng khi nào?
+
+Đi ăn tối, hẹn hò, sự kiện. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối điều hòa.`,
+    verdict: "Hồng tối-xạ hương đen — Sonia Constant. NR elegant dark rose. Bám tốt nhờ musk nền.",
+    verdictShort: "HỒNG TỐI, XẠ HƯƠNG ĐEN, ELEGANT",
+    score: { scent: 7.8, uniqueness: 7.5, compliments: 8, value: 8, total: 7.8 },
+    vibes: [{ label: "Romantic", icon: "🌹" }, { label: "Dark", icon: "🖤" }, { label: "Elegant", icon: "✨" }],
+    longevity: 8,
+    sillage: 6,
+    seasons: { spring: 52, summer: 22, fall: 78, winter: 72 },
+    dayNight: { day: 42, night: 75 },
+    topNotes: [{ name: "Hoa hồng Thổ Nhĩ Kỳ" }],
+    middleNotes: [{ name: "Hoắc hương" }, { name: "Xạ hương đen" }],
+    baseNotes: [{ name: "Hổ phách" }, { name: "Gỗ tuyết tùng" }],
+    accords: [
+      { name: "Hoa hồng", value: 100, color: "#e91e63" },
+      { name: "Xạ hương", value: 78, color: "#bdc3c7" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Hổ phách", value: 42, color: "#d4a017" }
+    ],
+    seoTitle: "Narciso Rodriguez Musc Noir Rose chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá NR Musc Noir Rose chính hãng: mùi hồng tối xạ hương đen elegant, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Hoa hồng","Dark","Elegant"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 1800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "musc-ravageur",
@@ -7736,31 +7753,43 @@ Dùng hằng ngày — đi làm, đi học, đi cà phê, gặp gỡ. Xịt 2-3 
     id: "n019",
     brandSlug: "chanel",
     brand: "CHANEL",
-    name: "Chanel N019",
-    subName: "Eau de Parfum",
-    perfumer: "Jacques Cavallier Belletrud",
+    name: "N°19",
+    subName: "Eau de Toilette",
+    perfumer: "Henri Robert",
     gender: "nu",
-    image: "/images/products/chanel-n019-main.jpg",
-    images: [{ url: "/images/products/chanel-n019-main.jpg", source: "amazon", caption: "CHANEL Chanel N019 chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    image: "/images/products/chanel-no19-edt-main.jpg",
+    images: [{ url: "/images/products/chanel-no19-edt-main.jpg", source: "fragram", caption: "Chanel N°19 EDT chính hãng", verified: true }],
+    description: "Phiên bản EDT nhẹ hơn N°19 — galbanum xanh sắc, iris, nhài, hồng, gỗ tuyết tùng, rêu sồi và cỏ hương bài. N°19 mỏng hơn, tươi hơn, cho ban ngày.",
+    article: `### Ai không nên mua?
+
+Nếu bạn đã có N°19 EDP — EDT mỏng hơn nhiều: bám 3-4 giờ, tỏa ít, galbanum xanh bay nhanh. Cùng Henri Robert 1970, cùng DNA, nhưng EDT chỉ giữ lại khung xương mà thiếu thịt. Ai muốn full experience chọn EDP.
+
+### Có đáng tiền không?
+
+Giá Chanel EDT — rẻ hơn EDP nhưng bám ngắn. So với N°19 EDP — nhẹ hơn 50%. So với N°19 Poudré — EDT ít powdery hơn, sắc hơn nhưng bay nhanh.
+
+### Nên dùng khi nào?
+
+Ban ngày mùa hè, đi dạo, khi muốn N°19 mà trời nóng. Xịt 4-5 nhát vì EDT bay nhanh.`,
+    verdict: "N°19 siêu nhẹ — EDT bay nhanh, cho mùa hè. EDP vẫn là best. Entry point N°19.",
+    verdictShort: "N°19 NHẸ, MÙA HÈ, ENTRY POINT",
+    score: { scent: 8, uniqueness: 8.5, compliments: 5.5, value: 7, total: 7.3 },
+    vibes: [{ label: "Nhẹ", icon: "🌿" }, { label: "Ban ngày", icon: "☀️" }, { label: "Xanh", icon: "🧊" }],
+    longevity: 3,
+    sillage: 3,
+    seasons: { spring: 82, summer: 72, fall: 42, winter: 22 },
+    dayNight: { day: 85, night: 28 },
+    topNotes: [{ name: "Galbanum" }, { name: "Neroli" }],
+    middleNotes: [{ name: "Iris" }, { name: "Hoa nhài" }, { name: "Hoa hồng" }],
+    baseNotes: [{ name: "Gỗ tuyết tùng" }, { name: "Rêu sồi" }, { name: "Cỏ hương bài" }],
+    accords: [{ name: "Xanh", value: 100, color: "#27ae60" }, { name: "Hoa", value: 72, color: "#e91e63" }, { name: "Gỗ", value: 48, color: "#8B4513" }],
+    seoTitle: "Chanel N°19 EDT chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Chanel N°19 EDT chính hãng: mùi xanh iris nhẹ cho ban ngày mùa hè, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Nhẹ","Mùa hè","Xanh"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "naxos",
@@ -8473,44 +8502,43 @@ Nếu bạn tìm chai oud "Trung Đông" — nặng, ngọt, nhựa, phả vào 
     perfumer: "Olivia Giacobetti",
     gender: "unisex",
     image: "/images/products/diptyque-philosykos-edp-main.jpg",
-    images: [{ url: "/images/products/diptyque-philosykos-edp-main.jpg", source: "amazon", caption: "DIPTYQUE Philosykos chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Philosykos EDP là một trong những chai mùi fig đẹp nhất vì nó tái hiện gần như trọn vẹn cảm giác cây sung: lá xanh, nhựa cây, gỗ và quả sung mềm. Đây không phải chỉ là mùi trái cây, mà là mùi của cả thân cây và không khí quanh nó. Kết quả là một mùi hương xanh, sang và rất artistic.
+    images: [{ url: "/images/products/diptyque-philosykos-edp-main.jpg", source: "fragram", caption: "Diptyque Philosykos EDP chính hãng", verified: true }],
+    description: "Chai unisex lá sung-gỗ sung-trái sung kiểu vườn Hy Lạp — lá sung, quả sung xanh, gỗ sung, dừa, hoắc hương, gỗ tuyết tùng và xạ hương trắng. Sung toàn phần, xanh và rất art.",
+    article: `### Ai không nên mua?
 
-Điểm hay của Philosykos là nó vừa tự nhiên vừa rất có gu. Nó không cố gồng sang bằng độ dày hay độ tối, mà thuyết phục bằng độ chân thật và cách dựng không gian. Ở Việt Nam, đây là chai hợp với người thích mùi xanh sáng tạo, lifestyle, ít đụng hàng và dùng rất đẹp ban ngày.
+Nếu bạn ghét mùi xanh lá — Philosykos LÁ SUNG NGUYÊN CÂY: lá, quả, gỗ, nhựa — cả cây sung trong một chai. Olivia Giacobetti (cũng tạo En Passant cho FM) tạo ra tượng đài soliflore sung. "Philo-sykos" = người yêu sung trong tiếng Hy Lạp. Ai muốn hoa hoặc ngọt sẽ thấy nó quá xanh, quá gỗ.
 
-## Diễn biến trên da
-Mở đầu là lá sung và độ xanh rõ rệt, sau đó phần gỗ và quả sung bắt đầu làm tổng thể mềm hơn. EDP cho cảm giác tròn và có chiều sâu hơn bản EDT, nhưng vẫn giữ được tinh thần rất airy và tự nhiên.
+### Có đáng tiền không?
 
-Drydown là lớp gỗ xanh-mềm rất dễ chịu, vừa thanh vừa có chất nghệ. Nó không quá ngọt, không quá khô, mà cân bằng rất đẹp. Nhược điểm là ai thích mùi nổi mạnh hoặc cực kỳ sexy có thể thấy Philosykos quá calm.
+Giá Diptyque — niche Pháp tầm trung. EDP đậm hơn EDT: nhiều gỗ sung hơn, ít lá xanh hơn, ấm hơn. So với Aqua Allegoria Fig Tea Guerlain — cùng sung — thì Philosykos đậm hơn, woody hơn, art hơn. Bám 6-7 giờ (EDP).
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Philosykos EDP có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp với ban ngày, đi làm sáng tạo, cà phê, gallery, dạo phố hoặc làm signature cho người thích mùi xanh có bản sắc.
+### Nên dùng khi nào?
 
-Trong khí hậu Việt Nam, chai này dùng rất tốt vào ngày nóng nhờ độ xanh thoáng. Ưu điểm là tự nhiên, tinh và khác biệt; nhược điểm là không phải kiểu compliment bomb đại trà.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai fig xanh đẹp, chân thật và có cá tính nghệ rõ, Philosykos EDP là lựa chọn cực đáng thử. Nó hợp người thích mùi tự nhiên, hiện đại và không bị công thức hóa.
-
-Nên mua khi mày cần một chai ban ngày có gu. Nếu mày thích mùi tối, ngọt hoặc cực mạnh, đây không phải hướng ưu tiên.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa hè, đi biển, cuối tuần, hoặc khi muốn mùi THIÊN NHIÊN thật sự. Xịt 2-3 nhát cổ. Sài Gòn quanh năm. Hà Nội tháng 4-10. Chai cho nature lover.`,
+    verdict: "Cây sung toàn phần — Giacobetti. Diptyque art. Philosykos = người yêu sung. Nature niche.",
+    verdictShort: "CÂY SUNG, NGƯỜI YÊU SUNG, NATURE ART",
+    score: { scent: 9, uniqueness: 9.5, compliments: 7, value: 7.5, total: 8.3 },
+    vibes: [{ label: "Thiên nhiên", icon: "🌿" }, { label: "Art", icon: "🎨" }, { label: "Hy Lạp", icon: "🏛️" }],
+    longevity: 7,
+    sillage: 5,
+    seasons: { spring: 78, summer: 82, fall: 52, winter: 28 },
+    dayNight: { day: 82, night: 38 },
+    topNotes: [{ name: "Lá sung" }, { name: "Quả sung xanh" }],
+    middleNotes: [{ name: "Gỗ sung" }, { name: "Dừa" }],
+    baseNotes: [{ name: "Hoắc hương" }, { name: "Gỗ tuyết tùng" }, { name: "Xạ hương trắng" }],
+    accords: [
+      { name: "Xanh", value: 100, color: "#27ae60" },
+      { name: "Gỗ", value: 72, color: "#8B4513" },
+      { name: "Trái cây", value: 55, color: "#f39c12" },
+      { name: "Tươi mát", value: 42, color: "#2ecc71" }
+    ],
+    seoTitle: "Diptyque Philosykos EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Diptyque Philosykos EDP chính hãng: mùi cây sung toàn phần nature niche art, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Unisex","Thiên nhiên","Art","Niche"],
+    sizes: ["10ml Chiết","75ml Fullbox"],
+    basePrice: 3500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "poison",
@@ -8612,51 +8640,50 @@ Mùa thu đông, buổi tối, dịp đặc biệt, sự kiện VIP. Xịt 1-2 n
   },
   {
     id: "pour-homme",
-    brandSlug: "versace",
-    brand: "VERSACE",
-    name: "Pour Homme",
+    brandSlug: "dior",
+    brand: "DIOR",
+    name: "Dior Pour Homme",
     subName: "Eau de Toilette",
-    perfumer: "Jean-Louis Sieuzac",
+    perfumer: "François Demachy",
     gender: "nam",
-    image: "/images/products/versace-pour-homme-main.jpg",
-    images: [{ url: "/images/products/versace-pour-homme-main.jpg", source: "amazon", caption: "VERSACE Pour Homme chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Versace Pour Homme là kiểu citrus aromatic nam rất sáng, sạch và dễ dùng. Nó không cố trở nên quá cá tính hay quá sang kiểu trầm, mà tập trung vào cảm giác gọn gàng, dễ gần và cực hợp thời tiết nóng. Đây là một trong những chai designer nam fresh dễ sống nhất nếu mày cần thứ gì đó đơn giản mà hiệu quả.
+    image: "/images/products/dior-pour-homme-main.jpg",
+    images: [{ url: "/images/products/dior-pour-homme-main.jpg", source: "fragram", caption: "Dior Pour Homme chính hãng", verified: true }],
+    description: "Chai nam iris-cacao-cam bergamot kiểu quý ông French — cam bergamot, xô thơm, iris, cacao, hổ phách, cỏ hương bài, gỗ đàn hương và xạ hương. Iris, sạch và rất Dior Homme.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của chai này là tính ứng dụng. Nó đi làm, đi học, đi chơi ban ngày, đi cà phê hay du lịch đều ổn. Trong khí hậu Việt Nam, đây là kiểu mùi gần như luôn có đất diễn vì sáng, thoáng và ít gây mệt cho người xung quanh.
+Nếu bạn nhầm với Dior Homme — thì Pour Homme là phiên bản KHÁC: 2022 reformulate dòng Homme, bỏ tên "Homme" thành "Pour Homme". DNA iris vẫn ở nhưng nhẹ hơn, tươi hơn, dễ mặc hơn Homme gốc. Gita chú thích: nốt cacao ở đây nhẹ, subtile, không gourmand.
 
-## Diễn biến trên da
-Mở đầu là citrus và neroli sạch sáng lên khá nhanh, sau đó nền xạ hương và gỗ nhẹ giúp mùi tròn hơn nhưng vẫn giữ cảm giác mát. Mùi phát triển gọn, dễ hiểu và không có góc gắt.
+### Có đáng tiền không?
 
-Drydown sạch, hơi xà phòng cao cấp và khá ôm da. Nó không tạo cảm giác quá phô trương, nhưng đủ khiến người khác thấy mày thơm và chỉnh tề. Nhược điểm là độ cá tính và độ bùng nổ không cao.
+Giá Dior EDT. So với Dior Homme EDT gốc — Pour Homme nhẹ hơn, ít iris bột hơn, tươi hơn. So với Bleu de Chanel EDT — cùng office — thì Pour Homme có iris mà Bleu thiếu. Bám 5-6 giờ (EDT).
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Versace Pour Homme có độ lưu hương vừa, khoảng 4-6 giờ; tỏa hương vừa nhẹ. Nó hợp đi làm, đi học, mùa nóng, sau tắm, du lịch hoặc làm chai fresh hằng ngày rất thực dụng.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng cực khỏe nhờ độ thoáng. Ưu điểm là dễ mặc, sạch và giá trị sử dụng cao; nhược điểm là hiệu năng chỉ ở mức ổn.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày cần một chai nam fresh dễ dùng, ít rủi ro và hợp thời tiết nóng, Versace Pour Homme là lựa chọn rất ổn. Nó hợp người thích mùi sạch, sáng và không muốn suy nghĩ nhiều.
-
-Nên mua khi mày muốn một chai ban ngày thật thực dụng. Nếu mày cần mùi đậm, tối hoặc thật nổi, nên tìm hướng khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi làm, meeting, ban ngày mát. Xịt 3 nhát cổ. Dùng quanh năm nhưng xuân thu đẹp nhất. Chai đi làm tinh tế nhất Dior.`,
+    verdict: "Iris nhẹ — Dior Homme rename. Demachy tươi hơn gốc. Office tinh tế. Quý ông Pháp nhẹ nhàng.",
+    verdictShort: "IRIS NHẸ, OFFICE, QUÝ ÔNG PHÁP",
+    score: { scent: 7.5, uniqueness: 7, compliments: 7.5, value: 7.5, total: 7.4 },
+    vibes: [{ label: "Office", icon: "💼" }, { label: "Tinh tế", icon: "✨" }, { label: "Quý ông", icon: "🎩" }],
+    longevity: 5,
+    sillage: 5,
+    seasons: { spring: 78, summer: 52, fall: 72, winter: 52 },
+    dayNight: { day: 78, night: 42 },
+    topNotes: [{ name: "Cam bergamot" }, { name: "Xô thơm" }],
+    middleNotes: [{ name: "Iris" }, { name: "Cacao" }],
+    baseNotes: [{ name: "Hổ phách" }, { name: "Cỏ hương bài" }, { name: "Gỗ đàn hương" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Hoa", value: 100, color: "#e91e63" },
+      { name: "Phấn", value: 72, color: "#d7bde2" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Cam chanh", value: 48, color: "#f1c40f" }
+    ],
+    seoTitle: "Dior Pour Homme chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Dior Pour Homme chính hãng: mùi iris cacao office tinh tế quý ông Pháp, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nam","Office","Tinh tế","Quý ông"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox","150ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "pure-musc-for-her",
