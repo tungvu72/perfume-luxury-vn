@@ -165,13 +165,13 @@ export default async function Home() {
               href={getProductUrl(product)}
               className="group flex-shrink-0 w-[150px] rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-3 transition-all hover:shadow-[var(--shadow-md)]"
             >
-              <div className="relative aspect-square overflow-hidden rounded-lg bg-[var(--color-bg-muted)]">
+              <div className="relative aspect-square overflow-hidden rounded-lg bg-white">
                 <Image
                   src={product.image}
                   alt={product.name}
                   fill
                   sizes="150px"
-                  className="object-contain p-3 transition-transform group-hover:scale-105"
+                  className="object-contain p-4 mix-blend-multiply transition-transform group-hover:scale-105"
                 />
               </div>
               <div className="mt-2">
@@ -202,13 +202,13 @@ export default async function Home() {
               href={getProductUrl(product)}
               className="group rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-4 transition-all hover:shadow-lg hover:-translate-y-1"
             >
-              <div className="relative aspect-square overflow-hidden rounded-lg bg-[var(--color-bg-muted)]">
+              <div className="relative aspect-square overflow-hidden rounded-lg bg-white">
                 <Image
                   src={product.image}
                   alt={product.name}
                   fill
                   sizes="(max-width: 768px) 33vw, 25vw"
-                  className="object-contain p-4 transition-transform duration-500 group-hover:scale-110"
+                  className="object-contain p-6 mix-blend-multiply transition-transform duration-500 group-hover:scale-110"
                 />
               </div>
               <div className="mt-3">

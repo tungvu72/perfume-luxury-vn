@@ -400,54 +400,7 @@ Hẹn hò, tiệc, buổi tối, dịp đặc biệt. Xịt 2 nhát: cổ, cổ 
     shopeeOffers: [],
     isPublished: true
   },
-  {
-    id: "addict-edp-2014",
-    brandSlug: "dior",
-    brand: "DIOR",
-    name: "Dior Addict",
-    subName: "Eau de Parfum (2014)",
-    perfumer: "François Demachy",
-    gender: "nu",
-    image: "/images/products/dior-addict-edp-2014-main.jpg",
-    images: [{ url: "/images/products/dior-addict-edp-2014-main.jpg", source: "fragram", caption: "Dior Addict Eau de Parfum 2014 chính hãng", verified: true }],
-    description: "Chai nữ nhài-vani Bourbon quyến rũ nhất Dior — lá cam quýt, hoa cam, nhài Sambac và vani Bourbon. Đơn giản, cuốn hút và rất addictive.",
-    article: `### Ai không nên mua?
 
-Nếu bạn thích mùi phức tạp nhiều tầng với 20 nốt hương — thì Addict EDP 2014 sẽ làm bạn thất vọng vì nó ĐƠN GIẢN. Chỉ 4 nốt: lá cam quýt, hoa cam, nhài Sambac, vani Bourbon — François Demachy stripped everything down. Ai thích mùi sạch tươi mát cũng đừng nghĩ — vani Bourbon ở base rất ngọt và ấm, kiểu "addicting" đúng như tên.
-
-### Có đáng tiền không?
-
-Giá Dior tầm trung — nhưng bản 2014 khác hoàn toàn bản Addict gốc 2002. Bản 2014 tối giản hơn, nhiều nhài hơn, nhiều vani hơn. So với YSL Libre EDP — cùng nhóm nữ mạnh mẽ — thì Addict 2014 ngọt hơn, ít lavender hơn, feminine hơn. So với Dior J'adore — cùng hãng — thì Addict tối hơn, gợi cảm hơn, ít "golden" hơn. Bám 7-8 giờ, tỏa tốt.
-
-### Nên dùng khi nào?
-
-Đi chơi tối, hẹn hò, sự kiện, hoặc khi muốn tạo ấn tượng quyến rũ. Xịt 2-3 nhát: cổ và cổ tay. Đẹp nhất thu đông. Ở Hà Nội tháng 10-3. Sài Gòn thì tối phòng điều hòa. Tên "Addict" không sai — xịt vài lần sẽ khó bỏ.`,
-    verdict: "Nhài-vani Bourbon tối giản — chỉ 4 nốt mà cuốn. Demachy stripped down. Gợi cảm, addictive đúng tên.",
-    verdictShort: "NHÀI VANI, TỐI GIẢN, ADDICTIVE",
-    score: { scent: 8.5, uniqueness: 8, compliments: 8.5, value: 8, total: 8.3 },
-    vibes: [{ label: "Quyến rũ", icon: "💋" }, { label: "Tối giản", icon: "✨" }, { label: "Gợi cảm", icon: "🖤" }],
-    longevity: 8,
-    sillage: 7,
-    seasons: { spring: 52, summer: 22, fall: 82, winter: 78 },
-    dayNight: { day: 32, night: 82 },
-    topNotes: [{ name: "Lá cam quýt" }, { name: "Hoa cam" }],
-    middleNotes: [{ name: "Nhài Sambac" }],
-    baseNotes: [{ name: "Vani Bourbon" }],
-    accords: [
-      { name: "Hoa", value: 100, color: "#e91e63" },
-      { name: "Vani", value: 78, color: "#F5DEB3" },
-      { name: "Ngọt", value: 62, color: "#8B0000" },
-      { name: "Cam chanh", value: 42, color: "#f1c40f" },
-      { name: "Phương Đông", value: 35, color: "#c0392b" }
-    ],
-    seoTitle: "Dior Addict EDP 2014 chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Dior Addict EDP 2014 chính hãng: mùi nhài vani Bourbon quyến rũ tối giản, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nữ","Quyến rũ","Tối giản","Buổi tối"],
-    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
-    basePrice: 2500000,
-    shopeeOffers: [],
-    isPublished: true
-  },
   {
     id: "african-leather",
     brandSlug: "memo",

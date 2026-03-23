@@ -324,13 +324,13 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                                 <div className="w-8 text-center font-serif text-xl md:text-2xl font-bold text-gray-200 group-hover:text-primary/30 transition-colors">
                                     {String(i + 1).padStart(2, '0')}
                                 </div>
-                                <div className="w-[60px] h-[60px] md:w-[90px] md:h-[90px] flex-shrink-0 bg-[#F7F7F7] rounded-lg overflow-hidden p-1 relative">
+                                <div className="w-[60px] h-[60px] md:w-[90px] md:h-[90px] flex-shrink-0 bg-white rounded-lg overflow-hidden p-1 relative">
                                     <Image
                                         src={product.image}
                                         alt={product.name}
                                         fill
                                         sizes="(max-width: 768px) 60px, 90px"
-                                        className="object-contain group-hover:scale-110 transition-transform duration-500 p-1"
+                                        className="object-contain mix-blend-multiply group-hover:scale-110 transition-transform duration-500 p-1"
                                     />
                                 </div>
                                 <div className="flex-1 min-w-0">

@@ -15,13 +15,13 @@ export default async function RelatedProducts({ current }: { current: Perfume })
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
                 {related.map((p) => (
                     <Link key={p.id} href={getProductUrl(p)} className="group">
-                        <div className="aspect-[3/4] bg-[#F5F5F5] rounded-xl overflow-hidden mb-3 relative">
+                        <div className="aspect-[3/4] bg-white rounded-xl overflow-hidden mb-3 relative">
                             <Image
                                 src={p.image}
                                 alt={p.name}
                                 fill
                                 sizes="(max-width: 768px) 50vw, 25vw"
-                                className="object-contain p-4 group-hover:scale-105 transition-transform duration-500"
+                                className="object-contain p-4 mix-blend-multiply group-hover:scale-105 transition-transform duration-500"
                             />
                             <div className="absolute top-2 right-2 bg-white/90 backdrop-blur-sm w-9 h-9 rounded-full flex items-center justify-center text-[10px] font-bold text-primary border border-gray-100">
                                 {p.score.total}
