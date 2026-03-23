@@ -10,44 +10,44 @@ export const MASTER_PERFUMES: Perfume[] = [
     perfumer: "Maurice Roucel",
     gender: "nu",
     image: "/images/products/hermes-24-faubourg-main.jpg",
-    images: [{ url: "/images/products/hermes-24-faubourg-main.jpg", source: "amazon", caption: "HERMÈS 24 Faubourg chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-24 Faubourg là một mùi nữ rất Hermès: sang, ấm, sáng vàng và cực kỳ lịch thiệp. Nó không đi theo hướng trẻ trung trendy, mà là vẻ đẹp trưởng thành, quý phái và có độ hoàn thiện rất cao. Đây là kiểu mùi hợp với người thích phong cách thanh lịch đúng nghĩa và không ngại một chút tinh thần cổ điển.
+    images: [{ url: "/images/products/hermes-24-faubourg-main.jpg", source: "fragram", caption: "Hermès 24 Faubourg Eau de Parfum chính hãng", verified: true }],
+    description: "Chai nữ hoa trắng-hổ phách kiểu Địa Trung Hải — dạ lan, cam, ngọc lan tây, đào, cam bergamot, hoa cam, gardenia, nhài, hoa elder đen, iris, hổ phách, gỗ đàn hương, hoắc hương và vani. Vàng, ấm và quý phái.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của 24 Faubourg là khí chất. Nó gợi cảm theo kiểu có giáo dưỡng, có khoảng cách và rất biết mình đẹp ở đâu. Trong điều kiện Việt Nam, chai này hợp hơn cho tối, dịp trang trọng hoặc người muốn một floral oriental sang theo kiểu kín chứ không ồn.
+Nếu bạn dưới 30 và thích mùi trẻ trung trendy kiểu Cloud hay Mon Paris — thì 24 Faubourg sẽ khiến bạn nghĩ "mùi này mature quá". Và đúng: đây là chai nữ QUÁI PHÁI kiểu thật sự — iris, gardenia, hổ phách vàng, không có gì ngọt teensy cả. Tên chai lấy từ địa chỉ 24 Rue du Faubourg Saint-Honoré, trụ sở Hermès ở Paris — và mùi cũng sang đúng như địa chỉ đó.
 
-## Diễn biến trên da
-Mở đầu floral sáng và giàu chất liệu, sau đó phần ấm cùng sắc cam-hổ phách nhẹ bắt đầu làm tổng thể tròn và sâu hơn. Mùi phát triển mượt và rất quý phái.
+### Có đáng tiền không?
 
-Drydown là lớp floral ấm, mềm và cực kỳ thanh lịch. Nó không tạo cảm giác quá ngọt mà nghiêng về “golden floral”. Nhược điểm là người thích mùi hiện đại tối giản có thể thấy nó hơi dressy.
+Giá Hermès — đắt hơn designer nhưng rẻ hơn niche. Maurice Roucel tạo ra chai này năm 1995 — cùng perfumer đứng sau Musc Ravageur. So với Chanel Coco EDP — cùng nhóm nữ ấm trưởng thành — thì 24 Faubourg sáng hơn, nhiều hoa trắng hơn và ít tối. So với Guerlain Shalimar — cùng nhóm oriental cổ điển — thì 24 Faubourg nhẹ hơn và hiện đại hơn. Bám 6-8 giờ, tỏa vừa.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-24 Faubourg có độ lưu hương khá tốt, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tiệc nhẹ, gặp gỡ lịch sự, tối sớm hoặc những dịp muốn mùi hương thật sự sang.
+### Nên dùng khi nào?
 
-Ở Việt Nam, dùng đẹp nhất trong không gian mát. Ưu điểm là rất quý và có khí chất; nhược điểm là không phải kiểu casual everyday.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai nữ sang, quý phái và có tinh thần Hermès rõ rệt, 24 Faubourg là cái tên rất đáng thử. Nó hợp người thích floral ấm trưởng thành và phong cách thanh lịch thực thụ.
-
-Nên mua khi mày cần một chai cho dịp đẹp. Nếu mày thích mùi trẻ, ngọt hoặc quá casual, nên thử kỹ trước.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Sự kiện sang trọng, ăn tối, tiệc cưới, hoặc bất cứ dịp nào cần vẻ quý phái. Xịt 2-3 nhát: cổ và cổ tay. Đẹp nhất thu đông — Hà Nội tháng 10-3. Ở Sài Gòn dùng tối phòng máy lạnh. Không phải chai casual hằng ngày — chai này cho DỊP ĐẸP.`,
+    verdict: "Hoa trắng-hổ phách vàng kiểu Hermès — quý phái, trưởng thành. Cho dịp đẹp, cho người đã đủ tự tin.",
+    verdictShort: "HOA TRẮNG HỔ PHÁCH, QUÝ PHÁI, HERMÈS",
+    score: { scent: 8.5, uniqueness: 8.5, compliments: 7.5, value: 7.5, total: 8 },
+    vibes: [{ label: "Quý phái", icon: "👑" }, { label: "Trưởng thành", icon: "✨" }, { label: "Dịp đẹp", icon: "🥂" }],
+    longevity: 7,
+    sillage: 6,
+    seasons: { spring: 55, summer: 28, fall: 82, winter: 72 },
+    dayNight: { day: 42, night: 78 },
+    topNotes: [{ name: "Dạ lan" }, { name: "Cam" }, { name: "Ngọc lan tây" }, { name: "Đào" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Hoa cam" }, { name: "Gardenia" }, { name: "Hoa nhài" }, { name: "Hoa elder đen" }, { name: "Iris" }],
+    baseNotes: [{ name: "Hổ phách" }, { name: "Gỗ đàn hương" }, { name: "Hoắc hương" }, { name: "Vani" }],
+    accords: [
+      { name: "Hoa trắng", value: 100, color: "#f5f5dc" },
+      { name: "Hổ phách", value: 72, color: "#d4a017" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Trái cây", value: 42, color: "#f39c12" },
+      { name: "Phấn", value: 35, color: "#d7bde2" }
+    ],
+    seoTitle: "Hermès 24 Faubourg chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Hermès 24 Faubourg chính hãng: mùi hoa trắng hổ phách quý phái, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Quý phái","Trưởng thành","Hermès"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 3200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "9pm",
@@ -187,35 +187,53 @@ Gặp khách VIP, sự kiện, tiệc tối, dịp quan trọng. Xịt 2 nhát: 
   },
   {
     id: "acqua-di-gio-parfum",
-    brandSlug: "armani",
+    brandSlug: "giorgio-armani",
     brand: "GIORGIO ARMANI",
-    name: "Acqua di Gio Parfum",
+    name: "Acqua di Giò Parfum",
     subName: "Parfum",
     perfumer: "Alberto Morillas",
     gender: "nam",
-    image: "/images/products/armani-acqua-di-gio-parfum-main.jpg",
+    image: "/images/products/giorgio-armani-acqua-di-gio-parfum-main.jpg",
     images: [
-      { url: "/images/products/armani-acqua-di-gio-parfum-main.jpg", source: "amazon", caption: "GIORGIO ARMANI Acqua di Gio Parfum chính hãng", verified: true }
+      { url: "/images/products/giorgio-armani-acqua-di-gio-parfum-main.jpg", source: "fragram", caption: "Acqua di Giò Parfum chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    description: "Chai nam biển-xô thơm-hoắc hương nồng độ cao nhất dòng AdG — biển, cam xanh, xô thơm, oải hương, phong lữ, khoáng, cỏ hương bài và hoắc hương. Biển nhưng đậm, khoáng nhưng ấm.",
+    article: `### Ai không nên mua?
+
+Nếu bạn đã có Profondo hoặc Profumo thì AdG Parfum sẽ trùng vị trí — cả ba đều là "AdG nhưng đậm hơn gốc". Sự khác biệt giữa Parfum và Profondo rất tinh tế: Parfum nhiều thảo mộc (xô thơm, oải hương) hơn, Profondo nhiều aquatic khoáng hơn. Ai không phân biệt nổi thì chỉ cần chọn một. Ngoài ra, nếu bạn muốn chai 100% aquatic tươi sáng như gốc 1996, Parfum sẽ tối hơn và nặng hơn mong đợi.
+
+### Có đáng tiền không?
+
+Nồng độ Parfum — cao nhất, bám 10+ giờ, tỏa tốt. Alberto Morillas quay lại lần thứ ba. So với AdG gốc EDT — Parfum đậm gấp đôi, tối hơn, nghiêm túc hơn. So với Bleu de Chanel Parfum — cùng nồng độ, cùng tier — thì AdG Parfum biển hơn, nhiều thảo mộc hơn trong khi BdC gỗ hơn. Giá ngang Bleu — fair cho nồng độ và hiệu năng.
+
+### Nên dùng khi nào?
+
+Đi làm, gặp khách, ăn tối, hoặc dịp cần mùi sạch-sang nhưng không nhẹ quá. Xịt 2-3 nhát: cổ và ngực. Dùng quanh năm — xuân hè là tốt nhất vì DNA biển, nhưng hoắc hương giữ được cả thu đông. Cả Sài Gòn và Hà Nội dùng thoải mái.`,
+    verdict: "AdG nồng độ cao nhất — biển + thảo mộc + hoắc hương. 10h bám. Morillas lần 3. Cho ai muốn AdG trưởng thành.",
+    verdictShort: "BIỂN THẢO MỘC, PARFUM, 10H BÁM",
+    score: { scent: 8.5, uniqueness: 7.5, compliments: 8.5, value: 8, total: 8.1 },
+    vibes: [{ label: "Sạch", icon: "💧" }, { label: "Trưởng thành", icon: "🎩" }, { label: "Office", icon: "💼" }],
+    longevity: 10,
+    sillage: 7,
+    seasons: { spring: 82, summer: 72, fall: 62, winter: 42 },
+    dayNight: { day: 78, night: 55 },
+    topNotes: [{ name: "Biển" }, { name: "Cam xanh" }],
+    middleNotes: [{ name: "Xô thơm" }, { name: "Oải hương" }, { name: "Phong lữ" }],
+    baseNotes: [{ name: "Khoáng" }, { name: "Cỏ hương bài" }, { name: "Hoắc hương" }],
+    accords: [
+      { name: "Nước", value: 100, color: "#2980b9" },
+      { name: "Thơm thảo mộc", value: 72, color: "#2c7a4b" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Khoáng", value: 48, color: "#7f8c8d" },
+      { name: "Cam chanh", value: 38, color: "#f1c40f" }
+    ],
+    seoTitle: "Acqua di Giò Parfum chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Acqua di Giò Parfum chính hãng: mùi biển thảo mộc nồng độ cao, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Biển","Office","Parfum"],
+    sizes: ["10ml Chiết","75ml Fullbox","125ml Fullbox"],
+    basePrice: 2800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "acqua-di-gio-profondo",
