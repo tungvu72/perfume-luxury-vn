@@ -3,52 +3,47 @@
   "brandSlug": "calvin-klein",
   "brand": "CALVIN KLEIN",
   "name": "Obsession",
-  "subName": "Eau de Parfum",
+  "subName": "Eau de Toilette",
   "perfumer": "Jean Guichard",
-  "gender": "nu",
-  "image": "/images/products/ck-obsession-main.jpg",
+  "gender": "nam",
+  "image": "/images/products/calvin-klein-obsession-main.jpg",
   "images": [
     {
-      "url": "/images/products/ck-obsession-main.jpg",
-      "source": "amazon",
-      "caption": "CALVIN KLEIN Obsession chính hãng",
+      "url": "/images/products/calvin-klein-obsession-main.jpg",
+      "source": "fragram",
+      "caption": "Calvin Klein Obsession for Men EDT chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nObsession là một trong những cái tên kinh điển của nhóm oriental đậm: cay, ấm, resinous và rất giàu cảm giác da thịt. Nó không ngại sự mạnh tay, cũng không cố trở nên dễ thương. Đây là mùi hương của một thời kỳ nước hoa thích sự hiện diện lớn, rất hợp với người thích vintage đậm và không sợ bị chú ý.\n\nĐiểm mạnh của Obsession là độ nóng và sức hút kiểu bản năng. Nó không tinh kiểu tối giản, mà dày, tối và rất đầy đặn. Trong bối cảnh Việt Nam, chai này hợp hơn với buổi tối, thời tiết mát và người thực sự thích phong cách oriental cổ điển.\n\n## Diễn biến trên da\nMở đầu gia vị và độ ấm lên khá mạnh, sau đó nhựa thơm và nền ngọt cay làm tổng thể càng sâu hơn. Mùi phát triển ít nhẹ nhàng, mà giữ phong độ đậm xuyên suốt.\n\nDrydown ấm, dày và rất vintage. Nó có sức hút riêng với người đúng gu, nhưng sẽ quá tay với ai thích mùi sạch hoặc nhẹ. Nhược điểm là độ ứng dụng hằng ngày thấp.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nObsession có hiệu năng tốt, thường 8 giờ trở lên; tỏa hương khá mạnh. Nó hợp tối, mùa mát, dịp đặc biệt hoặc khi muốn một mùi hương thật sự có độ nóng.\n\nỞ Việt Nam, nên dùng rất tiết chế. Ưu điểm là khí chất mạnh và khó nhầm; nhược điểm là dễ áp lực trong thời tiết oi.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày mê oriental cổ điển đậm, cay và có thần thái vintage rõ, Obsession là cái tên nên thử. Nó hợp người có gu mạnh và thích mùi hương như một tuyên ngôn.\n\nNên mua khi mày muốn một chai tối có sức nóng rõ rệt. Nếu mày cần sự nhẹ, sạch và dễ dùng, đây không phải hướng phù hợp.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai nam quế-nhựa dược-hổ phách kiểu 80s powerhouse — quế, oải hương, rau mùi, cam quýt, chanh, cam bergamot, nhựa dược, nhục đậu khấu, cẩm chướng, hổ phách, vani, gỗ đàn hương, xạ hương, hoắc hương và cỏ hương bài. Ấm, cay và rất intense.",
+  "article": "### Ai không nên mua?\n\nNếu bạn quen mùi hiện đại sạch — thì Obsession sẽ \"quá nhiều\". Đây là con quái vật thập niên 80: quế-nhựa dược-hổ phách phả ra như sóng nhiệt, kiểu mùi mà ai đứng cách 3 mét cũng ngửi thấy. Chai này ra đời năm 1986, đoạt FiFi Award 1987 — thời mà nước hoa nam = MẠNH. Ai dưới 35 chưa từng ngửi powerhouse cũ sẽ bị culture shock.\n\n### Có đáng tiền không?\n\nGiá CK — THUỘC NHÓM RẺ NHẤT thị trường. Và với DNA oriental-woody phức tạp (20+ nốt hương), giá này là steal tuyệt đối. So với Spicebomb Extreme — cùng nhóm cay ấm — thì Obsession cũ hơn, nhiều nhựa dược hơn và mạnh hơn. So với Tom Ford Tobacco Vanille — cùng oriental — thì Obsession rẻ hơn 5 lần mà cùng spirit cay-vani-hổ phách. Bám 8+ giờ.\n\n### Nên dùng khi nào?\n\nMùa đông, buổi tối, khi muốn tạo ấn tượng MẠNH. Xịt 1-2 nhát cổ — CHẤM HẾT. Xịt nhiều là ngộp cả phòng. Hà Nội tháng 12-1. Sài Gòn thì chỉ tối phòng điều hòa mạnh. Chai rẻ nhất trong danh sách mà punch nặng nhất.",
+  "verdict": "Powerhouse 80s — quế nhựa dược hổ phách. FiFi Award 1987. Giá CK rẻ mà DNA oriental phức tạp.",
+  "verdictShort": "80S POWERHOUSE, RẺ NHẤT, MẠNH NHẤT",
+  "score": { "scent": 8.0, "uniqueness": 8.5, "compliments": 7.0, "value": 9.5, "total": 8.3 },
+  "vibes": [
+    { "label": "Powerhouse", "icon": "💪" },
+    { "label": "80s", "icon": "🕶️" },
+    { "label": "Giá rẻ", "icon": "💸" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 8,
+  "sillage": 8,
+  "seasons": { "spring": 18, "summer": 2, "fall": 72, "winter": 92 },
+  "dayNight": { "day": 8, "night": 88 },
+  "topNotes": [{ "name": "Quế" }, { "name": "Oải hương" }, { "name": "Rau mùi" }, { "name": "Cam quýt" }, { "name": "Chanh" }, { "name": "Cam bergamot" }, { "name": "Bưởi" }],
+  "middleNotes": [{ "name": "Nhựa dược" }, { "name": "Nhục đậu khấu" }, { "name": "Hoa cẩm chướng" }, { "name": "Gỗ hồng" }, { "name": "Thông" }, { "name": "Xô thơm" }, { "name": "Hoa nhài" }],
+  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Xạ hương" }, { "name": "Hoắc hương" }, { "name": "Cỏ hương bài" }],
+  "accords": [
+    { "name": "Phương Đông", "value": 100, "color": "#c0392b" },
+    { "name": "Gia vị ấm", "value": 82, "color": "#e67e22" },
+    { "name": "Gỗ", "value": 65, "color": "#8B4513" },
+    { "name": "Hổ phách", "value": 55, "color": "#d4a017" },
+    { "name": "Nhựa", "value": 48, "color": "#5d4037" }
+  ],
+  "seoTitle": "Calvin Klein Obsession nam chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá CK Obsession nam chính hãng: mùi quế nhựa dược powerhouse 80s, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Powerhouse", "80s", "Giá rẻ"],
+  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox", "200ml Fullbox"],
+  "basePrice": 800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
