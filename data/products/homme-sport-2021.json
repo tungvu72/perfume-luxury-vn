@@ -2,7 +2,7 @@
   "id": "homme-sport-2021",
   "brandSlug": "dior",
   "brand": "DIOR",
-  "name": "Dior Homme Sport 2021",
+  "name": "Dior Homme Sport (2021)",
   "subName": "Eau de Toilette",
   "perfumer": "François Demachy",
   "gender": "nam",
@@ -10,45 +10,40 @@
   "images": [
     {
       "url": "/images/products/dior-homme-sport-2021-main.jpg",
-      "source": "amazon",
-      "caption": "DIOR Dior Homme Sport 2021 chính hãng",
+      "source": "fragram",
+      "caption": "Dior Homme Sport 2021 chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nDior Homme Sport 2021 là kiểu citrus woody nam hiện đại rất sáng, sạch và có độ sang thể thao vừa phải. Nó không đơn thuần là mùi gym hay shower gel, mà có thêm nền gỗ và chút cay làm tổng thể trưởng thành hơn. Đây là một chai fresh rất tốt cho người muốn sự năng động nhưng vẫn giữ hình ảnh chỉnh chu.\n\nĐiểm mạnh của bản 2021 là sự cân bằng giữa tươi và nam tính. Nó đủ sáng cho ban ngày, nhưng không quá mỏng hay trẻ con. Trong điều kiện Việt Nam, đây là kiểu mùi cực hợp để dùng đi làm, đi học, đi chơi ban ngày hoặc du lịch.\n\n## Diễn biến trên da\nMở đầu citrus rất rõ và sáng, sau đó gỗ cùng chút cay nhẹ giúp tổng thể tròn hơn và đứng form hơn. Mùi phát triển gọn, hiện đại và hiệu quả.\n\nDrydown sạch, gỗ nhẹ và rất dễ chịu trên da. Nó không quá phức tạp, nhưng làm tốt đúng vai trò của một chai sporty cao cấp. Nhược điểm là độ cá tính không mạnh nếu mày đã có nhiều chai fresh.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nDior Homme Sport 2021 có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương vừa. Nó hợp đi làm, ban ngày, du lịch, mùa nóng, gặp gỡ casual hoặc làm signature cho người thích tông sáng sạch.\n\nỞ Việt Nam, chai này dùng rất khỏe. Ưu điểm là fresh nhưng không nhạt; nhược điểm là không dành cho ai thích mùi tối hoặc statement mạnh.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày cần một chai fresh nam sáng, gọn và có chất lượng hoàn thiện tốt, Dior Homme Sport 2021 là lựa chọn rất ổn. Nó hợp người thích phong cách năng động, sạch và trưởng thành vừa đủ.\n\nNên mua khi mày muốn một chai ban ngày dùng nhiều. Nếu mày thích mùi dày, ngọt hoặc rất cá tính, nên chọn hướng khác.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nam",
-    "NEEDS_SOURCE"
+  "description": "Phiên bản 2021 sporty nhất dòng Homme — cam huyết, chanh, gừng, nhựa elemi, gỗ đàn hương, cỏ hương bài và xạ hương trắng. Citrus gừng, tươi và sporty sạch.",
+  "article": "### Ai không nên mua?\n\nNếu bạn muốn iris phấn kiểu Dior Homme gốc — thì Sport 2021 KHÔNG CÓ IRIS. Demachy lúc này đã bỏ iris khỏi Sport, thay bằng cam huyết-gừng-elemi = citrus sporty thuần. Ai thích DNA Homme cổ điển sẽ hỏi \"đây còn là Homme không?\". Answer: về tên thì có, về DNA thì gần như khác hãng.\n\n### Có đáng tiền không?\n\nGiá Dior EDT — và Homme Sport 2021 là bản reformulate thứ 3 (sau 2008, 2012, 2017). So với Sauvage EDT — cùng Dior sporty — thì Homme Sport nhiều cam huyết hơn, ít ambroxan hơn, sạch hơn. So với Chanel Allure Homme Sport — cùng nhóm — thì DHS 2021 gừng hơn, tươi hơn. Bám 5-6 giờ (EDT).\n\n### Nên dùng khi nào?\n\nĐi tập gym, dạo phố, chạy bộ, hoặc ban ngày nóng. Xịt 3-4 nhát: cổ, ngực, cổ tay. Xuân hè — Sài Gòn quanh năm. Hà Nội tháng 3-10. Chai sporty sạch nhất dòng Dior Homme.",
+  "verdict": "Citrus gừng sporty — Homme Sport không iris. Bản 2021 thuần sport. Cùng giá Sauvage, khác DNA hoàn toàn.",
+  "verdictShort": "CITRUS GỪNG, SPORT THUẦN, KHÔNG IRIS",
+  "score": { "scent": 7.5, "uniqueness": 6.5, "compliments": 7.5, "value": 7.5, "total": 7.3 },
+  "vibes": [
+    { "label": "Sporty", "icon": "⚡" },
+    { "label": "Tươi", "icon": "🍊" },
+    { "label": "Gym", "icon": "💪" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 5,
+  "sillage": 5,
+  "seasons": { "spring": 82, "summer": 88, "fall": 42, "winter": 15 },
+  "dayNight": { "day": 88, "night": 28 },
+  "topNotes": [{ "name": "Cam huyết" }, { "name": "Chanh" }, { "name": "Gừng" }],
+  "middleNotes": [{ "name": "Nhựa elemi" }],
+  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Cỏ hương bài" }, { "name": "Xạ hương trắng" }],
+  "accords": [
+    { "name": "Cam chanh", "value": 100, "color": "#f1c40f" },
+    { "name": "Tươi mát", "value": 78, "color": "#2ecc71" },
+    { "name": "Gia vị ấm", "value": 48, "color": "#e67e22" },
+    { "name": "Gỗ", "value": 42, "color": "#8B4513" },
+    { "name": "Xạ hương", "value": 35, "color": "#bdc3c7" }
+  ],
+  "seoTitle": "Dior Homme Sport 2021 chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Dior Homme Sport 2021 chính hãng: mùi citrus gừng sporty sạch, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Sporty", "Mùa hè", "Gym"],
+  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
