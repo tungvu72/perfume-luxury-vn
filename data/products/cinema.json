@@ -1,54 +1,49 @@
 {
   "id": "cinema",
   "brandSlug": "ysl",
-  "brand": "YVES SAINT LAURENT",
+  "brand": "YSL",
   "name": "Cinéma",
   "subName": "Eau de Parfum",
   "perfumer": "Jacques Cavallier Belletrud",
   "gender": "nu",
-  "image": "/images/products/ysl-cinema-main.jpg",
+  "image": "/images/products/ysl-cinema-edp-main.jpg",
   "images": [
     {
-      "url": "/images/products/ysl-cinema-main.jpg",
-      "source": "amazon",
-      "caption": "YVES SAINT LAURENT Cinéma chính hãng",
+      "url": "/images/products/ysl-cinema-edp-main.jpg",
+      "source": "fragram",
+      "caption": "YSL Cinéma Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nCinema là một mùi nữ rất YSL theo nghĩa cổ điển sang: hoa, vanilla, chút ấm và cảm giác ánh vàng rất rõ. Nó không phải floral sáng hiện đại, cũng không hẳn oriental đậm, mà đứng ở giữa với khí chất nữ tính, lấp lánh và rất “lên đèn”. Đây là kiểu mùi hợp người thích vẻ đẹp cổ điển nhưng vẫn đủ mềm để dùng thực tế.\n\nĐiểm đẹp của Cinema là thần thái. Nó cho cảm giác váy đẹp, ánh đèn, son môi và sự chỉn chu kiểu Paris cũ. Trong bối cảnh Việt Nam, chai này hợp với người thích mùi nữ sang, dùng tối hoặc trong những dịp cần vẻ ngoài được hoàn thiện hơn.\n\n## Diễn biến trên da\nMở đầu floral sáng vừa phải, sau đó vanilla và nền ấm làm mùi trở nên tròn, bóng và mềm hơn. Mùi phát triển mượt, không quá kịch tính nhưng giữ khí chất tốt xuyên suốt.\n\nDrydown là lớp hoa ấm, hơi bột nhẹ và khá sang. Nó không quá trẻ, nhưng cũng không già nếu dùng đúng hoàn cảnh. Nhược điểm là người thích mùi tối giản hiện đại có thể thấy Cinema hơi “dressy”.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nCinema có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, tiệc nhẹ, gặp gỡ, hẹn hò hoặc những lúc muốn một mùi nữ sáng sang chứ không quá ngọt.\n\nỞ Việt Nam, chai này dùng đẹp hơn về chiều tối hoặc phòng lạnh. Ưu điểm là có khí chất và dễ nhận ra; nhược điểm là không hẳn là chai signature cho mọi ngày.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích mùi nữ cổ điển sang, có ánh vàng và thần thái rõ, Cinema là cái tên rất đáng thử. Nó hợp người thích floral ấm kiểu thanh lịch hơn là mùi ngọt dễ thương.\n\nNên mua khi mày cần một chai cho dịp cần lên mood nữ tính sang. Nếu mày muốn mùi quá trẻ hoặc quá casual, có thể chưa phải lựa chọn đầu tiên.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai nữ hoa hạnh nhân-vani-hổ phách kiểu Hollywood — hoa hạnh nhân, clementine, hoa thuỷ tiên, nhài, mẫu đơn, hoa amaryllis, vani, hổ phách, benzoin và xạ hương trắng. Vàng, ấm và drama.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi nhẹ nhàng tối giản — thì Cinéma quá DRAMA. Jacques Cavallier (hiện tại là Master Perfumer tại Louis Vuitton) tạo ra chai này kiểu Hollywood premiere: hoa hạnh nhân ngọt mở ra, rồi nhài-mẫu đơn tỏa sáng, cuối cùng vani-hổ phách giữ ấm cả đêm. Ai thích mùi sạch, mùi tươi mát cũng sẽ thấy nó quá ngọt.\n\n### Có đáng tiền không?\n\nGiá YSL tầm trung — và Cinéma là chai bị \"quên\" trong lineup YSL hiện tại (bị Black Opium, Libre overshadow). Nhưng ai đã dùng đều thừa nhận: Cinéma sang hơn cả Libre ở khía cạnh hoa-oriental. So với Black Opium — cùng YSL ấm — thì Cinéma hoa hơn, ít cà phê hơn, sang hơn. So với Lancôme La Vie Est Belle — cùng nhóm nữ ngọt — thì Cinéma powdery hơn, ít gourmand hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, sự kiện, tiệc, hoặc dịp muốn \"làm chủ phòng\". Xịt 2-3 nhát: cổ và cổ tay. Thu đông đẹp nhất. Hà Nội tháng 10-2. Sài Gòn tối phòng máy lạnh. Chai được đặt tên THẢM ĐỎ — và đúng vậy.",
+  "verdict": "Hoa-vani-hổ phách Hollywood — Jacques Cavallier (LV). YSL underrated nhất. Drama sáng phòng.",
+  "verdictShort": "HOLLYWOOD DRAMA, YSL UNDERRATED, CAVALLIER",
+  "score": { "scent": 8.5, "uniqueness": 8.0, "compliments": 8.5, "value": 8.0, "total": 8.3 },
+  "vibes": [
+    { "label": "Drama", "icon": "🎬" },
+    { "label": "Sang", "icon": "✨" },
+    { "label": "Thảm đỏ", "icon": "⭐" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": { "spring": 52, "summer": 22, "fall": 82, "winter": 78 },
+  "dayNight": { "day": 35, "night": 82 },
+  "topNotes": [{ "name": "Hoa hạnh nhân" }, { "name": "Clementine" }, { "name": "Hoa thuỷ tiên" }],
+  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Mẫu đơn" }, { "name": "Hoa amaryllis" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Hổ phách" }, { "name": "Benzoin" }, { "name": "Xạ hương trắng" }],
+  "accords": [
+    { "name": "Hoa", "value": 100, "color": "#e91e63" },
+    { "name": "Vani", "value": 72, "color": "#F5DEB3" },
+    { "name": "Hổ phách", "value": 62, "color": "#d4a017" },
+    { "name": "Ngọt", "value": 55, "color": "#8B0000" },
+    { "name": "Cam chanh", "value": 38, "color": "#f1c40f" }
+  ],
+  "seoTitle": "YSL Cinéma chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá YSL Cinéma chính hãng: mùi hoa vani hổ phách Hollywood drama, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nữ", "Drama", "Hollywood", "Buổi tối"],
+  "sizes": ["10ml Chiết", "35ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
