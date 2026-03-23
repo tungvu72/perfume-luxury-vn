@@ -10,45 +10,40 @@
   "images": [
     {
       "url": "/images/products/dior-eau-sauvage-parfum-main.jpg",
-      "source": "amazon",
-      "caption": "DIOR Eau Sauvage Parfum chính hãng",
+      "source": "fragram",
+      "caption": "Dior Eau Sauvage Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nEau Sauvage Parfum giữ tinh thần lịch thiệp cổ điển của Eau Sauvage nhưng làm tối hơn, sâu hơn và nam tính trưởng thành hơn rõ. Nó không còn chỉ là citrus sạch sáng, mà có thêm chiều dày của gỗ và độ ấm khiến tổng thể rất dressy. Đây là một mùi nam đẹp cho người thích phong cách cổ điển được làm sang trọng hơn.\n\nĐiểm mạnh của bản Parfum là sự chững chạc. Nó vẫn thanh lịch, nhưng có nhiều chiều sâu hơn bản EDT và hợp hoàn cảnh buổi tối hơn. Trong khí hậu Việt Nam, chai này rất hợp với người thích mùi lịch thiệp nam tính mà không muốn quá ngọt hay quá hiện đại.\n\n## Diễn biến trên da\nMở đầu vẫn có nét citrus cổ điển quen thuộc, sau đó gỗ và nền ấm bắt đầu hiện lên làm mùi trở nên tròn, sâu và trưởng thành hơn. Mùi phát triển khá mượt, giữ chất quý ông rất rõ.\n\nDrydown là lớp gỗ ấm, sạch và rất tinh. Nó không quá phô trương nhưng có độ sang cao. Nhược điểm là ai thích kiểu fresh trẻ trung có thể thấy bản Parfum hơi nghiêm.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nEau Sauvage Parfum có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, đi làm môi trường lịch sự, gặp đối tác hoặc những dịp cần một mùi nam rất chỉnh tề.\n\nỞ Việt Nam, chai này dùng đẹp trong phòng lạnh hoặc chiều tối. Ưu điểm là sang, tinh và rất gentleman; nhược điểm là không quá hợp người thích mùi hiện đại đậm ambroxan.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích mùi nam cổ điển nhưng muốn chiều sâu và sự dressy hơn bản thường, Eau Sauvage Parfum rất đáng thử. Nó hợp người thích phong cách quý ông, gọn và có gu lâu dài.\n\nNên mua khi mày cần một chai lịch thiệp cho tối hoặc dịp nghiêm chỉnh. Nếu mày thích mùi ngọt ấm hiện đại, nên đi hướng khác.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nam",
-    "NEEDS_SOURCE"
+  "description": "Phiên bản Parfum tối nhất Eau Sauvage — cam bergamot, nhựa dược, cỏ hương bài, nhựa thông và ambra xám. Tối, khoáng và rất cerebral.",
+  "article": "### Ai không nên mua?\n\nNếu bạn biết Eau Sauvage gốc 1966 (citrus-nhẹ-sạch) và kỳ vọng Parfum giống thế — thì KHÔNG. François Demachy rewrite hoàn toàn: Parfum tối, khoáng, vetiver-nhựa dược, gần như không còn citrus. Đây là chai cho ai muốn Eau Sauvage TRƯỞNG THÀNH — từ chàng trai thành quý ông. Ai thích tươi sáng nên quay về EDT gốc.\n\n### Có đáng tiền không?\n\nGiá Dior nhưng Parfum concentration — bám 10+ giờ. DNA vetiver-myrrh ở đây gần niche hơn designer. So với Terre d'Hermès — cùng nhóm khoáng-đất — thì Eau Sauvage Parfum tối hơn, ít cam hơn, nhiều nhựa hơn. So với Tom Ford Grey Vetiver — cùng vetiver — thì ESP rẻ hơn và dark hơn. Beast mode.\n\n### Nên dùng khi nào?\n\nĐi làm, ăn tối, sự kiện cần sự nghiêm túc. Xịt 2 nhát cổ — Parfum mạnh. Thu đông tuyệt vời — Hà Nội tháng 10-2. Sài Gòn tối điều hòa. Chai cho quý ông thật sự.",
+  "verdict": "Eau Sauvage tối nhất — vetiver nhựa dược khoáng. Demachy rewrite hoàn toàn. Từ chàng trai thành quý ông.",
+  "verdictShort": "VETIVER NHỰA DƯỢC, TỐI, QUÝ ÔNG",
+  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 7.0, "value": 8.0, "total": 8.1 },
+  "vibes": [
+    { "label": "Quý ông", "icon": "🎩" },
+    { "label": "Tối", "icon": "🖤" },
+    { "label": "Khoáng", "icon": "⛰️" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 10,
+  "sillage": 7,
+  "seasons": { "spring": 38, "summer": 12, "fall": 82, "winter": 88 },
+  "dayNight": { "day": 42, "night": 78 },
+  "topNotes": [{ "name": "Cam bergamot" }],
+  "middleNotes": [{ "name": "Nhựa dược" }, { "name": "Cỏ hương bài" }],
+  "baseNotes": [{ "name": "Nhựa thông" }, { "name": "Ambra xám" }],
+  "accords": [
+    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
+    { "name": "Khoáng", "value": 72, "color": "#7f8c8d" },
+    { "name": "Nhựa", "value": 62, "color": "#5d4037" },
+    { "name": "Thơm thảo mộc", "value": 48, "color": "#2c7a4b" },
+    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+  ],
+  "seoTitle": "Dior Eau Sauvage Parfum chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Dior Eau Sauvage Parfum chính hãng: mùi vetiver nhựa dược tối nhất dòng, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nam", "Quý ông", "Khoáng", "Thu đông"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

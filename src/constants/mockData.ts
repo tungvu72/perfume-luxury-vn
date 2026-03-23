@@ -3333,44 +3333,44 @@ Mùa hè, ban ngày, đi làm, dạo phố kiểu gentleman. Xịt 3-4 nhát vì
     perfumer: "François Demachy",
     gender: "nam",
     image: "/images/products/dior-eau-sauvage-parfum-main.jpg",
-    images: [{ url: "/images/products/dior-eau-sauvage-parfum-main.jpg", source: "amazon", caption: "DIOR Eau Sauvage Parfum chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Eau Sauvage Parfum giữ tinh thần lịch thiệp cổ điển của Eau Sauvage nhưng làm tối hơn, sâu hơn và nam tính trưởng thành hơn rõ. Nó không còn chỉ là citrus sạch sáng, mà có thêm chiều dày của gỗ và độ ấm khiến tổng thể rất dressy. Đây là một mùi nam đẹp cho người thích phong cách cổ điển được làm sang trọng hơn.
+    images: [{ url: "/images/products/dior-eau-sauvage-parfum-main.jpg", source: "fragram", caption: "Dior Eau Sauvage Parfum chính hãng", verified: true }],
+    description: "Phiên bản Parfum tối nhất Eau Sauvage — cam bergamot, nhựa dược, cỏ hương bài, nhựa thông và ambra xám. Tối, khoáng và rất cerebral.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của bản Parfum là sự chững chạc. Nó vẫn thanh lịch, nhưng có nhiều chiều sâu hơn bản EDT và hợp hoàn cảnh buổi tối hơn. Trong khí hậu Việt Nam, chai này rất hợp với người thích mùi lịch thiệp nam tính mà không muốn quá ngọt hay quá hiện đại.
+Nếu bạn biết Eau Sauvage gốc 1966 (citrus-nhẹ-sạch) và kỳ vọng Parfum giống thế — thì KHÔNG. François Demachy rewrite hoàn toàn: Parfum tối, khoáng, vetiver-nhựa dược, gần như không còn citrus. Đây là chai cho ai muốn Eau Sauvage TRƯỞNG THÀNH — từ chàng trai thành quý ông. Ai thích tươi sáng nên quay về EDT gốc.
 
-## Diễn biến trên da
-Mở đầu vẫn có nét citrus cổ điển quen thuộc, sau đó gỗ và nền ấm bắt đầu hiện lên làm mùi trở nên tròn, sâu và trưởng thành hơn. Mùi phát triển khá mượt, giữ chất quý ông rất rõ.
+### Có đáng tiền không?
 
-Drydown là lớp gỗ ấm, sạch và rất tinh. Nó không quá phô trương nhưng có độ sang cao. Nhược điểm là ai thích kiểu fresh trẻ trung có thể thấy bản Parfum hơi nghiêm.
+Giá Dior nhưng Parfum concentration — bám 10+ giờ. DNA vetiver-myrrh ở đây gần niche hơn designer. So với Terre d'Hermès — cùng nhóm khoáng-đất — thì Eau Sauvage Parfum tối hơn, ít cam hơn, nhiều nhựa hơn. So với Tom Ford Grey Vetiver — cùng vetiver — thì ESP rẻ hơn và dark hơn. Beast mode.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Eau Sauvage Parfum có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, đi làm môi trường lịch sự, gặp đối tác hoặc những dịp cần một mùi nam rất chỉnh tề.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng đẹp trong phòng lạnh hoặc chiều tối. Ưu điểm là sang, tinh và rất gentleman; nhược điểm là không quá hợp người thích mùi hiện đại đậm ambroxan.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích mùi nam cổ điển nhưng muốn chiều sâu và sự dressy hơn bản thường, Eau Sauvage Parfum rất đáng thử. Nó hợp người thích phong cách quý ông, gọn và có gu lâu dài.
-
-Nên mua khi mày cần một chai lịch thiệp cho tối hoặc dịp nghiêm chỉnh. Nếu mày thích mùi ngọt ấm hiện đại, nên đi hướng khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi làm, ăn tối, sự kiện cần sự nghiêm túc. Xịt 2 nhát cổ — Parfum mạnh. Thu đông tuyệt vời — Hà Nội tháng 10-2. Sài Gòn tối điều hòa. Chai cho quý ông thật sự.`,
+    verdict: "Eau Sauvage tối nhất — vetiver nhựa dược khoáng. Demachy rewrite hoàn toàn. Từ chàng trai thành quý ông.",
+    verdictShort: "VETIVER NHỰA DƯỢC, TỐI, QUÝ ÔNG",
+    score: { scent: 8.8, uniqueness: 8.5, compliments: 7, value: 8, total: 8.1 },
+    vibes: [{ label: "Quý ông", icon: "🎩" }, { label: "Tối", icon: "🖤" }, { label: "Khoáng", icon: "⛰️" }],
+    longevity: 10,
+    sillage: 7,
+    seasons: { spring: 38, summer: 12, fall: 82, winter: 88 },
+    dayNight: { day: 42, night: 78 },
+    topNotes: [{ name: "Cam bergamot" }],
+    middleNotes: [{ name: "Nhựa dược" }, { name: "Cỏ hương bài" }],
+    baseNotes: [{ name: "Nhựa thông" }, { name: "Ambra xám" }],
+    accords: [
+      { name: "Gỗ", value: 100, color: "#8B4513" },
+      { name: "Khoáng", value: 72, color: "#7f8c8d" },
+      { name: "Nhựa", value: 62, color: "#5d4037" },
+      { name: "Thơm thảo mộc", value: 48, color: "#2c7a4b" },
+      { name: "Hổ phách", value: 42, color: "#d4a017" }
+    ],
+    seoTitle: "Dior Eau Sauvage Parfum chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Dior Eau Sauvage Parfum chính hãng: mùi vetiver nhựa dược tối nhất dòng, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nam","Quý ông","Khoáng","Thu đông"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "egoiste",
@@ -3381,44 +3381,44 @@ Nên mua khi mày cần một chai lịch thiệp cho tối hoặc dịp nghiêm
     perfumer: "Jacques Polge",
     gender: "nam",
     image: "/images/products/chanel-egoiste-main.jpg",
-    images: [{ url: "/images/products/chanel-egoiste-main.jpg", source: "amazon", caption: "CHANEL Egoiste chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Égoïste là một trong những chai Chanel nam có cá tính mạnh nhất: gỗ, gia vị, ấm và rất cổ điển theo kiểu quyền lực. Nó không sạch sáng như Platinum Égoïste, cũng không mềm trung tính, mà có chiều dày, sự nghiêm và một kiểu nam tính rất riêng. Đây là mùi hương dành cho người có gu rõ, không ngại bị xem là old-school.
+    images: [{ url: "/images/products/chanel-egoiste-main.jpg", source: "fragram", caption: "Chanel Égoïste Eau de Toilette chính hãng", verified: true }],
+    description: "Chai nam gỗ hồng-vani-gia vị kiểu ích kỷ — rau mùi, cam bergamot, hương thảo, cam quýt, gỗ hồng, nhài, hoa hồng, gỗ đàn hương, vani và hổ phách. Gỗ hồng, ấm và rất French.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Égoïste là bản sắc. Trong một thị trường đầy mùi blue hoặc ngọt hiện đại, nó đứng hẳn một lane riêng. Ở điều kiện Việt Nam, chai này hợp hơn cho tối, thời tiết mát, không gian lịch sự hoặc người thích gu nam cổ điển có trọng lượng.
+Nếu bạn thích compliment getter — thì Égoïste đúng như tên: ÍCH KỶ. Chai này xịt cho MÌNH thích chứ không phải cho ai khen. Gỗ hồng (rosewood) ấm, khô, phấn — mùi rất "nội tâm" và không crowd-pleasing. Quảng cáo gốc cũng iconic: phụ nữ la hét "Égoïste!" từ trên ban công. Đây không phải chai cho casual.
 
-## Diễn biến trên da
-Mở đầu có gia vị và gỗ lên khá rõ, sau đó phần ấm và nền mềm khiến tổng thể tròn hơn nhưng vẫn giữ khí chất nghiêm. Mùi phát triển nhất quán, ít chiều lòng số đông.
+### Có đáng tiền không?
 
-Drydown là lớp gỗ ấm, cay nhẹ và cực kỳ nam tính. Nó không phải kiểu sexy dễ dãi, mà là kiểu có uy. Nhược điểm là người quen mùi hiện đại có thể thấy Égoïste hơi khó gần.
+Giá Chanel — EDT nên reasonable. Égoïste ra đời 1990, dùng gỗ hồng (Brazilian rosewood) — nguyên liệu hiện tại gần như tuyệt chủng và bị cấm khai thác, nên bản reformulate không thể giống gốc 100%. So với Dior Homme — cùng nhóm nam elegant — thì Égoïste nhiều gỗ hồng hơn, ít iris hơn, vintage hơn. So với Antaeus — cùng Chanel cổ — thì Égoïste nhẹ hơn, bớt powerhouse. Bám 6-7 giờ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Égoïste có độ lưu hương khá tốt, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, đi gặp gỡ trang trọng, dùng mùa mát hoặc khi muốn một mùi nam thật sự có quan điểm riêng.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng vừa tay và đẹp nhất trong phòng lạnh. Ưu điểm là rất có cá tính; nhược điểm là độ đại chúng thấp.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai Chanel nam cổ điển, gỗ-gia vị và rất có khí chất, Égoïste là cái tên đáng thử. Nó hợp người thích mùi nam mạnh bản sắc và không muốn hòa tan vào thị trường hiện đại.
-
-Nên mua khi mày muốn một mùi tuyên ngôn. Nếu mày cần sự dễ khen và linh hoạt cao, nên chọn hướng khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi làm, ăn tối nhẹ, đọc sách, hoặc khi muốn thời gian cho bản thân. Xịt 3 nhát: cổ, ngực, cổ tay. Thu đông đẹp nhất — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai cho người đã tìm được chính mình.`,
+    verdict: "Gỗ hồng-vani ích kỷ — xịt cho mình. Quảng cáo iconic. Rosewood gần tuyệt chủng. Chanel vintage art.",
+    verdictShort: "GỖ HỒNG VANI, ÍCH KỶ, VINTAGE CHANEL",
+    score: { scent: 8.8, uniqueness: 9, compliments: 6.5, value: 8, total: 8.1 },
+    vibes: [{ label: "Ích kỷ", icon: "😏" }, { label: "Vintage", icon: "🏛️" }, { label: "Nội tâm", icon: "📖" }],
+    longevity: 7,
+    sillage: 5,
+    seasons: { spring: 52, summer: 18, fall: 82, winter: 78 },
+    dayNight: { day: 52, night: 68 },
+    topNotes: [{ name: "Rau mùi" }, { name: "Cam bergamot" }, { name: "Hương thảo" }, { name: "Cam quýt" }],
+    middleNotes: [{ name: "Gỗ hồng" }, { name: "Hoa nhài" }, { name: "Hoa hồng" }],
+    baseNotes: [{ name: "Gỗ đàn hương" }, { name: "Vani" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Gỗ", value: 100, color: "#8B4513" },
+      { name: "Gia vị ấm", value: 62, color: "#e67e22" },
+      { name: "Phấn", value: 52, color: "#d7bde2" },
+      { name: "Hoa", value: 42, color: "#e91e63" },
+      { name: "Vani", value: 38, color: "#F5DEB3" }
+    ],
+    seoTitle: "Chanel Égoïste chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Chanel Égoïste chính hãng: mùi gỗ hồng vani vintage iconic, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Vintage","Nội tâm","Gỗ hồng"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "egoiste-platinum",
