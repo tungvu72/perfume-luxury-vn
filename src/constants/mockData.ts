@@ -157,33 +157,53 @@ Gặp khách VIP, sự kiện, tiệc tối, dịp quan trọng. Xịt 2 nhát: 
   },
   {
     id: "acqua-di-gio",
-    brandSlug: "armani",
+    brandSlug: "giorgio-armani",
     brand: "GIORGIO ARMANI",
-    name: "Acqua di Gio",
-    subName: "Eau de Parfum",
-    perfumer: "Alberto Morillas",
+    name: "Acqua di Giò",
+    subName: "Eau de Toilette",
+    perfumer: "Alberto Morillas, Annick Ménardo & Christian Dussoulier",
     gender: "nam",
-    image: "/images/products/armani-acqua-di-gio-main.jpg",
-    images: [{ url: "/images/products/armani-acqua-di-gio-main.jpg", source: "amazon", caption: "GIORGIO ARMANI Acqua di Gio chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    image: "/images/products/giorgio-armani-acqua-di-gio-main.jpg",
+    images: [
+      { url: "/images/products/giorgio-armani-acqua-di-gio-main.jpg", source: "fragram", caption: "Acqua di Giò Eau de Toilette chính hãng", verified: true }
+    ],
+    description: "Chai nam aquatic kinh điển nhất mọi thời đại — chanh, cam bergamot, nhài, cam, neroli, biển, calone, hương thảo, đào, xạ hương trắng, gỗ tuyết tùng, rêu sồi và hoắc hương. Biển tươi, sạch và bất tử.",
+    article: `### Ai không nên mua?
+
+Nếu bạn muốn chai ĐỘC ĐÁO — thì Acqua di Gio là lựa chọn tệ nhất có thể. Đây là chai nam bán chạy nhất LỊCH SỬ nước hoa — từ năm 1996 đến giờ, gần 30 năm, vẫn top mọi bảng xếp hạng. Điều đó nghĩa là: AI CŨNG BIẾT mùi này. Xịt ra ngoài, người ta sẽ nói "à Acqua di Gio" chứ không hỏi "mùi gì thế". Ngoài ra, EDT nên bám ngắn: 4-5 giờ rồi biến mất.
+
+### Có đáng tiền không?
+
+Giá Armani tầm trung — và với một chai đã bán được HƠN 1 TỶ đô doanh thu từ khi ra mắt, giá này rất hợp lý. AdG gốc là chai KHAI SINH cả thể loại aquatic nam — trước nó, không có ai làm mùi biển cho nam. So với Profondo (biến thể 2020) thì gốc nhẹ hơn, tươi hơn và đơn giản hơn. So với Bleu de Chanel — thì AdG tươi hơn, ít gỗ hơn. Nhược điểm: EDT bám ngắn, tỏa yếu — cần xịt lại.
+
+### Nên dùng khi nào?
+
+Mùa hè, ban ngày, đi biển, đi làm, dạo phố, thể thao — mọi lúc trời nóng. Xịt 4-5 nhát vì EDT tỏa nhẹ. Ở Sài Gòn dùng quanh năm. Hà Nội tháng 4-9. Chai mà mọi nam giới nên thử ít nhất một lần trong đời — biết mình thích hay không, rồi đi tiếp.`,
+    verdict: "Aquatic nam khai sinh cả thể loại — 30 năm, 1 tỷ đô, ai cũng biết. Tươi, sạch, bất tử. Bám ngắn nhưng kinh điển.",
+    verdictShort: "AQUATIC KINH ĐIỂN, 30 NĂM, BẤT TỬ",
+    score: { scent: 8.5, uniqueness: 6, compliments: 8.5, value: 8.5, total: 7.9 },
+    vibes: [{ label: "Kinh điển", icon: "👑" }, { label: "Mùa hè", icon: "☀️" }, { label: "Biển", icon: "🌊" }],
+    longevity: 5,
+    sillage: 5,
+    seasons: { spring: 85, summer: 98, fall: 42, winter: 15 },
+    dayNight: { day: 92, night: 28 },
+    topNotes: [{ name: "Chanh" }, { name: "Cam bergamot" }, { name: "Cam" }, { name: "Neroli" }],
+    middleNotes: [{ name: "Biển" }, { name: "Hoa nhài" }, { name: "Calone" }, { name: "Hương thảo" }, { name: "Đào" }],
+    baseNotes: [{ name: "Xạ hương trắng" }, { name: "Gỗ tuyết tùng" }, { name: "Rêu sồi" }, { name: "Hoắc hương" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Nước", value: 100, color: "#2980b9" },
+      { name: "Cam chanh", value: 82, color: "#f1c40f" },
+      { name: "Tươi mát", value: 72, color: "#2ecc71" },
+      { name: "Thơm thảo mộc", value: 48, color: "#2c7a4b" },
+      { name: "Gỗ", value: 38, color: "#8B4513" }
+    ],
+    seoTitle: "Acqua di Giò EDT chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Acqua di Giò EDT chính hãng: mùi aquatic kinh điển nhất mọi thời, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Kinh điển","Mùa hè","Biển"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox","200ml Fullbox"],
+    basePrice: 1800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "acqua-di-gio-parfum",
@@ -388,51 +408,49 @@ Hẹn hò, tiệc, buổi tối, dịp đặc biệt. Xịt 2 nhát: cổ, cổ 
     id: "addict-edp-2014",
     brandSlug: "dior",
     brand: "DIOR",
-    name: "Dior Addict Eau de Parfum 2014",
-    subName: "Eau de Parfum",
+    name: "Dior Addict",
+    subName: "Eau de Parfum (2014)",
     perfumer: "François Demachy",
     gender: "nu",
     image: "/images/products/dior-addict-edp-2014-main.jpg",
-    images: [
-      { url: "/images/products/dior-addict-edp-2014-main.jpg", source: "amazon", caption: "DIOR Dior Addict Eau de Parfum 2014 chính hãng", verified: true }
+    images: [{ url: "/images/products/dior-addict-edp-2014-main.jpg", source: "fragram", caption: "Dior Addict Eau de Parfum 2014 chính hãng", verified: true }],
+    description: "Chai nữ nhài-vani Bourbon quyến rũ nhất Dior — lá cam quýt, hoa cam, nhài Sambac và vani Bourbon. Đơn giản, cuốn hút và rất addictive.",
+    article: `### Ai không nên mua?
+
+Nếu bạn thích mùi phức tạp nhiều tầng với 20 nốt hương — thì Addict EDP 2014 sẽ làm bạn thất vọng vì nó ĐƠN GIẢN. Chỉ 4 nốt: lá cam quýt, hoa cam, nhài Sambac, vani Bourbon — François Demachy stripped everything down. Ai thích mùi sạch tươi mát cũng đừng nghĩ — vani Bourbon ở base rất ngọt và ấm, kiểu "addicting" đúng như tên.
+
+### Có đáng tiền không?
+
+Giá Dior tầm trung — nhưng bản 2014 khác hoàn toàn bản Addict gốc 2002. Bản 2014 tối giản hơn, nhiều nhài hơn, nhiều vani hơn. So với YSL Libre EDP — cùng nhóm nữ mạnh mẽ — thì Addict 2014 ngọt hơn, ít lavender hơn, feminine hơn. So với Dior J'adore — cùng hãng — thì Addict tối hơn, gợi cảm hơn, ít "golden" hơn. Bám 7-8 giờ, tỏa tốt.
+
+### Nên dùng khi nào?
+
+Đi chơi tối, hẹn hò, sự kiện, hoặc khi muốn tạo ấn tượng quyến rũ. Xịt 2-3 nhát: cổ và cổ tay. Đẹp nhất thu đông. Ở Hà Nội tháng 10-3. Sài Gòn thì tối phòng điều hòa. Tên "Addict" không sai — xịt vài lần sẽ khó bỏ.`,
+    verdict: "Nhài-vani Bourbon tối giản — chỉ 4 nốt mà cuốn. Demachy stripped down. Gợi cảm, addictive đúng tên.",
+    verdictShort: "NHÀI VANI, TỐI GIẢN, ADDICTIVE",
+    score: { scent: 8.5, uniqueness: 8, compliments: 8.5, value: 8, total: 8.3 },
+    vibes: [{ label: "Quyến rũ", icon: "💋" }, { label: "Tối giản", icon: "✨" }, { label: "Gợi cảm", icon: "🖤" }],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 52, summer: 22, fall: 82, winter: 78 },
+    dayNight: { day: 32, night: 82 },
+    topNotes: [{ name: "Lá cam quýt" }, { name: "Hoa cam" }],
+    middleNotes: [{ name: "Nhài Sambac" }],
+    baseNotes: [{ name: "Vani Bourbon" }],
+    accords: [
+      { name: "Hoa", value: 100, color: "#e91e63" },
+      { name: "Vani", value: 78, color: "#F5DEB3" },
+      { name: "Ngọt", value: 62, color: "#8B0000" },
+      { name: "Cam chanh", value: 42, color: "#f1c40f" },
+      { name: "Phương Đông", value: 35, color: "#c0392b" }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Dior Addict EDP 2014 là một mùi nữ ấm, vanilla trắng và rất quyến rũ theo cách bóng bẩy. Nó không còn hoàn toàn “quái” như ký ức về vài phiên bản Dior Addict cũ, nhưng vẫn giữ được DNA sensual rất rõ: đậm, nữ tính và hợp buổi tối. Đây là kiểu mùi dành cho người thích vanilla floral có độ hiện diện và thần thái sang.
-
-Điểm mạnh của bản 2014 là nó cân bằng hơn: vẫn gợi cảm, vẫn dressy, nhưng wearable hơn với nhiều người. Trong điều kiện Việt Nam, chai này hợp tối, hẹn hò, không gian mát hoặc người muốn một mùi nữ sexy nhưng không quá khó tiếp cận.
-
-## Diễn biến trên da
-Mở đầu floral trắng và độ ấm lên khá nhanh, sau đó vanilla bắt đầu kéo tổng thể vào vùng mềm, dày và nữ tính hơn. Mùi phát triển mượt, ôm và khá tròn trịa.
-
-Drydown là lớp vanilla trắng ấm, mềm và khá gây nghiện nếu hợp gu. Nó không hoàn toàn teen ngọt, mà có chất trưởng thành rõ. Nhược điểm là trời nóng dễ làm phần ngọt dày hơn mong muốn.
-
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Dior Addict EDP 2014 có độ lưu hương khá tốt, khoảng 7-9 giờ; tỏa hương vừa đến khá. Nó hợp tối, hẹn hò, tiệc nhẹ, mùa mát hoặc khi muốn một mùi nữ quyến rũ mà vẫn sang.
-
-Ở Việt Nam, nên ưu tiên buổi tối và phòng lạnh. Ưu điểm là sensual và dễ nhớ; nhược điểm là không phải kiểu floral nhẹ nhàng ban ngày.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích vanilla floral gợi cảm, ấm và bóng bẩy, Dior Addict EDP 2014 là lựa chọn rất đáng thử. Nó hợp người muốn một chai tối nữ tính rõ, có độ cuốn và dễ tạo dấu ấn.
-
-Nên mua khi mày cần một chai date night hoặc evening scent. Nếu mày thích mùi trong, mát và nhẹ, đây không phải hướng phù hợp.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    seoTitle: "Dior Addict EDP 2014 chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Dior Addict EDP 2014 chính hãng: mùi nhài vani Bourbon quyến rũ tối giản, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Quyến rũ","Tối giản","Buổi tối"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "african-leather",
