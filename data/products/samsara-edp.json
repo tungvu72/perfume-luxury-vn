@@ -1,54 +1,23 @@
 {
-  "id": "samsara-edp",
-  "brandSlug": "guerlain",
-  "brand": "GUERLAIN",
-  "name": "Samsara",
-  "subName": "Eau de Parfum",
-  "perfumer": "Jean-Paul Guerlain",
-  "gender": "nu",
+  "id": "samsara-edp", "brandSlug": "guerlain", "brand": "GUERLAIN", "name": "Samsara", "subName": "Eau de Parfum",
+  "perfumer": "Jean-Paul Guerlain", "gender": "nu",
   "image": "/images/products/guerlain-samsara-edp-main.jpg",
-  "images": [
-    {
-      "url": "/images/products/guerlain-samsara-edp-main.jpg",
-      "source": "amazon",
-      "caption": "GUERLAIN Samsara chính hãng",
-      "verified": true
-    }
-  ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nSamsara EDP là một mùi hương rất Guerlain: gỗ đàn hương, hoa và cảm giác ấm sang cổ điển hòa vào nhau cực kỳ mượt. Nó không đi theo hướng ngọt trẻ hay floral hiện đại, mà mang vẻ đẹp chững chạc, nữ tính và rất có chiều sâu. Đây là kiểu mùi cần gu, nhưng khi hợp thì cho cảm giác sang rất riêng.\n\nĐiểm mạnh của Samsara là sự mềm dày đầy khí chất. Nó có chất gỗ rõ nhưng không hề thô, floral hiện diện nhưng không mỏng. Trong khí hậu Việt Nam, chai này hợp hơn với người thích phong cách cổ điển cao cấp, dùng tối hoặc trong môi trường mát.\n\n## Diễn biến trên da\nMở đầu hoa lên khá nhanh, sau đó đàn hương và nền ấm bắt đầu đẩy mùi vào trạng thái mượt, sâu và trưởng thành hơn. Samsara phát triển không gắt, mà rất liền và “lụa”.\n\nDrydown là lớp gỗ - hoa ấm, bột nhẹ và cực kỳ sang. Nó không phô trương nhưng có cảm giác rất đắt. Nhược điểm là người chỉ quen mùi hiện đại sáng sạch có thể thấy Samsara hơi vintage.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nSamsara EDP có độ lưu hương khá tốt, khoảng 7-9 giờ; tỏa hương vừa. Nó hợp tối, gặp gỡ lịch sự, dùng mùa mát hoặc những dịp muốn một mùi nữ trưởng thành có chiều sâu.\n\nỞ Việt Nam, nên dùng vừa tay và ưu tiên buổi tối. Ưu điểm là sang, mềm, giàu chiều sâu; nhược điểm là độ đại chúng không cao.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích floral-woody cổ điển và muốn một chai nữ có khí chất thật sự, Samsara EDP rất đáng thử. Nó hợp người yêu mùi sang kiểu Pháp cũ, mềm nhưng không dễ quên.\n\nNên mua khi mày muốn một chai signature có chiều sâu. Nếu mày thích mùi trẻ, sáng và trendy, nên test kỹ trước.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
-  ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "images": [{ "url": "/images/products/guerlain-samsara-edp-main.jpg", "source": "fragram", "caption": "Guerlain Samsara EDP chính hãng", "verified": true }],
+  "description": "Chai nữ gỗ đàn hương-nhài-vani-tonka kiểu luân hồi 1989 — cam bergamot, đào, nhài, ylang-ylang, hoa hồng, iris, gỗ đàn hương, vani, đậu Tonka và xạ hương. Gỗ đàn hương nặng, oriental và Phật giáo.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét gỗ đàn hương — Samsara = GỖ ĐÀN HƯƠNG ở nồng độ CAO NHẤT mà Guerlain từng dùng. Jean-Paul Guerlain tạo năm 1989, lấy tên từ Phật giáo (Samsara = luân hồi). Gỗ đàn hương Mysore ấm, kem, dày — phủ lên nhài tạo combo oriental nặng. Ai thích nhẹ fresh sẽ thấy nó ngộp.\n\n### Có đáng tiền không?\n\nGiá Guerlain — gỗ đàn hương Mysore giờ cực hiếm và đắt, nên reformulate dùng synthetic thay phần lớn. So với Shalimar — cùng Guerlain oriental — thì Samsara nhiều đàn hương hơn, ít smoky hơn. So với Tom Ford Santal Blush — cùng đàn hương — thì Samsara nhiều nhài hơn, rẻ hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nThiền, yoga, sự kiện tối, hoặc khi muốn inner peace mùi hương. Xịt 2 nhát cổ. Thu đông. Chai cho ai hiểu spirituality.",
+  "verdict": "Gỗ đàn hương luân hồi — Jean-Paul Guerlain 1989. Mysore sandalwood (hiếm). Buddhist oriental.",
+  "verdictShort": "ĐÀN HƯƠNG LUÂN HỒI, MYSORE, SPIRITUAL",
+  "score": { "scent": 8.5, "uniqueness": 9.0, "compliments": 7.0, "value": 8.0, "total": 8.1 },
+  "vibes": [{ "label": "Spiritual", "icon": "🧘" }, { "label": "Đàn hương", "icon": "🪵" }, { "label": "Heritage", "icon": "👑" }],
+  "longevity": 8, "sillage": 6,
+  "seasons": { "spring": 42, "summer": 15, "fall": 78, "winter": 82 },
+  "dayNight": { "day": 35, "night": 72 },
+  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Đào" }],
+  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Ngọc lan tây" }, { "name": "Hoa hồng" }, { "name": "Iris" }],
+  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Vani" }, { "name": "Đậu Tonka" }, { "name": "Xạ hương" }],
+  "accords": [{ "name": "Gỗ", "value": 100, "color": "#8B4513" }, { "name": "Hoa", "value": 72, "color": "#e91e63" }, { "name": "Phương Đông", "value": 62, "color": "#c0392b" }, { "name": "Phấn", "value": 48, "color": "#d7bde2" }, { "name": "Vani", "value": 42, "color": "#F5DEB3" }],
+  "seoTitle": "Guerlain Samsara EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Guerlain Samsara EDP chính hãng: mùi gỗ đàn hương luân hồi Phật giáo, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nữ", "Spiritual", "Đàn hương", "Heritage"], "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2200000, "shopeeOffers": [], "isPublished": true
 }
