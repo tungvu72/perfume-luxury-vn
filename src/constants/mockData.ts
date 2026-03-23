@@ -1008,45 +1008,48 @@ Mugler giá tầm trung — nhưng Angel Muse discontinued nên thị trường 
     subName: "Eau de Parfum",
     perfumer: "Daniela Andrier",
     gender: "unisex",
-    image: "/images/products/guerlain-angelique-noire-main.avif",
-    images: [{ url: "/images/products/guerlain-angelique-noire-main.avif", source: "amazon", caption: "GUERLAIN Angélique Noire chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Angelique Noire là kiểu vanilla niche rất Pháp: mềm, tối, sang và có chiều sâu tinh tế thay vì ngọt theo kiểu món tráng miệng. Vanilla ở đây đi cùng angelica và một cảm giác xanh nhẹ, khiến tổng thể vừa có độ ấm, vừa có độ thanh, không hề dễ dãi. Đây là một mùi hương đẹp theo kiểu càng ngửi càng thấy tinh vi.
+    image: "/images/products/guerlain-angelique-noire-main.jpg",
+    images: [
+      { url: "/images/products/guerlain-angelique-noire-main.jpg", source: "fragram", caption: "Guerlain Angélique Noire Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai unisex bạch chỉ-vani xanh kiểu haute couture Guerlain — bạch chỉ, lê, tiêu hồng, nhài, carum, vani và gỗ tuyết tùng. Vani xanh, thanh lịch và rất nghệ thuật.",
+    article: `### Ai không nên mua?
 
-Điểm đặc biệt của Angelique Noire là nó không làm vanilla trở nên quá gourmand. Thay vào đó, Guerlain tạo ra một vanilla có bóng tối, có độ khô nhẹ và có nét sang rất đắt. Trong điều kiện Việt Nam, chai này hợp nhất với người thích mùi ấm nhưng không muốn ngọt dày, và muốn một mùi hương có tính sang trọng kín đáo hơn là gây chú ý ngay.
+Nếu bạn nghĩ vani = ngọt ngào ấm áp dễ thương thì Angélique Noire sẽ phá vỡ định kiến đó. Đây là "vani xanh" — bạch chỉ (angelica) tạo ra lớp đắng thảo mộc phủ lên vani, giống như cocktail gin & tonic thay vì milkshake. Ai thích gourmand ngọt rõ ràng sẽ thấy nó lạ và khó hiểu. Giá dòng L'Art et la Matière của Guerlain cũng không friendly.
 
-## Diễn biến trên da
-Mở đầu có chút xanh và hơi sắc, sau đó vanilla bắt đầu trồi lên nhưng không tràn ngập mà đi rất mượt. Sự đối lập giữa phần xanh và phần ngọt làm Angelique Noire luôn giữ được độ căng, không bị phẳng.
+### Có đáng tiền không?
 
-Drydown rất đẹp: vanilla mềm, ấm, hơi tối và có cảm giác sang sâu. Nó bám theo kiểu ôm da hơn là phát tỏa ồn ào. Nhược điểm là ai thích vanilla gourmand rõ, kiểu bánh kẹo dễ thương, có thể thấy chai này hơi lạnh và hơi nghiêm.
+Dòng L'Art et la Matière — exclusive line cao nhất Guerlain. Daniela Andrier (perfumer của Prada Infusion d'Iris) tạo ra concept "vũ đạo của đối lập": tươi vs ấm, đắng vs ngọt, xanh vs vani. So với Tom Ford Tobacco Vanille — cùng vani cao cấp — thì Angélique Noire sạch hơn rất nhiều, không ngọt, không thuốc lá. So với MFK Grand Soir — cùng vani amber niche — thì Angélique Noire xanh hơn, nhẹ hơn. Bám 8-10 giờ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Angelique Noire có độ lưu hương tốt, khoảng 7-9 giờ; tỏa hương vừa, thiên về aura gần. Nó hợp với chiều tối, hẹn hò, tiệc nhẹ, không gian tinh tế hoặc những ngày trời mát.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này nên dùng trong không gian điều hòa hoặc buổi tối để vanilla lên đẹp và không bị dày. Ưu điểm là tinh tế, sang, khác biệt; nhược điểm là giá cao và không phải kiểu vanilla đại chúng dễ hiểu.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai vanilla niche có chiều sâu, không trẻ con, không quá ngọt và mang đúng chất Guerlain cao cấp, Angelique Noire là lựa chọn rất đáng giá. Nó hợp người có gu, thích sự kín và sang hơn là effect tức thì.
-
-Nên mua khi mày đã chán các vanilla phổ thông và muốn một thứ tinh hơn, có cá tính hơn. Nếu mày cần mùi dễ thương, gourmand rõ hoặc dễ khen ngay, đây không phải hướng đầu tiên.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
+Đi gallery, ăn tối sang, sự kiện nghệ thuật, hoặc khi nào muốn mùi hương là tác phẩm chứ không phải phụ kiện. Xịt 2-3 nhát: cổ và cổ tay. Dùng quanh năm — bạch chỉ giữ tươi mùa hè, vani giữ ấm mùa đông. Chai dành cho người hiểu nước hoa.`,
+    verdict: "Vani xanh haute couture — bạch chỉ + vani = đối lập hoàn hảo. L'Art et la Matière Guerlain. Cho connoisseur.",
+    verdictShort: "VANI XANH, HAUTE COUTURE, CONNOISSEUR",
+    score: { scent: 9.2, uniqueness: 9.5, compliments: 7.5, value: 7, total: 8.3 },
+    vibes: [{ label: "Nghệ thuật", icon: "🎨" }, { label: "Vani xanh", icon: "🌿" }, { label: "Niche", icon: "💎" }],
+    longevity: 9,
+    sillage: 6,
+    seasons: { spring: 72, summer: 52, fall: 78, winter: 72 },
+    dayNight: { day: 55, night: 72 },
     topNotes: [{ name: "Bạch chỉ" }, { name: "Lê" }, { name: "Tiêu hồng" }],
-    middleNotes: [{ name: "Nhài" }, { name: "Thì là Ai Cập" }],
+    middleNotes: [{ name: "Hoa nhài" }, { name: "Carum" }],
     baseNotes: [{ name: "Bạch chỉ" }, { name: "Vani" }, { name: "Gỗ tuyết tùng" }],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    accords: [
+      { name: "Xạ hương", value: 100, color: "#bdc3c7" },
+      { name: "Phấn", value: 72, color: "#d7bde2" },
+      { name: "Ngọt", value: 62, color: "#8B0000" },
+      { name: "Hổ phách", value: 55, color: "#d4a017" },
+      { name: "Hoa trắng", value: 42, color: "#f5f5dc" },
+      { name: "Vani", value: 38, color: "#F5DEB3" }
+    ],
+    seoTitle: "Guerlain Angélique Noire chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Guerlain Angélique Noire chính hãng: mùi vani xanh haute couture độc đáo, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Niche","Nghệ thuật","Vani xanh"],
+    sizes: ["10ml Chiết","75ml Fullbox","125ml Fullbox"],
+    basePrice: 5500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "angels-share",
@@ -1400,45 +1403,45 @@ Quanh năm — đi làm, gặp gỡ, cà phê, du lịch, dạo phố. Xịt 3-4
     gender: "unisex",
     image: "/images/products/giardini-di-toscana-bianco-latte-main.jpg",
     images: [
-      { url: "/images/products/giardini-di-toscana-bianco-latte-main.jpg", source: "amazon", caption: "GIARDINI DI TOSCANA Bianco Latte chính hãng", verified: true }
+      { url: "/images/products/giardini-di-toscana-bianco-latte-main.jpg", source: "fragram", caption: "Giardini Di Toscana Bianco Latte chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Bianco Latte là một trong những chai gourmand hiện đại được nhắc nhiều vì nó đánh thẳng vào cảm giác sữa, caramel, vanilla và độ ngọt mềm rất dễ gây nghiện. Đây là kiểu mùi comfort scent điển hình: ấm, ngọt, mịn và khiến người ta liên tưởng đến món tráng miệng hơn là hoa cỏ truyền thống.
+    description: "Chai unisex caramel-mật ong-vani-sữa viral nhất TikTok — caramel, mật ong, coumarin, vani và xạ hương trắng. Sữa ấm, ngọt và comfort food trong chai nước hoa.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Bianco Latte là sự dễ yêu. Nó không cố tỏ ra quá phức tạp, mà tập trung vào việc khiến người mặc thơm ngon, mềm và ấm. Ở Việt Nam, chai này hợp với người thích gourmand rõ, dùng tối, đi chơi, hẹn hò hoặc đơn giản là thích mùi ngọt ôm da.
+Nếu bạn ghét mùi ngọt — dừng lại ngay. Bianco Latte NGỌT. Rất ngọt. Caramel-sữa-vani-mật ong — kiểu ly sữa nóng rưới caramel ở quán cà phê mùa đông. Ai thích mùi tươi mát, mùi citrus hay mùi gỗ khô sẽ thấy nó ngộp. Ngoài ra, chai này viral trên TikTok nên khả năng đụng hàng rất cao — đặc biệt với gen Z.
 
-## Diễn biến trên da
-Mở đầu là ngọt mềm gần như ngay lập tức, sau đó lớp sữa, caramel và vanilla bắt đầu rõ hơn. Mùi phát triển khá tuyến tính, nhưng chính sự tuyến tính đó lại làm nó thỏa mãn nếu mày thích hướng gourmand.
+### Có đáng tiền không?
 
-Drydown vẫn là lớp ngọt sữa-vanilla rất rõ, mềm và bền. Nó tạo cảm giác gần gũi, đáng yêu và khá dễ gây nghiện. Nhược điểm là ai không hợp mùi ngọt hoặc sợ cảm giác dessert-like sẽ thấy nó hơi nhiều đường.
+Giá tầm trung — rẻ hơn nhiều so với niche nhưng đắt hơn designer. Giardini Di Toscana là hãng Ý ít ai biết trước khi TikTok đẩy Bianco Latte lên viral. So với Ariana Grande Cloud — cùng nhóm ngọt viral — thì Bianco Latte sữa hơn, ít marshmallow hơn. So với Kayali Vanilla 28 — cùng vani — thì Bianco Latte có caramel-mật ong mà Kayali thiếu. Bám 6-7 giờ, tỏa vừa.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Bianco Latte có hiệu năng tốt, thường 7-9 giờ hoặc hơn; tỏa hương vừa đến khá. Nó hợp tối, mùa mát, máy lạnh, hẹn hò hoặc những lúc muốn thơm theo kiểu ấm áp dễ chịu.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng nhẹ tay nếu trời nóng. Ưu điểm là gourmand rất rõ và cực kỳ nịnh khoảng cách gần; nhược điểm là độ đa dụng ban ngày thấp.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích mùi sữa-caramel-vanilla mềm và muốn một chai gourmand rất thẳng thắn, Bianco Latte là lựa chọn rất đáng cân nhắc. Nó hợp người yêu comfort scent và không ngại một mùi hương ngọt rõ từ đầu đến cuối.
-
-Nên mua khi mày cần một chai tối hoặc thời tiết mát thật ôm da. Nếu mày thích sự khô, sạch hoặc ít ngọt, nên tránh hướng này.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa đông, ở nhà cuối tuần, đi cafe, hoặc khi muốn comfort zone. Xịt 2-3 nhát cổ và cổ tay. Hà Nội tháng 11-2 là perfect. Sài Gòn thì phòng máy lạnh hoặc tối mát. Không dùng đi làm trong phòng kín vì caramel sữa sẽ ngộp đồng nghiệp.`,
+    verdict: "Sữa caramel trong chai — TikTok viral, comfort food. Ngọt nhưng ai thích thì nghiện. Giá tốt cho gourmand.",
+    verdictShort: "SỮA CARAMEL, TIKTOK VIRAL, COMFORT",
+    score: { scent: 8, uniqueness: 7.5, compliments: 8.5, value: 8.5, total: 8.1 },
+    vibes: [{ label: "Comfort", icon: "🥛" }, { label: "Viral", icon: "📱" }, { label: "Ngọt", icon: "🍯" }],
+    longevity: 7,
+    sillage: 6,
+    seasons: { spring: 32, summer: 8, fall: 72, winter: 88 },
+    dayNight: { day: 42, night: 72 },
+    topNotes: [{ name: "Caramel" }],
+    middleNotes: [{ name: "Mật ong" }, { name: "Coumarin" }],
+    baseNotes: [{ name: "Vani" }, { name: "Xạ hương trắng" }],
+    accords: [
+      { name: "Gourmand", value: 100, color: "#d4a373" },
+      { name: "Ngọt", value: 85, color: "#8B0000" },
+      { name: "Vani", value: 78, color: "#F5DEB3" },
+      { name: "Kem", value: 62, color: "#faebd7" },
+      { name: "Xạ hương", value: 38, color: "#bdc3c7" }
+    ],
+    seoTitle: "Giardini Di Toscana Bianco Latte chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Bianco Latte chính hãng: mùi sữa caramel vani TikTok viral, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+    tags: ["Unisex","Gourmand","Viral","Comfort"],
+    sizes: ["10ml Chiết","100ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "black-opium",
