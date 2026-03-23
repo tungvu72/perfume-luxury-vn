@@ -10,45 +10,40 @@
   "images": [
     {
       "url": "/images/products/dior-dune-edt-main.jpg",
-      "source": "amazon",
-      "caption": "DIOR Dune chính hãng",
+      "source": "fragram",
+      "caption": "Dior Dune Eau de Toilette chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nDune EDT là kiểu mùi rất riêng của Dior: thoáng, cát, biển, gỗ và một cảm giác khô ấm rất khó gọi tên chính xác. Nó không floral rõ, không aquatic đơn giản, cũng không hoàn toàn woody, mà giống một khung cảnh hơn là một công thức note. Đây là kiểu mùi có tính nghệ rõ, rất hợp người không thích đi theo số đông.\n\nĐiểm đặc biệt của Dune là không khí. Nó tạo cảm giác gió biển, cồn cát, nắng và sự tĩnh lặng nhiều hơn là “thơm ngon” theo nghĩa thông thường. Trong bối cảnh Việt Nam, đây là chai dành cho người có gu riêng, thích mùi lạ nhưng không quái.\n\n## Diễn biến trên da\nMở đầu có cảm giác thoáng và hơi mặn - khô, sau đó các lớp gỗ, amber nhẹ và sắc floral mờ làm tổng thể trở nên tròn hơn. Mùi chuyển tầng mềm nhưng luôn giữ chất cảnh quan rất rõ.\n\nDrydown là lớp khô ấm, yên và có chút mơ hồ rất đẹp. Nó không bùng nổ compliment, nhưng tạo dấu ấn sâu với người hợp gu. Nhược điểm là ai thích mùi rõ note, ngọt hoặc dễ hiểu có thể thấy Dune hơi “trừu tượng”.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nDune EDT có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương vừa nhẹ. Nó hợp ban ngày, chiều mát, đi dạo, du lịch hoặc khi muốn một mùi hương có không khí rất riêng.\n\nỞ Việt Nam, chai này dùng ổn vì không quá nặng. Ưu điểm là rất khác biệt và có chiều nghệ; nhược điểm là không phải kiểu dễ khen đại trà.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích những mùi gợi cảnh quan, có chất thơ và không đụng hàng, Dune EDT là cái tên rất đáng khám phá. Nó hợp người muốn một mùi hương riêng hơn là một mùi “an toàn”.\n\nNên mua khi mày muốn một chai mang mood rõ. Nếu mày cần floral sáng hoặc gourmand dễ gần, đây không phải hướng phù hợp.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai nữ cát-biển-hổ phách kiểu sa mạc gặp biển — aldehyde, wallflower, mẫu đơn, cam bergamot, nhài, hoa hồng, lily, lichen, hổ phách, gỗ đàn hương, benzoin, vani và xạ hương. Ấm, cát và rất abstract.",
+  "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi hoa rõ ràng kiểu rose hay jasmine — thì Dune sẽ khiến bạn bối rối vì nó ABSTRACT. Đây là mùi CÁT — không phải cát biển tươi mát, mà cát sa mạc ấm dưới nắng chiều, có hơi biển bay vào. Rất khó mô tả = rất khó bán. Nhưng ai đã hiểu thì sẽ yêu. Dominique Ropion tham gia nhóm perfumer — cùng người tạo Carnal Flower.\n\n### Có đáng tiền không?\n\nGiá Dior tầm trung — nhưng Dune ra đời 1991, thuộc nhóm heritage. 3 perfumer hợp tác tạo ra thứ gì đó mà đến giờ chưa ai replicate được: mùi cát ấm. So với Hermès Terre d'Hermès — cùng nhóm đất-khoáng — thì Dune nữ hơn, nhiều hổ phách hơn. So với CK Eternity — cùng 90s nữ — thì Dune abstract hơn, khó tiếp cận hơn nhưng thú vị hơn. Bám 6-7 giờ.\n\n### Nên dùng khi nào?\n\nCuối tuần thư giãn, đi biển, dạo hoàng hôn, hoặc khi muốn mùi hương mà không ai hỏi \"xịt mùi gì\" mà hỏi \"cảm giác gì thế?\". Xịt 3 nhát: cổ và cổ tay. Dùng quanh năm — cát ấm vào đông, biển tươi vào hè. Chai dành cho dreamer.",
+  "verdict": "Cát sa mạc gặp biển — abstract nhất Dior. 3 perfumer (gồm Ropion). Mùi cảm giác, không phải mùi hoa.",
+  "verdictShort": "CÁT BIỂN, ABSTRACT, CHO DREAMER",
+  "score": { "scent": 8.5, "uniqueness": 9.5, "compliments": 6.5, "value": 8.0, "total": 8.1 },
+  "vibes": [
+    { "label": "Abstract", "icon": "🏜️" },
+    { "label": "Dreamer", "icon": "🌅" },
+    { "label": "Heritage", "icon": "👑" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 7,
+  "sillage": 5,
+  "seasons": { "spring": 62, "summer": 52, "fall": 72, "winter": 58 },
+  "dayNight": { "day": 62, "night": 55 },
+  "topNotes": [{ "name": "Aldehyde" }, { "name": "Wallflower" }, { "name": "Mẫu đơn" }, { "name": "Cam bergamot" }],
+  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Hoa hồng" }, { "name": "Lily" }, { "name": "Lichen" }],
+  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Gỗ đàn hương" }, { "name": "Benzoin" }, { "name": "Vani" }, { "name": "Xạ hương" }],
+  "accords": [
+    { "name": "Hổ phách", "value": 100, "color": "#d4a017" },
+    { "name": "Hoa", "value": 62, "color": "#e91e63" },
+    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
+    { "name": "Phấn", "value": 48, "color": "#d7bde2" },
+    { "name": "Biển", "value": 38, "color": "#2980b9" }
+  ],
+  "seoTitle": "Dior Dune chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Dior Dune chính hãng: mùi cát sa mạc biển abstract độc đáo, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nữ", "Abstract", "Heritage", "Dreamer"],
+  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
