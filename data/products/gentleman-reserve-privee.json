@@ -1,108 +1,24 @@
 {
-  "id": "gentleman-reserve-privee",
-  "brandSlug": "givenchy",
-  "brand": "GIVENCHY",
-  "name": "Gentleman",
-  "subName": "Reserve Priv�e",
-  "perfumer": "Nathalie Lorson & Olivier Cresp",
-  "gender": "nam",
+  "id": "gentleman-reserve-privee", "brandSlug": "givenchy", "brand": "GIVENCHY", "name": "Gentleman Réserve Privée", "subName": "Eau de Parfum",
+  "perfumer": "Olivier Cresp", "gender": "nam",
   "image": "/images/products/givenchy-gentleman-reserve-privee-main.jpg",
-  "images": [
-    {
-      "url": "/images/products/givenchy-gentleman-reserve-privee-main.jpg",
-      "source": "fragram",
-      "caption": "Givenchy Gentleman Réserve Privée chính hãng",
-      "verified": true
-    }
-  ],
-  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-  "productCopy": "Givenchy Gentleman Réserve Privée EDP là một chai nước hoa nam có chất sang rất rõ nhưng không phô trương. Mùi hương kết hợp iris phấn mịn với cảm giác rượu whisky nhẹ, cacao và nền gỗ ấm, tạo nên tổng thể vừa mềm, vừa nam tính, vừa có chiều sâu. Đây là kiểu mùi không quá đại trà và cũng không dễ bị nhầm với những chai designer phổ biến khác.\n\nĐiểm đẹp của Réserve Privée nằm ở sự tinh tế. Nó không phải kiểu ngọt ấm đơn giản, mà có những lớp chuyển khá thú vị trên da. Sự xuất hiện của iris làm mùi trở nên sang và mượt, trong khi nốt whisky tạo cảm giác trưởng thành, điềm tĩnh và hơi nghệ một chút. Rất hợp với người thích phong cách lịch lãm nhưng muốn có nét riêng.\n\nKhi lên da, mùi phát triển mềm và sâu hơn qua thời gian. Lớp đầu hơi boozy một chút giúp tạo dấu ấn, sau đó cacao và gỗ làm tổng thể ấm hơn, ôm da hơn. Đây là kiểu nước hoa hợp với những buổi tối, tiệc nhẹ, ăn tối sang hoặc môi trường cần sự tinh tế trong khoảng cách gần.\n\nVề hiệu năng, Givenchy Gentleman Réserve Privée EDP lưu hương khá tốt và tỏa hương ở mức vừa đến khá. Trong khí hậu Việt Nam, chai này sẽ đẹp nhất vào buổi tối, trời mát hoặc không gian máy lạnh. Nếu dùng ban ngày nắng nóng, nên xịt tiết chế để mùi giữ được độ sang cần thiết.\n\nNếu bạn muốn một chai nước hoa nam có chất gentleman hiện đại, sang mà không nhàm, Réserve Privée là lựa chọn rất đáng thử. Nó không dành cho người thích kiểu fresh đơn giản, nhưng lại rất hợp với ai muốn mùi hương của mình có chiều sâu và sự tinh tế thật sự.",
-  "article": "Gentleman dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-  "verdictShort": "LIVE CATALOG UPDATE",
-  "score": {
-    "scent": 8.4,
-    "uniqueness": 7.8,
-    "compliments": 8.6,
-    "value": 8.2,
-    "total": 8.3
-  },
-  "vibes": [
-    {
-      "label": "nam",
-      "icon": "?"
-    },
-    {
-      "label": "D? d�ng",
-      "icon": "??"
-    },
-    {
-      "label": "Catalog live",
-      "icon": "??"
-    }
-  ],
-  "longevity": 7,
-  "sillage": 7,
-  "seasons": {
-    "spring": 68,
-    "summer": 52,
-    "fall": 82,
-    "winter": 78
-  },
-  "dayNight": {
-    "day": 58,
-    "night": 82
-  },
-  "topNotes": [
-    {
-      "name": "Top note"
-    }
-  ],
-  "middleNotes": [
-    {
-      "name": "Middle note"
-    }
-  ],
-  "baseNotes": [
-    {
-      "name": "Base note"
-    }
-  ],
-  "accords": [
-    {
-      "name": "Ch? d?o",
-      "value": 58,
-      "color": "#8B4513"
-    },
-    {
-      "name": "D? d�ng",
-      "value": 32,
-      "color": "#1abc9c"
-    },
-    {
-      "name": "Hi?n d?i",
-      "value": 24,
-      "color": "#9b59b6"
-    },
-    {
-      "name": "?m",
-      "value": 20,
-      "color": "#e67e22"
-    }
-  ],
-  "seoTitle": "Gentleman Reserve Privee giá bao nhiêu? Review 2026",
-  "metaDescription": "Đánh giá Givenchy Gentleman Reserve Privee chính hãng: mùi iris gỗ ấm sang, độ lưu hương, độ tỏa hương và giá tham khảo 2026.",
-  "tags": [
-    "nam",
-    "Catalog",
-    "Live",
-    "2026"
-  ],
-  "sizes": [
-    "10ml Chi?t",
-    "50ml Fullbox",
-    "100ml Fullbox"
-  ],
-  "basePrice": 1990000,
-  "shopeeOffers": []
+  "images": [{ "url": "/images/products/givenchy-gentleman-reserve-privee-main.jpg", "source": "fragram", "caption": "Givenchy Gentleman Réserve Privée chính hãng", "verified": true }],
+  "description": "Chai nam iris-cacao-cognac kiểu quý ông VIP — iris, cam bergamot, quế, cacao, rượu cognac, gỗ đàn hương, benzoin và đậu Tonka. Boozy-cacao, sang và rất gentleman.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi sáng — Réserve Privée TỐI: cacao, cognac, iris — kiểu ngồi phòng cigar uống cognac. Olivier Cresp (cũng tạo Angel Mugler, Light Blue) xử lý cacao ở đây KHÔ, không ngọt, gần bitter chocolate hơn. Tên \"Réserve Privée\" = một chai riêng từ tủ rượu — private reserve. Ai muốn sporty fresh đừng mua.\n\n### Có đáng tiền không?\n\nGiá Givenchy — affordable hơn Dior/Chanel. So với Gentleman EDP gốc — Réserve đậm hơn, nhiều cognac hơn, ít hoa lavender hơn. So với Valentino Uomo Intense — cùng iris-cacao — thì Réserve nhiều cognac hơn, boozy hơn. So với Tom Ford Tobacco Vanille — cùng nhóm boozy — thì Réserve rẻ hơn 3 lần. Bám 8-9 giờ.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, hẹn hò, bar, hoặc khi muốn mùi SANG TỐI. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-2. Sài Gòn tối phòng điều hòa. Chai designer tốt nhất nhóm boozy.",
+  "verdict": "Cacao-cognac phòng cigar — Cresp. Givenchy affordable luxury. Réserve Privée = private reserve. Boozy best.",
+  "verdictShort": "CACAO COGNAC, PHÒNG CIGAR, AFFORDABLE",
+  "score": { "scent": 8.5, "uniqueness": 8.0, "compliments": 8.5, "value": 9.0, "total": 8.5 },
+  "vibes": [{ "label": "Phòng cigar", "icon": "🥃" }, { "label": "Sang tối", "icon": "🖤" }, { "label": "Giá tốt", "icon": "💸" }],
+  "longevity": 9, "sillage": 7,
+  "seasons": { "spring": 28, "summer": 5, "fall": 85, "winter": 92 },
+  "dayNight": { "day": 18, "night": 88 },
+  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Quế" }],
+  "middleNotes": [{ "name": "Iris" }, { "name": "Cacao" }, { "name": "Cognac" }],
+  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Benzoin" }, { "name": "Đậu Tonka" }],
+  "accords": [{ "name": "Gourmand", "value": 100, "color": "#d4a373" }, { "name": "Boozy", "value": 78, "color": "#6d4c41" }, { "name": "Gỗ", "value": 55, "color": "#8B4513" }, { "name": "Gia vị ấm", "value": 48, "color": "#e67e22" }, { "name": "Phấn", "value": 38, "color": "#d7bde2" }],
+  "seoTitle": "Givenchy Gentleman Réserve Privée chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Gentleman Réserve Privée chính hãng: cacao cognac boozy affordable luxury, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nam", "Boozy", "Phòng cigar", "Giá tốt"],
+  "sizes": ["10ml Chiết", "60ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2200000, "shopeeOffers": [], "isPublished": true
 }

@@ -1,108 +1,24 @@
 {
-  "id": "signature-edp",
-  "brandSlug": "chloe",
-  "brand": "CHLOE",
-  "name": "Signature",
-  "subName": "Eau de Parfum",
-  "perfumer": "Amandine Clerc-Marie & Michel Almairac",
-  "gender": "nu",
-  "image": "/images/products/chloe-signature-edp-main.jpg",
-  "images": [
-    {
-      "url": "/images/products/chloe-signature-edp-main.jpg",
-      "source": "fragram",
-      "caption": "Chloé Eau de Parfum chính hãng",
-      "verified": true
-    }
-  ],
-  "description": "Phi�n b?n dang du?c b? sung nhanh v�o catalog Maison de SON d? ho�n thi?n thu vi?n s?n ph?m live.",
-  "productCopy": "Chloé Signature EDP là một trong những chai nước hoa nữ nổi bật ở nhóm hoa hồng sạch và thanh lịch. Mùi hương mở đầu mềm, hơi phấn nhẹ, sau đó hoa hồng hiện ra rõ hơn cùng chút lychee và nền xạ hương sạch. Tổng thể mang lại cảm giác rất gọn, rất nữ tính và rất Paris theo kiểu không cần cố gắng quá nhiều vẫn thấy đẹp.\n\nĐiểm hấp dẫn của Chloé Signature là sự thanh lịch hiện đại. Nó không phải kiểu hoa hồng đậm cổ điển, cũng không quá trái cây hay quá ngọt. Đây là kiểu mùi hương gợi ra hình ảnh một cô gái chỉn chu, ăn mặc tinh tế, thích sự nhẹ nhàng nhưng không hề nhạt nhòa.\n\nTrên da, phần hoa hồng và xạ hương phối với nhau rất đẹp, tạo cảm giác vừa sạch vừa mềm. Chai này đặc biệt hợp với môi trường công sở, gặp gỡ ban ngày, đi ăn trưa, đi dạo hoặc bất cứ hoàn cảnh nào cần mùi hương nữ tính mà không gây áp lực cho người xung quanh.\n\nVề hiệu năng, Chloé Signature EDP lưu hương khá và tỏa hương vừa phải. Nó không phải kiểu bùng nổ, nhưng đủ để tạo cảm giác thơm đẹp một cách liên tục. Trong thời tiết Việt Nam, đây là một chai khá dễ dùng vì độ sạch và độ thoáng của nó.\n\nNếu bạn muốn một chai nước hoa nữ hoa hồng thanh lịch, sạch và hợp phong cách sống hiện đại, Chloé Signature là lựa chọn rất đáng thử. Nó không quá kịch tính hay quá nổi loạn, nhưng chính sự tinh tế, dễ dùng và cảm giác “well-dressed” của nó mới là điều khiến chai này được yêu thích lâu dài.",
-  "article": "Signature dang du?c Maison de SON b? sung v�o catalog live. N?i dung review chi ti?t s? ti?p t?c du?c n�ng chu?n sau.",
-  "verdict": "M�i d? x?p d�ng nhu c?u s? d?ng th?c t?.",
-  "verdictShort": "LIVE CATALOG UPDATE",
-  "score": {
-    "scent": 8.4,
-    "uniqueness": 7.8,
-    "compliments": 8.6,
-    "value": 8.2,
-    "total": 8.3
-  },
-  "vibes": [
-    {
-      "label": "nu",
-      "icon": "?"
-    },
-    {
-      "label": "D? d�ng",
-      "icon": "??"
-    },
-    {
-      "label": "Catalog live",
-      "icon": "??"
-    }
-  ],
-  "longevity": 7,
-  "sillage": 7,
-  "seasons": {
-    "spring": 68,
-    "summer": 52,
-    "fall": 82,
-    "winter": 78
-  },
-  "dayNight": {
-    "day": 58,
-    "night": 82
-  },
-  "topNotes": [
-    {
-      "name": "Top note"
-    }
-  ],
-  "middleNotes": [
-    {
-      "name": "Middle note"
-    }
-  ],
-  "baseNotes": [
-    {
-      "name": "Base note"
-    }
-  ],
-  "accords": [
-    {
-      "name": "Ch? d?o",
-      "value": 58,
-      "color": "#8B4513"
-    },
-    {
-      "name": "D? d�ng",
-      "value": 32,
-      "color": "#1abc9c"
-    },
-    {
-      "name": "Hi?n d?i",
-      "value": 24,
-      "color": "#9b59b6"
-    },
-    {
-      "name": "?m",
-      "value": 20,
-      "color": "#e67e22"
-    }
-  ],
-  "seoTitle": "Chloe Signature EDP chính hãng giá bao nhiêu? Review 2026",
-  "metaDescription": "Đánh giá Chloe Signature EDP chính hãng: mùi hoa hồng thanh lịch, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-  "tags": [
-    "nu",
-    "Catalog",
-    "Live",
-    "2026"
-  ],
-  "sizes": [
-    "10ml Chi?t",
-    "50ml Fullbox",
-    "100ml Fullbox"
-  ],
-  "basePrice": 1990000,
-  "shopeeOffers": []
+  "id": "signature-edp", "brandSlug": "montblanc", "brand": "MONTBLANC", "name": "Signature", "subName": "Eau de Parfum",
+  "perfumer": "Antoine Maisondieu", "gender": "nu",
+  "image": "/images/products/montblanc-signature-edp-main.jpg",
+  "images": [{ "url": "/images/products/montblanc-signature-edp-main.jpg", "source": "fragram", "caption": "Montblanc Signature EDP chính hãng", "verified": true }],
+  "description": "Chai nữ mẫu đơn-hồng-xạ hương kiểu chữ ký thanh lịch — mẫu đơn, cam, hoa hồng, vani, hoắc hương, xạ hương trắng và gỗ tuyết tùng. Nhẹ nhàng, thanh và rất office.",
+  "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi cá tính mạnh — Signature quá HIỀN. Antoine Maisondieu (Hermes H24, Prada Luna Rossa Carbon) tạo chai này kiểu \"chữ ký nhẹ\": mẫu đơn-hồng-xạ hương mỏng, sạch, không gây phiền ai. Montblanc = thương hiệu bút — và mùi cũng vậy: tinh tế, thanh, professional.\n\n### Có đáng tiền không?\n\nGiá Montblanc — RẺ NHẤT nhóm designer nữ EDP. So với Versace Bright Crystal — cùng tier rẻ — thì Signature nhiều hoa hơn, ít tươi hơn. So với Chanel Chance — thì rẻ hơn 2-3 lần mà chất lượng OK. Bám 5-6 giờ.\n\n### Nên dùng khi nào?\n\nĐi làm, đi học, meeting, mọi lúc cần mùi AN TOÀN. Xịt 3-4 nhát cổ. Quanh năm. Chai first perfume lý tưởng.",
+  "verdict": "Chữ ký nhẹ — Montblanc rẻ nhất. Maisondieu professional. Hoa-xạ hương an toàn. First perfume.",
+  "verdictShort": "CHỮ KÝ NHẸ, RẺ NHẤT, AN TOÀN",
+  "score": { "scent": 7.0, "uniqueness": 6.0, "compliments": 7.5, "value": 9.5, "total": 7.5 },
+  "vibes": [{ "label": "An toàn", "icon": "✅" }, { "label": "Giá rẻ", "icon": "💸" }, { "label": "Office", "icon": "💼" }],
+  "longevity": 5, "sillage": 4,
+  "seasons": { "spring": 78, "summer": 62, "fall": 62, "winter": 48 },
+  "dayNight": { "day": 82, "night": 38 },
+  "topNotes": [{ "name": "Hoa mẫu đơn" }, { "name": "Cam" }],
+  "middleNotes": [{ "name": "Hoa hồng" }, { "name": "Vani" }],
+  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Xạ hương trắng" }, { "name": "Gỗ tuyết tùng" }],
+  "accords": [{ "name": "Hoa", "value": 100, "color": "#e91e63" }, { "name": "Xạ hương", "value": 62, "color": "#bdc3c7" }, { "name": "Tươi mát", "value": 48, "color": "#2ecc71" }, { "name": "Gỗ", "value": 38, "color": "#8B4513" }],
+  "seoTitle": "Montblanc Signature EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Montblanc Signature EDP chính hãng: hoa xạ hương nhẹ nhàng giá rẻ nhất designer, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nữ", "An toàn", "Giá rẻ", "Office"],
+  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
+  "basePrice": 800000, "shopeeOffers": [], "isPublished": true
 }
