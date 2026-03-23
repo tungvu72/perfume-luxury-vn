@@ -6827,97 +6827,95 @@ Quanh năm — đi làm, gặp khách, du lịch, dạo phố. Xịt 2-3 nhát: 
     subName: "Eau de Parfum",
     perfumer: "Maurice Roucel",
     gender: "nu",
-    image: "/images/products/guerlain-linstant-de-guerlain-femme-main.jpg",
-    images: [
-      { url: "/images/products/guerlain-linstant-de-guerlain-femme-main.jpg", source: "amazon", caption: "GUERLAIN L'Instant de Guerlain chính hãng", verified: true }
+    image: "/images/products/guerlain-linstant-femme-main.jpg",
+    images: [{ url: "/images/products/guerlain-linstant-femme-main.jpg", source: "fragram", caption: "Guerlain L'Instant Femme EDP chính hãng", verified: true }],
+    description: "Chai nữ mật ong-magnolia-vani kiểu khoảnh khắc Guerlain — cam bergamot, hoa mộc lan, mật ong, trà xanh, magnolia, hổ phách, vani, gỗ đàn hương và xạ hương trắng. Ấm, mật ong và rất cozy.",
+    article: `### Ai không nên mua?
+
+Nếu bạn muốn mùi mạnh tỏa xa — L'Instant nhẹ và gần da. Maurice Roucel (24 Faubourg, Musc Ravageur) tạo ra chai này kiểu "khoảnh khắc" thật sự: mật ong ấm, magnolia mượt, trà xanh tươi — tất cả chỉ ở rất gần bạn. Ai muốn compliment getter sẽ thấy nó quá quiet.
+
+### Có đáng tiền không?
+
+Giá Guerlain tầm trung — underrated trong dòng Guerlain nữ. So với Mon Guerlain — nổi tiếng hơn — thì L'Instant ít lavender hơn, nhiều mật ong hơn. So với Lancôme Trésor — cùng nữ ấm — thì L'Instant nhẹ hơn, hiện đại hơn. Bám 6-7 giờ.
+
+### Nên dùng khi nào?
+
+Ban ngày, đi cafe, cuối tuần, hoặc khi muốn comfort. Xịt 3 nhát cổ và cổ tay. Dùng quanh năm. Cả SG và HN dùng thoải mái. Chai "ôm" mà không ngộp.`,
+    verdict: "Mật ong-magnolia khoảnh khắc — Roucel quiet luxury. Underrated Guerlain. Cozy, gần da, comfort.",
+    verdictShort: "MẬT ONG MAGNOLIA, QUIET, COMFORT",
+    score: { scent: 8, uniqueness: 7.5, compliments: 7, value: 8, total: 7.6 },
+    vibes: [{ label: "Comfort", icon: "🤗" }, { label: "Quiet", icon: "🤫" }, { label: "Mật ong", icon: "🍯" }],
+    longevity: 7,
+    sillage: 5,
+    seasons: { spring: 72, summer: 42, fall: 72, winter: 62 },
+    dayNight: { day: 72, night: 52 },
+    topNotes: [{ name: "Cam bergamot" }, { name: "Hoa mộc lan" }],
+    middleNotes: [{ name: "Mật ong" }, { name: "Trà xanh" }, { name: "Magnolia" }],
+    baseNotes: [{ name: "Hổ phách" }, { name: "Vani" }, { name: "Gỗ đàn hương" }, { name: "Xạ hương trắng" }],
+    accords: [
+      { name: "Ngọt", value: 100, color: "#8B0000" },
+      { name: "Hoa", value: 72, color: "#e91e63" },
+      { name: "Hổ phách", value: 55, color: "#d4a017" },
+      { name: "Gourmand", value: 48, color: "#d4a373" },
+      { name: "Phấn", value: 38, color: "#d7bde2" }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-L’Instant de Guerlain Femme là một mùi nữ rất đẹp theo kiểu Guerlain: floral ấm, mềm, có chút gourmand nhẹ nhưng vẫn sang và rất nữ tính. Nó không hoàn toàn cổ điển nặng đô, cũng không chạy theo style ngọt trẻ, mà nằm ở vùng trưởng thành, tinh tế và hơi lãng mạn. Đây là chai dành cho người thích mùi nữ có chiều sâu mà vẫn mềm mại.
-
-Điểm mạnh của chai này là độ duyên. Nó không cố gây ấn tượng bằng sự bùng nổ, mà chinh phục bằng sự mượt và rất “đàn bà”. Trong điều kiện Việt Nam, chai này hợp tối nhẹ, đi làm phòng lạnh, gặp gỡ hoặc người thích mùi floral ấm có chất Guerlain rõ nhưng dễ tiếp cận hơn các tượng đài vintage.
-
-## Diễn biến trên da
-Mở đầu mềm với floral khá nhanh, sau đó nền ấm và chút ngọt nhẹ làm tổng thể tròn hơn, mượt hơn và giàu cảm xúc hơn. Mùi phát triển đẹp ở cách các lớp hòa vào nhau rất tự nhiên.
-
-Drydown là lớp floral ấm, mềm và hơi bột nhẹ, tạo cảm giác rất ôm. Nó nữ tính mà không yếu. Nhược điểm là ai thích mùi rất sắc nét hoặc rất hiện đại có thể thấy nó hơi dịu.
-
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-L’Instant de Guerlain Femme có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, tối nhẹ, hẹn hò, gặp gỡ lịch sự hoặc làm signature nữ theo hướng mềm sang.
-
-Ở Việt Nam, chai này dùng khá ổn nếu tiết chế. Ưu điểm là thanh lịch và có chiều sâu; nhược điểm là không phải kiểu mùi “đập vào mặt” ngay lập tức.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích floral ấm, mềm và rất nữ tính theo phong cách Guerlain, L’Instant de Guerlain Femme là lựa chọn rất đáng thử. Nó hợp người thích vẻ đẹp trưởng thành, tinh tế và không ồn ào.
-
-Nên mua khi mày cần một chai nữ dễ sống nhưng vẫn có hồn. Nếu mày muốn mùi thật trẻ, thật ngọt hoặc cực kỳ hiện đại, nên chọn hướng khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    seoTitle: "Guerlain L'Instant Femme EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Guerlain L'Instant Femme EDP chính hãng: mùi mật ong magnolia comfort, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Comfort","Mật ong","Quanh năm"],
+    sizes: ["10ml Chiết","50ml Fullbox","80ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "linstant-homme-edp",
     brandSlug: "guerlain",
     brand: "GUERLAIN",
-    name: "L'Instant de Guerlain pour Homme",
+    name: "L'Instant de Guerlain Pour Homme",
     subName: "Eau de Parfum",
     perfumer: "Thierry Wasser & Maurice Roucel",
     gender: "nam",
     image: "/images/products/guerlain-linstant-homme-edp-main.jpg",
     images: [
-      { url: "/images/products/guerlain-linstant-homme-edp-main.jpg", source: "amazon", caption: "GUERLAIN L'Instant de Guerlain pour Homme chính hãng", verified: true }
+      { url: "/images/products/guerlain-linstant-homme-edp-main.jpg", source: "fragram", caption: "Guerlain L'Instant Homme EDP chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-L’Instant de Guerlain pour Homme EDP là một mùi nam rất đẹp theo hướng cacao, gia vị, gỗ và cảm giác ấm sang. Nó không phải kiểu ngọt trẻ hay fresh dễ đoán, mà có sự mềm, sâu và rất Pháp. Đây là kiểu mùi phù hợp với người thích nam tính lịch thiệp nhưng không muốn đi theo blue fragrance đại trà.
+    description: "Chai nam cacao-hổ phách-hoắc hương kiểu khoảnh khắc nam — cam bergamot, bưởi, nhục đậu khấu, cacao, da thuộc, hổ phách, gỗ đàn hương, hoắc hương và benzoin. Cacao ấm, nam tính và rất Guerlain.",
+    article: `### Ai không nên mua?
 
-Điểm ăn tiền của chai này là độ tinh tế. Nó có sự quyến rũ kín, không ồn ào nhưng càng ngửi càng thấy gu. Trong khí hậu Việt Nam, chai này hợp cho tối, đi làm môi trường mát, hẹn hò hoặc những ai muốn một designer nam có chiều sâu hơn mặt bằng chung.
+Nếu bạn muốn mùi tươi sporty — thì L'Instant Homme EDP quá ấm, quá cacao. Thierry Wasser + Maurice Roucel (rare collab) tạo ra chai nam cacao-hổ phách mà nhiều fan Guerlain coi là GEM BỊ GIẤU: không marketing, không TikTok, nhưng ai dùng đều thề.
 
-## Diễn biến trên da
-Mở đầu có sắc cay và chút sáng vừa đủ, sau đó cacao cùng nền gỗ bắt đầu làm tổng thể mềm, ấm và chững hơn. Mùi chuyển tầng khá mượt, không gắt và giữ được cảm giác sang kín xuyên suốt.
+### Có đáng tiền không?
 
-Drydown là lớp cacao - gỗ ấm, hơi ngọt nhẹ và rất ôm da. Nó không bùng nổ nhưng rất dễ ghi điểm ở khoảng cách gần. Nhược điểm là với người thích mùi cực nam tính khô hoặc cực tươi, chai này có thể hơi “mềm”.
+Giá Guerlain tầm trung — và EDP bám 8+ giờ. So với L'Homme Idéal EDP — cùng Guerlain gourmand nam — thì L'Instant ít hạnh nhân hơn, nhiều cacao-leather hơn. So với Givenchy Gentleman Reserve Privee — cùng cacao — thì L'Instant tinh tế hơn, ít boozy hơn. Hidden gem Guerlain nam.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-L’Instant pour Homme EDP có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, hẹn hò, ăn tối, văn phòng máy lạnh hoặc những dịp muốn mùi hương lịch thiệp mà khác số đông.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng đẹp nhất về chiều tối. Ưu điểm là sang, tinh và có bản sắc; nhược điểm là không quá hợp người thích mùi bùng nổ.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai nam ấm, sang, hơi gourmand nhẹ nhưng vẫn rất lịch thiệp, L’Instant de Guerlain pour Homme EDP rất đáng thử. Nó hợp người thích gu Pháp và muốn sự quyến rũ kín.
-
-Nên mua khi mày cần một chai tối tinh tế. Nếu mày thích mùi quá fresh hoặc quá dark, nên cân nhắc kỹ.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi ăn tối, hẹn hò, cuối tuần thư giãn. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai cho ai đã mệt mainstream.`,
+    verdict: "Cacao-hổ phách hidden gem — Wasser+Roucel rare collab. Guerlain nam bí mật. Ai dùng đều thề.",
+    verdictShort: "CACAO HỔ PHÁCH, HIDDEN GEM, RARE COLLAB",
+    score: { scent: 8.5, uniqueness: 8.5, compliments: 8, value: 8, total: 8.3 },
+    vibes: [{ label: "Hidden gem", icon: "💎" }, { label: "Cacao", icon: "🍫" }, { label: "Trưởng thành", icon: "🎩" }],
+    longevity: 8,
+    sillage: 6,
+    seasons: { spring: 42, summer: 12, fall: 82, winter: 82 },
+    dayNight: { day: 35, night: 78 },
+    topNotes: [{ name: "Cam bergamot" }, { name: "Bưởi" }, { name: "Nhục đậu khấu" }],
+    middleNotes: [{ name: "Cacao" }, { name: "Da thuộc" }],
+    baseNotes: [{ name: "Hổ phách" }, { name: "Gỗ đàn hương" }, { name: "Hoắc hương" }, { name: "Benzoin" }],
+    accords: [
+      { name: "Gourmand", value: 100, color: "#d4a373" },
+      { name: "Gỗ", value: 72, color: "#8B4513" },
+      { name: "Hổ phách", value: 62, color: "#d4a017" },
+      { name: "Da thuộc", value: 48, color: "#795548" },
+      { name: "Gia vị ấm", value: 42, color: "#e67e22" }
+    ],
+    seoTitle: "Guerlain L'Instant Homme EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá L'Instant Homme EDP chính hãng: mùi cacao hổ phách hidden gem Guerlain, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nam","Hidden gem","Cacao","Thu đông"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "lira",

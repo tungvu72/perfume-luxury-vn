@@ -6,49 +6,32 @@
   "subName": "Eau de Parfum",
   "perfumer": "Maurice Roucel",
   "gender": "nu",
-  "image": "/images/products/guerlain-linstant-de-guerlain-femme-main.jpg",
+  "image": "/images/products/guerlain-linstant-femme-main.jpg",
   "images": [
-    {
-      "url": "/images/products/guerlain-linstant-de-guerlain-femme-main.jpg",
-      "source": "amazon",
-      "caption": "GUERLAIN L'Instant de Guerlain chính hãng",
-      "verified": true
-    }
+    { "url": "/images/products/guerlain-linstant-femme-main.jpg", "source": "fragram", "caption": "Guerlain L'Instant Femme EDP chính hãng", "verified": true }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nL’Instant de Guerlain Femme là một mùi nữ rất đẹp theo kiểu Guerlain: floral ấm, mềm, có chút gourmand nhẹ nhưng vẫn sang và rất nữ tính. Nó không hoàn toàn cổ điển nặng đô, cũng không chạy theo style ngọt trẻ, mà nằm ở vùng trưởng thành, tinh tế và hơi lãng mạn. Đây là chai dành cho người thích mùi nữ có chiều sâu mà vẫn mềm mại.\n\nĐiểm mạnh của chai này là độ duyên. Nó không cố gây ấn tượng bằng sự bùng nổ, mà chinh phục bằng sự mượt và rất “đàn bà”. Trong điều kiện Việt Nam, chai này hợp tối nhẹ, đi làm phòng lạnh, gặp gỡ hoặc người thích mùi floral ấm có chất Guerlain rõ nhưng dễ tiếp cận hơn các tượng đài vintage.\n\n## Diễn biến trên da\nMở đầu mềm với floral khá nhanh, sau đó nền ấm và chút ngọt nhẹ làm tổng thể tròn hơn, mượt hơn và giàu cảm xúc hơn. Mùi phát triển đẹp ở cách các lớp hòa vào nhau rất tự nhiên.\n\nDrydown là lớp floral ấm, mềm và hơi bột nhẹ, tạo cảm giác rất ôm. Nó nữ tính mà không yếu. Nhược điểm là ai thích mùi rất sắc nét hoặc rất hiện đại có thể thấy nó hơi dịu.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nL’Instant de Guerlain Femme có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, tối nhẹ, hẹn hò, gặp gỡ lịch sự hoặc làm signature nữ theo hướng mềm sang.\n\nỞ Việt Nam, chai này dùng khá ổn nếu tiết chế. Ưu điểm là thanh lịch và có chiều sâu; nhược điểm là không phải kiểu mùi “đập vào mặt” ngay lập tức.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích floral ấm, mềm và rất nữ tính theo phong cách Guerlain, L’Instant de Guerlain Femme là lựa chọn rất đáng thử. Nó hợp người thích vẻ đẹp trưởng thành, tinh tế và không ồn ào.\n\nNên mua khi mày cần một chai nữ dễ sống nhưng vẫn có hồn. Nếu mày muốn mùi thật trẻ, thật ngọt hoặc cực kỳ hiện đại, nên chọn hướng khác.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai nữ mật ong-magnolia-vani kiểu khoảnh khắc Guerlain — cam bergamot, hoa mộc lan, mật ong, trà xanh, magnolia, hổ phách, vani, gỗ đàn hương và xạ hương trắng. Ấm, mật ong và rất cozy.",
+  "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi mạnh tỏa xa — L'Instant nhẹ và gần da. Maurice Roucel (24 Faubourg, Musc Ravageur) tạo ra chai này kiểu \"khoảnh khắc\" thật sự: mật ong ấm, magnolia mượt, trà xanh tươi — tất cả chỉ ở rất gần bạn. Ai muốn compliment getter sẽ thấy nó quá quiet.\n\n### Có đáng tiền không?\n\nGiá Guerlain tầm trung — underrated trong dòng Guerlain nữ. So với Mon Guerlain — nổi tiếng hơn — thì L'Instant ít lavender hơn, nhiều mật ong hơn. So với Lancôme Trésor — cùng nữ ấm — thì L'Instant nhẹ hơn, hiện đại hơn. Bám 6-7 giờ.\n\n### Nên dùng khi nào?\n\nBan ngày, đi cafe, cuối tuần, hoặc khi muốn comfort. Xịt 3 nhát cổ và cổ tay. Dùng quanh năm. Cả SG và HN dùng thoải mái. Chai \"ôm\" mà không ngộp.",
+  "verdict": "Mật ong-magnolia khoảnh khắc — Roucel quiet luxury. Underrated Guerlain. Cozy, gần da, comfort.",
+  "verdictShort": "MẬT ONG MAGNOLIA, QUIET, COMFORT",
+  "score": { "scent": 8.0, "uniqueness": 7.5, "compliments": 7.0, "value": 8.0, "total": 7.6 },
+  "vibes": [{ "label": "Comfort", "icon": "🤗" }, { "label": "Quiet", "icon": "🤫" }, { "label": "Mật ong", "icon": "🍯" }],
+  "longevity": 7, "sillage": 5,
+  "seasons": { "spring": 72, "summer": 42, "fall": 72, "winter": 62 },
+  "dayNight": { "day": 72, "night": 52 },
+  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Hoa mộc lan" }],
+  "middleNotes": [{ "name": "Mật ong" }, { "name": "Trà xanh" }, { "name": "Magnolia" }],
+  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Xạ hương trắng" }],
+  "accords": [
+    { "name": "Ngọt", "value": 100, "color": "#8B0000" },
+    { "name": "Hoa", "value": 72, "color": "#e91e63" },
+    { "name": "Hổ phách", "value": 55, "color": "#d4a017" },
+    { "name": "Gourmand", "value": 48, "color": "#d4a373" },
+    { "name": "Phấn", "value": 38, "color": "#d7bde2" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "seoTitle": "Guerlain L'Instant Femme EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Guerlain L'Instant Femme EDP chính hãng: mùi mật ong magnolia comfort, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nữ", "Comfort", "Mật ong", "Quanh năm"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "80ml Fullbox"],
+  "basePrice": 2200000, "shopeeOffers": [], "isPublished": true
 }
