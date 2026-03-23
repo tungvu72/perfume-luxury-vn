@@ -5,6 +5,7 @@ import { useCompare } from "@/components/CompareSystem";
 import Link from "next/link";
 import Image from "next/image";
 import { ArrowLeft, Droplet, Clock, Wind, Star, DollarSign } from "lucide-react";
+import { getProductUrl } from "@/lib/productUrl";
 
 export default function ComparePage() {
     const { items, remove, clear } = useCompare();
@@ -54,7 +55,7 @@ export default function ComparePage() {
             label: "Hành động",
             icon: null,
             render: (p: typeof items[0]) => (
-                <Link href={`/${p.id}`} className="inline-block rounded-full bg-black px-4 py-2 text-[10px] font-bold uppercase tracking-wider text-white transition-colors hover:bg-primary active:scale-95">
+                <Link href={getProductUrl(p)} className="inline-block rounded-full bg-black px-4 py-2 text-[10px] font-bold uppercase tracking-wider text-white transition-colors hover:bg-primary active:scale-95">
                     Xem chi tiết
                 </Link>
             )
@@ -84,7 +85,7 @@ export default function ComparePage() {
                                 <th className="w-[120px] md:w-[160px] p-3 text-left text-[10px] font-bold text-gray-400 uppercase tracking-wider"></th>
                                 {items.map(p => (
                                     <th key={p.id} className="p-3 text-center">
-                                        <Link href={`/${p.id}`} className="group">
+                                        <Link href={getProductUrl(p)} className="group">
                                             <div className="relative mx-auto mb-3 h-16 w-16 overflow-hidden rounded-xl bg-gray-50 md:h-24 md:w-24">
                                                 <Image src={p.image} alt={p.name} fill sizes="96px" className="object-contain p-2 group-hover:scale-110 transition-transform" />
                                             </div>

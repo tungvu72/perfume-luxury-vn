@@ -6,6 +6,7 @@ import { Search, Menu, X, TrendingUp, Sparkles, ArrowRight, Loader2 } from "luci
 import Image from "next/image";
 import { searchProducts } from "@/sanity/lib/fetchers";
 import type { Perfume } from "@/types";
+import { getProductUrl } from "@/lib/productUrl";
 
 const TRENDING_SEARCHES = ["Sauvage", "Bleu de Chanel", "Aventus", "Baccarat Rouge", "Lost Cherry"];
 
@@ -97,7 +98,7 @@ const Header = () => {
             e.preventDefault();
             const selected = searchResults[selectedIndex];
             if (selected) {
-                window.location.href = `/${selected.id}`;
+                window.location.href = getProductUrl(selected);
             }
         }
     }, [searchResults, selectedIndex]);
@@ -205,7 +206,7 @@ const Header = () => {
                                                 {searchResults.map((product, idx) => (
                                                     <Link
                                                         key={product.id}
-                                                        href={`/${product.id}`}
+                                                        href={getProductUrl(product)}
                                                         onClick={() => { setSearchQuery(""); setIsSearchFocused(false); (document.activeElement as HTMLElement)?.blur(); }}
                                                         className={`flex items-center gap-4 px-4 py-3 transition-colors border-b border-gray-50 last:border-b-0 ${selectedIndex === idx ? 'bg-primary/5' : 'hover:bg-gray-50'}`}
                                                     >

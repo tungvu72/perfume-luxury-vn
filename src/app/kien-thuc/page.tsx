@@ -5,6 +5,7 @@ import { getAllPosts } from "@/sanity/lib/posts";
 import { getAllProducts } from "@/sanity/lib/fetchers";
 import Link from "next/link";
 import Image from "next/image";
+import { getProductUrl } from "@/lib/productUrl";
 
 export const metadata: Metadata = {
   title: "Kiến Thức Nước Hoa - Review & Hướng Dẫn | Maison de SON",
@@ -208,7 +209,7 @@ export default async function KienThucPage() {
                 {sidebarProducts.map((product) => (
                   <Link
                     key={product.id}
-                    href={`/${product.id}`}
+                    href={getProductUrl(product)}
                     className="group flex items-center gap-3"
                   >
                     <div className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-lg bg-[var(--color-bg-muted)]">

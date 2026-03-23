@@ -5,6 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { Star } from "lucide-react";
 import { Perfume } from "@/types";
+import { getProductUrl } from "@/lib/productUrl";
 
 export default function CategoryLayout({ title, description, products }: { title: string, description: string, products: Perfume[] }) {
     return (
@@ -23,7 +24,7 @@ export default function CategoryLayout({ title, description, products }: { title
             <section className="max-w-[1200px] mx-auto px-5 py-10">
                 <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 md:gap-8">
                     {products.map((product, i) => (
-                        <Link key={i} href={`/${product.id}`} className="group">
+                        <Link key={i} href={getProductUrl(product)} className="group">
                             <div className="aspect-square bg-[#F7F7F7] rounded-xl overflow-hidden mb-3 relative">
                                 <Image
                                     src={product.image}

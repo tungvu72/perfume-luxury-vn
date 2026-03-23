@@ -641,7 +641,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     <h3 className="text-[11px] font-bold tracking-[2px] uppercase text-gray-400 mb-4">🧴 Sản phẩm nên xem tiếp</h3>
                                     <div className="space-y-4">
                                         {relatedProducts.map(product => (
-                                            <Link key={product.id} href={`/${product.id}`} className="flex items-center gap-3 group">
+                                            <Link key={product.id} href={getProductUrl(product)} className="flex items-center gap-3 group">
                                                 <div className="w-14 h-14 bg-[#f7f5f2] rounded-xl overflow-hidden flex-shrink-0 relative">
                                                     <Image src={product.image} alt={product.name} fill sizes="56px" className="object-contain p-1 group-hover:scale-110 transition-transform" />
                                                 </div>

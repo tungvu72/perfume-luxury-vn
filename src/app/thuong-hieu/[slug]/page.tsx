@@ -7,6 +7,7 @@ import { StarIcon, MapPin, Calendar, User, Sparkles } from "lucide-react";
 import { notFound } from "next/navigation";
 import { MASTER_PERFUMES } from "@/constants/mockData";
 import { filterValidProducts } from "@/lib/productValidation";
+import { getProductUrl } from "@/lib/productUrl";
 
 // Build brand map from MASTER_PERFUMES (repo = source of truth)
 function getBrandData(brandSlug: string) {
@@ -182,7 +183,7 @@ export default async function BrandPage({ params }: { params: Promise<{ slug: st
                     {brand.products.map((product, i) => (
                         <Link
                             key={product.id}
-                            href={`/${product.id}`}
+                            href={getProductUrl(product)}
                             className="group rounded-2xl border border-[#eadfce] bg-white overflow-hidden hover:shadow-[0_12px_40px_rgba(27,18,13,0.08)] transition-all duration-300"
                         >
                             <div className="aspect-[3/4] bg-[#faf8f6] relative overflow-hidden">

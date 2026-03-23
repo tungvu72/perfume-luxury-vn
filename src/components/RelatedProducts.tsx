@@ -2,6 +2,7 @@ import { Perfume } from "@/types";
 import { getRelatedProducts } from "@/sanity/lib/fetchers";
 import Link from "next/link";
 import Image from "next/image";
+import { getProductUrl } from "@/lib/productUrl";
 
 export default async function RelatedProducts({ current }: { current: Perfume }) {
     const related = await getRelatedProducts(current.id, current.brand, current.gender);
@@ -13,7 +14,7 @@ export default async function RelatedProducts({ current }: { current: Perfume })
             <h2 className="text-2xl font-serif mb-8">Có thể bạn cũng thích</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
                 {related.map((p) => (
-                    <Link key={p.id} href={`/${p.id}`} className="group">
+                    <Link key={p.id} href={getProductUrl(p)} className="group">
                         <div className="aspect-[3/4] bg-[#F5F5F5] rounded-xl overflow-hidden mb-3 relative">
                             <Image
                                 src={p.image}

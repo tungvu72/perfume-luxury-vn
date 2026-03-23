@@ -4,6 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { getAllProducts } from "@/sanity/lib/fetchers";
 import { getAllPosts } from "@/sanity/lib/posts";
+import { getProductUrl } from "@/lib/productUrl";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -232,7 +233,7 @@ export default async function Home() {
                 {latestProducts.map((product) => (
                   <Link
                     key={product.id}
-                    href={`/${product.id}`}
+                    href={getProductUrl(product)}
                     className="group flex items-center gap-3"
                   >
                     <div className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-lg bg-[var(--color-bg-muted)]">
@@ -312,7 +313,7 @@ export default async function Home() {
           {trendingProducts.map((product) => (
             <Link
               key={product.id}
-              href={`/${product.id}`}
+              href={getProductUrl(product)}
               className="group flex-shrink-0 w-[160px] rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-3 transition-all hover:shadow-[var(--shadow-md)]"
             >
               <div className="relative aspect-square overflow-hidden rounded-lg bg-[var(--color-bg-muted)]">

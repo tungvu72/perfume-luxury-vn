@@ -7,6 +7,7 @@ import Image from "next/image";
 import { SlidersHorizontal, X, ArrowUpDown, Scale, ChevronDown, RotateCcw } from "lucide-react";
 import { useCompare } from "@/components/CompareSystem";
 import { Perfume } from "@/types";
+import { getProductUrl } from "@/lib/productUrl";
 
 type SeasonKey = 'spring' | 'summer' | 'fall' | 'winter';
 type SortOption = 'score' | 'price-asc' | 'price-desc' | 'longevity' | 'sillage' | 'compliments';
@@ -318,7 +319,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                 <div className="flex flex-col gap-4">
                     {displayedProducts.map((product, i) => (
                         <div key={product.id} className="relative group/card">
-                            <Link href={`/${product.id}`}
+                            <Link href={getProductUrl(product)}
                                 className="flex items-center gap-4 md:gap-6 rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_12px_35px_rgba(27,18,13,0.03)] transition-all hover:-translate-y-0.5 hover:border-primary/50 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)] group">
                                 <div className="w-8 text-center font-serif text-xl md:text-2xl font-bold text-gray-200 group-hover:text-primary/30 transition-colors">
                                     {String(i + 1).padStart(2, '0')}
