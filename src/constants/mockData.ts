@@ -8273,50 +8273,50 @@ Sự kiện VIP, gala, hoặc khi muốn LUXURY level max. Xịt 1-2 nhát cổ.
   {
     id: "opium-edt",
     brandSlug: "ysl",
-    brand: "YVES SAINT LAURENT",
+    brand: "YSL",
     name: "Opium",
     subName: "Eau de Toilette",
-    perfumer: "",
+    perfumer: "Jean Amic & Jean-Louis Sieuzac",
     gender: "nu",
     image: "/images/products/ysl-opium-edt-main.jpg",
-    images: [{ url: "/images/products/ysl-opium-edt-main.jpg", source: "studio", caption: "Ảnh sản phẩm YSL Opium EDT (chai và hộp)" }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Opium là một tượng đài phương Đông cổ điển của YSL, mang tinh thần gia vị, nhựa thơm, hoa và độ ấm rất đặc trưng. Đây không phải kiểu nước hoa nữ hiện đại theo hướng fruity-sweet dễ chiều, mà là một mùi hương có quyền lực, có chất retro và có độ hiện diện mạnh. Opium bước vào không gian với cá tính rất rõ, khiến người mặc trông bí ẩn, sắc và có chiều sâu hơn hẳn.
+    images: [{ url: "/images/products/ysl-opium-edt-main.jpg", source: "fragram", caption: "YSL Opium EDT chính hãng", verified: true }],
+    description: "Chai nữ oriental gia vị-hoa-hổ phách kiểu thuốc phiện 1977 — đinh hương, hoa nhài, quế, hồng, nhục đậu khấu, opoponax, gỗ đàn hương, vani, benzoin và xạ hương. Gia vị nặng, oriental huyền thoại.",
+    article: `### Ai không nên mua?
 
-Điểm làm Opium khác biệt là nó không cố làm dễ thương. Nó chọn cách sang, dày và trưởng thành. Trong bối cảnh hiện nay, chính sự cổ điển đó lại trở thành bản sắc riêng. Ở Việt Nam, Opium sẽ hợp hơn với người thích mùi có cá tính lớn, dùng cho buổi tối, thời tiết mát hoặc các dịp muốn tạo dấu ấn rất riêng thay vì theo gu ngọt an toàn.
+Nếu bạn dưới 30 — Opium có thể quá "mẹ". Ra đời 1977, gây BÊ BỐI vì tên (thuốc phiện!) và mùi: gia vị nặng (đinh hương, quế, nhục đậu khấu) trên nền hổ phách-vani dày. Đây là POWERHOUSE nữ gốc — kiểu mùi mà cả phòng biết bạn đến. YSL thời Yves Saint Laurent còn sống — bold, provocative, không xin phép ai.
 
-## Diễn biến trên da
-Mở đầu là nhóm gia vị khá rõ, tạo cảm giác ấm, cay và có chút sắc. Sau đó phần hoa và nhựa thơm làm mùi hương trở nên dày hơn, tròn hơn, trong khi nền vani và hổ phách kéo tổng thể về hướng phương Đông rõ nét.
+### Có đáng tiền không?
 
-Drydown của Opium là nơi bản sắc được giữ rất bền: ấm, đậm, có chút khói và chất vintage sang trọng. Nó không nhẹ nhàng hay airy, mà mang cảm giác đầm và chắc. Nhược điểm là nếu mày quen mùi nữ hiện đại sáng sủa, Opium có thể hơi nặng và quá chín.
+Giá YSL tầm trung — và Opium 45+ năm. So với Black Opium — successor hiện đại — thì Opium gốc nhiều gia vị hơn, ít cà phê hơn, oriental hơn 10 lần. So với Shalimar Guerlain — cùng oriental nữ kinh điển — thì Opium nhiều gia vị hơn, ít lavender hơn. Bám 6-7 giờ (EDT).
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Opium có độ lưu hương tốt, thường 7-9 giờ; tỏa hương vừa đến khá và có độ hiện diện rõ. Nó hợp nhất cho buổi tối, tiệc, thời tiết mát, phòng điều hòa hoặc những lúc cần một mùi nữ mạnh cá tính.
+### Nên dùng khi nào?
 
-Trong khí hậu Việt Nam, nên dùng có tiết chế và ưu tiên chiều tối. Đây không phải chai lý tưởng cho trưa nóng hoặc môi trường quá kín nếu xịt nhiều. Ưu điểm là độc đáo, có phong thái và rất khó nhầm; nhược điểm là khá kén người mặc lẫn người ngửi.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích nước hoa nữ cổ điển, phương Đông, đậm chất quyền lực và không ngại một mùi hương có tuổi đời lẫn cá tính, Opium rất đáng thử. Nó hợp người có gu riêng, thích chất drama và sang theo kiểu không chiều đám đông.
-
-Nên mua khi mày muốn một chai tối, lạnh, có statement rõ. Nếu mày cần mùi nữ hiện đại, sáng và dễ dùng mỗi ngày, Opium sẽ không phải lựa chọn đầu tiên.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [{ name: "Quýt" }, { name: "Cam bergamot" }, { name: "Hoa linh lan" }],
-    middleNotes: [{ name: "Mộc dược" }, { name: "Cẩm chướng" }, { name: "Nhài" }],
-    baseNotes: [{ name: "Hổ phách" }, { name: "Hoắc hương" }, { name: "Vani" }],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Sự kiện tối, opera, hoặc khi muốn PRESENCE. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-2. Sài Gòn tối điều hòa. Chai gây bê bối vĩ đại nhất lịch sử nước hoa.`,
+    verdict: "Oriental huyền thoại 1977 — YSL thuốc phiện. Gia vị nặng, cả phòng biết. Gây bê bối nhất lịch sử. Bold.",
+    verdictShort: "GIA VỊ NẶNG, 1977, BÊ BỐI HUYỀN THOẠI",
+    score: { scent: 8.5, uniqueness: 9, compliments: 7, value: 8, total: 8.1 },
+    vibes: [{ label: "Huyền thoại", icon: "👑" }, { label: "Bold", icon: "🔥" }, { label: "Oriental", icon: "🌙" }],
+    longevity: 7,
+    sillage: 7,
+    seasons: { spring: 22, summer: 5, fall: 82, winter: 88 },
+    dayNight: { day: 12, night: 88 },
+    topNotes: [{ name: "Đinh hương" }, { name: "Hoa nhài" }, { name: "Quế" }],
+    middleNotes: [{ name: "Hoa hồng" }, { name: "Nhục đậu khấu" }, { name: "Hoa lan" }],
+    baseNotes: [{ name: "Opoponax" }, { name: "Gỗ đàn hương" }, { name: "Vani" }, { name: "Benzoin" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Gia vị ấm", value: 100, color: "#e67e22" },
+      { name: "Phương Đông", value: 85, color: "#c0392b" },
+      { name: "Hoa", value: 55, color: "#e91e63" },
+      { name: "Hổ phách", value: 48, color: "#d4a017" },
+      { name: "Ngọt", value: 42, color: "#8B0000" }
+    ],
+    seoTitle: "YSL Opium EDT chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá YSL Opium EDT chính hãng: oriental gia vị huyền thoại 1977 gây bê bối, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Huyền thoại","Oriental","Bold"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","90ml Fullbox"],
+    basePrice: 1800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "organza",
@@ -8327,26 +8327,44 @@ Nên mua khi mày muốn một chai tối, lạnh, có statement rõ. Nếu mày
     perfumer: "Sophie Labbé",
     gender: "nu",
     image: "/images/products/givenchy-organza-main.jpg",
-    images: [{ url: "/images/products/givenchy-organza-main.jpg", source: "amazon", caption: "GIVENCHY Organza chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    images: [{ url: "/images/products/givenchy-organza-main.jpg", source: "fragram", caption: "Givenchy Organza EDP chính hãng", verified: true }],
+    description: "Chai nữ gardenia-vani-hổ phách kiểu lụa vàng — cam huyết, hoa mai, gardenia, dạ lý hương, vani, gỗ đàn hương, hổ phách, xạ hương và hoắc hương. Hoa kem, vàng và sang.",
+    article: `### Ai không nên mua?
+
+Nếu bạn thích mùi nhẹ tươi — Organza quá nhiều hoa, quá kem, quá vải lụa. Sophie Labbé tạo ra chai tên lấy từ vải organza — lụa mỏng nhẹ nhưng sang. Gardenia + tuberose + vani = hoa kem vàng dày. Đây là Givenchy nữ cổ điển 1996. Ai thích modern-clean sẽ thấy nó cũ.
+
+### Có đáng tiền không?
+
+Giá Givenchy affordable — rẻ hơn Dior/Chanel. So với Amarige Givenchy — cùng Givenchy 90s — thì Organza ít tuberose hơn, nhiều gardenia hơn, dễ mặc hơn. So với Tom Ford Jasmin Rouge — gardenia niche — thì Organza rẻ hơn 3 lần. Bám 6-7 giờ.
+
+### Nên dùng khi nào?
+
+Đi ăn tối, sự kiện, hoặc khi muốn nữ tính elegant. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa.`,
+    verdict: "Gardenia lụa vàng — Sophie Labbé 1996. Givenchy elegant giá tốt. Hoa kem vintage underrated.",
+    verdictShort: "GARDENIA LỤA, ELEGANT, GIÁ TỐT",
+    score: { scent: 7.5, uniqueness: 7.5, compliments: 7.5, value: 8.5, total: 7.8 },
+    vibes: [{ label: "Elegant", icon: "✨" }, { label: "Lụa", icon: "👗" }, { label: "Giá tốt", icon: "💸" }],
+    longevity: 7,
+    sillage: 6,
+    seasons: { spring: 52, summer: 22, fall: 78, winter: 72 },
+    dayNight: { day: 38, night: 75 },
+    topNotes: [{ name: "Cam huyết" }, { name: "Hoa mai" }],
+    middleNotes: [{ name: "Gardenia" }, { name: "Dạ lý hương" }],
+    baseNotes: [{ name: "Vani" }, { name: "Gỗ đàn hương" }, { name: "Hổ phách" }, { name: "Xạ hương" }, { name: "Hoắc hương" }],
+    accords: [
+      { name: "Hoa trắng", value: 100, color: "#f5f5dc" },
+      { name: "Ngọt", value: 62, color: "#8B0000" },
+      { name: "Hổ phách", value: 55, color: "#d4a017" },
+      { name: "Vani", value: 48, color: "#F5DEB3" },
+      { name: "Gỗ", value: 38, color: "#8B4513" }
+    ],
+    seoTitle: "Givenchy Organza chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Givenchy Organza chính hãng: mùi gardenia lụa vàng elegant 1996, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Elegant","Giá tốt","Vintage"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 1600000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "oud-satin-mood",
@@ -8503,44 +8521,44 @@ Nên mua khi mày cần một chai ban ngày có gu. Nếu mày thích mùi tố
     perfumer: "Edouard Fléchier",
     gender: "nu",
     image: "/images/products/dior-poison-main.jpg",
-    images: [{ url: "/images/products/dior-poison-main.jpg", source: "amazon", caption: "DIOR Poison chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Poison là một cái tên đúng nghĩa biểu tượng: đậm, tối, dày và rất có kịch tính. Nó không cố làm dễ thương hay chiều thị hiếu, mà chọn cách xuất hiện thật rõ và gần như áp đặt bầu không khí riêng lên người mặc. Đây là kiểu mùi của một thời kỳ nước hoa nữ rất mạnh tay, rất tự tin và rất khó bị quên.
+    images: [{ url: "/images/products/dior-poison-main.jpg", source: "fragram", caption: "Dior Poison chính hãng", verified: true }],
+    description: "Chai nữ tuberose-coriander-opoponax kiểu chất độc 1985 — coriander, mận, bách xù, tuberose, quế, opoponax, hổ phách, gỗ đàn hương, xạ hương và civette. POWERHOUSE nữ tối nhất, nặng nhất 80s.",
+    article: `### Ai không nên mua?
 
-Điểm đặc biệt của Poison là cá tính cực lớn. Trong một thị trường đầy mùi sạch sáng và floral ngọt, Poison đứng riêng như một tuyên ngôn. Ở Việt Nam, chai này hợp với người thật sự thích mùi vintage đậm, có thần thái và không ngại chuyện số đông thấy “quá”.
+Nếu bạn chưa sẵn sàng cho mùi MẠNH — Poison là chai nữ gây SỢ nhất thập niên 80. Tuberose-coriander-opoponax phả ra như sóng, tối, nặng và kiểu "tao đến rồi, không cần xin phép". Từng bị CẤM ở một số nhà hàng vì quá mạnh. Edouard Fléchier tạo ra monster.
 
-## Diễn biến trên da
-Mở đầu đã khá dày và tối, sau đó các lớp gia vị, hoa và nền ấm khiến mùi càng thêm sâu. Poison không chuyển tầng kiểu mượt nhẹ, mà luôn giữ một độ hiện diện mạnh xuyên suốt.
+### Có đáng tiền không?
 
-Drydown vẫn đậm, ấm và có cảm giác quyền lực rất rõ. Nó không phải kiểu sexy mềm, mà là kiểu áp đảo. Nhược điểm là cực kén người dùng và gần như không phù hợp với ai chỉ thích mùi nhẹ.
+Giá Dior EDT — hợp lý. Và Poison 40+ năm vẫn bán. So với Angel Mugler — cùng 80s-90s powerhouse — thì Poison ít chocolate, nhiều tuberose, tối hơn. So với Opium YSL — cùng era — thì Poison nhiều tuberose, ít gia vị. Bám 7-8 giờ — và TỎA rất mạnh.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Poison có hiệu năng tốt, thường 8 giờ trở lên; tỏa hương khá mạnh. Nó hợp tối, thời tiết mát, sự kiện đặc biệt hoặc những lúc thật sự muốn dùng mùi hương như một tuyên ngôn cá tính.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng rất tiết chế. Ưu điểm là bản sắc cực mạnh và khó nhầm; nhược điểm là độ ứng dụng thấp và dễ quá tay nếu không kiểm soát.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích nước hoa nữ cổ điển đậm, tối và quyền lực, Poison là cái tên phải thử ít nhất một lần. Nó hợp người có gu mạnh, thích mùi hương có sân khấu riêng.
-
-Nên mua khi mày muốn một chai mang tính tuyên ngôn. Nếu mày cần mùi dễ mặc hằng ngày, nên chọn hướng khác hẳn.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đêm mùa đông, sự kiện muốn gây ấn tượng MẠNH. Xịt 1-2 nhát SAU CỔ — chấm hết. Hà Nội tháng 12-2. Sài Gòn hoàn toàn không nên. Chai gây sợ đẹp nhất lịch sử.`,
+    verdict: "Chất độc 1985 — tuberose powerhouse. Bị cấm ở nhà hàng. Tối nhất Dior nữ. Monster đẹp.",
+    verdictShort: "CHẤT ĐỘC, BỊ CẤM, MONSTER ĐẸP",
+    score: { scent: 8.5, uniqueness: 9.5, compliments: 7, value: 8, total: 8.3 },
+    vibes: [{ label: "Monster", icon: "☠️" }, { label: "Powerhouse", icon: "💪" }, { label: "80s", icon: "🕶️" }],
+    longevity: 8,
+    sillage: 9,
+    seasons: { spring: 8, summer: 0, fall: 72, winter: 92 },
+    dayNight: { day: 2, night: 92 },
+    topNotes: [{ name: "Rau mùi" }, { name: "Mận" }, { name: "Bách xù" }],
+    middleNotes: [{ name: "Tuberose" }, { name: "Quế" }],
+    baseNotes: [{ name: "Opoponax" }, { name: "Hổ phách" }, { name: "Gỗ đàn hương" }, { name: "Xạ hương" }, { name: "Civette" }],
+    accords: [
+      { name: "Hoa trắng", value: 100, color: "#f5f5dc" },
+      { name: "Gia vị ấm", value: 78, color: "#e67e22" },
+      { name: "Nhựa", value: 62, color: "#5d4037" },
+      { name: "Nốt động vật", value: 48, color: "#795548" },
+      { name: "Hổ phách", value: 42, color: "#d4a017" }
+    ],
+    seoTitle: "Dior Poison chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Dior Poison chính hãng: chất độc 1985 tuberose powerhouse bị cấm ở nhà hàng, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Powerhouse","80s","Monster"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "portrait-of-a-lady",
@@ -8678,50 +8696,46 @@ Nên mua khi mày muốn một chai ban ngày thật thực dụng. Nếu mày c
     brand: "DIOR",
     name: "Pure Poison",
     subName: "Eau de Parfum",
-    perfumer: "Carlos Benaïm, Dominique Ropion, Olivier Polge",
+    perfumer: "Carlos Benaïm, Dominique Ropion & Olivier Polge",
     gender: "nu",
     image: "/images/products/dior-pure-poison-main.jpg",
-    images: [
-      { url: "/images/products/dior-pure-poison-main.jpg", source: "studio", caption: "Ảnh sản phẩm Dior Pure Poison (chai và hộp)" },
-      { url: "/images/products/dior-pure-poison-bottle.jpg", source: "studio", caption: "Ảnh chai Dior Pure Poison" }
+    images: [{ url: "/images/products/dior-pure-poison-main.jpg", source: "fragram", caption: "Dior Pure Poison chính hãng", verified: true }],
+    description: "Poison phiên bản sạch — nhài, cam, gỗ đàn hương, hổ phách, xạ hương trắng và gardenia. KHÁC HẲN Poison gốc: sạch, hoa trắng, không powerhouse.",
+    article: `### Ai không nên mua?
+
+Nếu bạn muốn Poison gốc (tuberose-gia vị nặng) — Pure Poison hoàn toàn KHÁC. 3 perfumer (Benaïm + Ropion + Polge) tạo ra chất độc "thuần" = nhài-gardenia sạch trên nền amber trắng. Không nặng, không tối, không bị cấm ở đâu cả. Nếu ghét hoa trắng thì sẽ thấy nhài quá mạnh.
+
+### Có đáng tiền không?
+
+Giá Dior — và bám 7-8 giờ. 3 perfumer top thế giới cùng ký tên hiếm gặp. So với Poison gốc — Pure nhẹ hơn 10 lần, hoa trắng thay tuberose. So với Narciso Rodriguez For Her — cùng nhóm sạch nữ — thì Pure Poison nhiều nhài hơn, ít musk hơn.
+
+### Nên dùng khi nào?
+
+Đi làm, đi ăn, gặp bạn bè — dùng hàng ngày. Xịt 2-3 nhát cổ. Dùng quanh năm. Cả SG lẫn HN. Chai Poison cho ai sợ Poison gốc.`,
+    verdict: "Chất độc thuần — nhài sạch thay tuberose. 3 perfumer ký. Cho ai sợ Poison gốc.",
+    verdictShort: "NHÀI SẠCH, CHO AI SỢ POISON GỐC",
+    score: { scent: 7.5, uniqueness: 7, compliments: 8, value: 8, total: 7.6 },
+    vibes: [{ label: "Sạch", icon: "🤍" }, { label: "Nhài", icon: "🌸" }, { label: "Hàng ngày", icon: "☀️" }],
+    longevity: 8,
+    sillage: 6,
+    seasons: { spring: 72, summer: 52, fall: 62, winter: 52 },
+    dayNight: { day: 72, night: 55 },
+    topNotes: [{ name: "Cam" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Hoa nhài" }, { name: "Gardenia" }],
+    baseNotes: [{ name: "Gỗ đàn hương" }, { name: "Hổ phách" }, { name: "Xạ hương trắng" }],
+    accords: [
+      { name: "Hoa trắng", value: 100, color: "#f5f5dc" },
+      { name: "Xạ hương", value: 62, color: "#bdc3c7" },
+      { name: "Tươi mát", value: 48, color: "#2ecc71" },
+      { name: "Gỗ", value: 42, color: "#8B4513" }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Pure Poison là một kiểu nữ tính rất đẹp của Dior: hoa trắng sạch, sáng, có độ sang nhưng không quá nồng. Nó không đi theo hướng kẹo ngọt, fruity hay quá sexy kiểu ồn ào, mà thiên về cảm giác tinh khiết, thanh và có chút lạnh. Đây là kiểu mùi khiến người mặc trông chỉn chu, sạch sẽ và có khí chất hơn là cố gây choáng.
-
-Điểm mạnh của Pure Poison nằm ở sự cân bằng giữa vẻ nữ tính và độ dễ dùng. Hoa trắng ở đây không dày như một số chai tuberose nặng đô, mà sáng và thoáng hơn. Trong điều kiện Việt Nam, đây là kiểu mùi rất hợp với người thích hương hoa thanh lịch, dùng được nhiều hoàn cảnh và không muốn quá ngọt.
-
-## Diễn biến trên da
-Mở đầu cho cảm giác sáng và tinh với citrus nhẹ và lớp hoa trắng sạch. Sau đó hoa nhài, hoa cam và nền gỗ mềm bắt đầu hiện rõ hơn, khiến mùi hương nữ tính nhưng vẫn có khung rất gọn.
-
-Drydown của Pure Poison khá đẹp: vẫn là hoa trắng nhưng mềm hơn, kem hơn và có chút ấm nhẹ. Nó giữ được sự thanh sạch trong suốt quá trình phát triển. Nhược điểm là ai thích mùi nữ đậm, ngọt hoặc quá quyến rũ có thể thấy chai này hơi ngoan.
-
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Pure Poison có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa phải, phù hợp văn phòng, đi làm, hẹn nhẹ, dự tiệc ban ngày hoặc các dịp cần vẻ nữ tính thanh lịch.
-
-Ở Việt Nam, chai này dùng tốt quanh năm, đặc biệt đẹp trong thời tiết nóng vì hoa trắng lên sáng và sạch. Ưu điểm là sang, dễ mặc, ít rủi ro; nhược điểm là độ cá tính không quá cao nếu so với các chai hoa trắng đậm nét hơn.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày cần một chai nữ thanh lịch, sạch, hoa trắng đẹp và dễ dùng, Pure Poison là lựa chọn rất đáng cân nhắc. Nó hợp người thích vẻ chỉn chu, tinh và không muốn mùi ngọt gắt.
-
-Nên mua khi mày cần một chai dùng đi làm hoặc signature nhẹ nhàng sang. Nếu mày muốn mùi cực quyến rũ buổi tối, nên tìm hướng đậm hơn.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [{ name: "Nhài" }, { name: "Cam" }, { name: "Cam bergamot" }, { name: "Quýt Sicily" }],
-    middleNotes: [{ name: "Dành dành" }, { name: "Hoa cam" }],
-    baseNotes: [{ name: "Gỗ đàn hương" }, { name: "Hổ phách trắng" }, { name: "Gỗ tuyết tùng" }, { name: "Xạ hương trắng" }],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    seoTitle: "Dior Pure Poison chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Dior Pure Poison chính hãng: mùi nhài sạch hoa trắng dùng hàng ngày, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Sạch","Nhài","Hàng ngày"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "reflection-45-man",

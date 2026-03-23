@@ -1,54 +1,23 @@
 {
-  "id": "organza",
-  "brandSlug": "givenchy",
-  "brand": "GIVENCHY",
-  "name": "Organza",
-  "subName": "Eau de Parfum",
-  "perfumer": "Sophie Labbé",
-  "gender": "nu",
+  "id": "organza", "brandSlug": "givenchy", "brand": "GIVENCHY", "name": "Organza", "subName": "Eau de Parfum",
+  "perfumer": "Sophie Labbé", "gender": "nu",
   "image": "/images/products/givenchy-organza-main.jpg",
-  "images": [
-    {
-      "url": "/images/products/givenchy-organza-main.jpg",
-      "source": "amazon",
-      "caption": "GIVENCHY Organza chính hãng",
-      "verified": true
-    }
-  ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "(Chờ Coder viết bài)",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
-  ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "images": [{ "url": "/images/products/givenchy-organza-main.jpg", "source": "fragram", "caption": "Givenchy Organza EDP chính hãng", "verified": true }],
+  "description": "Chai nữ gardenia-vani-hổ phách kiểu lụa vàng — cam huyết, hoa mai, gardenia, dạ lý hương, vani, gỗ đàn hương, hổ phách, xạ hương và hoắc hương. Hoa kem, vàng và sang.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi nhẹ tươi — Organza quá nhiều hoa, quá kem, quá vải lụa. Sophie Labbé tạo ra chai tên lấy từ vải organza — lụa mỏng nhẹ nhưng sang. Gardenia + tuberose + vani = hoa kem vàng dày. Đây là Givenchy nữ cổ điển 1996. Ai thích modern-clean sẽ thấy nó cũ.\n\n### Có đáng tiền không?\n\nGiá Givenchy affordable — rẻ hơn Dior/Chanel. So với Amarige Givenchy — cùng Givenchy 90s — thì Organza ít tuberose hơn, nhiều gardenia hơn, dễ mặc hơn. So với Tom Ford Jasmin Rouge — gardenia niche — thì Organza rẻ hơn 3 lần. Bám 6-7 giờ.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, sự kiện, hoặc khi muốn nữ tính elegant. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa.",
+  "verdict": "Gardenia lụa vàng — Sophie Labbé 1996. Givenchy elegant giá tốt. Hoa kem vintage underrated.",
+  "verdictShort": "GARDENIA LỤA, ELEGANT, GIÁ TỐT",
+  "score": { "scent": 7.5, "uniqueness": 7.5, "compliments": 7.5, "value": 8.5, "total": 7.8 },
+  "vibes": [{ "label": "Elegant", "icon": "✨" }, { "label": "Lụa", "icon": "👗" }, { "label": "Giá tốt", "icon": "💸" }],
+  "longevity": 7, "sillage": 6,
+  "seasons": { "spring": 52, "summer": 22, "fall": 78, "winter": 72 },
+  "dayNight": { "day": 38, "night": 75 },
+  "topNotes": [{ "name": "Cam huyết" }, { "name": "Hoa mai" }],
+  "middleNotes": [{ "name": "Gardenia" }, { "name": "Dạ lý hương" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Hổ phách" }, { "name": "Xạ hương" }, { "name": "Hoắc hương" }],
+  "accords": [{ "name": "Hoa trắng", "value": 100, "color": "#f5f5dc" }, { "name": "Ngọt", "value": 62, "color": "#8B0000" }, { "name": "Hổ phách", "value": 55, "color": "#d4a017" }, { "name": "Vani", "value": 48, "color": "#F5DEB3" }, { "name": "Gỗ", "value": 38, "color": "#8B4513" }],
+  "seoTitle": "Givenchy Organza chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Givenchy Organza chính hãng: mùi gardenia lụa vàng elegant 1996, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nữ", "Elegant", "Giá tốt", "Vintage"], "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 1600000, "shopeeOffers": [], "isPublished": true
 }

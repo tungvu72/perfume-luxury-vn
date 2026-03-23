@@ -1,83 +1,23 @@
 {
-  "id": "opium-edt",
-  "brandSlug": "ysl",
-  "brand": "YVES SAINT LAURENT",
-  "name": "Opium",
-  "subName": "Eau de Toilette",
-  "perfumer": "",
-  "gender": "nu",
+  "id": "opium-edt", "brandSlug": "ysl", "brand": "YSL", "name": "Opium", "subName": "Eau de Toilette",
+  "perfumer": "Jean Amic & Jean-Louis Sieuzac", "gender": "nu",
   "image": "/images/products/ysl-opium-edt-main.jpg",
-  "images": [
-    {
-      "url": "/images/products/ysl-opium-edt-main.jpg",
-      "source": "studio",
-      "caption": "Ảnh sản phẩm YSL Opium EDT (chai và hộp)"
-    }
-  ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nOpium là một tượng đài phương Đông cổ điển của YSL, mang tinh thần gia vị, nhựa thơm, hoa và độ ấm rất đặc trưng. Đây không phải kiểu nước hoa nữ hiện đại theo hướng fruity-sweet dễ chiều, mà là một mùi hương có quyền lực, có chất retro và có độ hiện diện mạnh. Opium bước vào không gian với cá tính rất rõ, khiến người mặc trông bí ẩn, sắc và có chiều sâu hơn hẳn.\n\nĐiểm làm Opium khác biệt là nó không cố làm dễ thương. Nó chọn cách sang, dày và trưởng thành. Trong bối cảnh hiện nay, chính sự cổ điển đó lại trở thành bản sắc riêng. Ở Việt Nam, Opium sẽ hợp hơn với người thích mùi có cá tính lớn, dùng cho buổi tối, thời tiết mát hoặc các dịp muốn tạo dấu ấn rất riêng thay vì theo gu ngọt an toàn.\n\n## Diễn biến trên da\nMở đầu là nhóm gia vị khá rõ, tạo cảm giác ấm, cay và có chút sắc. Sau đó phần hoa và nhựa thơm làm mùi hương trở nên dày hơn, tròn hơn, trong khi nền vani và hổ phách kéo tổng thể về hướng phương Đông rõ nét.\n\nDrydown của Opium là nơi bản sắc được giữ rất bền: ấm, đậm, có chút khói và chất vintage sang trọng. Nó không nhẹ nhàng hay airy, mà mang cảm giác đầm và chắc. Nhược điểm là nếu mày quen mùi nữ hiện đại sáng sủa, Opium có thể hơi nặng và quá chín.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nOpium có độ lưu hương tốt, thường 7-9 giờ; tỏa hương vừa đến khá và có độ hiện diện rõ. Nó hợp nhất cho buổi tối, tiệc, thời tiết mát, phòng điều hòa hoặc những lúc cần một mùi nữ mạnh cá tính.\n\nTrong khí hậu Việt Nam, nên dùng có tiết chế và ưu tiên chiều tối. Đây không phải chai lý tưởng cho trưa nóng hoặc môi trường quá kín nếu xịt nhiều. Ưu điểm là độc đáo, có phong thái và rất khó nhầm; nhược điểm là khá kén người mặc lẫn người ngửi.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích nước hoa nữ cổ điển, phương Đông, đậm chất quyền lực và không ngại một mùi hương có tuổi đời lẫn cá tính, Opium rất đáng thử. Nó hợp người có gu riêng, thích chất drama và sang theo kiểu không chiều đám đông.\n\nNên mua khi mày muốn một chai tối, lạnh, có statement rõ. Nếu mày cần mùi nữ hiện đại, sáng và dễ dùng mỗi ngày, Opium sẽ không phải lựa chọn đầu tiên.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [
-    {
-      "name": "Quýt"
-    },
-    {
-      "name": "Cam bergamot"
-    },
-    {
-      "name": "Hoa linh lan"
-    }
-  ],
-  "middleNotes": [
-    {
-      "name": "Mộc dược"
-    },
-    {
-      "name": "Cẩm chướng"
-    },
-    {
-      "name": "Nhài"
-    }
-  ],
-  "baseNotes": [
-    {
-      "name": "Hổ phách"
-    },
-    {
-      "name": "Hoắc hương"
-    },
-    {
-      "name": "Vani"
-    }
-  ],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
-  ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "images": [{ "url": "/images/products/ysl-opium-edt-main.jpg", "source": "fragram", "caption": "YSL Opium EDT chính hãng", "verified": true }],
+  "description": "Chai nữ oriental gia vị-hoa-hổ phách kiểu thuốc phiện 1977 — đinh hương, hoa nhài, quế, hồng, nhục đậu khấu, opoponax, gỗ đàn hương, vani, benzoin và xạ hương. Gia vị nặng, oriental huyền thoại.",
+  "article": "### Ai không nên mua?\n\nNếu bạn dưới 30 — Opium có thể quá \"mẹ\". Ra đời 1977, gây BÊ BỐI vì tên (thuốc phiện!) và mùi: gia vị nặng (đinh hương, quế, nhục đậu khấu) trên nền hổ phách-vani dày. Đây là POWERHOUSE nữ gốc — kiểu mùi mà cả phòng biết bạn đến. YSL thời Yves Saint Laurent còn sống — bold, provocative, không xin phép ai.\n\n### Có đáng tiền không?\n\nGiá YSL tầm trung — và Opium 45+ năm. So với Black Opium — successor hiện đại — thì Opium gốc nhiều gia vị hơn, ít cà phê hơn, oriental hơn 10 lần. So với Shalimar Guerlain — cùng oriental nữ kinh điển — thì Opium nhiều gia vị hơn, ít lavender hơn. Bám 6-7 giờ (EDT).\n\n### Nên dùng khi nào?\n\nSự kiện tối, opera, hoặc khi muốn PRESENCE. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-2. Sài Gòn tối điều hòa. Chai gây bê bối vĩ đại nhất lịch sử nước hoa.",
+  "verdict": "Oriental huyền thoại 1977 — YSL thuốc phiện. Gia vị nặng, cả phòng biết. Gây bê bối nhất lịch sử. Bold.",
+  "verdictShort": "GIA VỊ NẶNG, 1977, BÊ BỐI HUYỀN THOẠI",
+  "score": { "scent": 8.5, "uniqueness": 9.0, "compliments": 7.0, "value": 8.0, "total": 8.1 },
+  "vibes": [{ "label": "Huyền thoại", "icon": "👑" }, { "label": "Bold", "icon": "🔥" }, { "label": "Oriental", "icon": "🌙" }],
+  "longevity": 7, "sillage": 7,
+  "seasons": { "spring": 22, "summer": 5, "fall": 82, "winter": 88 },
+  "dayNight": { "day": 12, "night": 88 },
+  "topNotes": [{ "name": "Đinh hương" }, { "name": "Hoa nhài" }, { "name": "Quế" }],
+  "middleNotes": [{ "name": "Hoa hồng" }, { "name": "Nhục đậu khấu" }, { "name": "Hoa lan" }],
+  "baseNotes": [{ "name": "Opoponax" }, { "name": "Gỗ đàn hương" }, { "name": "Vani" }, { "name": "Benzoin" }, { "name": "Xạ hương" }],
+  "accords": [{ "name": "Gia vị ấm", "value": 100, "color": "#e67e22" }, { "name": "Phương Đông", "value": 85, "color": "#c0392b" }, { "name": "Hoa", "value": 55, "color": "#e91e63" }, { "name": "Hổ phách", "value": 48, "color": "#d4a017" }, { "name": "Ngọt", "value": 42, "color": "#8B0000" }],
+  "seoTitle": "YSL Opium EDT chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá YSL Opium EDT chính hãng: oriental gia vị huyền thoại 1977 gây bê bối, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nữ", "Huyền thoại", "Oriental", "Bold"], "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
+  "basePrice": 1800000, "shopeeOffers": [], "isPublished": true
 }
