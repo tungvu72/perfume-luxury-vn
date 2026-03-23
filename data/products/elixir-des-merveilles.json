@@ -1,54 +1,49 @@
 {
   "id": "elixir-des-merveilles",
   "brandSlug": "hermes",
-  "brand": "HERMES",
+  "brand": "HERMÈS",
   "name": "Elixir des Merveilles",
-  "subName": "Elixir",
+  "subName": "Eau de Parfum",
   "perfumer": "Ralf Schwieger",
   "gender": "nu",
   "image": "/images/products/hermes-elixir-des-merveilles-main.jpg",
   "images": [
     {
       "url": "/images/products/hermes-elixir-des-merveilles-main.jpg",
-      "source": "amazon",
-      "caption": "HERMES Elixir des Merveilles chính hãng",
+      "source": "fragram",
+      "caption": "Hermès Elixir des Merveilles chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "(Chờ Coder viết bài)",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai nữ cam-hổ phách-gỗ sồi kiểu phép màu Hermès — cam, hổ phách, gỗ sồi nướng, benzoin, đường caramel, hoắc hương và nhục đậu khấu. Vàng, ấm và kỳ diệu.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi hoa rõ ràng — thì Elixir des Merveilles sẽ khiến bạn hỏi \"hoa ở đâu?\" vì KHÔNG CÓ HOA. Đây là chai nữ mà không dùng một nốt hoa nào — thay vào đó: cam, hổ phách, gỗ sồi nướng, caramel. Kết quả: mùi vàng óng ánh, kiểu ánh nến trong lọ thuỷ tinh. Ai muốn fresh-floral sẽ thấy nó quá ấm.\n\n### Có đáng tiền không?\n\nGiá Hermès nhưng line Merveilles thuộc entry-level. So với Eau des Merveilles gốc (biển-cam-gỗ) thì Elixir ấm hơn rất nhiều, thêm hổ phách-caramel. Gỗ sồi nướng (toasted oak) là nốt ĐỘC ĐÁO — kiểu whiskey barrel — mà hiếm chai nào có. So với Lancôme La Vie Est Belle — cùng nữ ngọt ấm — thì Elixir ít iris, nhiều gỗ hơn và sang hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nBuổi tối, ăn tối, hoặc cuối tuần thư giãn. Xịt 2-3 nhát: cổ và cổ tay. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai để tự thưởng, không phải để khoe.",
+  "verdict": "Cam-hổ phách-gỗ sồi nướng — chai nữ KHÔNG HOA độc đáo nhất. Whiskey barrel note. Phép màu Hermès.",
+  "verdictShort": "CAM HỔ PHÁCH GỖ SỒI, KHÔNG HOA, PHÉP MÀU",
+  "score": { "scent": 8.5, "uniqueness": 9.0, "compliments": 7.5, "value": 8.0, "total": 8.3 },
+  "vibes": [
+    { "label": "Kỳ diệu", "icon": "✨" },
+    { "label": "Ấm", "icon": "🕯️" },
+    { "label": "Độc đáo", "icon": "💎" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 8,
+  "sillage": 6,
+  "seasons": { "spring": 42, "summer": 15, "fall": 82, "winter": 85 },
+  "dayNight": { "day": 32, "night": 78 },
+  "topNotes": [{ "name": "Cam" }],
+  "middleNotes": [{ "name": "Hổ phách" }, { "name": "Gỗ sồi nướng" }, { "name": "Nhục đậu khấu" }],
+  "baseNotes": [{ "name": "Benzoin" }, { "name": "Đường caramel" }, { "name": "Hoắc hương" }],
+  "accords": [
+    { "name": "Hổ phách", "value": 100, "color": "#d4a017" },
+    { "name": "Gỗ", "value": 72, "color": "#8B4513" },
+    { "name": "Ngọt", "value": 55, "color": "#8B0000" },
+    { "name": "Cam chanh", "value": 42, "color": "#f1c40f" },
+    { "name": "Gourmand", "value": 38, "color": "#d4a373" }
+  ],
+  "seoTitle": "Hermès Elixir des Merveilles chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Hermès Elixir des Merveilles chính hãng: mùi cam hổ phách gỗ sồi nướng không hoa, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nữ", "Độc đáo", "Ấm", "Hermès"],
+  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

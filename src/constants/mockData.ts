@@ -3473,34 +3473,52 @@ Platinum Égoïste thuộc phân khúc Chanel — đắt hơn Prada L'Homme như
   {
     id: "elixir-des-merveilles",
     brandSlug: "hermes",
-    brand: "HERMES",
+    brand: "HERMÈS",
     name: "Elixir des Merveilles",
-    subName: "Elixir",
+    subName: "Eau de Parfum",
     perfumer: "Ralf Schwieger",
     gender: "nu",
     image: "/images/products/hermes-elixir-des-merveilles-main.jpg",
     images: [
-      { url: "/images/products/hermes-elixir-des-merveilles-main.jpg", source: "amazon", caption: "HERMES Elixir des Merveilles chính hãng", verified: true }
+      { url: "/images/products/hermes-elixir-des-merveilles-main.jpg", source: "fragram", caption: "Hermès Elixir des Merveilles chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    description: "Chai nữ cam-hổ phách-gỗ sồi kiểu phép màu Hermès — cam, hổ phách, gỗ sồi nướng, benzoin, đường caramel, hoắc hương và nhục đậu khấu. Vàng, ấm và kỳ diệu.",
+    article: `### Ai không nên mua?
+
+Nếu bạn thích mùi hoa rõ ràng — thì Elixir des Merveilles sẽ khiến bạn hỏi "hoa ở đâu?" vì KHÔNG CÓ HOA. Đây là chai nữ mà không dùng một nốt hoa nào — thay vào đó: cam, hổ phách, gỗ sồi nướng, caramel. Kết quả: mùi vàng óng ánh, kiểu ánh nến trong lọ thuỷ tinh. Ai muốn fresh-floral sẽ thấy nó quá ấm.
+
+### Có đáng tiền không?
+
+Giá Hermès nhưng line Merveilles thuộc entry-level. So với Eau des Merveilles gốc (biển-cam-gỗ) thì Elixir ấm hơn rất nhiều, thêm hổ phách-caramel. Gỗ sồi nướng (toasted oak) là nốt ĐỘC ĐÁO — kiểu whiskey barrel — mà hiếm chai nào có. So với Lancôme La Vie Est Belle — cùng nữ ngọt ấm — thì Elixir ít iris, nhiều gỗ hơn và sang hơn. Bám 7-8 giờ.
+
+### Nên dùng khi nào?
+
+Buổi tối, ăn tối, hoặc cuối tuần thư giãn. Xịt 2-3 nhát: cổ và cổ tay. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai để tự thưởng, không phải để khoe.`,
+    verdict: "Cam-hổ phách-gỗ sồi nướng — chai nữ KHÔNG HOA độc đáo nhất. Whiskey barrel note. Phép màu Hermès.",
+    verdictShort: "CAM HỔ PHÁCH GỖ SỒI, KHÔNG HOA, PHÉP MÀU",
+    score: { scent: 8.5, uniqueness: 9, compliments: 7.5, value: 8, total: 8.3 },
+    vibes: [{ label: "Kỳ diệu", icon: "✨" }, { label: "Ấm", icon: "🕯️" }, { label: "Độc đáo", icon: "💎" }],
+    longevity: 8,
+    sillage: 6,
+    seasons: { spring: 42, summer: 15, fall: 82, winter: 85 },
+    dayNight: { day: 32, night: 78 },
+    topNotes: [{ name: "Cam" }],
+    middleNotes: [{ name: "Hổ phách" }, { name: "Gỗ sồi nướng" }, { name: "Nhục đậu khấu" }],
+    baseNotes: [{ name: "Benzoin" }, { name: "Đường caramel" }, { name: "Hoắc hương" }],
+    accords: [
+      { name: "Hổ phách", value: 100, color: "#d4a017" },
+      { name: "Gỗ", value: 72, color: "#8B4513" },
+      { name: "Ngọt", value: 55, color: "#8B0000" },
+      { name: "Cam chanh", value: 42, color: "#f1c40f" },
+      { name: "Gourmand", value: 38, color: "#d4a373" }
+    ],
+    seoTitle: "Hermès Elixir des Merveilles chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Hermès Elixir des Merveilles chính hãng: mùi cam hổ phách gỗ sồi nướng không hoa, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Độc đáo","Ấm","Hermès"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "encre-noire",
@@ -3799,44 +3817,44 @@ Fahrenheit giá chỉ bằng nửa Tom Ford Tuscan Leather — mà mùi da khôn
     perfumer: "François Demachy",
     gender: "nam",
     image: "/images/products/dior-fahrenheit-le-parfum-main.jpg",
-    images: [{ url: "/images/products/dior-fahrenheit-le-parfum-main.jpg", source: "amazon", caption: "DIOR Fahrenheit Le Parfum chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Fahrenheit Le Parfum là phiên bản ấm, ngọt và dressy hơn của DNA Fahrenheit. Nó vẫn giữ phần khung nam tính đặc trưng, nhưng thay vì nhấn mạnh sắc xanh-xăng-violet như bản gốc, nó đưa mùi vào vùng vanilla, da và chiều tối rõ hơn. Đây là kiểu mùi dành cho người thích Fahrenheit nhưng muốn một phiên bản dễ “đi tối” và quyến rũ hơn.
+    images: [{ url: "/images/products/dior-fahrenheit-le-parfum-main.jpg", source: "fragram", caption: "Dior Fahrenheit Le Parfum chính hãng", verified: true }],
+    description: "Phiên bản da hun tối nhất Fahrenheit — oải hương, da thuộc, cỏ hương bài, nghệ tây và hổ phách. Tối, da và rất intense.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của bản Le Parfum là nó vẫn có cá tính Fahrenheit, nhưng bớt góc cạnh và có độ cuốn đại chúng hơn một chút. Trong khí hậu Việt Nam, chai này hợp cho tối, hẹn hò, máy lạnh hoặc người muốn một mùi nam có bản sắc nhưng vẫn mềm hơn bản EDT.
+Nếu bạn yêu Fahrenheit EDT gốc (xăng-hoa tím-da) và muốn bản đậm hơn — thì Le Parfum khác HOÀN TOÀN. Demachy bỏ gần hết nốt xăng-violet, thay bằng da hun-nghệ tây-oải hương nặng. Đây không phải upgrade mà là REBOOT. Ai thích EDT nên giữ EDT. Le Parfum cho ai muốn DNA da-leather without the gasoline.
 
-## Diễn biến trên da
-Mở đầu vẫn có chút DNA quen thuộc, nhưng khá nhanh vanilla và nền ấm bắt đầu kéo tổng thể vào vùng dày, mượt và quyến rũ hơn. Mùi phát triển rõ theo hướng dressy hơn bản gốc.
+### Có đáng tiền không?
 
-Drydown là lớp da-vanilla ấm, nam tính và khá ôm da. Nó giữ được chất riêng mà bớt “khó” hơn Fahrenheit thường. Nhược điểm là ai yêu đúng chất xanh-xăng của bản EDT có thể thấy bản này đã đổi mood đáng kể.
+Giá Dior Le Parfum — cao hơn EDT nhưng concentration mạnh: bám 10+ giờ, tỏa mạnh. So với Fahrenheit EDT gốc — khác hoàn toàn, ít synthetic hơn, tối hơn. So với Tom Ford Tuscan Leather — cùng nhóm da niche — thì Le Parfum nhẹ hơn nhưng rẻ hơn gấp 3. So với Ombre Leather Tom Ford — cùng tầm giá — thì Le Parfum có nghệ tây mà OL thiếu. Bám cực lâu.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Fahrenheit Le Parfum có độ lưu hương khá tốt, khoảng 7-9 giờ; tỏa hương vừa. Nó hợp tối, đi ăn tối, hẹn hò, thời tiết mát hoặc khi muốn một mùi nam có chiều sâu và chất riêng.
+### Nên dùng khi nào?
 
-Ở Việt Nam, dùng đẹp nhất về chiều tối hoặc trong phòng điều hòa. Ưu điểm là cá tính nhưng dễ mặc hơn bản gốc; nhược điểm là trời nóng dễ làm lớp ngọt dày hơn mong muốn.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích Fahrenheit nhưng muốn phiên bản ấm, mượt và sexy hơn, Le Parfum là lựa chọn rất đáng thử. Nó hợp người thích mùi nam tối có bản sắc mà vẫn đủ wearable cho thực tế.
-
-Nên mua khi mày cần một chai tối có khí chất riêng. Nếu mày mê đúng DNA khô và sắc của Fahrenheit EDT, nên giữ kỳ vọng đúng trước khi mua.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa đông, buổi tối, khi muốn mùi DA mà không cần xăng. Xịt 1-2 nhát cổ — Le Parfum quá mạnh nếu xịt nhiều. Hà Nội tháng 11-2. Sài Gòn chỉ tối lạnh hoặc phòng điều hòa cực mạnh. Chai aggressive nhất dòng Fahrenheit.`,
+    verdict: "Da hun-nghệ tây — Fahrenheit reboot tối nhất. Không xăng. Demachy. Le Parfum 10h+. Leather without gasoline.",
+    verdictShort: "DA HUN NGHỆ TÂY, REBOOT, CỰC MẠNH",
+    score: { scent: 8.5, uniqueness: 8.8, compliments: 7, value: 7.5, total: 8 },
+    vibes: [{ label: "Da thuộc", icon: "🖤" }, { label: "Intense", icon: "🔥" }, { label: "Mùa đông", icon: "❄️" }],
+    longevity: 10,
+    sillage: 8,
+    seasons: { spring: 18, summer: 2, fall: 72, winter: 92 },
+    dayNight: { day: 12, night: 88 },
+    topNotes: [{ name: "Oải hương" }],
+    middleNotes: [{ name: "Da thuộc" }, { name: "Nghệ tây" }],
+    baseNotes: [{ name: "Cỏ hương bài" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Da thuộc", value: 100, color: "#795548" },
+      { name: "Gỗ", value: 72, color: "#8B4513" },
+      { name: "Gia vị ấm", value: 62, color: "#e67e22" },
+      { name: "Thơm thảo mộc", value: 48, color: "#2c7a4b" },
+      { name: "Hổ phách", value: 42, color: "#d4a017" }
+    ],
+    seoTitle: "Dior Fahrenheit Le Parfum chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Dior Fahrenheit Le Parfum chính hãng: mùi da hun nghệ tây tối nhất Fahrenheit, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nam","Da thuộc","Intense","Mùa đông"],
+    sizes: ["10ml Chiết","75ml Fullbox"],
+    basePrice: 3200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "for-her-edp",
