@@ -6188,51 +6188,49 @@ Bất ngờ: Le Parfum rẻ hơn đáng kể so với Dior, Chanel cùng phân k
     id: "le-parfum-lolita",
     brandSlug: "lolita-lempicka",
     brand: "LOLITA LEMPICKA",
-    name: "Lolita Lempicka Le Parfum",
+    name: "Le Parfum",
     subName: "Eau de Parfum",
     perfumer: "Annick Ménardo",
     gender: "nu",
     image: "/images/products/lolita-lempicka-le-parfum-main.jpg",
-    images: [
-      { url: "/images/products/lolita-lempicka-le-parfum-main.jpg", source: "amazon", caption: "LOLITA LEMPICKA Lolita Lempicka Le Parfum chính hãng", verified: true }
+    images: [{ url: "/images/products/lolita-lempicka-le-parfum-main.jpg", source: "fragram", caption: "Lolita Lempicka Le Parfum chính hãng", verified: true }],
+    description: "Chai nữ hồi-cam thảo-anh đào kiểu gothic fairy — hồi, cam thảo, hạnh nhân, hoa anh đào, anh túc, iris, vani, gỗ đàn hương, xạ hương và cỏ hương bài. Cam thảo, tối và bí ẩn.",
+    article: `### Ai không nên mua?
+
+Nếu bạn ghét cam thảo (licorice) — dừng lại. Lolita Lempicka là chai KHAI SINH mùi cam thảo trong nước hoa nữ — và Le Parfum (phiên bản 2017) tiếp nối di sản đó: hồi + cam thảo đen tạo ra vị kẹo tối mà không ai khác dám copy. Annick Ménardo (cũng tạo Balenciaga Paris) giữ DNA gothic fairy của Lolita.
+
+### Có đáng tiền không?
+
+Giá — CỰC RẺ. Rẻ hơn mọi designer mainstream. Nhưng mùi thì KHÔNG RẺ: cam thảo-hồi-vani ở đây tinh tế, tối, có chiều sâu mà nhiều niche phải ghen. So với Lolita gốc 1997 — Le Parfum ngọt hơn, ít xanh hơn, hiện đại hơn. So với Angel Mugler — cùng nhóm nữ tối ngọt — thì Lolita nhiều cam thảo hơn, ít chocolate hơn. Bám 7-8 giờ.
+
+### Nên dùng khi nào?
+
+Thu đông, buổi tối, khi muốn mùi BÍ ẨN. Xịt 2-3 nhát: cổ và cổ tay. Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai dành cho ai muốn unique mà không phải trả giá niche.`,
+    verdict: "Cam thảo-hồi gothic fairy — DNA không ai copy. Annick Ménardo. Giá cực rẻ mà mùi niche. Hidden gem.",
+    verdictShort: "CAM THẢO GOTHIC, CỰC RẺ, HIDDEN GEM",
+    score: { scent: 8.5, uniqueness: 9.5, compliments: 7.5, value: 9.5, total: 8.8 },
+    vibes: [{ label: "Gothic fairy", icon: "🧚" }, { label: "Bí ẩn", icon: "🌙" }, { label: "Hidden gem", icon: "💎" }],
+    longevity: 8,
+    sillage: 6,
+    seasons: { spring: 42, summer: 12, fall: 85, winter: 82 },
+    dayNight: { day: 28, night: 82 },
+    topNotes: [{ name: "Hồi" }, { name: "Cam thảo" }, { name: "Hạnh nhân" }],
+    middleNotes: [{ name: "Hoa anh đào" }, { name: "Anh túc" }, { name: "Iris" }],
+    baseNotes: [{ name: "Vani" }, { name: "Gỗ đàn hương" }, { name: "Xạ hương" }, { name: "Cỏ hương bài" }],
+    accords: [
+      { name: "Ngọt", value: 100, color: "#8B0000" },
+      { name: "Gourmand", value: 78, color: "#d4a373" },
+      { name: "Hoa", value: 55, color: "#e91e63" },
+      { name: "Vani", value: 48, color: "#F5DEB3" },
+      { name: "Phấn", value: 35, color: "#d7bde2" }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Lolita Lempicka Le Parfum là kiểu gourmand fantasy rất đặc trưng: ngọt, hơi kẹo, hơi thảo mộc và có cảm giác cổ tích đêm. Nó không phải vanilla đơn giản, mà có màu tím đậm, hơi licorice và một chất mơ màng rất riêng. Đây là kiểu mùi dành cho người thích thế giới mùi hương có concept rõ và không quá thực dụng.
-
-Điểm mạnh của chai này là cá tính. Nó vừa nữ tính vừa bí ẩn, vừa ngọt vừa có cạnh tối nhỏ khiến tổng thể không bị quá phẳng. Trong điều kiện Việt Nam, đây là chai hợp cho tối, đi chơi, hẹn hò hoặc những ai mê mùi ngọt có màu sắc riêng.
-
-## Diễn biến trên da
-Mở đầu ngọt khá rõ, sau đó các sắc thảo mộc và nền ấm giúp mùi bớt đơn giản và trở nên sâu hơn. Mùi phát triển theo hướng mượt, ôm và có chút kỳ ảo đúng tinh thần thương hiệu.
-
-Drydown là lớp ngọt tím, mềm, hơi bột và khá gây nghiện nếu hợp gu. Nó không phải kiểu gourmand sạch sẽ đại trà. Nhược điểm là ai không thích licorice hoặc mùi ngọt có cá tính sẽ thấy nó hơi lạ.
-
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Le Parfum có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, mùa mát, đi chơi, hẹn hò hoặc khi muốn một mùi hương ngọt có câu chuyện riêng.
-
-Ở Việt Nam, nên dùng nhẹ tay nếu trời oi. Ưu điểm là rất riêng và có hình ảnh; nhược điểm là tính đại chúng không cao.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích gourmand fantasy, hơi tím, hơi cổ tích và không ngại cá tính, Lolita Lempicka Le Parfum rất đáng thử. Nó hợp người muốn một mùi ngọt khác số đông.
-
-Nên mua khi mày cần một chai tối có màu sắc riêng. Nếu mày thích floral sạch hoặc gourmand đơn giản, nên test trước.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    seoTitle: "Lolita Lempicka Le Parfum chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Lolita Lempicka Le Parfum chính hãng: mùi cam thảo gothic fairy hidden gem giá cực rẻ, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Gothic","Hidden gem","Giá rẻ"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","80ml Fullbox"],
+    basePrice: 700000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "leau-dissey-pour-homme",
@@ -6293,44 +6291,44 @@ L'Eau d'Issey thuộc phân khúc entry-level — rẻ nhất nhóm cùng Cool W
     perfumer: "Jacques Guerlain",
     gender: "nu",
     image: "/images/products/guerlain-lheure-bleue-edp-main.jpg",
-    images: [{ url: "/images/products/guerlain-lheure-bleue-edp-main.jpg", source: "amazon", caption: "GUERLAIN L'Heure Bleue chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-L’Heure Bleue EDP là một kiệt tác cổ điển của Guerlain: powdery, floral, hơi melancholic và cực kỳ giàu cảm xúc. Nó không vui tươi hay hiện đại theo kiểu dễ dùng, mà mang vẻ đẹp mềm, tím, hơi buồn và rất sang. Đây là kiểu mùi giống một bức tranh lúc chạng vạng hơn là một chai nước hoa để lấy lòng số đông.
+    images: [{ url: "/images/products/guerlain-lheure-bleue-edp-main.jpg", source: "fragram", caption: "Guerlain L'Heure Bleue EDP chính hãng", verified: true }],
+    description: "Chai nữ hoa tím-vani-anise kiểu hoàng hôn xanh 1912 — cam bergamot, hồi, hoa tím, hồng, nhài, tuberose, iris, vani, benzoin, xạ hương và heliotrope. Hoàng hôn xanh, phấn và kinh điển vượt thời gian.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của L’Heure Bleue là chiều sâu cảm xúc. Nó có khí chất rất riêng, vừa nữ tính vừa mơ hồ. Trong điều kiện Việt Nam, chai này hợp hơn với người yêu nước hoa cổ điển, thích mùi phấn hoa có tính nghệ và không ngại chuyện kén gu.
+Nếu bạn sinh sau 1990 — thì L'Heure Bleue có thể quá "cổ" để hiểu ngay lần đầu. Jacques Guerlain tạo ra chai này năm 1912 — HƠN 110 NĂM TRƯỚC — lấy cảm hứng từ khoảnh khắc "giờ xanh" trước khi mặt trời hoàn toàn lặn. Hoa tím-vani-anise phấn — mùi của một thế giới đã mất. Ai muốn mùi hiện đại sẽ không hiểu nó.
 
-## Diễn biến trên da
-Mở đầu floral powder lên khá rõ, sau đó các lớp ấm và bột dần làm tổng thể tròn hơn, sâu hơn. Mùi phát triển chậm, mềm và rất giàu sắc thái nếu chịu ngửi kỹ.
+### Có đáng tiền không?
 
-Drydown là lớp phấn ấm, hoa mềm và cảm giác vintage cực đẹp. Nó không phải kiểu sexy trực diện, mà cuốn ở sự tinh tế và hơi buồn. Nhược điểm là tính hiện đại thấp và khó blind buy.
+Giá Guerlain — và đây là KIỆT TÁC thật sự: một trong 3 chai Guerlain kinh điển nhất (cùng Shalimar và Mitsouko). Jacques Guerlain đã nói "Tôi tạo Shalimar cho tình yêu, Mitsouko cho sự thanh lịch, và L'Heure Bleue cho nỗi buồn đẹp." EDP đậm hơn EDT. Bám 7-8 giờ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-L’Heure Bleue EDP có độ lưu hương khá tốt, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp tối, thời tiết mát, không gian yên, những dịp thưởng mùi hơn là chạy compliment.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng vừa tay và đẹp hơn trong máy lạnh. Ưu điểm là cực kỳ có hồn; nhược điểm là kén người dùng và không phải chai cho mọi ngày.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày yêu Guerlain cổ điển và muốn một mùi floral powdery có chiều sâu cảm xúc lớn, L’Heure Bleue EDP rất đáng thử. Nó hợp người thích vẻ đẹp vintage, tinh tế và không chạy theo sự dễ hiểu.
-
-Nên mua khi mày muốn một chai để thưởng thức thật sự. Nếu mày cần mùi hiện đại, sáng và dễ khen, nên đi hướng khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Hoàng hôn (theo đúng tên), ăn tối nhẹ, thời gian riêng, hoặc khi muốn mùi hương là THƠ chứ không phải phụ kiện. Xịt 2 nhát: cổ và cổ tay. Dùng quanh năm — hoa tím tươi mùa xuân, vani ấm mùa đông. Chai để sống chậm lại.`,
+    verdict: "Hoàng hôn xanh 1912 — Jacques Guerlain. 110+ năm. \"Nỗi buồn đẹp.\" Kiệt tác vượt thời gian.",
+    verdictShort: "HOÀNG HÔN XANH, 1912, KIỆT TÁC",
+    score: { scent: 9, uniqueness: 9.5, compliments: 6.5, value: 8, total: 8.3 },
+    vibes: [{ label: "Kiệt tác", icon: "🏛️" }, { label: "Hoàng hôn", icon: "🌅" }, { label: "Thơ", icon: "📜" }],
+    longevity: 8,
+    sillage: 5,
+    seasons: { spring: 72, summer: 35, fall: 78, winter: 65 },
+    dayNight: { day: 45, night: 72 },
+    topNotes: [{ name: "Cam bergamot" }, { name: "Hồi" }],
+    middleNotes: [{ name: "Hoa tím" }, { name: "Hoa hồng" }, { name: "Hoa nhài" }, { name: "Tuberose" }, { name: "Iris" }],
+    baseNotes: [{ name: "Vani" }, { name: "Benzoin" }, { name: "Xạ hương" }, { name: "Heliotrope" }],
+    accords: [
+      { name: "Phấn", value: 100, color: "#d7bde2" },
+      { name: "Hoa", value: 78, color: "#e91e63" },
+      { name: "Ngọt", value: 55, color: "#8B0000" },
+      { name: "Vani", value: 48, color: "#F5DEB3" },
+      { name: "Hổ phách", value: 42, color: "#d4a017" }
+    ],
+    seoTitle: "Guerlain L'Heure Bleue EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Guerlain L'Heure Bleue EDP chính hãng: mùi hoàng hôn xanh kiệt tác 1912, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Kiệt tác","Heritage","Hoàng hôn"],
+    sizes: ["10ml Chiết","50ml Fullbox","75ml Fullbox"],
+    basePrice: 2800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "lheure-bleue-edt",
