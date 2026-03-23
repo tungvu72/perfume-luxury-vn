@@ -7224,44 +7224,43 @@ Man In Black thuộc phân khúc designer tầm trung — rẻ hơn D&G The One 
     perfumer: "François Demachy",
     gender: "nu",
     image: "/images/products/dior-midnight-poison-main.jpg",
-    images: [{ url: "/images/products/dior-midnight-poison-main.jpg", source: "amazon", caption: "DIOR Midnight Poison chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Midnight Poison là kiểu nữ tối, bí ẩn và sang theo hướng rất điện ảnh. Nó không đi theo lối ngọt dễ thương hay hoa sáng, mà chọn một màu tối hơn với rose, patchouli, amber và cảm giác đêm rõ rệt. Đây là mùi hương dành cho người thích sự dramatic, có chút lạnh và có dấu ấn rất riêng.
+    images: [{ url: "/images/products/dior-midnight-poison-main.jpg", source: "fragram", caption: "Dior Midnight Poison chính hãng", verified: true }],
+    description: "Chai nữ hoa hồng-hổ phách-hoắc hương kiểu nửa đêm quyến rũ — cam quýt, cam bergamot, hoa hồng Damask, hổ phách, hoắc hương và gỗ đàn hương. Tối, hồng và discontinued cult.",
+    article: `### Ai không nên mua?
 
-Điểm khiến Midnight Poison được nhớ lâu là bầu không khí nó tạo ra. Chỉ cần lên da một lúc là đã thấy màu sắc khá khác so với các chai Poison khác: ít gourmand hơn Hypnotic, ít hoa trắng hơn Pure, mà nghiêng về bóng tối sang trọng và quyến rũ kín. Trong điều kiện Việt Nam, đây là chai hợp tối, thời tiết dịu hoặc môi trường điều hòa.
+Nếu bạn muốn mua dễ — thì Midnight Poison DISCONTINUED. Dior ngừng sản xuất từ lâu và giá secondhand tăng liên tục. Chai nổi tiếng vì Eva Green quảng cáo — tóc đen, áo đen, nửa đêm. Mùi cũng vậy: hồng tối, hổ phách nặng, hoắc hương black. Ai thích mùi nhẹ sẽ thấy nó quá "midnight".
 
-## Diễn biến trên da
-Mở đầu có cảm giác sáng nhẹ nhưng rất nhanh chuyển vào phần rose-patchouli tối hơn. Sau đó amber và nền ấm kéo tổng thể trở nên sâu, mềm và bí ẩn hơn. Mùi phát triển khá liền mạch, thiên về mood hơn là show kỹ thuật notes.
+### Có đáng tiền không?
 
-Drydown của Midnight Poison ôm da, tối và gợi cảm theo kiểu sang lạnh. Nó không ngọt quá nhiều, nên dễ tạo cảm giác mature hơn các mùi nữ gourmand. Nhược điểm là người thích mùi vui, trẻ hoặc quá dễ dùng có thể thấy chai này hơi nghiêm.
+Discontinued = giá collector. Demachy tạo DNA hồng-hổ phách mà Poison gốc không có. So với Poison gốc 1985 — Midnight sạch hơn, ít tuberose hơn, nhiều hồng hơn. So với Hypnotic Poison — cùng dòng Poison — thì Midnight tối hơn. Bám 7-8 giờ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Midnight Poison có độ lưu hương khá tốt, khoảng 7-9 giờ; tỏa hương vừa đến khá. Nó hợp nhất cho buổi tối, hẹn hò, event, máy lạnh hoặc những lúc muốn mùi hương tạo không khí rõ.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng buổi tối và xịt vừa tay. Ưu điểm là khí chất, khác biệt và có chiều sâu; nhược điểm là độ đa dụng không cao và không phải gu số đông.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai nữ tối, bí ẩn và có cảm giác sang kiểu cinematic, Midnight Poison rất đáng thử. Nó hợp người thích phong cách buổi tối, có chút drama và không ngại mùi hương có cá tính rõ.
-
-Nên mua khi mày cần một chai tối khác biệt với thị trường ngọt-fruity phổ biến. Nếu mày muốn mùi sáng, sạch và dùng dễ mỗi ngày, đây không phải hướng đầu tiên.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đêm đặc biệt, hẹn hò, sự kiện tối. Xịt 2 nhát cổ. Thu đông. Chai collector — tìm được thì giữ.`,
+    verdict: "Hồng tối-hổ phách nửa đêm — Eva Green era. Discontinued cult. Tìm được = may mắn.",
+    verdictShort: "HỒNG TỐI, DISCONTINUED, CULT CLASSIC",
+    score: { scent: 8.5, uniqueness: 8.5, compliments: 8, value: 7, total: 8 },
+    vibes: [{ label: "Cult classic", icon: "🌑" }, { label: "Discontinued", icon: "⏳" }, { label: "Quyến rũ", icon: "💋" }],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 28, summer: 8, fall: 78, winter: 85 },
+    dayNight: { day: 15, night: 88 },
+    topNotes: [{ name: "Cam quýt" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Hoa hồng Damask" }],
+    baseNotes: [{ name: "Hổ phách" }, { name: "Hoắc hương" }, { name: "Gỗ đàn hương" }],
+    accords: [
+      { name: "Hoa hồng", value: 100, color: "#e91e63" },
+      { name: "Hổ phách", value: 78, color: "#d4a017" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Phấn", value: 42, color: "#d7bde2" }
+    ],
+    seoTitle: "Dior Midnight Poison chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Dior Midnight Poison chính hãng: mùi hồng tối hổ phách discontinued cult, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Discontinued","Cult classic","Buổi tối"],
+    sizes: ["10ml Chiết","50ml Fullbox"],
+    basePrice: 3500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "miss-dior-blooming-bouquet",
@@ -7317,31 +7316,48 @@ Blooming Bouquet thuộc phân khúc designer cao cấp Dior — giá tương đ
     id: "miss-dior-cherie",
     brandSlug: "dior",
     brand: "DIOR",
-    name: "Miss Dior Cherie",
+    name: "Miss Dior Chérie",
     subName: "Eau de Parfum",
     perfumer: "Christine Nagel",
     gender: "nu",
     image: "/images/products/dior-miss-dior-cherie-main.jpg",
-    images: [{ url: "/images/products/dior-miss-dior-cherie-main.jpg", source: "amazon", caption: "DIOR Miss Dior Cherie chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    images: [{ url: "/images/products/dior-miss-dior-cherie-main.jpg", source: "fragram", caption: "Dior Miss Dior Chérie chính hãng", verified: true }],
+    description: "Chai nữ dâu tây-popcorn-hoắc hương kiểu yêu đời cũ — dâu tây, cam quýt, bắp rang, hồng, hoa tím, hoắc hương, xạ hương và gỗ đàn hương. Dâu popcorn, vui và discontinued.",
+    article: `### Ai không nên mua?
+
+Không thể mua mới — Miss Dior Chérie DISCONTINUED từ lâu. Chai này nổi tiếng vì nốt POPCORN — bắp rang bơ — cực kỳ vui và khác biệt. Christine Nagel (giờ ở Hermès) tạo ra combo dâu tây-popcorn-hoắc hương mà không ai dám lặp lại. Ai tìm được vintage bottle nên giữ chặt.
+
+### Có đáng tiền không?
+
+Collector price — và dâu-popcorn DNA ở đây unique thật sự. So với Miss Dior hiện tại — hoàn toàn khác: Miss Dior mới hoa hồng-iris, Chérie là trái cây-gourmand. So với Viktor & Rolf Bonbon — cùng caramel gourmand — thì Chérie có popcorn mà Bonbon thiếu. Bám 5-6 giờ.
+
+### Nên dùng khi nào?
+
+Ban ngày, đi chơi, picnic, hoặc khi nào muốn VUI. Chai này = nụ cười trong lọ nước hoa. Discontinued nên dùng dè sẻn.`,
+    verdict: "Dâu-popcorn discontinued — Christine Nagel. Unique nhất Miss Dior. Nụ cười trong lọ. Collector treasure.",
+    verdictShort: "DÂU POPCORN, DISCONTINUED, NỤ CƯỜI",
+    score: { scent: 8, uniqueness: 9.5, compliments: 8.5, value: 7, total: 8.3 },
+    vibes: [{ label: "Vui", icon: "🍿" }, { label: "Discontinued", icon: "⏳" }, { label: "Collector", icon: "💎" }],
+    longevity: 6,
+    sillage: 5,
+    seasons: { spring: 82, summer: 62, fall: 52, winter: 28 },
+    dayNight: { day: 82, night: 42 },
+    topNotes: [{ name: "Dâu tây" }, { name: "Cam quýt" }],
+    middleNotes: [{ name: "Bắp rang" }, { name: "Hoa hồng" }, { name: "Hoa tím" }],
+    baseNotes: [{ name: "Hoắc hương" }, { name: "Xạ hương" }, { name: "Gỗ đàn hương" }],
+    accords: [
+      { name: "Gourmand", value: 100, color: "#d4a373" },
+      { name: "Trái cây", value: 78, color: "#f39c12" },
+      { name: "Hoa", value: 55, color: "#e91e63" },
+      { name: "Ngọt", value: 48, color: "#8B0000" }
+    ],
+    seoTitle: "Dior Miss Dior Chérie chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Miss Dior Chérie chính hãng: mùi dâu popcorn discontinued vui tươi, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Discontinued","Gourmand","Collector"],
+    sizes: ["10ml Chiết","50ml Fullbox"],
+    basePrice: 3000000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "mitsouko-edp",
