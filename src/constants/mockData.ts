@@ -4355,44 +4355,46 @@ Văn phòng, meeting, gặp khách, hoặc BẤT CỨ KHI NÀO cần mùi hươn
     perfumer: "Jean-Paul Guerlain",
     gender: "nam",
     image: "/images/products/guerlain-habit-rouge-edt-main.jpg",
-    images: [{ url: "/images/products/guerlain-habit-rouge-edt-main.jpg", source: "amazon", caption: "GUERLAIN Habit Rouge chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Habit Rouge EDT là một mùi nam cổ điển rất đẹp của Guerlain: citrus, vanilla, da và một cảm giác quý ông Pháp rất rõ. Nó không trẻ, không gào, không chạy theo xu hướng, mà sang theo kiểu đã có lịch sử lâu năm. Đây là kiểu mùi dành cho người thích gu cổ điển nhưng vẫn muốn một chai có độ mềm và dễ mặc hơn vẻ ngoài của nó.
+    images: [
+      { url: "/images/products/guerlain-habit-rouge-edt-main.jpg", source: "fragram", caption: "Guerlain Habit Rouge Eau de Toilette chính hãng", verified: true }
+    ],
+    description: "Chai nam cam-vani-da kiểu kỵ sĩ Pháp 1965 — cam, chanh, cam bergamot, quế, hoa cẩm chướng, hồng, gỗ đàn hương, vani, da thuộc, hổ phách và benzoin. Citrus oriental, lịch lãm và heritage.",
+    article: `### Ai không nên mua?
 
-Điểm hay của Habit Rouge là sự tương phản giữa sáng và ấm. Mở đầu thanh nhưng càng về sau càng mềm, hơi ngọt và rất lịch thiệp. Trong khí hậu Việt Nam, chai này hợp với người thích phong cách nam trưởng thành, dùng tối hoặc trong môi trường mát.
+Nếu bạn chỉ biết nước hoa nam hiện đại — thì Habit Rouge sẽ là time machine về 1965. Tên lấy từ "áo choàng đỏ" của kỵ sĩ cưỡi ngựa Pháp — và mùi cũng vậy: cam sáng, quế ấm, da thuộc, vani — kiểu quý ông Pháp thế kỷ trước. Chai nước hoa ORIENTAL NAM ĐẦU TIÊN lịch sử. Ai thích sporty-fresh-modern sẽ thấy nó cũ.
 
-## Diễn biến trên da
-Mở đầu citrus khá rõ và sáng, sau đó vanilla, da và nền ấm bắt đầu hiện ra, kéo mùi vào trạng thái tròn và sang hơn. Mùi phát triển mượt, không quá nặng nề dù mang khung cổ điển.
+### Có đáng tiền không?
 
-Drydown mềm, hơi bột nhẹ, ấm và rất gentleman. Nó không phải kiểu nam tính cơ bắp, mà là nam tính lịch thiệp. Nhược điểm là người thích mùi hiện đại quá sạch hoặc quá tối có thể thấy nó lửng giữa hai thế giới.
+Giá Guerlain EDT — rất hợp lý. Và đây là chai KHAI SINH oriental nam: trước 1965, nam giới chỉ dùng fougère/chypre. Jean-Paul Guerlain phá lệ bằng cam-vani-da — và mở ra cả thể loại mà giờ Spicebomb, Eros, 1 Million thuộc về. So với Spicebomb Extreme — cùng oriental ấm — thì Habit Rouge nhẹ hơn, nhiều cam hơn, vintage hơn. Bám 5-6 giờ (EDT).
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Habit Rouge EDT có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương vừa. Nó hợp tối, gặp gỡ lịch sự, dùng mùa mát hoặc những dịp muốn một mùi nam có chiều cổ điển rõ rệt.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng đẹp hơn trong điều hòa hoặc chiều tối. Ưu điểm là sang và rất có lịch sử; nhược điểm là không phải gu của người thích mùi trẻ, thẳng và hiện đại.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai nam Guerlain cổ điển, mềm và rất lịch thiệp, Habit Rouge EDT rất đáng thử. Nó hợp người thích mùi có chất quý ông hơn là muốn gây ồn ào.
-
-Nên mua khi mày cần một chai tối mang màu cổ điển. Nếu mày thích blue fragrance hoặc tông ngọt hiện đại, nên test kỹ trước.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi ăn tối, sự kiện nhẹ, hoặc khi muốn mùi Pháp thật sự. Xịt 3 nhát: cổ, ngực, cổ tay. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối mát. Chai để hiểu heritage nước hoa nam.`,
+    verdict: "Oriental nam ĐẦU TIÊN lịch sử — cam, vani, da, áo choàng đỏ 1965. Jean-Paul Guerlain. Khai sinh cả thể loại.",
+    verdictShort: "ORIENTAL NAM ĐẦU TIÊN, 1965, HERITAGE",
+    score: { scent: 8, uniqueness: 9, compliments: 6.5, value: 8.5, total: 8 },
+    vibes: [{ label: "Heritage", icon: "🏇" }, { label: "Kỵ sĩ", icon: "🇫🇷" }, { label: "Pioneer", icon: "👑" }],
+    longevity: 6,
+    sillage: 5,
+    seasons: { spring: 52, summer: 22, fall: 78, winter: 72 },
+    dayNight: { day: 42, night: 72 },
+    topNotes: [{ name: "Cam" }, { name: "Chanh" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Quế" }, { name: "Hoa cẩm chướng" }, { name: "Hoa hồng" }],
+    baseNotes: [{ name: "Gỗ đàn hương" }, { name: "Vani" }, { name: "Da thuộc" }, { name: "Hổ phách" }, { name: "Benzoin" }],
+    accords: [
+      { name: "Cam chanh", value: 100, color: "#f1c40f" },
+      { name: "Phương Đông", value: 72, color: "#c0392b" },
+      { name: "Gia vị ấm", value: 58, color: "#e67e22" },
+      { name: "Da thuộc", value: 48, color: "#795548" },
+      { name: "Vani", value: 42, color: "#F5DEB3" }
+    ],
+    seoTitle: "Guerlain Habit Rouge chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Guerlain Habit Rouge chính hãng: oriental nam đầu tiên lịch sử 1965, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Heritage","Pioneer","Oriental"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox","200ml Fullbox"],
+    basePrice: 1800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "habit-rouge-parfum",
@@ -4666,28 +4668,44 @@ Mùa thu đông, buổi tối, hẹn hò, tiệc, dịp đặc biệt. Xịt 2 n
     perfumer: "François Demachy",
     gender: "nam",
     image: "/images/products/dior-homme-cologne-main.jpg",
-    images: [{ url: "/images/products/dior-homme-cologne-main.jpg", source: "studio", caption: "Dior Homme Cologne chính hãng", verified: false }],
-    description: "Mùi citrus sạch, xạ hương trắng và thoáng mát. Hợp đi làm ban ngày mùa hè, đặc biệt với người ghét mùi ngọt. Độ lưu hương vừa phải.",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "SẠCH, THOÁNG, MÙA HÈ",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [{ label: "Văn phòng", icon: "💼" }, { label: "Mùa hè", icon: "☀️" }, { label: "Sạch sẽ", icon: "🧊" }],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    seoTitle: "Dior Homme Cologne chính hãng giá bao nhiêu? Review 2026",
-    metaDescription: "Đánh giá Dior Homme Cologne chính hãng: mùi citrus sạch thoáng mát, hợp đi làm mùa hè. Giá tham khảo 2026 tại Maison De Son.",
-    tags: ["Nam","Văn phòng","Mùa hè","Sạch"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    images: [{ url: "/images/products/dior-homme-cologne-main.jpg", source: "fragram", caption: "Dior Homme Cologne chính hãng", verified: true }],
+    description: "Chai nam citrus-xạ hương sạch nhẹ nhất dòng Homme — bưởi, cam bergamot, chanh, oải hương, xạ hương trắng, cỏ hương bài và gỗ tuyết tùng. Sạch, tươi và skin scent.",
+    article: `### Ai không nên mua?
+
+Nếu bạn muốn mùi bám lâu tỏa xa — thì Homme Cologne BÁM 2-3 GIỜ rồi biến mất. Đây là cologne nồng độ thấp nhất: citrus-xạ hương sạch kiểu vừa tắm xong, da sạch, không hương liệu nặng. Ai quen Sauvage hay Eros sẽ hỏi "tao xịt gì rồi nhỉ?" sau 2 giờ. Đây là chai "feel clean" chứ không phải "smell good".
+
+### Có đáng tiền không?
+
+Giá Dior — nhưng cologne bám ngắn nên ML/giờ đắt hơn EDP nhiều. Lý do người ta vẫn mua: cảm giác SẠC quá đẹp. Bưởi + xạ hương trắng tạo ra skin scent mà nhiều niche house bán gấp 3 không đạt được. So với Dior Homme EDT — cùng dòng — thì Cologne nhẹ hơn 90%, không iris, thuần citrus. So với Hermès Eau d'Orange Verte — cùng nhóm citrus sạch — thì Dior mượt hơn, ít green hơn.
+
+### Nên dùng khi nào?
+
+Mùa hè, sau khi tắm, trước khi ra ngoài dạo phố, đi cafe ban ngày. Xịt 5-6 nhát vì cologne tỏa yếu: cổ, ngực, cổ tay, sau tai, quần áo. Sài Gòn dùng quanh năm. Hà Nội tháng 4-9. Đừng mong bám — mong DA SẠCH.`,
+    verdict: "Citrus-xạ hương sạch nhất — da vừa tắm. Bám 2-3 giờ. Không phải khoe mà để SẠCH. Niche clean ở giá designer.",
+    verdictShort: "CITRUS SẠCH, DA TẮM, BÁM NGẮN",
+    score: { scent: 8, uniqueness: 7.5, compliments: 6.5, value: 6.5, total: 7.1 },
+    vibes: [{ label: "Sạch", icon: "🧼" }, { label: "Da tắm", icon: "💧" }, { label: "Mùa hè", icon: "☀️" }],
+    longevity: 3,
+    sillage: 3,
+    seasons: { spring: 82, summer: 95, fall: 28, winter: 8 },
+    dayNight: { day: 92, night: 15 },
+    topNotes: [{ name: "Bưởi" }, { name: "Cam bergamot" }, { name: "Chanh" }],
+    middleNotes: [{ name: "Oải hương" }],
+    baseNotes: [{ name: "Xạ hương trắng" }, { name: "Cỏ hương bài" }, { name: "Gỗ tuyết tùng" }],
+    accords: [
+      { name: "Cam chanh", value: 100, color: "#f1c40f" },
+      { name: "Tươi mát", value: 82, color: "#2ecc71" },
+      { name: "Xạ hương", value: 55, color: "#bdc3c7" },
+      { name: "Thơm thảo mộc", value: 32, color: "#2c7a4b" },
+      { name: "Gỗ", value: 25, color: "#8B4513" }
+    ],
+    seoTitle: "Dior Homme Cologne chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Dior Homme Cologne chính hãng: mùi citrus sạch skin scent kiểu da tắm, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nam","Sạch","Mùa hè","Skin scent"],
+    sizes: ["10ml Chiết","75ml Fullbox","125ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "homme-intense",

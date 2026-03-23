@@ -10,45 +10,40 @@
   "images": [
     {
       "url": "/images/products/guerlain-habit-rouge-edt-main.jpg",
-      "source": "amazon",
-      "caption": "GUERLAIN Habit Rouge chính hãng",
+      "source": "fragram",
+      "caption": "Guerlain Habit Rouge Eau de Toilette chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nHabit Rouge EDT là một mùi nam cổ điển rất đẹp của Guerlain: citrus, vanilla, da và một cảm giác quý ông Pháp rất rõ. Nó không trẻ, không gào, không chạy theo xu hướng, mà sang theo kiểu đã có lịch sử lâu năm. Đây là kiểu mùi dành cho người thích gu cổ điển nhưng vẫn muốn một chai có độ mềm và dễ mặc hơn vẻ ngoài của nó.\n\nĐiểm hay của Habit Rouge là sự tương phản giữa sáng và ấm. Mở đầu thanh nhưng càng về sau càng mềm, hơi ngọt và rất lịch thiệp. Trong khí hậu Việt Nam, chai này hợp với người thích phong cách nam trưởng thành, dùng tối hoặc trong môi trường mát.\n\n## Diễn biến trên da\nMở đầu citrus khá rõ và sáng, sau đó vanilla, da và nền ấm bắt đầu hiện ra, kéo mùi vào trạng thái tròn và sang hơn. Mùi phát triển mượt, không quá nặng nề dù mang khung cổ điển.\n\nDrydown mềm, hơi bột nhẹ, ấm và rất gentleman. Nó không phải kiểu nam tính cơ bắp, mà là nam tính lịch thiệp. Nhược điểm là người thích mùi hiện đại quá sạch hoặc quá tối có thể thấy nó lửng giữa hai thế giới.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nHabit Rouge EDT có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương vừa. Nó hợp tối, gặp gỡ lịch sự, dùng mùa mát hoặc những dịp muốn một mùi nam có chiều cổ điển rõ rệt.\n\nỞ Việt Nam, chai này dùng đẹp hơn trong điều hòa hoặc chiều tối. Ưu điểm là sang và rất có lịch sử; nhược điểm là không phải gu của người thích mùi trẻ, thẳng và hiện đại.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày muốn một chai nam Guerlain cổ điển, mềm và rất lịch thiệp, Habit Rouge EDT rất đáng thử. Nó hợp người thích mùi có chất quý ông hơn là muốn gây ồn ào.\n\nNên mua khi mày cần một chai tối mang màu cổ điển. Nếu mày thích blue fragrance hoặc tông ngọt hiện đại, nên test kỹ trước.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nam",
-    "NEEDS_SOURCE"
+  "description": "Chai nam cam-vani-da kiểu kỵ sĩ Pháp 1965 — cam, chanh, cam bergamot, quế, hoa cẩm chướng, hồng, gỗ đàn hương, vani, da thuộc, hổ phách và benzoin. Citrus oriental, lịch lãm và heritage.",
+  "article": "### Ai không nên mua?\n\nNếu bạn chỉ biết nước hoa nam hiện đại — thì Habit Rouge sẽ là time machine về 1965. Tên lấy từ \"áo choàng đỏ\" của kỵ sĩ cưỡi ngựa Pháp — và mùi cũng vậy: cam sáng, quế ấm, da thuộc, vani — kiểu quý ông Pháp thế kỷ trước. Chai nước hoa ORIENTAL NAM ĐẦU TIÊN lịch sử. Ai thích sporty-fresh-modern sẽ thấy nó cũ.\n\n### Có đáng tiền không?\n\nGiá Guerlain EDT — rất hợp lý. Và đây là chai KHAI SINH oriental nam: trước 1965, nam giới chỉ dùng fougère/chypre. Jean-Paul Guerlain phá lệ bằng cam-vani-da — và mở ra cả thể loại mà giờ Spicebomb, Eros, 1 Million thuộc về. So với Spicebomb Extreme — cùng oriental ấm — thì Habit Rouge nhẹ hơn, nhiều cam hơn, vintage hơn. Bám 5-6 giờ (EDT).\n\n### Nên dùng khi nào?\n\nĐi ăn tối, sự kiện nhẹ, hoặc khi muốn mùi Pháp thật sự. Xịt 3 nhát: cổ, ngực, cổ tay. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối mát. Chai để hiểu heritage nước hoa nam.",
+  "verdict": "Oriental nam ĐẦU TIÊN lịch sử — cam, vani, da, áo choàng đỏ 1965. Jean-Paul Guerlain. Khai sinh cả thể loại.",
+  "verdictShort": "ORIENTAL NAM ĐẦU TIÊN, 1965, HERITAGE",
+  "score": { "scent": 8.0, "uniqueness": 9.0, "compliments": 6.5, "value": 8.5, "total": 8.0 },
+  "vibes": [
+    { "label": "Heritage", "icon": "🏇" },
+    { "label": "Kỵ sĩ", "icon": "🇫🇷" },
+    { "label": "Pioneer", "icon": "👑" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 6,
+  "sillage": 5,
+  "seasons": { "spring": 52, "summer": 22, "fall": 78, "winter": 72 },
+  "dayNight": { "day": 42, "night": 72 },
+  "topNotes": [{ "name": "Cam" }, { "name": "Chanh" }, { "name": "Cam bergamot" }],
+  "middleNotes": [{ "name": "Quế" }, { "name": "Hoa cẩm chướng" }, { "name": "Hoa hồng" }],
+  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Vani" }, { "name": "Da thuộc" }, { "name": "Hổ phách" }, { "name": "Benzoin" }],
+  "accords": [
+    { "name": "Cam chanh", "value": 100, "color": "#f1c40f" },
+    { "name": "Phương Đông", "value": 72, "color": "#c0392b" },
+    { "name": "Gia vị ấm", "value": 58, "color": "#e67e22" },
+    { "name": "Da thuộc", "value": 48, "color": "#795548" },
+    { "name": "Vani", "value": 42, "color": "#F5DEB3" }
+  ],
+  "seoTitle": "Guerlain Habit Rouge chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Guerlain Habit Rouge chính hãng: oriental nam đầu tiên lịch sử 1965, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nam", "Heritage", "Pioneer", "Oriental"],
+  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "200ml Fullbox"],
+  "basePrice": 1800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
