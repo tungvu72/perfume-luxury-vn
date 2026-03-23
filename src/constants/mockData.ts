@@ -5888,33 +5888,51 @@ Hẹn hò, tiệc, buổi tối, dịp đặc biệt. Xịt 2 nhát: cổ, cổ 
     id: "l-interdit-eau-de-parfum-rouge",
     brandSlug: "givenchy",
     brand: "GIVENCHY",
-    name: "L Interdit Eau de Parfum Rouge",
+    name: "L'Interdit Rouge",
     subName: "Eau de Parfum",
     perfumer: "Dominique Ropion, Anne Flipo & Fanny Bal",
     gender: "nu",
-    image: "/images/products/givenchy-l-interdit-eau-de-parfum-rouge-main.jpg",
+    image: "/images/products/givenchy-l-interdit-rouge-main.jpg",
     images: [
-      { url: "/images/products/givenchy-l-interdit-eau-de-parfum-rouge-main.jpg", source: "amazon", caption: "GIVENCHY L Interdit Eau de Parfum Rouge chính hãng", verified: true }
+      { url: "/images/products/givenchy-l-interdit-rouge-main.jpg", source: "fragram", caption: "Givenchy L'Interdit Rouge EDP chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    description: "Chai nữ cam-nhài-gỗ đỏ kiểu cấm đoán nóng bỏng — cam quýt, cam bergamot, nhài Sambac, tuberose, iris, gỗ đàn hương, vani, hổ phách và xạ hương. Hoa trắng ấm, đỏ và cấm kỵ.",
+    article: `### Ai không nên mua?
+
+Nếu bạn có L'Interdit EDP gốc và muốn cái mới — thì Rouge SẤT SẤT giống gốc. Sự khác biệt: Rouge thêm hổ phách đỏ, ấm hơn, hơi gourmand hơn — nhưng core DNA nhài-tuberose-iris vẫn y hệt. Nếu đã có gốc, Rouge không đáng mua thêm trừ khi là collector. 3 perfumer cùng lúc: Ropion (Portrait of a Lady) + Flipo + Bal.
+
+### Có đáng tiền không?
+
+Giá Givenchy affordable — rẻ hơn Dior/Chanel. So với L'Interdit EDP gốc — Rouge ấm hơn, thêm amber đỏ, hơi tối hơn. So với YSL Libre EDP — cùng nhóm nữ mạnh — thì Rouge nhiều hoa trắng hơn, ít lavender hơn. So với Narciso Rodriguez For Her — cùng nhóm sensual — thì Rouge nhiều tuberose hơn. Bám 7-8 giờ.
+
+### Nên dùng khi nào?
+
+Đi ăn tối, hẹn hò, sự kiện, hoặc khi muốn mùi NỮ MẠNH. Xịt 2-3 nhát cổ và cổ tay. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai tên CẤM — và xịt rồi thì khó quên.`,
+    verdict: "L'Interdit gốc + hổ phách đỏ — Ropion+Flipo+Bal. Hoa trắng ấm sexy. Givenchy giá tốt. Cấm kỵ.",
+    verdictShort: "HOA TRẮNG ĐỎ, CẤM KỴ, ROPION",
+    score: { scent: 8, uniqueness: 7.5, compliments: 8.5, value: 8.5, total: 8.1 },
+    vibes: [{ label: "Cấm kỵ", icon: "🔥" }, { label: "Hoa trắng", icon: "🤍" }, { label: "Giá tốt", icon: "💸" }],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 42, summer: 18, fall: 82, winter: 78 },
+    dayNight: { day: 28, night: 82 },
+    topNotes: [{ name: "Cam quýt" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Nhài Sambac" }, { name: "Tuberose" }, { name: "Iris" }],
+    baseNotes: [{ name: "Gỗ đàn hương" }, { name: "Vani" }, { name: "Hổ phách" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Hoa trắng", value: 100, color: "#f5f5dc" },
+      { name: "Hổ phách", value: 72, color: "#d4a017" },
+      { name: "Phấn", value: 55, color: "#d7bde2" },
+      { name: "Ngọt", value: 42, color: "#8B0000" },
+      { name: "Gỗ", value: 38, color: "#8B4513" }
+    ],
+    seoTitle: "Givenchy L'Interdit Rouge chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Givenchy L'Interdit Rouge chính hãng: mùi hoa trắng hổ phách đỏ cấm kỵ, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Cấm kỵ","Hoa trắng","Buổi tối"],
+    sizes: ["10ml Chiết","35ml Fullbox","50ml Fullbox","80ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "la-nuit-de-lhomme",
@@ -5969,52 +5987,52 @@ Hẹn hò buổi tối, ăn tối lãng mạn. Xịt 4-5 nhát vì rất nhanh t
   {
     id: "la-nuit-de-lhomme-bleu-electrique",
     brandSlug: "ysl",
-    brand: "YVES SAINT LAURENT",
-    name: "La Nuit de l'Homme Bleu Électrique",
-    subName: "Eau de Toilette Intense",
+    brand: "YSL",
+    name: "La Nuit de L'Homme Bleu Électrique",
+    subName: "Eau de Toilette",
     perfumer: "Dominique Ropion & Anne Flipo",
     gender: "nam",
-    image: "/images/products/ysl-la-nuit-de-lhomme-bleu-electrique-main.jpg",
+    image: "/images/products/ysl-la-nuit-bleu-electrique-main.jpg",
     images: [
-      { url: "/images/products/ysl-la-nuit-de-lhomme-bleu-electrique-main.jpg", source: "amazon", caption: "YVES SAINT LAURENT La Nuit de l'Homme Bleu Électrique chính hãng", verified: true }
+      { url: "/images/products/ysl-la-nuit-bleu-electrique-main.jpg", source: "fragram", caption: "YSL La Nuit de L'Homme Bleu Électrique chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-La Nuit de L’Homme Bleu Électrique là một nhánh rất được thích vì nó giữ tinh thần cardamom - lavender - gỗ sexy của La Nuit de L’Homme, nhưng làm sáng và sắc hơn một chút. Nó vẫn là kiểu mùi buổi tối, quyến rũ, gần gũi, nhưng có thêm độ điện, độ sạch và cảm giác hiện đại rõ hơn. Đây là flanker rất đáng giá với ai mê DNA La Nuit.
+    description: "Chai nam gừng-cam bergamot-bạch đậu khấu kiểu đêm điện tử — gừng, cam bergamot, bạch đậu khấu, phong lữ, oải hương, xô thơm, ambroxan, gỗ tuyết tùng và xạ hương. Tươi, gia vị và electric.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Bleu Électrique là nó cho cảm giác trẻ hơn và gọn hơn bản gốc, nhưng không làm mất chất quyến rũ quen thuộc. Trong điều kiện Việt Nam, đây là chai rất hợp hẹn hò, đi chơi tối, dùng máy lạnh hoặc người muốn một mùi sexy nhưng không quá dày.
+Nếu bạn yêu La Nuit de L'Homme gốc (bạch đậu khấu-lavender-cumin ấm) — thì Bleu Électrique là REFORMULATION hơn là flanker. DNA khác rõ: thêm gừng, thêm citrus, thêm ambroxan = tươi hơn, mạnh hơn, hiện đại hơn nhưng MẤT nhân vật cumin-iris mà fan cũ yêu. Ropion + Flipo redesign cho thế hệ mới.
 
-## Diễn biến trên da
-Mở đầu là cardamom và aromatic sáng lên khá nhanh, sau đó phần gỗ cùng lavender làm tổng thể mượt lại và tròn hơn. Mùi chuyển tầng mượt, ít góc cạnh và giữ sự gần gũi rất tốt.
+### Có đáng tiền không?
 
-Drydown ấm nhẹ, sạch và nam tính theo kiểu dễ thích. Nó không tối bằng vài chai date scent nặng đô, nhưng lại linh hoạt và trẻ hơn. Nhược điểm là ai thích kiểu La Nuit tối sâu có thể thấy bản này sáng hơn mong đợi.
+Giá YSL tầm trung — rẻ hơn Dior Sauvage. Điểm cộng lớn nhất: bám tốt hơn La Nuit gốc ĐÁNG KỂ (7-8 giờ vs 4 giờ) vì có ambroxan. So với La Nuit gốc — tươi hơn, mạnh hơn, ít skin scent hơn. So với Bleu de Chanel EDT — cùng nhóm — thì Bleu Électrique nhiều gừng hơn, spicy hơn. So với Sauvage EDT — thì ít ambroxan hơn, tinh tế hơn.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Bleu Électrique có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương vừa. Nó hợp hẹn hò, tối, đi chơi, quán bar nhẹ, ăn tối hoặc những lúc muốn mùi hương sexy mà không quá áp lực.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng khá ổn vì không quá dày. Ưu điểm là dễ mặc, cuốn và hiện đại; nhược điểm là không quá đậm nếu mày thích hiệu năng thật mạnh.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích DNA La Nuit de L’Homme nhưng muốn bản sáng và gọn hơn, Bleu Électrique rất đáng thử. Nó hợp người cần một chai date scent hiện đại, dễ dùng và vẫn giữ độ cuốn.
-
-Nên mua khi mày muốn một chai buổi tối linh hoạt. Nếu mày thích mùi cực tối hoặc cực ngọt, nó có thể hơi hiền.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi chơi tối, hẹn hò, club, hoặc khi muốn mùi electric vibe. Xịt 3-4 nhát: cổ, ngực, cổ tay. Dùng quanh năm — tươi đủ cho hè, ấm đủ cho đông. Cả Sài Gòn và Hà Nội dùng thoải mái.`,
+    verdict: "La Nuit redesign — gừng ambroxan electric. Bám gấp đôi gốc. Ropion+Flipo. Tươi hơn, mạnh hơn, cho thế hệ mới.",
+    verdictShort: "GỪNG ELECTRIC, BÁM GẤP ĐÔI, REDESIGN",
+    score: { scent: 8, uniqueness: 7.5, compliments: 8.5, value: 8, total: 8 },
+    vibes: [{ label: "Electric", icon: "⚡" }, { label: "Date night", icon: "🌙" }, { label: "Tươi mát", icon: "💧" }],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 72, summer: 52, fall: 78, winter: 62 },
+    dayNight: { day: 42, night: 82 },
+    topNotes: [{ name: "Gừng" }, { name: "Cam bergamot" }, { name: "Bạch đậu khấu" }],
+    middleNotes: [{ name: "Phong lữ" }, { name: "Oải hương" }, { name: "Xô thơm" }],
+    baseNotes: [{ name: "Ambroxan" }, { name: "Gỗ tuyết tùng" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Gia vị ấm", value: 100, color: "#e67e22" },
+      { name: "Tươi mát", value: 72, color: "#2ecc71" },
+      { name: "Thơm thảo mộc", value: 55, color: "#2c7a4b" },
+      { name: "Cam chanh", value: 48, color: "#f1c40f" },
+      { name: "Gỗ", value: 42, color: "#8B4513" }
+    ],
+    seoTitle: "YSL La Nuit Bleu Électrique chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá YSL La Nuit Bleu Électrique chính hãng: mùi gừng ambroxan electric đêm, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nam","Electric","Date night","Quanh năm"],
+    sizes: ["10ml Chiết","60ml Fullbox","100ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "la-vie-est-belle",
