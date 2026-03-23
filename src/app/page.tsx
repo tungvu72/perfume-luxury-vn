@@ -51,17 +51,6 @@ const CATEGORY_LABELS: Record<string, string> = {
   "Brand Story": "Thương hiệu",
 };
 
-const POPULAR_TAGS = [
-  { label: "Floral", href: "/theo-not-huong" },
-  { label: "Woody", href: "/theo-not-huong" },
-  { label: "Summer", href: "/bang-xep-hang" },
-  { label: "EDP", href: "/bang-xep-hang" },
-  { label: "Niche", href: "/bang-xep-hang" },
-  { label: "Office", href: "/bang-xep-hang" },
-  { label: "Date Night", href: "/bang-xep-hang" },
-  { label: "Fresh", href: "/theo-not-huong" },
-];
-
 export default async function Home() {
   const [allProducts, allPosts] = await Promise.all([
     getAllProducts(),
@@ -71,15 +60,10 @@ export default async function Home() {
   const featuredPost = allPosts[0];
   const latestPosts = allPosts.slice(1, 7);
 
-  // Sản phẩm mới nhất cho sidebar
-  const latestProducts = [...allProducts]
+  // Top sản phẩm điểm cao nhất
+  const topProducts = [...allProducts]
     .sort((a, b) => b.score.total - a.score.total)
-    .slice(0, 5);
-
-  // Trending perfumes for mobile
-  const trendingProducts = [...allProducts]
-    .sort((a, b) => b.score.total - a.score.total)
-    .slice(0, 4);
+    .slice(0, 8);
 
   const websiteJsonLd = {
     "@context": "https://schema.org",
@@ -154,178 +138,41 @@ export default async function Home() {
         </section>
       )}
 
-      {/* ═══════ 75/25 LAYOUT: Article Feed + Sidebar ═══════ */}
-      <section className="mx-auto max-w-[1200px] px-4 py-6 md:py-10">
-        <div className="grid grid-cols-1 gap-8 lg:grid-cols-[1fr_320px]">
-
-          {/* ── LEFT: Article Feed (75%) ── */}
+      {/* ═══════ TOP NƯỚC HOA ═══════ */}
+      <section className="mx-auto max-w-[1200px] px-4 py-8 md:py-12">
+        <div className="flex items-center justify-between mb-6">
           <div>
-            <h2 className="mb-5 text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-text-muted)]">
-              Bài viết mới nhất
+            <h2 className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-text-muted)]">
+              ⭐ Nước hoa điểm cao nhất
             </h2>
-            <div className="space-y-4">
-              {latestPosts.map((post: any) => (
-                <Link
-                  key={post.urlSlug}
-                  href={`/${post.urlSlug}`}
-                  className="group flex gap-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-3 transition-all hover:shadow-[var(--shadow-md)] hover:-translate-y-0.5 sm:gap-5 sm:p-4"
-                >
-                  {/* Article thumbnail */}
-                  <div className="relative h-[100px] w-[150px] flex-shrink-0 overflow-hidden rounded-lg bg-[var(--color-bg-muted)] sm:h-[120px] sm:w-[180px]">
-                    <Image
-                      src={post.mainImage || PLACEHOLDER}
-                      alt={post.title}
-                      fill
-                      sizes="180px"
-                      className="object-cover transition-transform duration-500 group-hover:scale-105"
-                      unoptimized={!post.mainImage || post.mainImage.startsWith("http")}
-                    />
-                    {/* Teal border accent */}
-                    <div className="absolute bottom-0 left-0 h-1 w-full bg-[var(--color-primary)]" />
-                  </div>
-
-                  {/* Article info */}
-                  <div className="flex min-w-0 flex-1 flex-col justify-center">
-                    {post.category && (
-                      <span className="mb-1.5 inline-flex w-fit rounded-full border border-[var(--color-primary)] bg-[var(--color-primary-subtle)] px-2.5 py-0.5 text-[10px] font-bold text-[var(--color-primary)]">
-                        {CATEGORY_LABELS[post.category] || post.category}
-                      </span>
-                    )}
-                    <h3 className="text-base font-semibold leading-snug text-[var(--color-text)] transition-colors group-hover:text-[var(--color-primary)] sm:text-lg line-clamp-2">
-                      {post.title}
-                    </h3>
-                    <p className="mt-1 hidden text-sm leading-relaxed text-[var(--color-text-muted)] sm:line-clamp-2">
-                      {post.excerpt}
-                    </p>
-                    <div className="mt-2 flex items-center gap-3 text-xs text-[var(--color-text-muted)]">
-                      <span className="font-medium">{post.author || "Maison de SON"}</span>
-                      {post.readTime && (
-                        <>
-                          <span className="text-[var(--color-border)]">•</span>
-                          <span>{post.readTime}</span>
-                        </>
-                      )}
-                    </div>
-                  </div>
-                </Link>
-              ))}
-            </div>
-
-            {/* View all articles CTA */}
-            <div className="mt-6 text-center">
-              <Link
-                href="/kien-thuc"
-                className="inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] bg-[var(--color-surface)] px-6 py-3 text-sm font-bold text-[var(--color-text-secondary)] transition-all hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]"
-              >
-                Xem tất cả bài viết →
-              </Link>
-            </div>
+            <p className="mt-1 text-sm text-[var(--color-text-muted)] hidden sm:block">
+              Top sản phẩm được đánh giá cao bởi Maison de SON
+            </p>
           </div>
-
-          {/* ── RIGHT: Sidebar (25%) ── */}
-          <aside className="space-y-5">
-            {/* Sản phẩm mới nhất */}
-            <div className="rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-5">
-              <h3 className="mb-4 text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)]">
-                Sản phẩm mới nhất
-              </h3>
-              <div className="space-y-3">
-                {latestProducts.map((product) => (
-                  <Link
-                    key={product.id}
-                    href={getProductUrl(product)}
-                    className="group flex items-center gap-3"
-                  >
-                    <div className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-lg bg-[var(--color-bg-muted)]">
-                      <Image
-                        src={product.image}
-                        alt={product.name}
-                        fill
-                        sizes="48px"
-                        className="object-contain p-1 transition-transform group-hover:scale-110"
-                      />
-                    </div>
-                    <div className="min-w-0 flex-1">
-                      <div className="text-[10px] font-bold uppercase tracking-wider text-[var(--color-primary)]">
-                        {product.brand}
-                      </div>
-                      <div className="truncate text-sm font-semibold text-[var(--color-text)] transition-colors group-hover:text-[var(--color-primary)]">
-                        {product.name}
-                      </div>
-                      <div className="text-xs text-[var(--color-text-muted)]">
-                        ★ {product.score.total}/10
-                      </div>
-                    </div>
-                  </Link>
-                ))}
-              </div>
-              <Link
-                href="/bang-xep-hang"
-                className="mt-4 block border-t border-[var(--color-border-subtle)] pt-3 text-center text-[11px] font-bold text-[var(--color-primary)] hover:underline"
-              >
-                Xem bảng xếp hạng →
-              </Link>
-            </div>
-
-            {/* Popular Tags */}
-            <div className="rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-5">
-              <h3 className="mb-3 text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)]">
-                Popular Tags
-              </h3>
-              <div className="flex flex-wrap gap-2">
-                {POPULAR_TAGS.map((tag) => (
-                  <Link
-                    key={tag.label}
-                    href={tag.href}
-                    className="rounded-full border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-3 py-1.5 text-[11px] font-semibold text-[var(--color-text-secondary)] transition-colors hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]"
-                  >
-                    {tag.label}
-                  </Link>
-                ))}
-              </div>
-            </div>
-
-            {/* CTA Card */}
-            <div className="rounded-xl bg-gradient-to-br from-[var(--color-primary)] to-[var(--color-primary-hover)] p-5 text-white">
-              <h3 className="text-sm font-bold">Cần tư vấn chọn nước hoa?</h3>
-              <p className="mt-2 text-xs leading-relaxed opacity-85">
-                Kể gu mùi, ngân sách và hoàn cảnh dùng — Maison de SON sẽ gợi ý phù hợp.
-              </p>
-              <a
-                href="https://zalo.me/0961226169"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-4 block rounded-full bg-white px-4 py-2.5 text-center text-xs font-bold text-[var(--color-primary)] transition-all hover:bg-[var(--color-primary-light)]"
-              >
-                Nhắn Zalo ngay
-              </a>
-            </div>
-          </aside>
+          <Link
+            href="/bang-xep-hang"
+            className="text-[11px] font-bold text-[var(--color-primary)] hover:underline hidden sm:inline-flex items-center gap-1"
+          >
+            Xem bảng xếp hạng →
+          </Link>
         </div>
-      </section>
 
-      {/* ═══════ MOBILE: Trending Perfumes ═══════ */}
-      <section className="mx-auto max-w-[1200px] px-4 pb-6 lg:hidden">
-        <h2 className="mb-4 text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-text-muted)]">
-          Trending Perfumes
-        </h2>
-        <div className="flex gap-3 overflow-x-auto pb-2 no-scrollbar">
-          {trendingProducts.map((product) => (
+        {/* Mobile: horizontal scroll */}
+        <div className="flex gap-3 overflow-x-auto pb-2 no-scrollbar sm:hidden">
+          {topProducts.slice(0, 6).map((product) => (
             <Link
               key={product.id}
               href={getProductUrl(product)}
-              className="group flex-shrink-0 w-[160px] rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-3 transition-all hover:shadow-[var(--shadow-md)]"
+              className="group flex-shrink-0 w-[150px] rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-3 transition-all hover:shadow-[var(--shadow-md)]"
             >
               <div className="relative aspect-square overflow-hidden rounded-lg bg-[var(--color-bg-muted)]">
                 <Image
                   src={product.image}
                   alt={product.name}
                   fill
-                  sizes="160px"
+                  sizes="150px"
                   className="object-contain p-3 transition-transform group-hover:scale-105"
                 />
-                {/* Teal border accent */}
-                <div className="absolute bottom-0 left-0 h-1 w-full bg-[var(--color-primary)]" />
               </div>
               <div className="mt-2">
                 <div className="text-[9px] font-bold uppercase tracking-wider text-[var(--color-primary)]">
@@ -334,14 +181,161 @@ export default async function Home() {
                 <div className="mt-0.5 truncate text-xs font-semibold text-[var(--color-text)]">
                   {product.name}
                 </div>
-                <div className="mt-1 text-[10px] text-[var(--color-text-muted)]">
-                  ★ {product.score.total}/10
+                <div className="mt-1 flex items-center justify-between">
+                  <span className="text-sm font-serif font-bold text-[var(--color-primary)]">
+                    {product.score.total}/10
+                  </span>
+                  <span className="text-[10px] text-[var(--color-text-muted)]">
+                    {product.basePrice.toLocaleString()}đ
+                  </span>
                 </div>
               </div>
             </Link>
           ))}
         </div>
+
+        {/* Desktop: grid */}
+        <div className="hidden sm:grid sm:grid-cols-3 md:grid-cols-4 gap-4">
+          {topProducts.map((product) => (
+            <Link
+              key={product.id}
+              href={getProductUrl(product)}
+              className="group rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-4 transition-all hover:shadow-lg hover:-translate-y-1"
+            >
+              <div className="relative aspect-square overflow-hidden rounded-lg bg-[var(--color-bg-muted)]">
+                <Image
+                  src={product.image}
+                  alt={product.name}
+                  fill
+                  sizes="(max-width: 768px) 33vw, 25vw"
+                  className="object-contain p-4 transition-transform duration-500 group-hover:scale-110"
+                />
+              </div>
+              <div className="mt-3">
+                <div className="text-[10px] font-bold uppercase tracking-wider text-[var(--color-primary)]">
+                  {product.brand}
+                </div>
+                <div className="mt-1 text-sm font-semibold text-[var(--color-text)] transition-colors group-hover:text-[var(--color-primary)] line-clamp-1">
+                  {product.name}
+                </div>
+                <div className="mt-2 flex items-center justify-between">
+                  <span className="text-lg font-serif font-bold text-[var(--color-primary)]">
+                    {product.score.total}/10
+                  </span>
+                  <span className="text-xs text-[var(--color-text-muted)]">
+                    {product.basePrice.toLocaleString()}đ
+                  </span>
+                </div>
+              </div>
+            </Link>
+          ))}
+        </div>
+
+        {/* Mobile CTA */}
+        <div className="mt-4 text-center sm:hidden">
+          <Link
+            href="/bang-xep-hang"
+            className="inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-xs font-bold text-[var(--color-text-secondary)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-colors"
+          >
+            Xem bảng xếp hạng đầy đủ →
+          </Link>
+        </div>
       </section>
+
+      {/* ═══════ BÀI VIẾT MỚI NHẤT — 3-col grid ═══════ */}
+      <section className="mx-auto max-w-[1200px] px-4 pb-8 md:pb-12">
+        <div className="flex items-center justify-between mb-6">
+          <h2 className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-text-muted)]">
+            📚 Bài viết mới nhất
+          </h2>
+          <Link
+            href="/kien-thuc"
+            className="text-[11px] font-bold text-[var(--color-primary)] hover:underline hidden sm:inline-flex items-center gap-1"
+          >
+            Xem tất cả →
+          </Link>
+        </div>
+
+        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {latestPosts.map((post: any) => (
+            <Link
+              key={post.urlSlug}
+              href={`/${post.urlSlug}`}
+              className="group flex flex-col overflow-hidden rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] transition-all hover:shadow-lg hover:-translate-y-1"
+            >
+              <div className="relative aspect-[16/10] overflow-hidden bg-[var(--color-bg-muted)]">
+                <Image
+                  src={post.mainImage || PLACEHOLDER}
+                  alt={post.title}
+                  fill
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                  className="object-cover transition-transform duration-500 group-hover:scale-105"
+                  unoptimized={!post.mainImage || post.mainImage.startsWith("http")}
+                />
+              </div>
+              <div className="flex flex-1 flex-col p-4">
+                {post.category && (
+                  <span className="mb-2 inline-flex w-fit rounded-full border border-[var(--color-primary)] bg-[var(--color-primary-subtle)] px-2.5 py-0.5 text-[10px] font-bold text-[var(--color-primary)]">
+                    {CATEGORY_LABELS[post.category] || post.category}
+                  </span>
+                )}
+                <h3 className="line-clamp-2 text-base font-semibold leading-snug text-[var(--color-text)] transition-colors group-hover:text-[var(--color-primary)]">
+                  {post.title}
+                </h3>
+                <p className="mt-2 line-clamp-2 text-xs leading-relaxed text-[var(--color-text-muted)]">
+                  {post.excerpt}
+                </p>
+                <div className="mt-auto pt-3 flex items-center gap-2 text-[10px] text-[var(--color-text-muted)]">
+                  <span>{post.author || "Maison de SON"}</span>
+                  {post.readTime && (
+                    <>
+                      <span>•</span>
+                      <span>{post.readTime}</span>
+                    </>
+                  )}
+                </div>
+              </div>
+            </Link>
+          ))}
+        </div>
+
+        {/* Mobile CTA */}
+        <div className="mt-5 text-center sm:hidden">
+          <Link
+            href="/kien-thuc"
+            className="inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-xs font-bold text-[var(--color-text-secondary)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-colors"
+          >
+            Xem tất cả bài viết →
+          </Link>
+        </div>
+      </section>
+
+      {/* ═══════ CTA ZALO — Full Width Banner ═══════ */}
+      <section className="mx-auto max-w-[1200px] px-4 pb-10 md:pb-14">
+        <div className="relative overflow-hidden rounded-2xl bg-gradient-to-r from-[var(--color-primary)] to-[var(--color-primary-hover)] px-6 py-8 text-white sm:px-10 sm:py-10 md:px-14 md:py-12">
+          <div className="absolute top-0 right-0 w-64 h-64 bg-white/5 rounded-full -translate-y-1/2 translate-x-1/2" />
+          <div className="absolute bottom-0 left-0 w-40 h-40 bg-white/5 rounded-full translate-y-1/2 -translate-x-1/2" />
+          <div className="relative flex flex-col items-center text-center sm:flex-row sm:text-left sm:items-center sm:justify-between gap-6">
+            <div>
+              <h2 className="text-xl font-serif font-bold sm:text-2xl md:text-3xl">
+                Cần tư vấn chọn nước hoa?
+              </h2>
+              <p className="mt-2 text-sm leading-relaxed opacity-90 max-w-lg">
+                Kể gu mùi, ngân sách và hoàn cảnh dùng — Maison de SON sẽ gợi ý chai phù hợp nhất cho bạn.
+              </p>
+            </div>
+            <a
+              href="https://zalo.me/0961226169"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-shrink-0 rounded-full bg-white px-8 py-3.5 text-sm font-bold text-[var(--color-primary)] transition-all hover:bg-white/90 hover:shadow-lg active:scale-95"
+            >
+              💬 Nhắn Zalo ngay
+            </a>
+          </div>
+        </div>
+      </section>
+
 
       {/* ═══════ MOBILE BOTTOM NAV ═══════ */}
       <nav className="fixed bottom-0 left-0 z-50 flex w-full border-t border-[var(--color-border)] bg-white/95 py-1 backdrop-blur-sm md:hidden safe-area-pb shadow-[0_-4px_20px_rgba(0,0,0,0.05)]">
