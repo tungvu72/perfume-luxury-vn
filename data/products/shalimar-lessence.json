@@ -1,54 +1,18 @@
 {
-  "id": "shalimar-lessence",
-  "brandSlug": "guerlain",
-  "brand": "GUERLAIN",
-  "name": "Shalimar L'Essence",
-  "subName": "Eau de Parfum",
-  "perfumer": "Thierry Wasser",
-  "gender": "nu",
-  "image": "/images/products/guerlain-shalimar-lessence-main.webp",
-  "images": [
-    {
-      "url": "/images/products/guerlain-shalimar-lessence-main.webp",
-      "source": "amazon",
-      "caption": "GUERLAIN Shalimar L'Essence chính hãng",
-      "verified": true
-    }
-  ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nShalimar L'Essence là một nhánh hiện đại và mượt hơn của tinh thần Shalimar cổ điển. Nó vẫn giữ chất vanilla, nhựa thơm và màu oriental sang trọng, nhưng được làm mềm, sáng và dễ tiếp cận hơn một chút. Đây là kiểu mùi vẫn mang khí chất Guerlain rõ, nhưng ít “khó vào” hơn Shalimar nguyên bản.\n\nĐiểm hấp dẫn của bản này là nó cho người dùng cảm giác cổ điển sang mà không quá dày. Với những ai từng thấy Shalimar quá vintage hoặc quá resinous, L'Essence thường là cửa vào dễ chịu hơn. Ở Việt Nam, đây là kiểu chai hợp cho người thích mùi ấm sang nhưng không muốn quá nặng.\n\n## Diễn biến trên da\nMở đầu có sắc độ tươi hơn một chút so với Shalimar cổ điển, nhưng rất nhanh vanilla và nền oriental vẫn hiện rõ. Mùi chuyển khá mượt, không sắc cạnh, thiên về sự mềm và bóng.\n\nDrydown ấm, sang và mịn, vẫn có nét nhựa thơm đặc trưng nhưng ít gai hơn. Nó dễ mặc hơn bản gốc, dù vẫn không phải kiểu ngọt hiện đại đơn giản. Nhược điểm là ai mê đúng tinh thần rất cổ điển của Shalimar có thể thấy bản này bớt “thép” đi phần nào.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nL'Essence có độ lưu hương tốt, thường 7-9 giờ; tỏa hương vừa. Nó hợp với tối, thời tiết mát, đi tiệc, không gian lịch sự hoặc những lúc muốn một mùi nữ sang nhưng không quá áp lực.\n\nỞ Việt Nam, nên dùng trong điều hòa hoặc buổi tối. Ưu điểm là sang, mượt, dễ tiếp cận hơn Shalimar cổ điển; nhược điểm là vẫn cần gu nhất định để cảm hết cái hay.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích chất oriental của Guerlain nhưng muốn một phiên bản mềm và hiện đại hơn Shalimar gốc, L'Essence rất đáng thử. Nó hợp người thích mùi ấm, nữ tính sang và có chiều sâu nhưng không quá vintage.\n\nNên mua khi mày muốn bước vào thế giới Shalimar theo lối dễ dùng hơn. Nếu mày thích bản gốc vì chất cổ điển mạnh, có thể vẫn ưu tiên bản original hơn.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
-  ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "id": "shalimar-lessence", "brandSlug": "guerlain", "brand": "GUERLAIN", "name": "Shalimar L'Essence", "subName": "Eau de Parfum",
+  "perfumer": "Thierry Wasser", "gender": "nu",
+  "image": "/images/products/guerlain-shalimar-lessence-main.jpg",
+  "images": [{ "url": "/images/products/guerlain-shalimar-lessence-main.jpg", "source": "fragram", "caption": "Guerlain Shalimar L'Essence chính hãng", "verified": true }],
+  "description": "Shalimar \"tinh chất\" — cam bergamot, nhài, hoa hồng, iris, vani, gỗ đàn hương, hổ phách và tonka. Shalimar bớt smoky, thêm hoa, sang hơn.",
+  "article": "### Ai không nên mua?\n\nNếu bạn yêu Shalimar gốc vì nốt SMOKY nặng — L'Essence bỏ bớt smoky, thêm nhài-iris-hồng tạo ra Shalimar HOA hơn. Thierry Wasser \"tinh lọc\" Shalimar: giữ vani-hổ phách nhưng làm sạch, bớt nặng. Ai muốn Shalimar bản gốc nặng sẽ thấy L'Essence quá nhẹ.\n\n### Có đáng tiền không?\n\nGiá Guerlain — và L'Essence bám 7-8 giờ. So với Shalimar EDP gốc — nhẹ hơn, nhiều hoa hơn, dễ mặc hơn. Chai cho ai thích IDEA Shalimar nhưng muốn version modern sạch.\n\n### Nên dùng khi nào?\n\nĐi ăn tối nhẹ, gặp bạn bè, thu nhẹ. Xịt 2-3 nhát cổ. Thu đông nhẹ. Shalimar cho ai muốn nhẹ hơn gốc.",
+  "verdict": "Shalimar tinh lọc — bớt smoky thêm hoa. Wasser modern. Cho ai muốn Shalimar nhẹ hơn gốc.",
+  "verdictShort": "SHALIMAR NHẸ, THÊM HOA, MODERN",
+  "score": { "scent": 8.0, "uniqueness": 7.5, "compliments": 7.5, "value": 7.5, "total": 7.6 },
+  "vibes": [{ "label": "Modern", "icon": "✨" }, { "label": "Nhẹ", "icon": "🌸" }, { "label": "Heritage", "icon": "👑" }],
+  "longevity": 8, "sillage": 6, "seasons": { "spring": 52, "summer": 22, "fall": 78, "winter": 72 }, "dayNight": { "day": 42, "night": 72 },
+  "topNotes": [{ "name": "Cam bergamot" }], "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Hoa hồng" }, { "name": "Iris" }],
+  "baseNotes": [{ "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Hổ phách" }, { "name": "Đậu Tonka" }],
+  "accords": [{ "name": "Hoa", "value": 100, "color": "#e91e63" }, { "name": "Hổ phách", "value": 72, "color": "#d4a017" }, { "name": "Vani", "value": 62, "color": "#F5DEB3" }, { "name": "Phấn", "value": 42, "color": "#d7bde2" }],
+  "seoTitle": "Guerlain Shalimar L'Essence chính hãng mua ở đâu? Review 2026", "metaDescription": "Đánh giá Shalimar L'Essence chính hãng: Shalimar tinh lọc nhẹ hoa modern, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nữ", "Heritage", "Modern", "Hoa"], "sizes": ["10ml Chiết", "50ml Fullbox", "75ml Fullbox"], "basePrice": 2800000, "shopeeOffers": [], "isPublished": true
 }

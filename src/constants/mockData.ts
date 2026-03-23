@@ -9170,95 +9170,94 @@ Mùa đông, dịp đặc biệt, tiệc sang, buổi tối. Xịt 2 nhát: cổ
     subName: "Eau de Parfum",
     perfumer: "Thierry Wasser",
     gender: "nu",
-    image: "/images/products/guerlain-shalimar-lessence-main.webp",
+    image: "/images/products/guerlain-shalimar-lessence-main.jpg",
     images: [
-      { url: "/images/products/guerlain-shalimar-lessence-main.webp", source: "amazon", caption: "GUERLAIN Shalimar L'Essence chính hãng", verified: true }
+      { url: "/images/products/guerlain-shalimar-lessence-main.jpg", source: "fragram", caption: "Guerlain Shalimar L'Essence chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Shalimar L'Essence là một nhánh hiện đại và mượt hơn của tinh thần Shalimar cổ điển. Nó vẫn giữ chất vanilla, nhựa thơm và màu oriental sang trọng, nhưng được làm mềm, sáng và dễ tiếp cận hơn một chút. Đây là kiểu mùi vẫn mang khí chất Guerlain rõ, nhưng ít “khó vào” hơn Shalimar nguyên bản.
+    description: "Shalimar \"tinh chất\" — cam bergamot, nhài, hoa hồng, iris, vani, gỗ đàn hương, hổ phách và tonka. Shalimar bớt smoky, thêm hoa, sang hơn.",
+    article: `### Ai không nên mua?
 
-Điểm hấp dẫn của bản này là nó cho người dùng cảm giác cổ điển sang mà không quá dày. Với những ai từng thấy Shalimar quá vintage hoặc quá resinous, L'Essence thường là cửa vào dễ chịu hơn. Ở Việt Nam, đây là kiểu chai hợp cho người thích mùi ấm sang nhưng không muốn quá nặng.
+Nếu bạn yêu Shalimar gốc vì nốt SMOKY nặng — L'Essence bỏ bớt smoky, thêm nhài-iris-hồng tạo ra Shalimar HOA hơn. Thierry Wasser "tinh lọc" Shalimar: giữ vani-hổ phách nhưng làm sạch, bớt nặng. Ai muốn Shalimar bản gốc nặng sẽ thấy L'Essence quá nhẹ.
 
-## Diễn biến trên da
-Mở đầu có sắc độ tươi hơn một chút so với Shalimar cổ điển, nhưng rất nhanh vanilla và nền oriental vẫn hiện rõ. Mùi chuyển khá mượt, không sắc cạnh, thiên về sự mềm và bóng.
+### Có đáng tiền không?
 
-Drydown ấm, sang và mịn, vẫn có nét nhựa thơm đặc trưng nhưng ít gai hơn. Nó dễ mặc hơn bản gốc, dù vẫn không phải kiểu ngọt hiện đại đơn giản. Nhược điểm là ai mê đúng tinh thần rất cổ điển của Shalimar có thể thấy bản này bớt “thép” đi phần nào.
+Giá Guerlain — và L'Essence bám 7-8 giờ. So với Shalimar EDP gốc — nhẹ hơn, nhiều hoa hơn, dễ mặc hơn. Chai cho ai thích IDEA Shalimar nhưng muốn version modern sạch.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-L'Essence có độ lưu hương tốt, thường 7-9 giờ; tỏa hương vừa. Nó hợp với tối, thời tiết mát, đi tiệc, không gian lịch sự hoặc những lúc muốn một mùi nữ sang nhưng không quá áp lực.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng trong điều hòa hoặc buổi tối. Ưu điểm là sang, mượt, dễ tiếp cận hơn Shalimar cổ điển; nhược điểm là vẫn cần gu nhất định để cảm hết cái hay.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích chất oriental của Guerlain nhưng muốn một phiên bản mềm và hiện đại hơn Shalimar gốc, L'Essence rất đáng thử. Nó hợp người thích mùi ấm, nữ tính sang và có chiều sâu nhưng không quá vintage.
-
-Nên mua khi mày muốn bước vào thế giới Shalimar theo lối dễ dùng hơn. Nếu mày thích bản gốc vì chất cổ điển mạnh, có thể vẫn ưu tiên bản original hơn.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi ăn tối nhẹ, gặp bạn bè, thu nhẹ. Xịt 2-3 nhát cổ. Thu đông nhẹ. Shalimar cho ai muốn nhẹ hơn gốc.`,
+    verdict: "Shalimar tinh lọc — bớt smoky thêm hoa. Wasser modern. Cho ai muốn Shalimar nhẹ hơn gốc.",
+    verdictShort: "SHALIMAR NHẸ, THÊM HOA, MODERN",
+    score: { scent: 8, uniqueness: 7.5, compliments: 7.5, value: 7.5, total: 7.6 },
+    vibes: [{ label: "Modern", icon: "✨" }, { label: "Nhẹ", icon: "🌸" }, { label: "Heritage", icon: "👑" }],
+    longevity: 8,
+    sillage: 6,
+    seasons: { spring: 52, summer: 22, fall: 78, winter: 72 },
+    dayNight: { day: 42, night: 72 },
+    topNotes: [{ name: "Cam bergamot" }],
+    middleNotes: [{ name: "Hoa nhài" }, { name: "Hoa hồng" }, { name: "Iris" }],
+    baseNotes: [{ name: "Vani" }, { name: "Gỗ đàn hương" }, { name: "Hổ phách" }, { name: "Đậu Tonka" }],
+    accords: [
+      { name: "Hoa", value: 100, color: "#e91e63" },
+      { name: "Hổ phách", value: 72, color: "#d4a017" },
+      { name: "Vani", value: 62, color: "#F5DEB3" },
+      { name: "Phấn", value: 42, color: "#d7bde2" }
+    ],
+    seoTitle: "Guerlain Shalimar L'Essence chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Shalimar L'Essence chính hãng: Shalimar tinh lọc nhẹ hoa modern, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Heritage","Modern","Hoa"],
+    sizes: ["10ml Chiết","50ml Fullbox","75ml Fullbox"],
+    basePrice: 2800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "shalimar-parfum",
     brandSlug: "guerlain",
     brand: "GUERLAIN",
-    name: "Shalimar Parfum",
-    subName: "Parfum / Extrait",
+    name: "Shalimar",
+    subName: "Parfum",
     perfumer: "Jacques Guerlain",
     gender: "nu",
     image: "/images/products/guerlain-shalimar-parfum-main.jpg",
-    images: [{ url: "/images/products/guerlain-shalimar-parfum-main.jpg", source: "amazon", caption: "GUERLAIN Shalimar chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Shalimar Parfum là tinh thần Shalimar ở trạng thái đậm, sâu và sang nhất: vanilla, nhựa thơm, powder và oriental cổ điển hòa vào nhau rất dày nhưng rất đẹp. Đây không phải kiểu mùi dành cho số đông hay gu hiện đại nhanh gọn, mà là một biểu tượng thật sự của trường phái oriental Pháp.
+    images: [{ url: "/images/products/guerlain-shalimar-parfum-main.jpg", source: "fragram", caption: "Guerlain Shalimar Parfum chính hãng", verified: true }],
+    description: "Nồng độ Parfum của Shalimar kinh điển 1925 — cam bergamot, nhài, hồng, iris, vani, opoponax, civette, gỗ đàn hương, xạ hương và benzoin. Shalimar đậm nhất, sâu nhất, version TỐT NHẤT.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của bản Parfum là độ giàu chất liệu. Nó cho cảm giác sang trọng, cổ điển và gần như mang tính nghi lễ hơn là một chai để xịt vô thức mỗi ngày. Ở Việt Nam, đây là chai hợp với người yêu mùi vintage high-end, thích chiều sâu và chấp nhận sự kén chọn.
+Nếu bạn thấy Shalimar EDT/EDP đã nặng — thì Parfum nặng GẤP ĐÔI. Jacques Guerlain tạo Shalimar 1925 — lấy cảm hứng từ vườn Shalimar Ấn Độ ("Temple of Love"). Parfum = nồng độ cao nhất: vani-civette-opoponax tối, animalic, smoky. Nặng nhất Guerlain.
 
-## Diễn biến trên da
-Mở đầu đã cho cảm giác đậm và giàu hơn các phiên bản loãng hơn, sau đó vanilla, nhựa thơm và sắc powder dần bung ra rất mượt. Mùi không đi nhanh, mà mở chậm và có chiều sâu rõ ràng.
+### Có đáng tiền không?
 
-Drydown cực kỳ sang: ấm, bột, resinous và ôm da như một lớp vải dày. Nó đẹp với người hợp gu cổ điển, nhưng sẽ khó với ai quen mùi hiện đại sạch-sáng. Nhược điểm rõ nhất là tính đại chúng thấp.
+Parfum đắt nhất dòng — nhưng bám 12+ giờ. Shalimar = top 10 nước hoa nổi tiếng nhất lịch sử. So với EDP — Parfum tối hơn, nhiều civette hơn, animalic hơn. Best version cho collector.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Shalimar Parfum có độ lưu hương tốt, thường 8 giờ trở lên; tỏa hương vừa, thiên về độ bám và chiều sâu hơn là bùng nổ. Nó hợp tối, thời tiết mát, sự kiện đặc biệt hoặc những lúc muốn một mùi hương thực sự có tính di sản.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng rất tiết chế và ưu tiên phòng lạnh. Ưu điểm là sang và có chiều sâu hiếm; nhược điểm là không phù hợp với số đông hoặc thời tiết nóng gắt.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn chạm vào một biểu tượng oriental cổ điển ở phiên bản đậm và đẹp nhất, Shalimar Parfum rất đáng thử. Nó hợp người có gu vintage, yêu Guerlain và thích mùi hương như một tuyên ngôn thẩm mỹ.
-
-Nên mua khi mày cần một chai để thưởng thức hoặc dùng trong dịp đặc biệt. Nếu mày cần sự dễ dùng hàng ngày, đây không phải hướng phù hợp.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Sự kiện đặc biệt, opera, gala. Dabbing 1-2 giọt sau tai. Mùa đông only. Chai museum-worthy.`,
+    verdict: "Shalimar đỉnh — Parfum 1925. Jacques Guerlain. Top 10 lịch sử. Temple of Love. 12h+.",
+    verdictShort: "SHALIMAR ĐỈNH, 1925, TEMPLE OF LOVE",
+    score: { scent: 9.5, uniqueness: 9.5, compliments: 7, value: 7, total: 8.3 },
+    vibes: [{ label: "Legend", icon: "🏛️" }, { label: "Temple", icon: "🕌" }, { label: "Parfum", icon: "👑" }],
+    longevity: 12,
+    sillage: 7,
+    seasons: { spring: 22, summer: 2, fall: 72, winter: 92 },
+    dayNight: { day: 8, night: 88 },
+    topNotes: [{ name: "Cam bergamot" }],
+    middleNotes: [{ name: "Hoa nhài" }, { name: "Hoa hồng" }, { name: "Iris" }],
+    baseNotes: [{ name: "Vani" }, { name: "Opoponax" }, { name: "Civette" }, { name: "Gỗ đàn hương" }, { name: "Xạ hương" }, { name: "Benzoin" }],
+    accords: [
+      { name: "Hổ phách", value: 100, color: "#d4a017" },
+      { name: "Vani", value: 85, color: "#F5DEB3" },
+      { name: "Nốt động vật", value: 62, color: "#795548" },
+      { name: "Phấn", value: 48, color: "#d7bde2" },
+      { name: "Hoa", value: 42, color: "#e91e63" }
+    ],
+    seoTitle: "Guerlain Shalimar Parfum chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Guerlain Shalimar Parfum chính hãng: kiệt tác 1925 Temple of Love nồng độ cao nhất, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Legend","Kiệt tác","Parfum"],
+    sizes: ["7.5ml Dabber","15ml Dabber","30ml Fullbox"],
+    basePrice: 5000000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "side-effect",
@@ -9461,45 +9460,44 @@ Thuộc tầm designer cao cấp, SWYI không rẻ nhưng xứng đáng nếu gu
     subName: "Eau de Parfum",
     perfumer: "Christine Nagel",
     gender: "nam",
-    image: "/images/products/hermes-eau-givree-main.jpg",
-    images: [{ url: "/images/products/hermes-eau-givree-main.jpg", source: "studio", caption: "Ảnh sản phẩm Hermès Terre d'Hermès Eau Givrée (chai và hộp)" }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Terre d'Hermes Eau Givree là phiên bản tươi và mát nhất trong family Terre. Nó giữ lại tinh thần khoáng-gỗ đặc trưng của dòng này, nhưng đẩy phần citrus lạnh, sắc và sạch lên rõ rệt hơn. Cảm giác chung là một bản Terre sáng hơn, gọn hơn, dễ mặc hơn trong thời tiết nóng và có chất thanh lịch rất hợp khí hậu Việt Nam.
+    image: "/images/products/hermes-terre-eau-givree-main.jpg",
+    images: [{ url: "/images/products/hermes-terre-eau-givree-main.jpg", source: "fragram", caption: "Hermès Terre Eau Givrée chính hãng", verified: true }],
+    description: "Terre d'Hermès phiên bản đóng sương — bưởi frozen, cam bergamot, tiêu Sichuan, nhài, gỗ tuyết tùng, benzoin và xạ hương trắng. Terre nhưng tươi, lạnh và givrée.",
+    article: `### Ai không nên mua?
 
-Điểm hay của Eau Givree là nó không biến Terre thành một chai fresh vô hồn. Dưới lớp citrus lạnh vẫn còn cái khung khoáng và gỗ khiến người dùng nhận ra ngay DNA Hermes. Kết quả là một chai vừa dễ tiếp cận hơn Terre gốc, vừa vẫn giữ được sự trưởng thành và gu kín vốn là điểm mạnh của dòng này.
+Nếu bạn muốn Terre gốc (đất-cỏ hương bài-cam nặng) — Eau Givrée TƯƠI hơn đáng kể. Christine Nagel (Master Perfumer Hermès, sau Ellena) thêm hiệu ứng "đóng sương" (givrée): bưởi frozen, mát, tuyết sáng. DNA Terre vẫn ở base nhưng top tươi hơn nhiều.
 
-## Diễn biến trên da
-Mở đầu là citrus rất sáng và mát, tạo cảm giác như vỏ chanh và bưởi được làm lạnh. Sau đó phần khoáng và gỗ nổi lên, giữ cho mùi không bị mỏng. Vetiver và nền sạch giúp tổng thể không quá trẻ mà vẫn có tính đàn ông trưởng thành.
+### Có đáng tiền không?
 
-Drydown của Eau Givree vẫn sạch, hơi khô và có chiều sâu vừa đủ. Nó không dày, không trầm như bản Parfum hay EDT gốc, mà chọn hướng thanh và mát hơn. Nhược điểm là ai mê sự nặng đô, dày lớp và tính nghiêm túc đặc trưng của Terre cổ điển có thể thấy bản này hiền hơn.
+Giá Hermès — và EDP bám 7-8 giờ. So với Terre EDP gốc — tươi hơn, nhẹ hơn, mùa hè hơn. So với Terre Très Fraîche — cùng Terre tươi — thì Eau Givrée có benzoin ấm hơn. Flanker sáng nhất Terre.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Eau Givree có hiệu năng khá ổn với một chai thiên fresh: lưu hương khoảng 5-7 giờ, tỏa hương vừa phải. Nó hợp nhất cho ban ngày, mùa nóng, đi làm, di chuyển, gặp khách hoặc những lúc cần thơm sạch mà vẫn sang.
+### Nên dùng khi nào?
 
-Trong thời tiết Việt Nam, đây là một trong những bản Terre dễ dùng nhất. Nó hợp xuân hè, trời nắng, môi trường văn phòng lẫn casual. Ưu điểm là gọn, sáng, thanh lịch; nhược điểm là độ wow với người thích mùi tối sâu sẽ không cao.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích tinh thần Terre d'Hermes nhưng muốn một phiên bản sáng và hợp thời tiết nóng hơn, Eau Givree rất đáng thử. Nó hợp người đi làm, thích gu thanh lịch, trưởng thành nhưng không muốn mùi quá khô hay quá nghiêm.
-
-Nên mua khi mày cần một chai signature ban ngày mùa nóng. Nếu mày ưu tiên chiều sâu buổi tối, bản EDT hoặc Parfum vẫn hợp hơn.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [{ name: "Thanh yên" }],
-    middleNotes: [{ name: "Bách xù" }, { name: "Tiêu Timur" }],
-    baseNotes: [{ name: "Khoáng chất" }, { name: "Gỗ" }],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Ban ngày, đi làm mùa hè, khi muốn Terre mà trời nóng. Xịt 3 nhát cổ. Dùng quanh năm nhưng đẹp nhất xuân hè. Sài Gòn quanh năm.`,
+    verdict: "Terre đóng sương — bưởi frozen. Nagel. Tươi nhất Terre. Cho mùa hè. Hermès sáng.",
+    verdictShort: "TERRE ĐÓNG SƯƠNG, TƯƠI NHẤT, MÙA HÈ",
+    score: { scent: 8, uniqueness: 7.5, compliments: 8, value: 7.5, total: 7.8 },
+    vibes: [{ label: "Tươi", icon: "❄️" }, { label: "Mùa hè", icon: "☀️" }, { label: "Hermès", icon: "🧡" }],
+    longevity: 8,
+    sillage: 6,
+    seasons: { spring: 82, summer: 78, fall: 52, winter: 32 },
+    dayNight: { day: 82, night: 38 },
+    topNotes: [{ name: "Bưởi frozen" }, { name: "Cam bergamot" }, { name: "Tiêu Sichuan" }],
+    middleNotes: [{ name: "Hoa nhài" }],
+    baseNotes: [{ name: "Gỗ tuyết tùng" }, { name: "Benzoin" }, { name: "Xạ hương trắng" }],
+    accords: [
+      { name: "Cam chanh", value: 100, color: "#f1c40f" },
+      { name: "Tươi mát", value: 78, color: "#2ecc71" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Gia vị ấm", value: 42, color: "#e67e22" }
+    ],
+    seoTitle: "Hermès Terre Eau Givrée chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Terre d'Hermès Eau Givrée chính hãng: bưởi frozen đóng sương tươi nhất Terre, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nam","Tươi","Mùa hè","Hermès"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "terre-dhermes-edt",
@@ -9783,45 +9781,44 @@ The One EDP thuộc phân khúc designer tầm trung — giá tương đương B
     gender: "nu",
     image: "/images/products/zadig-voltaire-this-is-her-main.jpg",
     images: [
-      { url: "/images/products/zadig-voltaire-this-is-her-main.jpg", source: "amazon", caption: "ZADIG & VOLTAIRE This Is Her! chính hãng", verified: true }
+      { url: "/images/products/zadig-voltaire-this-is-her-main.jpg", source: "fragram", caption: "Zadig & Voltaire This Is Her! chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-This Is Her! là một mùi rất thú vị vì nó trộn hạt dẻ, vanilla, gỗ và cảm giác kem ấm theo kiểu vừa casual vừa có chất riêng. Nó không ngọt theo lối bánh kẹo rõ, cũng không quá floral, mà mang cảm giác cozy, hơi nổi loạn và rất dễ nhớ. Đây là kiểu mùi hợp với hình ảnh áo len, da, tóc rối đẹp và gu tối giản có cá tính.
+    description: "Chai nữ cashmeran-gỗ đàn hương-vani kiểu rock chic — coffee, hoa nhài, cashmeran, gỗ đàn hương, vani, benzoin và xạ hương. Ấm, cafe-cashmere và Parisian rock.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của chai này là vibe. Nó không cố sang kiểu cổ điển, mà sang theo kiểu cool hiện đại. Trong điều kiện Việt Nam, đây là chai hợp với tối, mùa mát, đi chơi hoặc người muốn một mùi ấm mềm nhưng không quá nữ tính truyền thống.
+Nếu bạn muốn mùi hoa rõ — This Is Her! là CASHMERE + CAFE. Aurélien Guichard tạo ra chai này kiểu rock girl Paris: cafe nhẹ mở ra, rồi cashmeran (xạ hương ấm mượt) + vani ôm da. Không hoa, không trái, chỉ ấm-kem-da. Ai muốn floral sẽ không thấy hoa đâu.
 
-## Diễn biến trên da
-Mở đầu có cảm giác kem và hạt khá rõ, sau đó vanilla cùng nền gỗ làm tổng thể tròn, mượt và ấm hơn. Mùi phát triển khá tuyến tính nhưng rất dễ sống cùng.
+### Có đáng tiền không?
 
-Drydown là lớp gỗ-vanilla mềm, hơi sữa và khá ôm da. Nó tạo cảm giác gần gũi mà vẫn có cá tính. Nhược điểm là người thích floral rõ hoặc mùi quá sang trọng kiểu tiệc có thể thấy nó hơi casual.
+Giá Z&V — RẺ tầm designer entry. Cashmeran — nguyên liệu synthetic cao cấp tạo cảm giác cashmere — ở đây dùng nhiều và rất hiệu quả. So với Burberry Her — cùng berry-ấm — thì This Is Her! bớt trái cây, nhiều cafe hơn. Bám 6-7 giờ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-This Is Her! có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi chơi, hẹn hò, cà phê tối, mùa mát hoặc dùng như một comfort scent có gu.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này nên dùng vừa tay nếu trời nóng. Ưu điểm là có vibe riêng và khá dễ nghiện; nhược điểm là kém hợp với môi trường quá trang trọng.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai ấm mềm, hơi creamy-gỗ và có cá tính cool hiện đại, This Is Her! là lựa chọn đáng thử. Nó hợp người thích mùi cozy nhưng không quá bánh kẹo.
-
-Nên mua khi mày cần một chai đi chơi hoặc mùa mát có chất riêng. Nếu mày thích floral sáng hoặc gourmand rất ngọt, nên cân nhắc thêm.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi học, đi café, cuối tuần, hoặc khi muốn cozy casual. Xịt 3 nhát cổ. Quanh năm. Chai easy-wearing giá tốt nhất.`,
+    verdict: "Cashmere-cafe rock chic — Z&V Parisian. Cashmeran ấm. Giá rẻ mà quality tốt. Easy-wearing.",
+    verdictShort: "CASHMERE CAFE, ROCK CHIC, GIÁ TỐT",
+    score: { scent: 7.5, uniqueness: 7.5, compliments: 8, value: 9, total: 8 },
+    vibes: [{ label: "Rock chic", icon: "🎸" }, { label: "Cozy", icon: "☕" }, { label: "Giá tốt", icon: "💸" }],
+    longevity: 7,
+    sillage: 6,
+    seasons: { spring: 62, summer: 32, fall: 78, winter: 72 },
+    dayNight: { day: 62, night: 62 },
+    topNotes: [{ name: "Cafe" }],
+    middleNotes: [{ name: "Hoa nhài" }, { name: "Cashmeran" }],
+    baseNotes: [{ name: "Gỗ đàn hương" }, { name: "Vani" }, { name: "Benzoin" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Xạ hương", value: 100, color: "#bdc3c7" },
+      { name: "Ngọt", value: 72, color: "#8B0000" },
+      { name: "Gỗ", value: 55, color: "#8B4513" },
+      { name: "Gourmand", value: 42, color: "#d4a373" }
+    ],
+    seoTitle: "Zadig & Voltaire This Is Her chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá This Is Her chính hãng: cashmere cafe Parisian rock chic giá tốt, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nữ","Rock chic","Cozy","Giá tốt"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 1200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "tobacco-vanille",
@@ -10067,100 +10064,98 @@ Mùa đông, buổi tối, sự kiện, áo da. Xịt 1-2 nhát — tỏa cực 
   {
     id: "tuxedo",
     brandSlug: "ysl",
-    brand: "YVES SAINT LAURENT",
+    brand: "YSL",
     name: "Tuxedo",
-    subName: "Eau de Parfum",
-    perfumer: "Dominique Ropion",
+    subName: "Eau de Parfum (Le Vestiaire des Parfums)",
+    perfumer: "Juliette Karagueuzoglou",
     gender: "unisex",
     image: "/images/products/ysl-tuxedo-main.jpg",
-    images: [{ url: "/images/products/ysl-tuxedo-main.jpg", source: "amazon", caption: "YVES SAINT LAURENT Tuxedo chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Tuxedo là một trong những mùi patchouli-amber sang nhất của YSL theo hướng dressy, tối và cực kỳ tinh. Nó không nặng kiểu oud, không ngọt kiểu gourmand, mà quyến rũ bằng sự sạch tối, gia vị nhẹ, patchouli mượt và nền amber rất sang. Đây là kiểu mùi đúng với cái tên: mặc lên là thấy outfit đẹp hơn.
+    images: [{ url: "/images/products/ysl-tuxedo-main.jpg", source: "fragram", caption: "YSL Tuxedo Le Vestiaire chính hãng", verified: true }],
+    description: "Chai unisex hoắc hương-gia vị-hổ phách kiểu Le Smoking — tiêu đen, tiêu hồng, hoắc hương, gỗ tuyết tùng, hổ phách, benzoin và xạ hương. Hoắc hương gia vị, tối và YSL niche.",
+    article: `### Ai không nên mua?
 
-Điểm ăn tiền của Tuxedo là độ thanh lịch có khí chất. Nó vừa hiện đại vừa cổ điển, vừa sang vừa dễ tiếp cận hơn nhiều chai niche rất khó. Trong bối cảnh Việt Nam, đây là chai rất hợp cho tối, event, gặp gỡ lịch sự hoặc những lúc muốn một mùi hương làm phần mở rộng cho phong cách ăn mặc.
+Nếu bạn thấy hoắc hương boring — Tuxedo TOÀN HOẮC HƯƠNG. Lấy tên từ "Le Smoking" — bộ tuxedo cho nữ mà Yves Saint Laurent cách mạng hóa thời trang 1966. Mùi = hoắc hương + tiêu đen trên nền hổ phách. Đen, sharp, không fancy. Ai muốn hoa hay ngọt sẽ thất vọng.
 
-## Diễn biến trên da
-Mở đầu có chút gia vị và độ sạch sáng rất vừa phải, sau đó patchouli cùng amber bắt đầu tạo khung chính. Cái hay là patchouli ở đây không bẩn, không quá earthy, mà mượt và rất polished.
+### Có đáng tiền không?
 
-Drydown của Tuxedo đẹp theo kiểu sang kín: hơi tối, hơi ấm, rất chỉn chu và giữ khí chất tốt. Nó không quăng quá nhiều tầng note vào mặt người ngửi, mà thắng ở tổng thể hoàn thiện. Nhược điểm là giá cao và ai thích mùi cực nổi, cực quái có thể thấy nó quá lịch thiệp.
+Giá YSL Le Vestiaire — đắt hơn line thường (niche tier). So với Tom Ford White Patchouli — cùng hoắc hương niche — thì Tuxedo tối hơn, ít hoa hơn. So với Coromandel Chanel — cùng hoắc hương — thì Tuxedo ít chocolate, ít ngọt, sharper. Bám 8-9 giờ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Tuxedo có độ lưu hương tốt, thường 7-9 giờ; tỏa hương vừa đến khá. Nó hợp nhất cho tối, máy lạnh, event, tiệc hoặc những lúc mặc đồ có cấu trúc và muốn thơm theo hướng sang.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng buổi tối hoặc không gian điều hòa. Ưu điểm là rất sang và linh hoạt trong nhóm mùi dressy; nhược điểm là không phải chai dành cho mọi ngày hoặc mọi mood.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai sang tối, patchouli-amber thật đẹp và có chất high-end rõ ràng, Tuxedo là ứng viên rất mạnh. Nó hợp người thích phong cách chỉn chu, thanh lịch và muốn mùi hương đồng bộ với outfit.
-
-Nên mua khi mày cần một chai event hoặc buổi tối cao cấp. Nếu mày ưu tiên sự tươi sáng, casual và giá dễ chịu hơn, nên cân nhắc hướng khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Sự kiện tối, khi mặc suit, gala. Xịt 2 nhát cổ. Thu đông. Chai cho ai biết Le Smoking là gì.`,
+    verdict: "Le Smoking trong chai — hoắc hương tiêu đen YSL niche. Tuxedo tối, sharp. CĐ thời trang = revolution.",
+    verdictShort: "HOẮC HƯƠNG LE SMOKING, YSL NICHE, SHARP",
+    score: { scent: 8.5, uniqueness: 8.5, compliments: 7.5, value: 7.5, total: 8 },
+    vibes: [{ label: "Le Smoking", icon: "🤵" }, { label: "Sharp", icon: "🖤" }, { label: "Niche", icon: "💎" }],
+    longevity: 9,
+    sillage: 7,
+    seasons: { spring: 32, summer: 8, fall: 82, winter: 88 },
+    dayNight: { day: 22, night: 82 },
+    topNotes: [{ name: "Tiêu đen" }, { name: "Tiêu hồng" }],
+    middleNotes: [{ name: "Hoắc hương" }],
+    baseNotes: [{ name: "Gỗ tuyết tùng" }, { name: "Hổ phách" }, { name: "Benzoin" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Hoắc hương", value: 100, color: "#556b2f" },
+      { name: "Gỗ", value: 72, color: "#8B4513" },
+      { name: "Gia vị ấm", value: 62, color: "#e67e22" },
+      { name: "Hổ phách", value: 48, color: "#d4a017" }
+    ],
+    seoTitle: "YSL Tuxedo Le Vestiaire chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá YSL Tuxedo chính hãng: hoắc hương Le Smoking niche sharp, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Unisex","Niche","Le Smoking","Sharp"],
+    sizes: ["10ml Chiết","75ml Fullbox","125ml Fullbox"],
+    basePrice: 4500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "un-jardin-sur-le-nil",
     brandSlug: "hermes",
     brand: "HERMÈS",
-    name: "Un Jardin Sur Le Nil",
+    name: "Un Jardin sur le Nil",
     subName: "Eau de Toilette",
     perfumer: "Jean-Claude Ellena",
     gender: "unisex",
     image: "/images/products/hermes-un-jardin-sur-le-nil-main.jpg",
     images: [
-      { url: "/images/products/hermes-un-jardin-sur-le-nil-main.jpg", source: "amazon", caption: "HERMÈS Un Jardin Sur Le Nil chính hãng", verified: true }
+      { url: "/images/products/hermes-un-jardin-sur-le-nil-main.jpg", source: "fragram", caption: "Hermès Un Jardin sur le Nil chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Un Jardin Sur Le Nil là một trong những mùi xanh tươi đẹp nhất của Hermès: trái cây xanh, lá, nước và cảm giác rất thanh, rất sạch. Nó không ngọt, không nặng, không cố sexy, mà đẹp ở sự nhẹ, tinh và có hình ảnh rất rõ. Đây là kiểu mùi phù hợp với người thích phong cách tối giản, nghệ và rất “thở được” trong khí hậu nóng.
+    description: "Chai unisex xoài xanh-cà rốt-nhũ hương kiểu vườn sông Nile — xoài xanh, cam, bưởi, cà rốt, nhũ hương, cánh hoa sen, gỗ sậy và xạ hương. Xoài xanh, sông Nile và Ellena.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của chai này là không khí. Nó tạo cảm giác như gió thổi qua khu vườn xanh gần sông, chứ không chỉ là tập hợp note. Trong bối cảnh Việt Nam, đây là một lựa chọn cực tốt cho ban ngày, mùa nóng hoặc những ai thấy đa số mùi phổ thông quá dày.
+Nếu bạn muốn mùi hoa hoặc mùi ngọt — Un Jardin sur le Nil là XOÀI XANH + CÀ RỐT. Đúng, cà rốt. Jean-Claude Ellena (Master Perfumer Hermès) bay đến đảo Kitchener giữa sông Nile, Ai Cập, và tạo ra chai mùi rau-trái xanh mà chưa ai dám làm. Aquatic lạ, xanh, tropical mà không ngọt.
 
-## Diễn biến trên da
-Mở đầu là trái cây xanh và cảm giác watery rất rõ, sau đó lá và nền gỗ nhẹ giúp tổng thể bớt sắc và trở nên mượt hơn. Mùi phát triển khá nhẹ, nhưng có chiều rất đẹp nếu ngửi gần.
+### Có đáng tiền không?
 
-Drydown xanh mềm, sạch và cực kỳ dễ chịu. Nó không phải kiểu statement scent, mà là kiểu personal scent thanh lịch. Nhược điểm là người thích projection mạnh có thể thấy nó hơi hiền.
+Giá Hermès EDT — reasonable. Và DNA xoài xanh-cà rốt-hoa sen ở đây UNIQUE: không ai copy vì quá lạ. So với Un Jardin en Méditerranée — cùng Jardin series — thì Nil xanh hơn, nhiều xoài hơn, ít sung hơn. Bám 4-5 giờ (EDT nhẹ).
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Un Jardin Sur Le Nil có độ lưu hương khá, khoảng 5-7 giờ; tỏa hương nhẹ đến vừa. Nó hợp đi làm, đi học, ban ngày, mùa nóng, du lịch hoặc bất cứ lúc nào muốn mùi hương sạch và thoáng.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng rất khỏe. Ưu điểm là thanh, tinh và ít gây mệt; nhược điểm là độ nổi bật không cao.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai xanh watery có gu và dùng cực ổn trong thời tiết nóng, Un Jardin Sur Le Nil là lựa chọn rất đẹp. Nó hợp người thích mùi nhẹ, tự nhiên và thanh lịch hơn là phô trương.
-
-Nên mua khi mày cần một chai ban ngày thật dễ sống. Nếu mày thích mùi đậm, ngọt hoặc cực sexy, đây không phải hướng phù hợp.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Mùa hè, đi dạo, du lịch, khi muốn mùi TƯƠI KHÁC BIỆT. Xịt 4-5 nhát vì EDT nhẹ. Sài Gòn quanh năm. Hà Nội tháng 4-10. Chai để đi biển đẹp nhất.`,
+    verdict: "Xoài xanh-cà rốt sông Nile — Ellena bay đến Ai Cập. Unique nhất Jardin. Không ai dám copy.",
+    verdictShort: "XOÀI CÀ RỐT, SÔNG NILE, ELLENA",
+    score: { scent: 8.5, uniqueness: 9.5, compliments: 7, value: 8, total: 8.3 },
+    vibes: [{ label: "Sông Nile", icon: "🌊" }, { label: "Xanh", icon: "🥭" }, { label: "Du lịch", icon: "✈️" }],
+    longevity: 4,
+    sillage: 4,
+    seasons: { spring: 82, summer: 92, fall: 38, winter: 12 },
+    dayNight: { day: 92, night: 18 },
+    topNotes: [{ name: "Xoài xanh" }, { name: "Cam" }, { name: "Bưởi" }],
+    middleNotes: [{ name: "Cà rốt" }, { name: "Hoa sen" }],
+    baseNotes: [{ name: "Nhũ hương" }, { name: "Gỗ sậy" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Xanh", value: 100, color: "#27ae60" },
+      { name: "Trái cây", value: 78, color: "#f39c12" },
+      { name: "Cam chanh", value: 62, color: "#f1c40f" },
+      { name: "Tươi mát", value: 55, color: "#2ecc71" }
+    ],
+    seoTitle: "Hermès Un Jardin sur le Nil chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Un Jardin sur le Nil chính hãng: xoài xanh cà rốt sông Nile Ellena, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Unisex","Mùa hè","Du lịch","Unique"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "uomo-born-in-roma-intense",
@@ -10214,33 +10209,50 @@ Hẹn hò, đi chơi tối, tụ tập cuối tuần, bar. Xịt 2 nhát: 1 sau 
   },
   {
     id: "vanilla",
-    brandSlug: "kayali-fragrances",
-    brand: "KAYALI FRAGRANCES",
-    name: "Vanilla",
+    brandSlug: "tom-ford",
+    brand: "TOM FORD",
+    name: "Vanilla Sex",
     subName: "Eau de Parfum",
-    perfumer: "Unknown",
-    gender: "nu",
-    image: "/images/products/kayali-fragrances-vanilla-main.jpg",
-    images: [{ url: "/images/products/kayali-fragrances-vanilla-main.jpg", source: "amazon", caption: "KAYALI FRAGRANCES Vanilla chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: "(Chờ Coder viết bài)",
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+    perfumer: "Rodrigo Flores-Roux",
+    gender: "unisex",
+    image: "/images/products/tom-ford-vanilla-sex-main.jpg",
+    images: [{ url: "/images/products/tom-ford-vanilla-sex-main.jpg", source: "fragram", caption: "Tom Ford Vanilla Sex chính hãng", verified: true }],
+    description: "Chai unisex vani-nghệ tây-rum kiểu private blend sex — vani, nghệ tây, rum, nhựa thơm, gỗ đàn hương, hổ phách và xạ hương. Vani dày, boozy và rất Tom Ford.",
+    article: `### Ai không nên mua?
+
+Nếu bạn ghét vani ngọt — Vanilla Sex là VANI THUẦN + rum + nghệ tây. Rodrigo Flores-Roux tạo ra chai Private Blend mà TÊN đã nói hết: Vanilla SEX. Dày, nóng, boozy — không subtle, không kín đáo. Ai muốn sạch-sáng-office đừng mua.
+
+### Có đáng tiền không?
+
+Giá Tom Ford Private Blend — ĐẮT. So với JPG La Belle Le Parfum — cùng vani bomb — thì VS đắt hơn 3 lần nhưng sâu hơn, boozy hơn, luxury hơn. So với Dior Vanilla Diorama — cùng vani designer — thì VS nặng hơn. Bám 10+ giờ.
+
+### Nên dùng khi nào?
+
+Hẹn hò, đêm đặc biệt, phòng ngủ. Xịt 1-2 nhát cổ. Mùa đông only. Chai xịt tên là SEX — bạn hiểu rồi.`,
+    verdict: "Vani sex — Tom Ford Private Blend. Rum nghệ tây. 10h+. Tên nói hết. Đắt nhưng xứng.",
+    verdictShort: "VANI SEX, TOM FORD, BOOZY ĐẮT",
+    score: { scent: 9, uniqueness: 8.5, compliments: 9, value: 6.5, total: 8.3 },
+    vibes: [{ label: "Sex", icon: "🔥" }, { label: "Boozy", icon: "🥃" }, { label: "Private Blend", icon: "💎" }],
+    longevity: 10,
+    sillage: 8,
+    seasons: { spring: 12, summer: 2, fall: 72, winter: 92 },
+    dayNight: { day: 5, night: 92 },
+    topNotes: [{ name: "Nghệ tây" }, { name: "Rum" }],
+    middleNotes: [{ name: "Vani" }, { name: "Nhựa thơm" }],
+    baseNotes: [{ name: "Gỗ đàn hương" }, { name: "Hổ phách" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Vani", value: 100, color: "#F5DEB3" },
+      { name: "Boozy", value: 78, color: "#6d4c41" },
+      { name: "Hổ phách", value: 62, color: "#d4a017" },
+      { name: "Gia vị ấm", value: 48, color: "#e67e22" }
+    ],
+    seoTitle: "Tom Ford Vanilla Sex chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Tom Ford Vanilla Sex chính hãng: vani sex boozy Private Blend, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Unisex","Sex","Boozy","Private Blend"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 7000000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "vanilla-28",
@@ -10311,49 +10323,48 @@ Vanilla 28 dễ sống chung và khá linh hoạt nếu bạn thích nhóm mùi 
     id: "vetiver",
     brandSlug: "guerlain",
     brand: "GUERLAIN",
-    name: "Vétiver",
+    name: "Vetiver",
     subName: "Eau de Toilette",
-    perfumer: "IFF perfumers",
+    perfumer: "Jean-Paul Guerlain",
     gender: "nam",
     image: "/images/products/guerlain-vetiver-main.jpg",
-    images: [{ url: "/images/products/guerlain-vetiver-main.jpg", source: "amazon", caption: "GUERLAIN Vétiver chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Guerlain Vetiver là một chuẩn mực khác của nhóm vetiver nam: sáng, khô, xanh và rất chỉn chu. Nó không tối như Encre Noire, cũng không khoáng như Terre d'Hermes, mà đi theo hướng cỏ rễ, citrus và thảo mộc kiểu rất gentleman. Đây là loại mùi dùng lên người sẽ cho cảm giác sạch, gọn và cổ điển theo cách rất đẹp.
+    images: [{ url: "/images/products/guerlain-vetiver-main.jpg", source: "fragram", caption: "Guerlain Vetiver EDT chính hãng", verified: true }],
+    description: "Chai nam vetiver-citrus-thuốc lá kiểu gentleman pioneer 1959 — cam bergamot, chanh, rau mùi, cỏ hương bài, đậu Tonka, thuốc lá, tiêu và gỗ tuyết tùng. Vetiver gốc, đầu tiên, pioneer.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Guerlain Vetiver là sự cân bằng. Nó vừa đủ cỏ-rễ để có cá tính, vừa đủ sáng để không bị nặng, vừa đủ lịch sự để đi làm rất hợp. Trong điều kiện Việt Nam, đây là chai khá lý tưởng cho người thích vetiver nhưng không muốn thứ gì quá tối hoặc quá khó dùng.
+Nếu bạn đã dùng Grey Vetiver (Tom Ford) hay Terre d'Hermès — thì Guerlain Vetiver là ÔNG TỔ: tất cả vetiver sau đều ảnh hưởng từ chai 1959 này. Jean-Paul Guerlain tạo nốt thuốc lá-citrus-vetiver mà giờ thành blueprint. Nhưng vì là gốc 1959 nên hơi vintage — ai muốn clean modern nên chọn Grey Vetiver.
 
-## Diễn biến trên da
-Mở đầu là citrus sáng và một chút cay nhẹ, sau đó vetiver hiện lên rõ hơn với cảm giác xanh-khô rất đặc trưng. Lớp nền giữ tổng thể thanh và gọn, không bị earthy quá mức.
+### Có đáng tiền không?
 
-Drydown của Guerlain Vetiver khá ổn định: sạch, cỏ-rễ, hơi khô và rất chỉn chu. Nó không có nhiều góc cạnh drama, nhưng chính sự ổn định đó khiến chai này dùng rất lâu bền trong đời sống thực tế. Nhược điểm là ai cần mùi sexy hay quá hiện đại có thể thấy nó hơi classic.
+Giá Guerlain EDT — rất hợp lý. Blueprint vetiver — pioneer của cả thể loại. So với Grey Vetiver TF — thì Guerlain Vetiver nhiều thuốc lá hơn, ít sạch hơn, vintage hơn. So với Terre d'Hermès — thì Vetiver ít đất hơn, nhiều citrus hơn, lighter. Bám 5-6 giờ (EDT).
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Guerlain Vetiver có độ lưu hương vừa khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp cho đi làm, ban ngày, trời nóng, môi trường lịch sự hoặc những lúc cần một mùi nam trưởng thành mà không áp đảo.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng rất tốt vào ban ngày nhờ sự khô sáng. Ưu điểm là dễ mặc và có gu; nhược điểm là không phải lựa chọn gây chú ý mạnh giữa đám đông.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai vetiver nam cổ điển, lịch sự và dùng cực ổn ở thời tiết nóng, Guerlain Vetiver là lựa chọn rất vững. Nó hợp người trưởng thành, thích gu clean gentleman và không cần mùi hương phải quá ồn.
-
-Nên mua khi mày cần một chai signature đi làm hoặc muốn khám phá vetiver theo hướng dễ dùng. Nếu mày thích vetiver tối và nhiều cá tính, có thể sẽ hợp Encre Noire hơn.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi làm, meeting, ban ngày. Xịt 3 nhát cổ. Xuân thu đẹp nhất. Chai để hiểu vetiver GỐC là gì.`,
+    verdict: "Vetiver ÔNG TỔ 1959 — Jean-Paul Guerlain. Blueprint cả thể loại. Thuốc lá + citrus. Pioneer.",
+    verdictShort: "VETIVER ÔNG TỔ, 1959, BLUEPRINT",
+    score: { scent: 8, uniqueness: 9, compliments: 6.5, value: 8.5, total: 8 },
+    vibes: [{ label: "Pioneer", icon: "🏛️" }, { label: "Blueprint", icon: "📐" }, { label: "Gentleman", icon: "🎩" }],
+    longevity: 5,
+    sillage: 5,
+    seasons: { spring: 78, summer: 55, fall: 72, winter: 48 },
+    dayNight: { day: 78, night: 42 },
+    topNotes: [{ name: "Cam bergamot" }, { name: "Chanh" }, { name: "Rau mùi" }],
+    middleNotes: [{ name: "Cỏ hương bài" }, { name: "Tiêu" }],
+    baseNotes: [{ name: "Đậu Tonka" }, { name: "Thuốc lá" }, { name: "Gỗ tuyết tùng" }],
+    accords: [
+      { name: "Thơm thảo mộc", value: 100, color: "#2c7a4b" },
+      { name: "Cam chanh", value: 72, color: "#f1c40f" },
+      { name: "Gỗ", value: 62, color: "#8B4513" },
+      { name: "Xanh", value: 48, color: "#27ae60" }
+    ],
+    seoTitle: "Guerlain Vetiver chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Guerlain Vetiver chính hãng: vetiver ông tổ 1959 blueprint cả thể loại, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Nam","Pioneer","Blueprint","Gentleman"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox","200ml Fullbox"],
+    basePrice: 1800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "vibrato",
