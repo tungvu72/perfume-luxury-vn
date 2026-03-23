@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useState, useEffect, useRef, useCallback } from "react";
-import { Search, Menu, X, TrendingUp, Sparkles, ArrowRight, Loader2 } from "lucide-react";
+import { Search, Menu, X, TrendingUp, Sparkles, ArrowRight, Loader2, ChevronRight, ChevronDown } from "lucide-react";
 import Image from "next/image";
 import { searchProducts } from "@/sanity/lib/fetchers";
 import type { Perfume } from "@/types";
@@ -110,12 +110,41 @@ const Header = () => {
 
     const menuItems = [
         { name: "Bảng xếp hạng", href: "/bang-xep-hang" },
-        { name: "Theo nhu cầu", href: "/theo-nhu-cau" },
-        { name: "Theo nốt hương", href: "/theo-not-huong" },
-        { name: "So sánh", href: "/so-sanh" },
+        { name: "Nam", href: "/nam-gioi" },
+        { name: "Nữ", href: "/nu-gioi" },
         { name: "Kiến thức", href: "/kien-thuc" },
-        { name: "Về chúng tôi", href: "/gioi-thieu" },
     ];
+
+    const [isBrandOpen, setIsBrandOpen] = useState(false);
+    const brandRef = useRef<HTMLDivElement>(null);
+
+    // Close brand dropdown on click outside
+    useEffect(() => {
+        const handleClick = (e: MouseEvent) => {
+            if (brandRef.current && !brandRef.current.contains(e.target as Node)) {
+                setIsBrandOpen(false);
+            }
+        };
+        document.addEventListener('mousedown', handleClick);
+        return () => document.removeEventListener('mousedown', handleClick);
+    }, []);
+
+    const TOP_BRANDS = [
+        { name: 'Dior', slug: 'dior' },
+        { name: 'Chanel', slug: 'chanel' },
+        { name: 'YSL', slug: 'ysl' },
+        { name: 'Tom Ford', slug: 'tom-ford' },
+        { name: 'Creed', slug: 'creed' },
+        { name: 'Armani', slug: 'armani' },
+        { name: 'Hermès', slug: 'hermes' },
+        { name: 'MFK', slug: 'maison-francis-kurkdjian' },
+        { name: 'Versace', slug: 'versace' },
+        { name: 'Prada', slug: 'prada' },
+        { name: 'Guerlain', slug: 'guerlain' },
+        { name: 'Nishane', slug: 'nishane' },
+    ];
+
+    const [isMobileBrandOpen, setIsMobileBrandOpen] = useState(false);
 
     return (
         <>
@@ -134,16 +163,63 @@ const Header = () => {
                         </Link>
 
                         {/* DESKTOP NAV */}
-                        <nav className="hidden md:flex gap-7 text-xs font-semibold tracking-wider uppercase">
-                            {menuItems.map((item) => (
-                                <Link
-                                    key={item.name}
-                                    href={item.href}
-                                    className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full"
+                        <nav className="hidden md:flex items-center gap-7 text-xs font-semibold tracking-wider uppercase">
+                            <Link href="/bang-xep-hang" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
+                                Bảng xếp hạng
+                            </Link>
+
+                            {/* THƯƠNG HIỆU MEGA DROPDOWN */}
+                            <div ref={brandRef} className="relative">
+                                <button
+                                    onMouseEnter={() => setIsBrandOpen(true)}
+                                    onClick={() => setIsBrandOpen(!isBrandOpen)}
+                                    className={`relative flex items-center gap-1 py-1 transition-colors ${isBrandOpen ? 'text-primary' : 'hover:text-primary'} after:content-[''] after:absolute after:bottom-0 after:left-0 after:h-[1px] after:bg-primary after:transition-all ${isBrandOpen ? 'after:w-full' : 'after:w-0 hover:after:w-full'}`}
                                 >
-                                    {item.name}
-                                </Link>
-                            ))}
+                                    Thương hiệu
+                                    <ChevronDown size={12} className={`transition-transform ${isBrandOpen ? 'rotate-180' : ''}`} />
+                                </button>
+
+                                {/* Mega Dropdown */}
+                                {isBrandOpen && (
+                                    <div
+                                        className="absolute top-full left-1/2 -translate-x-1/2 mt-3 w-[420px] bg-white rounded-2xl border border-[var(--border)] shadow-2xl p-6 animate-in fade-in slide-in-from-top-2 duration-200 z-[100]"
+                                        onMouseLeave={() => setIsBrandOpen(false)}
+                                    >
+                                        <p className="text-[10px] font-bold text-gray-400 uppercase tracking-[0.2em] mb-4">Thương hiệu nổi bật</p>
+                                        <div className="grid grid-cols-3 gap-2">
+                                            {TOP_BRANDS.map(brand => (
+                                                <Link
+                                                    key={brand.slug}
+                                                    href={`/thuong-hieu/${brand.slug}`}
+                                                    onClick={() => setIsBrandOpen(false)}
+                                                    className="flex items-center gap-2 px-3 py-2.5 rounded-xl text-[11px] font-semibold normal-case tracking-normal text-gray-700 hover:bg-primary/5 hover:text-primary transition-all"
+                                                >
+                                                    {brand.name}
+                                                </Link>
+                                            ))}
+                                        </div>
+                                        <div className="mt-4 pt-3 border-t border-gray-100">
+                                            <Link
+                                                href="/thuong-hieu"
+                                                onClick={() => setIsBrandOpen(false)}
+                                                className="flex items-center justify-center gap-1.5 text-[11px] font-bold text-primary normal-case tracking-normal hover:underline"
+                                            >
+                                                Xem tất cả 30+ thương hiệu <ArrowRight size={12} />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                )}
+                            </div>
+
+                            <Link href="/nam-gioi" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
+                                Nam
+                            </Link>
+                            <Link href="/nu-gioi" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
+                                Nữ
+                            </Link>
+                            <Link href="/kien-thuc" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
+                                Kiến thức
+                            </Link>
                         </nav>
 
                         {/* Placeholder for alignment on desktop (nav takes center) */}
@@ -315,11 +391,11 @@ const Header = () => {
             {isMenuOpen && (
                 <div className="fixed inset-0 z-[200] md:hidden">
                     <div className="absolute inset-0 bg-black/30 backdrop-blur-sm" onClick={() => setIsMenuOpen(false)} />
-                    <div className="absolute top-0 left-0 w-[300px] h-full bg-white p-8 flex flex-col shadow-2xl">
-                        <button className="self-end mb-8" onClick={() => setIsMenuOpen(false)} aria-label="Đóng menu">
+                    <div className="absolute top-0 left-0 w-[300px] h-full bg-white p-8 flex flex-col shadow-2xl overflow-y-auto">
+                        <button className="self-end mb-6" onClick={() => setIsMenuOpen(false)} aria-label="Đóng menu">
                             <X size={24} />
                         </button>
-                        <Link href="/" className="font-serif text-xl font-bold tracking-[3px] uppercase mb-8" onClick={() => setIsMenuOpen(false)}>
+                        <Link href="/" className="font-serif text-xl font-bold tracking-[3px] uppercase mb-6" onClick={() => setIsMenuOpen(false)}>
                             MAISON DE SON
                         </Link>
 
@@ -334,21 +410,66 @@ const Header = () => {
                             />
                         </div>
 
-                        <nav className="flex flex-col gap-5">
-                            {menuItems.map((item) => (
-                                <Link
-                                    key={item.name}
-                                    href={item.href}
-                                    onClick={() => setIsMenuOpen(false)}
-                                    className="text-sm font-semibold uppercase tracking-wider hover:text-primary transition-colors"
-                                >
-                                    {item.name}
-                                </Link>
-                            ))}
+                        <nav className="flex flex-col gap-1">
+                            {/* Core nav */}
+                            <Link href="/bang-xep-hang" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-3 rounded-xl text-sm font-semibold uppercase tracking-wider hover:bg-primary/5 hover:text-primary transition-colors">
+                                📊 Bảng xếp hạng
+                            </Link>
+
+                            {/* Thương hiệu collapsible */}
+                            <button
+                                onClick={() => setIsMobileBrandOpen(!isMobileBrandOpen)}
+                                className="flex items-center justify-between px-3 py-3 rounded-xl text-sm font-semibold uppercase tracking-wider hover:bg-primary/5 hover:text-primary transition-colors w-full text-left"
+                            >
+                                <span>🏷️ Thương hiệu</span>
+                                <ChevronRight size={14} className={`text-gray-400 transition-transform ${isMobileBrandOpen ? 'rotate-90' : ''}`} />
+                            </button>
+                            {isMobileBrandOpen && (
+                                <div className="ml-4 pl-3 border-l-2 border-primary/20 flex flex-col gap-0.5 mb-2">
+                                    {TOP_BRANDS.slice(0, 8).map(brand => (
+                                        <Link
+                                            key={brand.slug}
+                                            href={`/thuong-hieu/${brand.slug}`}
+                                            onClick={() => setIsMenuOpen(false)}
+                                            className="px-3 py-2 rounded-lg text-xs font-medium text-gray-600 hover:bg-primary/5 hover:text-primary transition-colors"
+                                        >
+                                            {brand.name}
+                                        </Link>
+                                    ))}
+                                    <Link
+                                        href="/thuong-hieu"
+                                        onClick={() => setIsMenuOpen(false)}
+                                        className="px-3 py-2 text-[11px] font-bold text-primary hover:underline"
+                                    >
+                                        Xem tất cả →
+                                    </Link>
+                                </div>
+                            )}
+
+                            {/* Gender shortcuts */}
+                            <div className="my-2 border-t border-gray-100" />
+                            <p className="px-3 text-[10px] font-bold text-gray-400 uppercase tracking-[0.2em] mb-1">Theo giới tính</p>
+                            <Link href="/nam-gioi" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-semibold hover:bg-primary/5 hover:text-primary transition-colors">
+                                🤵 Nước hoa Nam
+                            </Link>
+                            <Link href="/nu-gioi" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-semibold hover:bg-primary/5 hover:text-primary transition-colors">
+                                💃 Nước hoa Nữ
+                            </Link>
+                            <Link href="/unisex" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-semibold hover:bg-primary/5 hover:text-primary transition-colors">
+                                ✨ Nước hoa Unisex
+                            </Link>
+
+                            <div className="my-2 border-t border-gray-100" />
+                            <Link href="/kien-thuc" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-3 rounded-xl text-sm font-semibold uppercase tracking-wider hover:bg-primary/5 hover:text-primary transition-colors">
+                                📚 Kiến thức
+                            </Link>
                         </nav>
 
-                        {/* Mobile Zalo CTA */}
-                        <div className="mt-auto pt-8 border-t border-gray-100">
+                        {/* Mobile bottom links */}
+                        <div className="mt-auto pt-6 border-t border-gray-100 space-y-3">
+                            <Link href="/gioi-thieu" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 text-sm text-gray-500 hover:text-primary transition-colors">
+                                Về chúng tôi
+                            </Link>
                             <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-sm text-gray-500 hover:text-primary transition-colors">
                                 <span className="text-lg">💬</span>
                                 Tư vấn qua Zalo
