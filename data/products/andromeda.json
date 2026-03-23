@@ -6,10 +6,10 @@
   "subName": "Extrait de Parfum",
   "perfumer": "Paolo Terenzi",
   "gender": "unisex",
-  "image": "/images/products/tiziana-terenzi-andromeda-main.jpg",
+  "image": "/images/products/nishane-hacivat-main.jpg",
   "images": [
     {
-      "url": "/images/products/tiziana-terenzi-andromeda-main.jpg",
+      "url": "/images/products/nishane-hacivat-main.jpg",
       "source": "fragram",
       "caption": "Tiziana Terenzi Andromeda Extrait de Parfum chính hãng",
       "verified": true
@@ -19,30 +19,135 @@
   "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt-kem-dừa thì Andromeda sẽ quá ngọt — đường, dừa, vani, đào trộn lẫn tạo một lớp kem không thể thoát. Ai thích mùi sạch, mùi gỗ khô hay mùi citrus cũng sẽ thấy Andromeda nặng. Và vì extrait nồng độ cao, chỉ cần xịt nhiều 1 nhát là ngộp cả ngày. Chai này kén — nhưng ai đã thích thì sẽ NGHIỆN.\n\n### Có đáng tiền không?\n\nTiziana Terenzi thuộc niche Ý — đắt hơn MFK, ngang Xerjoff. Andromeda đặc biệt ở sự kết hợp giữa hoa tươi (nhài, lily) với gourmand (đào, vani, dừa) mà không bên nào lấn bên nào — thứ cân bằng rất khó đạt. So với Nishane Hundred Silent Ways — cùng nhóm hoa-kem niche — thì Andromeda nhiều dừa hơn và celestial hơn. So với Xerjoff Dama Bianca — cùng nhóm niche nữ sang — thì Andromeda ấm hơn, ít iris hơn. Extrait nên bám 10-12 giờ.\n\n### Nên dùng khi nào?\n\nNhững dịp đặc biệt: sự kiện, sinh nhật, hoặc khi muốn cảm giác mình là nhân vật chính. Xịt 1-2 nhát SAU CỔ — vì extrait rất mạnh. Đẹp nhất trời mát — Hà Nội thu đông. Ở Sài Gòn thì tối phòng điều hòa. Chai để ngửi cho mình thưởng thức hơn là để người khác khen.",
   "verdict": "Hoa-đào-vani-dừa celestial — niche Ý cân bằng hoàn hảo. Extrait 12h. Kén nhưng ai thích thì nghiện.",
   "verdictShort": "HOA ĐÀO VANI DỪA, CELESTIAL, NICHE Ý",
-  "score": { "scent": 9.5, "uniqueness": 9.2, "compliments": 8.5, "value": 7.5, "total": 8.7 },
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 9.2,
+    "compliments": 8.5,
+    "value": 7.5,
+    "total": 8.7
+  },
   "vibes": [
-    { "label": "Celestial", "icon": "🌌" },
-    { "label": "Creamy", "icon": "🍦" },
-    { "label": "Niche", "icon": "💎" }
+    {
+      "label": "Celestial",
+      "icon": "🌌"
+    },
+    {
+      "label": "Creamy",
+      "icon": "🍦"
+    },
+    {
+      "label": "Niche",
+      "icon": "💎"
+    }
   ],
   "longevity": 10,
   "sillage": 8,
-  "seasons": { "spring": 55, "summer": 18, "fall": 82, "winter": 78 },
-  "dayNight": { "day": 42, "night": 78 },
-  "topNotes": [{ "name": "Ngọc lan tây" }, { "name": "Nhài nước" }, { "name": "Cam bergamot" }, { "name": "Cỏ" }],
-  "middleNotes": [{ "name": "Đào" }, { "name": "Hoa lê" }, { "name": "Lily" }, { "name": "Hướng dương trắng" }, { "name": "Lá violet" }, { "name": "Hoa hồng Damask" }],
-  "baseNotes": [{ "name": "Gỗ cashmere" }, { "name": "Hổ phách" }, { "name": "Mun" }, { "name": "Đậu Tonka" }, { "name": "Vani" }, { "name": "Đường" }, { "name": "Dừa" }],
+  "seasons": {
+    "spring": 55,
+    "summer": 18,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 42,
+    "night": 78
+  },
+  "topNotes": [
+    {
+      "name": "Ngọc lan tây"
+    },
+    {
+      "name": "Nhài nước"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Cỏ"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Đào"
+    },
+    {
+      "name": "Hoa lê"
+    },
+    {
+      "name": "Lily"
+    },
+    {
+      "name": "Hướng dương trắng"
+    },
+    {
+      "name": "Lá violet"
+    },
+    {
+      "name": "Hoa hồng Damask"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ cashmere"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Mun"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Đường"
+    },
+    {
+      "name": "Dừa"
+    }
+  ],
   "accords": [
-    { "name": "Trái cây", "value": 100, "color": "#f39c12" },
-    { "name": "Hoa", "value": 82, "color": "#e91e63" },
-    { "name": "Ngọt", "value": 72, "color": "#8B0000" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Kem", "value": 48, "color": "#faebd7" }
+    {
+      "name": "Trái cây",
+      "value": 100,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Hoa",
+      "value": 82,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Ngọt",
+      "value": 72,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Kem",
+      "value": 48,
+      "color": "#faebd7"
+    }
   ],
   "seoTitle": "Tiziana Terenzi Andromeda chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Tiziana Terenzi Andromeda chính hãng: mùi hoa đào vani dừa celestial niche Ý, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026.",
-  "tags": ["Unisex", "Niche", "Celestial", "Creamy"],
-  "sizes": ["10ml Chiết", "100ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Celestial",
+    "Creamy"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "100ml Fullbox"
+  ],
   "basePrice": 5800000,
   "shopeeOffers": [],
   "isPublished": true

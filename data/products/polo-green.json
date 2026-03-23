@@ -6,10 +6,10 @@
   "subName": "Eau de Toilette",
   "perfumer": "Carlos Benaïm",
   "gender": "nam",
-  "image": "/images/products/ralph-lauren-polo-green-main.jpg",
+  "image": "/images/products/creed-green-irish-tweed-main.jpg",
   "images": [
     {
-      "url": "/images/products/ralph-lauren-polo-green-main.jpg",
+      "url": "/images/products/creed-green-irish-tweed-main.jpg",
       "source": "fragram",
       "caption": "Ralph Lauren Polo Green Eau de Toilette chính hãng",
       "verified": true
@@ -19,30 +19,149 @@
   "article": "### Ai không nên mua?\n\nNếu bạn dưới 30 và chỉ biết Sauvage, Eros — thì Polo Green sẽ như đi ngược thời gian 45 năm. Chai này NẶNG kiểu cũ: lá thông, da, rêu sồi, thuốc lá — không có gì synthetic, không có gì crowd-pleasing. Nhiều người trẻ sẽ nói \"mùi ông nội\" và... cũng không sai. Nếu bạn chưa sẵn sàng cho chypre cổ điển, đừng thử.\n\n### Có đáng tiền không?\n\nGiá Ralph Lauren thuộc nhóm rẻ nhất — và với chai ra đời năm 1978, đã đoạt FiFi Award 1979, thì giá này là steal. Polo Green là chai define \"masculine American\" — trước khi có Sauvage, có Eros, thế hệ trước dùng Polo Green. So với Dior Fahrenheit — cùng dòng huyền thoại 80s — thì Polo Green xanh hơn, nhiều thông hơn và ít da-xăng hơn. So với bất kỳ chai hiện đại nào — không có gì giống. Bám 6-7 giờ, tỏa vừa.\n\n### Nên dùng khi nào?\n\nDịp casual outdoor: đi dã ngoại, picnic, cưỡi ngựa (nếu có), hoặc khi muốn cảm giác \"American country gentleman\". Xịt 3 nhát: cổ, ngực, cổ tay. Dùng thu đông hoặc ngày mát. Ở Hà Nội dùng quanh năm trừ hè. Ở Sài Gòn thì tránh ban ngày nóng. Chai này không trendy — nhưng giá trị không bao giờ lỗi mốt.",
   "verdict": "Lá thông-da-rêu sồi huyền thoại 1978 — American masculine OG. FiFi Award. Giá rẻ mà class cao.",
   "verdictShort": "LÁ THÔNG DA, 1978, AMERICAN OG",
-  "score": { "scent": 8.5, "uniqueness": 9.5, "compliments": 6.5, "value": 9.5, "total": 8.5 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 9.5,
+    "compliments": 6.5,
+    "value": 9.5,
+    "total": 8.5
+  },
   "vibes": [
-    { "label": "Huyền thoại", "icon": "👑" },
-    { "label": "Cổ điển", "icon": "🌲" },
-    { "label": "American", "icon": "🇺🇸" }
+    {
+      "label": "Huyền thoại",
+      "icon": "👑"
+    },
+    {
+      "label": "Cổ điển",
+      "icon": "🌲"
+    },
+    {
+      "label": "American",
+      "icon": "🇺🇸"
+    }
   ],
   "longevity": 7,
   "sillage": 6,
-  "seasons": { "spring": 62, "summer": 18, "fall": 82, "winter": 72 },
-  "dayNight": { "day": 62, "night": 52 },
-  "topNotes": [{ "name": "Bách xù" }, { "name": "Húng quế" }, { "name": "Thiên ngải" }, { "name": "Carum" }, { "name": "Rau mùi" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Lá thông" }, { "name": "Da thuộc" }, { "name": "Hoa cúc" }, { "name": "Tiêu" }, { "name": "Hoa cẩm chướng" }, { "name": "Phong lữ" }, { "name": "Hoa nhài" }, { "name": "Hoa hồng" }],
-  "baseNotes": [{ "name": "Thuốc lá" }, { "name": "Rêu sồi" }, { "name": "Hoắc hương" }, { "name": "Gỗ tuyết tùng" }, { "name": "Cỏ hương bài" }, { "name": "Xạ hương" }, { "name": "Hổ phách" }],
+  "seasons": {
+    "spring": 62,
+    "summer": 18,
+    "fall": 82,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 62,
+    "night": 52
+  },
+  "topNotes": [
+    {
+      "name": "Bách xù"
+    },
+    {
+      "name": "Húng quế"
+    },
+    {
+      "name": "Thiên ngải"
+    },
+    {
+      "name": "Carum"
+    },
+    {
+      "name": "Rau mùi"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Lá thông"
+    },
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Hoa cúc"
+    },
+    {
+      "name": "Tiêu"
+    },
+    {
+      "name": "Hoa cẩm chướng"
+    },
+    {
+      "name": "Phong lữ"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Thuốc lá"
+    },
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Xanh", "value": 100, "color": "#27ae60" },
-    { "name": "Thơm thảo mộc", "value": 82, "color": "#2c7a4b" },
-    { "name": "Da thuộc", "value": 65, "color": "#795548" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Thuốc lá", "value": 42, "color": "#5d4037" }
+    {
+      "name": "Xanh",
+      "value": 100,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 82,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 65,
+      "color": "#795548"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Thuốc lá",
+      "value": 42,
+      "color": "#5d4037"
+    }
   ],
   "seoTitle": "Ralph Lauren Polo Green chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Ralph Lauren Polo Green chính hãng: mùi lá thông da rêu sồi huyền thoại 1978, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026.",
-  "tags": ["Nam", "Huyền thoại", "Cổ điển", "American"],
-  "sizes": ["10ml Chiết", "59ml Fullbox", "118ml Fullbox", "237ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Huyền thoại",
+    "Cổ điển",
+    "American"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "59ml Fullbox",
+    "118ml Fullbox",
+    "237ml Fullbox"
+  ],
   "basePrice": 1500000,
   "shopeeOffers": [],
   "isPublished": true

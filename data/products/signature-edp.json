@@ -1,24 +1,121 @@
 {
-  "id": "signature-edp", "brandSlug": "montblanc", "brand": "MONTBLANC", "name": "Signature", "subName": "Eau de Parfum",
-  "perfumer": "Antoine Maisondieu", "gender": "nu",
-  "image": "/images/products/montblanc-signature-edp-main.jpg",
-  "images": [{ "url": "/images/products/montblanc-signature-edp-main.jpg", "source": "fragram", "caption": "Montblanc Signature EDP chính hãng", "verified": true }],
+  "id": "signature-edp",
+  "brandSlug": "montblanc",
+  "brand": "MONTBLANC",
+  "name": "Signature",
+  "subName": "Eau de Parfum",
+  "perfumer": "Antoine Maisondieu",
+  "gender": "nu",
+  "image": "/images/products/chloe-signature-edp-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/chloe-signature-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Montblanc Signature EDP chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ mẫu đơn-hồng-xạ hương kiểu chữ ký thanh lịch — mẫu đơn, cam, hoa hồng, vani, hoắc hương, xạ hương trắng và gỗ tuyết tùng. Nhẹ nhàng, thanh và rất office.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi cá tính mạnh — Signature quá HIỀN. Antoine Maisondieu (Hermes H24, Prada Luna Rossa Carbon) tạo chai này kiểu \"chữ ký nhẹ\": mẫu đơn-hồng-xạ hương mỏng, sạch, không gây phiền ai. Montblanc = thương hiệu bút — và mùi cũng vậy: tinh tế, thanh, professional.\n\n### Có đáng tiền không?\n\nGiá Montblanc — RẺ NHẤT nhóm designer nữ EDP. So với Versace Bright Crystal — cùng tier rẻ — thì Signature nhiều hoa hơn, ít tươi hơn. So với Chanel Chance — thì rẻ hơn 2-3 lần mà chất lượng OK. Bám 5-6 giờ.\n\n### Nên dùng khi nào?\n\nĐi làm, đi học, meeting, mọi lúc cần mùi AN TOÀN. Xịt 3-4 nhát cổ. Quanh năm. Chai first perfume lý tưởng.",
   "verdict": "Chữ ký nhẹ — Montblanc rẻ nhất. Maisondieu professional. Hoa-xạ hương an toàn. First perfume.",
   "verdictShort": "CHỮ KÝ NHẸ, RẺ NHẤT, AN TOÀN",
-  "score": { "scent": 7.0, "uniqueness": 6.0, "compliments": 7.5, "value": 9.5, "total": 7.5 },
-  "vibes": [{ "label": "An toàn", "icon": "✅" }, { "label": "Giá rẻ", "icon": "💸" }, { "label": "Office", "icon": "💼" }],
-  "longevity": 5, "sillage": 4,
-  "seasons": { "spring": 78, "summer": 62, "fall": 62, "winter": 48 },
-  "dayNight": { "day": 82, "night": 38 },
-  "topNotes": [{ "name": "Hoa mẫu đơn" }, { "name": "Cam" }],
-  "middleNotes": [{ "name": "Hoa hồng" }, { "name": "Vani" }],
-  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Xạ hương trắng" }, { "name": "Gỗ tuyết tùng" }],
-  "accords": [{ "name": "Hoa", "value": 100, "color": "#e91e63" }, { "name": "Xạ hương", "value": 62, "color": "#bdc3c7" }, { "name": "Tươi mát", "value": 48, "color": "#2ecc71" }, { "name": "Gỗ", "value": 38, "color": "#8B4513" }],
+  "score": {
+    "scent": 7,
+    "uniqueness": 6,
+    "compliments": 7.5,
+    "value": 9.5,
+    "total": 7.5
+  },
+  "vibes": [
+    {
+      "label": "An toàn",
+      "icon": "✅"
+    },
+    {
+      "label": "Giá rẻ",
+      "icon": "💸"
+    },
+    {
+      "label": "Office",
+      "icon": "💼"
+    }
+  ],
+  "longevity": 5,
+  "sillage": 4,
+  "seasons": {
+    "spring": 78,
+    "summer": 62,
+    "fall": 62,
+    "winter": 48
+  },
+  "dayNight": {
+    "day": 82,
+    "night": 38
+  },
+  "topNotes": [
+    {
+      "name": "Hoa mẫu đơn"
+    },
+    {
+      "name": "Cam"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Vani"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Xạ hương trắng"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoa",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 62,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 48,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Gỗ",
+      "value": 38,
+      "color": "#8B4513"
+    }
+  ],
   "seoTitle": "Montblanc Signature EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Montblanc Signature EDP chính hãng: hoa xạ hương nhẹ nhàng giá rẻ nhất designer, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "An toàn", "Giá rẻ", "Office"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
-  "basePrice": 800000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "An toàn",
+    "Giá rẻ",
+    "Office"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "90ml Fullbox"
+  ],
+  "basePrice": 800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

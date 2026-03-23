@@ -1,18 +1,123 @@
 {
-  "id": "shalimar-lessence", "brandSlug": "guerlain", "brand": "GUERLAIN", "name": "Shalimar L'Essence", "subName": "Eau de Parfum",
-  "perfumer": "Thierry Wasser", "gender": "nu",
-  "image": "/images/products/guerlain-shalimar-lessence-main.jpg",
-  "images": [{ "url": "/images/products/guerlain-shalimar-lessence-main.jpg", "source": "fragram", "caption": "Guerlain Shalimar L'Essence chính hãng", "verified": true }],
+  "id": "shalimar-lessence",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "Shalimar L'Essence",
+  "subName": "Eau de Parfum",
+  "perfumer": "Thierry Wasser",
+  "gender": "nu",
+  "image": "/images/products/guerlain-shalimar-lessence-main.webp",
+  "images": [
+    {
+      "url": "/images/products/guerlain-shalimar-lessence-main.webp",
+      "source": "fragram",
+      "caption": "Guerlain Shalimar L'Essence chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Shalimar \"tinh chất\" — cam bergamot, nhài, hoa hồng, iris, vani, gỗ đàn hương, hổ phách và tonka. Shalimar bớt smoky, thêm hoa, sang hơn.",
   "article": "### Ai không nên mua?\n\nNếu bạn yêu Shalimar gốc vì nốt SMOKY nặng — L'Essence bỏ bớt smoky, thêm nhài-iris-hồng tạo ra Shalimar HOA hơn. Thierry Wasser \"tinh lọc\" Shalimar: giữ vani-hổ phách nhưng làm sạch, bớt nặng. Ai muốn Shalimar bản gốc nặng sẽ thấy L'Essence quá nhẹ.\n\n### Có đáng tiền không?\n\nGiá Guerlain — và L'Essence bám 7-8 giờ. So với Shalimar EDP gốc — nhẹ hơn, nhiều hoa hơn, dễ mặc hơn. Chai cho ai thích IDEA Shalimar nhưng muốn version modern sạch.\n\n### Nên dùng khi nào?\n\nĐi ăn tối nhẹ, gặp bạn bè, thu nhẹ. Xịt 2-3 nhát cổ. Thu đông nhẹ. Shalimar cho ai muốn nhẹ hơn gốc.",
   "verdict": "Shalimar tinh lọc — bớt smoky thêm hoa. Wasser modern. Cho ai muốn Shalimar nhẹ hơn gốc.",
   "verdictShort": "SHALIMAR NHẸ, THÊM HOA, MODERN",
-  "score": { "scent": 8.0, "uniqueness": 7.5, "compliments": 7.5, "value": 7.5, "total": 7.6 },
-  "vibes": [{ "label": "Modern", "icon": "✨" }, { "label": "Nhẹ", "icon": "🌸" }, { "label": "Heritage", "icon": "👑" }],
-  "longevity": 8, "sillage": 6, "seasons": { "spring": 52, "summer": 22, "fall": 78, "winter": 72 }, "dayNight": { "day": 42, "night": 72 },
-  "topNotes": [{ "name": "Cam bergamot" }], "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Hoa hồng" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Hổ phách" }, { "name": "Đậu Tonka" }],
-  "accords": [{ "name": "Hoa", "value": 100, "color": "#e91e63" }, { "name": "Hổ phách", "value": 72, "color": "#d4a017" }, { "name": "Vani", "value": 62, "color": "#F5DEB3" }, { "name": "Phấn", "value": 42, "color": "#d7bde2" }],
-  "seoTitle": "Guerlain Shalimar L'Essence chính hãng mua ở đâu? Review 2026", "metaDescription": "Đánh giá Shalimar L'Essence chính hãng: Shalimar tinh lọc nhẹ hoa modern, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Heritage", "Modern", "Hoa"], "sizes": ["10ml Chiết", "50ml Fullbox", "75ml Fullbox"], "basePrice": 2800000, "shopeeOffers": [], "isPublished": true
+  "score": {
+    "scent": 8,
+    "uniqueness": 7.5,
+    "compliments": 7.5,
+    "value": 7.5,
+    "total": 7.6
+  },
+  "vibes": [
+    {
+      "label": "Modern",
+      "icon": "✨"
+    },
+    {
+      "label": "Nhẹ",
+      "icon": "🌸"
+    },
+    {
+      "label": "Heritage",
+      "icon": "👑"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 6,
+  "seasons": {
+    "spring": 52,
+    "summer": 22,
+    "fall": 78,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 42,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Đậu Tonka"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoa",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 72,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Vani",
+      "value": 62,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Phấn",
+      "value": 42,
+      "color": "#d7bde2"
+    }
+  ],
+  "seoTitle": "Guerlain Shalimar L'Essence chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Shalimar L'Essence chính hãng: Shalimar tinh lọc nhẹ hoa modern, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": [
+    "Nữ",
+    "Heritage",
+    "Modern",
+    "Hoa"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "75ml Fullbox"
+  ],
+  "basePrice": 2800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

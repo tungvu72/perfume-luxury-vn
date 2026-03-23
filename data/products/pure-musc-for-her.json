@@ -1,22 +1,110 @@
 {
-  "id": "pure-musc-for-her", "brandSlug": "narciso-rodriguez", "brand": "NARCISO RODRIGUEZ", "name": "Pure Musc For Her", "subName": "Eau de Parfum",
-  "perfumer": "Sonia Constant", "gender": "nu",
-  "image": "/images/products/narciso-rodriguez-pure-musc-main.jpg",
-  "images": [{ "url": "/images/products/narciso-rodriguez-pure-musc-main.jpg", "source": "fragram", "caption": "NR Pure Musc For Her chính hãng", "verified": true }],
+  "id": "pure-musc-for-her",
+  "brandSlug": "narciso-rodriguez",
+  "brand": "NARCISO RODRIGUEZ",
+  "name": "Pure Musc For Her",
+  "subName": "Eau de Parfum",
+  "perfumer": "Sonia Constant",
+  "gender": "nu",
+  "image": "/images/products/narciso-rodriguez-pure-musc-for-her-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/narciso-rodriguez-pure-musc-for-her-main.jpg",
+      "source": "fragram",
+      "caption": "NR Pure Musc For Her chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ xạ hương trắng thuần khiết — hoa fleur de oranger, xạ hương trắng, cashmeran, gỗ đàn hương và hổ phách. Xạ hương sạch nhất, gần da nhất For Her.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi tỏa xa — Pure Musc GẦN DA: xạ hương trắng thuần khiết, sạch, kiểu da sau khi tắm xà bông thơm. Sonia Constant strip bỏ mọi thứ phức tạp — chỉ giữ xạ hương ở dạng pure nhất. Ai muốn compliment getter sẽ thấy nó quá nhẹ.\n\n### Có đáng tiền không?\n\nGiá NR tầm trung. So với For Her EDP gốc — Pure Musc ít hoa hơn, sạch hơn, chỉ có musk. So với Musc Noir — Pure sáng hơn, ít tối. Bám 7-8 giờ (gần da).\n\n### Nên dùng khi nào?\n\nMọi lúc — đi làm, cuối tuần, ngủ. Xịt 3-4 nhát. Quanh năm. Chai để luôn có sẵn.",
   "verdict": "Xạ hương thuần khiết nhất — Sonia Constant stripped. Da sạch, gần, comfort. For Her essence.",
   "verdictShort": "XẠ HƯƠNG THUẦN, SẠCH NHẤT, MỌI LÚC",
-  "score": { "scent": 7.5, "uniqueness": 7.0, "compliments": 7.0, "value": 8.0, "total": 7.4 },
-  "vibes": [{ "label": "Sạch", "icon": "🧼" }, { "label": "Comfort", "icon": "🤗" }, { "label": "Mọi lúc", "icon": "☀️" }],
-  "longevity": 8, "sillage": 4,
-  "seasons": { "spring": 72, "summer": 62, "fall": 62, "winter": 58 },
-  "dayNight": { "day": 72, "night": 55 },
-  "topNotes": [{ "name": "Hoa cam" }], "middleNotes": [{ "name": "Xạ hương trắng" }, { "name": "Cashmeran" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Hổ phách" }],
-  "accords": [{ "name": "Xạ hương", "value": 100, "color": "#bdc3c7" }, { "name": "Tươi mát", "value": 55, "color": "#2ecc71" }, { "name": "Gỗ", "value": 42, "color": "#8B4513" }],
+  "score": {
+    "scent": 7.5,
+    "uniqueness": 7,
+    "compliments": 7,
+    "value": 8,
+    "total": 7.4
+  },
+  "vibes": [
+    {
+      "label": "Sạch",
+      "icon": "🧼"
+    },
+    {
+      "label": "Comfort",
+      "icon": "🤗"
+    },
+    {
+      "label": "Mọi lúc",
+      "icon": "☀️"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 4,
+  "seasons": {
+    "spring": 72,
+    "summer": 62,
+    "fall": 62,
+    "winter": 58
+  },
+  "dayNight": {
+    "day": 72,
+    "night": 55
+  },
+  "topNotes": [
+    {
+      "name": "Hoa cam"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Xạ hương trắng"
+    },
+    {
+      "name": "Cashmeran"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Xạ hương",
+      "value": 100,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 55,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Gỗ",
+      "value": 42,
+      "color": "#8B4513"
+    }
+  ],
   "seoTitle": "NR Pure Musc For Her chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá NR Pure Musc For Her chính hãng: mùi xạ hương thuần khiết sạch nhất, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Sạch", "Comfort", "Mọi lúc"], "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
-  "basePrice": 1800000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Sạch",
+    "Comfort",
+    "Mọi lúc"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

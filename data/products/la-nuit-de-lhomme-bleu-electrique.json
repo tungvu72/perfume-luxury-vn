@@ -6,10 +6,10 @@
   "subName": "Eau de Toilette",
   "perfumer": "Dominique Ropion & Anne Flipo",
   "gender": "nam",
-  "image": "/images/products/ysl-la-nuit-bleu-electrique-main.jpg",
+  "image": "/images/products/ysl-la-nuit-de-lhomme-bleu-electrique-main.jpg",
   "images": [
     {
-      "url": "/images/products/ysl-la-nuit-bleu-electrique-main.jpg",
+      "url": "/images/products/ysl-la-nuit-de-lhomme-bleu-electrique-main.jpg",
       "source": "fragram",
       "caption": "YSL La Nuit de L'Homme Bleu Électrique chính hãng",
       "verified": true
@@ -19,30 +19,112 @@
   "article": "### Ai không nên mua?\n\nNếu bạn yêu La Nuit de L'Homme gốc (bạch đậu khấu-lavender-cumin ấm) — thì Bleu Électrique là REFORMULATION hơn là flanker. DNA khác rõ: thêm gừng, thêm citrus, thêm ambroxan = tươi hơn, mạnh hơn, hiện đại hơn nhưng MẤT nhân vật cumin-iris mà fan cũ yêu. Ropion + Flipo redesign cho thế hệ mới.\n\n### Có đáng tiền không?\n\nGiá YSL tầm trung — rẻ hơn Dior Sauvage. Điểm cộng lớn nhất: bám tốt hơn La Nuit gốc ĐÁNG KỂ (7-8 giờ vs 4 giờ) vì có ambroxan. So với La Nuit gốc — tươi hơn, mạnh hơn, ít skin scent hơn. So với Bleu de Chanel EDT — cùng nhóm — thì Bleu Électrique nhiều gừng hơn, spicy hơn. So với Sauvage EDT — thì ít ambroxan hơn, tinh tế hơn.\n\n### Nên dùng khi nào?\n\nĐi chơi tối, hẹn hò, club, hoặc khi muốn mùi electric vibe. Xịt 3-4 nhát: cổ, ngực, cổ tay. Dùng quanh năm — tươi đủ cho hè, ấm đủ cho đông. Cả Sài Gòn và Hà Nội dùng thoải mái.",
   "verdict": "La Nuit redesign — gừng ambroxan electric. Bám gấp đôi gốc. Ropion+Flipo. Tươi hơn, mạnh hơn, cho thế hệ mới.",
   "verdictShort": "GỪNG ELECTRIC, BÁM GẤP ĐÔI, REDESIGN",
-  "score": { "scent": 8.0, "uniqueness": 7.5, "compliments": 8.5, "value": 8.0, "total": 8.0 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 7.5,
+    "compliments": 8.5,
+    "value": 8,
+    "total": 8
+  },
   "vibes": [
-    { "label": "Electric", "icon": "⚡" },
-    { "label": "Date night", "icon": "🌙" },
-    { "label": "Tươi mát", "icon": "💧" }
+    {
+      "label": "Electric",
+      "icon": "⚡"
+    },
+    {
+      "label": "Date night",
+      "icon": "🌙"
+    },
+    {
+      "label": "Tươi mát",
+      "icon": "💧"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
-  "seasons": { "spring": 72, "summer": 52, "fall": 78, "winter": 62 },
-  "dayNight": { "day": 42, "night": 82 },
-  "topNotes": [{ "name": "Gừng" }, { "name": "Cam bergamot" }, { "name": "Bạch đậu khấu" }],
-  "middleNotes": [{ "name": "Phong lữ" }, { "name": "Oải hương" }, { "name": "Xô thơm" }],
-  "baseNotes": [{ "name": "Ambroxan" }, { "name": "Gỗ tuyết tùng" }, { "name": "Xạ hương" }],
+  "seasons": {
+    "spring": 72,
+    "summer": 52,
+    "fall": 78,
+    "winter": 62
+  },
+  "dayNight": {
+    "day": 42,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Gừng"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Phong lữ"
+    },
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Xô thơm"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Ambroxan"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
   "accords": [
-    { "name": "Gia vị ấm", "value": 100, "color": "#e67e22" },
-    { "name": "Tươi mát", "value": 72, "color": "#2ecc71" },
-    { "name": "Thơm thảo mộc", "value": 55, "color": "#2c7a4b" },
-    { "name": "Cam chanh", "value": 48, "color": "#f1c40f" },
-    { "name": "Gỗ", "value": 42, "color": "#8B4513" }
+    {
+      "name": "Gia vị ấm",
+      "value": 100,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 72,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 55,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 48,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Gỗ",
+      "value": 42,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "YSL La Nuit Bleu Électrique chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá YSL La Nuit Bleu Électrique chính hãng: mùi gừng ambroxan electric đêm, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Electric", "Date night", "Quanh năm"],
-  "sizes": ["10ml Chiết", "60ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Electric",
+    "Date night",
+    "Quanh năm"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "60ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

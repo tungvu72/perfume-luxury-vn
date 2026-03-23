@@ -1,23 +1,143 @@
 {
-  "id": "no-5-parfum", "brandSlug": "chanel", "brand": "CHANEL", "name": "N°5", "subName": "Parfum",
-  "perfumer": "Ernest Beaux", "gender": "nu",
-  "image": "/images/products/chanel-no5-parfum-main.jpg",
-  "images": [{ "url": "/images/products/chanel-no5-parfum-main.jpg", "source": "fragram", "caption": "Chanel N°5 Parfum chính hãng", "verified": true }],
+  "id": "no-5-parfum",
+  "brandSlug": "chanel",
+  "brand": "CHANEL",
+  "name": "N°5",
+  "subName": "Parfum",
+  "perfumer": "Ernest Beaux",
+  "gender": "nu",
+  "image": "/images/products/chanel-no-5-parfum-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/chanel-no-5-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "Chanel N°5 Parfum chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ nổi tiếng nhất lịch sử — aldehyde, nhài, hồng, ylang-ylang, muguet, iris, gỗ đàn hương, cỏ hương bài, vani, xạ hương và civette. Nước hoa quyền lực nhất mọi thời đại.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi hiện đại trendy — N°5 là MẸ CỦA MỌI NƯỚC HOA. Ernest Beaux tạo năm 1921 — hơn 100 năm trước — và nó VẪN bán chạy nhất thế giới. Aldehyde tạo hiệu ứng \"bong bóng xà phòng sang\" mà trước 1921 chưa ai dùng. Marilyn Monroe ngủ với nó. Ai muốn unique-underground sẽ thấy N°5 quá mainstream.\n\n### Có đáng tiền không?\n\nParfum — nồng độ cao nhất, đắt nhất, không phải EDP hay EDT. Bám 12+ giờ, tỏa gần da nhưng dai. So với N°5 EDP — Parfum mượt hơn, ít sharp hơn, nhiều vani hơn. So với N°5 L'Eau — N°5 gốc nặng hơn 10 lần. Parfum = version TỐT NHẤT.\n\n### Nên dùng khi nào?\n\nDịp đặc biệt, sự kiện, khi muốn mùi hương QUYỀN LỰC. Dabbing — chấm 1-2 giọt sau tai và cổ (Parfum dạng dabber, không spray). Dùng quanh năm. Chai mà mọi phụ nữ nên ngửi một lần.",
   "verdict": "Nước hoa quyền lực nhất lịch sử — Beaux 1921. 100+ năm vẫn #1. Marilyn Monroe. Parfum = best version.",
   "verdictShort": "QUYỀN LỰC NHẤT, 1921, MARILYN MONROE",
-  "score": { "scent": 9.5, "uniqueness": 9.0, "compliments": 8.0, "value": 7.0, "total": 8.4 },
-  "vibes": [{ "label": "Quyền lực", "icon": "👑" }, { "label": "100 năm", "icon": "🏛️" }, { "label": "Legend", "icon": "⭐" }],
-  "longevity": 12, "sillage": 6,
-  "seasons": { "spring": 62, "summer": 42, "fall": 72, "winter": 72 },
-  "dayNight": { "day": 55, "night": 72 },
-  "topNotes": [{ "name": "Aldehyde" }, { "name": "Neroli" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Hoa hồng" }, { "name": "Ngọc lan tây" }, { "name": "Muguet" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Cỏ hương bài" }, { "name": "Vani" }, { "name": "Xạ hương" }, { "name": "Civette" }],
-  "accords": [{ "name": "Hoa", "value": 100, "color": "#e91e63" }, { "name": "Aldehyde", "value": 78, "color": "#ecf0f1" }, { "name": "Phấn", "value": 62, "color": "#d7bde2" }, { "name": "Gỗ", "value": 48, "color": "#8B4513" }, { "name": "Vani", "value": 42, "color": "#F5DEB3" }],
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 9,
+    "compliments": 8,
+    "value": 7,
+    "total": 8.4
+  },
+  "vibes": [
+    {
+      "label": "Quyền lực",
+      "icon": "👑"
+    },
+    {
+      "label": "100 năm",
+      "icon": "🏛️"
+    },
+    {
+      "label": "Legend",
+      "icon": "⭐"
+    }
+  ],
+  "longevity": 12,
+  "sillage": 6,
+  "seasons": {
+    "spring": 62,
+    "summer": 42,
+    "fall": 72,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 55,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Aldehyde"
+    },
+    {
+      "name": "Neroli"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Ngọc lan tây"
+    },
+    {
+      "name": "Muguet"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Civette"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoa",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Aldehyde",
+      "value": 78,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Phấn",
+      "value": 62,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Gỗ",
+      "value": 48,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Vani",
+      "value": 42,
+      "color": "#F5DEB3"
+    }
+  ],
   "seoTitle": "Chanel N°5 Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Chanel N°5 Parfum chính hãng: nước hoa quyền lực nhất lịch sử 1921, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Legend", "Quyền lực", "Heritage"], "sizes": ["7.5ml Dabber", "15ml Dabber", "30ml Fullbox"],
-  "basePrice": 5000000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Legend",
+    "Quyền lực",
+    "Heritage"
+  ],
+  "sizes": [
+    "7.5ml Dabber",
+    "15ml Dabber",
+    "30ml Fullbox"
+  ],
+  "basePrice": 5000000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

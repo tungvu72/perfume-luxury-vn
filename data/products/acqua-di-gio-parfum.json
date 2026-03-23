@@ -6,10 +6,10 @@
   "subName": "Parfum",
   "perfumer": "Alberto Morillas",
   "gender": "nam",
-  "image": "/images/products/giorgio-armani-acqua-di-gio-parfum-main.jpg",
+  "image": "/images/products/armani-acqua-di-gio-parfum-main.jpg",
   "images": [
     {
-      "url": "/images/products/giorgio-armani-acqua-di-gio-parfum-main.jpg",
+      "url": "/images/products/armani-acqua-di-gio-parfum-main.jpg",
       "source": "fragram",
       "caption": "Acqua di Giò Parfum chính hãng",
       "verified": true
@@ -19,30 +19,109 @@
   "article": "### Ai không nên mua?\n\nNếu bạn đã có Profondo hoặc Profumo thì AdG Parfum sẽ trùng vị trí — cả ba đều là \"AdG nhưng đậm hơn gốc\". Sự khác biệt giữa Parfum và Profondo rất tinh tế: Parfum nhiều thảo mộc (xô thơm, oải hương) hơn, Profondo nhiều aquatic khoáng hơn. Ai không phân biệt nổi thì chỉ cần chọn một. Ngoài ra, nếu bạn muốn chai 100% aquatic tươi sáng như gốc 1996, Parfum sẽ tối hơn và nặng hơn mong đợi.\n\n### Có đáng tiền không?\n\nNồng độ Parfum — cao nhất, bám 10+ giờ, tỏa tốt. Alberto Morillas quay lại lần thứ ba. So với AdG gốc EDT — Parfum đậm gấp đôi, tối hơn, nghiêm túc hơn. So với Bleu de Chanel Parfum — cùng nồng độ, cùng tier — thì AdG Parfum biển hơn, nhiều thảo mộc hơn trong khi BdC gỗ hơn. Giá ngang Bleu — fair cho nồng độ và hiệu năng.\n\n### Nên dùng khi nào?\n\nĐi làm, gặp khách, ăn tối, hoặc dịp cần mùi sạch-sang nhưng không nhẹ quá. Xịt 2-3 nhát: cổ và ngực. Dùng quanh năm — xuân hè là tốt nhất vì DNA biển, nhưng hoắc hương giữ được cả thu đông. Cả Sài Gòn và Hà Nội dùng thoải mái.",
   "verdict": "AdG nồng độ cao nhất — biển + thảo mộc + hoắc hương. 10h bám. Morillas lần 3. Cho ai muốn AdG trưởng thành.",
   "verdictShort": "BIỂN THẢO MỘC, PARFUM, 10H BÁM",
-  "score": { "scent": 8.5, "uniqueness": 7.5, "compliments": 8.5, "value": 8.0, "total": 8.1 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 7.5,
+    "compliments": 8.5,
+    "value": 8,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Sạch", "icon": "💧" },
-    { "label": "Trưởng thành", "icon": "🎩" },
-    { "label": "Office", "icon": "💼" }
+    {
+      "label": "Sạch",
+      "icon": "💧"
+    },
+    {
+      "label": "Trưởng thành",
+      "icon": "🎩"
+    },
+    {
+      "label": "Office",
+      "icon": "💼"
+    }
   ],
   "longevity": 10,
   "sillage": 7,
-  "seasons": { "spring": 82, "summer": 72, "fall": 62, "winter": 42 },
-  "dayNight": { "day": 78, "night": 55 },
-  "topNotes": [{ "name": "Biển" }, { "name": "Cam xanh" }],
-  "middleNotes": [{ "name": "Xô thơm" }, { "name": "Oải hương" }, { "name": "Phong lữ" }],
-  "baseNotes": [{ "name": "Khoáng" }, { "name": "Cỏ hương bài" }, { "name": "Hoắc hương" }],
+  "seasons": {
+    "spring": 82,
+    "summer": 72,
+    "fall": 62,
+    "winter": 42
+  },
+  "dayNight": {
+    "day": 78,
+    "night": 55
+  },
+  "topNotes": [
+    {
+      "name": "Biển"
+    },
+    {
+      "name": "Cam xanh"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Xô thơm"
+    },
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Phong lữ"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Khoáng"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
   "accords": [
-    { "name": "Nước", "value": 100, "color": "#2980b9" },
-    { "name": "Thơm thảo mộc", "value": 72, "color": "#2c7a4b" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Khoáng", "value": 48, "color": "#7f8c8d" },
-    { "name": "Cam chanh", "value": 38, "color": "#f1c40f" }
+    {
+      "name": "Nước",
+      "value": 100,
+      "color": "#2980b9"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 72,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Khoáng",
+      "value": 48,
+      "color": "#7f8c8d"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 38,
+      "color": "#f1c40f"
+    }
   ],
   "seoTitle": "Acqua di Giò Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Acqua di Giò Parfum chính hãng: mùi biển thảo mộc nồng độ cao, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Biển", "Office", "Parfum"],
-  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Biển",
+    "Office",
+    "Parfum"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox",
+    "125ml Fullbox"
+  ],
   "basePrice": 2800000,
   "shopeeOffers": [],
   "isPublished": true

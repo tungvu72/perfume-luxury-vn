@@ -6,10 +6,10 @@
   "subName": "Eau de Parfum",
   "perfumer": "Daniela Andrier",
   "gender": "unisex",
-  "image": "/images/products/guerlain-angelique-noire-main.jpg",
+  "image": "/images/products/guerlain-angelique-noire-main.avif",
   "images": [
     {
-      "url": "/images/products/guerlain-angelique-noire-main.jpg",
+      "url": "/images/products/guerlain-angelique-noire-main.avif",
       "source": "fragram",
       "caption": "Guerlain Angélique Noire Eau de Parfum chính hãng",
       "verified": true
@@ -19,31 +19,114 @@
   "article": "### Ai không nên mua?\n\nNếu bạn nghĩ vani = ngọt ngào ấm áp dễ thương thì Angélique Noire sẽ phá vỡ định kiến đó. Đây là \"vani xanh\" — bạch chỉ (angelica) tạo ra lớp đắng thảo mộc phủ lên vani, giống như cocktail gin & tonic thay vì milkshake. Ai thích gourmand ngọt rõ ràng sẽ thấy nó lạ và khó hiểu. Giá dòng L'Art et la Matière của Guerlain cũng không friendly.\n\n### Có đáng tiền không?\n\nDòng L'Art et la Matière — exclusive line cao nhất Guerlain. Daniela Andrier (perfumer của Prada Infusion d'Iris) tạo ra concept \"vũ đạo của đối lập\": tươi vs ấm, đắng vs ngọt, xanh vs vani. So với Tom Ford Tobacco Vanille — cùng vani cao cấp — thì Angélique Noire sạch hơn rất nhiều, không ngọt, không thuốc lá. So với MFK Grand Soir — cùng vani amber niche — thì Angélique Noire xanh hơn, nhẹ hơn. Bám 8-10 giờ.\n\n### Nên dùng khi nào?\n\nĐi gallery, ăn tối sang, sự kiện nghệ thuật, hoặc khi nào muốn mùi hương là tác phẩm chứ không phải phụ kiện. Xịt 2-3 nhát: cổ và cổ tay. Dùng quanh năm — bạch chỉ giữ tươi mùa hè, vani giữ ấm mùa đông. Chai dành cho người hiểu nước hoa.",
   "verdict": "Vani xanh haute couture — bạch chỉ + vani = đối lập hoàn hảo. L'Art et la Matière Guerlain. Cho connoisseur.",
   "verdictShort": "VANI XANH, HAUTE COUTURE, CONNOISSEUR",
-  "score": { "scent": 9.2, "uniqueness": 9.5, "compliments": 7.5, "value": 7.0, "total": 8.3 },
+  "score": {
+    "scent": 9.2,
+    "uniqueness": 9.5,
+    "compliments": 7.5,
+    "value": 7,
+    "total": 8.3
+  },
   "vibes": [
-    { "label": "Nghệ thuật", "icon": "🎨" },
-    { "label": "Vani xanh", "icon": "🌿" },
-    { "label": "Niche", "icon": "💎" }
+    {
+      "label": "Nghệ thuật",
+      "icon": "🎨"
+    },
+    {
+      "label": "Vani xanh",
+      "icon": "🌿"
+    },
+    {
+      "label": "Niche",
+      "icon": "💎"
+    }
   ],
   "longevity": 9,
   "sillage": 6,
-  "seasons": { "spring": 72, "summer": 52, "fall": 78, "winter": 72 },
-  "dayNight": { "day": 55, "night": 72 },
-  "topNotes": [{ "name": "Bạch chỉ" }, { "name": "Lê" }, { "name": "Tiêu hồng" }],
-  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Carum" }],
-  "baseNotes": [{ "name": "Bạch chỉ" }, { "name": "Vani" }, { "name": "Gỗ tuyết tùng" }],
+  "seasons": {
+    "spring": 72,
+    "summer": 52,
+    "fall": 78,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 55,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Bạch chỉ"
+    },
+    {
+      "name": "Lê"
+    },
+    {
+      "name": "Tiêu hồng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Carum"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Bạch chỉ"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
   "accords": [
-    { "name": "Xạ hương", "value": 100, "color": "#bdc3c7" },
-    { "name": "Phấn", "value": 72, "color": "#d7bde2" },
-    { "name": "Ngọt", "value": 62, "color": "#8B0000" },
-    { "name": "Hổ phách", "value": 55, "color": "#d4a017" },
-    { "name": "Hoa trắng", "value": 42, "color": "#f5f5dc" },
-    { "name": "Vani", "value": 38, "color": "#F5DEB3" }
+    {
+      "name": "Xạ hương",
+      "value": 100,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Phấn",
+      "value": 72,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Ngọt",
+      "value": 62,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 55,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Hoa trắng",
+      "value": 42,
+      "color": "#f5f5dc"
+    },
+    {
+      "name": "Vani",
+      "value": 38,
+      "color": "#F5DEB3"
+    }
   ],
   "seoTitle": "Guerlain Angélique Noire chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Guerlain Angélique Noire chính hãng: mùi vani xanh haute couture độc đáo, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Unisex", "Niche", "Nghệ thuật", "Vani xanh"],
-  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Nghệ thuật",
+    "Vani xanh"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox",
+    "125ml Fullbox"
+  ],
   "basePrice": 5500000,
   "shopeeOffers": [],
   "isPublished": true

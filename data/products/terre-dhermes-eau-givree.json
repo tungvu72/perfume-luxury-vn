@@ -1,18 +1,120 @@
 {
-  "id": "terre-dhermes-eau-givree", "brandSlug": "hermes", "brand": "HERMÈS", "name": "Terre d'Hermès Eau Givrée", "subName": "Eau de Parfum",
-  "perfumer": "Christine Nagel", "gender": "nam",
-  "image": "/images/products/hermes-terre-eau-givree-main.jpg",
-  "images": [{ "url": "/images/products/hermes-terre-eau-givree-main.jpg", "source": "fragram", "caption": "Hermès Terre Eau Givrée chính hãng", "verified": true }],
+  "id": "terre-dhermes-eau-givree",
+  "brandSlug": "hermes",
+  "brand": "HERMÈS",
+  "name": "Terre d'Hermès Eau Givrée",
+  "subName": "Eau de Parfum",
+  "perfumer": "Christine Nagel",
+  "gender": "nam",
+  "image": "/images/products/hermes-terre-dhermes-eau-givree-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/hermes-terre-dhermes-eau-givree-main.jpg",
+      "source": "fragram",
+      "caption": "Hermès Terre Eau Givrée chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Terre d'Hermès phiên bản đóng sương — bưởi frozen, cam bergamot, tiêu Sichuan, nhài, gỗ tuyết tùng, benzoin và xạ hương trắng. Terre nhưng tươi, lạnh và givrée.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn Terre gốc (đất-cỏ hương bài-cam nặng) — Eau Givrée TƯƠI hơn đáng kể. Christine Nagel (Master Perfumer Hermès, sau Ellena) thêm hiệu ứng \"đóng sương\" (givrée): bưởi frozen, mát, tuyết sáng. DNA Terre vẫn ở base nhưng top tươi hơn nhiều.\n\n### Có đáng tiền không?\n\nGiá Hermès — và EDP bám 7-8 giờ. So với Terre EDP gốc — tươi hơn, nhẹ hơn, mùa hè hơn. So với Terre Très Fraîche — cùng Terre tươi — thì Eau Givrée có benzoin ấm hơn. Flanker sáng nhất Terre.\n\n### Nên dùng khi nào?\n\nBan ngày, đi làm mùa hè, khi muốn Terre mà trời nóng. Xịt 3 nhát cổ. Dùng quanh năm nhưng đẹp nhất xuân hè. Sài Gòn quanh năm.",
   "verdict": "Terre đóng sương — bưởi frozen. Nagel. Tươi nhất Terre. Cho mùa hè. Hermès sáng.",
   "verdictShort": "TERRE ĐÓNG SƯƠNG, TƯƠI NHẤT, MÙA HÈ",
-  "score": { "scent": 8.0, "uniqueness": 7.5, "compliments": 8.0, "value": 7.5, "total": 7.8 },
-  "vibes": [{ "label": "Tươi", "icon": "❄️" }, { "label": "Mùa hè", "icon": "☀️" }, { "label": "Hermès", "icon": "🧡" }],
-  "longevity": 8, "sillage": 6, "seasons": { "spring": 82, "summer": 78, "fall": 52, "winter": 32 }, "dayNight": { "day": 82, "night": 38 },
-  "topNotes": [{ "name": "Bưởi frozen" }, { "name": "Cam bergamot" }, { "name": "Tiêu Sichuan" }],
-  "middleNotes": [{ "name": "Hoa nhài" }], "baseNotes": [{ "name": "Gỗ tuyết tùng" }, { "name": "Benzoin" }, { "name": "Xạ hương trắng" }],
-  "accords": [{ "name": "Cam chanh", "value": 100, "color": "#f1c40f" }, { "name": "Tươi mát", "value": 78, "color": "#2ecc71" }, { "name": "Gỗ", "value": 55, "color": "#8B4513" }, { "name": "Gia vị ấm", "value": 42, "color": "#e67e22" }],
-  "seoTitle": "Hermès Terre Eau Givrée chính hãng mua ở đâu? Review 2026", "metaDescription": "Đánh giá Terre d'Hermès Eau Givrée chính hãng: bưởi frozen đóng sương tươi nhất Terre, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Tươi", "Mùa hè", "Hermès"], "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"], "basePrice": 2800000, "shopeeOffers": [], "isPublished": true
+  "score": {
+    "scent": 8,
+    "uniqueness": 7.5,
+    "compliments": 8,
+    "value": 7.5,
+    "total": 7.8
+  },
+  "vibes": [
+    {
+      "label": "Tươi",
+      "icon": "❄️"
+    },
+    {
+      "label": "Mùa hè",
+      "icon": "☀️"
+    },
+    {
+      "label": "Hermès",
+      "icon": "🧡"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 6,
+  "seasons": {
+    "spring": 82,
+    "summer": 78,
+    "fall": 52,
+    "winter": 32
+  },
+  "dayNight": {
+    "day": 82,
+    "night": 38
+  },
+  "topNotes": [
+    {
+      "name": "Bưởi frozen"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Tiêu Sichuan"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Xạ hương trắng"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 78,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 42,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Hermès Terre Eau Givrée chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Terre d'Hermès Eau Givrée chính hãng: bưởi frozen đóng sương tươi nhất Terre, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": [
+    "Nam",
+    "Tươi",
+    "Mùa hè",
+    "Hermès"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

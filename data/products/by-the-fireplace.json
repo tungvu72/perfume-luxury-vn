@@ -6,10 +6,10 @@
   "subName": "Eau de Toilette",
   "perfumer": "Marie Salamagne",
   "gender": "unisex",
-  "image": "/images/products/maison-margiela-by-the-fireplace-main.jpg",
+  "image": "/images/products/maison-margiela-jazz-club-main.jpg",
   "images": [
     {
-      "url": "/images/products/maison-margiela-by-the-fireplace-main.jpg",
+      "url": "/images/products/maison-margiela-jazz-club-main.jpg",
       "source": "fragram",
       "caption": "Maison Margiela Replica By the Fireplace chính hãng",
       "verified": true
@@ -19,30 +19,112 @@
   "article": "### Ai không nên mua?\n\nNếu bạn sống ở Sài Gòn và chưa bao giờ trải nghiệm mùa đông thật sự — thì By the Fireplace sẽ hơi trừu tượng. Chai này tái hiện cảm giác ngồi bên lò sưởi: khói gỗ, hạt dẻ nướng, chăn cashmere — mà ở Việt Nam khí hậu 35°C thì cảm xúc đó khó connect. Ai thích mùi tươi sạch cũng đừng nghĩ tới — khói ở đây rõ và đậm.\n\n### Có đáng tiền không?\n\nGiá Replica tầm trung — và By the Fireplace là chai bán chạy nhất dòng, nổi tiếng nhất trên TikTok. So với Tom Ford Tobacco Vanille — cùng nhóm ấm khói — thì By the Fireplace nhẹ hơn, có hạt dẻ mà TV không có, và rẻ hơn 2-3 lần. So với Jazz Club cùng dòng Replica thì By the Fireplace tập trung vào khói-gỗ thay vì rum-thuốc lá. EDT nên bám vừa phải: 5-6 giờ.\n\n### Nên dùng khi nào?\n\nMùa đông, buổi tối, ở nhà cuối tuần, hoặc khi muốn cảm giác ấm áp an ủi. Xịt 3 nhát: cổ, ngực, cổ tay. Trời Hà Nội tháng 12-1 xuống 10-15°C, mặc áo len, ngồi quán cà phê — By the Fireplace là ký ức bạn sẽ nhớ. Ở Sài Gòn chỉ dùng khi máy lạnh mạnh hoặc thoải mái chấp nhận mùi chăn ấm giữa nắng nóng.",
   "verdict": "Lò sưởi trong chai — khói, hạt dẻ nướng, chăn ấm. TikTok viral. Cho mùa đông và ký ức ấm áp.",
   "verdictShort": "KHÓI GỖ, LÒ SƯỞI, KÝ ỨC ẤM",
-  "score": { "scent": 9.0, "uniqueness": 9.5, "compliments": 7.8, "value": 8.0, "total": 8.6 },
+  "score": {
+    "scent": 9,
+    "uniqueness": 9.5,
+    "compliments": 7.8,
+    "value": 8,
+    "total": 8.6
+  },
   "vibes": [
-    { "label": "Lò sưởi", "icon": "🔥" },
-    { "label": "Mùa đông", "icon": "❄️" },
-    { "label": "Ấm áp", "icon": "🧣" }
+    {
+      "label": "Lò sưởi",
+      "icon": "🔥"
+    },
+    {
+      "label": "Mùa đông",
+      "icon": "❄️"
+    },
+    {
+      "label": "Ấm áp",
+      "icon": "🧣"
+    }
   ],
   "longevity": 6,
   "sillage": 6,
-  "seasons": { "spring": 18, "summer": 2, "fall": 72, "winter": 98 },
-  "dayNight": { "day": 22, "night": 82 },
-  "topNotes": [{ "name": "Đinh hương" }, { "name": "Tiêu hồng" }, { "name": "Hoa cam" }],
-  "middleNotes": [{ "name": "Hạt dẻ" }, { "name": "Gỗ guaiac" }, { "name": "Cây bách xù" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Peru balsam" }, { "name": "Cashmeran" }],
+  "seasons": {
+    "spring": 18,
+    "summer": 2,
+    "fall": 72,
+    "winter": 98
+  },
+  "dayNight": {
+    "day": 22,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Đinh hương"
+    },
+    {
+      "name": "Tiêu hồng"
+    },
+    {
+      "name": "Hoa cam"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hạt dẻ"
+    },
+    {
+      "name": "Gỗ guaiac"
+    },
+    {
+      "name": "Cây bách xù"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Peru balsam"
+    },
+    {
+      "name": "Cashmeran"
+    }
+  ],
   "accords": [
-    { "name": "Khói", "value": 100, "color": "#7f8c8d" },
-    { "name": "Gia vị ấm", "value": 72, "color": "#e67e22" },
-    { "name": "Ngọt", "value": 62, "color": "#8B0000" },
-    { "name": "Vani", "value": 55, "color": "#F5DEB3" },
-    { "name": "Gỗ", "value": 48, "color": "#8B4513" }
+    {
+      "name": "Khói",
+      "value": 100,
+      "color": "#7f8c8d"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 72,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Ngọt",
+      "value": 62,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Vani",
+      "value": 55,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Gỗ",
+      "value": 48,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "Maison Margiela By the Fireplace chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Replica By the Fireplace chính hãng: mùi khói gỗ lò sưởi hạt dẻ, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Unisex", "Mùa đông", "Lò sưởi", "Viral"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Mùa đông",
+    "Lò sưởi",
+    "Viral"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2500000,
   "shopeeOffers": [],
   "isPublished": true

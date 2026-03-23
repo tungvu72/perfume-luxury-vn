@@ -6,10 +6,10 @@
   "subName": "Eau de Toilette",
   "perfumer": "Olivier Cresp",
   "gender": "nu",
-  "image": "/images/products/dolce-gabbana-light-blue-main.jpg",
+  "image": "/images/products/dolce-gabbana-light-blue-pour-femme-main.jpg",
   "images": [
     {
-      "url": "/images/products/dolce-gabbana-light-blue-main.jpg",
+      "url": "/images/products/dolce-gabbana-light-blue-pour-femme-main.jpg",
       "source": "fragram",
       "caption": "Dolce & Gabbana Light Blue Eau de Toilette chính hãng",
       "verified": true
@@ -19,30 +19,116 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt, ấm, hoặc mùi hoa đậm thì Light Blue như uống ly nước chanh khi bạn đang muốn ăn tiramisu — sai mood hoàn toàn. Chai này TƯƠI theo kiểu côte d'Azur, chanh Sicily, nắng biển — không có vani, không có gourmand, không có gì ngọt ngào dịu dàng cả. Ngoài ra, EDT nên bám ngắn — 3-4 giờ rồi hết. Ai cần mùi bám cả ngày sẽ thất vọng.\n\n### Có đáng tiền không?\n\nGiá D&G thuộc nhóm rẻ nhất designer — và Light Blue là chai nữ bán chạy nhất hãng suốt 20+ năm. So với Chanel Chance Eau Fraîche — cùng nhóm tươi sáng — thì Light Blue tươi hơn, nhiều chanh hơn và rẻ hơn đáng kể. So với Marc Jacobs Daisy — cùng tầm giá — thì Light Blue ít hoa hơn và biển hơn. Nhược điểm: EDT bám ngắn, tỏa yếu sau 2 giờ. Nhưng với giá này thì mua chai to, xịt thoải mái.\n\n### Nên dùng khi nào?\n\nMùa hè. Đi biển, dạo phố, picnic, hoặc bất cứ ngày nóng nào muốn cảm giác tươi mát sạch sẽ. Xịt 4-5 nhát vì EDT tỏa nhẹ: cổ, ngực, cổ tay, sau tai. Ở Sài Gòn dùng quanh năm. Hà Nội thì tháng 4-9 lý tưởng. Mùa đông tuyệt đối không dùng — Light Blue trong trời 15°C sẽ biến mất sau 1 giờ.",
   "verdict": "Citrus biển Sicily kinh điển — tươi, sáng, nhẹ. 20 năm best seller. Bám ngắn nhưng giá rẻ, xịt thả ga.",
   "verdictShort": "CITRUS BIỂN, MÙA HÈ, KINH ĐIỂN",
-  "score": { "scent": 8.0, "uniqueness": 7.0, "compliments": 8.0, "value": 9.0, "total": 8.0 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 7,
+    "compliments": 8,
+    "value": 9,
+    "total": 8
+  },
   "vibes": [
-    { "label": "Mùa hè", "icon": "☀️" },
-    { "label": "Tươi mát", "icon": "🌊" },
-    { "label": "Kinh điển", "icon": "👑" }
+    {
+      "label": "Mùa hè",
+      "icon": "☀️"
+    },
+    {
+      "label": "Tươi mát",
+      "icon": "🌊"
+    },
+    {
+      "label": "Kinh điển",
+      "icon": "👑"
+    }
   ],
   "longevity": 4,
   "sillage": 4,
-  "seasons": { "spring": 82, "summer": 98, "fall": 32, "winter": 8 },
-  "dayNight": { "day": 92, "night": 22 },
-  "topNotes": [{ "name": "Chanh Sicily" }, { "name": "Táo" }, { "name": "Gỗ tuyết tùng" }, { "name": "Hoa chuông" }],
-  "middleNotes": [{ "name": "Tre" }, { "name": "Hoa nhài" }, { "name": "Hoa hồng trắng" }],
-  "baseNotes": [{ "name": "Gỗ tuyết tùng" }, { "name": "Xạ hương" }, { "name": "Hổ phách" }],
+  "seasons": {
+    "spring": 82,
+    "summer": 98,
+    "fall": 32,
+    "winter": 8
+  },
+  "dayNight": {
+    "day": 92,
+    "night": 22
+  },
+  "topNotes": [
+    {
+      "name": "Chanh Sicily"
+    },
+    {
+      "name": "Táo"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Hoa chuông"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Tre"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng trắng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Cam chanh", "value": 100, "color": "#f1c40f" },
-    { "name": "Tươi mát", "value": 82, "color": "#2ecc71" },
-    { "name": "Trái cây", "value": 62, "color": "#f39c12" },
-    { "name": "Hoa", "value": 48, "color": "#e91e63" },
-    { "name": "Gỗ", "value": 35, "color": "#8B4513" }
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 82,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Trái cây",
+      "value": 62,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Hoa",
+      "value": 48,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Gỗ",
+      "value": 35,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "D&G Light Blue chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá D&G Light Blue chính hãng: mùi citrus biển Sicily kinh điển mùa hè, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Mùa hè", "Tươi mát", "Kinh điển"],
-  "sizes": ["10ml Chiết", "25ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Mùa hè",
+    "Tươi mát",
+    "Kinh điển"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "25ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 1500000,
   "shopeeOffers": [],
   "isPublished": true

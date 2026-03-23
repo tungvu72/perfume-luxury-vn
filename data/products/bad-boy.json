@@ -6,10 +6,10 @@
   "subName": "Eau de Toilette",
   "perfumer": "Quentin Bisch & Louise Turner",
   "gender": "nam",
-  "image": "/images/products/carolina-herrera-bad-boy-main.jpg",
+  "image": "/images/products/carolina-herrera-good-girl-main.jpg",
   "images": [
     {
-      "url": "/images/products/carolina-herrera-bad-boy-main.jpg",
+      "url": "/images/products/carolina-herrera-good-girl-main.jpg",
       "source": "fragram",
       "caption": "Carolina Herrera Bad Boy Eau de Toilette chính hãng",
       "verified": true
@@ -19,30 +19,107 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi sáng dễ chịu hay mùi ngọt vani rõ ràng thì Bad Boy nằm ở vùng tối hơn — tiêu và gỗ tuyết tùng chiếm chủ đạo, tạo ra cảm giác khô, cay, hơi aggressive. Cũng không phải mùi office: Bad Boy có vẻ \"ngoài giờ làm việc\" ngay từ tên — dùng đi họp sẽ lạc tone. Nếu bạn đã có Sauvage Elixir hoặc Spicebomb, mùi sẽ chồng chéo ở khía cạnh gia vị-gỗ.\n\n### Có đáng tiền không?\n\nGiá Carolina Herrera — rẻ nhất phân khúc designer. So với Good Girl cùng hãng — chai tối nữ — thì Bad Boy là phiên bản nam tương đương: cùng DNA tối nhưng cay thay vì ngọt. So với Versace Dylan Blue — cùng giá — thì Bad Boy tối hơn, gỗ hơn và mature hơn. Nhược điểm là EDT nên bám vừa phải: 6-7 giờ. Nhưng với giá dưới 2 triệu, đây là entry vào nhóm \"mùi tối nam\".\n\n### Nên dùng khi nào?\n\nĐi chơi tối, đi bar, hẹn hò, hoặc cuối tuần muốn mặc đồ tối ra ngoài. Xịt 3 nhát: cổ, ngực, cổ tay. Đẹp nhất thu đông — Hà Nội tháng 10-2 lý tưởng. Ở Sài Gòn dùng tối trong nhà hoặc phòng máy lạnh. Chai hình lightning bolt rất đẹp để trưng — nhưng hơi tốn chỗ trên kệ.",
   "verdict": "Tiêu-gỗ-cacao tối — cay, có chiều sâu, giá rẻ. Entry vào nhóm mùi tối nam. Chai lightning bolt đẹp.",
   "verdictShort": "TIÊU GỖ TỐI, GIÁ TỐT, LIGHTNING BOLT",
-  "score": { "scent": 8.0, "uniqueness": 7.8, "compliments": 8.0, "value": 8.5, "total": 8.1 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 7.8,
+    "compliments": 8,
+    "value": 8.5,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Tối", "icon": "🖤" },
-    { "label": "Cay", "icon": "🌶️" },
-    { "label": "Giá tốt", "icon": "💸" }
+    {
+      "label": "Tối",
+      "icon": "🖤"
+    },
+    {
+      "label": "Cay",
+      "icon": "🌶️"
+    },
+    {
+      "label": "Giá tốt",
+      "icon": "💸"
+    }
   ],
   "longevity": 7,
   "sillage": 7,
-  "seasons": { "spring": 48, "summer": 22, "fall": 82, "winter": 78 },
-  "dayNight": { "day": 28, "night": 82 },
-  "topNotes": [{ "name": "Tiêu trắng" }, { "name": "Cam bergamot" }, { "name": "Tiêu hồng" }],
-  "middleNotes": [{ "name": "Gỗ tuyết tùng" }, { "name": "Cỏ xô thơm" }],
-  "baseNotes": [{ "name": "Đậu Tonka" }, { "name": "Cacao" }],
+  "seasons": {
+    "spring": 48,
+    "summer": 22,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 28,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Tiêu trắng"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Tiêu hồng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Cỏ xô thơm"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Cacao"
+    }
+  ],
   "accords": [
-    { "name": "Gia vị ấm", "value": 100, "color": "#e67e22" },
-    { "name": "Gỗ", "value": 78, "color": "#8B4513" },
-    { "name": "Gourmand", "value": 55, "color": "#d4a373" },
-    { "name": "Cam chanh", "value": 42, "color": "#f1c40f" },
-    { "name": "Thơm thảo mộc", "value": 38, "color": "#2c7a4b" }
+    {
+      "name": "Gia vị ấm",
+      "value": 100,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Gỗ",
+      "value": 78,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gourmand",
+      "value": 55,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 42,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 38,
+      "color": "#2c7a4b"
+    }
   ],
   "seoTitle": "Carolina Herrera Bad Boy chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Carolina Herrera Bad Boy chính hãng: mùi tiêu gỗ cacao tối, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Tối", "Giá tốt", "Buổi tối"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Tối",
+    "Giá tốt",
+    "Buổi tối"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "150ml Fullbox"
+  ],
   "basePrice": 1800000,
   "shopeeOffers": [],
   "isPublished": true

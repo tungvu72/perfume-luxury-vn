@@ -6,10 +6,10 @@
   "subName": "Eau de Toilette",
   "perfumer": "Aurélien Guichard",
   "gender": "nam",
-  "image": "/images/products/versace-eros-main.jpg",
+  "image": "/images/products/versace-eros-edp-main.jpg",
   "images": [
     {
-      "url": "/images/products/versace-eros-main.jpg",
+      "url": "/images/products/versace-eros-edp-main.jpg",
       "source": "fragram",
       "caption": "Versace Eros Eau de Toilette chính hãng",
       "verified": true
@@ -19,30 +19,120 @@
   "article": "### Ai không nên mua?\n\nNếu bạn trên 35 và tìm chai mùi trưởng thành, thanh lịch thì Eros sẽ khiến bạn cảm thấy đang cosplay sinh viên đi club. Chai này TRẺ — bạc hà-táo xanh-vani phả ra năng lượng party rất rõ. Cũng cần cảnh báo: Eros phổ biến đến nỗi ở bất kỳ club hay bar nào ở Việt Nam, chắc chắn có ít nhất 2-3 người cùng xịt. Nếu bạn muốn khác biệt, Eros không phải đáp án.\n\n### Có đáng tiền không?\n\nGiá Versace thuộc nhóm rẻ nhất designer — và Eros cho hiệu năng gần như tốt nhất tầm giá: 8-9 giờ bám, tỏa mạnh 3-4 giờ đầu. So với Sauvage EDT — cùng phân khúc, cùng best seller — thì Eros ngọt hơn, nhiều bạc hà hơn và club hơn, trong khi Sauvage \"an toàn\" hơn cho mọi dịp. So với 1 Million EDT (Paco Rabanne) — cùng nhóm party — thì Eros tươi hơn và ít ngọt mật hơn. Tóm lại: Eros là chai tốt nhất cho giá-hiệu năng ở nhóm party.\n\n### Nên dùng khi nào?\n\nĐi club, đi bar, hẹn hò casual, tiệc sinh nhật. Xịt 2-3 nhát: cổ và cổ tay — tỏa mạnh nên không cần nhiều. Đẹp cả 4 mùa vì bạc hà giữ tươi vào hè, vani giữ ấm vào đông. Cả Sài Gòn và Hà Nội đều dùng thoải mái. Không nên xịt đi làm vì tỏa quá mạnh — đồng nghiệp ngồi phòng bên cũng nghe.",
   "verdict": "Bạc hà-táo-vani party king — tỏa mạnh, giá rẻ, best seller. Trẻ trung nhưng dễ đụng hàng.",
   "verdictShort": "BẠC HÀ VANI, PARTY KING, BEST SELLER",
-  "score": { "scent": 8.2, "uniqueness": 6.5, "compliments": 9.2, "value": 9.0, "total": 8.2 },
+  "score": {
+    "scent": 8.2,
+    "uniqueness": 6.5,
+    "compliments": 9.2,
+    "value": 9,
+    "total": 8.2
+  },
   "vibes": [
-    { "label": "Party", "icon": "🎉" },
-    { "label": "Trẻ trung", "icon": "⚡" },
-    { "label": "Best seller", "icon": "🏆" }
+    {
+      "label": "Party",
+      "icon": "🎉"
+    },
+    {
+      "label": "Trẻ trung",
+      "icon": "⚡"
+    },
+    {
+      "label": "Best seller",
+      "icon": "🏆"
+    }
   ],
   "longevity": 9,
   "sillage": 9,
-  "seasons": { "spring": 72, "summer": 62, "fall": 72, "winter": 68 },
-  "dayNight": { "day": 45, "night": 92 },
-  "topNotes": [{ "name": "Bạc hà" }, { "name": "Táo xanh" }, { "name": "Chanh" }],
-  "middleNotes": [{ "name": "Đậu Tonka" }, { "name": "Ambroxan" }, { "name": "Phong lữ" }],
-  "baseNotes": [{ "name": "Vani Madagascar" }, { "name": "Gỗ tuyết tùng Virginia" }, { "name": "Gỗ tuyết tùng Atlas" }, { "name": "Cỏ hương bài" }, { "name": "Rêu sồi" }],
+  "seasons": {
+    "spring": 72,
+    "summer": 62,
+    "fall": 72,
+    "winter": 68
+  },
+  "dayNight": {
+    "day": 45,
+    "night": 92
+  },
+  "topNotes": [
+    {
+      "name": "Bạc hà"
+    },
+    {
+      "name": "Táo xanh"
+    },
+    {
+      "name": "Chanh"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Ambroxan"
+    },
+    {
+      "name": "Phong lữ"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani Madagascar"
+    },
+    {
+      "name": "Gỗ tuyết tùng Virginia"
+    },
+    {
+      "name": "Gỗ tuyết tùng Atlas"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Rêu sồi"
+    }
+  ],
   "accords": [
-    { "name": "Tươi mát", "value": 100, "color": "#2ecc71" },
-    { "name": "Vani", "value": 78, "color": "#F5DEB3" },
-    { "name": "Thơm thảo mộc", "value": 65, "color": "#2c7a4b" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Ngọt", "value": 48, "color": "#8B0000" }
+    {
+      "name": "Tươi mát",
+      "value": 100,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Vani",
+      "value": 78,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 65,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Ngọt",
+      "value": 48,
+      "color": "#8B0000"
+    }
   ],
   "seoTitle": "Versace Eros EDT chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Versace Eros EDT chính hãng: mùi bạc hà vani party king, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Party", "Best seller", "Trẻ trung"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Party",
+    "Best seller",
+    "Trẻ trung"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 1800000,
   "shopeeOffers": [],
   "isPublished": true

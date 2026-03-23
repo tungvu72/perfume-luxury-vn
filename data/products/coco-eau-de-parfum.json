@@ -6,10 +6,10 @@
   "subName": "Eau de Parfum",
   "perfumer": "Jacques Polge",
   "gender": "nu",
-  "image": "/images/products/chanel-coco-edp-main.jpg",
+  "image": "/images/products/chanel-coco-eau-de-parfum-main.jpg",
   "images": [
     {
-      "url": "/images/products/chanel-coco-edp-main.jpg",
+      "url": "/images/products/chanel-coco-eau-de-parfum-main.jpg",
       "source": "fragram",
       "caption": "Chanel Coco Eau de Parfum chính hãng",
       "verified": true
@@ -19,31 +19,142 @@
   "article": "### Ai không nên mua?\n\nNếu bạn nghĩ Chanel = No.5 nhẹ nhàng thì Coco EDP sẽ là surprise: đây là chai Chanel NỮ NẶNG NHẤT — gia vị (đinh hương, rau mùi), hoa đậm (hồng, nhài), và base hổ phách-vani-labdanum dày. Chai lấy cảm hứng từ bộ sưu tập nghệ thuật Á Đông của Gabrielle Chanel. Ai thích mùi trẻ trung, nhẹ nhàng, tươi mát sẽ thấy Coco quá \"bà\".\n\n### Có đáng tiền không?\n\nGiá Chanel — và Coco EDP là chai oriental cổ điển 40+ năm. Jacques Polge tạo ra phiên bản EDP phức tạp hơn EDT gốc. So với Coco Noir — cùng Chanel — thì Coco EDP nhiều gia vị hơn, ấm hơn, ít tối hơn. So với Guerlain Shalimar — cùng nhóm oriental nữ kinh điển — thì Coco nhiều hoa hơn, ít smoky hơn. Bám 8-10 giờ, tỏa tốt.\n\n### Nên dùng khi nào?\n\nSự kiện trang trọng, opera, tiệc tối, hoặc khi muốn MÙI HƯƠNG CÓ TRỌNG LƯỢNG. Xịt 2 nhát: cổ và cổ tay — EDP mạnh. Thu đông đẹp nhất. Hà Nội tháng 10-2. Sài Gòn tối máy lạnh. Chai dành cho phụ nữ biết mình muốn gì.",
   "verdict": "Oriental nữ nặng nhất Chanel — gia vị, hoa, hổ phách. Lấy cảm hứng Á Đông. 40+ năm không lỗi mốt.",
   "verdictShort": "ORIENTAL CHANEL, GIA VỊ HOA, KHÔNG LỖI MỐT",
-  "score": { "scent": 8.5, "uniqueness": 8.5, "compliments": 7.5, "value": 7.5, "total": 8.0 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.5,
+    "compliments": 7.5,
+    "value": 7.5,
+    "total": 8
+  },
   "vibes": [
-    { "label": "Kinh điển", "icon": "👑" },
-    { "label": "Trưởng thành", "icon": "✨" },
-    { "label": "Trang trọng", "icon": "🥂" }
+    {
+      "label": "Kinh điển",
+      "icon": "👑"
+    },
+    {
+      "label": "Trưởng thành",
+      "icon": "✨"
+    },
+    {
+      "label": "Trang trọng",
+      "icon": "🥂"
+    }
   ],
   "longevity": 9,
   "sillage": 7,
-  "seasons": { "spring": 38, "summer": 8, "fall": 82, "winter": 88 },
-  "dayNight": { "day": 25, "night": 82 },
-  "topNotes": [{ "name": "Hoa hồng Bulgaria" }, { "name": "Rau mùi" }, { "name": "Đào" }, { "name": "Hoa nhài" }, { "name": "Cam quýt" }],
-  "middleNotes": [{ "name": "Đinh hương" }, { "name": "Hoa hồng" }, { "name": "Mimosa" }, { "name": "Hoa cam" }, { "name": "Cỏ ba lá" }],
-  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Gỗ đàn hương" }, { "name": "Opoponax" }, { "name": "Đậu Tonka" }, { "name": "Cầy hương" }, { "name": "Vani" }, { "name": "Labdanum" }],
+  "seasons": {
+    "spring": 38,
+    "summer": 8,
+    "fall": 82,
+    "winter": 88
+  },
+  "dayNight": {
+    "day": 25,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Hoa hồng Bulgaria"
+    },
+    {
+      "name": "Rau mùi"
+    },
+    {
+      "name": "Đào"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Cam quýt"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Đinh hương"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Mimosa"
+    },
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Cỏ ba lá"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Opoponax"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Cầy hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Labdanum"
+    }
+  ],
   "accords": [
-    { "name": "Hổ phách", "value": 100, "color": "#d4a017" },
-    { "name": "Gia vị ấm", "value": 78, "color": "#e67e22" },
-    { "name": "Ngọt", "value": 62, "color": "#8B0000" },
-    { "name": "Phấn", "value": 55, "color": "#d7bde2" },
-    { "name": "Gỗ", "value": 48, "color": "#8B4513" },
-    { "name": "Hoa hồng", "value": 42, "color": "#e91e63" }
+    {
+      "name": "Hổ phách",
+      "value": 100,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 78,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Ngọt",
+      "value": 62,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Phấn",
+      "value": 55,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Gỗ",
+      "value": 48,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hoa hồng",
+      "value": 42,
+      "color": "#e91e63"
+    }
   ],
   "seoTitle": "Chanel Coco EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Chanel Coco EDP chính hãng: mùi oriental gia vị hoa hổ phách kinh điển, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Kinh điển", "Oriental", "Trang trọng"],
-  "sizes": ["10ml Chiết", "35ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Kinh điển",
+    "Oriental",
+    "Trang trọng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "35ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 3200000,
   "shopeeOffers": [],
   "isPublished": true

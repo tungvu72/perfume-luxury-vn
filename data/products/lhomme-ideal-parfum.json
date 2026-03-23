@@ -6,32 +6,120 @@
   "subName": "Parfum",
   "perfumer": "Thierry Wasser",
   "gender": "nam",
-  "image": "/images/products/guerlain-lhomme-ideal-parfum-main.jpg",
+  "image": "/images/products/guerlain-lhomme-ideal-parfum-main.webp",
   "images": [
-    { "url": "/images/products/guerlain-lhomme-ideal-parfum-main.jpg", "source": "fragram", "caption": "Guerlain L'Homme Idéal Parfum chính hãng", "verified": true }
+    {
+      "url": "/images/products/guerlain-lhomme-ideal-parfum-main.webp",
+      "source": "fragram",
+      "caption": "Guerlain L'Homme Idéal Parfum chính hãng",
+      "verified": true
+    }
   ],
   "description": "Nồng độ cao nhất dòng Idéal — da thuộc, hạnh nhân, vani, gỗ đàn hương, quế và hổ phách. Tối hơn, nhiều da hơn, gentleman trưởng thành nhất.",
   "article": "### Ai không nên mua?\n\nNếu bạn thích L'Homme Idéal EDP (hạnh nhân-cherry nhẹ) — thì Parfum SẺ TỐI hơn nhiều. Thierry Wasser đẩy da thuộc lên làm chủ đạo, giảm cherry, thêm vani-hổ phách. Kết quả: gentleman trưởng thành thay vì romantic boy. Ai muốn nhẹ nhàng nên ở lại EDP.\n\n### Có đáng tiền không?\n\nGiá Guerlain Parfum — đắt hơn EDP nhưng bám 10+ giờ. So với EDP — tối hơn, nhiều da hơn, ít cherry hơn, mature hơn. So với Dior Homme Parfum — cùng nhóm leather-iris từ xưa — thì Idéal Parfum ngọt hơn, gourmand hơn. So với Tom Ford Ombré Leather — cùng da — thì Idéal rẻ hơn nhiều.\n\n### Nên dùng khi nào?\n\nĐi ăn tối sang, sự kiện, buổi tối đặc biệt. Xịt 2 nhát cổ — Parfum mạnh. Thu đông — Hà Nội tháng 10-2. Sài Gòn tối điều hòa. Phiên bản \"cha\" của dòng Idéal.",
   "verdict": "Da-hạnh nhân-vani — Idéal đậm nhất. Parfum 10h. Gentleman trưởng thành. Thierry Wasser peak.",
   "verdictShort": "DA HẠNH NHÂN, PARFUM, TRƯỞNG THÀNH",
-  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 8.5, "value": 8.0, "total": 8.5 },
-  "vibes": [{ "label": "Trưởng thành", "icon": "🎩" }, { "label": "Da thuộc", "icon": "🖤" }, { "label": "Sang trọng", "icon": "💎" }],
-  "longevity": 10, "sillage": 7,
-  "seasons": { "spring": 28, "summer": 8, "fall": 85, "winter": 92 },
-  "dayNight": { "day": 22, "night": 85 },
-  "topNotes": [{ "name": "Quế" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Hạnh nhân" }, { "name": "Da thuộc" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Hổ phách" }],
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.5,
+    "compliments": 8.5,
+    "value": 8,
+    "total": 8.5
+  },
+  "vibes": [
+    {
+      "label": "Trưởng thành",
+      "icon": "🎩"
+    },
+    {
+      "label": "Da thuộc",
+      "icon": "🖤"
+    },
+    {
+      "label": "Sang trọng",
+      "icon": "💎"
+    }
+  ],
+  "longevity": 10,
+  "sillage": 7,
+  "seasons": {
+    "spring": 28,
+    "summer": 8,
+    "fall": 85,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 22,
+    "night": 85
+  },
+  "topNotes": [
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hạnh nhân"
+    },
+    {
+      "name": "Da thuộc"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Da thuộc", "value": 100, "color": "#795548" },
-    { "name": "Gourmand", "value": 72, "color": "#d4a373" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Gia vị ấm", "value": 48, "color": "#e67e22" },
-    { "name": "Vani", "value": 42, "color": "#F5DEB3" }
+    {
+      "name": "Da thuộc",
+      "value": 100,
+      "color": "#795548"
+    },
+    {
+      "name": "Gourmand",
+      "value": 72,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 48,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Vani",
+      "value": 42,
+      "color": "#F5DEB3"
+    }
   ],
   "seoTitle": "Guerlain L'Homme Idéal Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá L'Homme Idéal Parfum chính hãng: mùi da hạnh nhân vani parfum trưởng thành, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Trưởng thành", "Da thuộc", "Parfum"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
-  "basePrice": 2800000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nam",
+    "Trưởng thành",
+    "Da thuộc",
+    "Parfum"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

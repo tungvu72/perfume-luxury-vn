@@ -6,10 +6,10 @@
   "subName": "Eau de Parfum",
   "perfumer": "Christine Nagel",
   "gender": "nu",
-  "image": "/images/products/giorgio-armani-si-edp-main.jpg",
+  "image": "/images/products/armani-si-edp-main.jpg",
   "images": [
     {
-      "url": "/images/products/giorgio-armani-si-edp-main.jpg",
+      "url": "/images/products/armani-si-edp-main.jpg",
       "source": "fragram",
       "caption": "Giorgio Armani Sì Eau de Parfum chính hãng",
       "verified": true
@@ -19,30 +19,119 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi dễ thương, ngọt ngào kiểu La Vie Est Belle thì Sì sẽ khiến bạn nghĩ \"mùi này già quá\". Đây là chai nữ kiểu PHONG CÁCH — lý chua đen trộn freesia, rất sophisticate, rất Armani. Ai dưới 20 tuổi phần lớn sẽ thấy nó quá trưởng thành. Cũng không hợp đi picnic hay đi biển — Sì là chai đi runway, không phải đi công viên.\n\n### Có đáng tiền không?\n\nGiá tầm trung Armani — ngang Dior và Chanel. Sì đặc biệt ở lý chua đen mở ra rất sang, kiểu rót ly rượu vang đỏ trong gallery nghệ thuật. So với Coco Mademoiselle — cùng nhóm chai nữ best seller sang trọng — thì Sì tối hơn, nhiều hoắc hương hơn và ít citrus hơn. So với YSL Black Opium — cùng nhóm đậm — thì Sì thanh lịch hơn, ít cà phê hơn và professional hơn. Bám 7-8 giờ, tỏa tốt.\n\n### Nên dùng khi nào?\n\nĐi làm ở công ty có dress code, gặp đối tác, sự kiện chuyên nghiệp, hoặc ăn tối nơi sang trọng. Xịt 2-3 nhát: cổ và cổ tay. Dùng quanh năm — cả Hà Nội lẫn Sài Gòn đều dùng được vì blend cân bằng. Đẹp nhất thu: không quá nóng, không quá lạnh, Sì tỏa ra đúng chất vừa phải.",
   "verdict": "Chai nữ professional nhất — lý chua đen, freesia, sang. Cho ai mặc blazer và tự tin.",
   "verdictShort": "LÝ CHUA ĐEN, PROFESSIONAL, THANH LỊCH",
-  "score": { "scent": 8.5, "uniqueness": 8.0, "compliments": 8.5, "value": 8.0, "total": 8.3 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8,
+    "compliments": 8.5,
+    "value": 8,
+    "total": 8.3
+  },
   "vibes": [
-    { "label": "Professional", "icon": "💼" },
-    { "label": "Thanh lịch", "icon": "✨" },
-    { "label": "Sang trọng", "icon": "💎" }
+    {
+      "label": "Professional",
+      "icon": "💼"
+    },
+    {
+      "label": "Thanh lịch",
+      "icon": "✨"
+    },
+    {
+      "label": "Sang trọng",
+      "icon": "💎"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
-  "seasons": { "spring": 72, "summer": 48, "fall": 82, "winter": 68 },
-  "dayNight": { "day": 72, "night": 68 },
-  "topNotes": [{ "name": "Lý chua đen" }, { "name": "Cam bergamot Sicily" }, { "name": "Cam quýt" }],
-  "middleNotes": [{ "name": "Hoa hồng tháng Năm" }, { "name": "Freesia" }, { "name": "Neroli" }, { "name": "Nhài Ai Cập" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Hoắc hương" }, { "name": "Ambroxan" }, { "name": "Hổ phách" }],
+  "seasons": {
+    "spring": 72,
+    "summer": 48,
+    "fall": 82,
+    "winter": 68
+  },
+  "dayNight": {
+    "day": 72,
+    "night": 68
+  },
+  "topNotes": [
+    {
+      "name": "Lý chua đen"
+    },
+    {
+      "name": "Cam bergamot Sicily"
+    },
+    {
+      "name": "Cam quýt"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng tháng Năm"
+    },
+    {
+      "name": "Freesia"
+    },
+    {
+      "name": "Neroli"
+    },
+    {
+      "name": "Nhài Ai Cập"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Ambroxan"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Trái cây", "value": 100, "color": "#f39c12" },
-    { "name": "Hoa", "value": 72, "color": "#e91e63" },
-    { "name": "Gỗ", "value": 62, "color": "#8B4513" },
-    { "name": "Ngọt", "value": 52, "color": "#8B0000" },
-    { "name": "Chypre", "value": 42, "color": "#2c3e50" }
+    {
+      "name": "Trái cây",
+      "value": 100,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Hoa",
+      "value": 72,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Gỗ",
+      "value": 62,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Ngọt",
+      "value": 52,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Chypre",
+      "value": 42,
+      "color": "#2c3e50"
+    }
   ],
   "seoTitle": "Giorgio Armani Sì EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Giorgio Armani Sì EDP chính hãng: mùi lý chua đen professional thanh lịch, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Professional", "Thanh lịch", "Sang trọng"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Professional",
+    "Thanh lịch",
+    "Sang trọng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2500000,
   "shopeeOffers": [],
   "isPublished": true

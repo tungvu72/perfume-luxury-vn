@@ -1,23 +1,118 @@
 {
-  "id": "n019", "brandSlug": "chanel", "brand": "CHANEL", "name": "N°19", "subName": "Eau de Toilette",
-  "perfumer": "Henri Robert", "gender": "nu",
-  "image": "/images/products/chanel-no19-edt-main.jpg",
-  "images": [{ "url": "/images/products/chanel-no19-edt-main.jpg", "source": "fragram", "caption": "Chanel N°19 EDT chính hãng", "verified": true }],
+  "id": "n019",
+  "brandSlug": "chanel",
+  "brand": "CHANEL",
+  "name": "N°19",
+  "subName": "Eau de Toilette",
+  "perfumer": "Henri Robert",
+  "gender": "nu",
+  "image": "/images/products/chanel-n019-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/chanel-n019-main.jpg",
+      "source": "fragram",
+      "caption": "Chanel N°19 EDT chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Phiên bản EDT nhẹ hơn N°19 — galbanum xanh sắc, iris, nhài, hồng, gỗ tuyết tùng, rêu sồi và cỏ hương bài. N°19 mỏng hơn, tươi hơn, cho ban ngày.",
   "article": "### Ai không nên mua?\n\nNếu bạn đã có N°19 EDP — EDT mỏng hơn nhiều: bám 3-4 giờ, tỏa ít, galbanum xanh bay nhanh. Cùng Henri Robert 1970, cùng DNA, nhưng EDT chỉ giữ lại khung xương mà thiếu thịt. Ai muốn full experience chọn EDP.\n\n### Có đáng tiền không?\n\nGiá Chanel EDT — rẻ hơn EDP nhưng bám ngắn. So với N°19 EDP — nhẹ hơn 50%. So với N°19 Poudré — EDT ít powdery hơn, sắc hơn nhưng bay nhanh.\n\n### Nên dùng khi nào?\n\nBan ngày mùa hè, đi dạo, khi muốn N°19 mà trời nóng. Xịt 4-5 nhát vì EDT bay nhanh.",
   "verdict": "N°19 siêu nhẹ — EDT bay nhanh, cho mùa hè. EDP vẫn là best. Entry point N°19.",
   "verdictShort": "N°19 NHẸ, MÙA HÈ, ENTRY POINT",
-  "score": { "scent": 8.0, "uniqueness": 8.5, "compliments": 5.5, "value": 7.0, "total": 7.3 },
-  "vibes": [{ "label": "Nhẹ", "icon": "🌿" }, { "label": "Ban ngày", "icon": "☀️" }, { "label": "Xanh", "icon": "🧊" }],
-  "longevity": 3, "sillage": 3,
-  "seasons": { "spring": 82, "summer": 72, "fall": 42, "winter": 22 },
-  "dayNight": { "day": 85, "night": 28 },
-  "topNotes": [{ "name": "Galbanum" }, { "name": "Neroli" }],
-  "middleNotes": [{ "name": "Iris" }, { "name": "Hoa nhài" }, { "name": "Hoa hồng" }],
-  "baseNotes": [{ "name": "Gỗ tuyết tùng" }, { "name": "Rêu sồi" }, { "name": "Cỏ hương bài" }],
-  "accords": [{ "name": "Xanh", "value": 100, "color": "#27ae60" }, { "name": "Hoa", "value": 72, "color": "#e91e63" }, { "name": "Gỗ", "value": 48, "color": "#8B4513" }],
+  "score": {
+    "scent": 8,
+    "uniqueness": 8.5,
+    "compliments": 5.5,
+    "value": 7,
+    "total": 7.3
+  },
+  "vibes": [
+    {
+      "label": "Nhẹ",
+      "icon": "🌿"
+    },
+    {
+      "label": "Ban ngày",
+      "icon": "☀️"
+    },
+    {
+      "label": "Xanh",
+      "icon": "🧊"
+    }
+  ],
+  "longevity": 3,
+  "sillage": 3,
+  "seasons": {
+    "spring": 82,
+    "summer": 72,
+    "fall": 42,
+    "winter": 22
+  },
+  "dayNight": {
+    "day": 85,
+    "night": 28
+  },
+  "topNotes": [
+    {
+      "name": "Galbanum"
+    },
+    {
+      "name": "Neroli"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Xanh",
+      "value": 100,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Hoa",
+      "value": 72,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Gỗ",
+      "value": 48,
+      "color": "#8B4513"
+    }
+  ],
   "seoTitle": "Chanel N°19 EDT chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Chanel N°19 EDT chính hãng: mùi xanh iris nhẹ cho ban ngày mùa hè, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Nhẹ", "Mùa hè", "Xanh"], "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
-  "basePrice": 2500000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Nhẹ",
+    "Mùa hè",
+    "Xanh"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

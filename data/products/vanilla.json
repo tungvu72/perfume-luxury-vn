@@ -1,18 +1,120 @@
 {
-  "id": "vanilla", "brandSlug": "tom-ford", "brand": "TOM FORD", "name": "Vanilla Sex", "subName": "Eau de Parfum",
-  "perfumer": "Rodrigo Flores-Roux", "gender": "unisex",
-  "image": "/images/products/tom-ford-vanilla-sex-main.jpg",
-  "images": [{ "url": "/images/products/tom-ford-vanilla-sex-main.jpg", "source": "fragram", "caption": "Tom Ford Vanilla Sex chính hãng", "verified": true }],
+  "id": "vanilla",
+  "brandSlug": "tom-ford",
+  "brand": "TOM FORD",
+  "name": "Vanilla Sex",
+  "subName": "Eau de Parfum",
+  "perfumer": "Rodrigo Flores-Roux",
+  "gender": "unisex",
+  "image": "/images/products/tom-ford-tobacco-vanille-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/tom-ford-tobacco-vanille-main.jpg",
+      "source": "fragram",
+      "caption": "Tom Ford Vanilla Sex chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai unisex vani-nghệ tây-rum kiểu private blend sex — vani, nghệ tây, rum, nhựa thơm, gỗ đàn hương, hổ phách và xạ hương. Vani dày, boozy và rất Tom Ford.",
   "article": "### Ai không nên mua?\n\nNếu bạn ghét vani ngọt — Vanilla Sex là VANI THUẦN + rum + nghệ tây. Rodrigo Flores-Roux tạo ra chai Private Blend mà TÊN đã nói hết: Vanilla SEX. Dày, nóng, boozy — không subtle, không kín đáo. Ai muốn sạch-sáng-office đừng mua.\n\n### Có đáng tiền không?\n\nGiá Tom Ford Private Blend — ĐẮT. So với JPG La Belle Le Parfum — cùng vani bomb — thì VS đắt hơn 3 lần nhưng sâu hơn, boozy hơn, luxury hơn. So với Dior Vanilla Diorama — cùng vani designer — thì VS nặng hơn. Bám 10+ giờ.\n\n### Nên dùng khi nào?\n\nHẹn hò, đêm đặc biệt, phòng ngủ. Xịt 1-2 nhát cổ. Mùa đông only. Chai xịt tên là SEX — bạn hiểu rồi.",
   "verdict": "Vani sex — Tom Ford Private Blend. Rum nghệ tây. 10h+. Tên nói hết. Đắt nhưng xứng.",
   "verdictShort": "VANI SEX, TOM FORD, BOOZY ĐẮT",
-  "score": { "scent": 9.0, "uniqueness": 8.5, "compliments": 9.0, "value": 6.5, "total": 8.3 },
-  "vibes": [{ "label": "Sex", "icon": "🔥" }, { "label": "Boozy", "icon": "🥃" }, { "label": "Private Blend", "icon": "💎" }],
-  "longevity": 10, "sillage": 8, "seasons": { "spring": 12, "summer": 2, "fall": 72, "winter": 92 }, "dayNight": { "day": 5, "night": 92 },
-  "topNotes": [{ "name": "Nghệ tây" }, { "name": "Rum" }], "middleNotes": [{ "name": "Vani" }, { "name": "Nhựa thơm" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Hổ phách" }, { "name": "Xạ hương" }],
-  "accords": [{ "name": "Vani", "value": 100, "color": "#F5DEB3" }, { "name": "Boozy", "value": 78, "color": "#6d4c41" }, { "name": "Hổ phách", "value": 62, "color": "#d4a017" }, { "name": "Gia vị ấm", "value": 48, "color": "#e67e22" }],
-  "seoTitle": "Tom Ford Vanilla Sex chính hãng mua ở đâu? Review 2026", "metaDescription": "Đánh giá Tom Ford Vanilla Sex chính hãng: vani sex boozy Private Blend, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Unisex", "Sex", "Boozy", "Private Blend"], "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"], "basePrice": 7000000, "shopeeOffers": [], "isPublished": true
+  "score": {
+    "scent": 9,
+    "uniqueness": 8.5,
+    "compliments": 9,
+    "value": 6.5,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Sex",
+      "icon": "🔥"
+    },
+    {
+      "label": "Boozy",
+      "icon": "🥃"
+    },
+    {
+      "label": "Private Blend",
+      "icon": "💎"
+    }
+  ],
+  "longevity": 10,
+  "sillage": 8,
+  "seasons": {
+    "spring": 12,
+    "summer": 2,
+    "fall": 72,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 5,
+    "night": 92
+  },
+  "topNotes": [
+    {
+      "name": "Nghệ tây"
+    },
+    {
+      "name": "Rum"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Nhựa thơm"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Vani",
+      "value": 100,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Boozy",
+      "value": 78,
+      "color": "#6d4c41"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 62,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 48,
+      "color": "#e67e22"
+    }
+  ],
+  "seoTitle": "Tom Ford Vanilla Sex chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Tom Ford Vanilla Sex chính hãng: vani sex boozy Private Blend, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": [
+    "Unisex",
+    "Sex",
+    "Boozy",
+    "Private Blend"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 7000000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

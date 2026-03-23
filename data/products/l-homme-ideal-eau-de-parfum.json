@@ -6,10 +6,10 @@
   "subName": "Eau de Parfum",
   "perfumer": "Thierry Wasser",
   "gender": "nam",
-  "image": "/images/products/guerlain-lhomme-ideal-edp-main.jpg",
+  "image": "/images/products/guerlain-l-homme-ideal-eau-de-parfum-main.webp",
   "images": [
     {
-      "url": "/images/products/guerlain-lhomme-ideal-edp-main.jpg",
+      "url": "/images/products/guerlain-l-homme-ideal-eau-de-parfum-main.webp",
       "source": "fragram",
       "caption": "Guerlain L'Homme Idéal EDP chính hãng",
       "verified": true
@@ -19,30 +19,109 @@
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi masculine mạnh kiểu Sauvage — thì L'Homme Idéal EDP quá NHẸ NHÀNG, quá lãng mạn. Hạnh nhân + hoa anh đào tạo ra combo ngọt-hoa mà nhiều nam giới sẽ thấy \"thiếu nam tính\". Nhưng đó đúng là ý đồ: \"L'Homme Idéal\" = đàn ông LÝ TƯỞNG — lãng mạn, tinh tế, biết chăm sóc. Không phải aggressive warrior.\n\n### Có đáng tiền không?\n\nGiá Guerlain tầm trung — và EDP bám tốt: 7-8 giờ. Thierry Wasser (in-house perfumer Guerlain) tạo ra combo hạnh nhân-cherry rất Guerlain: gourmand nhẹ, không quá ngọt, có gỗ hồng giữ thanh. So với L'Homme Idéal Parfum (phiên bản 2022) — cùng dòng — thì EDP nhẹ hơn, nhiều cherry hơn, ít leather hơn. So với Valentino Uomo Born in Roma — cùng nhóm — thì Idéal EDP nhiều hạnh nhân hơn.\n\n### Nên dùng khi nào?\n\nHẹn hò, ăn tối, Valentine's, hoặc định xin lỗi ai. Xịt 2-3 nhát: cổ và cổ tay. Thu đông nhẹ — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai cho romantic gentleman.",
   "verdict": "Hạnh nhân-cherry gentleman lãng mạn — Thierry Wasser Guerlain. Gentle, không aggressive. Cho người lý tưởng.",
   "verdictShort": "HẠNH NHÂN CHERRY, LÃNG MẠN, GENTLEMAN",
-  "score": { "scent": 8.0, "uniqueness": 8.0, "compliments": 8.5, "value": 8.0, "total": 8.1 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 8,
+    "compliments": 8.5,
+    "value": 8,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Lãng mạn", "icon": "🌹" },
-    { "label": "Gentleman", "icon": "🎩" },
-    { "label": "Hẹn hò", "icon": "💕" }
+    {
+      "label": "Lãng mạn",
+      "icon": "🌹"
+    },
+    {
+      "label": "Gentleman",
+      "icon": "🎩"
+    },
+    {
+      "label": "Hẹn hò",
+      "icon": "💕"
+    }
   ],
   "longevity": 8,
   "sillage": 6,
-  "seasons": { "spring": 62, "summer": 28, "fall": 78, "winter": 72 },
-  "dayNight": { "day": 42, "night": 78 },
-  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Hạnh nhân" }],
-  "middleNotes": [{ "name": "Hoa anh đào" }, { "name": "Quế" }, { "name": "Gỗ hồng" }],
-  "baseNotes": [{ "name": "Da thuộc" }, { "name": "Vani" }, { "name": "Gỗ đàn hương" }],
+  "seasons": {
+    "spring": 62,
+    "summer": 28,
+    "fall": 78,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 42,
+    "night": 78
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Hạnh nhân"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa anh đào"
+    },
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Gỗ hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
   "accords": [
-    { "name": "Gourmand", "value": 100, "color": "#d4a373" },
-    { "name": "Hoa", "value": 62, "color": "#e91e63" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Gia vị ấm", "value": 48, "color": "#e67e22" },
-    { "name": "Ngọt", "value": 42, "color": "#8B0000" }
+    {
+      "name": "Gourmand",
+      "value": 100,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Hoa",
+      "value": 62,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 48,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Ngọt",
+      "value": 42,
+      "color": "#8B0000"
+    }
   ],
   "seoTitle": "Guerlain L'Homme Idéal EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá L'Homme Idéal EDP chính hãng: mùi hạnh nhân cherry lãng mạn gentleman, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Lãng mạn", "Gentleman", "Hẹn hò"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Lãng mạn",
+    "Gentleman",
+    "Hẹn hò"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

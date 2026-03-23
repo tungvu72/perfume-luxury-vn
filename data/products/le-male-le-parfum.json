@@ -6,10 +6,10 @@
   "subName": "Eau de Parfum Intense",
   "perfumer": "Quentin Bisch & Natalie Gracia-Cetto",
   "gender": "nam",
-  "image": "/images/products/jean-paul-gaultier-le-male-le-parfum-main.jpg",
+  "image": "/images/products/jpg-le-male-le-parfum-main.jpg",
   "images": [
     {
-      "url": "/images/products/jean-paul-gaultier-le-male-le-parfum-main.jpg",
+      "url": "/images/products/jpg-le-male-le-parfum-main.jpg",
       "source": "fragram",
       "caption": "Jean Paul Gaultier Le Male Le Parfum chính hãng",
       "verified": true
@@ -19,30 +19,104 @@
   "article": "### Ai không nên mua?\n\nNếu bạn đã có Le Male EDT gốc và kỳ vọng Le Parfum sẽ giống nhưng mạnh hơn — thì SAI. Le Parfum là một chai KHÁC: bạch đậu khấu và vani chiếm chủ đạo thay vì bạc hà-lavender, tạo ra mùi ấm ngọt hơn nhiều. Ai thích mùi tươi mát cũng đừng nghĩ tới — Le Parfum ngọt và ấm, kiểu ôm chăn len ngày đông. Dùng mùa hè nóng 35°C sẽ ngộp vì vani.\n\n### Có đáng tiền không?\n\nGiá JPG thuộc nhóm rẻ nhất designer — và Le Parfum là bản intense nên đậm hơn, bám lâu hơn EDT rất nhiều. So với 1 Million Parfum (Paco Rabanne) — cùng tầm giá, cùng năm — thì Le Parfum truyền thống hơn, ấm hơn và dễ tiếp cận hơn. So với Dior Sauvage Elixir — khác hẳn DNA — thì Le Parfum ngọt hơn và nhiều vani hơn. Bám 8-10 giờ, tỏa mạnh 3-4 giờ đầu. Giá cực tốt cho hiệu năng này.\n\n### Nên dùng khi nào?\n\nHẹn hò, đi bar, tiệc tối, cuối tuần đi chơi. Xịt 2 nhát cổ — nhiều hơn thì vani ngộp. Trời mát-lạnh là lý tưởng: Hà Nội tháng 10-3, Sài Gòn đêm mát hiếm hoi hoặc phòng điều hòa. Chai này tỏa mạnh nên khoảng cách xã hội sẽ tự giảm — ai đứng gần đều ngửi được, và phần lớn sẽ thích.",
   "verdict": "Bạch đậu khấu-lavender-vani intense — ấm, cuốn, giá tốt. Le Male nâng cấp cho mùa đông.",
   "verdictShort": "BẠCH ĐẬU KHẤU VANI, ẤM, CUỐN HÚT",
-  "score": { "scent": 8.5, "uniqueness": 7.5, "compliments": 9.0, "value": 9.0, "total": 8.5 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 7.5,
+    "compliments": 9,
+    "value": 9,
+    "total": 8.5
+  },
   "vibes": [
-    { "label": "Cuốn hút", "icon": "🔥" },
-    { "label": "Hẹn hò", "icon": "❤️" },
-    { "label": "Giá tốt", "icon": "💸" }
+    {
+      "label": "Cuốn hút",
+      "icon": "🔥"
+    },
+    {
+      "label": "Hẹn hò",
+      "icon": "❤️"
+    },
+    {
+      "label": "Giá tốt",
+      "icon": "💸"
+    }
   ],
   "longevity": 9,
   "sillage": 8,
-  "seasons": { "spring": 45, "summer": 12, "fall": 85, "winter": 95 },
-  "dayNight": { "day": 22, "night": 88 },
-  "topNotes": [{ "name": "Bạch đậu khấu" }],
-  "middleNotes": [{ "name": "Oải hương" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Phương Đông" }, { "name": "Gỗ" }],
+  "seasons": {
+    "spring": 45,
+    "summer": 12,
+    "fall": 85,
+    "winter": 95
+  },
+  "dayNight": {
+    "day": 22,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Bạch đậu khấu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Phương Đông"
+    },
+    {
+      "name": "Gỗ"
+    }
+  ],
   "accords": [
-    { "name": "Gia vị ấm", "value": 100, "color": "#e67e22" },
-    { "name": "Vani", "value": 82, "color": "#F5DEB3" },
-    { "name": "Thơm thảo mộc", "value": 65, "color": "#2c7a4b" },
-    { "name": "Ngọt", "value": 55, "color": "#8B0000" },
-    { "name": "Gỗ", "value": 42, "color": "#8B4513" }
+    {
+      "name": "Gia vị ấm",
+      "value": 100,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Vani",
+      "value": 82,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 65,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Ngọt",
+      "value": 55,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gỗ",
+      "value": 42,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "JPG Le Male Le Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá JPG Le Male Le Parfum chính hãng: mùi bạch đậu khấu vani ấm cuốn hút, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Cuốn hút", "Giá tốt", "Thu đông"],
-  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Cuốn hút",
+    "Giá tốt",
+    "Thu đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox",
+    "125ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 1800000,
   "shopeeOffers": [],
   "isPublished": true

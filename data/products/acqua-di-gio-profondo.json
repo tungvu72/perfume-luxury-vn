@@ -6,10 +6,10 @@
   "subName": "Eau de Parfum",
   "perfumer": "Alberto Morillas",
   "gender": "nam",
-  "image": "/images/products/giorgio-armani-acqua-di-gio-profondo-main.jpg",
+  "image": "/images/products/acqua-di-gio-profondo-main.jpg",
   "images": [
     {
-      "url": "/images/products/giorgio-armani-acqua-di-gio-profondo-main.jpg",
+      "url": "/images/products/acqua-di-gio-profondo-main.jpg",
       "source": "fragram",
       "caption": "Acqua di Giò Profondo Eau de Parfum chính hãng",
       "verified": true
@@ -19,30 +19,122 @@
   "article": "### Ai không nên mua?\n\nNếu bạn đang tìm bản \"Acqua di Gio hiện đại\" thì Profondo chính xác là thứ bạn cần. Nhưng nếu bạn nostalgia AdG gốc 1996 — kiểu biển nhẹ, tươi mát, đơn giản — thì Profondo sẽ khác hẳn: nặng hơn, tối hơn, nhiều khoáng-hoắc hương hơn. Ai thích mùi ấm ngọt cũng sẽ thấy nó lạnh và \"mineral\" quá.\n\n### Có đáng tiền không?\n\nGiá Armani tầm trung — và Alberto Morillas (cùng perfumer tạo Acqua di Gio gốc) quay lại làm Profondo. So với Bleu de Chanel EDP — cùng nhóm nam sạch hiện đại — thì Profondo biển hơn, khoáng hơn và ít gỗ hơn. So với Versace Dylan Blue — rẻ hơn — thì Profondo phức tạp hơn một bậc với lớp lentisque-cypress. Bám 7-8 giờ (tốt hơn AdG gốc rất nhiều), tỏa vừa.\n\n### Nên dùng khi nào?\n\nĐi làm, đi chơi ban ngày, du lịch biển, dạo phố. Xịt 3 nhát: cổ, ngực, cổ tay. Dùng xuân hè là đẹp nhất — ở Sài Gòn dùng quanh năm. Hà Nội từ tháng 3-10. Mùa đông có thể hơi lạnh vì khoáng. Chai \"làm mới AdG\" cho thế hệ 2020.",
   "verdict": "Biển sâu khoáng — Acqua di Gio nâng cấp 2020. Morillas quay lại. Sạch, hiện đại, bám tốt hơn gốc.",
   "verdictShort": "BIỂN SÂU KHOÁNG, ADG NAG CẤP, HIỆN ĐẠI",
-  "score": { "scent": 8.5, "uniqueness": 7.5, "compliments": 8.5, "value": 8.0, "total": 8.1 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 7.5,
+    "compliments": 8.5,
+    "value": 8,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Biển sâu", "icon": "🌊" },
-    { "label": "Hiện đại", "icon": "✨" },
-    { "label": "Office", "icon": "💼" }
+    {
+      "label": "Biển sâu",
+      "icon": "🌊"
+    },
+    {
+      "label": "Hiện đại",
+      "icon": "✨"
+    },
+    {
+      "label": "Office",
+      "icon": "💼"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
-  "seasons": { "spring": 88, "summer": 82, "fall": 52, "winter": 28 },
-  "dayNight": { "day": 88, "night": 42 },
-  "topNotes": [{ "name": "Biển" }, { "name": "Aquozone" }, { "name": "Cam bergamot" }, { "name": "Cam xanh" }],
-  "middleNotes": [{ "name": "Hương thảo" }, { "name": "Oải hương" }, { "name": "Bách" }, { "name": "Lentisque" }],
-  "baseNotes": [{ "name": "Khoáng" }, { "name": "Xạ hương" }, { "name": "Hoắc hương" }, { "name": "Hổ phách" }],
+  "seasons": {
+    "spring": 88,
+    "summer": 82,
+    "fall": 52,
+    "winter": 28
+  },
+  "dayNight": {
+    "day": 88,
+    "night": 42
+  },
+  "topNotes": [
+    {
+      "name": "Biển"
+    },
+    {
+      "name": "Aquozone"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Cam xanh"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hương thảo"
+    },
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Bách"
+    },
+    {
+      "name": "Lentisque"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Khoáng"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Nước", "value": 100, "color": "#2980b9" },
-    { "name": "Thơm thảo mộc", "value": 72, "color": "#2c7a4b" },
-    { "name": "Cam chanh", "value": 62, "color": "#f1c40f" },
-    { "name": "Khoáng", "value": 55, "color": "#7f8c8d" },
-    { "name": "Gỗ", "value": 42, "color": "#8B4513" }
+    {
+      "name": "Nước",
+      "value": 100,
+      "color": "#2980b9"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 72,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 62,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Khoáng",
+      "value": 55,
+      "color": "#7f8c8d"
+    },
+    {
+      "name": "Gỗ",
+      "value": 42,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "Acqua di Giò Profondo chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Acqua di Giò Profondo chính hãng: mùi biển sâu khoáng hiện đại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Biển", "Hiện đại", "Office"],
-  "sizes": ["10ml Chiết", "40ml Fullbox", "75ml Fullbox", "125ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Biển",
+    "Hiện đại",
+    "Office"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "40ml Fullbox",
+    "75ml Fullbox",
+    "125ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

@@ -6,10 +6,10 @@
   "subName": "Eau de Parfum",
   "perfumer": "Jacques Polge",
   "gender": "nam",
-  "image": "/images/products/chanel-allure-homme-edition-blanche-main.jpg",
+  "image": "/images/products/chanel-allure-homme-edition-blanche-main.webp",
   "images": [
     {
-      "url": "/images/products/chanel-allure-homme-edition-blanche-main.jpg",
+      "url": "/images/products/chanel-allure-homme-edition-blanche-main.webp",
       "source": "fragram",
       "caption": "Chanel Allure Homme Édition Blanche chính hãng",
       "verified": true
@@ -19,30 +19,109 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt đậm hay mùi tối ấm kiểu club đêm — thì Edition Blanche sẽ quá sáng, quá sạch, quá \"fresh\" cho bạn. Đây là chai Chanel nam SÁNG nhất — chanh Sicily mở ra kiểu kem chanh gelato, rồi gỗ đàn hương giữ cho nó mượt cả ngày. Ai muốn chai gây ấn tượng mạnh tỏa xa cũng nên biết: Edition Blanche tỏa nhẹ, kiểu da sạch hơn là phả ra xa.\n\n### Có đáng tiền không?\n\nGiá Chanel nhưng EDP nên bám lâu: 8-9 giờ. So với Allure Homme Sport — cùng dòng — thì Edition Blanche citrus hơn, ít sporty hơn và clean hơn. So với Bleu de Chanel EDP — cùng hãng — thì Edition Blanche sáng hơn nhiều, ít ambroxan hơn, ít \"tối\" hơn. Chai này underrated trong dòng Chanel nam — ít ai biết nhưng ai dùng đều thích.\n\n### Nên dùng khi nào?\n\nĐi làm, đi cafe ban ngày, gặp gỡ lịch sự, hoặc khi nào muốn mùi sạch-sang không gây chú ý quá. Xịt 3 nhát: cổ, ngực, cổ tay. Xuân hè là đẹp nhất. Ở Sài Gòn dùng quanh năm vì sáng tươi. Hà Nội tháng 3-10. Chai \"hidden gem\" Chanel.",
   "verdict": "Citrus kem sáng nhất Chanel nam — chanh gelato, gỗ đàn hương, sạch. Underrated hidden gem. EDP 9h.",
   "verdictShort": "CITRUS KEM SÁNG, HIDDEN GEM, SẠCH",
-  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 8.0, "value": 7.8, "total": 8.3 },
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.5,
+    "compliments": 8,
+    "value": 7.8,
+    "total": 8.3
+  },
   "vibes": [
-    { "label": "Sáng sạch", "icon": "🍋" },
-    { "label": "Hidden gem", "icon": "💎" },
-    { "label": "Office", "icon": "💼" }
+    {
+      "label": "Sáng sạch",
+      "icon": "🍋"
+    },
+    {
+      "label": "Hidden gem",
+      "icon": "💎"
+    },
+    {
+      "label": "Office",
+      "icon": "💼"
+    }
   ],
   "longevity": 9,
   "sillage": 6,
-  "seasons": { "spring": 88, "summer": 78, "fall": 55, "winter": 35 },
-  "dayNight": { "day": 85, "night": 42 },
-  "topNotes": [{ "name": "Chanh Sicily" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Gỗ" }, { "name": "Tiêu hồng" }],
-  "baseNotes": [{ "name": "Vani Madagascar" }, { "name": "Cỏ hương bài" }, { "name": "Đậu Tonka" }],
+  "seasons": {
+    "spring": 88,
+    "summer": 78,
+    "fall": 55,
+    "winter": 35
+  },
+  "dayNight": {
+    "day": 85,
+    "night": 42
+  },
+  "topNotes": [
+    {
+      "name": "Chanh Sicily"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Gỗ"
+    },
+    {
+      "name": "Tiêu hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani Madagascar"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Đậu Tonka"
+    }
+  ],
   "accords": [
-    { "name": "Cam chanh", "value": 100, "color": "#f1c40f" },
-    { "name": "Gỗ", "value": 72, "color": "#8B4513" },
-    { "name": "Kem", "value": 55, "color": "#faebd7" },
-    { "name": "Vani", "value": 42, "color": "#F5DEB3" },
-    { "name": "Tươi mát", "value": 38, "color": "#2ecc71" }
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Kem",
+      "value": 55,
+      "color": "#faebd7"
+    },
+    {
+      "name": "Vani",
+      "value": 42,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 38,
+      "color": "#2ecc71"
+    }
   ],
   "seoTitle": "Chanel Allure Homme Édition Blanche chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Chanel Allure Homme Édition Blanche chính hãng: mùi citrus kem sáng sạch, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Sáng sạch", "Hidden gem", "Office"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Sáng sạch",
+    "Hidden gem",
+    "Office"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2800000,
   "shopeeOffers": [],
   "isPublished": true

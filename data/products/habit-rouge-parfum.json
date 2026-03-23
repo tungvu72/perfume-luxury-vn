@@ -6,10 +6,10 @@
   "subName": "Parfum",
   "perfumer": "Delphine Jelk",
   "gender": "nam",
-  "image": "/images/products/guerlain-habit-rouge-parfum-main.jpg",
+  "image": "/images/products/guerlain-habit-rouge-parfum-main.webp",
   "images": [
     {
-      "url": "/images/products/guerlain-habit-rouge-parfum-main.jpg",
+      "url": "/images/products/guerlain-habit-rouge-parfum-main.webp",
       "source": "fragram",
       "caption": "Guerlain Habit Rouge Parfum chính hãng",
       "verified": true

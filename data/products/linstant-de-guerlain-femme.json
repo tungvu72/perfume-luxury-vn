@@ -6,32 +6,126 @@
   "subName": "Eau de Parfum",
   "perfumer": "Maurice Roucel",
   "gender": "nu",
-  "image": "/images/products/guerlain-linstant-femme-main.jpg",
+  "image": "/images/products/guerlain-linstant-de-guerlain-femme-main.jpg",
   "images": [
-    { "url": "/images/products/guerlain-linstant-femme-main.jpg", "source": "fragram", "caption": "Guerlain L'Instant Femme EDP chính hãng", "verified": true }
+    {
+      "url": "/images/products/guerlain-linstant-de-guerlain-femme-main.jpg",
+      "source": "fragram",
+      "caption": "Guerlain L'Instant Femme EDP chính hãng",
+      "verified": true
+    }
   ],
   "description": "Chai nữ mật ong-magnolia-vani kiểu khoảnh khắc Guerlain — cam bergamot, hoa mộc lan, mật ong, trà xanh, magnolia, hổ phách, vani, gỗ đàn hương và xạ hương trắng. Ấm, mật ong và rất cozy.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi mạnh tỏa xa — L'Instant nhẹ và gần da. Maurice Roucel (24 Faubourg, Musc Ravageur) tạo ra chai này kiểu \"khoảnh khắc\" thật sự: mật ong ấm, magnolia mượt, trà xanh tươi — tất cả chỉ ở rất gần bạn. Ai muốn compliment getter sẽ thấy nó quá quiet.\n\n### Có đáng tiền không?\n\nGiá Guerlain tầm trung — underrated trong dòng Guerlain nữ. So với Mon Guerlain — nổi tiếng hơn — thì L'Instant ít lavender hơn, nhiều mật ong hơn. So với Lancôme Trésor — cùng nữ ấm — thì L'Instant nhẹ hơn, hiện đại hơn. Bám 6-7 giờ.\n\n### Nên dùng khi nào?\n\nBan ngày, đi cafe, cuối tuần, hoặc khi muốn comfort. Xịt 3 nhát cổ và cổ tay. Dùng quanh năm. Cả SG và HN dùng thoải mái. Chai \"ôm\" mà không ngộp.",
   "verdict": "Mật ong-magnolia khoảnh khắc — Roucel quiet luxury. Underrated Guerlain. Cozy, gần da, comfort.",
   "verdictShort": "MẬT ONG MAGNOLIA, QUIET, COMFORT",
-  "score": { "scent": 8.0, "uniqueness": 7.5, "compliments": 7.0, "value": 8.0, "total": 7.6 },
-  "vibes": [{ "label": "Comfort", "icon": "🤗" }, { "label": "Quiet", "icon": "🤫" }, { "label": "Mật ong", "icon": "🍯" }],
-  "longevity": 7, "sillage": 5,
-  "seasons": { "spring": 72, "summer": 42, "fall": 72, "winter": 62 },
-  "dayNight": { "day": 72, "night": 52 },
-  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Hoa mộc lan" }],
-  "middleNotes": [{ "name": "Mật ong" }, { "name": "Trà xanh" }, { "name": "Magnolia" }],
-  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Xạ hương trắng" }],
+  "score": {
+    "scent": 8,
+    "uniqueness": 7.5,
+    "compliments": 7,
+    "value": 8,
+    "total": 7.6
+  },
+  "vibes": [
+    {
+      "label": "Comfort",
+      "icon": "🤗"
+    },
+    {
+      "label": "Quiet",
+      "icon": "🤫"
+    },
+    {
+      "label": "Mật ong",
+      "icon": "🍯"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 5,
+  "seasons": {
+    "spring": 72,
+    "summer": 42,
+    "fall": 72,
+    "winter": 62
+  },
+  "dayNight": {
+    "day": 72,
+    "night": 52
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Hoa mộc lan"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Mật ong"
+    },
+    {
+      "name": "Trà xanh"
+    },
+    {
+      "name": "Magnolia"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Xạ hương trắng"
+    }
+  ],
   "accords": [
-    { "name": "Ngọt", "value": 100, "color": "#8B0000" },
-    { "name": "Hoa", "value": 72, "color": "#e91e63" },
-    { "name": "Hổ phách", "value": 55, "color": "#d4a017" },
-    { "name": "Gourmand", "value": 48, "color": "#d4a373" },
-    { "name": "Phấn", "value": 38, "color": "#d7bde2" }
+    {
+      "name": "Ngọt",
+      "value": 100,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Hoa",
+      "value": 72,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 55,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gourmand",
+      "value": 48,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Phấn",
+      "value": 38,
+      "color": "#d7bde2"
+    }
   ],
   "seoTitle": "Guerlain L'Instant Femme EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Guerlain L'Instant Femme EDP chính hãng: mùi mật ong magnolia comfort, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Comfort", "Mật ong", "Quanh năm"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "80ml Fullbox"],
-  "basePrice": 2200000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Comfort",
+    "Mật ong",
+    "Quanh năm"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "80ml Fullbox"
+  ],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

@@ -6,10 +6,10 @@
   "subName": "Eau de Toilette",
   "perfumer": "Jean Guichard",
   "gender": "nam",
-  "image": "/images/products/calvin-klein-obsession-main.jpg",
+  "image": "/images/products/ck-obsession-main.jpg",
   "images": [
     {
-      "url": "/images/products/calvin-klein-obsession-main.jpg",
+      "url": "/images/products/ck-obsession-main.jpg",
       "source": "fragram",
       "caption": "Calvin Klein Obsession for Men EDT chính hãng",
       "verified": true
@@ -19,30 +19,146 @@
   "article": "### Ai không nên mua?\n\nNếu bạn quen mùi hiện đại sạch — thì Obsession sẽ \"quá nhiều\". Đây là con quái vật thập niên 80: quế-nhựa dược-hổ phách phả ra như sóng nhiệt, kiểu mùi mà ai đứng cách 3 mét cũng ngửi thấy. Chai này ra đời năm 1986, đoạt FiFi Award 1987 — thời mà nước hoa nam = MẠNH. Ai dưới 35 chưa từng ngửi powerhouse cũ sẽ bị culture shock.\n\n### Có đáng tiền không?\n\nGiá CK — THUỘC NHÓM RẺ NHẤT thị trường. Và với DNA oriental-woody phức tạp (20+ nốt hương), giá này là steal tuyệt đối. So với Spicebomb Extreme — cùng nhóm cay ấm — thì Obsession cũ hơn, nhiều nhựa dược hơn và mạnh hơn. So với Tom Ford Tobacco Vanille — cùng oriental — thì Obsession rẻ hơn 5 lần mà cùng spirit cay-vani-hổ phách. Bám 8+ giờ.\n\n### Nên dùng khi nào?\n\nMùa đông, buổi tối, khi muốn tạo ấn tượng MẠNH. Xịt 1-2 nhát cổ — CHẤM HẾT. Xịt nhiều là ngộp cả phòng. Hà Nội tháng 12-1. Sài Gòn thì chỉ tối phòng điều hòa mạnh. Chai rẻ nhất trong danh sách mà punch nặng nhất.",
   "verdict": "Powerhouse 80s — quế nhựa dược hổ phách. FiFi Award 1987. Giá CK rẻ mà DNA oriental phức tạp.",
   "verdictShort": "80S POWERHOUSE, RẺ NHẤT, MẠNH NHẤT",
-  "score": { "scent": 8.0, "uniqueness": 8.5, "compliments": 7.0, "value": 9.5, "total": 8.3 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 8.5,
+    "compliments": 7,
+    "value": 9.5,
+    "total": 8.3
+  },
   "vibes": [
-    { "label": "Powerhouse", "icon": "💪" },
-    { "label": "80s", "icon": "🕶️" },
-    { "label": "Giá rẻ", "icon": "💸" }
+    {
+      "label": "Powerhouse",
+      "icon": "💪"
+    },
+    {
+      "label": "80s",
+      "icon": "🕶️"
+    },
+    {
+      "label": "Giá rẻ",
+      "icon": "💸"
+    }
   ],
   "longevity": 8,
   "sillage": 8,
-  "seasons": { "spring": 18, "summer": 2, "fall": 72, "winter": 92 },
-  "dayNight": { "day": 8, "night": 88 },
-  "topNotes": [{ "name": "Quế" }, { "name": "Oải hương" }, { "name": "Rau mùi" }, { "name": "Cam quýt" }, { "name": "Chanh" }, { "name": "Cam bergamot" }, { "name": "Bưởi" }],
-  "middleNotes": [{ "name": "Nhựa dược" }, { "name": "Nhục đậu khấu" }, { "name": "Hoa cẩm chướng" }, { "name": "Gỗ hồng" }, { "name": "Thông" }, { "name": "Xô thơm" }, { "name": "Hoa nhài" }],
-  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Xạ hương" }, { "name": "Hoắc hương" }, { "name": "Cỏ hương bài" }],
+  "seasons": {
+    "spring": 18,
+    "summer": 2,
+    "fall": 72,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 8,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Rau mùi"
+    },
+    {
+      "name": "Cam quýt"
+    },
+    {
+      "name": "Chanh"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Bưởi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Nhựa dược"
+    },
+    {
+      "name": "Nhục đậu khấu"
+    },
+    {
+      "name": "Hoa cẩm chướng"
+    },
+    {
+      "name": "Gỗ hồng"
+    },
+    {
+      "name": "Thông"
+    },
+    {
+      "name": "Xô thơm"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
   "accords": [
-    { "name": "Phương Đông", "value": 100, "color": "#c0392b" },
-    { "name": "Gia vị ấm", "value": 82, "color": "#e67e22" },
-    { "name": "Gỗ", "value": 65, "color": "#8B4513" },
-    { "name": "Hổ phách", "value": 55, "color": "#d4a017" },
-    { "name": "Nhựa", "value": 48, "color": "#5d4037" }
+    {
+      "name": "Phương Đông",
+      "value": 100,
+      "color": "#c0392b"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 82,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Gỗ",
+      "value": 65,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 55,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Nhựa",
+      "value": 48,
+      "color": "#5d4037"
+    }
   ],
   "seoTitle": "Calvin Klein Obsession nam chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá CK Obsession nam chính hãng: mùi quế nhựa dược powerhouse 80s, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Powerhouse", "80s", "Giá rẻ"],
-  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Powerhouse",
+    "80s",
+    "Giá rẻ"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox",
+    "125ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 800000,
   "shopeeOffers": [],
   "isPublished": true

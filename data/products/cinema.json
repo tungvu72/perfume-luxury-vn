@@ -6,10 +6,10 @@
   "subName": "Eau de Parfum",
   "perfumer": "Jacques Cavallier Belletrud",
   "gender": "nu",
-  "image": "/images/products/ysl-cinema-edp-main.jpg",
+  "image": "/images/products/ysl-cinema-main.jpg",
   "images": [
     {
-      "url": "/images/products/ysl-cinema-edp-main.jpg",
+      "url": "/images/products/ysl-cinema-main.jpg",
       "source": "fragram",
       "caption": "YSL Cinéma Eau de Parfum chính hãng",
       "verified": true
@@ -19,30 +19,116 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi nhẹ nhàng tối giản — thì Cinéma quá DRAMA. Jacques Cavallier (hiện tại là Master Perfumer tại Louis Vuitton) tạo ra chai này kiểu Hollywood premiere: hoa hạnh nhân ngọt mở ra, rồi nhài-mẫu đơn tỏa sáng, cuối cùng vani-hổ phách giữ ấm cả đêm. Ai thích mùi sạch, mùi tươi mát cũng sẽ thấy nó quá ngọt.\n\n### Có đáng tiền không?\n\nGiá YSL tầm trung — và Cinéma là chai bị \"quên\" trong lineup YSL hiện tại (bị Black Opium, Libre overshadow). Nhưng ai đã dùng đều thừa nhận: Cinéma sang hơn cả Libre ở khía cạnh hoa-oriental. So với Black Opium — cùng YSL ấm — thì Cinéma hoa hơn, ít cà phê hơn, sang hơn. So với Lancôme La Vie Est Belle — cùng nhóm nữ ngọt — thì Cinéma powdery hơn, ít gourmand hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, sự kiện, tiệc, hoặc dịp muốn \"làm chủ phòng\". Xịt 2-3 nhát: cổ và cổ tay. Thu đông đẹp nhất. Hà Nội tháng 10-2. Sài Gòn tối phòng máy lạnh. Chai được đặt tên THẢM ĐỎ — và đúng vậy.",
   "verdict": "Hoa-vani-hổ phách Hollywood — Jacques Cavallier (LV). YSL underrated nhất. Drama sáng phòng.",
   "verdictShort": "HOLLYWOOD DRAMA, YSL UNDERRATED, CAVALLIER",
-  "score": { "scent": 8.5, "uniqueness": 8.0, "compliments": 8.5, "value": 8.0, "total": 8.3 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8,
+    "compliments": 8.5,
+    "value": 8,
+    "total": 8.3
+  },
   "vibes": [
-    { "label": "Drama", "icon": "🎬" },
-    { "label": "Sang", "icon": "✨" },
-    { "label": "Thảm đỏ", "icon": "⭐" }
+    {
+      "label": "Drama",
+      "icon": "🎬"
+    },
+    {
+      "label": "Sang",
+      "icon": "✨"
+    },
+    {
+      "label": "Thảm đỏ",
+      "icon": "⭐"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
-  "seasons": { "spring": 52, "summer": 22, "fall": 82, "winter": 78 },
-  "dayNight": { "day": 35, "night": 82 },
-  "topNotes": [{ "name": "Hoa hạnh nhân" }, { "name": "Clementine" }, { "name": "Hoa thuỷ tiên" }],
-  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Mẫu đơn" }, { "name": "Hoa amaryllis" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Hổ phách" }, { "name": "Benzoin" }, { "name": "Xạ hương trắng" }],
+  "seasons": {
+    "spring": 52,
+    "summer": 22,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 35,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Hoa hạnh nhân"
+    },
+    {
+      "name": "Clementine"
+    },
+    {
+      "name": "Hoa thuỷ tiên"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Mẫu đơn"
+    },
+    {
+      "name": "Hoa amaryllis"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Xạ hương trắng"
+    }
+  ],
   "accords": [
-    { "name": "Hoa", "value": 100, "color": "#e91e63" },
-    { "name": "Vani", "value": 72, "color": "#F5DEB3" },
-    { "name": "Hổ phách", "value": 62, "color": "#d4a017" },
-    { "name": "Ngọt", "value": 55, "color": "#8B0000" },
-    { "name": "Cam chanh", "value": 38, "color": "#f1c40f" }
+    {
+      "name": "Hoa",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Vani",
+      "value": 72,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 62,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Ngọt",
+      "value": 55,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 38,
+      "color": "#f1c40f"
+    }
   ],
   "seoTitle": "YSL Cinéma chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá YSL Cinéma chính hãng: mùi hoa vani hổ phách Hollywood drama, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Drama", "Hollywood", "Buổi tối"],
-  "sizes": ["10ml Chiết", "35ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Drama",
+    "Hollywood",
+    "Buổi tối"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "35ml Fullbox",
+    "50ml Fullbox",
+    "90ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

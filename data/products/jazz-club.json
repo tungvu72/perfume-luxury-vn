@@ -6,10 +6,10 @@
   "subName": "Eau de Toilette",
   "perfumer": "Alienor Massenet",
   "gender": "nam",
-  "image": "/images/products/maison-margiela-replica-jazz-club-main.jpg",
+  "image": "/images/products/maison-margiela-jazz-club-main.jpg",
   "images": [
     {
-      "url": "/images/products/maison-margiela-replica-jazz-club-main.jpg",
+      "url": "/images/products/maison-margiela-jazz-club-main.jpg",
       "source": "fragram",
       "caption": "Maison Margiela Replica Jazz Club Eau de Toilette chính hãng",
       "verified": true
@@ -19,30 +19,112 @@
   "article": "### Ai không nên mua?\n\nNếu bạn chưa từng bước vào quán jazz hay cocktail bar tối đèn — thì Jazz Club ngửi sẽ hơi lạ, vì nó tái hiện ĐÚNG cảm giác đó: khói thuốc, ly rum, ghế da cũ. Ai thích mùi tươi sạch ban ngày cũng nên nhìn qua — chai này tối, ấm, và có cảm giác \"qua sử dụng\" rất rõ. Ngoài ra EDT nên bám vừa phải: 5-6 giờ.\n\n### Có đáng tiền không?\n\nGiá Margiela Replica tầm trung — và concept \"replicate a memory\" (tái hiện ký ức) rất đặc biệt. So với Tom Ford Tobacco Vanille — cùng nhóm thuốc lá-vani — thì Jazz Club nhẹ hơn, có rum mà TV không có, và rẻ hơn gấp 2-3 lần. So với PdM Herod — cùng nhóm thuốc lá ấm — thì Jazz Club boozy hơn với rum rõ ràng. Đây là chai \"mood\" — không chạy theo hiệu năng mà chạy theo cảm xúc.\n\n### Nên dùng khi nào?\n\nĐi bar, nghe nhạc live, ngồi quán cocktail, hoặc ở nhà cuối tuần mở nhạc jazz. Xịt 3 nhát cổ và cổ tay. Đẹp nhất trời mát-lạnh: Hà Nội thu đông, Sài Gòn tối mát. Đây là chai để \"sống\" chứ không phải để khoe — xịt cho mình thưởng thức, không phải để ai khen.",
   "verdict": "Quán jazz trong chai — rum, thuốc lá, ghế da cũ. Rẻ hơn Tom Ford Tobacco Vanille mà cùng cảm xúc.",
   "verdictShort": "RUM THUỐC LÁ, QUÁN JAZZ, MOOD",
-  "score": { "scent": 8.8, "uniqueness": 9.2, "compliments": 7.5, "value": 8.5, "total": 8.5 },
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 9.2,
+    "compliments": 7.5,
+    "value": 8.5,
+    "total": 8.5
+  },
   "vibes": [
-    { "label": "Jazz", "icon": "🎷" },
-    { "label": "Boozy", "icon": "🥃" },
-    { "label": "Mood", "icon": "🌙" }
+    {
+      "label": "Jazz",
+      "icon": "🎷"
+    },
+    {
+      "label": "Boozy",
+      "icon": "🥃"
+    },
+    {
+      "label": "Mood",
+      "icon": "🌙"
+    }
   ],
   "longevity": 6,
   "sillage": 6,
-  "seasons": { "spring": 38, "summer": 8, "fall": 85, "winter": 88 },
-  "dayNight": { "day": 18, "night": 88 },
-  "topNotes": [{ "name": "Tiêu hồng" }, { "name": "Chanh" }, { "name": "Neroli" }],
-  "middleNotes": [{ "name": "Rum" }, { "name": "Cỏ xô thơm" }, { "name": "Cỏ hương bài Java" }],
-  "baseNotes": [{ "name": "Lá thuốc lá" }, { "name": "Hạt vani" }, { "name": "Styrax" }],
+  "seasons": {
+    "spring": 38,
+    "summer": 8,
+    "fall": 85,
+    "winter": 88
+  },
+  "dayNight": {
+    "day": 18,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Tiêu hồng"
+    },
+    {
+      "name": "Chanh"
+    },
+    {
+      "name": "Neroli"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Rum"
+    },
+    {
+      "name": "Cỏ xô thơm"
+    },
+    {
+      "name": "Cỏ hương bài Java"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Lá thuốc lá"
+    },
+    {
+      "name": "Hạt vani"
+    },
+    {
+      "name": "Styrax"
+    }
+  ],
   "accords": [
-    { "name": "Gia vị ấm", "value": 100, "color": "#e67e22" },
-    { "name": "Thuốc lá", "value": 78, "color": "#5d4037" },
-    { "name": "Ngọt", "value": 62, "color": "#8B0000" },
-    { "name": "Boozy", "value": 55, "color": "#6d4c41" },
-    { "name": "Gỗ", "value": 42, "color": "#8B4513" }
+    {
+      "name": "Gia vị ấm",
+      "value": 100,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Thuốc lá",
+      "value": 78,
+      "color": "#5d4037"
+    },
+    {
+      "name": "Ngọt",
+      "value": 62,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Boozy",
+      "value": 55,
+      "color": "#6d4c41"
+    },
+    {
+      "name": "Gỗ",
+      "value": 42,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "Maison Margiela Replica Jazz Club chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Replica Jazz Club chính hãng: mùi rum thuốc lá vani kiểu quán jazz, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Mood", "Boozy", "Thu đông"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Mood",
+    "Boozy",
+    "Thu đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2500000,
   "shopeeOffers": [],
   "isPublished": true

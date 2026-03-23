@@ -1,23 +1,115 @@
 {
-  "id": "musc-noir-rose-for-her", "brandSlug": "narciso-rodriguez", "brand": "NARCISO RODRIGUEZ", "name": "Musc Noir Rose For Her", "subName": "Eau de Parfum",
-  "perfumer": "Sonia Constant", "gender": "nu",
-  "image": "/images/products/narciso-rodriguez-musc-noir-rose-main.jpg",
-  "images": [{ "url": "/images/products/narciso-rodriguez-musc-noir-rose-main.jpg", "source": "fragram", "caption": "NR Musc Noir Rose For Her chính hãng", "verified": true }],
+  "id": "musc-noir-rose-for-her",
+  "brandSlug": "narciso-rodriguez",
+  "brand": "NARCISO RODRIGUEZ",
+  "name": "Musc Noir Rose For Her",
+  "subName": "Eau de Parfum",
+  "perfumer": "Sonia Constant",
+  "gender": "nu",
+  "image": "/images/products/narciso-rodriguez-musc-noir-rose-for-her-main.jpg",
+  "images": [
+    {
+      "url": "/images/products/narciso-rodriguez-musc-noir-rose-for-her-main.jpg",
+      "source": "fragram",
+      "caption": "NR Musc Noir Rose For Her chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ hồng-xạ hương đen-hoắc hương kiểu romantic dark — hoa hồng Thổ Nhĩ Kỳ, hoắc hương, xạ hương đen, hổ phách và gỗ tuyết tùng. Hồng tối, xạ hương và elegant.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn hoa hồng tươi sáng — Musc Noir Rose là hoa hồng TỐI: phủ xạ hương đen và hoắc hương. Sonia Constant tạo ra hoa hồng kiểu bóng tối — romantic nhưng không cổ tích, elegant nhưng edgy. Ai muốn rose sáng kiểu Jo Malone sẽ thấy nó quá dark.\n\n### Có đáng tiền không?\n\nGiá NR tầm trung — và For Her line bám cực tốt (7-8 giờ) nhờ xạ hương nền. So với For Her gốc — thêm hồng, romantic hơn. So với YSL Mon Paris — cùng hồng dark — thì Musc Noir Rose nhiều xạ hương hơn, ít berry hơn.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, hẹn hò, sự kiện. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối điều hòa.",
   "verdict": "Hồng tối-xạ hương đen — Sonia Constant. NR elegant dark rose. Bám tốt nhờ musk nền.",
   "verdictShort": "HỒNG TỐI, XẠ HƯƠNG ĐEN, ELEGANT",
-  "score": { "scent": 7.8, "uniqueness": 7.5, "compliments": 8.0, "value": 8.0, "total": 7.8 },
-  "vibes": [{ "label": "Romantic", "icon": "🌹" }, { "label": "Dark", "icon": "🖤" }, { "label": "Elegant", "icon": "✨" }],
-  "longevity": 8, "sillage": 6,
-  "seasons": { "spring": 52, "summer": 22, "fall": 78, "winter": 72 },
-  "dayNight": { "day": 42, "night": 75 },
-  "topNotes": [{ "name": "Hoa hồng Thổ Nhĩ Kỳ" }],
-  "middleNotes": [{ "name": "Hoắc hương" }, { "name": "Xạ hương đen" }],
-  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Gỗ tuyết tùng" }],
-  "accords": [{ "name": "Hoa hồng", "value": 100, "color": "#e91e63" }, { "name": "Xạ hương", "value": 78, "color": "#bdc3c7" }, { "name": "Gỗ", "value": 55, "color": "#8B4513" }, { "name": "Hổ phách", "value": 42, "color": "#d4a017" }],
+  "score": {
+    "scent": 7.8,
+    "uniqueness": 7.5,
+    "compliments": 8,
+    "value": 8,
+    "total": 7.8
+  },
+  "vibes": [
+    {
+      "label": "Romantic",
+      "icon": "🌹"
+    },
+    {
+      "label": "Dark",
+      "icon": "🖤"
+    },
+    {
+      "label": "Elegant",
+      "icon": "✨"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 6,
+  "seasons": {
+    "spring": 52,
+    "summer": 22,
+    "fall": 78,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 42,
+    "night": 75
+  },
+  "topNotes": [
+    {
+      "name": "Hoa hồng Thổ Nhĩ Kỳ"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Xạ hương đen"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoa hồng",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 78,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 42,
+      "color": "#d4a017"
+    }
+  ],
   "seoTitle": "Narciso Rodriguez Musc Noir Rose chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá NR Musc Noir Rose chính hãng: mùi hồng tối xạ hương đen elegant, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Hoa hồng", "Dark", "Elegant"], "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
-  "basePrice": 1800000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Hoa hồng",
+    "Dark",
+    "Elegant"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

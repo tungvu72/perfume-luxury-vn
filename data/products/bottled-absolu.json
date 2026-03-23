@@ -6,10 +6,10 @@
   "subName": "Eau de Parfum",
   "perfumer": "Annick Ménardo & Suzy Le Helley",
   "gender": "nam",
-  "image": "/images/products/hugo-boss-bottled-absolu-main.jpg",
+  "image": "/images/products/boss-bottled-absolu-main.jpg",
   "images": [
     {
-      "url": "/images/products/hugo-boss-bottled-absolu-main.jpg",
+      "url": "/images/products/boss-bottled-absolu-main.jpg",
       "source": "fragram",
       "caption": "Hugo Boss Bottled Absolu Eau de Parfum chính hãng",
       "verified": true
@@ -19,30 +19,103 @@
   "article": "### Ai không nên mua?\n\nNếu bạn quen Boss Bottled gốc — cam-vani-gỗ nhẹ nhàng — thì Absolu sẽ gây shock: trầm hương, da thuộc, nhựa dược — tất cả tối và nặng hơn gốc RẤT NHIỀU. Đây không phải upgrade mà là KHÁC HẲN. Ai thích mùi tươi mát sporty hay mùi ngọt cũng nên nhìn qua — Absolu khô, gỗ và \"serious\".\n\n### Có đáng tiền không?\n\nGiá Boss tầm trung — thuộc nhóm rẻ nhất designer. Annick Ménardo (perfumer của Lolita Lempicka Au Masculin) kéo Boss vào vùng tối mà brand này chưa từng đến. So với Dior Homme Parfum — cùng nhóm da-gỗ tối — thì Absolu đơn giản hơn nhưng rẻ hơn đáng kể. So với Valentino Born in Roma Intense — cùng giá — thì Absolu tối hơn, ít ngọt hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nĐi chơi tối, hẹn hò, bar, hoặc dịp muốn khác biệt với Boss thường. Xịt 2-3 nhát: cổ và ngực. Thu đông — Hà Nội tháng 10-2. Sài Gòn tối phòng điều hòa. Chai cho ai muốn thử \"dark side\" của Boss.",
   "verdict": "Boss Bottled phiên bản tối nhất — trầm, da, nhựa dược. Khác hẳn gốc. Giá rẻ cho DNA niche.",
   "verdictShort": "TRẦM DA NHỰA DƯỢC, BOSS TỐI, GIÁ TỐT",
-  "score": { "scent": 8.0, "uniqueness": 8.0, "compliments": 7.5, "value": 8.5, "total": 8.0 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 8,
+    "compliments": 7.5,
+    "value": 8.5,
+    "total": 8
+  },
   "vibes": [
-    { "label": "Tối", "icon": "🖤" },
-    { "label": "Bold", "icon": "💪" },
-    { "label": "Giá tốt", "icon": "💸" }
+    {
+      "label": "Tối",
+      "icon": "🖤"
+    },
+    {
+      "label": "Bold",
+      "icon": "💪"
+    },
+    {
+      "label": "Giá tốt",
+      "icon": "💸"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
-  "seasons": { "spring": 32, "summer": 8, "fall": 82, "winter": 85 },
-  "dayNight": { "day": 22, "night": 82 },
-  "topNotes": [{ "name": "Trầm hương" }, { "name": "Da thuộc" }],
-  "middleNotes": [{ "name": "Hoắc hương" }, { "name": "Nhựa dược" }],
-  "baseNotes": [{ "name": "Gỗ tuyết tùng" }, { "name": "Davana" }],
+  "seasons": {
+    "spring": 32,
+    "summer": 8,
+    "fall": 82,
+    "winter": 85
+  },
+  "dayNight": {
+    "day": 22,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Trầm hương"
+    },
+    {
+      "name": "Da thuộc"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Nhựa dược"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Davana"
+    }
+  ],
   "accords": [
-    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
-    { "name": "Da thuộc", "value": 72, "color": "#795548" },
-    { "name": "Thơm thảo mộc", "value": 55, "color": "#2c7a4b" },
-    { "name": "Gia vị ấm", "value": 48, "color": "#e67e22" },
-    { "name": "Nhựa", "value": 42, "color": "#5d4037" }
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 72,
+      "color": "#795548"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 55,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 48,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Nhựa",
+      "value": 42,
+      "color": "#5d4037"
+    }
   ],
   "seoTitle": "Hugo Boss Bottled Absolu chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Hugo Boss Bottled Absolu chính hãng: mùi trầm da nhựa dược tối nhất Boss, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Tối", "Gỗ", "Giá tốt"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Tối",
+    "Gỗ",
+    "Giá tốt"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 1800000,
   "shopeeOffers": [],
   "isPublished": true

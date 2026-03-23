@@ -6,10 +6,10 @@
   "subName": "Eau de Toilette",
   "perfumer": "Jean-Claude Ellena",
   "gender": "nam",
-  "image": "/images/products/hermes-terre-d-hermes-main.jpg",
+  "image": "/images/products/terre-dhermes-edt-main.jpg",
   "images": [
     {
-      "url": "/images/products/hermes-terre-d-hermes-main.jpg",
+      "url": "/images/products/terre-dhermes-edt-main.jpg",
       "source": "fragram",
       "caption": "Hermès Terre d'Hermès Eau de Toilette chính hãng",
       "verified": true
@@ -19,30 +19,113 @@
   "article": "### Ai không nên mua?\n\nNếu bạn dưới 25 và thích Sauvage, Eros hay những chai ngọt-mạnh-tỏa xa thì Terre d'Hermès sẽ khiến bạn nghĩ \"sao mùi này khô thế, chẳng thơm gì cả\". Và thật ra, đúng — nó KHÔ. Đá lửa, cỏ hương bài, tiêu — không có đường, không có vani, không có caramel. Đây là chai cho người ĐÃ qua giai đoạn \"xịt để được khen\" và muốn xịt cho MÌNH thích. Nếu bạn chưa ở giai đoạn đó, chưa cần mua.\n\n### Có đáng tiền không?\n\nGiá Hermès nhưng EDT nên thuộc entry-level của hãng — rẻ hơn H24 và Twilly. Điều Terre d'Hermès làm mà hiếm chai nào khác làm: đưa \"mùi đất\" vào mainstream. Nốt đá lửa (flint) ở giữa — thứ khoáng chất trong đá đánh lửa — là signature không ai copy nổi. So với Ganymede (Marc-Antoine Barrois) — cùng nhóm khoáng — thì Terre đất hơn, cam hơn, ít metallic hơn. So với Bleu de Chanel — cùng chai mature — thì Terre trí tuệ hơn nhưng kém compliment hơn. Bám 6-7 giờ, tỏa nhẹ-vừa.\n\n### Nên dùng khi nào?\n\nĐi làm, đi gallery, đi cà phê đọc sách, hoặc dịp cần sự điềm đạm. Xịt 3 nhát: cổ, ngực, cổ tay. Dùng quanh năm — cỏ hương bài và cam giữ nó tươi vào hè, benzoin giữ ấm vào đông. Cả Hà Nội và Sài Gòn dùng đều đẹp. Đây là chai mà càng biết nhiều về nước hoa, bạn càng đánh giá cao.",
   "verdict": "Đất-khoáng-cam kinh điển — trí tuệ, điềm đạm. Jean-Claude Ellena masterpiece. Cho người đã \"đủ\" rồi.",
   "verdictShort": "ĐẤT KHOÁNG CAM, TRÍ TUỆ, KINH ĐIỂN",
-  "score": { "scent": 9.0, "uniqueness": 9.2, "compliments": 7.5, "value": 8.0, "total": 8.4 },
+  "score": {
+    "scent": 9,
+    "uniqueness": 9.2,
+    "compliments": 7.5,
+    "value": 8,
+    "total": 8.4
+  },
   "vibes": [
-    { "label": "Trí tuệ", "icon": "📚" },
-    { "label": "Điềm đạm", "icon": "🪨" },
-    { "label": "Kinh điển", "icon": "👑" }
+    {
+      "label": "Trí tuệ",
+      "icon": "📚"
+    },
+    {
+      "label": "Điềm đạm",
+      "icon": "🪨"
+    },
+    {
+      "label": "Kinh điển",
+      "icon": "👑"
+    }
   ],
   "longevity": 7,
   "sillage": 6,
-  "seasons": { "spring": 78, "summer": 62, "fall": 78, "winter": 68 },
-  "dayNight": { "day": 78, "night": 55 },
-  "topNotes": [{ "name": "Cam" }, { "name": "Bưởi" }],
-  "middleNotes": [{ "name": "Tiêu" }, { "name": "Phong lữ" }, { "name": "Đá lửa" }],
-  "baseNotes": [{ "name": "Cỏ hương bài" }, { "name": "Gỗ tuyết tùng" }, { "name": "Hoắc hương" }, { "name": "Benzoin" }],
+  "seasons": {
+    "spring": 78,
+    "summer": 62,
+    "fall": 78,
+    "winter": 68
+  },
+  "dayNight": {
+    "day": 78,
+    "night": 55
+  },
+  "topNotes": [
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Bưởi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Tiêu"
+    },
+    {
+      "name": "Phong lữ"
+    },
+    {
+      "name": "Đá lửa"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Benzoin"
+    }
+  ],
   "accords": [
-    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
-    { "name": "Đất", "value": 82, "color": "#5d4037" },
-    { "name": "Cam chanh", "value": 72, "color": "#f1c40f" },
-    { "name": "Khoáng", "value": 62, "color": "#7f8c8d" },
-    { "name": "Gia vị tươi", "value": 48, "color": "#27ae60" }
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Đất",
+      "value": 82,
+      "color": "#5d4037"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 72,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Khoáng",
+      "value": 62,
+      "color": "#7f8c8d"
+    },
+    {
+      "name": "Gia vị tươi",
+      "value": 48,
+      "color": "#27ae60"
+    }
   ],
   "seoTitle": "Hermès Terre d'Hermès chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Hermès Terre d'Hermès chính hãng: mùi đất khoáng cam kinh điển trí tuệ, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Kinh điển", "Trí tuệ", "Đất"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Kinh điển",
+    "Trí tuệ",
+    "Đất"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 2000000,
   "shopeeOffers": [],
   "isPublished": true

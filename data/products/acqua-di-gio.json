@@ -6,10 +6,10 @@
   "subName": "Eau de Toilette",
   "perfumer": "Alberto Morillas, Annick Ménardo & Christian Dussoulier",
   "gender": "nam",
-  "image": "/images/products/giorgio-armani-acqua-di-gio-main.jpg",
+  "image": "/images/products/giorgio-armani-my-way-main.jpg",
   "images": [
     {
-      "url": "/images/products/giorgio-armani-acqua-di-gio-main.jpg",
+      "url": "/images/products/giorgio-armani-my-way-main.jpg",
       "source": "fragram",
       "caption": "Acqua di Giò Eau de Toilette chính hãng",
       "verified": true
@@ -19,30 +19,128 @@
   "article": "### Ai không nên mua?\n\nNếu bạn muốn chai ĐỘC ĐÁO — thì Acqua di Gio là lựa chọn tệ nhất có thể. Đây là chai nam bán chạy nhất LỊCH SỬ nước hoa — từ năm 1996 đến giờ, gần 30 năm, vẫn top mọi bảng xếp hạng. Điều đó nghĩa là: AI CŨNG BIẾT mùi này. Xịt ra ngoài, người ta sẽ nói \"à Acqua di Gio\" chứ không hỏi \"mùi gì thế\". Ngoài ra, EDT nên bám ngắn: 4-5 giờ rồi biến mất.\n\n### Có đáng tiền không?\n\nGiá Armani tầm trung — và với một chai đã bán được HƠN 1 TỶ đô doanh thu từ khi ra mắt, giá này rất hợp lý. AdG gốc là chai KHAI SINH cả thể loại aquatic nam — trước nó, không có ai làm mùi biển cho nam. So với Profondo (biến thể 2020) thì gốc nhẹ hơn, tươi hơn và đơn giản hơn. So với Bleu de Chanel — thì AdG tươi hơn, ít gỗ hơn. Nhược điểm: EDT bám ngắn, tỏa yếu — cần xịt lại.\n\n### Nên dùng khi nào?\n\nMùa hè, ban ngày, đi biển, đi làm, dạo phố, thể thao — mọi lúc trời nóng. Xịt 4-5 nhát vì EDT tỏa nhẹ. Ở Sài Gòn dùng quanh năm. Hà Nội tháng 4-9. Chai mà mọi nam giới nên thử ít nhất một lần trong đời — biết mình thích hay không, rồi đi tiếp.",
   "verdict": "Aquatic nam khai sinh cả thể loại — 30 năm, 1 tỷ đô, ai cũng biết. Tươi, sạch, bất tử. Bám ngắn nhưng kinh điển.",
   "verdictShort": "AQUATIC KINH ĐIỂN, 30 NĂM, BẤT TỬ",
-  "score": { "scent": 8.5, "uniqueness": 6.0, "compliments": 8.5, "value": 8.5, "total": 7.9 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 6,
+    "compliments": 8.5,
+    "value": 8.5,
+    "total": 7.9
+  },
   "vibes": [
-    { "label": "Kinh điển", "icon": "👑" },
-    { "label": "Mùa hè", "icon": "☀️" },
-    { "label": "Biển", "icon": "🌊" }
+    {
+      "label": "Kinh điển",
+      "icon": "👑"
+    },
+    {
+      "label": "Mùa hè",
+      "icon": "☀️"
+    },
+    {
+      "label": "Biển",
+      "icon": "🌊"
+    }
   ],
   "longevity": 5,
   "sillage": 5,
-  "seasons": { "spring": 85, "summer": 98, "fall": 42, "winter": 15 },
-  "dayNight": { "day": 92, "night": 28 },
-  "topNotes": [{ "name": "Chanh" }, { "name": "Cam bergamot" }, { "name": "Cam" }, { "name": "Neroli" }],
-  "middleNotes": [{ "name": "Biển" }, { "name": "Hoa nhài" }, { "name": "Calone" }, { "name": "Hương thảo" }, { "name": "Đào" }],
-  "baseNotes": [{ "name": "Xạ hương trắng" }, { "name": "Gỗ tuyết tùng" }, { "name": "Rêu sồi" }, { "name": "Hoắc hương" }, { "name": "Hổ phách" }],
+  "seasons": {
+    "spring": 85,
+    "summer": 98,
+    "fall": 42,
+    "winter": 15
+  },
+  "dayNight": {
+    "day": 92,
+    "night": 28
+  },
+  "topNotes": [
+    {
+      "name": "Chanh"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Neroli"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Biển"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Calone"
+    },
+    {
+      "name": "Hương thảo"
+    },
+    {
+      "name": "Đào"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Xạ hương trắng"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Nước", "value": 100, "color": "#2980b9" },
-    { "name": "Cam chanh", "value": 82, "color": "#f1c40f" },
-    { "name": "Tươi mát", "value": 72, "color": "#2ecc71" },
-    { "name": "Thơm thảo mộc", "value": 48, "color": "#2c7a4b" },
-    { "name": "Gỗ", "value": 38, "color": "#8B4513" }
+    {
+      "name": "Nước",
+      "value": 100,
+      "color": "#2980b9"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 82,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 72,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 48,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gỗ",
+      "value": 38,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "Acqua di Giò EDT chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Acqua di Giò EDT chính hãng: mùi aquatic kinh điển nhất mọi thời, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Kinh điển", "Mùa hè", "Biển"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Kinh điển",
+    "Mùa hè",
+    "Biển"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 1800000,
   "shopeeOffers": [],
   "isPublished": true
