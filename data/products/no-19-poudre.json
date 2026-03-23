@@ -1,54 +1,23 @@
 {
-  "id": "no-19-poudre",
-  "brandSlug": "chanel",
-  "brand": "CHANEL",
-  "name": "Chanel No 19 Poudre",
-  "subName": "Eau de Parfum",
-  "perfumer": "Jacques Polge",
-  "gender": "nu",
-  "image": "/images/products/chanel-no-19-poudre-main.jpg",
-  "images": [
-    {
-      "url": "/images/products/chanel-no-19-poudre-main.jpg",
-      "source": "amazon",
-      "caption": "CHANEL Chanel No 19 Poudre chính hãng",
-      "verified": true
-    }
-  ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "(Chờ Coder viết bài)",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
-  ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "id": "no-19-poudre", "brandSlug": "chanel", "brand": "CHANEL", "name": "N°19 Poudré", "subName": "Eau de Parfum",
+  "perfumer": "Jacques Polge", "gender": "nu",
+  "image": "/images/products/chanel-no19-poudre-main.jpg",
+  "images": [{ "url": "/images/products/chanel-no19-poudre-main.jpg", "source": "fragram", "caption": "Chanel N°19 Poudré chính hãng", "verified": true }],
+  "description": "Phiên bản Poudré mượt hơn N°19 — galbanum, iris, neroli, nhài, hồng, xạ hương, gỗ tuyết tùng và gỗ đàn hương. N°19 nhưng thêm bột phấn mịn.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích N°19 gốc vì SẮC — thì Poudré bớt sắc đi, thêm MỀM vào. Jacques Polge thêm lớp iris bột phấn phủ lên galbanum xanh, giảm sharp. Kết quả: N°19 nhẹ nhàng hơn, feminine hơn, dễ tiếp cận hơn — nhưng mất đi \"vũ khí\" xanh sắc gốc.\n\n### Có đáng tiền không?\n\nGiá Chanel — cùng tier N°19 gốc. So với N°19 EDP — Poudré mềm hơn, powdery hơn, ít xanh hơn. So với Prada Infusion d'Iris — cùng iris powdery — thì Poudré nhiều galbanum hơn.\n\n### Nên dùng khi nào?\n\nĐi làm, họp, gặp khách. Xịt 2-3 nhát cổ. Dùng quanh năm. Cho ai thích N°19 mà muốn MỀM hơn.",
+  "verdict": "N°19 mềm — iris phấn trên galbanum. Jacques Polge. Cho ai muốn N°19 dễ tiếp cận hơn.",
+  "verdictShort": "N°19 MỀM, IRIS PHẤN, DỄ TIẾP CẬN",
+  "score": { "scent": 8.0, "uniqueness": 8.0, "compliments": 7.0, "value": 7.5, "total": 7.6 },
+  "vibes": [{ "label": "Phấn", "icon": "✨" }, { "label": "Elégant", "icon": "👑" }, { "label": "Office", "icon": "💼" }],
+  "longevity": 7, "sillage": 5,
+  "seasons": { "spring": 78, "summer": 55, "fall": 62, "winter": 48 },
+  "dayNight": { "day": 78, "night": 42 },
+  "topNotes": [{ "name": "Galbanum" }, { "name": "Neroli" }],
+  "middleNotes": [{ "name": "Iris" }, { "name": "Hoa nhài" }, { "name": "Hoa hồng" }],
+  "baseNotes": [{ "name": "Xạ hương" }, { "name": "Gỗ tuyết tùng" }, { "name": "Gỗ đàn hương" }],
+  "accords": [{ "name": "Phấn", "value": 100, "color": "#d7bde2" }, { "name": "Xanh", "value": 72, "color": "#27ae60" }, { "name": "Hoa", "value": 62, "color": "#e91e63" }, { "name": "Gỗ", "value": 42, "color": "#8B4513" }],
+  "seoTitle": "Chanel N°19 Poudré chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Chanel N°19 Poudré chính hãng: mùi iris phấn N19 mềm hơn, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nữ", "Phấn", "Elégant", "Office"], "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 3000000, "shopeeOffers": [], "isPublished": true
 }

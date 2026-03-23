@@ -1,54 +1,23 @@
 {
-  "id": "no-19-eau-de-parfum",
-  "brandSlug": "chanel",
-  "brand": "CHANEL",
-  "name": "Chanel No 19 Eau de Parfum",
-  "subName": "Eau de Parfum",
-  "perfumer": "Henri Robert",
-  "gender": "nu",
-  "image": "/images/products/chanel-no-19-eau-de-parfum-main.webp",
-  "images": [
-    {
-      "url": "/images/products/chanel-no-19-eau-de-parfum-main.webp",
-      "source": "amazon",
-      "caption": "CHANEL Chanel No 19 Eau de Parfum chính hãng",
-      "verified": true
-    }
-  ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "(Chờ Coder viết bài)",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
-  ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "id": "no-19-eau-de-parfum", "brandSlug": "chanel", "brand": "CHANEL", "name": "N°19", "subName": "Eau de Parfum",
+  "perfumer": "Henri Robert", "gender": "nu",
+  "image": "/images/products/chanel-no19-edp-main.jpg",
+  "images": [{ "url": "/images/products/chanel-no19-edp-main.jpg", "source": "fragram", "caption": "Chanel N°19 EDP chính hãng", "verified": true }],
+  "description": "Chai nữ iris-galbanum-gỗ tuyết tùng kiểu xanh tối giản 1970 — neroli, galbanum, iris, nhài, hồng, gỗ tuyết tùng, rêu sồi, xạ hương và cỏ hương bài. Xanh, sharp và rất elégant.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích ngọt — N°19 là ANTONYM của ngọt. Henri Robert tạo năm 1970 (ngày sinh Coco Chanel 19/8): galbanum xanh sắc, iris bột, gỗ khô — không một chút đường nào. Đây là Chanel XHI ẲN nhất và XANH nhất. Ai quen Coco Mademoiselle ngọt sẽ shock.\n\n### Có đáng tiền không?\n\nGiá Chanel — và N°19 thuộc heritage, 50+ năm. EDP đậm hơn EDT. So với No.5 — N°19 xanh hơn, ít aldehyde hơn, modern hơn. So với Mitsouko Guerlain — cùng chypre — thì N°19 nhiều galbanum hơn, sắc hơn, ít đào hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nĐi làm, meeting, sự kiện cần elégance. Xịt 2-3 nhát cổ. Dùng quanh năm. Chai cho phụ nữ không cần ai khen.",
+  "verdict": "Xanh-iris-gỗ sắc nhất Chanel — Henri Robert 1970. N°19 = sinh nhật Coco. Anti-sweet. Elégance thuần.",
+  "verdictShort": "XANH SẮC, ANTI-SWEET, ELÉGANCE",
+  "score": { "scent": 8.5, "uniqueness": 9.0, "compliments": 6.0, "value": 7.5, "total": 7.8 },
+  "vibes": [{ "label": "Elégant", "icon": "✨" }, { "label": "Xanh", "icon": "🌿" }, { "label": "Anti-sweet", "icon": "🧊" }],
+  "longevity": 8, "sillage": 5,
+  "seasons": { "spring": 82, "summer": 52, "fall": 65, "winter": 48 },
+  "dayNight": { "day": 78, "night": 48 },
+  "topNotes": [{ "name": "Neroli" }, { "name": "Galbanum" }],
+  "middleNotes": [{ "name": "Iris" }, { "name": "Hoa nhài" }, { "name": "Hoa hồng" }],
+  "baseNotes": [{ "name": "Gỗ tuyết tùng" }, { "name": "Rêu sồi" }, { "name": "Xạ hương" }, { "name": "Cỏ hương bài" }],
+  "accords": [{ "name": "Xanh", "value": 100, "color": "#27ae60" }, { "name": "Hoa", "value": 72, "color": "#e91e63" }, { "name": "Gỗ", "value": 55, "color": "#8B4513" }, { "name": "Phấn", "value": 42, "color": "#d7bde2" }],
+  "seoTitle": "Chanel N°19 EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Chanel N°19 EDP chính hãng: mùi xanh iris sắc elégant nhất Chanel 1970, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": ["Nữ", "Elégant", "Xanh", "Heritage"], "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 3000000, "shopeeOffers": [], "isPublished": true
 }
