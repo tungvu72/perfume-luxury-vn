@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Maison de SON — Homepage Mobile Blueprint V2</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* ─── TOKENS ─── */
+    :root {
+      --bg:        #FFFFFF;
+      --bg-subtle: #F8FAFB;
+      --bg-muted:  #F1F5F5;
+      --text:      #1A1D21;
+      --text-2:    #5A6270;
+      --text-3:    #8E95A2;
+      --primary:   #0D7377;
+      --primary-h: #0A5C5F;
+      --primary-lt:#E6F3F3;
+      --border:    #E5E7EB;
+      --border-s:  #F0F1F3;
+      --dark:      #1A1D21;
+      --serif: 'Playfair Display', Georgia, serif;
+      --sans:  'Inter', system-ui, sans-serif;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+
+    /* Phone wrapper — simulates 390px device in browser */
+    body {
+      background: #E8EAF0;
+      display: flex; justify-content: center;
+      min-height: 100vh; padding: 32px 16px 48px;
+      font-family: var(--sans);
+    }
+    .phone {
+      width: 390px; background: var(--bg);
+      border-radius: 40px;
+      box-shadow: 0 24px 80px rgba(0,0,0,.18);
+      overflow: hidden;
+      position: relative;
+      /* Simulate phone height scroll */
+      max-height: unset;
+    }
+
+    /* ─── Inner scroll area ─── */
+    .phone-content {
+      background: var(--bg);
+      padding-bottom: 76px; /* space for bottom nav */
+      color: var(--text);
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { text-decoration: none; color: inherit; }
+    .serif { font-family: var(--serif); }
+
+    /* ─── UTILITY ─── */
+    .eyebrow {
+      font-size: 10px; font-weight: 700;
+      text-transform: uppercase; letter-spacing: .16em; color: var(--primary);
+    }
+    .eyebrow-muted { color: var(--text-3); }
+    .divider { border: none; border-top: 1px solid var(--border-s); }
+
+    /* ─── BUTTONS ─── */
+    .btn {
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+      padding: 13px 20px; border-radius: 999px; font-family: var(--sans);
+      font-size: 14px; font-weight: 700; min-height: 46px; border: none; cursor: pointer;
+      transition: all .2s;
+    }
+    .btn-primary  { background: var(--primary); color: #fff; }
+    .btn-outline  { background: transparent; color: var(--text); border: 1.5px solid var(--border); }
+    .btn-dark     { background: var(--dark); color: #fff; }
+    .btn-white    { background: #fff; color: var(--dark); }
+
+    /* ════════════════════════════════
+       BLOCK 1 — HEADER MOBILE
+    ════════════════════════════════ */
+    .m-header {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(255,255,255,.96); backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border-s);
+      padding: 11px 16px 12px;
+    }
+    .m-header-row {
+      display: flex; align-items: center; justify-content: space-between; gap: 12px;
+    }
+    .m-logo {
+      font-family: var(--serif); font-size: 16px; font-weight: 700; letter-spacing: .12em;
+    }
+    .m-icon-btn {
+      width: 38px; height: 38px; border-radius: 10px;
+      border: 1px solid var(--border); background: var(--bg-subtle);
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0; cursor: pointer;
+    }
+    .m-search {
+      margin-top: 10px;
+      display: flex; align-items: center; gap: 8px;
+      background: var(--bg-subtle); border: 1px solid var(--border);
+      border-radius: 999px; padding: 9px 14px;
+    }
+    .m-search svg { color: var(--text-3); flex-shrink: 0; }
+    .m-search span { font-size: 13px; color: var(--text-3); }
+
+    /* ════════════════════════════════
+       BLOCK 2 — HERO MOBILE
+    ════════════════════════════════ */
+    .m-hero {
+      margin: 12px 16px; border-radius: 24px; overflow: hidden;
+      min-height: 320px;
+      background:
+        linear-gradient(180deg, rgba(0,0,0,.10) 0%, rgba(0,0,0,.65) 100%),
+        url('https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80')
+        center/cover no-repeat;
+      display: flex; flex-direction: column; justify-content: flex-end;
+      padding: 24px 22px;
+      color: #fff;
+    }
+    .m-hero .eyebrow { color: rgba(255,255,255,.75); margin-bottom: 8px; }
+    .m-hero-h1 {
+      font-family: var(--serif); font-size: 30px; line-height: 1.1;
+      letter-spacing: -.015em; margin-bottom: 10px;
+    }
+    .m-hero-lead {
+      font-size: 14px; line-height: 1.7; opacity: .85; margin-bottom: 18px;
+    }
+    .m-hero-btns { display: flex; flex-direction: column; gap: 8px; }
+    .m-hero-btn-primary {
+      background: #fff; color: var(--dark);
+      padding: 13px 20px; border-radius: 999px; font-size: 14px; font-weight: 700;
+      text-align: center;
+    }
+    .m-hero-btn-ghost {
+      background: rgba(255,255,255,.14); color: #fff;
+      border: 1px solid rgba(255,255,255,.22);
+      padding: 12px 20px; border-radius: 999px; font-size: 13px; font-weight: 600;
+      text-align: center;
+    }
+
+    /* ════════════════════════════════
+       BLOCK 3 — QUICK PATHS MOBILE
+    ════════════════════════════════ */
+    .m-section { padding: 20px 16px; }
+    .m-section-head { margin-bottom: 14px; }
+    .m-section-title {
+      font-family: var(--serif); font-size: 24px; letter-spacing: -.015em;
+      margin-top: 6px; line-height: 1.2;
+    }
+    .m-section-desc { font-size: 13px; color: var(--text-2); margin-top: 5px; line-height: 1.6; }
+    .m-paths-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+    .m-path-card {
+      background: var(--bg-subtle); border: 1px solid var(--border);
+      border-radius: 16px; padding: 16px 14px; cursor: pointer;
+      min-height: 80px; display: flex; flex-direction: column; justify-content: space-between;
+    }
+    .m-path-card strong { font-size: 14px; font-weight: 700; line-height: 1.3; }
+    .m-path-card span   { font-size: 12px; color: var(--text-2); margin-top: 5px; line-height: 1.5; }
+
+    /* ════════════════════════════════
+       BLOCK 4 — TOP PICKS MOBILE
+       Horizontal scroll strip
+    ════════════════════════════════ */
+    .m-picks-scroll {
+      display: flex; gap: 10px; overflow-x: auto; padding: 0 16px 4px;
+      scrollbar-width: none;
+    }
+    .m-picks-scroll::-webkit-scrollbar { display: none; }
+    .m-pick-card {
+      background: #fff; border: 1px solid var(--border); border-radius: 18px;
+      min-width: 158px; flex-shrink: 0; overflow: hidden;
+    }
+    .m-pick-img {
+      height: 140px; background: linear-gradient(160deg,#FAF9F7,#EDE8E0);
+      display: flex; align-items: center; justify-content: center; font-size: 52px;
+    }
+    .m-pick-body { padding: 12px; }
+    .m-pick-brand { font-size: 10px; text-transform: uppercase; letter-spacing: .12em; color: var(--primary); font-weight: 700; }
+    .m-pick-name  { font-size: 14px; font-weight: 700; margin: 4px 0 6px; line-height: 1.3; }
+    .m-pick-footer {
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    .m-pick-score {
+      font-family: var(--serif); font-size: 20px; font-weight: 700; color: var(--primary);
+    }
+    .m-pick-score span { font-size: 11px; color: var(--text-3); }
+    .m-pick-price { font-size: 12px; font-weight: 700; }
+
+    /* ════════════════════════════════
+       BLOCK 5 — ONBOARDING MOBILE
+    ════════════════════════════════ */
+    .m-onboarding {
+      margin: 0 16px; background: var(--bg-subtle);
+      border: 1px solid var(--border); border-radius: 20px; padding: 22px 18px;
+    }
+    .m-ob-cards { display: flex; flex-direction: column; gap: 10px; margin-top: 16px; }
+    .m-ob-card {
+      background: #fff; border: 1px solid var(--border); border-radius: 14px;
+      padding: 16px; display: flex; align-items: center;
+      gap: 14px; cursor: pointer;
+    }
+    .m-ob-num {
+      font-family: var(--serif); font-size: 28px; font-weight: 700;
+      color: var(--border); line-height: 1; flex-shrink: 0; width: 36px;
+    }
+    .m-ob-info { flex: 1; }
+    .m-ob-title { font-size: 14px; font-weight: 700; margin-bottom: 3px; }
+    .m-ob-desc  { font-size: 12px; color: var(--text-2); line-height: 1.55; }
+    .m-ob-arrow { color: var(--primary); flex-shrink: 0; }
+
+    /* ════════════════════════════════
+       BLOCK 6 — BRAND SPOTLIGHT MOBILE
+       Horizontal scroll
+    ════════════════════════════════ */
+    .m-brands-scroll {
+      display: flex; gap: 10px; overflow-x: auto; padding: 0 16px 4px;
+      scrollbar-width: none;
+    }
+    .m-brands-scroll::-webkit-scrollbar { display: none; }
+    .m-brand-card {
+      background: #fff; border: 1px solid var(--border); border-radius: 16px;
+      min-width: 170px; flex-shrink: 0; padding: 16px;
+    }
+    .m-brand-top { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+    .m-brand-badge {
+      width: 36px; height: 36px; border-radius: 8px; background: var(--bg-muted);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 13px; font-weight: 800; font-family: var(--serif); color: var(--text-3);
+      flex-shrink: 0;
+    }
+    .m-brand-name { font-size: 14px; font-weight: 700; }
+    .m-brand-tag  {
+      font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .1em;
+      color: var(--primary); background: var(--primary-lt);
+      padding: 2px 8px; border-radius: 999px; margin-bottom: 6px; display: inline-block;
+    }
+    .m-brand-desc { font-size: 12px; color: var(--text-2); line-height: 1.6; }
+
+    /* ════════════════════════════════
+       BLOCK 7 — KNOWLEDGE MOBILE
+    ════════════════════════════════ */
+    .m-kn-featured {
+      margin: 0 16px; background: #fff; border: 1px solid var(--border);
+      border-radius: 18px; overflow: hidden;
+    }
+    .m-kn-thumb {
+      height: 160px; background: linear-gradient(135deg,#C9D4E3,#9BAEC4);
+      display: flex; align-items: center; justify-content: center; font-size: 56px;
+    }
+    .m-kn-body { padding: 18px; }
+    .m-kn-tag  {
+      font-size: 10px; font-weight: 700; letter-spacing: .12em;
+      text-transform: uppercase; color: var(--primary); background: var(--primary-lt);
+      padding: 2px 8px; border-radius: 999px; display: inline-block; margin-bottom: 8px;
+    }
+    .m-kn-title { font-size: 17px; font-weight: 700; line-height: 1.35; }
+    .m-kn-meta  { font-size: 11px; color: var(--text-3); margin-top: 8px; }
+    .m-kn-more  {
+      display: flex; flex-direction: column; gap: 0; margin-top: 12px;
+    }
+    .m-kn-row {
+      display: flex; align-items: center; gap: 12px; padding: 14px 16px;
+      border-top: 1px solid var(--border-s); cursor: pointer;
+    }
+    .m-kn-row-num { font-size: 20px; flex-shrink: 0; }
+    .m-kn-row-text { flex: 1; font-size: 13px; font-weight: 600; line-height: 1.4; }
+    .m-kn-row-tag {
+      font-size: 10px; color: var(--primary); font-weight: 700;
+      text-transform: uppercase; letter-spacing: .1em; margin-bottom: 3px;
+    }
+    .m-kn-wrap {
+      margin: 0 16px; border: 1px solid var(--border); border-radius: 18px; overflow: hidden; background: #fff;
+    }
+
+    /* ════════════════════════════════
+       BLOCK 8 — TRUST MOBILE
+    ════════════════════════════════ */
+    .m-trust {
+      margin: 0 16px; background: var(--dark); border-radius: 20px;
+      padding: 24px 20px; color: #fff;
+    }
+    .m-trust .eyebrow { color: #7FD4D1; }
+    .m-trust-title {
+      font-family: var(--serif); font-size: 26px; font-weight: 700;
+      margin: 10px 0 8px; color: #fff; line-height: 1.15;
+    }
+    .m-trust-sub { font-size: 13px; color: rgba(255,255,255,.6); line-height: 1.7; margin-bottom: 20px; }
+    .m-trust-list { display: flex; flex-direction: column; gap: 0; }
+    .m-trust-item {
+      display: flex; gap: 12px; align-items: flex-start;
+      padding: 14px 0; border-top: 1px solid rgba(255,255,255,.1);
+    }
+    .m-trust-item:first-child { border-top: none; }
+    .m-trust-check {
+      width: 20px; height: 20px; border-radius: 50%;
+      background: rgba(127,212,209,.2); display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0; margin-top: 1px;
+    }
+    .m-trust-check svg { color: #7FD4D1; }
+    .m-trust-text { flex: 1; }
+    .m-trust-text strong { display: block; font-size: 14px; margin-bottom: 3px; color: #fff; }
+    .m-trust-text span   { font-size: 12px; color: rgba(255,255,255,.58); line-height: 1.6; }
+
+    /* ════════════════════════════════
+       BLOCK 9 — CTA MOBILE
+    ════════════════════════════════ */
+    .m-cta {
+      margin: 0 16px; background: linear-gradient(135deg,#111519,#1E2530);
+      border-radius: 20px; padding: 26px 22px; color: #fff;
+    }
+    .m-cta .eyebrow { color: #7FD4D1; margin-bottom: 8px; }
+    .m-cta-title {
+      font-family: var(--serif); font-size: 26px; margin-bottom: 10px;
+      line-height: 1.15; color: #fff;
+    }
+    .m-cta-desc    { font-size: 13px; color: rgba(255,255,255,.62); line-height: 1.7; margin-bottom: 18px; }
+    .m-cta-btn {
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+      background: #fff; color: var(--dark);
+      padding: 14px 20px; border-radius: 999px;
+      font-size: 14px; font-weight: 700; width: 100%;
+    }
+    .m-cta-note { font-size: 11px; color: rgba(255,255,255,.4); text-align: center; margin-top: 10px; }
+
+    /* ════════════════════════════════
+       FOOTER MOBILE — minimal
+    ════════════════════════════════ */
+    .m-footer { padding: 24px 16px 12px; }
+    .m-footer-logo { font-family: var(--serif); font-size: 17px; font-weight: 700; letter-spacing: .1em; margin-bottom: 8px; }
+    .m-footer-about { font-size: 13px; color: var(--text-2); line-height: 1.65; margin-bottom: 20px; }
+    .m-footer-links {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 8px 16px; margin-bottom: 20px;
+    }
+    .m-footer-links a { font-size: 13px; color: var(--text-2); min-height: 36px; display: flex; align-items: center; }
+    .m-footer-copy { font-size: 11px; color: var(--text-3); padding-top: 16px; border-top: 1px solid var(--border-s); }
+
+    /* ════════════════════════════════
+       BOTTOM NAV
+    ════════════════════════════════ */
+    .m-bottom-nav {
+      position: sticky; bottom: 0; left: 0; right: 0;
+      width: 100%; background: rgba(255,255,255,.97); backdrop-filter: blur(12px);
+      border-top: 1px solid var(--border-s);
+      display: grid; grid-template-columns: repeat(4,1fr);
+    }
+    .m-nav-item {
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      padding: 8px 4px 10px; gap: 4px;
+      font-size: 11px; font-weight: 600; color: var(--text-3); cursor: pointer;
+    }
+    .m-nav-item.active { color: var(--primary); }
+    .m-nav-item svg { width: 22px; height: 22px; }
+    .m-nav-item-label { font-size: 10px; }
+  </style>
+</head>
+<body>
+
+<div class="phone">
+<div class="phone-content">
+
+  <!-- ══ BLOCK 1 — HEADER ══ -->
+  <header class="m-header">
+    <div class="m-header-row">
+      <div class="m-icon-btn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </div>
+      <a class="m-logo serif" href="#">MAISON DE SON</a>
+      <div class="m-icon-btn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      </div>
+    </div>
+    <div class="m-search">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <span>Tìm nước hoa, thương hiệu…</span>
+    </div>
+  </header>
+
+  <!-- ══ BLOCK 2 — HERO ══ -->
+  <div class="m-hero">
+    <div class="eyebrow">Review thực tế cho người Việt</div>
+    <h1 class="m-hero-h1 serif">Chọn mùi dễ hơn,<br/>mua đỡ sai hơn</h1>
+    <p class="m-hero-lead">Xem top đáng mua, đọc review thật và nhắn tư vấn khi cần chốt nhanh.</p>
+    <div class="m-hero-btns">
+      <a class="m-hero-btn-primary" href="#">Xem bảng xếp hạng</a>
+      <a class="m-hero-btn-ghost" href="#">Kiến thức cho người mới</a>
+    </div>
+  </div>
+
+  <hr class="divider" style="margin:16px 0 0;" />
+
+  <!-- ══ BLOCK 3 — QUICK PATHS ══ -->
+  <div class="m-section">
+    <div class="m-section-head">
+      <div class="eyebrow">Bắt đầu từ đâu?</div>
+      <h2 class="m-section-title serif">Tìm đúng trong 10 giây</h2>
+    </div>
+    <div class="m-paths-grid">
+      <div class="m-path-card">
+        <strong>Nước hoa nam dễ dùng</strong>
+        <span>Đi làm, hẹn hò, hằng ngày</span>
+      </div>
+      <div class="m-path-card">
+        <strong>Nước hoa nữ thanh lịch</strong>
+        <span>Nhẹ nhàng, không gắt</span>
+      </div>
+      <div class="m-path-card">
+        <strong>Top đáng tiền nhất</strong>
+        <span>Chất xứng giá, không tiếc</span>
+      </div>
+      <div class="m-path-card">
+        <strong>Nhờ tư vấn gu mùi</strong>
+        <span>Nhắn Zalo là có gợi ý</span>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider" />
+
+  <!-- ══ BLOCK 4 — TOP PICKS ══ -->
+  <div class="m-section" style="padding-bottom:12px;">
+    <div class="m-section-head">
+      <div class="eyebrow" style="color:#B8962E;">Điểm cao nhất</div>
+      <h2 class="m-section-title serif">Nên xem trước</h2>
+      <p class="m-section-desc">Vuốt ngang để xem thêm</p>
+    </div>
+  </div>
+  <div class="m-picks-scroll">
+    <div class="m-pick-card">
+      <div class="m-pick-img">🧴</div>
+      <div class="m-pick-body">
+        <div class="m-pick-brand">Dior</div>
+        <div class="m-pick-name">Sauvage Elixir</div>
+        <div class="m-pick-footer">
+          <div class="m-pick-score">9.3<span>/10</span></div>
+          <div class="m-pick-price">5.400.000đ</div>
+        </div>
+      </div>
+    </div>
+    <div class="m-pick-card">
+      <div class="m-pick-img">🌿</div>
+      <div class="m-pick-body">
+        <div class="m-pick-brand">Chanel</div>
+        <div class="m-pick-name">Bleu de Chanel EDP</div>
+        <div class="m-pick-footer">
+          <div class="m-pick-score">9.1<span>/10</span></div>
+          <div class="m-pick-price">4.150.000đ</div>
+        </div>
+      </div>
+    </div>
+    <div class="m-pick-card">
+      <div class="m-pick-img">🌸</div>
+      <div class="m-pick-body">
+        <div class="m-pick-brand">YSL</div>
+        <div class="m-pick-name">Black Opium</div>
+        <div class="m-pick-footer">
+          <div class="m-pick-score">8.9<span>/10</span></div>
+          <div class="m-pick-price">3.200.000đ</div>
+        </div>
+      </div>
+    </div>
+    <div class="m-pick-card">
+      <div class="m-pick-img">🪷</div>
+      <div class="m-pick-body">
+        <div class="m-pick-brand">Lattafa</div>
+        <div class="m-pick-name">Khamrah</div>
+        <div class="m-pick-footer">
+          <div class="m-pick-score">8.8<span>/10</span></div>
+          <div class="m-pick-price">1.250.000đ</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="padding:0 16px 4px; margin-top:12px;">
+    <a class="btn btn-outline" href="#" style="width:100%;font-size:13px;">Xem toàn bộ bảng xếp hạng</a>
+  </div>
+
+  <hr class="divider" style="margin:20px 0 0;" />
+
+  <!-- ══ BLOCK 5 — ONBOARDING ══ -->
+  <div class="m-section" style="padding-bottom:12px;">
+    <div class="m-section-head">
+      <div class="eyebrow">Chưa biết gu mùi?</div>
+      <h2 class="m-section-title serif">Bắt đầu từ đây</h2>
+      <p class="m-section-desc">Chọn hoàn cảnh — chúng tôi gợi ý đúng hướng</p>
+    </div>
+  </div>
+  <div class="m-onboarding">
+    <div class="m-ob-cards">
+      <div class="m-ob-card">
+        <div class="m-ob-num">01</div>
+        <div class="m-ob-info">
+          <div class="m-ob-title">Tôi cần mùi đi làm</div>
+          <div class="m-ob-desc">Lịch sự, không gây chú ý, hợp văn phòng</div>
+        </div>
+        <div class="m-ob-arrow">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+      </div>
+      <div class="m-ob-card">
+        <div class="m-ob-num">02</div>
+        <div class="m-ob-info">
+          <div class="m-ob-title">Tôi cần mùi hẹn hò</div>
+          <div class="m-ob-desc">Ấm, cuốn, dễ khiến người khác nhớ</div>
+        </div>
+        <div class="m-ob-arrow">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+      </div>
+      <div class="m-ob-card">
+        <div class="m-ob-num">03</div>
+        <div class="m-ob-info">
+          <div class="m-ob-title">Tôi mới bắt đầu chơi nước hoa</div>
+          <div class="m-ob-desc">Chai dễ dùng, an toàn, không lo mua nhầm</div>
+        </div>
+        <div class="m-ob-arrow">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider" style="margin:20px 0 0;" />
+
+  <!-- ══ BLOCK 6 — BRAND SPOTLIGHT ══ -->
+  <div class="m-section" style="padding-bottom:12px;">
+    <div class="m-section-head">
+      <div class="eyebrow">Thương hiệu nổi bật</div>
+      <h2 class="m-section-title serif">Mỗi brand một hướng</h2>
+      <p class="m-section-desc">Vuốt ngang để xem</p>
+    </div>
+  </div>
+  <div class="m-brands-scroll">
+    <div class="m-brand-card">
+      <div class="m-brand-top">
+        <div class="m-brand-badge">D</div>
+        <div class="m-brand-name">Dior</div>
+      </div>
+      <div class="m-brand-tag">Sang, phổ thông, lực mạnh</div>
+      <div class="m-brand-desc">Thương hiệu được người Việt tìm mua nhiều nhất.</div>
+    </div>
+    <div class="m-brand-card">
+      <div class="m-brand-top">
+        <div class="m-brand-badge">C</div>
+        <div class="m-brand-name">Chanel</div>
+      </div>
+      <div class="m-brand-tag">Lịch sự, cổ điển, bền giá trị</div>
+      <div class="m-brand-desc">Biểu tượng luxury — Bleu và Coco là 2 flagship lớn.</div>
+    </div>
+    <div class="m-brand-card">
+      <div class="m-brand-top">
+        <div class="m-brand-badge">YSL</div>
+        <div class="m-brand-name">YSL</div>
+      </div>
+      <div class="m-brand-tag">Trẻ, cuốn, unisex</div>
+      <div class="m-brand-desc">Tập trung vào sức hút và sự tự tin.</div>
+    </div>
+    <div class="m-brand-card">
+      <div class="m-brand-top">
+        <div class="m-brand-badge">TF</div>
+        <div class="m-brand-name">Tom Ford</div>
+      </div>
+      <div class="m-brand-tag">Tối, sang, kén người</div>
+      <div class="m-brand-desc">Cao cấp nhất trong nhóm accessible luxury.</div>
+    </div>
+    <div class="m-brand-card">
+      <div class="m-brand-top">
+        <div class="m-brand-badge">LT</div>
+        <div class="m-brand-name">Lattafa</div>
+      </div>
+      <div class="m-brand-tag">Đáng tiền, ngọt ấm</div>
+      <div class="m-brand-desc">Tốt nhất tầm dưới 2 triệu — Khamrah là bestseller.</div>
+    </div>
+  </div>
+
+  <hr class="divider" style="margin:20px 0 0;" />
+
+  <!-- ══ BLOCK 7 — KNOWLEDGE ══ -->
+  <div class="m-section" style="padding-bottom:12px;">
+    <div class="m-section-head">
+      <div class="eyebrow">Kiến thức dễ đọc</div>
+      <h2 class="m-section-title serif">Đọc 1 bài là hiểu</h2>
+    </div>
+  </div>
+  <div class="m-kn-wrap">
+    <div class="m-kn-featured" style="border:none; border-radius:0; margin:0;">
+      <div class="m-kn-thumb">📖</div>
+      <div class="m-kn-body">
+        <span class="m-kn-tag">Hướng dẫn</span>
+        <div class="m-kn-title">Cách chọn nước hoa nam lần đầu nếu chưa biết gu mùi</div>
+        <div class="m-kn-meta">Maison de SON Editorial · 8 phút đọc</div>
+      </div>
+    </div>
+    <div class="m-kn-row">
+      <div class="m-kn-row-num">⚖️</div>
+      <div class="m-kn-row-text">
+        <div class="m-kn-row-tag">So sánh</div>
+        Bleu de Chanel và Dior Sauvage khác nhau thế nào?
+      </div>
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8E95A2" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+    </div>
+    <div class="m-kn-row">
+      <div class="m-kn-row-num">🌞</div>
+      <div class="m-kn-row-text">
+        <div class="m-kn-row-tag">Xu hướng</div>
+        Top 7 nước hoa nam dễ chịu cho mùa hè Việt Nam
+      </div>
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8E95A2" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+    </div>
+  </div>
+
+  <div style="padding:12px 16px 0;">
+    <a class="btn btn-outline" href="#" style="width:100%;font-size:13px;">Xem tất cả bài viết</a>
+  </div>
+
+  <hr class="divider" style="margin:20px 0 0;" />
+
+  <!-- ══ BLOCK 8 — TRUST ══ -->
+  <div class="m-section" style="padding-bottom:12px;">
+  </div>
+  <div class="m-trust">
+    <div class="eyebrow">Tại sao tin Maison de SON?</div>
+    <h2 class="m-trust-title serif">Review thật,<br/>không có vùng cấm</h2>
+    <p class="m-trust-sub">Đánh giá thực tế trong khí hậu Việt Nam — không tài trợ, không nói tốt cho xong.</p>
+    <div class="m-trust-list">
+      <div class="m-trust-item">
+        <div class="m-trust-check">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20,6 9,17 4,12"/></svg>
+        </div>
+        <div class="m-trust-text">
+          <strong>Review trong khí hậu Việt Nam</strong>
+          <span>Nóng ẩm, máy lạnh, ban ngày ban đêm — nói thật mùi lên như thế nào ở đây</span>
+        </div>
+      </div>
+      <div class="m-trust-item">
+        <div class="m-trust-check">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20,6 9,17 4,12"/></svg>
+        </div>
+        <div class="m-trust-text">
+          <strong>Không sponsored, dám nói nhược điểm</strong>
+          <span>Ngợp, sến, không xứng tiền — chúng tôi nói thẳng</span>
+        </div>
+      </div>
+      <div class="m-trust-item">
+        <div class="m-trust-check">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20,6 9,17 4,12"/></svg>
+        </div>
+        <div class="m-trust-text">
+          <strong>Tư vấn thật, không ép mua</strong>
+          <span>Zalo miễn phí — gợi ý theo nhu cầu, không hưởng hoa hồng</span>
+        </div>
+      </div>
+      <div class="m-trust-item">
+        <div class="m-trust-check">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20,6 9,17 4,12"/></svg>
+        </div>
+        <div class="m-trust-text">
+          <strong>Định hướng mua an toàn</strong>
+          <span>Hướng dẫn phân biệt hàng thật/giả và nguồn uy tín</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider" style="margin:20px 0 0;" />
+
+  <!-- ══ BLOCK 9 — CTA ══ -->
+  <div class="m-section" style="padding-bottom:12px;">
+  </div>
+  <div class="m-cta">
+    <div class="eyebrow">Tư vấn thật, không vòng vo</div>
+    <h2 class="m-cta-title serif">Chưa biết chọn<br/>chai nào?</h2>
+    <p class="m-cta-desc">Kể gu mùi, ngân sách và hoàn cảnh dùng. Maison de SON sẽ gợi ý chai phù hợp nhất — thường trả lời trong 15 phút.</p>
+    <a class="m-cta-btn" href="#">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--primary)"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.117.553 4.107 1.524 5.836L.057 23.886c-.071.26.177.508.47.437l6.248-1.487C8.284 23.55 10.11 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+      Nhắn Zalo tư vấn
+    </a>
+    <div class="m-cta-note">Miễn phí · Trả lời thật · Không ép mua</div>
+  </div>
+
+  <!-- FOOTER MOBILE -->
+  <div class="m-footer">
+    <div class="m-footer-logo serif">MAISON DE SON</div>
+    <p class="m-footer-about">Kiến thức, review thực tế và định hướng chọn mua nước hoa cho người Việt.</p>
+    <div class="m-footer-links">
+      <a href="#">Nước hoa Nam</a>
+      <a href="#">Nước hoa Nữ</a>
+      <a href="#">Bảng xếp hạng</a>
+      <a href="#">Thương hiệu</a>
+      <a href="#">Kiến thức</a>
+      <a href="#">Về chúng tôi</a>
+    </div>
+    <div class="m-footer-copy">© 2026 Maison de SON</div>
+  </div>
+
+</div><!-- end phone-content -->
+
+<!-- ══ BOTTOM NAV ══ -->
+<nav class="m-bottom-nav">
+  <div class="m-nav-item active">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+    <span class="m-nav-item-label">Trang chủ</span>
+  </div>
+  <div class="m-nav-item">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="18 20 18 10"/><polyline points="12 20 12 4"/><polyline points="6 20 6 14"/></svg>
+    <span class="m-nav-item-label">Xếp hạng</span>
+  </div>
+  <div class="m-nav-item">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+    <span class="m-nav-item-label">Kiến thức</span>
+  </div>
+  <div class="m-nav-item">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+    <span class="m-nav-item-label">Tư vấn</span>
+  </div>
+</nav>
+
+</div><!-- end phone -->
+</body>
+</html>
