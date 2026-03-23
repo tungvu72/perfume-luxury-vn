@@ -1,4 +1,4 @@
-import { notFound } from 'next/navigation';
+import { notFound, redirect } from 'next/navigation';
 import { Metadata } from 'next';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -11,7 +11,7 @@ import Image from 'next/image';
 import { Suspense } from 'react';
 import { getPostByUrlSlug, getAllPosts } from '@/sanity/lib/posts';
 import { getProductBySlug, getAllProducts, getProductsByBrand, getPublishedProducts } from '@/sanity/lib/fetchers';
-import { getProductUrl } from '@/lib/productUrl';
+import { getProductUrl, isProductSlug } from '@/lib/productUrl';
 import { getBrandBySlug, getAllBrands } from '@/sanity/lib/fetchers';
 import type { Perfume } from '@/types';
 import ProductClientV2 from '@/components/pdp/ProductClientV2';
@@ -689,6 +689,13 @@ export default async function UniversalSlugPage({ params }: { params: Promise<{ 
     if (product) {
         // Only render published products on the live site
         if (!product.isPublished) return notFound();
+
+        // If the slug is NOT the canonical new URL format, redirect 301
+        const canonicalSlug = getProductUrl(product).slice(1); // remove leading /
+        if (slug !== canonicalSlug) {
+            redirect(`/${canonicalSlug}`);
+        }
+
         return <ProductPage product={product} slug={slug} />;
     }
     if (brand) return <BrandPage brand={brand} slug={slug} />;

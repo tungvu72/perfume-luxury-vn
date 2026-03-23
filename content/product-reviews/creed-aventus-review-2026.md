@@ -96,7 +96,7 @@ Nếu anh muốn một mùi hương có vị thế, có lịch sử, có bản s
 
 Ngược lại, Aventus không phải lựa chọn lý tưởng cho người mới chơi nước hoa và đang cần một chai “đáng tiền ngay lập tức”. Nó cũng không quá hợp với người ưu tiên hiệu năng thật mạnh, muốn mùi phải lưu rất lâu hoặc tỏa rõ trong thời gian dài.
 
-Nếu anh đang tìm một lựa chọn an toàn hơn để đi làm hằng ngày, những chai như [Bleu de Chanel EDP](/bleu-chanel-edp) thường dễ tiếp cận hơn. Nếu thích hướng đậm, rõ lực và tạo ấn tượng nhanh hơn, có thể tham khảo thêm [Sauvage Elixir](/sauvage-elixir). Còn nếu muốn xem thêm về chính **[Creed](/creed)** như một thương hiệu nước hoa, anh nên nhìn Aventus như đỉnh cao danh tiếng của hãng, nhưng không nhất thiết là đáp án duy nhất cho mọi nhu cầu.
+Nếu anh đang tìm một lựa chọn an toàn hơn để đi làm hằng ngày, những chai như [Bleu de Chanel EDP](/nuoc-hoa-nam-chanel-bleu-chanel-edp) thường dễ tiếp cận hơn. Nếu thích hướng đậm, rõ lực và tạo ấn tượng nhanh hơn, có thể tham khảo thêm [Sauvage Elixir](/nuoc-hoa-nam-dior-sauvage-elixir). Còn nếu muốn xem thêm về chính **[Creed](/creed)** như một thương hiệu nước hoa, anh nên nhìn Aventus như đỉnh cao danh tiếng của hãng, nhưng không nhất thiết là đáp án duy nhất cho mọi nhu cầu.
 
 ![Creed Aventus trong bối cảnh gặp gỡ chỉn chu](/images/articles/creed-aventus-boi-canh-gap-go.png)
 

@@ -38,8 +38,8 @@ Trong bối cảnh đó, một chai nước hoa đi làm tốt không cần quá
 - Nếu ưu tiên an toàn, dễ dùng: chọn nhóm mùi sạch, gỗ sáng, citrus hoặc aquatic
 - Nếu làm việc văn phòng kín: ưu tiên độ tỏa hương vừa phải, không quá ngọt, không quá dày
 - Nếu di chuyển ngoài trời nhiều: chọn mùi thoáng, sáng, ít bí khi gặp nhiệt độ cao
-- Nếu mới bắt đầu: nên đi từ các chai dễ dùng như [Bleu de Chanel EDP](/bleu-chanel-edp) hoặc [Acqua di Giò Profondo](/acqua-di-gio-profondo-edp)
-- Nếu muốn hình ảnh chỉn chu kiểu công sở: nhóm mùi như [Prada L'Homme](/prada-lhomme-edt) thường hợp hơn các mùi quá nổi
+- Nếu mới bắt đầu: nên đi từ các chai dễ dùng như [Bleu de Chanel EDP](/nuoc-hoa-nam-chanel-bleu-chanel-edp) hoặc [Acqua di Giò Profondo](/nuoc-hoa-nam-giorgio-armani-acqua-di-gio-profondo)
+- Nếu muốn hình ảnh chỉn chu kiểu công sở: nhóm mùi như [Prada L'Homme](/nuoc-hoa-nam-prada-lhomme) thường hợp hơn các mùi quá nổi
 
 ## Vì sao khí hậu nóng ẩm ở Việt Nam làm bài toán chọn nước hoa khó hơn?
 

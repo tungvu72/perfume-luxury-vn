@@ -12,7 +12,7 @@
 | Bảng xếp hạng | `/bang-xep-hang` | `.../bang-xep-hang` |
 | Thương hiệu (list) | `/thuong-hieu` | `.../thuong-hieu` |
 | **Thương hiệu (detail)** | `/[brand-slug]` | `.../chanel`, `.../dior` |
-| **Sản phẩm (detail)** | `/[product-slug]` | `.../bleu-chanel-edp` |
+| **Sản phẩm (detail)** | `/nuoc-hoa-{gender}-{brand}-{id}` | `.../nuoc-hoa-nam-dior-sauvage-elixir` |
 | **Bài viết** | `/[article-slug]` | `.../top-10-san-pham-nuoc-hoa-nam` |
 | **Tác giả** | `/[author-slug]` | `.../maison-de-son` |
 | Nam giới | `/nam-gioi` | `.../nam-gioi` |
@@ -23,7 +23,8 @@
 | So sánh | `/so-sanh` | `.../so-sanh` |
 
 ### Redirect 301 (URL cũ → mới):
-- `/san-pham/[id]` → `/[id]`
+- `/san-pham/[id]` → `/nuoc-hoa-{gender}-{brand}-{id}`
+- `/[old-product-slug]` → `/nuoc-hoa-{gender}-{brand}-{id}`
 - `/thuong-hieu/[slug]` → `/[slug]`
 - `/kien-thuc/[slug]` → `/[slug]`
 - `/tac-gia/[slug]` → `/[slug]`
@@ -128,16 +129,14 @@
 > - Từ khóa PHỤ = commercial/purchase intent: "mua", "giá", "ở đâu", "chính hãng"
 > - "review [SP]" → thuộc về bài D1 Article, KHÔNG phải product page
 
-| Sản phẩm | URL | Từ khóa CHÍNH | Từ khóa PHỤ |
+| Sản phẩm | URL Mới | Từ khóa CHÍNH | Từ khóa PHỤ |
 |---|---|---|---|
-| Bleu de Chanel EDP | `/bleu-chanel-edp` | Bleu de Chanel EDP | mua Bleu de Chanel chính hãng, giá Bleu de Chanel, Bleu de Chanel ở đâu, Bleu de Chanel EDP 100ml |
-| Dior Sauvage Elixir | `/sauvage-elixir` | Sauvage Elixir | mua Sauvage Elixir chính hãng, giá Sauvage Elixir, Sauvage Elixir ở đâu |
-| YSL Black Opium | `/ysl-black-opium` | YSL Black Opium | mua Black Opium chính hãng, giá Black Opium, Black Opium ở đâu |
-| Creed Aventus | `/creed-aventus` | Creed Aventus | mua Creed Aventus chính hãng, giá Creed Aventus, Creed Aventus ở đâu |
-| Lattafa Khamrah | `/lattafa-khamrah` | Lattafa Khamrah | mua Khamrah chính hãng, giá Khamrah, Khamrah ở đâu |
-| Tom Ford Noir Extreme | `/tom-ford-noir-extreme` | Tom Ford Noir Extreme | mua Noir Extreme chính hãng, giá Tom Ford Noir Extreme |
-| MFK Baccarat Rouge 540 | `/baccarat-rouge-540` | Baccarat Rouge 540 | mua Baccarat Rouge 540 chính hãng, giá Baccarat Rouge 540 |
-| Armani Stronger With You | `/armani-stronger-with-you` | Armani Stronger With You Intensely | mua Stronger With You chính hãng, giá Armani Stronger |
+| Bleu de Chanel EDP | `/nuoc-hoa-nam-chanel-bleu-chanel-edp` | Bleu de Chanel EDP | mua Bleu de Chanel chính hãng, giá Bleu de Chanel |
+| Dior Sauvage Elixir | `/nuoc-hoa-nam-dior-sauvage-elixir` | Sauvage Elixir | mua Sauvage Elixir chính hãng, giá Sauvage Elixir |
+| YSL Black Opium | `/nuoc-hoa-nu-ysl-ysl-black-opium` | YSL Black Opium | mua Black Opium chính hãng, giá Black Opium |
+| Creed Aventus | `/nuoc-hoa-nam-creed-creed-aventus` | Creed Aventus | mua Creed Aventus chính hãng, giá Creed Aventus |
+| Lattafa Khamrah | `/nuoc-hoa-unisex-lattafa-lattafa-khamrah` | Lattafa Khamrah | mua Khamrah chính hãng, giá Khamrah |
+| MFK Baccarat Rouge 540 | `/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540` | Baccarat Rouge 540 | mua Baccarat Rouge 540 chính hãng |
 
 ---
 
@@ -165,7 +164,7 @@
 | Nước hoa cho nam | "nước hoa nam" | `/nam-gioi` |
 | Nước hoa cho nữ | "nước hoa nữ" | `/nu-gioi` |
 | Tên brand (Chanel/Dior...) | "[Tên Brand]" | `/[brand-slug]` |
-| Tên sản phẩm (lần đầu) | "[Tên SP]" | `/[product-slug]` |
+| Tên sản phẩm (lần đầu) | "[Tên SP]" | `/nuoc-hoa-{gender}-{brand}-{id}` |
 
 ### 3 internal links bắt buộc trong mỗi bài viết/trang SP:
 1. Link về **Homepage** với anchor "nước hoa chính hãng"

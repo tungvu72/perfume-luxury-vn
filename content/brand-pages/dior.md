@@ -30,7 +30,7 @@ Từ đó đến nay, Dior đã tạo ra những huyền thoại như Eau Sauvag
 **Vibe:** Quyền lực, nam tính, trưởng thành
 **Đánh giá:** 9.5/10
 
-[Xem chi tiết sản phẩm](/sauvage-elixir)
+[Xem chi tiết sản phẩm](/nuoc-hoa-nam-dior-sauvage-elixir)
 
 ---
 

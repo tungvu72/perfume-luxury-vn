@@ -77,7 +77,7 @@ Mày là **Coder** — **Lead dự án** của Maison De Son. Mày quyết đị
 |---|---|---|
 | Trang chủ | `/` | maisondeson.com/ |
 | Bài viết | `/[article-slug]` | /top-10-nuoc-hoa-nam |
-| Sản phẩm | `/[product-slug]` | /bleu-chanel-edp |
+| **Sản phẩm** | `/nuoc-hoa-{gender}-{brand}-{id}` | /nuoc-hoa-nam-dior-sauvage-elixir |
 | Thương hiệu | `/[brand-slug]` | /chanel |
 | Tác giả | `/[author-slug]` | /maison-de-son |
 | Listing bài | `/kien-thuc` | /kien-thuc |
@@ -89,7 +89,7 @@ Mày là **Coder** — **Lead dự án** của Maison De Son. Mày quyết đị
 3. Post match? → Render Article
 4. No match → 404
 
-**301 Redirects:** `/san-pham/[id]` → `/[id]`, `/kien-thuc/[slug]` → `/[slug]`
+**301 Redirects:** `/san-pham/[id]` → `/nuoc-hoa-...`, `/[old-slug]` → `/nuoc-hoa-...`, `/kien-thuc/[slug]` → `/[slug]`
 
 ---
 
@@ -159,7 +159,7 @@ tags: [tag1, tag2, tag3]
 | Thương hiệu (list) | "thương hiệu nước hoa" | /thuong-hieu |
 | Bảng xếp hạng | "top nước hoa tốt nhất" | /bang-xep-hang |
 | Tên brand cụ thể | "[Tên Brand]" | /[brand-slug] |
-| Tên sản phẩm | "[Tên SP]" | /[product-slug] |
+| Tên sản phẩm | "[Tên SP]" | /nuoc-hoa-{gender}-{brand}-{id} |
 
 ---
 
