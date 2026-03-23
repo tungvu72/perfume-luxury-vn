@@ -1889,51 +1889,53 @@ Boss Bottled EDP thuộc phân khúc designer tầm trung — rẻ hơn Sauvage 
   },
   {
     id: "bottled-absolu",
-    brandSlug: "boss",
+    brandSlug: "hugo-boss",
     brand: "HUGO BOSS",
-    name: "Boss Bottled Absolu",
+    name: "Bottled Absolu",
     subName: "Eau de Parfum",
     perfumer: "Annick Ménardo & Suzy Le Helley",
     gender: "nam",
-    image: "/images/products/boss-bottled-absolu-main.jpg",
-    images: [{ url: "/images/products/boss-bottled-absolu-main.jpg", source: "amazon", caption: "HUGO BOSS Bottled Absolu chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Boss Bottled Absolu đi theo hướng ấm, gỗ và ngọt nhẹ kiểu nam hiện đại dễ tiếp cận. Nó giữ tinh thần lịch sự, wearable của line Boss Bottled nhưng làm đậm và sang hơn, khiến tổng thể chững hơn các bản sáng trẻ thông thường. Đây là kiểu mùi hợp với người muốn một chai nam an toàn nhưng vẫn có cảm giác buổi tối rõ hơn.
+    image: "/images/products/hugo-boss-bottled-absolu-main.jpg",
+    images: [
+      { url: "/images/products/hugo-boss-bottled-absolu-main.jpg", source: "fragram", caption: "Hugo Boss Bottled Absolu Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai nam trầm-da-hoắc hương-nhựa dược kiểu táo bạo nhất Boss Bottled — trầm hương, da thuộc, hoắc hương, nhựa dược, gỗ tuyết tùng và davana. Tối, gỗ và rất bold.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Absolu là tính thực dụng. Nó không quá thử thách, không quá nghệ, mà tập trung vào việc thơm, nam tính và dễ ứng dụng trong đời sống thật. Trong bối cảnh Việt Nam, chai này hợp đi làm môi trường mát, hẹn hò nhẹ, đi ăn tối hoặc người thích designer nam dễ sống.
+Nếu bạn quen Boss Bottled gốc — cam-vani-gỗ nhẹ nhàng — thì Absolu sẽ gây shock: trầm hương, da thuộc, nhựa dược — tất cả tối và nặng hơn gốc RẤT NHIỀU. Đây không phải upgrade mà là KHÁC HẲN. Ai thích mùi tươi mát sporty hay mùi ngọt cũng nên nhìn qua — Absolu khô, gỗ và "serious".
 
-## Diễn biến trên da
-Mở đầu ấm và hơi cay nhẹ, sau đó phần gỗ cùng độ ngọt mềm bắt đầu hiện rõ hơn. Mùi phát triển khá gọn, ít góc cạnh và thiên về sự mượt.
+### Có đáng tiền không?
 
-Drydown cho cảm giác gỗ ấm, sạch và nam tính. Nó không quá bùng nổ nhưng khá dễ chịu ở khoảng cách gần. Nhược điểm là người thích mùi thật cá tính hoặc thật niche có thể thấy nó hơi an toàn.
+Giá Boss tầm trung — thuộc nhóm rẻ nhất designer. Annick Ménardo (perfumer của Lolita Lempicka Au Masculin) kéo Boss vào vùng tối mà brand này chưa từng đến. So với Dior Homme Parfum — cùng nhóm da-gỗ tối — thì Absolu đơn giản hơn nhưng rẻ hơn đáng kể. So với Valentino Born in Roma Intense — cùng giá — thì Absolu tối hơn, ít ngọt hơn. Bám 7-8 giờ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Boss Bottled Absolu có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm, đi gặp gỡ, buổi tối nhẹ hoặc làm chai grab-and-go theo hướng chững chạc.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này dùng khá ổn nếu không xịt quá tay. Ưu điểm là dễ mặc và gọn; nhược điểm là độ độc đáo không cao.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai nam ấm, lịch sự và dễ dùng hơn nhiều mùi nặng đô buổi tối, Boss Bottled Absolu là lựa chọn ổn. Nó hợp người thích designer nam chững, không ồn ào.
-
-Nên mua khi mày cần một chai tối nhẹ hoặc dùng đi làm môi trường mát. Nếu mày cần mùi thật nổi, nên tìm hướng mạnh hơn.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nam","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi chơi tối, hẹn hò, bar, hoặc dịp muốn khác biệt với Boss thường. Xịt 2-3 nhát: cổ và ngực. Thu đông — Hà Nội tháng 10-2. Sài Gòn tối phòng điều hòa. Chai cho ai muốn thử "dark side" của Boss.`,
+    verdict: "Boss Bottled phiên bản tối nhất — trầm, da, nhựa dược. Khác hẳn gốc. Giá rẻ cho DNA niche.",
+    verdictShort: "TRẦM DA NHỰA DƯỢC, BOSS TỐI, GIÁ TỐT",
+    score: { scent: 8, uniqueness: 8, compliments: 7.5, value: 8.5, total: 8 },
+    vibes: [{ label: "Tối", icon: "🖤" }, { label: "Bold", icon: "💪" }, { label: "Giá tốt", icon: "💸" }],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 32, summer: 8, fall: 82, winter: 85 },
+    dayNight: { day: 22, night: 82 },
+    topNotes: [{ name: "Trầm hương" }, { name: "Da thuộc" }],
+    middleNotes: [{ name: "Hoắc hương" }, { name: "Nhựa dược" }],
+    baseNotes: [{ name: "Gỗ tuyết tùng" }, { name: "Davana" }],
+    accords: [
+      { name: "Gỗ", value: 100, color: "#8B4513" },
+      { name: "Da thuộc", value: 72, color: "#795548" },
+      { name: "Thơm thảo mộc", value: 55, color: "#2c7a4b" },
+      { name: "Gia vị ấm", value: 48, color: "#e67e22" },
+      { name: "Nhựa", value: 42, color: "#5d4037" }
+    ],
+    seoTitle: "Hugo Boss Bottled Absolu chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Hugo Boss Bottled Absolu chính hãng: mùi trầm da nhựa dược tối nhất Boss, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nam","Tối","Gỗ","Giá tốt"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 1800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "bright-crystal",
@@ -2035,52 +2037,52 @@ Mùa thu đông, buổi tối, dịp đặc biệt, tiệc sang. Xịt 2 nhát: 
   {
     id: "carnal-flower",
     brandSlug: "frederic-malle",
-    brand: "FRÉDÉRIC MALLE",
+    brand: "FREDERIC MALLE",
     name: "Carnal Flower",
     subName: "Eau de Parfum",
     perfumer: "Dominique Ropion",
     gender: "unisex",
     image: "/images/products/frederic-malle-carnal-flower-main.jpg",
     images: [
-      { url: "/images/products/frederic-malle-carnal-flower-main.jpg", source: "amazon", caption: "FRÉDÉRIC MALLE Carnal Flower chính hãng", verified: true }
+      { url: "/images/products/frederic-malle-carnal-flower-main.jpg", source: "fragram", caption: "Frederic Malle Carnal Flower chính hãng", verified: true }
     ],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Carnal Flower là một trong những mùi tuberose nổi tiếng nhất vì nó cực kỳ sống động: xanh, kem, hoa trắng, hơi lạnh rồi lại rất gợi cảm. Nó không phải kiểu tuberose ngọt dày nặng đầu, mà có độ thoáng và độ thật khiến mùi hương vừa nghệ vừa sexy. Đây là một chai niche rất mạnh cho người thích white floral có cá tính lớn.
+    description: "Chai unisex tuberose tự nhiên đỉnh nhất nước hoa — bạch đàn, dưa lưới, cam bergamot, galbanum, dừa, tuberose, nhài, ngọc lan tây, hoa cam, xạ hương trắng, hổ phách và nốt động vật. Tuberose thuần khiết, mạnh và không gì che đậy.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Carnal Flower là chiều tương phản. Nó vừa xanh vừa kem, vừa sạch vừa xác thịt, vừa sang vừa có chút hoang dại. Trong bối cảnh Việt Nam, chai này hợp với người yêu hoa trắng nhưng đã chán những hướng floral ngọt phổ thông.
+Nếu bạn chưa bao giờ ngửi hoa huệ (tuberose) thật — thì Carnal Flower có thể gây choáng. Dominique Ropion dùng tuberose absolute tự nhiên ở nồng độ cực cao — mùi hoa trắng đậm, kem, hơi indolic (gần mùi da thịt). Ai thích mùi nhẹ nhàng, mùi tươi mát hay mùi gỗ khô sẽ thấy nó MẠNH và "thịt" quá. Giá Frederic Malle cũng thuộc top đắt nhất niche.
 
-## Diễn biến trên da
-Mở đầu xanh và hơi lạnh, sau đó tuberose bắt đầu bung ra rõ hơn, kéo theo cảm giác kem và floral sâu hơn. Mùi phát triển rất giàu chuyển động, khiến nó luôn sống chứ không nằm yên một chỗ.
+### Có đáng tiền không?
 
-Drydown mềm hơn, kem hơn nhưng vẫn giữ linh hồn tuberose rõ. Nó đẹp và rất có bản sắc. Nhược điểm là ai sợ white floral mạnh có thể thấy nó quá hiện diện.
+Frederic Malle — "publisher of perfumes" — cho perfumer toàn quyền sáng tạo. Dominique Ropion (đứng sau Portrait of a Lady, Oud Satin Mood) tạo Carnal Flower như tượng đài tuberose. So với Tom Ford Tubéreuse Nue — cùng tuberose niche — thì Carnal Flower mạnh hơn, tự nhiên hơn và ít ngọt hơn. So với Gucci Bloom — tuberose designer — thì Carnal Flower là Rolls Royce còn Bloom là Toyota. Bám 8-10 giờ, tỏa mạnh.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Carnal Flower có hiệu năng tốt, khoảng 7-9 giờ; tỏa hương vừa đến khá. Nó hợp tối, gặp gỡ đặc biệt, đi tiệc hoặc những lúc muốn dùng một floral có cá tính rõ.
+### Nên dùng khi nào?
 
-Ở Việt Nam, nên dùng tiết chế vì white floral mạnh dễ nổi trong thời tiết nóng. Ưu điểm là rất đẹp và rất có gu; nhược điểm là không phải kiểu floral an toàn.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích tuberose thật đẹp, có chiều xanh-kem và rất niche, Carnal Flower là lựa chọn cực đáng thử. Nó hợp người muốn một white floral có sân khấu riêng.
-
-Nên mua khi mày cần một chai floral statement. Nếu mày thích mùi nhẹ, hiền và ít hoa trắng, nên test kỹ trước.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Unisex","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Sự kiện quan trọng, opera, triển lãm, hoặc khi muốn mùi hương là statement. Xịt 1-2 nhát SAU CỔ — vì EDP mạnh. Dùng quanh năm nhưng đẹp nhất mùa ấm — tuberose nở ra dưới nắng. Cả Sài Gòn và Hà Nội đều dùng được vì bạch đàn giữ tươi.`,
+    verdict: "Tuberose tượng đài — Ropion + Frederic Malle. Hoa trắng thuần khiết, mạnh, carnal. Rolls Royce của tuberose.",
+    verdictShort: "TUBEROSE TƯỢNG ĐÀI, ROPION, ĐỈNH CAO",
+    score: { scent: 9.8, uniqueness: 9.8, compliments: 8, value: 7, total: 8.7 },
+    vibes: [{ label: "Tượng đài", icon: "🏛️" }, { label: "Niche", icon: "💎" }, { label: "Statement", icon: "🌺" }],
+    longevity: 9,
+    sillage: 8,
+    seasons: { spring: 72, summer: 62, fall: 65, winter: 52 },
+    dayNight: { day: 55, night: 72 },
+    topNotes: [{ name: "Bạch đàn" }, { name: "Dưa lưới" }, { name: "Cam bergamot" }, { name: "Galbanum" }],
+    middleNotes: [{ name: "Dừa" }, { name: "Tuberose" }, { name: "Hoa nhài" }, { name: "Ngọc lan tây" }, { name: "Hoa cam" }],
+    baseNotes: [{ name: "Xạ hương trắng" }, { name: "Nốt động vật" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Hoa trắng", value: 100, color: "#f5f5dc" },
+      { name: "Kem", value: 62, color: "#faebd7" },
+      { name: "Xanh", value: 48, color: "#27ae60" },
+      { name: "Xạ hương", value: 42, color: "#bdc3c7" },
+      { name: "Trái cây", value: 35, color: "#f39c12" }
+    ],
+    seoTitle: "Frederic Malle Carnal Flower chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Frederic Malle Carnal Flower chính hãng: mùi tuberose tượng đài Dominique Ropion, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+    tags: ["Unisex","Niche","Tượng đài","Hoa trắng"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 6500000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "cedrat-boise",
