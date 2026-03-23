@@ -10,45 +10,40 @@
   "images": [
     {
       "url": "/images/products/guerlain-insolence-edp-main.jpg",
-      "source": "amazon",
-      "caption": "GUERLAIN Insolence chính hãng",
+      "source": "fragram",
+      "caption": "Guerlain Insolence Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "## Mùi hương tổng thể\nInsolence EDP là một mùi tím rất Guerlain: violet, iris, powder và nền ngọt mềm tạo nên cảm giác vừa bột, vừa sang, vừa hơi ngông đúng như tên gọi. Nó không đi theo hướng hoa tươi sáng thông thường, mà tạo một thế giới rất riêng: mềm, tím, phấn và có chút retro quyến rũ.\n\nĐiểm mạnh của Insolence là độ nhận diện cao. Chỉ cần ngửi một lúc là biết nó không giống số đông. Trong bối cảnh Việt Nam, đây là chai hợp với người thích powdery floral có cá tính và không ngại mùi hương mang màu sắc cổ điển hiện đại khá rõ.\n\n## Diễn biến trên da\nMở đầu violet hiện lên nhanh, sau đó iris và nền powder bắt đầu làm tổng thể trở nên mịn hơn, tròn hơn và nữ tính hơn. Mùi chuyển tầng khá liền, thiên về texture hơn là kịch tính note.\n\nDrydown là lớp phấn tím mềm, hơi ngọt và rất đặc trưng. Nó có sức hút riêng nếu mày mê phong cách này. Nhược điểm là ai không hợp powder hoặc thấy violet quá rõ sẽ khó sống cùng lâu dài.\n\n## Độ lưu hương / tỏa hương / hoàn cảnh dùng\nInsolence EDP có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm môi trường mát, gặp gỡ, buổi chiều tối nhẹ hoặc dùng khi muốn một mùi floral phấn có bản sắc riêng.\n\nỞ Việt Nam, chai này nên dùng vừa tay. Ưu điểm là rất riêng và sang kiểu Guerlain; nhược điểm là kén gu hơn nhiều floral hiện đại phổ thông.\n\n## Kết luận nhanh: hợp ai, khi nào nên mua\nNếu mày thích violet, iris và mùi phấn tím có cá tính, Insolence EDP là một lựa chọn rất đáng thử. Nó hợp người yêu mùi floral powdery sang và không muốn đi theo lối hoa trắng hay gourmand quá quen.\n\nNên mua khi mày muốn một mùi nữ có bản sắc riêng. Nếu mày thích mùi quá sạch, quá tươi hoặc ít phấn, nên test trước kỹ.",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai nữ tím-hoa tím-quả mọng kiểu hỗn xược Guerlain — cam huyết, hoa tím, quả mọng tím, hoa hồng, iris, nhựa Tolu, hổ phách, đậu Tonka và xạ hương. Tím, powdery và rất feminine.",
+  "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi phấn — thì Insolence phấn NẶNG. Violet (hoa tím) + iris tạo ra lớp bột mịn dày kiểu má phấn hồng — vừa ngọt vừa powdery. Maurice Roucel (cùng perfumer tạo Musc Ravageur và 24 Faubourg) thiết kế chai này mang tính \"hỗn xược\" — nhưng insolence ở đây là kiểu quý phái biết mình đẹp, không phải punk.\n\n### Có đáng tiền không?\n\nGiá Guerlain tầm trung — và Insolence EDP đậm hơn EDT đáng kể: nhiều nhựa Tolu, nhiều hổ phách, powdery hơn. So với YSL Mon Paris — cùng nữ trái cây ấm — thì Insolence nhiều violet hơn, unique hơn. So với Prada Candy — cùng ngọt — thì Insolence bớt gourmand, nhiều hoa hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, hẹn hò, sự kiện, hoặc khi muốn mùi NỮ 100%. Xịt 2-3 nhát: cổ và cổ tay. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai cho ai muốn feminine mà không basic.",
+  "verdict": "Tím-violet-phấn kiểu hỗn — Roucel. Guerlain feminine nhất. Powdery mà quý, ngọt mà không cheap.",
+  "verdictShort": "TÍM HOA TÍM, POWDERY QUÝ, FEMININE",
+  "score": { "scent": 8.0, "uniqueness": 8.0, "compliments": 8.0, "value": 8.0, "total": 8.0 },
+  "vibes": [
+    { "label": "Feminine", "icon": "💜" },
+    { "label": "Powdery", "icon": "✨" },
+    { "label": "Hỗn xược", "icon": "😏" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": { "spring": 62, "summer": 28, "fall": 78, "winter": 72 },
+  "dayNight": { "day": 42, "night": 75 },
+  "topNotes": [{ "name": "Cam huyết" }, { "name": "Hoa tím" }],
+  "middleNotes": [{ "name": "Quả mọng tím" }, { "name": "Hoa hồng" }, { "name": "Iris" }],
+  "baseNotes": [{ "name": "Nhựa Tolu" }, { "name": "Hổ phách" }, { "name": "Đậu Tonka" }, { "name": "Xạ hương" }],
+  "accords": [
+    { "name": "Phấn", "value": 100, "color": "#d7bde2" },
+    { "name": "Hoa", "value": 82, "color": "#e91e63" },
+    { "name": "Ngọt", "value": 62, "color": "#8B0000" },
+    { "name": "Trái cây", "value": 48, "color": "#f39c12" },
+    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+  ],
+  "seoTitle": "Guerlain Insolence EDP chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Guerlain Insolence EDP chính hãng: mùi tím violet powdery feminine, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nữ", "Feminine", "Powdery", "Buổi tối"],
+  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

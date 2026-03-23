@@ -5010,44 +5010,46 @@ Quanh năm — đi làm, gặp khách VIP, sự kiện, dạo phố. Xịt 2-3 n
     perfumer: "Daniela Andrier",
     gender: "nu",
     image: "/images/products/prada-infusion-diris-main.jpg",
-    images: [{ url: "/images/products/prada-infusion-diris-main.jpg", source: "amazon", caption: "PRADA Infusion d'Iris chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Infusion d'Iris là kiểu sạch sang rất Prada: iris mịn, xà phòng thanh, chút citrus và nền gỗ sáng tạo nên cảm giác tinh, sạch và gần như tối giản tuyệt đối. Đây không phải mùi hương để gây choáng hay tạo sex appeal trực diện, mà là mùi của sự tinh tươm, chỉn chu và gu thẩm mỹ kín.
+    images: [
+      { url: "/images/products/prada-infusion-diris-main.jpg", source: "fragram", caption: "Prada Infusion d'Iris Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai nữ iris-cam-gỗ tuyết tùng kiểu Prada tối giản — cam neroli, cam quýt, galbanum, iris, cỏ hương bài, benzoin, gỗ tuyết tùng và nhũ hương. Iris sạch, tối giản và rất intellectual.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của chai này là nó lên người như một lớp vải sạch cao cấp. Mọi thứ đều mượt, mỏng và gọn chứ không phô diễn. Trong bối cảnh Việt Nam, Infusion d'Iris hợp với người thích mùi sạch-sang, dùng đi làm, đi gặp gỡ nhẹ hoặc làm signature cho những ai không muốn mùi hương quá ồn.
+Nếu bạn muốn mùi ngọt, sexy, tỏa xa — thì Infusion d'Iris sẽ quá SẠCH, quá TỐI GIẢN để bạn cảm nhận được. Đây là iris kiểu Prada: clean, powdery, gần da — kiểu áo sơ mi trắng ủi phẳng, không phụ kiện. Daniela Andrier (cũng tạo Angélique Noire) thiết kế nó như "trà hoa iris" — nhẹ, thanh, không cần ai khen.
 
-## Diễn biến trên da
-Mở đầu là citrus và cảm giác xà phòng sạch rất tinh. Sau đó iris bắt đầu lộ ra, nhưng không phấn đậm mà mịn, sáng và hiện đại. Toàn bộ diễn biến của chai này tương đối nhẹ nhàng, không có cú twist lớn mà chủ yếu duy trì trạng thái thanh và sạch.
+### Có đáng tiền không?
 
-Drydown của Infusion d'Iris rất mượt: hơi phấn nhẹ, sạch, sáng và rất ôm da. Nó đẹp theo kiểu gần gũi chứ không bùng nổ. Nhược điểm là ai thích mùi đậm, ngọt hoặc tỏa mạnh sẽ thấy chai này hơi kín.
+Giá Prada tầm trung-cao — và Infusion d'Iris là chai Prada nữ KINH ĐIỂN nhất. So với Dior Homme — cùng iris — thì Infusion d'Iris nữ hơn, sạch hơn, ít da hơn. So với Chanel No.19 — cùng iris nữ cổ điển — thì Infusion d'Iris hiện đại hơn, ít gia vị hơn. Chai được coi là "quiet luxury" scent — cho người không cần nói nhiều nhưng ai gần biết là đắt. Bám 6-7 giờ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Infusion d'Iris có độ lưu hương vừa khá, khoảng 5-7 giờ; tỏa hương nhẹ đến vừa. Nó cực hợp cho văn phòng, đi làm, ban ngày, thời tiết nóng hoặc môi trường cần sự thanh lịch kín đáo.
+### Nên dùng khi nào?
 
-Ở Việt Nam, đây là kiểu mùi rất dễ dùng vì không ngọt và không nặng. Ưu điểm là sạch, tinh tế, ít rủi ro; nhược điểm là không tạo spotlight mạnh và có thể hơi hiền với người thích mùi đậm.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày muốn một chai mùi sạch-sang theo hướng understated luxury, Infusion d'Iris là lựa chọn cực đẹp. Nó hợp người thích gu tối giản, chỉn chu và muốn mùi hương như một phần của phong cách hơn là tuyên bố lớn.
-
-Nên mua khi mày cần một chai signature văn phòng hoặc dùng thường ngày thật thanh. Nếu mày cần hiệu năng mạnh hoặc cá tính cao, nên bổ sung thêm một chai khác.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi làm, gặp khách, họp, hoặc bất cứ dịp nào cần sự LỊCH SỰ THẦM LẶNG. Xịt 2-3 nhát: cổ và cổ tay. Dùng quanh năm — iris-neroli tươi mùa hè, benzoin-cedar ấm mùa đông. Chai "old money" scent.`,
+    verdict: "Iris tối giản — trà hoa, sạch, quiet luxury. Andrier. Prada kinh điển nhất. Old money scent.",
+    verdictShort: "IRIS TỐI GIẢN, QUIET LUXURY, OLD MONEY",
+    score: { scent: 8.5, uniqueness: 8.5, compliments: 7, value: 7.5, total: 7.9 },
+    vibes: [{ label: "Quiet luxury", icon: "🤫" }, { label: "Tối giản", icon: "⬜" }, { label: "Old money", icon: "💎" }],
+    longevity: 7,
+    sillage: 4,
+    seasons: { spring: 78, summer: 62, fall: 65, winter: 52 },
+    dayNight: { day: 78, night: 42 },
+    topNotes: [{ name: "Neroli" }, { name: "Cam quýt" }, { name: "Galbanum" }],
+    middleNotes: [{ name: "Iris" }, { name: "Cỏ hương bài" }],
+    baseNotes: [{ name: "Benzoin" }, { name: "Gỗ tuyết tùng" }, { name: "Nhũ hương" }],
+    accords: [
+      { name: "Phấn", value: 100, color: "#d7bde2" },
+      { name: "Hoa", value: 72, color: "#e91e63" },
+      { name: "Tươi mát", value: 55, color: "#2ecc71" },
+      { name: "Gỗ", value: 48, color: "#8B4513" },
+      { name: "Xạ hương", value: 42, color: "#bdc3c7" }
+    ],
+    seoTitle: "Prada Infusion d'Iris chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Prada Infusion d'Iris chính hãng: mùi iris tối giản quiet luxury, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Quiet luxury","Tối giản","Office"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox","200ml Fullbox"],
+    basePrice: 2800000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "insolence-edp",
@@ -5058,44 +5060,46 @@ Nên mua khi mày cần một chai signature văn phòng hoặc dùng thường 
     perfumer: "Maurice Roucel",
     gender: "nu",
     image: "/images/products/guerlain-insolence-edp-main.jpg",
-    images: [{ url: "/images/products/guerlain-insolence-edp-main.jpg", source: "amazon", caption: "GUERLAIN Insolence chính hãng", verified: true }],
-    description: "(Chờ nguồn xác minh)",
-    productCopy: `## Mùi hương tổng thể
-Insolence EDP là một mùi tím rất Guerlain: violet, iris, powder và nền ngọt mềm tạo nên cảm giác vừa bột, vừa sang, vừa hơi ngông đúng như tên gọi. Nó không đi theo hướng hoa tươi sáng thông thường, mà tạo một thế giới rất riêng: mềm, tím, phấn và có chút retro quyến rũ.
+    images: [
+      { url: "/images/products/guerlain-insolence-edp-main.jpg", source: "fragram", caption: "Guerlain Insolence Eau de Parfum chính hãng", verified: true }
+    ],
+    description: "Chai nữ tím-hoa tím-quả mọng kiểu hỗn xược Guerlain — cam huyết, hoa tím, quả mọng tím, hoa hồng, iris, nhựa Tolu, hổ phách, đậu Tonka và xạ hương. Tím, powdery và rất feminine.",
+    article: `### Ai không nên mua?
 
-Điểm mạnh của Insolence là độ nhận diện cao. Chỉ cần ngửi một lúc là biết nó không giống số đông. Trong bối cảnh Việt Nam, đây là chai hợp với người thích powdery floral có cá tính và không ngại mùi hương mang màu sắc cổ điển hiện đại khá rõ.
+Nếu bạn ghét mùi phấn — thì Insolence phấn NẶNG. Violet (hoa tím) + iris tạo ra lớp bột mịn dày kiểu má phấn hồng — vừa ngọt vừa powdery. Maurice Roucel (cùng perfumer tạo Musc Ravageur và 24 Faubourg) thiết kế chai này mang tính "hỗn xược" — nhưng insolence ở đây là kiểu quý phái biết mình đẹp, không phải punk.
 
-## Diễn biến trên da
-Mở đầu violet hiện lên nhanh, sau đó iris và nền powder bắt đầu làm tổng thể trở nên mịn hơn, tròn hơn và nữ tính hơn. Mùi chuyển tầng khá liền, thiên về texture hơn là kịch tính note.
+### Có đáng tiền không?
 
-Drydown là lớp phấn tím mềm, hơi ngọt và rất đặc trưng. Nó có sức hút riêng nếu mày mê phong cách này. Nhược điểm là ai không hợp powder hoặc thấy violet quá rõ sẽ khó sống cùng lâu dài.
+Giá Guerlain tầm trung — và Insolence EDP đậm hơn EDT đáng kể: nhiều nhựa Tolu, nhiều hổ phách, powdery hơn. So với YSL Mon Paris — cùng nữ trái cây ấm — thì Insolence nhiều violet hơn, unique hơn. So với Prada Candy — cùng ngọt — thì Insolence bớt gourmand, nhiều hoa hơn. Bám 7-8 giờ.
 
-## Độ lưu hương / tỏa hương / hoàn cảnh dùng
-Insolence EDP có độ lưu hương khá, khoảng 6-8 giờ; tỏa hương vừa. Nó hợp đi làm môi trường mát, gặp gỡ, buổi chiều tối nhẹ hoặc dùng khi muốn một mùi floral phấn có bản sắc riêng.
+### Nên dùng khi nào?
 
-Ở Việt Nam, chai này nên dùng vừa tay. Ưu điểm là rất riêng và sang kiểu Guerlain; nhược điểm là kén gu hơn nhiều floral hiện đại phổ thông.
-
-## Kết luận nhanh: hợp ai, khi nào nên mua
-Nếu mày thích violet, iris và mùi phấn tím có cá tính, Insolence EDP là một lựa chọn rất đáng thử. Nó hợp người yêu mùi floral powdery sang và không muốn đi theo lối hoa trắng hay gourmand quá quen.
-
-Nên mua khi mày muốn một mùi nữ có bản sắc riêng. Nếu mày thích mùi quá sạch, quá tươi hoặc ít phấn, nên test trước kỹ.`,
-    article: "(Chờ Coder viết bài)",
-    verdict: "(Chờ nguồn xác minh)",
-    verdictShort: "NEEDS_SOURCE",
-    score: { scent: 0, uniqueness: 0, compliments: 0, value: 0, total: 0 },
-    vibes: [],
-    longevity: 0,
-    sillage: 0,
-    seasons: { spring: 0, summer: 0, fall: 0, winter: 0 },
-    dayNight: { day: 0, night: 0 },
-    topNotes: [],
-    middleNotes: [],
-    baseNotes: [],
-    accords: [],
-    tags: ["Nữ","NEEDS_SOURCE"],
-    sizes: [],
-    basePrice: 0,
-    shopeeOffers: []
+Đi ăn tối, hẹn hò, sự kiện, hoặc khi muốn mùi NỮ 100%. Xịt 2-3 nhát: cổ và cổ tay. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai cho ai muốn feminine mà không basic.`,
+    verdict: "Tím-violet-phấn kiểu hỗn — Roucel. Guerlain feminine nhất. Powdery mà quý, ngọt mà không cheap.",
+    verdictShort: "TÍM HOA TÍM, POWDERY QUÝ, FEMININE",
+    score: { scent: 8, uniqueness: 8, compliments: 8, value: 8, total: 8 },
+    vibes: [{ label: "Feminine", icon: "💜" }, { label: "Powdery", icon: "✨" }, { label: "Hỗn xược", icon: "😏" }],
+    longevity: 8,
+    sillage: 7,
+    seasons: { spring: 62, summer: 28, fall: 78, winter: 72 },
+    dayNight: { day: 42, night: 75 },
+    topNotes: [{ name: "Cam huyết" }, { name: "Hoa tím" }],
+    middleNotes: [{ name: "Quả mọng tím" }, { name: "Hoa hồng" }, { name: "Iris" }],
+    baseNotes: [{ name: "Nhựa Tolu" }, { name: "Hổ phách" }, { name: "Đậu Tonka" }, { name: "Xạ hương" }],
+    accords: [
+      { name: "Phấn", value: 100, color: "#d7bde2" },
+      { name: "Hoa", value: 82, color: "#e91e63" },
+      { name: "Ngọt", value: 62, color: "#8B0000" },
+      { name: "Trái cây", value: 48, color: "#f39c12" },
+      { name: "Hổ phách", value: 42, color: "#d4a017" }
+    ],
+    seoTitle: "Guerlain Insolence EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Guerlain Insolence EDP chính hãng: mùi tím violet powdery feminine, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+    tags: ["Nữ","Feminine","Powdery","Buổi tối"],
+    sizes: ["10ml Chiết","30ml Fullbox","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2200000,
+    shopeeOffers: [],
+    isPublished: true
   },
   {
     id: "instant-crush",
