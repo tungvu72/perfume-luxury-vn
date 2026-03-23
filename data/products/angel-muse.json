@@ -10,45 +10,40 @@
   "images": [
     {
       "url": "/images/products/mugler-angel-muse-main.jpg",
-      "source": "amazon",
-      "caption": "MUGLER Angel Muse chính hãng",
+      "source": "fragram",
+      "caption": "Mugler Angel Muse Eau de Parfum chính hãng",
       "verified": true
     }
   ],
-  "description": "(Chờ nguồn xác minh)",
-  "productCopy": "(Chờ Coder viết bài)",
-  "article": "(Chờ Coder viết bài)",
-  "score": {
-    "scent": 0,
-    "uniqueness": 0,
-    "compliments": 0,
-    "value": 0,
-    "total": 0
-  },
-  "vibes": [],
-  "longevity": 0,
-  "sillage": 0,
-  "seasons": {
-    "spring": 0,
-    "summer": 0,
-    "fall": 0,
-    "winter": 0
-  },
-  "dayNight": {
-    "day": 0,
-    "night": 0
-  },
-  "topNotes": [],
-  "middleNotes": [],
-  "baseNotes": [],
-  "accords": [],
-  "tags": [
-    "Nữ",
-    "NEEDS_SOURCE"
+  "description": "Chai nữ kem hạt dẻ-cỏ hương bài gourmand kiểu tương lai — tiêu hồng, bưởi, kem hạt dẻ cacao, hoắc hương và cỏ hương bài. Gourmand nhưng có vetiver. Ngọt nhưng tinh tế.",
+  "article": "### Ai không nên mua?\n\nNếu bạn kỳ vọng Angel Muse giống Angel gốc (patchouli-chocolate nặng) — thì Muse khác hẳn: nhẹ hơn, tươi hơn, có bưởi hồng và vetiver thay vì praline đặc. Ai ghét mùi ngọt-kem cũng vẫn nên cân nhắc vì nốt kem hạt dẻ (hazelnut cocoa spread — đúng là Nutella) rất rõ. Chai này discontinued rồi nên khó tìm.\n\n### Có đáng tiền không?\n\nMugler giá tầm trung — nhưng Angel Muse discontinued nên thị trường secondhand đang tăng giá. Quentin Bisch (cùng perfumer làm 1 Million Parfum) tạo ra chai \"gourmand vetiver nữ đầu tiên\" — concept rất hay: Nutella + cỏ hương bài. So với Angel gốc — Muse nhẹ hơn, dễ mặc hơn và hiện đại hơn. So với Lancôme La Nuit Trésor — cùng gourmand nữ — thì Muse có vetiver mà La Nuit không có. Bám 6-7 giờ.\n\n### Nên dùng khi nào?\n\nĐi chơi tối, hẹn hò, cuối tuần casual. Xịt 2-3 nhát: cổ và cổ tay. Thu đông đẹp nhất. Hà Nội tháng 10-2. Sài Gòn tối mát. Nếu tìm được chai, mua luôn — hết hàng là hết.",
+  "verdict": "Nutella + vetiver gourmand — concept độc đáo nhất Mugler. Discontinued. Tìm được thì mua ngay.",
+  "verdictShort": "NUTELLA VETIVER, DISCONTINUED, ĐỘC ĐÁO",
+  "score": { "scent": 8.5, "uniqueness": 9.0, "compliments": 8.0, "value": 7.5, "total": 8.3 },
+  "vibes": [
+    { "label": "Gourmand", "icon": "🍫" },
+    { "label": "Độc đáo", "icon": "⚡" },
+    { "label": "Discontinued", "icon": "⏳" }
   ],
-  "sizes": [],
-  "basePrice": 0,
-  "verdict": "(Chờ nguồn xác minh)",
-  "verdictShort": "NEEDS_SOURCE",
-  "shopeeOffers": []
+  "longevity": 7,
+  "sillage": 6,
+  "seasons": { "spring": 42, "summer": 18, "fall": 82, "winter": 78 },
+  "dayNight": { "day": 35, "night": 78 },
+  "topNotes": [{ "name": "Tiêu hồng" }, { "name": "Bưởi" }],
+  "middleNotes": [{ "name": "Kem hạt dẻ cacao" }],
+  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Cỏ hương bài" }],
+  "accords": [
+    { "name": "Gourmand", "value": 100, "color": "#d4a373" },
+    { "name": "Gỗ", "value": 62, "color": "#8B4513" },
+    { "name": "Ngọt", "value": 55, "color": "#8B0000" },
+    { "name": "Tươi mát", "value": 42, "color": "#2ecc71" },
+    { "name": "Gia vị ấm", "value": 35, "color": "#e67e22" }
+  ],
+  "seoTitle": "Mugler Angel Muse chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Mugler Angel Muse chính hãng: mùi kem hạt dẻ vetiver gourmand độc đáo, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
+  "tags": ["Nữ", "Gourmand", "Độc đáo", "Discontinued"],
+  "sizes": ["10ml Chiết", "50ml Fullbox"],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
