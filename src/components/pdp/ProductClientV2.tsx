@@ -484,6 +484,24 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               </div>
             )}
 
+            {/* Card 4: Cam kết sản phẩm */}
+            <div className="rounded-[var(--radius-lg)] border border-[var(--color-border)] bg-[var(--color-surface)] p-5">
+              <h3 className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-4">Cam kết của Maison de SON</h3>
+              <ul className="space-y-3">
+                {[
+                  "Thông tin dựa trên trải nghiệm thực tế, không phải quảng cáo",
+                  "Không bán hàng — chỉ review và tư vấn trung thực",
+                  "Không nhận tài trợ từ thương hiệu để review thiên vị",
+                  "Tư vấn miễn phí qua Zalo, không ép mua",
+                ].map((item) => (
+                  <li key={item} className="flex items-start gap-2.5 text-[12px] text-[var(--color-text-secondary)] leading-[1.6]">
+                    <svg className="mt-0.5 flex-shrink-0 text-[var(--color-primary)]" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M20 6L9 17l-5-5"/></svg>
+                    {item}
+                  </li>
+                ))}
+              </ul>
+            </div>
+
           </div>
         </aside>
       </div>
