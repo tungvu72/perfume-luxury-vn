@@ -26,7 +26,7 @@ export default function FloatingSupport() {
                         onClick={handleZaloClick}
                         className="flex min-w-[188px] items-center gap-3 rounded-2xl border border-gray-100 bg-white px-4 py-3 shadow-[0_16px_40px_rgba(27,18,13,0.12)] transition-all hover:-translate-y-0.5 hover:shadow-xl"
                     >
-                        <div className="flex h-9 w-9 items-center justify-center rounded-full bg-[#0068FF] text-white">
+                        <div className="flex h-9 w-9 items-center justify-center rounded-full bg-[#0D7377] text-white">
                             <MessageCircle size={16} />
                         </div>
                         <div>
@@ -54,7 +54,7 @@ export default function FloatingSupport() {
                 onClick={() => setIsOpen(!isOpen)}
                 className={`flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all active:scale-90 ${isOpen
                     ? "bg-gray-800 text-white"
-                    : "bg-[#0068FF] text-white hover:scale-105"
+                    : "bg-[#0D7377] text-white hover:scale-105"
                     }`}
                 aria-label="Liên hệ Maison de SON"
             >

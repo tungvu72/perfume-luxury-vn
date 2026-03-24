@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Mail, Phone, MapPin, Instagram, Facebook } from "lucide-react";
+import { Phone, MapPin, MessageCircle } from "lucide-react";
 
 export default function Footer() {
     const currentYear = new Date().getFullYear();
@@ -17,12 +17,9 @@ export default function Footer() {
                             Trang web chia sẻ kiến thức, trải nghiệm thực tế và định hướng chọn mua nước hoa cho người Việt. Maison de SON ưu tiên thông tin rõ ràng, dễ hiểu và hữu ích trước khi nói đến chuyện mua bán.
                         </p>
                         <div className="flex gap-4">
-                            <Link href="#" className="p-3 min-h-[44px] min-w-[44px] flex items-center justify-center bg-white rounded-full border border-gray-200 text-gray-400 hover:text-primary hover:border-primary transition-all">
-                                <Instagram size={16} />
-                            </Link>
-                            <Link href="#" className="p-3 min-h-[44px] min-w-[44px] flex items-center justify-center bg-white rounded-full border border-gray-200 text-gray-400 hover:text-primary hover:border-primary transition-all">
-                                <Facebook size={16} />
-                            </Link>
+                            <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="p-3 min-h-[44px] min-w-[44px] flex items-center justify-center bg-white rounded-full border border-gray-200 text-gray-400 hover:text-primary hover:border-primary transition-all">
+                                <MessageCircle size={16} />
+                            </a>
                         </div>
                     </div>
 
@@ -46,26 +43,28 @@ export default function Footer() {
                         <ul className="space-y-4 text-xs font-semibold text-gray-500">
                             <li><Link href="/kien-thuc" className="hover:text-primary transition-colors py-1 block">Kiến thức nước hoa</Link></li>
                             <li><Link href="/gioi-thieu" className="hover:text-primary transition-colors py-1 block">Về Maison de SON</Link></li>
-                            <li><Link href="#" className="hover:text-primary transition-colors py-1 block">Chính sách bảo hành</Link></li>
-                            <li><Link href="#" className="hover:text-primary transition-colors py-1 block">Liên hệ hợp tác</Link></li>
+                            <li><Link href="/chinh-sach" className="hover:text-primary transition-colors py-1 block">Chính sách</Link></li>
+                            <li>
+                                <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors py-1 block">Liên hệ hợp tác</a>
+                            </li>
                         </ul>
                     </div>
 
                     {/* Cột 4: Liên hệ */}
                     <div>
                         <h4 className="text-[10px] font-bold uppercase tracking-[2px] mb-6">Liên hệ</h4>
-                        <ul className="space-y-4 text-xs font-semibold text-gray-500 text-gray-500">
+                        <ul className="space-y-4 text-xs font-semibold text-gray-500">
                             <li className="flex items-start gap-3">
-                                <MapPin size={14} className="mt-0.5" />
-                                <span>L3-456, Vinhomes Central Park,<br />Bình Thạnh, TP. HCM</span>
+                                <MapPin size={14} className="mt-0.5 flex-shrink-0" />
+                                <span>TP. Hồ Chí Minh, Việt Nam</span>
                             </li>
                             <li className="flex items-center gap-3">
-                                <Phone size={14} />
-                                <span>090 123 4567</span>
+                                <Phone size={14} className="flex-shrink-0" />
+                                <a href="tel:0961226169" className="hover:text-primary transition-colors">0961 226 169</a>
                             </li>
                             <li className="flex items-center gap-3">
-                                <Mail size={14} />
-                                <span>contact@maisondeson.vn</span>
+                                <MessageCircle size={14} className="flex-shrink-0" />
+                                <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">Zalo: 0961 226 169</a>
                             </li>
                         </ul>
                     </div>
@@ -73,15 +72,15 @@ export default function Footer() {
 
                 <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
                     <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">
-                        © {currentYear} Maison de SON · Kiến thức, review & trải nghiệm thực tế
+                        © {currentYear} Maison de SON · Kiến thức, review &amp; trải nghiệm thực tế
                     </p>
                     <div className="flex gap-6 text-[10px] text-gray-400 font-bold uppercase tracking-wider">
-                        <Link href="#" className="hover:text-primary transition-colors py-1 block">Privacy Policy</Link>
-                        <Link href="#" className="hover:text-primary transition-colors py-1 block">Terms of Service</Link>
+                        <Link href="/chinh-sach" className="hover:text-primary transition-colors py-1 block">Chính sách</Link>
+                        <Link href="/gioi-thieu" className="hover:text-primary transition-colors py-1 block">Giới thiệu</Link>
                     </div>
                 </div>
 
-                {/* Disclaimer - Rất quan trọng cho SEO */}
+                {/* Disclaimer */}
                 <div className="mt-8 p-4 bg-gray-100/50 rounded-lg">
                     <p className="text-[9px] text-gray-400 leading-relaxed italic text-center">
                         Maison de SON là nền tảng đánh giá độc lập. Chúng tôi cung cấp thông tin trung thực dựa trên trải nghiệm thực tế và gợi ý nơi mua uy tín cho người dùng.

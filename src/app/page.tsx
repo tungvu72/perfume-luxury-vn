@@ -388,16 +388,16 @@ export default async function Home() {
         {/* Mobile: horizontal scroll */}
         <div className="flex gap-3 overflow-x-auto pb-2 no-scrollbar md:hidden">
           {topProducts.slice(0, 6).map((product) => (
-            <Link key={product.id} href={getProductUrl(product)} className="group flex-shrink-0 w-[152px] rounded-[18px] border border-[var(--color-border)] bg-white overflow-hidden transition-all hover:shadow-lg hover:-translate-y-0.5">
+            <Link key={product.id} href={getProductUrl(product)} className="group flex-shrink-0 w-[168px] rounded-[18px] border border-[var(--color-border)] bg-white overflow-hidden transition-all hover:shadow-lg hover:-translate-y-0.5">
               <div className="relative h-[130px] bg-gradient-to-b from-[#FAF9F7] to-[#EDE8E0]">
-                <Image src={product.image} alt={product.name} fill sizes="152px" className="object-contain p-4 mix-blend-multiply transition-transform group-hover:scale-105" />
+                <Image src={product.image} alt={product.name} fill sizes="168px" className="object-contain p-4 mix-blend-multiply transition-transform group-hover:scale-105" />
               </div>
               <div className="p-3">
-                <div className="text-[9px] font-bold uppercase tracking-[0.14em] text-[var(--color-primary)]">{product.brand}</div>
-                <div className="text-[13px] font-bold mt-1 line-clamp-2 leading-snug">{product.name}</div>
-                <div className="flex items-center justify-between mt-2">
-                  <span className="font-serif text-[18px] font-bold text-[var(--color-primary)]">{product.score.total}<span className="text-[11px] font-sans font-normal text-[var(--color-text-muted)]">/10</span></span>
-                  <span className="text-[11px] text-[var(--color-text-muted)]">{product.basePrice.toLocaleString()}đ</span>
+                <div className="text-[9px] font-bold uppercase tracking-[0.14em] text-[var(--color-primary)] mb-0.5">{product.brand}</div>
+                <div className="text-[12px] font-bold line-clamp-2 leading-snug mb-2.5">{product.name}</div>
+                <div className="flex items-center justify-between pt-2 border-t border-[var(--color-border-subtle)]">
+                  <span className="font-serif text-[17px] font-bold text-[var(--color-primary)] leading-none">{product.score.total}<span className="text-[10px] font-sans font-normal text-[var(--color-text-muted)]">/10</span></span>
+                  <span className="text-[11px] text-[var(--color-text-muted)] font-medium whitespace-nowrap">{product.basePrice.toLocaleString()}đ</span>
                 </div>
               </div>
             </Link>
@@ -464,7 +464,7 @@ export default async function Home() {
           <div className="flex flex-col gap-3 md:hidden">
             {ONBOARDING_PATHS.map((path) => (
               <Link key={path.num} href={path.href} className="group flex items-center gap-4 rounded-[16px] border border-[var(--color-border)] bg-white p-4 hover:border-[var(--color-primary)] hover:shadow-[var(--shadow-md)] transition-all">
-                <span className="font-serif text-[28px] font-bold text-[var(--color-border)] flex-shrink-0 w-9">{path.num}</span>
+                <span className="font-serif text-[28px] font-bold text-[#B8962E] flex-shrink-0 w-9">{path.num}</span>
                 <div className="flex-1">
                   <div className="text-[14px] font-bold">{path.title}</div>
                   <div className="text-[12px] text-[var(--color-text-secondary)] mt-0.5 leading-snug">{path.desc.split(" — ")[0]}</div>
@@ -477,7 +477,7 @@ export default async function Home() {
           <div className="hidden md:grid grid-cols-3 gap-4">
             {ONBOARDING_PATHS.map((path) => (
               <Link key={path.num} href={path.href} className="group flex flex-col rounded-[20px] border border-[var(--color-border)] bg-white p-7 hover:border-[var(--color-primary)] hover:shadow-[var(--shadow-md)] hover:-translate-y-0.5 transition-all">
-                <span className="font-serif text-[40px] font-bold text-[var(--color-border)] leading-none mb-4">{path.num}</span>
+                <span className="font-serif text-[40px] font-bold text-[#B8962E] leading-none mb-4">{path.num}</span>
                 <div className="text-[17px] font-bold mb-2.5">{path.title}</div>
                 <div className="text-[14px] text-[var(--color-text-secondary)] leading-[1.7] flex-1">{path.desc}</div>
                 <span className="mt-5 inline-flex items-center gap-1.5 text-[13px] font-bold text-[var(--color-primary)]">
@@ -509,8 +509,8 @@ export default async function Home() {
         <div className="flex gap-3 overflow-x-auto pb-2 no-scrollbar md:hidden">
           {BRAND_SPOTLIGHT.map((brand) => (
             <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex-shrink-0 w-[200px] rounded-[18px] border border-[var(--color-border)] bg-white overflow-hidden hover:border-[var(--color-primary)] hover:shadow-md transition-all">
-              {/* Logo area — full width top */}
-              <div className="h-[80px] bg-[var(--color-bg-muted)] flex items-center justify-center p-4">
+              {/* Logo area — full width top, warm bg */}
+              <div className="h-[80px] bg-[#EDE8E0] flex items-center justify-center px-6 py-3">
                 <img src={brand.logo} alt={brand.name} className="max-h-full max-w-full object-contain" />
               </div>
               <div className="p-4">
@@ -526,8 +526,8 @@ export default async function Home() {
         <div className="hidden md:grid grid-cols-3 gap-3.5">
           {BRAND_SPOTLIGHT.map((brand) => (
             <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex items-center rounded-[20px] border border-[var(--color-border)] bg-white overflow-hidden hover:border-[var(--color-primary)] hover:shadow-[var(--shadow-md)] hover:-translate-y-0.5 transition-all">
-              {/* Logo — left panel */}
-              <div className="w-[100px] h-[100px] flex-shrink-0 bg-[var(--color-bg-muted)] flex items-center justify-center p-5">
+              {/* Logo — left panel, warm bg */}
+              <div className="w-[100px] h-[100px] flex-shrink-0 bg-[#EDE8E0] flex items-center justify-center px-5 py-4">
                 <img src={brand.logo} alt={brand.name} className="max-h-full max-w-full object-contain" />
               </div>
               {/* Text — right */}

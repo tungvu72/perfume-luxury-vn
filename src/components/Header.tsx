@@ -229,7 +229,7 @@ const Header = () => {
 
                 {/* ROW 2: SEARCH BAR - Enhanced */}
                 <div className="border-b border-[var(--border)] bg-[#FAFAFA]">
-                    <div className="max-w-[1200px] mx-auto px-4 sm:px-5 py-2" ref={searchRef}>
+                    <div className="max-w-[1200px] mx-auto px-4 sm:px-5 py-1.5" ref={searchRef}>
                         <div className="relative">
                             <div className={`flex items-center gap-2.5 bg-white border rounded-lg px-3 py-2 transition-all duration-200 ${isSearchFocused ? 'border-primary shadow-lg shadow-primary/5' : 'border-gray-200'}`}>
                                 <Search size={16} className={`flex-shrink-0 transition-colors ${isSearchFocused ? 'text-primary' : 'text-gray-400'}`} />
