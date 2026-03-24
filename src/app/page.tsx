@@ -127,7 +127,7 @@ const BRAND_SPOTLIGHT = [
     logo: "/images/brands/chanel.svg",
     name: "Chanel",
     tag: "Lịch sự, cổ điển, bền giá trị",
-    desc: "Biểu tượng luxury lâu đời — Bleu de Chanel và Coco Mademoiselle được tìm kiếm nhiều nhất.",
+    desc: "Thương hiệu Pháp lâu đời — Bleu de Chanel và Coco Mademoiselle được tìm kiếm nhiều nhất.",
     flagshipSlug: "nuoc-hoa-nam-chanel-bleu-de-chanel-edp",
     flagshipName: "Bleu de Chanel EDP",
   },
@@ -157,7 +157,7 @@ const BRAND_SPOTLIGHT = [
     logo: "/images/brands/mancera.svg",
     name: "Mancera",
     tag: "Niche tầm trung, hiệu năng cao",
-    desc: "Niche Pháp giá phải chăng nhưng lưu hương vượt trội — Cedrat Boisé là bestseller.",
+    desc: "Niche Pháp giá phải chăng nhưng lưu hương vượt trội — Cedrat Boisé là chai bán chạy nhất.",
     flagshipSlug: "nuoc-hoa-unisex-mancera-cedrat-boise",
     flagshipName: "Cedrat Boisé",
   },
@@ -181,7 +181,7 @@ const TRUST_POINTS = [
   },
   {
     num: "02",
-    title: "Không sponsored, dám nói nhược điểm",
+    title: "Không nhận tài trợ, dám nói nhược điểm",
     desc: "Nếu chai đó ngợp, ngọt sến hoặc không xứng tiền — chúng tôi nói thẳng. Không có chai nào là hoàn hảo trong mọi hoàn cảnh.",
   },
   {
@@ -282,7 +282,7 @@ export default async function Home() {
             {/* Trust pills */}
             <div className="grid grid-cols-3 gap-2 md:gap-2.5 mt-6 md:mt-8">
               {[
-                { title: "Review thực tế", desc: "Không chép note hương từ brand" },
+                { title: "Review thực tế", desc: "Không chép mô tả hương của hãng" },
                 { title: "Dễ hiểu", desc: "Viết cho người Việt phổ thông" },
                 { title: "Tư vấn thật", desc: "Nhắn Zalo — gợi ý cụ thể, không ép mua" },
               ].map((item) => (
