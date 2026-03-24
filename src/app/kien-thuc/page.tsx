@@ -35,11 +35,7 @@ const CATEGORY_LABELS: Record<string, string> = {
   "Brand Story": "Thương hiệu",
 };
 
-const POPULAR_TOPICS = [
-  "Review", "Hướng dẫn", "Mùa hè", "Đi làm", "Hẹn hò",
-  "Cận hasi", "Tập dần", "Rõ ràn", "Tân ơ",
-  "Lượt bạn", "Hẹn hò", "Tìm nhạc",
-];
+
 
 function formatDate(date?: string | null) {
   if (!date) return "Mới cập nhật";
@@ -71,7 +67,7 @@ export default async function KienThucPage() {
         <div className="mx-auto max-w-[1200px] px-4 py-10 text-center sm:py-14 md:py-16">
           <h1 className="text-3xl font-serif sm:text-4xl md:text-5xl">Kiến thức nước hoa</h1>
           <p className="mx-auto mt-3 max-w-2xl text-sm leading-relaxed text-white/80 sm:text-base">
-            Khám phá thế giới mùi hương qua các bài viết chuyên sâu
+            Đọc trước khi mua — review thật, hướng dẫn rõ, viết cho người Việt phổ thông.
           </p>
         </div>
       </section>
@@ -79,7 +75,7 @@ export default async function KienThucPage() {
       {/* ═══════ FILTER TABS ═══════ */}
       <div className="border-b border-[var(--color-border)] bg-[var(--color-surface)]">
         <div className="mx-auto flex max-w-[1200px] gap-1 overflow-x-auto px-4 py-2 no-scrollbar">
-          {["Tất cả", "Review", "Roundup", "Hướng dẫn", "So sánh", "Tin tức"].map((tab, i) => (
+          {["Tất cả", "Review", "Tổng hợp", "Hướng dẫn", "So sánh", "Xu hướng"].map((tab, i) => (
             <button
               key={tab}
               className={`flex-shrink-0 rounded-full px-4 py-2 text-sm font-semibold transition-colors ${
@@ -186,7 +182,7 @@ export default async function KienThucPage() {
                 Chủ đề phổ biến
               </h3>
               <div className="flex flex-wrap gap-2">
-                {["Review", "Hướng dẫn", "Mùa hè", "Đi làm", "Hẹn hò", "Niche", "Designer", "So sánh"].map(
+                {["Review", "Hướng dẫn", "Mùa hè", "Đi làm", "Hẹn hò", "Thương hiệu niche", "So sánh", "Phân biệt thật giả"].map(
                   (topic) => (
                     <Link
                       key={topic}
