@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { getAllProducts } from "@/sanity/lib/fetchers";
 import { getAllPosts } from "@/sanity/lib/posts";
-import { getProductUrl } from "@/lib/productUrl";
+import { getProductUrl, findProductByNewSlug } from "@/lib/productUrl";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -57,44 +57,32 @@ const QUICK_PATHS = [
     title: "Nước hoa nam dễ dùng",
     desc: "Đi làm, hẹn hò, dùng hằng ngày — hợp nhiều hoàn cảnh",
     href: "/bang-xep-hang?gender=nam",
-    icon: (
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-        <rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/>
-      </svg>
-    ),
+    image: "/images/ambient/di-lam.png",
+    imageAlt: "Bàn làm việc buổi sáng với chai nước hoa",
   },
   {
     id: "nu",
     title: "Nước hoa nữ thanh lịch",
     desc: "Nhẹ nhàng, dễ ngửi, không quá gắt",
     href: "/bang-xep-hang?gender=nu",
-    icon: (
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-        <circle cx="12" cy="8" r="6"/><path d="M12 14v7M9 18h6"/>
-      </svg>
-    ),
+    image: "/images/ambient/hen-ho.png",
+    imageAlt: "Nến và chai nước hoa trên bàn đá marble",
   },
   {
     id: "dang-tien",
     title: "Top đáng tiền nhất",
     desc: "Chất lượng xứng giá — nhiều người chọn và không tiếc",
     href: "/bang-xep-hang?sort=value",
-    icon: (
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-        <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
-      </svg>
-    ),
+    image: "/images/ambient/nguoi-moi.png",
+    imageAlt: "Chai nước hoa trong suốt nền kem",
   },
   {
     id: "tu-van",
     title: "Nhờ tư vấn gu mùi",
     desc: "Chưa biết bắt đầu từ đâu? Nhắn Zalo là có gợi ý ngay",
     href: "https://zalo.me/0961226169",
-    icon: (
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
-      </svg>
-    ),
+    image: "/images/ambient/tu-van.png",
+    imageAlt: "Chai nước hoa và điện thoại nhắn tin",
   },
 ];
 
@@ -130,6 +118,8 @@ const BRAND_SPOTLIGHT = [
     name: "Dior",
     tag: "Sang, phổ thông, lực mạnh",
     desc: "Thương hiệu Pháp được người Việt tìm mua nhiều nhất — Sauvage là chai bán chạy nhất phân khúc nam toàn cầu.",
+    flagshipSlug: "nuoc-hoa-nam-dior-sauvage-edp",
+    flagshipName: "Sauvage EDP",
   },
   {
     slug: "chanel",
@@ -138,6 +128,8 @@ const BRAND_SPOTLIGHT = [
     name: "Chanel",
     tag: "Lịch sự, cổ điển, bền giá trị",
     desc: "Biểu tượng luxury lâu đời — Bleu de Chanel và Coco Mademoiselle được tìm kiếm nhiều nhất.",
+    flagshipSlug: "nuoc-hoa-nam-chanel-bleu-de-chanel-edp",
+    flagshipName: "Bleu de Chanel EDP",
   },
   {
     slug: "ysl",
@@ -146,6 +138,8 @@ const BRAND_SPOTLIGHT = [
     name: "Yves Saint Laurent",
     tag: "Trẻ trung, cuốn, unisex",
     desc: "Tập trung vào sức hút và sự tự tin — Y EDP và Black Opium hợp thị hiếu người Việt.",
+    flagshipSlug: "nuoc-hoa-nam-ysl-y-edp",
+    flagshipName: "Y EDP",
   },
   {
     slug: "tom-ford",
@@ -154,6 +148,8 @@ const BRAND_SPOTLIGHT = [
     name: "Tom Ford",
     tag: "Tối, sang, kén người",
     desc: "Designer cao cấp hướng đến sự khác biệt — Tobacco Vanille và Noir Extreme là 2 icon của brand.",
+    flagshipSlug: "nuoc-hoa-nam-tom-ford-noir-extreme-edp",
+    flagshipName: "Noir Extreme EDP",
   },
   {
     slug: "mancera",
@@ -162,6 +158,8 @@ const BRAND_SPOTLIGHT = [
     name: "Mancera",
     tag: "Niche tầm trung, hiệu năng cao",
     desc: "Niche Pháp giá phải chăng nhưng lưu hương vượt trội — Cedrat Boisé là bestseller.",
+    flagshipSlug: "nuoc-hoa-unisex-mancera-cedrat-boise",
+    flagshipName: "Cedrat Boisé",
   },
   {
     slug: "lattafa",
@@ -170,6 +168,8 @@ const BRAND_SPOTLIGHT = [
     name: "Lattafa",
     tag: "Đáng tiền, ngọt ấm",
     desc: "Nước hoa Trung Đông giá tốt nhất thị trường — Khamrah là lựa chọn số 1 tầm dưới 2 triệu.",
+    flagshipSlug: "nuoc-hoa-unisex-lattafa-khamrah",
+    flagshipName: "Khamrah",
   },
 ];
 
@@ -347,13 +347,24 @@ export default async function Home() {
             <Link
               key={path.id}
               href={path.href}
-              className="group flex flex-col rounded-[18px] md:rounded-[20px] border border-[var(--color-border)] bg-[var(--color-bg-subtle)] p-4 md:p-5 transition-all hover:border-[var(--color-primary)] hover:bg-[var(--color-primary-light)] hover:-translate-y-0.5 hover:shadow-[var(--shadow-md)] min-h-[100px] md:min-h-[auto]"
+              className="group flex flex-col rounded-[18px] md:rounded-[20px] border border-[var(--color-border)] bg-white overflow-hidden transition-all hover:border-[var(--color-primary)] hover:-translate-y-0.5 hover:shadow-[var(--shadow-md)]"
             >
-              <div className="mb-3 md:mb-3.5 w-9 h-9 rounded-[8px] bg-[var(--color-primary-light)] flex items-center justify-center text-[var(--color-primary)] group-hover:bg-white/60 transition-colors">
-                {path.icon}
+              {/* Ambient image top */}
+              <div className="relative h-[90px] md:h-[110px] overflow-hidden bg-[#EDE8E0] flex-shrink-0">
+                <Image
+                  src={path.image}
+                  alt={path.imageAlt}
+                  fill
+                  sizes="(max-width: 768px) 50vw, 25vw"
+                  className="object-cover transition-transform duration-500 group-hover:scale-105"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
               </div>
-              <strong className="block text-[14px] md:text-[15px] font-bold mb-1.5 leading-snug">{path.title}</strong>
-              <span className="text-[12px] md:text-[13px] text-[var(--color-text-secondary)] leading-[1.55]">{path.desc}</span>
+              {/* Text below */}
+              <div className="p-4 md:p-4">
+                <strong className="block text-[13px] md:text-[14px] font-bold mb-1.5 leading-snug">{path.title}</strong>
+                <span className="text-[11px] md:text-[12px] text-[var(--color-text-secondary)] leading-[1.55]">{path.desc}</span>
+              </div>
             </Link>
           ))}
         </div>
@@ -495,36 +506,83 @@ export default async function Home() {
         </div>
 
         {/* Mobile: horizontal scroll */}
-        <div className="flex gap-3 overflow-x-auto pb-2 no-scrollbar md:hidden">
-          {BRAND_SPOTLIGHT.map((brand) => (
-            <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex-shrink-0 w-[200px] rounded-[18px] border border-[var(--color-border)] bg-white p-4 hover:border-[var(--color-primary)] hover:shadow-md transition-all">
-              <div className="flex items-center gap-3 mb-3">
-                <div className="w-14 h-9 rounded-[8px] bg-[var(--color-bg-muted)] flex items-center justify-center overflow-hidden flex-shrink-0 p-1.5">
-                  <img src={brand.logo} alt={brand.name} className="w-full h-full object-contain" />
-                </div>
-                <div className="text-[14px] font-bold">{brand.name}</div>
+        {(() => {
+          const brandProductMap = Object.fromEntries(
+            BRAND_SPOTLIGHT.map((b) => [
+              b.flagshipSlug,
+              findProductByNewSlug(b.flagshipSlug, allProducts),
+            ])
+          );
+          return (
+            <>
+              <div className="flex gap-3 overflow-x-auto pb-2 no-scrollbar md:hidden">
+                {BRAND_SPOTLIGHT.map((brand) => {
+                  const flagship = brandProductMap[brand.flagshipSlug];
+                  return (
+                    <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex-shrink-0 w-[220px] rounded-[18px] border border-[var(--color-border)] bg-white overflow-hidden hover:border-[var(--color-primary)] hover:shadow-md transition-all">
+                      {/* Flagship product image */}
+                      {flagship && (
+                        <div className="relative h-[100px] bg-gradient-to-b from-[#FAF9F7] to-[#EDE8E0] overflow-hidden">
+                          <Image
+                            src={flagship.image}
+                            alt={brand.flagshipName}
+                            fill
+                            sizes="220px"
+                            className="object-contain p-4 mix-blend-multiply transition-transform duration-500 group-hover:scale-105"
+                          />
+                        </div>
+                      )}
+                      <div className="p-4">
+                        <div className="flex items-center gap-2.5 mb-2.5">
+                          <div className="w-10 h-7 rounded-[6px] bg-[var(--color-bg-muted)] flex items-center justify-center overflow-hidden flex-shrink-0 p-1">
+                            <img src={brand.logo} alt={brand.name} className="w-full h-full object-contain" />
+                          </div>
+                          <div className="text-[14px] font-bold">{brand.name}</div>
+                        </div>
+                        <div className="inline-block text-[10px] font-bold uppercase tracking-[0.12em] text-[var(--color-primary)] bg-[var(--color-primary-light)] px-2.5 py-0.5 rounded-full mb-2">{brand.tag}</div>
+                        <p className="text-[12px] text-[var(--color-text-secondary)] leading-[1.6]">{brand.desc}</p>
+                      </div>
+                    </Link>
+                  );
+                })}
               </div>
-              <div className="inline-block text-[10px] font-bold uppercase tracking-[0.12em] text-[var(--color-primary)] bg-[var(--color-primary-light)] px-2.5 py-0.5 rounded-full mb-2">{brand.tag}</div>
-              <p className="text-[12px] text-[var(--color-text-secondary)] leading-[1.6]">{brand.desc}</p>
-            </Link>
-          ))}
-        </div>
 
-        {/* Desktop: 3x2 grid */}
-        <div className="hidden md:grid grid-cols-3 gap-3.5">
-          {BRAND_SPOTLIGHT.map((brand) => (
-            <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex items-start gap-4 rounded-[20px] border border-[var(--color-border)] bg-white p-6 hover:border-[var(--color-primary)] hover:shadow-[var(--shadow-md)] hover:-translate-y-0.5 transition-all">
-              <div className="w-20 h-12 rounded-[10px] bg-[var(--color-bg-muted)] flex items-center justify-center flex-shrink-0 p-2 overflow-hidden">
-                <img src={brand.logo} alt={brand.name} className="w-full h-full object-contain" />
+              {/* Desktop: 3x2 grid */}
+              <div className="hidden md:grid grid-cols-3 gap-3.5">
+                {BRAND_SPOTLIGHT.map((brand) => {
+                  const flagship = brandProductMap[brand.flagshipSlug];
+                  return (
+                    <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex items-center gap-0 rounded-[20px] border border-[var(--color-border)] bg-white overflow-hidden hover:border-[var(--color-primary)] hover:shadow-[var(--shadow-md)] hover:-translate-y-0.5 transition-all">
+                      {/* Flagship image — left column */}
+                      {flagship && (
+                        <div className="relative w-[96px] h-[96px] flex-shrink-0 bg-gradient-to-b from-[#FAF9F7] to-[#EDE8E0]">
+                          <Image
+                            src={flagship.image}
+                            alt={brand.flagshipName}
+                            fill
+                            sizes="96px"
+                            className="object-contain p-3 mix-blend-multiply transition-transform duration-500 group-hover:scale-105"
+                          />
+                        </div>
+                      )}
+                      {/* Text — right column */}
+                      <div className="flex-1 p-5">
+                        <div className="flex items-center gap-2 mb-1.5">
+                          <div className="w-12 h-8 rounded-[6px] bg-[var(--color-bg-muted)] flex items-center justify-center overflow-hidden flex-shrink-0 p-1">
+                            <img src={brand.logo} alt={brand.name} className="w-full h-full object-contain" />
+                          </div>
+                          <div className="text-[15px] font-bold">{brand.name}</div>
+                        </div>
+                        <div className="inline-block text-[10px] font-bold uppercase tracking-[0.12em] text-[var(--color-primary)] bg-[var(--color-primary-light)] px-2.5 py-0.5 rounded-full mb-2">{brand.tag}</div>
+                        <p className="text-[13px] text-[var(--color-text-secondary)] leading-[1.6] line-clamp-2">{brand.desc}</p>
+                      </div>
+                    </Link>
+                  );
+                })}
               </div>
-              <div className="flex-1">
-                <div className="text-[15px] font-bold mb-1">{brand.name}</div>
-                <div className="inline-block text-[10px] font-bold uppercase tracking-[0.12em] text-[var(--color-primary)] bg-[var(--color-primary-light)] px-2.5 py-0.5 rounded-full mb-2">{brand.tag}</div>
-                <p className="text-[13px] text-[var(--color-text-secondary)] leading-[1.6]">{brand.desc}</p>
-              </div>
-            </Link>
-          ))}
-        </div>
+            </>
+          );
+        })()}
       </section>
 
       <div className="mx-auto max-w-[1280px] px-4 md:px-8"><hr className="border-t border-[var(--color-border-subtle)]" /></div>
