@@ -11,9 +11,9 @@ readTime: 7 phút đọc
 tags: edt là gì, edp là gì, edt và edp khác nhau, nên mua edt hay edp, nồng độ nước hoa
 ---
 
-Bạn đứng trước hai chai — một chai ghi EDT, một ghi EDP — cùng mùi, cùng thương hiệu, nhưng giá chênh nhau cả trăm ngàn. Không biết chọn cái nào vì không chắc hai cái đó thật ra khác gì nhau.
+Hai chai cùng mùi, cùng tên — một ghi EDT, một ghi EDP. Giá chênh nhau cả trăm ngàn mà nhìn vào không biết thật ra hai cái đó khác gì.
 
-Bài này nói thẳng vào đó.
+Thật ra chỉ khác nhau ở ba điểm. Cái nào quan trọng với hoàn cảnh của mình thì chọn cái đó.
 
 ![EDT và EDP — hai nồng độ phổ biến nhất khi mua nước hoa](/images/articles/edt-edp-la-gi-2026.png)
 
