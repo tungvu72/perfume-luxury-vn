@@ -210,7 +210,7 @@ async function BrandPage({ brand, slug }: { brand: any; slug: string }) {
                 <section className="mt-8 overflow-hidden rounded-[32px] border border-[#eadfce] bg-white shadow-[0_20px_60px_rgba(17,17,17,0.05)]">
                     <div className="grid gap-6 px-6 py-7 md:grid-cols-[minmax(0,1.1fr)_320px] md:px-8 md:py-9">
                         <div>
-                            <div className="text-[11px] font-bold uppercase tracking-[0.24em] text-primary">Brand Spotlight</div>
+                            <div className="text-[11px] font-bold uppercase tracking-[0.24em] text-primary">Thương hiệu nổi bật</div>
                             <h1 className="mt-3 text-4xl font-serif leading-tight text-[#1b120d] md:text-6xl">Nước hoa {brand.name}</h1>
                             <p className="mt-4 max-w-3xl text-sm leading-7 text-gray-600 md:text-base">
                                 Khám phá những lựa chọn nổi bật từ <strong>{brand.name}</strong> tại Maison de SON. Đây là nơi tổng hợp review, trải nghiệm thực tế và gợi ý chọn mùi phù hợp cho người Việt — dễ hiểu, gọn và đủ để ra quyết định.
@@ -226,7 +226,7 @@ async function BrandPage({ brand, slug }: { brand: any; slug: string }) {
                         <div className="grid gap-3 rounded-[24px] border border-[#eadfce] bg-[#fcfaf7] p-4">
                             <div className="rounded-2xl bg-white p-4">
                                 <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Maison de SON đọc brand này như thế nào?</div>
-                                <p className="mt-2 text-sm leading-6 text-gray-600">Ưu tiên cảm nhận thực tế, độ dễ dùng, mức độ đáng tiền và hoàn cảnh sử dụng tại Việt Nam thay vì chỉ nhìn hype.</p>
+                                <p className="mt-2 text-sm leading-6 text-gray-600">Ưu tiên cảm nhận thực tế, độ dễ dùng, mức độ đáng tiền và hoàn cảnh sử dụng tại Việt Nam thay vì chỉ nhìn vào độ nổi tiếng.</p>
                             </div>
                             <div className="rounded-2xl bg-white p-4">
                                 <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Phù hợp cho ai</div>
