@@ -57,32 +57,32 @@ const QUICK_PATHS = [
     title: "Nước hoa nam dễ dùng",
     desc: "Đi làm, hẹn hò, dùng hằng ngày — hợp nhiều hoàn cảnh",
     href: "/bang-xep-hang?gender=nam",
-    image: "/images/ambient/di-lam.png",
-    imageAlt: "Bàn làm việc buổi sáng với chai nước hoa",
+    image: "/images/ambient/di-lam-v2.png",
+    imageAlt: "Bàn làm việc buổi sáng với chai nước hoa nam",
   },
   {
     id: "nu",
     title: "Nước hoa nữ thanh lịch",
     desc: "Nhẹ nhàng, dễ ngửi, không quá gắt",
     href: "/bang-xep-hang?gender=nu",
-    image: "/images/ambient/hen-ho.png",
-    imageAlt: "Nến và chai nước hoa trên bàn đá marble",
+    image: "/images/ambient/nu-thanh-lich-v2.png",
+    imageAlt: "Chai nước hoa oval trên marble kem",
   },
   {
     id: "dang-tien",
     title: "Top đáng tiền nhất",
     desc: "Chất lượng xứng giá — nhiều người chọn và không tiếc",
     href: "/bang-xep-hang?sort=value",
-    image: "/images/ambient/nguoi-moi.png",
-    imageAlt: "Chai nước hoa trong suốt nền kem",
+    image: "/images/ambient/dang-tien-v2.png",
+    imageAlt: "Bộ chai nước hoa cao cấp trên nền đá tối",
   },
   {
     id: "tu-van",
     title: "Nhờ tư vấn gu mùi",
     desc: "Chưa biết bắt đầu từ đâu? Nhắn Zalo là có gợi ý ngay",
     href: "https://zalo.me/0961226169",
-    image: "/images/ambient/tu-van.png",
-    imageAlt: "Chai nước hoa và điện thoại nhắn tin",
+    image: "/images/ambient/tu-van-v2.png",
+    imageAlt: "Khay mẫu thử nước hoa và tư vấn chọn mùi",
   },
 ];
 
@@ -247,9 +247,9 @@ export default async function Home() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }} />
       <Header />
 
-      {/* ══════ BLOCK 2 — HERO: VALUE PROP + FEATURED ARTICLE ══════ */}
+      {/* ══════ BLOCK 2 — HERO: VALUE PROP + EDITORIAL IMAGE ══════ */}
       <section className="mx-auto max-w-[1280px] px-4 md:px-8 pt-6 pb-0">
-        <div className="grid md:grid-cols-[1.05fr_0.95fr] gap-4 md:gap-5 md:min-h-[520px]">
+        <div className="grid md:grid-cols-[1.1fr_0.9fr] gap-4 md:gap-5 md:min-h-[520px]">
 
           {/* Left — Value Prop */}
           <div className="flex flex-col justify-between rounded-2xl md:rounded-[28px] border border-[var(--color-border)] bg-gradient-to-br from-white to-[var(--color-bg-subtle)] p-6 md:p-12">
@@ -294,42 +294,26 @@ export default async function Home() {
             </div>
           </div>
 
-          {/* Right — Featured Article Visual */}
-          {featuredPost && (
-            <Link
-              href={`/${featuredPost.urlSlug}`}
-              className="group relative flex items-end rounded-2xl md:rounded-[28px] overflow-hidden min-h-[280px] md:min-h-0"
-              style={{ background: "linear-gradient(180deg,rgba(0,0,0,.06) 0%,rgba(0,0,0,.68) 100%)" }}
-            >
-              <Image
-                src={featuredPost.mainImage || PLACEHOLDER}
-                alt={featuredPost.title}
-                fill
-                priority
-                sizes="(max-width: 768px) 100vw, 50vw"
-                className="object-cover -z-10 transition-transform duration-700 group-hover:scale-105"
-                unoptimized={!featuredPost.mainImage || featuredPost.mainImage.startsWith("http")}
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/20 to-transparent" />
-              <div className="relative p-6 md:p-9 w-full">
-                <div className="inline-block rounded-[20px] bg-white/12 backdrop-blur-md border border-white/16 p-5 md:p-6 max-w-[420px]">
-                  <p className="text-[10px] font-bold uppercase tracking-[0.16em] text-white/70 mb-2.5">
-                    Bài nổi bật tuần này
-                  </p>
-                  <h2 className="font-serif text-[22px] md:text-[26px] leading-[1.18] text-white mb-2.5">
-                    {featuredPost.title}
-                  </h2>
-                  <p className="text-[13px] leading-[1.7] text-white/80 line-clamp-2">
-                    {featuredPost.excerpt}
-                  </p>
-                  <span className="mt-4 inline-flex items-center gap-2 rounded-full bg-white text-[var(--color-text)] px-4 py-2 text-[13px] font-bold transition-all group-hover:bg-[var(--color-bg-subtle)]">
-                    Đọc ngay
-                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                  </span>
-                </div>
-              </div>
-            </Link>
-          )}
+          {/* Right — Editorial Hero Image */}
+          <div className="group relative rounded-2xl md:rounded-[28px] overflow-hidden min-h-[280px] md:min-h-0 bg-[#1A1D21]">
+            <Image
+              src="/images/ambient/hero-editorial.png"
+              alt="Nước hoa luxury editorial — Maison de SON"
+              fill
+              priority
+              sizes="(max-width: 768px) 100vw, 45vw"
+              className="object-cover transition-transform duration-700 group-hover:scale-105 opacity-90"
+            />
+            {/* Subtle gradient overlay for polish */}
+            <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-black/10" />
+            {/* Editorial label bottom */}
+            <div className="absolute bottom-5 left-5 right-5">
+              <span className="inline-block rounded-full bg-white/10 backdrop-blur-md border border-white/20 px-4 py-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-white/80">
+                Maison de SON — Review thực tế
+              </span>
+            </div>
+          </div>
+
         </div>
       </section>
 
