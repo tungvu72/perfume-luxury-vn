@@ -72,7 +72,7 @@ export default function Footer() {
 
                 <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
                     <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">
-                        © {currentYear} Maison de SON · Kiến thức, review &amp; trải nghiệm thực tế
+                        © {currentYear} Maison de SON · Kiến thức, đánh giá &amp; trải nghiệm thực tế
                     </p>
                     <div className="flex gap-6 text-[10px] text-gray-400 font-bold uppercase tracking-wider">
                         <Link href="/chinh-sach" className="hover:text-primary transition-colors py-1 block">Chính sách</Link>
