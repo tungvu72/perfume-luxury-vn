@@ -35,7 +35,7 @@ export default function AboutPage() {
                 <div className="relative z-10 text-center px-5 max-w-4xl">
                     <div className="text-primary font-bold tracking-[6px] uppercase text-xs mb-4">Since 2026</div>
                     <h1 className="text-4xl md:text-7xl font-serif text-white mb-6 leading-tight">
-                        Kiến tạo chuẩn mực <br /> <span className="italic font-normal">Review nước hoa mới</span>
+                        Kiến tạo chuẩn mực <br /> <span className="italic font-normal">cách đánh giá nước hoa mới</span>
                     </h1>
                     <p className="text-gray-300 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
                         Maison de SON không chỉ là một website, đó là hành trình tìm kiếm sự thật đằng sau những nốt hương hoa mỹ.
@@ -95,7 +95,7 @@ export default function AboutPage() {
                         />
                         <div className="absolute inset-x-0 bottom-0 p-10 bg-gradient-to-t from-black/80 to-transparent text-white">
                             <div className="text-4xl font-serif mb-2">9.5/10</div>
-                            <div className="uppercase tracking-widest text-xs opacity-70">Standard Scoring</div>
+                            <div className="uppercase tracking-widest text-xs opacity-70">Thang điểm chuẩn</div>
                         </div>
                     </div>
                 </div>
@@ -105,7 +105,7 @@ export default function AboutPage() {
             <section className="bg-[#1a1a1a] py-32 text-white">
                 <div className="max-w-[1200px] mx-auto px-5">
                     <div className="text-center mb-20">
-                        <span className="text-primary font-bold tracking-[4px] uppercase text-[10px] block mb-4">The Maison Standard</span>
+                        <span className="text-primary font-bold tracking-[4px] uppercase text-[10px] block mb-4">Tiêu chuẩn Maison</span>
                         <h2 className="text-4xl md:text-5xl font-serif">Quy trình thẩm định 5 bước</h2>
                     </div>
 
@@ -115,7 +115,7 @@ export default function AboutPage() {
                             { step: "02", title: "Thử nghiệm nóng", desc: "Xịt trực tiếp lên da trong môi trường khí hậu Việt Nam 8-12 tiếng." },
                             { step: "03", title: "Kiểm định thực tế", desc: "Thu thập phản hồi từ người xung quanh để đo lường sức hút (Compliments)." },
                             { step: "04", title: "Đối chiếu thị trường", desc: "Kiểm tra nguồn gốc, phân loại fullbox/chiết và mức giá hợp lý nhất." },
-                            { step: "05", title: "Chấm điểm vàng", desc: "Tổng hợp dữ liệu và xuất bài Review 'Gold Standard' lên website." }
+                            { step: "05", title: "Chấm điểm vàng", desc: "Tổng hợp dữ liệu và xuất bài đánh giá chuẩn lên website." }
                         ].map((item, i) => (
                             <div key={i} className="group p-8 border border-white/10 rounded-2xl hover:bg-white/5 transition-all">
                                 <div className="text-primary text-4xl font-serif mb-6 opacity-30 group-hover:opacity-100 transition-opacity">{item.step}</div>

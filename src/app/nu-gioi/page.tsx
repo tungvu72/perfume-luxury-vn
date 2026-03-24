@@ -8,13 +8,13 @@ const currentMonthYear = `${(now.getMonth() + 1).toString().padStart(2, '0')}/${
 
 export const metadata: Metadata = {
     title: `Nước hoa Nữ Chính Hãng - Review & Bảng Giá ${currentMonthYear} | Maison de SON`,
-    description: "Bộ sưu tập nước hoa nữ chính hãng từ kinh điển đến Niche: Miss Dior, YSL Libre, Coco Mademoiselle, Delina... Đánh giá chuyên sâu về độ bám tỏa.",
+    description: "Bộ sưu tập nước hoa nữ chính hãng từ dòng kiến điển đến cao cấp: Miss Dior, YSL Libre, Coco Mademoiselle, Delina... Đánh giá chuyên sâu về độ bám tỏa.",
     alternates: {
         canonical: "https://www.maisondeson.com/nu-gioi",
     },
     openGraph: {
         title: "Nước Hoa Nữ Chính Hãng | Maison de SON",
-        description: "Review và bảng giá nước hoa nữ từ kinh điển đến Niche.",
+        description: "Review và bảng giá nước hoa nữ từ dòng kiến điển đến cao cấp.",
     },
 };
 
@@ -27,7 +27,7 @@ export default async function NuGioiPage() {
             </div>
             <CategoryLayout
                 title="Dành Cho Nữ"
-                description={`${products.length || 0} mẫu nước hoa nữ từ kinh điển đến Niche, được chuyên gia đánh giá chi tiết.`}
+                description={`${products.length || 0} mẫu nước hoa nữ từ dòng kiến điển đến cao cấp, được đánh giá chi tiết.`}
                 products={products}
             />
         </div>
