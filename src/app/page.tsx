@@ -71,7 +71,7 @@ const QUICK_PATHS = [
   {
     id: "dang-tien",
     title: "Top đáng tiền nhất",
-    desc: "Chất lượng xứng giá — nhiều người chọn và không tiếc",
+    desc: "Chất lượng xứng giá — nhiều người chọn và hài lòng",
     href: "/bang-xep-hang?sort=value",
     image: "/images/ambient/dang-tien-v2.png",
     imageAlt: "Bộ chai nước hoa cao cấp trên nền đá tối",
@@ -137,7 +137,7 @@ const BRAND_SPOTLIGHT = [
     logo: "/images/brands/ysl.svg",
     name: "Yves Saint Laurent",
     tag: "Trẻ trung, cuốn, unisex",
-    desc: "Tập trung vào sức hút và sự tự tin — Y EDP và Black Opium hợp thị hiếu người Việt.",
+    desc: "Y EDP và Black Opium hợp thị hiếu Việt — mùi có sức hút rõ, không cần cố nương.",
     flagshipSlug: "nuoc-hoa-nam-ysl-y-edp",
     flagshipName: "Y EDP",
   },
@@ -147,7 +147,7 @@ const BRAND_SPOTLIGHT = [
     logo: "/images/brands/tom-ford.svg",
     name: "Tom Ford",
     tag: "Tối, sang, kén người",
-    desc: "Designer cao cấp hướng đến sự khác biệt — Tobacco Vanille và Noir Extreme là 2 icon của brand.",
+    desc: "Không dành cho tất cả — Tom Ford ra mùi có cá tính, chất liệu đặc. Tobacco Vanille và Noir Extreme là 2 chai còn đang được nhắc nhiều nhất.",
     flagshipSlug: "nuoc-hoa-nam-tom-ford-noir-extreme-edp",
     flagshipName: "Noir Extreme EDP",
   },
@@ -261,7 +261,7 @@ export default async function Home() {
                 Hiểu mùi<br className="hidden md:block" /> trước khi mua
               </h1>
               <p className="text-base md:text-[17px] leading-[1.8] text-[var(--color-text-secondary)] max-w-[52ch]">
-                Maison de SON giúp bạn chọn nước hoa dễ hơn — xem top đáng mua, đọc review thật trong khí hậu Việt Nam và nhắn tư vấn khi cần chốt nhanh.
+                Maison de SON giúp bạn chọn nước hoa dễ hơn — xem top đáng mua, đọc review thật trong khí hậu Việt Nam và nhắn Zalo khi cần tư vấn nhanh.
               </p>
               <div className="flex flex-col sm:flex-row gap-3 mt-6">
                 <Link
@@ -284,7 +284,7 @@ export default async function Home() {
               {[
                 { title: "Review thực tế", desc: "Không chép note hương từ brand" },
                 { title: "Dễ hiểu", desc: "Viết cho người Việt phổ thông" },
-                { title: "Tư vấn thật", desc: "Có đường sang Zalo rõ ràng" },
+                { title: "Tư vấn thật", desc: "Nhắn Zalo — gợi ý cụ thể, không ép mua" },
               ].map((item) => (
                 <div key={item.title} className="rounded-xl border border-[var(--color-border)] bg-white/70 p-3 md:p-3.5">
                   <strong className="block text-[12px] md:text-[13px] font-bold mb-1">{item.title}</strong>
@@ -623,7 +623,7 @@ export default async function Home() {
               Review thật,<br />không có vùng cấm
             </h2>
             <p className="text-[14px] md:text-[15px] text-white/60 mt-3 leading-[1.8]">
-              Chúng tôi đánh giá nước hoa dựa trên trải nghiệm thực tế trong điều kiện khí hậu Việt Nam — không dựa trên note hương brand cấp, không nhận tài trợ để nói tốt.
+              Chúng tôi đánh giá nước hoa dựa trên trải nghiệm thực tế trong điều kiện khí hậu Việt Nam — không đọc lát mô tả của hãng rồi chép lại, không nhận tài trợ để nói tốt.
             </p>
           </div>
 
