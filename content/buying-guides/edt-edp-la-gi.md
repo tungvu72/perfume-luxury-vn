@@ -5,7 +5,7 @@ status: published
 date: 2026-03-25
 category: How-to
 author: Maison de SON Editorial
-description: EDT và EDP khác nhau ở nồng độ, độ lưu hương và giá tiền. Bài này giải thích thẳng — không lý thuyết rỗng — để bạn chọn đúng trước khi mua.
+description: Hai chai cùng mùi, một EDT một EDP, giá chênh cả trăm ngàn — nên chọn cái nào? Khác nhau ở lưu hương, độ đậm và hoàn cảnh dùng. Giải thích ngắn, thực tế.
 image: /images/articles/edt-edp-la-gi-2026.png
 readTime: 7 phút đọc
 tags: edt là gì, edp là gì, edt và edp khác nhau, nên mua edt hay edp, nồng độ nước hoa
