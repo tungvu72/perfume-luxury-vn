@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { getAllProducts } from "@/sanity/lib/fetchers";
 import { getAllPosts } from "@/sanity/lib/posts";
-import { getProductUrl, findProductByNewSlug } from "@/lib/productUrl";
+import { getProductUrl } from "@/lib/productUrl";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -506,83 +506,39 @@ export default async function Home() {
         </div>
 
         {/* Mobile: horizontal scroll */}
-        {(() => {
-          const brandProductMap = Object.fromEntries(
-            BRAND_SPOTLIGHT.map((b) => [
-              b.flagshipSlug,
-              findProductByNewSlug(b.flagshipSlug, allProducts),
-            ])
-          );
-          return (
-            <>
-              <div className="flex gap-3 overflow-x-auto pb-2 no-scrollbar md:hidden">
-                {BRAND_SPOTLIGHT.map((brand) => {
-                  const flagship = brandProductMap[brand.flagshipSlug];
-                  return (
-                    <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex-shrink-0 w-[220px] rounded-[18px] border border-[var(--color-border)] bg-white overflow-hidden hover:border-[var(--color-primary)] hover:shadow-md transition-all">
-                      {/* Flagship product image */}
-                      {flagship && (
-                        <div className="relative h-[100px] bg-gradient-to-b from-[#FAF9F7] to-[#EDE8E0] overflow-hidden">
-                          <Image
-                            src={flagship.image}
-                            alt={brand.flagshipName}
-                            fill
-                            sizes="220px"
-                            className="object-contain p-4 mix-blend-multiply transition-transform duration-500 group-hover:scale-105"
-                          />
-                        </div>
-                      )}
-                      <div className="p-4">
-                        <div className="flex items-center gap-2.5 mb-2.5">
-                          <div className="w-10 h-7 rounded-[6px] bg-[var(--color-bg-muted)] flex items-center justify-center overflow-hidden flex-shrink-0 p-1">
-                            <img src={brand.logo} alt={brand.name} className="w-full h-full object-contain" />
-                          </div>
-                          <div className="text-[14px] font-bold">{brand.name}</div>
-                        </div>
-                        <div className="inline-block text-[10px] font-bold uppercase tracking-[0.12em] text-[var(--color-primary)] bg-[var(--color-primary-light)] px-2.5 py-0.5 rounded-full mb-2">{brand.tag}</div>
-                        <p className="text-[12px] text-[var(--color-text-secondary)] leading-[1.6]">{brand.desc}</p>
-                      </div>
-                    </Link>
-                  );
-                })}
+        <div className="flex gap-3 overflow-x-auto pb-2 no-scrollbar md:hidden">
+          {BRAND_SPOTLIGHT.map((brand) => (
+            <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex-shrink-0 w-[200px] rounded-[18px] border border-[var(--color-border)] bg-white overflow-hidden hover:border-[var(--color-primary)] hover:shadow-md transition-all">
+              {/* Logo area — full width top */}
+              <div className="h-[80px] bg-[var(--color-bg-muted)] flex items-center justify-center p-4">
+                <img src={brand.logo} alt={brand.name} className="max-h-full max-w-full object-contain" />
               </div>
+              <div className="p-4">
+                <div className="text-[14px] font-bold mb-2">{brand.name}</div>
+                <div className="inline-block text-[10px] font-bold uppercase tracking-[0.12em] text-[var(--color-primary)] bg-[var(--color-primary-light)] px-2.5 py-0.5 rounded-full mb-2">{brand.tag}</div>
+                <p className="text-[12px] text-[var(--color-text-secondary)] leading-[1.6]">{brand.desc}</p>
+              </div>
+            </Link>
+          ))}
+        </div>
 
-              {/* Desktop: 3x2 grid */}
-              <div className="hidden md:grid grid-cols-3 gap-3.5">
-                {BRAND_SPOTLIGHT.map((brand) => {
-                  const flagship = brandProductMap[brand.flagshipSlug];
-                  return (
-                    <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex items-center gap-0 rounded-[20px] border border-[var(--color-border)] bg-white overflow-hidden hover:border-[var(--color-primary)] hover:shadow-[var(--shadow-md)] hover:-translate-y-0.5 transition-all">
-                      {/* Flagship image — left column */}
-                      {flagship && (
-                        <div className="relative w-[96px] h-[96px] flex-shrink-0 bg-gradient-to-b from-[#FAF9F7] to-[#EDE8E0]">
-                          <Image
-                            src={flagship.image}
-                            alt={brand.flagshipName}
-                            fill
-                            sizes="96px"
-                            className="object-contain p-3 mix-blend-multiply transition-transform duration-500 group-hover:scale-105"
-                          />
-                        </div>
-                      )}
-                      {/* Text — right column */}
-                      <div className="flex-1 p-5">
-                        <div className="flex items-center gap-2 mb-1.5">
-                          <div className="w-12 h-8 rounded-[6px] bg-[var(--color-bg-muted)] flex items-center justify-center overflow-hidden flex-shrink-0 p-1">
-                            <img src={brand.logo} alt={brand.name} className="w-full h-full object-contain" />
-                          </div>
-                          <div className="text-[15px] font-bold">{brand.name}</div>
-                        </div>
-                        <div className="inline-block text-[10px] font-bold uppercase tracking-[0.12em] text-[var(--color-primary)] bg-[var(--color-primary-light)] px-2.5 py-0.5 rounded-full mb-2">{brand.tag}</div>
-                        <p className="text-[13px] text-[var(--color-text-secondary)] leading-[1.6] line-clamp-2">{brand.desc}</p>
-                      </div>
-                    </Link>
-                  );
-                })}
+        {/* Desktop: 3x2 grid */}
+        <div className="hidden md:grid grid-cols-3 gap-3.5">
+          {BRAND_SPOTLIGHT.map((brand) => (
+            <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex items-center rounded-[20px] border border-[var(--color-border)] bg-white overflow-hidden hover:border-[var(--color-primary)] hover:shadow-[var(--shadow-md)] hover:-translate-y-0.5 transition-all">
+              {/* Logo — left panel */}
+              <div className="w-[100px] h-[100px] flex-shrink-0 bg-[var(--color-bg-muted)] flex items-center justify-center p-5">
+                <img src={brand.logo} alt={brand.name} className="max-h-full max-w-full object-contain" />
               </div>
-            </>
-          );
-        })()}
+              {/* Text — right */}
+              <div className="flex-1 p-5 border-l border-[var(--color-border-subtle)]">
+                <div className="text-[15px] font-bold mb-1.5">{brand.name}</div>
+                <div className="inline-block text-[10px] font-bold uppercase tracking-[0.12em] text-[var(--color-primary)] bg-[var(--color-primary-light)] px-2.5 py-0.5 rounded-full mb-2">{brand.tag}</div>
+                <p className="text-[13px] text-[var(--color-text-secondary)] leading-[1.6] line-clamp-2">{brand.desc}</p>
+              </div>
+            </Link>
+          ))}
+        </div>
       </section>
 
       <div className="mx-auto max-w-[1280px] px-4 md:px-8"><hr className="border-t border-[var(--color-border-subtle)]" /></div>
