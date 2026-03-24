@@ -260,7 +260,7 @@ function ProductHero({
             <div>
               <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Giá tham khảo</div>
               <div className="mt-2 text-3xl font-serif text-gray-950 sm:text-4xl">{priceLabel(product.basePrice)}</div>
-              <p className="mt-2 text-sm leading-6 text-gray-500">Tư vấn qua Zalo để chốt size, hàng sẵn và mức giá chính xác theo thời điểm.</p>
+              <p className="mt-2 text-sm leading-6 text-gray-500">Nhắn Zalo để xác nhận size, hàng sẵn và mức giá chính xác theo thời điểm.</p>
             </div>
             <div className="flex flex-wrap gap-2">
               {(product.sizes || []).slice(0, 4).map((size) => (

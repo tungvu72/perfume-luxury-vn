@@ -310,7 +310,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
 
           {/* Trust chips */}
           <div className="mt-3 flex flex-wrap gap-2">
-            {["Review khí hậu Việt Nam", "Không sponsored", "Tư vấn miễn phí"].map((chip) => (
+            {["Review khí hậu Việt Nam", "Không nhận tài trợ", "Tư vấn miễn phí"].map((chip) => (
               <span key={chip} className="rounded-full border border-[var(--color-border)] bg-[var(--color-surface)] px-3 py-1 text-[10px] font-semibold text-[var(--color-text-muted)]">
                 {chip}
               </span>
@@ -473,7 +473,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             {/* Tags */}
             {product.tags && product.tags.length > 0 && (
               <div className="rounded-[var(--radius-lg)] border border-[var(--color-border)] bg-[var(--color-surface)] p-5">
-                <h3 className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-3">Tags</h3>
+                <h3 className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-3">Phân loại</h3>
                 <div className="flex flex-wrap gap-2">
                   {product.tags.map((tag) => (
                     <span key={tag} className="rounded-full border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-3 py-1 text-[11px] font-medium text-[var(--color-text-secondary)] transition-colors hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]">
