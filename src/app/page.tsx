@@ -156,7 +156,7 @@ const BRAND_SPOTLIGHT = [
     abbr: "MC",
     logo: "/images/brands/mancera.svg",
     name: "Mancera",
-    tag: "Niche tầm trung, hiệu năng cao",
+    tag: "Hương Pháp tầm trung, bám lâu",
     desc: "Niche Pháp giá phải chăng nhưng lưu hương vượt trội — Cedrat Boisé là chai bán chạy nhất.",
     flagshipSlug: "nuoc-hoa-unisex-mancera-cedrat-boise",
     flagshipName: "Cedrat Boisé",
@@ -481,7 +481,7 @@ export default async function Home() {
         <div className="flex items-end justify-between gap-4 mb-5 md:mb-7">
           <div>
             <p className="text-[10px] md:text-[11px] font-bold uppercase tracking-[0.16em] text-[var(--color-primary)]">Thương hiệu nổi bật</p>
-            <h2 className="font-serif text-[26px] md:text-[34px] tracking-tight mt-2">Mỗi brand một hướng</h2>
+            <h2 className="font-serif text-[26px] md:text-[34px] tracking-tight mt-2">Mỗi thương hiệu một hướng</h2>
             <p className="text-[14px] md:text-[15px] text-[var(--color-text-secondary)] mt-1.5">Hiểu nhanh từng thương hiệu để chọn đúng trước khi xem sản phẩm.</p>
           </div>
           <Link href="/thuong-hieu" className="hidden md:inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-[13px] font-bold text-[var(--color-text)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-all flex-shrink-0">
@@ -533,7 +533,7 @@ export default async function Home() {
           <div>
             <p className="text-[10px] md:text-[11px] font-bold uppercase tracking-[0.16em] text-[var(--color-primary)]">Kiến thức dễ đọc</p>
             <h2 className="font-serif text-[26px] md:text-[34px] tracking-tight mt-2">Đọc 1 bài là hiểu, tránh mua sai</h2>
-            <p className="text-[14px] md:text-[15px] text-[var(--color-text-secondary)] mt-1.5">Viết cho người Việt phổ thông — không jargon, không lý thuyết rỗng.</p>
+            <p className="text-[14px] md:text-[15px] text-[var(--color-text-secondary)] mt-1.5">Viết cho người Việt phổ thông — không thuật ngữ khó, không lý thuyết rỗng.</p>
           </div>
           <Link href="/kien-thuc" className="hidden md:inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-[13px] font-bold text-[var(--color-text)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-all flex-shrink-0">
             Xem tất cả bài viết
