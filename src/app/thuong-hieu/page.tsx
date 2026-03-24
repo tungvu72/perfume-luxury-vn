@@ -67,10 +67,10 @@ export default async function BrandsIndexPage() {
                 <div className="max-w-[1200px] mx-auto px-5">
                     <div className="overflow-hidden rounded-[32px] border border-[#eadfce] bg-white px-6 py-8 shadow-[0_20px_60px_rgba(27,18,13,0.05)] md:px-8 md:py-10">
                         <Breadcrumbs items={[{ label: 'Thương hiệu' }]} />
-                        <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.28em] text-primary">Brand Directory</p>
+                        <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.28em] text-primary">Thương hiệu A-Z</p>
                         <h1 className="text-3xl md:text-5xl font-serif mb-4 leading-tight">Thương hiệu nước hoa đáng khám phá</h1>
                         <p className="max-w-3xl text-sm leading-7 text-gray-600 md:text-base">
-                            Bắt đầu từ thương hiệu nếu bạn muốn hiểu rõ tinh thần, phong cách mùi và các lựa chọn nổi bật trước khi đi vào từng chai cụ thể. Maison de SON ưu tiên cách tiếp cận dễ hiểu, thực tế và hợp người dùng Việt.
+                            Bắt đầu từ thương hiệu nếu bạn muốn hiểu rõ phong cách mùi và các lựa chọn nổi bật trước khi đi vào từng chai cụ thể. Maison de SON ưu tiên cách tiếp cận dễ hiểu, thực tế và hợp người dùng Việt.
                         </p>
                         <div className="mt-5 flex flex-wrap gap-3 text-sm">
                             <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">{allBrandNames.length} thương hiệu A-Z</span>
