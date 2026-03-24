@@ -23,7 +23,7 @@ const AUTHORS = [
         role: "Biên tập viên",
         avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200&h=200",
         bio: "Đội ngũ biên tập Maison de SON — gồm những người đam mê nước hoa với kinh nghiệm test hàng trăm chai từ Designer đến Niche. Chúng tôi không nhận tài trợ từ nhãn hàng, mọi đánh giá đều độc lập và trung thực.",
-        expertise: ["Product Review", "Buying Guide", "Niche Fragrance", "Thị trường VN"],
+        expertise: ["Đánh giá sản phẩm", "Hướng dẫn mua", "Nước hoa niche", "Thị trường VN"],
         articleCount: 33,
         zalo: "https://zalo.me/0961226169",
         since: "2026",
@@ -90,7 +90,7 @@ export default function AuthorIndexPage() {
                                 {/* Stats */}
                                 <div className="flex items-center justify-between pt-3 border-t border-[var(--border)] text-[11px] text-gray-400">
                                     <span>📝 {author.articleCount} bài đã viết</span>
-                                    <span>Since {author.since}</span>
+                                    <span>Từ năm {author.since}</span>
                                 </div>
                             </div>
                         </Link>
@@ -103,13 +103,13 @@ export default function AuthorIndexPage() {
                 <div className="max-w-[800px] mx-auto px-5 text-center">
                     <h2 className="text-2xl font-serif font-bold mb-4">Tại sao tin tưởng chúng tôi?</h2>
                     <p className="text-sm text-gray-500 mb-8 leading-relaxed">
-                        Maison de SON hoạt động theo nguyên tắc độc lập — không nhận sponsorship từ hãng nước hoa,
+                        Maison de SON hoạt động theo nguyên tắc độc lập — không nhận tài trợ từ hãng nước hoa,
                         không mua review ảo. Mọi đánh giá đều dựa trên trải nghiệm thực tế và số liệu từ cộng đồng Fragrantica.
                     </p>
                     <div className="grid grid-cols-3 gap-6 text-center">
                         {[
-                            { number: "33+", label: "Bài review\nđã publish" },
-                            { number: "100%", label: "Độc lập,\nkhông sponsored" },
+                            { number: "33+", label: "Bài đánh giá\nđã đăng" },
+                            { number: "100%", label: "Độc lập,\nkhông nhận tài trợ" },
                             { number: "2+", label: "Nguồn verify\nmỗi số liệu" },
                         ].map(stat => (
                             <div key={stat.label}>

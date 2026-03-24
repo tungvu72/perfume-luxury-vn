@@ -17,7 +17,7 @@ export default function ComparePage() {
                 <div className="max-w-[900px] mx-auto px-4 sm:px-5 py-12 sm:py-20 text-center">
                     <div className="rounded-[28px] border border-[#eadfce] bg-white px-5 py-10 shadow-[0_20px_60px_rgba(27,18,13,0.05)] sm:px-8">
                         <div className="text-5xl mb-5">⚖️</div>
-                        <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.24em] text-primary">Compare Tool</p>
+                        <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.24em] text-primary">Công cụ so sánh</p>
                         <h1 className="text-3xl font-serif mb-4 leading-tight sm:text-4xl">So sánh nước hoa trước khi xuống tiền</h1>
                         <p className="mx-auto max-w-2xl text-sm leading-7 text-gray-500 mb-8 sm:text-base">
                             Chọn ít nhất 2 chai từ bảng xếp hạng hoặc trang chi tiết để đặt cạnh nhau về mùi hương, độ lưu, độ tỏa, mức giá và mức độ đáng tiền.

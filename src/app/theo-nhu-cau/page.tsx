@@ -64,7 +64,7 @@ export default function UseCaseFinderPage() {
         <div className="mx-auto max-w-[1200px] px-5">
           <div className="overflow-hidden rounded-[32px] border border-[#eadfce] bg-white px-6 py-8 shadow-[0_20px_60px_rgba(27,18,13,0.05)] md:px-8 md:py-10">
             <Breadcrumbs items={[{ label: "Theo nhu cầu" }]} />
-            <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.28em] text-primary">Perfume Finder</p>
+            <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.28em] text-primary">Chọn theo nhu cầu</p>
             <h1 className="text-3xl md:text-5xl font-serif mb-4 leading-tight">Chọn nước hoa theo nhu cầu thực tế</h1>
             <p className="max-w-3xl text-sm leading-7 text-gray-600 md:text-base">
               Nếu bạn chưa nhớ tên chai nào, cũng không chắc mình thích note nào, hãy bắt đầu từ hoàn cảnh dùng thật. Đây là cách Maison de SON Việt hóa tinh thần perfume finder để người xem chọn nhanh hơn và đỡ mơ hồ hơn.
@@ -86,7 +86,7 @@ export default function UseCaseFinderPage() {
               href={item.href}
               className="group rounded-[28px] border border-[#eadfce] bg-white p-6 shadow-[0_12px_35px_rgba(27,18,13,0.03)] transition hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)]"
             >
-              <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Use case</div>
+              <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Hoàn cảnh dùng</div>
               <h2 className="mt-3 text-2xl font-serif text-[#1b120d]">{item.title}</h2>
               <p className="mt-3 text-sm leading-7 text-gray-600">{item.description}</p>
               <div className="mt-5 flex flex-wrap gap-2">
@@ -109,7 +109,7 @@ export default function UseCaseFinderPage() {
 
       <section className="mx-auto max-w-[1200px] px-5 pb-10">
         <div className="rounded-[28px] border border-[#e6d8c7] bg-[#1c130f] p-6 text-white shadow-[0_20px_50px_rgba(27,18,13,0.16)] md:p-8">
-          <div className="text-[11px] font-bold uppercase tracking-[0.22em] text-[#d9bc94]">Need help</div>
+          <div className="text-[11px] font-bold uppercase tracking-[0.22em] text-[#d9bc94]">Cần gợi ý thêm</div>
           <h2 className="mt-3 text-2xl font-serif">Muốn được chốt nhanh theo gu và ngân sách?</h2>
           <p className="mt-3 max-w-2xl text-sm leading-7 text-white/75 md:text-base">
             Nếu bạn chỉ biết mình cần một mùi đi làm, một mùi hẹn hò hay một chai sang để dùng lâu dài, cứ nhắn Zalo. Maison de SON sẽ gợi ý từ nhu cầu thật trước khi nói đến tên chai.
