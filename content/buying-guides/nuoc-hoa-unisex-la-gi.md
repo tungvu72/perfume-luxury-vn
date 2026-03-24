@@ -51,7 +51,7 @@ Câu hỏi "chai này dành cho nam hay nữ?" dần nhường chỗ cho: mùi n
 
 Thương hiệu cỡ nào cũng vậy — từ các brand lớn toàn cầu đến nhà sản xuất nhỏ — đều đang ra nhiều dòng unisex hơn thay vì tiếp tục chia "nam/nữ" cứng. Unisex giờ không còn là ngách nhỏ: nó là một phần rất lớn của thị trường nước hoa hiện tại.
 
-Nếu bạn đang muốn xem các lựa chọn cụ thể, tham khảo mục **[top nước hoa tốt nhất](/bang-xep-hang)** để lọc theo nhóm mùi và nhu cầu thực tế.
+Nếu bạn muốn đọc thêm kiến thức cơ bản về nước hoa, ghé **[kiến thức nước hoa](/kien-thuc)** để xem các chủ đề hướng dẫn theo từng vấn đề.
 
 ![Không gian cà phê hiện đại với chai nước hoa nhỏ trên bàn — hình ảnh gợi lên sự linh hoạt của unisex trong đời sống hằng ngày](/images/articles/unisex-vi-sao-pho-bien.png)
 
@@ -94,7 +94,7 @@ Dùng được, nhưng cần cẩn thận hơn khi trời nóng. Amber quá dày
 
 ### Người mới dùng nước hoa
 
-Chưa biết mình thích kiểu gì thì unisex là điểm tốt để bắt đầu — vì ít rủi ro mua lệch gu quá mạnh. Bạn có khả năng cao tìm được một chai "dùng tốt ở nhiều hoàn cảnh" trước khi đi sâu hơn vào gu riêng.
+Chưa biết mình thích kiểu gì, bài **[nước hoa unisex là gì](/nuoc-hoa-unisex-la-gi)** cho bạn điểm khởi đầu ít rủi ro nhất — vì nhóm này linh hoạt và ít kén người. Bạn có khả năng cao tìm được một chai "dùng tốt ở nhiều hoàn cảnh" trước khi đi sâu hơn vào gu riêng.
 
 ### Người không thích bị ép vào khuôn
 
@@ -172,4 +172,4 @@ Nói ngắn gọn: unisex không phải "mùi trung tính nhạt nhẽo". Nó ch
 
 Với người mới chơi nước hoa, đây là điểm bắt đầu tốt vì rủi ro thấp. Nhưng đừng mua chỉ vì chữ "unisex" — mua vì mùi đó thực sự hợp với bạn.
 
-Chưa biết bắt đầu từ đâu? Ghé trang **[nước hoa chính hãng](/)** để xem theo nhu cầu, hoặc nhắn [Zalo](https://zalo.me/0961226169) để được gợi ý sát hơn.
+Chưa biết bắt đầu từ đâu? Xem danh mục **[nước hoa unisex](/unisex)** để tìm chai theo gu, ghé **[nước hoa chính hãng](/)** để xem thêm lựa chọn, hoặc nhắn [Zalo](https://zalo.me/0961226169) để được gợi ý sát hơn.
