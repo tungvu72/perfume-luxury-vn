@@ -334,13 +334,13 @@ export default async function Home() {
               className="group flex flex-col rounded-[18px] md:rounded-[20px] border border-[var(--color-border)] bg-white overflow-hidden transition-all hover:border-[var(--color-primary)] hover:-translate-y-0.5 hover:shadow-[var(--shadow-md)]"
             >
               {/* Ambient image top */}
-              <div className="relative h-[90px] md:h-[110px] overflow-hidden bg-[#EDE8E0] flex-shrink-0">
+              <div className="relative h-[160px] md:h-[200px] overflow-hidden bg-[#EDE8E0] flex-shrink-0">
                 <Image
                   src={path.image}
                   alt={path.imageAlt}
                   fill
                   sizes="(max-width: 768px) 50vw, 25vw"
-                  className="object-cover transition-transform duration-500 group-hover:scale-105"
+                  className="object-cover object-center transition-transform duration-500 group-hover:scale-105"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
               </div>
