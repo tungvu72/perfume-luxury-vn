@@ -306,6 +306,7 @@ const Header = () => {
                                                                 <span className="text-[10px] text-gray-400 max-w-[80px] truncate text-right">{product.subName}</span>
                                                             )}
                                                         </div>
+                                                    </Link>
                                                 ))}
                                                 <Link
                                                     href={`/bang-xep-hang`}
