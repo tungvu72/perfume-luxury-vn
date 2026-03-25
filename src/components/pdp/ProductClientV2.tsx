@@ -285,26 +285,6 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
           <div className="mt-6 border-t border-[var(--color-border)] pt-6">
             <div className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-4">Điểm đánh giá</div>
             <ScoreDisplay score={product.score} verdictShort={product.verdictShort} verdict={product.verdict} />
-
-            {/* Trust Commitment Bar */}
-            <div className="mt-5 rounded-2xl bg-[#1A1D21] p-5">
-              <div className="text-[10px] font-bold uppercase tracking-[0.2em] text-teal-400 mb-4">Cam kết của Maison de SON</div>
-              <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
-                {[
-                  { icon: <Award size={20} className="text-teal-400" />, title: "Nơi mua uy tín", desc: "Gợi ý nguồn mua online chính hãng, giá tốt nhất" },
-                  { icon: <ShieldCheck size={20} className="text-teal-400" />, title: "Đền 20 triệu nếu sai", desc: "Cam kết 100% chính hãng — sai hàng đền tiền" },
-                  { icon: <Scale size={20} className="text-teal-400" />, title: "Review trung thực", desc: "Không nhận tài trợ từ thương hiệu để thiên vị" },
-                ].map((item) => (
-                  <div key={item.title} className="flex items-start gap-3 rounded-xl bg-white/[0.06] p-3.5">
-                    <span className="flex-shrink-0 mt-0.5">{item.icon}</span>
-                    <div>
-                      <div className="text-[13px] font-bold text-white leading-snug">{item.title}</div>
-                      <div className="text-[11px] text-white/55 leading-[1.5] mt-0.5">{item.desc}</div>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
           </div>
 
           {/* Main Accords */}
@@ -441,10 +421,21 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
         <aside className="hidden lg:block">
           <div className="sticky top-24 space-y-4">
 
-            {/* Card 1: Score tổng */}
-            <div className="rounded-[var(--radius-lg)] border border-[var(--color-border)] bg-[var(--color-surface)] p-5">
-              <h3 className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-4">Điểm đánh giá</h3>
-              <ScoreDisplay score={product.score} verdictShort={product.verdictShort} verdict={product.verdict} />
+            {/* Cam kết sản phẩm — top of sidebar */}
+            <div className="rounded-[var(--radius-lg)] bg-[#1A1D21] p-5">
+              <h3 className="text-[10px] font-bold uppercase tracking-[0.2em] text-teal-400 mb-4">Cam kết của Maison de SON</h3>
+              <ul className="space-y-3">
+                {[
+                  { icon: <Award size={16} className="text-teal-400" />, text: "Gợi ý nơi mua chính hãng, giá tốt nhất" },
+                  { icon: <ShieldCheck size={16} className="text-teal-400" />, text: "Cam kết chính hãng — sai hàng đền 20 triệu" },
+                  { icon: <Scale size={16} className="text-teal-400" />, text: "Không nhận tài trợ để review thiên vị" },
+                ].map((item) => (
+                  <li key={item.text} className="flex items-start gap-2.5 text-[12px] text-white/75 leading-[1.6]">
+                    <span className="flex-shrink-0 mt-0.5">{item.icon}</span>
+                    {item.text}
+                  </li>
+                ))}
+              </ul>
             </div>
 
             {/* Card 2: Tư vấn mua — dark */}
@@ -510,22 +501,6 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               </div>
             )}
 
-            {/* Card 4: Cam kết sản phẩm */}
-            <div className="rounded-[var(--radius-lg)] bg-[#1A1D21] p-5">
-              <h3 className="text-[10px] font-bold uppercase tracking-[0.2em] text-teal-400 mb-4">Cam kết</h3>
-              <ul className="space-y-3">
-                {[
-                  { icon: <Award size={16} className="text-teal-400" />, text: "Gợi ý nơi mua chính hãng, giá tốt nhất" },
-                  { icon: <ShieldCheck size={16} className="text-teal-400" />, text: "Cam kết chính hãng — sai hàng đền 20 triệu" },
-                  { icon: <Scale size={16} className="text-teal-400" />, text: "Không nhận tài trợ để review thiên vị" },
-                ].map((item) => (
-                  <li key={item.text} className="flex items-start gap-2.5 text-[12px] text-white/75 leading-[1.6]">
-                    <span className="flex-shrink-0 mt-0.5">{item.icon}</span>
-                    {item.text}
-                  </li>
-                ))}
-              </ul>
-            </div>
 
           </div>
         </aside>
