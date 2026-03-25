@@ -281,6 +281,32 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             <p className="mt-4 text-sm leading-[1.8] text-[var(--color-text-secondary)]">{product.description}</p>
           )}
 
+          {/* ── Score Display + Trust Commitment (mobile + desktop) ── */}
+          <div className="mt-6 border-t border-[var(--color-border)] pt-6">
+            <div className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-4">Điểm đánh giá</div>
+            <ScoreDisplay score={product.score} verdictShort={product.verdictShort} verdict={product.verdict} />
+
+            {/* Trust Commitment Bar */}
+            <div className="mt-5 rounded-2xl bg-[#1A1D21] p-5">
+              <div className="text-[10px] font-bold uppercase tracking-[0.2em] text-teal-400 mb-4">Cam kết của Maison de SON</div>
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+                {[
+                  { icon: "🏆", title: "Nơi mua uy tín", desc: "Gợi ý nguồn mua online chính hãng, giá tốt nhất" },
+                  { icon: "🛡️", title: "Đền 20 triệu nếu sai", desc: "Cam kết 100% chính hãng — sai hàng đền tiền" },
+                  { icon: "⚖️", title: "Review trung thực", desc: "Không nhận tài trợ từ thương hiệu để thiên vị" },
+                ].map((item) => (
+                  <div key={item.title} className="flex items-start gap-3 rounded-xl bg-white/[0.06] p-3.5">
+                    <span className="text-xl leading-none mt-0.5 flex-shrink-0">{item.icon}</span>
+                    <div>
+                      <div className="text-[13px] font-bold text-white leading-snug">{item.title}</div>
+                      <div className="text-[11px] text-white/55 leading-[1.5] mt-0.5">{item.desc}</div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+
           {/* Main Accords */}
           <div className="mt-6 border-t border-[var(--color-border)] pt-6">
             <AccordBars accords={product.accords} />
@@ -485,18 +511,17 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             )}
 
             {/* Card 4: Cam kết sản phẩm */}
-            <div className="rounded-[var(--radius-lg)] border border-[var(--color-border)] bg-[var(--color-surface)] p-5">
-              <h3 className="text-xs font-bold uppercase tracking-[0.16em] text-[var(--color-text-muted)] mb-4">Cam kết của Maison de SON</h3>
+            <div className="rounded-[var(--radius-lg)] bg-[#1A1D21] p-5">
+              <h3 className="text-[10px] font-bold uppercase tracking-[0.2em] text-teal-400 mb-4">Cam kết</h3>
               <ul className="space-y-3">
                 {[
-                  "Thông tin dựa trên trải nghiệm thực tế, không phải quảng cáo",
-                  "Không bán hàng — chỉ review và tư vấn trung thực",
-                  "Không nhận tài trợ từ thương hiệu để review thiên vị",
-                  "Tư vấn miễn phí qua Zalo, không ép mua",
+                  { icon: "🏆", text: "Gợi ý nơi mua chính hãng, giá tốt nhất" },
+                  { icon: "🛡️", text: "Cam kết chính hãng — sai hàng đền 20 triệu" },
+                  { icon: "⚖️", text: "Không nhận tài trợ để review thiên vị" },
                 ].map((item) => (
-                  <li key={item} className="flex items-start gap-2.5 text-[12px] text-[var(--color-text-secondary)] leading-[1.6]">
-                    <svg className="mt-0.5 flex-shrink-0 text-[var(--color-primary)]" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M20 6L9 17l-5-5"/></svg>
-                    {item}
+                  <li key={item.text} className="flex items-start gap-2.5 text-[12px] text-white/75 leading-[1.6]">
+                    <span className="text-sm flex-shrink-0 mt-0.5">{item.icon}</span>
+                    {item.text}
                   </li>
                 ))}
               </ul>
