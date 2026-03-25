@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useState, useEffect, useRef, useCallback } from "react";
 import { Search, Menu, X, TrendingUp, Sparkles, ArrowRight, Loader2, ChevronRight, ChevronDown } from "lucide-react";
 import Image from "next/image";
-import { searchProducts } from "@/sanity/lib/fetchers";
+import { MASTER_PERFUMES } from "@/constants/mockData";
 import type { Perfume } from "@/types";
 import { getProductUrl } from "@/lib/productUrl";
 
@@ -36,26 +36,22 @@ const Header = () => {
         return () => window.removeEventListener("scroll", handleScroll);
     }, []);
 
-    // Sanity Search with Debounce
+    // Local instant search — no network call, results on every keystroke
     useEffect(() => {
-        if (searchQuery.trim().length < 2) {
+        const q = searchQuery.trim().toLowerCase();
+        if (q.length < 2) {
             setSearchResults([]);
             return;
         }
-
-        const delayDebounceFn = setTimeout(async () => {
-            setIsLoading(true);
-            try {
-                const results = await searchProducts(searchQuery);
-                setSearchResults(results.slice(0, 8));
-            } catch (error) {
-                console.error("Search error:", error);
-            } finally {
-                setIsLoading(false);
-            }
-        }, 300);
-
-        return () => clearTimeout(delayDebounceFn);
+        const results = MASTER_PERFUMES.filter(p =>
+            p.isPublished !== false && (
+                p.name.toLowerCase().includes(q) ||
+                p.brand.toLowerCase().includes(q) ||
+                (p.subName && p.subName.toLowerCase().includes(q)) ||
+                (p.tags && p.tags.some(t => t.toLowerCase().includes(q)))
+            )
+        ).slice(0, 8);
+        setSearchResults(results);
     }, [searchQuery]);
 
     // Click outside to close search results
