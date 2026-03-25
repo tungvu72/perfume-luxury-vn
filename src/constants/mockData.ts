@@ -1548,11 +1548,9 @@ Mùa đông, buổi tối, tiệc, sự kiện, dịp đặc biệt. Xịt 1-2 n
     subName: "Eau de Parfum",
     perfumer: "Olivier Polge",
     gender: "nam",
-    image: "/images/products/bleu-chanel-edp-amazon-1.jpg",
+    image: "/images/products/bleu-chanel-edp-main.jpg",
     images: [
-      { url: "/images/products/bleu-chanel-edp-life-1.png", source: "community", caption: "Bleu de Chanel EDP trên áo sơ mi trắng", verified: true },
-      { url: "/images/products/bleu-chanel-edp-life-2.png", source: "community", caption: "Bleu de Chanel EDP cầm tay", verified: true },
-      { url: "/images/products/bleu-chanel-edp-life-3.png", source: "community", caption: "Bleu de Chanel EDP trên bàn, cùng đồng hồ và kính", verified: true }
+      { url: "/images/products/bleu-chanel-edp-main.jpg", source: "fragram", caption: "Bleu de Chanel Eau de Parfum chính hãng", verified: true }
     ],
     description: "Sạch, sang và dễ dùng trong rất nhiều hoàn cảnh. Hợp người cần chai đi làm, gặp khách hoặc dùng hằng ngày mà vẫn lịch sự. Nếu bạn thích mùi thật khác biệt hoặc nổi bật, bản này có thể hơi an toàn.",
     article: `### Ai không nên mua?
