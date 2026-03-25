@@ -36,9 +36,7 @@ export default function ScoreDisplay({ score, verdictShort, verdict }: ScoreDisp
           <h2 className="mt-1 text-lg font-bold leading-snug text-[var(--color-text)] sm:text-xl">
             {verdictShort}
           </h2>
-          <p className="mt-2 text-sm leading-relaxed text-[var(--color-text-secondary)]">
-            {verdict}
-          </p>
+
         </div>
       </div>
 

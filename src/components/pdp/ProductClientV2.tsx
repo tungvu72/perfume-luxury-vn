@@ -298,7 +298,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               href="https://zalo.me/0961226169"
               target="_blank"
               rel="nofollow noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2 rounded-full bg-[#1A1D21] px-6 py-3.5 text-sm font-bold text-white shadow-lg transition hover:bg-[#2d3039]"
+              className="inline-flex items-center justify-center gap-2 rounded-full bg-[var(--color-primary)] px-6 py-3.5 text-sm font-bold text-white shadow-lg transition hover:opacity-90"
             >
               <MessageCircle size={18} /> Tư vấn qua Zalo
             </a>
@@ -312,15 +312,6 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             >
               <Scale size={18} /> {isComparing ? "Đã thêm so sánh" : "So sánh"}
             </button>
-          </div>
-
-          {/* Trust chips */}
-          <div className="mt-3 flex flex-wrap gap-2">
-            {["Review khí hậu Việt Nam", "Không nhận tài trợ", "Tư vấn miễn phí"].map((chip) => (
-              <span key={chip} className="rounded-full border border-[var(--color-border)] bg-[var(--color-surface)] px-3 py-1 text-[10px] font-semibold text-[var(--color-text-muted)]">
-                {chip}
-              </span>
-            ))}
           </div>
         </div>
       </section>
@@ -422,34 +413,20 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
           <div className="sticky top-24 space-y-4">
 
             {/* Cam kết sản phẩm — top of sidebar */}
-            <div className="rounded-[var(--radius-lg)] bg-[#1A1D21] p-5">
-              <h3 className="text-[10px] font-bold uppercase tracking-[0.2em] text-teal-400 mb-4">Cam kết của Maison de SON</h3>
+            <div className="rounded-[var(--radius-lg)] border border-[var(--color-border)] bg-[var(--color-surface)] p-5">
+              <h3 className="text-[10px] font-bold uppercase tracking-[0.2em] text-[var(--color-primary)] mb-4">Cam kết của Maison de SON</h3>
               <ul className="space-y-3">
                 {[
-                  { icon: <Award size={16} className="text-teal-400" />, text: "Gợi ý nơi mua chính hãng, giá tốt nhất" },
-                  { icon: <ShieldCheck size={16} className="text-teal-400" />, text: "Cam kết chính hãng — sai hàng đền 20 triệu" },
-                  { icon: <Scale size={16} className="text-teal-400" />, text: "Không nhận tài trợ để review thiên vị" },
+                  { icon: <Award size={16} className="text-[var(--color-primary)]" />, text: "Gợi ý nơi mua chính hãng, giá tốt nhất" },
+                  { icon: <ShieldCheck size={16} className="text-[var(--color-primary)]" />, text: "Cam kết chính hãng — sai hàng đền 20 triệu" },
+                  { icon: <Scale size={16} className="text-[var(--color-primary)]" />, text: "Không nhận tài trợ để review thiên vị" },
                 ].map((item) => (
-                  <li key={item.text} className="flex items-start gap-2.5 text-[12px] text-white/75 leading-[1.6]">
+                  <li key={item.text} className="flex items-start gap-2.5 text-[12px] text-[var(--color-text-secondary)] leading-[1.6]">
                     <span className="flex-shrink-0 mt-0.5">{item.icon}</span>
                     {item.text}
                   </li>
                 ))}
               </ul>
-            </div>
-
-            {/* Card 2: Tư vấn mua — dark */}
-            <div className="rounded-[var(--radius-lg)] bg-[#1A1D21] p-5 text-white">
-              <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-teal-400 mb-2">Tư vấn chọn mua</div>
-              <p className="text-[13px] leading-[1.7] text-white/75 mb-4">Kể gu mùi, ngân sách và hoàn cảnh dùng — Maison de SON gợi ý chai phù hợp.</p>
-              <a
-                href="https://zalo.me/0961226169"
-                target="_blank"
-                rel="nofollow noopener noreferrer"
-                className="flex items-center justify-center gap-2 rounded-full bg-white text-[#1A1D21] px-4 py-2.5 text-[12px] font-bold hover:bg-gray-100 transition-colors"
-              >
-                <MessageCircle size={14} /> Nhắn Zalo ngay
-              </a>
             </div>
 
             {/* Card 3: Thông tin nhanh */}
