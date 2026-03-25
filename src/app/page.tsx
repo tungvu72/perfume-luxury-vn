@@ -282,9 +282,9 @@ export default async function Home() {
             {/* Trust pills */}
             <div className="grid grid-cols-3 gap-2 md:gap-2.5 mt-6 md:mt-8">
               {[
-                { title: "Review thực tế", desc: "Không chép mô tả hương của hãng" },
-                { title: "Dễ hiểu", desc: "Viết cho người Việt phổ thông" },
-                { title: "Tư vấn thật", desc: "Nhắn Zalo — gợi ý cụ thể, không ép mua" },
+                { title: "Review thực tế", desc: "Test mùi trong khí hậu Việt Nam" },
+                { title: "Dễ hiểu", desc: "Giải thích ngắn gọn, đi thẳng vào điểm cần biết" },
+                { title: "Tư vấn thật", desc: "Nhắn Zalo — gợi ý phù hợp, không bán hàng" },
               ].map((item) => (
                 <div key={item.title} className="rounded-xl border border-[var(--color-border)] bg-white/70 p-3 md:p-3.5">
                   <strong className="block text-[12px] md:text-[13px] font-bold mb-1">{item.title}</strong>
@@ -531,9 +531,9 @@ export default async function Home() {
       <section className="mx-auto max-w-[1280px] px-4 md:px-8 py-8 md:py-12">
         <div className="flex items-end justify-between gap-4 mb-5 md:mb-7">
           <div>
-            <p className="text-[10px] md:text-[11px] font-bold uppercase tracking-[0.16em] text-[var(--color-primary)]">Kiến thức dễ đọc</p>
-            <h2 className="font-serif text-[26px] md:text-[34px] tracking-tight mt-2">Đọc 1 bài là hiểu, tránh mua sai</h2>
-            <p className="text-[14px] md:text-[15px] text-[var(--color-text-secondary)] mt-1.5">Viết cho người Việt phổ thông — không thuật ngữ khó, không lý thuyết rỗng.</p>
+            <p className="text-[10px] md:text-[11px] font-bold uppercase tracking-[0.16em] text-[var(--color-primary)]">Kiến Thức Về Nước Hoa</p>
+            <h2 className="font-serif text-[26px] md:text-[34px] tracking-tight mt-2">Chọn đúng mùi, hiểu trước khi mua</h2>
+            <p className="text-[14px] md:text-[15px] text-[var(--color-text-secondary)] mt-1.5">Hướng dẫn chọn nước hoa, phân biệt nồng độ, so sánh các chai cùng phân khúc.</p>
           </div>
           <Link href="/kien-thuc" className="hidden md:inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-[13px] font-bold text-[var(--color-text)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-all flex-shrink-0">
             Xem tất cả bài viết
