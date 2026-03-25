@@ -284,7 +284,7 @@ export default async function Home() {
               {[
                 { title: "Review thực tế", desc: "Test mùi trong khí hậu Việt Nam" },
                 { title: "Dễ hiểu", desc: "Giải thích ngắn gọn, đi thẳng vào điểm cần biết" },
-                { title: "Tư vấn thật", desc: "Nhắn Zalo — gợi ý phù hợp, không bán hàng" },
+                { title: "Tư vấn thật", desc: "Nhắn Zalo — gợi ý phù hợp" },
               ].map((item) => (
                 <div key={item.title} className="rounded-xl border border-[var(--color-border)] bg-white/70 p-3 md:p-3.5">
                   <strong className="block text-[12px] md:text-[13px] font-bold mb-1">{item.title}</strong>
@@ -476,52 +476,39 @@ export default async function Home() {
 
       <div className="mx-auto max-w-[1280px] px-4 md:px-8"><hr className="border-t border-[var(--color-border-subtle)]" /></div>
 
-      {/* ══════ BLOCK 6 — BRAND SPOTLIGHT ══════ */}
+      {/* ══════ BLOCK 6 — BRAND SPOTLIGHT (Logo Grid) ══════ */}
       <section className="mx-auto max-w-[1280px] px-4 md:px-8 py-8 md:py-12">
-        <div className="flex items-end justify-between gap-4 mb-5 md:mb-7">
+        <div className="flex items-end justify-between gap-4 mb-6 md:mb-8">
           <div>
-            <p className="text-[10px] md:text-[11px] font-bold uppercase tracking-[0.16em] text-[var(--color-primary)]">Thương hiệu nổi bật</p>
-            <h2 className="font-serif text-[26px] md:text-[34px] tracking-tight mt-2">Mỗi thương hiệu một hướng</h2>
-            <p className="text-[14px] md:text-[15px] text-[var(--color-text-secondary)] mt-1.5">Hiểu nhanh từng thương hiệu để chọn đúng trước khi xem sản phẩm.</p>
+            <p className="text-[10px] md:text-[11px] font-bold uppercase tracking-[0.16em] text-[var(--color-primary)]">Thương Hiệu Nổi Bật</p>
+            <h2 className="font-serif text-[26px] md:text-[34px] tracking-tight mt-2">Các thương hiệu trên Maison de SON</h2>
           </div>
           <Link href="/thuong-hieu" className="hidden md:inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-[13px] font-bold text-[var(--color-text)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-all flex-shrink-0">
-            Xem tất cả thương hiệu
+            Xem tất cả
           </Link>
         </div>
 
-        {/* Mobile: horizontal scroll */}
-        <div className="flex gap-3 overflow-x-auto pb-2 no-scrollbar md:hidden">
+        {/* Logo grid — 3 cols mobile, 6 cols desktop */}
+        <div className="grid grid-cols-3 md:grid-cols-6 gap-3 md:gap-4">
           {BRAND_SPOTLIGHT.map((brand) => (
-            <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex-shrink-0 w-[200px] rounded-[18px] border border-[var(--color-border)] bg-white overflow-hidden hover:border-[var(--color-primary)] hover:shadow-md transition-all">
-              {/* Logo area — full width top, warm bg */}
-              <div className="h-[80px] bg-[#EDE8E0] flex items-center justify-center px-6 py-3">
-                <img src={brand.logo} alt={brand.name} className="max-h-full max-w-full object-contain" />
-              </div>
-              <div className="p-4">
-                <div className="text-[14px] font-bold mb-2">{brand.name}</div>
-                <div className="inline-block text-[10px] font-bold uppercase tracking-[0.12em] text-[var(--color-primary)] bg-[var(--color-primary-light)] px-2.5 py-0.5 rounded-full mb-2">{brand.tag}</div>
-                <p className="text-[12px] text-[var(--color-text-secondary)] leading-[1.6]">{brand.desc}</p>
-              </div>
+            <Link
+              key={brand.slug}
+              href={`/thuong-hieu/${brand.slug}`}
+              className="group flex items-center justify-center rounded-2xl border border-[var(--color-border)] bg-white aspect-[3/2] p-5 md:p-6 hover:border-[var(--color-primary)] hover:shadow-[var(--shadow-md)] hover:-translate-y-0.5 transition-all"
+            >
+              <img
+                src={brand.logo}
+                alt={brand.name}
+                className="max-h-[36px] md:max-h-[40px] max-w-full object-contain opacity-70 group-hover:opacity-100 transition-opacity"
+              />
             </Link>
           ))}
         </div>
 
-        {/* Desktop: 3x2 grid */}
-        <div className="hidden md:grid grid-cols-3 gap-3.5">
-          {BRAND_SPOTLIGHT.map((brand) => (
-            <Link key={brand.slug} href={`/thuong-hieu/${brand.slug}`} className="group flex items-center rounded-[20px] border border-[var(--color-border)] bg-white overflow-hidden hover:border-[var(--color-primary)] hover:shadow-[var(--shadow-md)] hover:-translate-y-0.5 transition-all">
-              {/* Logo — left panel, warm bg */}
-              <div className="w-[100px] h-[100px] flex-shrink-0 bg-[#EDE8E0] flex items-center justify-center px-5 py-4">
-                <img src={brand.logo} alt={brand.name} className="max-h-full max-w-full object-contain" />
-              </div>
-              {/* Text — right */}
-              <div className="flex-1 p-5 border-l border-[var(--color-border-subtle)]">
-                <div className="text-[15px] font-bold mb-1.5">{brand.name}</div>
-                <div className="inline-block text-[10px] font-bold uppercase tracking-[0.12em] text-[var(--color-primary)] bg-[var(--color-primary-light)] px-2.5 py-0.5 rounded-full mb-2">{brand.tag}</div>
-                <p className="text-[13px] text-[var(--color-text-secondary)] leading-[1.6] line-clamp-2">{brand.desc}</p>
-              </div>
-            </Link>
-          ))}
+        <div className="mt-4 text-center md:hidden">
+          <Link href="/thuong-hieu" className="inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-[12px] font-bold text-[var(--color-text-secondary)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-colors">
+            Xem tất cả thương hiệu →
+          </Link>
         </div>
       </section>
 
