@@ -4,7 +4,9 @@ import type { Perfume } from '@/types';
  * Generate URL mới cho product: /nuoc-hoa-{gender}-{brand}-{product}
  * VD: /nuoc-hoa-nam-dior-sauvage-elixir
  */
-export function getProductUrl(product: Perfume): string {
+type ProductUrlInput = { id: string; gender?: string; brandSlug?: string; brand: string };
+
+export function getProductUrl(product: ProductUrlInput): string {
     const gender = product.gender || 'unisex';
     const brand = product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, '-');
     return `/nuoc-hoa-${gender}-${brand}-${product.id}`;

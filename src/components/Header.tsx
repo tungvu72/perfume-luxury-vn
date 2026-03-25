@@ -4,8 +4,8 @@ import Link from "next/link";
 import { useState, useEffect, useRef, useCallback } from "react";
 import { Search, Menu, X, TrendingUp, Sparkles, ArrowRight, Loader2, ChevronRight, ChevronDown } from "lucide-react";
 import Image from "next/image";
-import { MASTER_PERFUMES } from "@/constants/mockData";
-import type { Perfume } from "@/types";
+import { SEARCH_INDEX } from "@/constants/searchIndex";
+import type { SearchProduct } from "@/constants/searchIndex";
 import { getProductUrl } from "@/lib/productUrl";
 
 const TRENDING_SEARCHES = ["Sauvage", "Bleu de Chanel", "Aventus", "Baccarat Rouge", "Lost Cherry"];
@@ -14,7 +14,7 @@ const Header = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const [scrolled, setScrolled] = useState(false);
     const [searchQuery, setSearchQuery] = useState("");
-    const [searchResults, setSearchResults] = useState<Perfume[]>([]);
+    const [searchResults, setSearchResults] = useState<SearchProduct[]>([]);
     const [isLoading, setIsLoading] = useState(false);
     const [isSearchFocused, setIsSearchFocused] = useState(false);
     const [selectedIndex, setSelectedIndex] = useState(-1);
@@ -43,12 +43,12 @@ const Header = () => {
             setSearchResults([]);
             return;
         }
-        const results = MASTER_PERFUMES.filter(p =>
+        const results = SEARCH_INDEX.filter((p: SearchProduct) =>
             p.isPublished !== false && (
                 p.name.toLowerCase().includes(q) ||
                 p.brand.toLowerCase().includes(q) ||
                 (p.subName && p.subName.toLowerCase().includes(q)) ||
-                (p.tags && p.tags.some(t => t.toLowerCase().includes(q)))
+                (p.tags && p.tags.some((t: string) => t.toLowerCase().includes(q)))
             )
         ).slice(0, 8);
         setSearchResults(results);
@@ -284,7 +284,7 @@ const Header = () => {
                                                     >
                                                         <div className="w-12 h-12 bg-gray-100 rounded-lg overflow-hidden flex-shrink-0 relative">
                                                             <Image
-                                                                src={product.image}
+                                                                src={product.image || '/images/placeholder.jpg'}
                                                                 alt={product.name}
                                                                 fill
                                                                 sizes="48px"
@@ -302,10 +302,10 @@ const Header = () => {
                                                             </div>
                                                         </div>
                                                         <div className="flex flex-col items-end flex-shrink-0">
-                                                            <span className="text-xs font-bold text-primary">★ {product.score.total}</span>
-                                                            <span className="text-[10px] text-gray-400">{product.basePrice.toLocaleString()}đ</span>
+                                                            {product.subName && (
+                                                                <span className="text-[10px] text-gray-400 max-w-[80px] truncate text-right">{product.subName}</span>
+                                                            )}
                                                         </div>
-                                                    </Link>
                                                 ))}
                                                 <Link
                                                     href={`/bang-xep-hang`}
