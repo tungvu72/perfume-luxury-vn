@@ -221,6 +221,9 @@ const Header = () => {
                             <Link href="/kien-thuc" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
                                 Kiến thức
                             </Link>
+                            <Link href="/video" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
+                                Video
+                            </Link>
                         </nav>
 
                         {/* Placeholder for alignment on desktop (nav takes center) */}
@@ -464,6 +467,9 @@ const Header = () => {
                             <div className="my-2 border-t border-gray-100" />
                             <Link href="/kien-thuc" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-3 rounded-xl text-sm font-semibold uppercase tracking-wider hover:bg-primary/5 hover:text-primary transition-colors">
                                 📚 Kiến thức
+                            </Link>
+                            <Link href="/video" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-3 rounded-xl text-sm font-semibold uppercase tracking-wider hover:bg-primary/5 hover:text-primary transition-colors">
+                                🎬 Video
                             </Link>
                         </nav>
 
