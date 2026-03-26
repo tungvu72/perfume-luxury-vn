@@ -26,7 +26,7 @@ export interface VibeTag {
 export interface GalleryImage {
     url: string;
     caption?: string;
-    source?: 'studio' | 'fragram' | 'community' | 'owner' | 'amazon' | 'ebay';
+    source?: 'studio' | 'fragram' | 'community' | 'owner' | 'maison' | 'amazon' | 'ebay';
     verified?: boolean;
 }
 
@@ -47,6 +47,7 @@ export interface Perfume {
     perfumer?: string; // Tên tác giả / Nhà tạo hương (Perfumer)
     gender: 'nam' | 'nu' | 'unisex';
     image: string;
+    video?: string; // Video sản phẩm (mp4)
     images?: (string | GalleryImage)[]; // Ảnh thực tế (Gallery) — string (legacy) hoặc GalleryImage (Sanity)
     description: string;
     verdict: string;

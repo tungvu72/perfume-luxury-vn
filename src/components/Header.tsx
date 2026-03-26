@@ -158,7 +158,7 @@ const Header = () => {
                             <span className="font-serif text-[18px] sm:text-[22px] md:text-[28px] font-bold tracking-[2px] sm:tracking-[4px] uppercase">
                                 MAISON DE SON
                             </span>
-                            <span className="hidden sm:block text-[8px] md:text-[9px] tracking-[2px] uppercase text-gray-400/70 font-normal -mt-0.5">
+                            <span className="text-[7px] sm:text-[8px] md:text-[9px] tracking-[2px] sm:tracking-[3px] uppercase text-gray-400/60 font-normal -mt-0.5">
                                 Find Your Signature
                             </span>
                         </Link>

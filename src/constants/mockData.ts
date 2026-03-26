@@ -8023,15 +8023,23 @@ Nomade thuộc phân khúc Chloé — rẻ hơn Chanel nhưng tương đương A
     isPublished: true
   },
   {
-    id: "ombre-leather",
+    id: "nuoc-hoa-unisex-tom-ford-ombre-leather",
     brandSlug: "tom-ford",
     brand: "TOM FORD",
     name: "Ombré Leather",
     subName: "Eau de Parfum",
     perfumer: "Sonia Constant",
     gender: "unisex",
-    image: "/images/products/tom-ford-ombre-leather-main.jpg",
+    image: "/images/products/tom-ford-ombre-leather-real-1.jpg",
+    video: "/videos/tom-ford-ombre-leather.mp4",
     images: [
+      { url: "/images/products/tom-ford-ombre-leather-real-1.jpg", source: "maison", caption: "Tom Ford Ombré Leather — Ảnh thực tế Maison de SON", verified: true },
+      { url: "/images/products/tom-ford-ombre-leather-real-2.jpg", source: "maison", caption: "Ombré Leather gift box hoa tặng kèm", verified: true },
+      { url: "/images/products/tom-ford-ombre-leather-real-3.jpg", source: "maison", caption: "Ombré Leather chiết 10ml chính hãng", verified: true },
+      { url: "/images/products/tom-ford-ombre-leather-real-4.jpg", source: "maison", caption: "Ombré Leather chai full và chiết", verified: true },
+      { url: "/images/products/tom-ford-ombre-leather-real-5.jpg", source: "maison", caption: "Ombré Leather unboxing thực tế", verified: true },
+      { url: "/images/products/tom-ford-ombre-leather-real-6.jpg", source: "maison", caption: "Ombré Leather chiết 10ml cận cảnh", verified: true },
+      { url: "/images/products/tom-ford-ombre-leather-real-7.jpg", source: "maison", caption: "Ombré Leather chai & hộp", verified: true },
       { url: "/images/products/tom-ford-ombre-leather-main.jpg", source: "fragram", caption: "Tom Ford Ombré Leather Eau de Parfum chính hãng", verified: true }
     ],
     description: "Chai da thuộc sang nhất Tom Ford — bạch đậu khấu, da thuộc, nhài Sambac, hổ phách, rêu và hoắc hương. Đậm, nam tính và cực kỳ luxurious.",
