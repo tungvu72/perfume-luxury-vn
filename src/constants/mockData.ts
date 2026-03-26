@@ -8056,7 +8056,7 @@ Ombré Leather thuộc phân khúc Tom Ford — đắt nhưng chất. So với F
 Mùa thu đông, buổi tối, sự kiện, áo da jacket. Xịt 2 nhát: cổ, ngực. Đẹp nhất khi trời mát dưới 25°C. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.`,
     verdict: "Chai da thuộc đẹp nhất Tom Ford — đậm, sang và cực nam. Hợp thu đông. Không hợp ai ghét mùi da hoặc thích mùi nhẹ.",
     verdictShort: "DA THUỘC, SANG, CỰC NAM",
-    score: { scent: 9, uniqueness: 8.8, compliments: 8.2, value: 7.5, total: 8.4 },
+    score: { scent: 9, uniqueness: 8.8, compliments: 8.2, value: 8.5, total: 8.6 },
     vibes: [{ label: "Nam tính", icon: "🖤" }, { label: "Sang trọng", icon: "💎" }, { label: "Thu đông", icon: "🍂" }],
     longevity: 9,
     sillage: 7,
