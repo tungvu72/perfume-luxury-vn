@@ -15,6 +15,8 @@ Chưa bao giờ mua nước hoa, không biết nên bắt đầu từ đâu. Tê
 
 Bài này dành cho người lần đầu mua nước hoa nam. Không lý thuyết rối, chỉ nói thẳng: nên chọn kiểu nào, tránh kiểu nào, và chai nào thực sự dễ dùng cho người chưa quen.
 
+![Các chai nước hoa nam phổ biến cho người mới bắt đầu](/images/articles/lan-dau-mua-nuoc-hoa-nam-2026.png)
+
 ## Tóm tắt nhanh
 
 - Chai đầu tiên nên an toàn, đa dụng, hợp khí hậu nóng ẩm Việt Nam
@@ -51,6 +53,8 @@ Gỗ đàn hương, gỗ tuyết tùng, cỏ hương bài. Mùi nam tính hơn n
 
 Nhóm nên tránh lúc đầu: Oud, da thuộc, gourmand nặng (vani đậm, cà phê). Không phải vì chúng xấu — mà vì người mới chưa có chuẩn so sánh. Nếu mua ngay dòng niche cá tính, rất dễ thấy hối tiếc sau 2 tuần.
 
+![Nhóm hương an toàn và nhóm hương nên tránh khi mua nước hoa lần đầu](/images/articles/nhom-huong-an-toan-nguoi-moi.png)
+
 ---
 
 ## EDT hay EDP — cái nào hợp người mới?
@@ -63,11 +67,15 @@ EDP đậm hơn, lưu hương lâu hơn, nhưng dễ bị "ngấy" nếu bạn c
 
 Đọc thêm: [Nên mua EDT hay EDP? Khác nhau gì và chọn ra sao](/edt-edp-la-gi)
 
+![So sánh nồng độ EDT và EDP — chọn loại nào cho người mới](/images/articles/edt-vs-edp-so-sanh-nong-do.png)
+
 ---
 
 ## 5 chai gợi ý cho người mới — tầm 1 đến 3 triệu
 
 Đây là những chai Maison de SON thường gợi ý cho người hỏi "chưa bao giờ dùng nước hoa, nên bắt đầu từ đâu". Tiêu chí: dễ dùng, ít rủi ro, hợp khí hậu Việt Nam, giá hợp lý.
+
+![5 chai nước hoa nam gợi ý cho người mới — Bleu de Chanel, Sauvage, Dylan Blue, YSL Y, Explorer](/images/articles/5-chai-nuoc-hoa-nam-goi-y.png)
 
 ### 1. Bleu de Chanel EDP
 
