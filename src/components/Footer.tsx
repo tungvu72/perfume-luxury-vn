@@ -10,9 +10,10 @@ export default function Footer() {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
                     {/* Cột 1: Brand */}
                     <div className="col-span-1 md:col-span-1">
-                        <Link href="/" className="text-xl font-serif tracking-[3px] uppercase mb-6 block">
+                        <Link href="/" className="text-xl font-serif tracking-[3px] uppercase mb-2 block">
                             Maison de SON
                         </Link>
+                        <p className="text-[10px] text-gray-400 italic tracking-[2px] uppercase mb-4">Find Your Signature</p>
                         <p className="text-xs text-gray-500 leading-relaxed mb-6">
                             Trang web chia sẻ kiến thức, trải nghiệm thực tế và định hướng chọn mua nước hoa cho người Việt. Maison de SON ưu tiên thông tin rõ ràng, dễ hiểu và hữu ích trước khi nói đến chuyện mua bán.
                         </p>
@@ -72,7 +73,7 @@ export default function Footer() {
 
                 <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
                     <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">
-                        © {currentYear} Maison de SON · Kiến thức, đánh giá &amp; trải nghiệm thực tế
+                        © {currentYear} Maison de SON · Find Your Signature
                     </p>
                     <div className="flex gap-6 text-[10px] text-gray-400 font-bold uppercase tracking-wider">
                         <Link href="/chinh-sach" className="hover:text-primary transition-colors py-1 block">Chính sách</Link>

@@ -154,8 +154,13 @@ const Header = () => {
                         </button>
 
                         {/* LOGO */}
-                        <Link href="/" className="font-serif text-[18px] sm:text-[22px] md:text-[28px] font-bold tracking-[2px] sm:tracking-[4px] uppercase">
-                            MAISON DE SON
+                        <Link href="/" className="flex flex-col items-center">
+                            <span className="font-serif text-[18px] sm:text-[22px] md:text-[28px] font-bold tracking-[2px] sm:tracking-[4px] uppercase">
+                                MAISON DE SON
+                            </span>
+                            <span className="text-[8px] sm:text-[9px] md:text-[10px] tracking-[3px] uppercase text-gray-400 font-light italic -mt-0.5">
+                                Find Your Signature
+                            </span>
                         </Link>
 
                         {/* DESKTOP NAV */}
