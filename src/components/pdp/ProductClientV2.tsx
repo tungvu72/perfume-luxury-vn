@@ -150,10 +150,15 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
   useEffect(() => { setMounted(true); }, []);
 
   const isComparing = useMemo(() => items.some((x) => x.id === product.id), [items, product.id]);
-  const allImages = useMemo(
-    () => [product.image, ...(product.images || [])].filter(Boolean) as (string | GalleryImage)[],
-    [product.image, product.images]
-  );
+  const allImages = useMemo(() => {
+    const imgs = product.images || [];
+    if (imgs.length === 0) return [product.image] as (string | GalleryImage)[];
+    // Skip prepending product.image if images[0] already has the same URL
+    const first = imgs[0];
+    const firstUrl = typeof first === "string" ? first : (first as GalleryImage).url;
+    if (firstUrl === product.image) return imgs as (string | GalleryImage)[];
+    return [product.image, ...imgs] as (string | GalleryImage)[];
+  }, [product.image, product.images]);
 
   const handleKeyDown = useCallback((e: KeyboardEvent) => {
     if (!lightboxOpen) return;
