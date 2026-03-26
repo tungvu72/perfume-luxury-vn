@@ -167,13 +167,7 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
             <ScrollProgress />
             <Header />
             <div className="max-w-[1200px] mx-auto px-5 py-8">
-                {/* Breadcrumb UI: 3 tầng */}
-                <Breadcrumbs
-                    items={[
-                        { label: product.brand, href: `/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, '-')}` },
-                        { label: product.name },
-                    ]}
-                />
+                {/* Breadcrumb UI removed — ProductClientV2 already shows category + brand inline */}
                 <ProductClientV2
                     product={product}
                     relatedProducts={

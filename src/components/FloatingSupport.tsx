@@ -16,7 +16,7 @@ export default function FloatingSupport() {
     };
 
     return (
-        <div className="fixed bottom-5 right-5 z-[100] flex flex-col items-end gap-3 md:bottom-6 md:right-6">
+        <div className="fixed bottom-5 right-5 z-[100] hidden lg:flex flex-col items-end gap-3 md:bottom-6 md:right-6">
             {isOpen && (
                 <div className="flex flex-col gap-2 animate-fade-up">
                     <Link
