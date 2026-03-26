@@ -8023,7 +8023,7 @@ Nomade thuộc phân khúc Chloé — rẻ hơn Chanel nhưng tương đương A
     isPublished: true
   },
   {
-    id: "nuoc-hoa-unisex-tom-ford-ombre-leather",
+    id: "ombre-leather",
     brandSlug: "tom-ford",
     brand: "TOM FORD",
     name: "Ombré Leather",
