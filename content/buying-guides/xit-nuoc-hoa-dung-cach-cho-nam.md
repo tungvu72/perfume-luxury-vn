@@ -134,10 +134,10 @@ Biết cách xịt đúng thì cũng cần biết những điều nên tránh:
 
 ## Kết luận
 
-[Xịt nước hoa đúng cách](/xit-nuoc-hoa-dung-cach-cho-nam) không phức tạp — chỉ cần nhớ: dưỡng ẩm trước, xịt đúng chỗ, đủ lượng, và bảo quản tốt. Riêng mẹo dưỡng ẩm da trước khi xịt đã giúp kéo dài mùi hương thêm 1–2 tiếng trong thời tiết nóng.
+[Xịt nước hoa đúng cách cho nam](/xit-nuoc-hoa-dung-cach-cho-nam) không phức tạp — chỉ cần nhớ: dưỡng ẩm trước, xịt đúng chỗ, đủ lượng, và bảo quản tốt. Riêng mẹo dưỡng ẩm da trước khi xịt đã giúp kéo dài mùi hương thêm 1–2 tiếng trong thời tiết nóng.
 
 Nếu bạn mới bắt đầu và chưa biết chọn chai nào, đọc thêm bài [lần đầu mua nước hoa nam](/lan-dau-mua-nuoc-hoa-nam-nen-chon-gi) để có hướng dẫn cụ thể.
 
-Cần gợi ý chai phù hợp? Xem [bảng xếp hạng nước hoa](/bang-xep-hang) hoặc nhắn [Zalo](https://zalo.me/0961226169) — Maison de SON sẽ hỏi gu và hoàn cảnh dùng, rồi gợi ý thật.
+Cần gợi ý chai phù hợp? Nhắn Maison de SON qua Zalo — sẽ hỏi gu và hoàn cảnh dùng, rồi gợi ý thật.
 
-Ghé [trang chủ nước hoa chính hãng](/) hoặc [kiến thức nước hoa](/kien-thuc) để đọc thêm.
+Ghé [nước hoa chính hãng](/) hoặc [đọc thêm kiến thức nước hoa](/kien-thuc).

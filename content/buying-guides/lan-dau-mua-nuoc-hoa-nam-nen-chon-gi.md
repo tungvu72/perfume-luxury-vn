@@ -117,7 +117,7 @@ Nhược điểm: mùi không quá đặc biệt. Nếu bạn cần một chai "
 
 Xem chi tiết: [Montblanc Explorer](/nuoc-hoa-nam-montblanc-explorer)
 
-Nếu vẫn phân vân giữa các chai, nhắn [Zalo](https://zalo.me/0961226169) — Maison de SON sẽ hỏi gu, ngân sách và hoàn cảnh dùng, rồi gợi ý cụ thể.
+Nếu vẫn phân vân giữa các chai, nhắn Maison de SON qua Zalo — sẽ hỏi gu, ngân sách và hoàn cảnh dùng, rồi gợi ý cụ thể.
 
 ---
 
@@ -132,7 +132,7 @@ Vài nguyên tắc:
 - Nếu giá thấp hơn 30% so với giá niêm yết chính hãng — cần cảnh giác
 - Ưu tiên các store có review thật từ người mua, không phải review mẫu
 
-Maison de SON gợi ý nguồn mua chính hãng trên từng trang sản phẩm — bạn có thể tham khảo trực tiếp trên [trang chủ nước hoa chính hãng](/), hoặc xem [bảng xếp hạng nước hoa](/bang-xep-hang) để so sánh.
+Maison de SON gợi ý nguồn mua chính hãng trên từng trang sản phẩm — bạn có thể tham khảo trực tiếp tại [nước hoa chính hãng](/).
 
 ---
 
@@ -140,9 +140,9 @@ Maison de SON gợi ý nguồn mua chính hãng trên từng trang sản phẩm 
 
 Chai nước hoa đầu tiên không cần phải đắt hay độc. Nó chỉ cần dễ dùng, hợp hoàn cảnh và không gây hối tiếc.
 
-Bắt đầu từ những mùi an toàn, tập cảm nhận dần, rồi sau đó mở rộng sang các dòng cá tính hơn. Đó là cách mà phần lớn người chơi nước hoa lâu năm cũng đã bắt đầu. Nếu bạn đang tìm hướng dẫn [lần đầu mua nước hoa nam](/lan-dau-mua-nuoc-hoa-nam-nen-chon-gi) thì bài này là điểm xuất phát tốt nhất.
+Bắt đầu từ những mùi an toàn, tập cảm nhận dần, rồi sau đó mở rộng sang các dòng cá tính hơn. Đó là cách mà phần lớn người chơi nước hoa lâu năm cũng đã bắt đầu. Bài hướng dẫn [lần đầu mua nước hoa nam nên chọn gì](/lan-dau-mua-nuoc-hoa-nam-nen-chon-gi) này sẽ giúp bạn tránh phí tiền ngay từ chai đầu tiên.
 
-Chưa biết nên chọn gì? Ghé [kiến thức nước hoa](/kien-thuc) đọc thêm, hoặc nhắn [Zalo](https://zalo.me/0961226169) để được gợi ý theo gu thật.
+Chưa biết nên chọn gì? Ghé [kiến thức nước hoa](/kien-thuc) đọc thêm, hoặc nhắn Maison de SON qua Zalo để được gợi ý theo gu thật.
 
 ---
 
