@@ -188,6 +188,26 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
       )}
 
       {/* ═══════ HERO SECTION ═══════ */}
+      {/* Mobile-only: Product name + brand ABOVE image */}
+      <div className="lg:hidden mb-4">
+        <div className="flex items-center gap-2 text-[11px] font-bold uppercase tracking-[0.16em]">
+          <span className="text-[var(--color-text-muted)]">{product.gender === "nam" ? "Nước Hoa Nam" : product.gender === "nu" ? "Nước Hoa Nữ" : "Nước Hoa Unisex"}</span>
+          <span className="text-[var(--color-text-muted)]">•</span>
+          <Link
+            href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`}
+            className="text-[var(--color-primary)] hover:underline"
+          >
+            {product.brand}
+          </Link>
+        </div>
+        <h1 className="mt-2 text-[28px] font-serif leading-tight tracking-tight text-[var(--color-text)]">
+          {product.name}
+        </h1>
+        {product.subName && (
+          <p className="mt-0.5 text-sm text-[var(--color-text-muted)]">{product.subName}</p>
+        )}
+      </div>
+
       <section className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(380px,0.9fr)] lg:gap-12">
         {/* LEFT: Product Image — gradient bg + score badge overlay */}
         <div className="h-fit lg:sticky lg:top-24">
@@ -227,8 +247,8 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
 
         {/* RIGHT: Product Info */}
         <div className="flex flex-col">
-          {/* Category + Brand + Share */}
-          <div className="flex items-center justify-between gap-3">
+          {/* Category + Brand + Share — hidden on mobile (shown above image) */}
+          <div className="hidden lg:flex items-center justify-between gap-3">
             <div className="flex items-center gap-2 text-[11px] font-bold uppercase tracking-[0.16em]">
               <span className="text-[var(--color-text-muted)]">{product.gender === "nam" ? "Nước Hoa Nam" : product.gender === "nu" ? "Nước Hoa Nữ" : "Nước Hoa Unisex"}</span>
               <span className="text-[var(--color-text-muted)]">•</span>
@@ -242,12 +262,12 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             <ShareButton />
           </div>
 
-          {/* Product Name */}
-          <h1 className="mt-3 text-3xl font-serif leading-tight tracking-tight text-[var(--color-text)] sm:text-4xl lg:text-[44px]">
+          {/* Product Name — hidden on mobile (shown above image) */}
+          <div className="hidden lg:block mt-3 text-3xl font-serif leading-tight tracking-tight text-[var(--color-text)] sm:text-4xl lg:text-[44px]">
             {product.name}
-          </h1>
+          </div>
           {product.subName && (
-            <p className="mt-1 text-sm text-[var(--color-text-muted)]">{product.subName}</p>
+            <p className="hidden lg:block mt-1 text-sm text-[var(--color-text-muted)]">{product.subName}</p>
           )}
 
           {/* Perfumer */}
