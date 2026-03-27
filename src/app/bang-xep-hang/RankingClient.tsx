@@ -231,7 +231,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
     return (
         <div className="max-w-[1200px] mx-auto px-5 py-8 flex gap-10">
             {/* MOBILE FILTER TOGGLE */}
-            <div className="md:hidden fixed top-[115px] left-0 w-full z-40 bg-white border-b border-[var(--border)] px-5 py-3 pointer-events-auto">
+            <div className="md:hidden sticky top-0 z-40 bg-white border-b border-[var(--border)] px-5 py-3 -mx-5 mb-4">
                 <div className="flex items-center justify-between">
                     <button onClick={() => setShowMobileFilter(!showMobileFilter)}
                         className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider">
@@ -241,7 +241,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                     <span className="text-[10px] text-gray-400">{filteredProducts.length} kết quả</span>
                 </div>
                 {showMobileFilter && (
-                    <div className="mt-4 pb-2 border-t border-gray-100 pt-4 max-h-[70vh] overflow-y-auto">
+                    <div className="mt-4 pb-2 border-t border-gray-100 pt-4 max-h-[60vh] overflow-y-auto -webkit-overflow-scrolling-touch">
                         <FilterPanel />
                     </div>
                 )}
@@ -320,46 +320,45 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                     {displayedProducts.map((product, i) => (
                         <div key={product.id} className="relative group/card">
                             <Link href={getProductUrl(product)}
-                                className="flex items-center gap-4 md:gap-6 rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_12px_35px_rgba(27,18,13,0.03)] transition-all hover:-translate-y-0.5 hover:border-primary/50 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)] group">
-                                <div className="w-8 text-center font-serif text-xl md:text-2xl font-bold text-gray-200 group-hover:text-primary/30 transition-colors">
+                                className="flex items-center gap-3 md:gap-5 rounded-2xl border border-[#eae5dd] bg-white p-3 md:p-4 shadow-[0_2px_12px_rgba(0,0,0,0.04)] transition-all hover:-translate-y-0.5 hover:border-primary/40 hover:shadow-[0_8px_24px_rgba(0,0,0,0.08)] group">
+                                {/* Rank number */}
+                                <div className="w-7 text-center text-base md:text-lg font-bold text-gray-300 group-hover:text-primary/40 transition-colors tabular-nums">
                                     {String(i + 1).padStart(2, '0')}
                                 </div>
-                                <div className="w-[60px] h-[60px] md:w-[90px] md:h-[90px] flex-shrink-0 bg-white rounded-lg overflow-hidden p-1 relative">
+                                {/* Image frame — fixed size, neutral bg, consistent padding */}
+                                <div className="w-[88px] h-[88px] md:w-[110px] md:h-[110px] flex-shrink-0 rounded-xl bg-[#f7f5f2] overflow-hidden relative"
+                                     style={{ padding: '8px' }}>
                                     <Image
                                         src={product.image}
                                         alt={product.name}
                                         fill
-                                        sizes="(max-width: 768px) 60px, 90px"
-                                        className="object-contain mix-blend-multiply group-hover:scale-110 transition-transform duration-500 p-1"
+                                        sizes="(max-width: 768px) 88px, 110px"
+                                        className="object-contain mix-blend-multiply p-1.5 group-hover:scale-105 transition-transform duration-300"
                                     />
                                 </div>
+                                {/* Text block */}
                                 <div className="flex-1 min-w-0">
-                                    <div className="flex items-center gap-2 mb-1">
-                                        <span className="text-[10px] font-bold text-primary tracking-[2px] uppercase">{product.brand}</span>
-                                        <span className="text-[10px] px-1.5 py-0.5 bg-gray-100 rounded text-gray-400 font-semibold capitalize">{product.gender === 'nam' ? '♂ Nam' : product.gender === 'nu' ? '♀ Nữ' : '⚡ Unisex'}</span>
+                                    <div className="flex items-center gap-2 mb-0.5">
+                                        <span className="text-[10px] font-bold text-primary tracking-[1.5px] uppercase truncate">{product.brand}</span>
+                                        <span className="text-[9px] px-1.5 py-0.5 bg-gray-100 rounded text-gray-400 font-semibold flex-shrink-0">{product.gender === 'nam' ? '♂ Nam' : product.gender === 'nu' ? '♀ Nữ' : '⚡ Uni'}</span>
                                     </div>
-                                    <h3 className="text-base md:text-lg font-serif group-hover:text-primary transition-colors leading-tight">{product.name}</h3>
-                                    <div className="text-[10px] text-gray-400 mt-1 hidden md:flex items-center gap-3">
-                                        <span>{product.subName}</span>
-                                        <span>·</span>
-                                        <span>{product.basePrice.toLocaleString()}đ</span>
+                                    <h3 className="text-[15px] md:text-[17px] font-semibold leading-snug text-[#1a1a1a] group-hover:text-primary transition-colors line-clamp-2">{product.name}</h3>
+                                    <div className="text-[11px] text-gray-400 mt-1 flex items-center gap-2 flex-wrap">
+                                        <span className="font-medium text-gray-500">{product.basePrice.toLocaleString()}đ</span>
                                         {product.longevity && (
-                                            <>
-                                                <span>·</span>
-                                                <span>⏱️ {product.longevity}h</span>
-                                            </>
+                                            <span className="hidden md:inline">⏱ {product.longevity}h</span>
                                         )}
                                         {product.sillage && product.sillage >= 8 && (
-                                            <>
-                                                <span>·</span>
-                                                <span>💨 Tỏa mạnh</span>
-                                            </>
+                                            <span className="hidden md:inline">💨 Mạnh</span>
                                         )}
                                     </div>
                                 </div>
-                                <div className="flex flex-col items-end gap-1">
-                                    <div className="text-lg md:text-2xl font-serif font-bold text-primary">{product.score.total}</div>
-                                    <div className="text-[8px] text-gray-400 font-bold uppercase tracking-wider">Điểm tổng</div>
+                                {/* Score */}
+                                <div className="flex flex-col items-center gap-0.5 flex-shrink-0">
+                                    <div className="w-12 h-12 md:w-14 md:h-14 rounded-full border-2 border-primary/20 bg-primary/5 flex items-center justify-center">
+                                        <span className="text-base md:text-lg font-bold text-primary">{product.score.total}</span>
+                                    </div>
+                                    <div className="text-[7px] text-gray-400 font-bold uppercase tracking-wider">Điểm</div>
                                 </div>
                             </Link>
                             <CompareButton product={product} />
