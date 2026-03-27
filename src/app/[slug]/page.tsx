@@ -453,17 +453,17 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 prose prose-base max-w-none
                                 prose-headings:font-sans prose-headings:text-[#1a1a1a] prose-headings:font-bold prose-headings:tracking-[-0.01em]
                                 prose-h1:text-2xl prose-h1:mt-14 prose-h1:mb-6
-                                prose-h2:text-[26px] prose-h2:mt-16 prose-h2:mb-6 prose-h2:pt-10 prose-h2:border-t-2 prose-h2:border-[#f0ebe4] sm:prose-h2:text-[30px] md:prose-h2:text-[32px]
-                                prose-h3:text-[20px] prose-h3:mt-12 prose-h3:mb-5 sm:prose-h3:text-[22px]
-                                prose-p:text-[16px] prose-p:text-[#3d3d3d] prose-p:leading-[1.85] prose-p:my-6 sm:prose-p:text-[17px] sm:prose-p:leading-[1.9] sm:prose-p:my-7
-                                prose-li:text-[16px] prose-li:text-[#3d3d3d] prose-li:leading-[1.85] prose-li:my-2 sm:prose-li:text-[17px]
-                                prose-ul:my-7 prose-ol:my-7
+                                prose-h2:text-[26px] prose-h2:mt-20 prose-h2:mb-7 prose-h2:pt-12 prose-h2:border-t-2 prose-h2:border-[#f0ebe4] sm:prose-h2:text-[30px] md:prose-h2:text-[32px]
+                                prose-h3:text-[20px] prose-h3:mt-14 prose-h3:mb-6 sm:prose-h3:text-[22px]
+                                prose-p:text-[16px] prose-p:text-[#3d3d3d] prose-p:leading-[1.9] prose-p:my-7 sm:prose-p:text-[17px] sm:prose-p:leading-[1.95] sm:prose-p:my-8
+                                prose-li:text-[16px] prose-li:text-[#3d3d3d] prose-li:leading-[1.85] prose-li:my-2.5 sm:prose-li:text-[17px]
+                                prose-ul:my-8 prose-ol:my-8
                                 prose-strong:text-[#1a1a1a] prose-strong:font-semibold
                                 prose-a:text-primary prose-a:font-medium prose-a:underline prose-a:decoration-primary/30 prose-a:underline-offset-2 hover:prose-a:decoration-primary/70
-                                prose-blockquote:border-l-[3px] prose-blockquote:border-primary/40 prose-blockquote:pl-5 prose-blockquote:py-2 prose-blockquote:text-[#555] prose-blockquote:bg-[#faf8f5] prose-blockquote:rounded-r-xl prose-blockquote:not-italic prose-blockquote:my-10
-                                prose-hr:border-[#ebe5dc] prose-hr:my-14
-                                prose-img:rounded-2xl prose-img:my-10 prose-img:w-full prose-img:shadow-[0_8px_30px_rgba(0,0,0,0.08)]
-                                prose-table:text-sm prose-th:p-3.5 prose-th:border prose-th:border-gray-200 prose-th:bg-[#faf8f5] prose-th:font-semibold prose-th:text-left
+                                prose-blockquote:border-l-[3px] prose-blockquote:border-primary/40 prose-blockquote:pl-5 prose-blockquote:py-2 prose-blockquote:text-[#555] prose-blockquote:bg-[#faf8f5] prose-blockquote:rounded-r-xl prose-blockquote:not-italic prose-blockquote:my-12
+                                prose-hr:border-[#ebe5dc] prose-hr:my-16
+                                prose-img:rounded-2xl prose-img:my-12 prose-img:w-full prose-img:shadow-[0_8px_30px_rgba(0,0,0,0.08)]
+                                prose-table:text-sm prose-table:my-10 prose-th:p-3.5 prose-th:border prose-th:border-gray-200 prose-th:bg-[#faf8f5] prose-th:font-semibold prose-th:text-left
                                 prose-td:p-3.5 prose-td:border prose-td:border-gray-100
                             ">
                                 <ReactMarkdown
@@ -483,7 +483,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                             return (
                                                 <h2
                                                     id={id}
-                                                    className="scroll-mt-32 text-[26px] sm:text-[28px] md:text-[32px] font-bold leading-[1.3] text-[#1a1a1a] mt-16 mb-6 pt-10 border-t-2 border-[#e8e0d4]"
+                                                    className="scroll-mt-32 text-[26px] sm:text-[28px] md:text-[32px] font-bold leading-[1.3] text-[#1a1a1a] mt-20 mb-7 pt-12 border-t-2 border-[#e8e0d4]"
                                                     {...props}
                                                 >
                                                     {children}
@@ -512,12 +512,12 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                         },
                                         // Enhanced image rendering
                                         img: ({ src, alt, ...props }) => (
-                                            <figure className="my-10 sm:my-12">
+                                            <figure className="my-12 sm:my-14">
                                                 <div className="overflow-hidden rounded-2xl shadow-[0_8px_30px_rgba(0,0,0,0.08)]">
                                                     <img src={src} alt={alt || ''} className="w-full h-auto block" loading="lazy" {...props} />
                                                 </div>
                                                 {alt && (
-                                                    <figcaption className="mt-3 text-center text-[13px] text-gray-400 italic">{alt}</figcaption>
+                                                    <figcaption className="mt-3.5 text-center text-[13px] text-gray-400 italic">{alt}</figcaption>
                                                 )}
                                             </figure>
                                         ),
