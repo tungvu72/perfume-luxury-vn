@@ -547,7 +547,8 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                         ),
                                     }}
                                 >
-                                    {post.body}
+                                    {/* Strip any H1 from body — title is already rendered in article header */}
+                                    {(post.body || '').replace(/^#\s+.+\n*/m, '').trim()}
                                 </ReactMarkdown>
                             </article>
 
