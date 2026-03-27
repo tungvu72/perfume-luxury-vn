@@ -545,6 +545,12 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                                 <span>{children}</span>
                                             </li>
                                         ),
+                                        // Table — premium scroll wrapper
+                                        table: ({ children, ...props }) => (
+                                            <div className="table-wrapper overflow-x-auto -webkit-overflow-scrolling-touch my-7 rounded-xl border border-[#e8e3dc] bg-white shadow-[0_2px_8px_rgba(0,0,0,0.03)]">
+                                                <table {...props}>{children}</table>
+                                            </div>
+                                        ),
                                     }}
                                 >
                                     {/* Strip any H1 from body — title is already rendered in article header */}
