@@ -320,45 +320,46 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                     {displayedProducts.map((product, i) => (
                         <div key={product.id} className="relative group/card">
                             <Link href={getProductUrl(product)}
-                                className="flex items-center gap-3 md:gap-5 rounded-2xl border border-[#eae5dd] bg-white p-3 md:p-4 shadow-[0_2px_12px_rgba(0,0,0,0.04)] transition-all hover:-translate-y-0.5 hover:border-primary/40 hover:shadow-[0_8px_24px_rgba(0,0,0,0.08)] group">
+                                className="flex items-center gap-2.5 md:gap-5 rounded-2xl border border-[#eae5dd] bg-white p-3 md:p-4 shadow-[0_2px_12px_rgba(0,0,0,0.04)] transition-all hover:-translate-y-0.5 hover:border-primary/40 hover:shadow-[0_8px_24px_rgba(0,0,0,0.08)] group">
                                 {/* Rank number */}
-                                <div className="w-7 md:w-7 text-center text-[15px] md:text-lg font-bold text-gray-300 group-hover:text-primary/40 transition-colors tabular-nums">
+                                <div className="w-6 md:w-7 text-center text-[14px] md:text-lg font-bold text-gray-300 group-hover:text-primary/40 transition-colors tabular-nums flex-shrink-0">
                                     {String(i + 1).padStart(2, '0')}
                                 </div>
                                 {/* Image frame */}
-                                <div className="w-[72px] h-[72px] md:w-[110px] md:h-[110px] flex-shrink-0 rounded-xl bg-[#f7f5f2] overflow-hidden relative"
-                                     style={{ padding: '6px' }}>
+                                <div className="w-[64px] h-[64px] md:w-[110px] md:h-[110px] flex-shrink-0 rounded-xl bg-[#f7f5f2] overflow-hidden relative"
+                                     style={{ padding: '4px' }}>
                                     <Image
                                         src={product.image}
                                         alt={product.name}
                                         fill
-                                        sizes="(max-width: 768px) 72px, 110px"
+                                        sizes="(max-width: 768px) 64px, 110px"
                                         className="object-contain mix-blend-multiply p-1 group-hover:scale-105 transition-transform duration-300"
                                     />
                                 </div>
                                 {/* Text block */}
                                 <div className="flex-1 min-w-0">
-                                    <div className="flex items-center gap-2 mb-0.5">
-                                        <span className="text-[11px] md:text-[10px] font-bold text-primary tracking-[1.5px] uppercase truncate">{product.brand}</span>
-                                        <span className="text-[10px] md:text-[9px] px-1.5 py-0.5 bg-gray-100 rounded text-gray-400 font-semibold flex-shrink-0">{product.gender === 'nam' ? '♂ Nam' : product.gender === 'nu' ? '♀ Nữ' : '⚡ Uni'}</span>
+                                    <div className="flex items-center gap-1.5 md:gap-2 mb-0.5">
+                                        <span className="text-[11px] md:text-[10px] font-bold text-primary tracking-[1px] md:tracking-[1.5px] uppercase truncate">{product.brand}</span>
+                                        <span className="hidden md:inline text-[9px] px-1.5 py-0.5 bg-gray-100 rounded text-gray-400 font-semibold flex-shrink-0">{product.gender === 'nam' ? '♂ Nam' : product.gender === 'nu' ? '♀ Nữ' : '⚡ Uni'}</span>
                                     </div>
-                                    <h3 className="text-[15px] md:text-[17px] font-semibold leading-snug text-[#1a1a1a] group-hover:text-primary transition-colors line-clamp-2">{product.name}</h3>
-                                    <div className="text-[12px] md:text-[11px] text-gray-400 mt-1 flex items-center gap-2 flex-wrap">
+                                    <h3 className="text-[14px] md:text-[17px] font-semibold leading-snug text-[#1a1a1a] group-hover:text-primary transition-colors line-clamp-1 md:line-clamp-2">{product.name}</h3>
+                                    <div className="text-[12px] md:text-[11px] text-gray-400 mt-0.5 md:mt-1 flex items-center gap-1.5 md:gap-2 flex-wrap">
+                                        <span className="font-semibold text-primary md:hidden">{product.score.total}</span>
                                         <span className="font-medium text-gray-600">{product.basePrice.toLocaleString()}đ</span>
                                         {product.longevity && (
                                             <span>⏱ {product.longevity}h</span>
                                         )}
                                         {product.sillage && product.sillage >= 8 && (
-                                            <span>💨 Mạnh</span>
+                                            <span className="hidden md:inline">💨 Mạnh</span>
                                         )}
                                     </div>
                                 </div>
-                                {/* Score */}
-                                <div className="flex flex-col items-center gap-0.5 flex-shrink-0">
-                                    <div className="w-11 h-11 md:w-14 md:h-14 rounded-full border-2 border-primary/20 bg-primary/5 flex items-center justify-center">
-                                        <span className="text-[15px] md:text-lg font-bold text-primary">{product.score.total}</span>
+                                {/* Score - desktop only */}
+                                <div className="hidden md:flex flex-col items-center gap-0.5 flex-shrink-0">
+                                    <div className="w-14 h-14 rounded-full border-2 border-primary/20 bg-primary/5 flex items-center justify-center">
+                                        <span className="text-lg font-bold text-primary">{product.score.total}</span>
                                     </div>
-                                    <div className="text-[9px] md:text-[7px] text-gray-400 font-bold uppercase tracking-wider">Điểm</div>
+                                    <div className="text-[7px] text-gray-400 font-bold uppercase tracking-wider">Điểm</div>
                                 </div>
                             </Link>
                             <CompareButton product={product} />
