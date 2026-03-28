@@ -320,7 +320,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                     {displayedProducts.map((product, i) => (
                         <div key={product.id} className="relative group/card">
                             <Link href={getProductUrl(product)}
-                                className="flex items-center gap-2.5 md:gap-5 rounded-2xl border border-[#eae5dd] bg-white p-3 md:p-4 shadow-[0_2px_12px_rgba(0,0,0,0.04)] transition-all hover:-translate-y-0.5 hover:border-primary/40 hover:shadow-[0_8px_24px_rgba(0,0,0,0.08)] group">
+                                className="flex items-center gap-2.5 md:gap-5 rounded-2xl border border-[#eae5dd] bg-white p-3 md:p-4 shadow-[0_2px_12px_rgba(0,0,0,0.04)] transition-all hover:-translate-y-0.5 hover:border-primary/40 hover:shadow-[0_8px_24px_rgba(0,0,0,0.08)] group overflow-hidden">
                                 {/* Rank number */}
                                 <div className="w-6 md:w-7 text-center text-[14px] md:text-lg font-bold text-gray-300 group-hover:text-primary/40 transition-colors tabular-nums flex-shrink-0">
                                     {String(i + 1).padStart(2, '0')}
