@@ -2,20 +2,20 @@
   "id": "pour-homme",
   "brandSlug": "dior",
   "brand": "DIOR",
-  "name": "Dior Pour Homme",
-  "subName": "Eau de Toilette",
-  "perfumer": "François Demachy",
+  "name": "Dior Homme",
+  "subName": "Eau de Toilette — Dior Homme 2005",
+  "perfumer": "Olivier Polge",
   "gender": "nam",
   "image": "/images/products/dior-pour-homme-main.jpg",
   "images": [
     {
-      "url": "/images/products/dior-homme-sport-2021-main.jpg",
-      "source": "fragram",
-      "caption": "Dior Pour Homme chính hãng",
+      "url": "/images/products/dior-pour-homme-main.jpg",
+      "source": "fragrantica",
+      "caption": "Dior Homme chính hãng",
       "verified": true
     }
   ],
-  "description": "Chai nam iris-cacao-cam bergamot kiểu quý ông French — cam bergamot, xô thơm, iris, cacao, hổ phách, cỏ hương bài, gỗ đàn hương và xạ hương. Iris, sạch và rất Dior Homme.",
+  "description": "Chai iris nam kinh điển 2005 — cam bergamot, xô thơm, iris, cacao, hổ phách, cỏ hương bài, gỗ tuyết tùng và xạ hương. Thanh lịch, bột iris và rất quý ông Pháp.",
   "article": "### Ai không nên mua?\n\nNếu bạn nhầm với Dior Homme — thì Pour Homme là phiên bản KHÁC: 2022 reformulate dòng Homme, bỏ tên \"Homme\" thành \"Pour Homme\". DNA iris vẫn ở nhưng nhẹ hơn, tươi hơn, dễ mặc hơn Homme gốc. Gita chú thích: nốt cacao ở đây nhẹ, subtile, không gourmand.\n\n### Có đáng tiền không?\n\nGiá Dior EDT. So với Dior Homme EDT gốc — Pour Homme nhẹ hơn, ít iris bột hơn, tươi hơn. So với Bleu de Chanel EDT — cùng office — thì Pour Homme có iris mà Bleu thiếu. Bám 5-6 giờ (EDT).\n\n### Nên dùng khi nào?\n\nĐi làm, meeting, ban ngày mát. Xịt 3 nhát cổ. Dùng quanh năm nhưng xuân thu đẹp nhất. Chai đi làm tinh tế nhất Dior.",
   "verdict": "Iris nhẹ — Dior Homme rename. Demachy tươi hơn gốc. Office tinh tế. Quý ông Pháp nhẹ nhàng.",
   "verdictShort": "IRIS NHẸ, OFFICE, QUÝ ÔNG PHÁP",
@@ -40,8 +40,8 @@
       "icon": "🎩"
     }
   ],
-  "longevity": 5,
-  "sillage": 5,
+  "longevity": 7,
+  "sillage": 7,
   "seasons": {
     "spring": 78,
     "summer": 52,
@@ -84,28 +84,33 @@
   ],
   "accords": [
     {
-      "name": "Hoa",
+      "name": "Iris",
       "value": 100,
-      "color": "#e91e63"
+      "color": "#9b59b6"
     },
     {
-      "name": "Phấn",
-      "value": 72,
-      "color": "#d7bde2"
+      "name": "Gia vị ấm",
+      "value": 78,
+      "color": "#e67e22"
     },
     {
-      "name": "Gỗ",
-      "value": 55,
+      "name": "Đất",
+      "value": 65,
+      "color": "#8B6914"
+    },
+    {
+      "name": "Cacao",
+      "value": 58,
+      "color": "#5D3A1A"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 45,
       "color": "#8B4513"
-    },
-    {
-      "name": "Cam chanh",
-      "value": 48,
-      "color": "#f1c40f"
     }
   ],
-  "seoTitle": "Dior Pour Homme chính hãng mua ở đâu? Review 2026",
-  "metaDescription": "Đánh giá Dior Pour Homme chính hãng: mùi iris cacao office tinh tế quý ông Pháp, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "seoTitle": "Dior Homme chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Dior Homme chính hãng: mùi iris cacao kinh điển 2005, quý ông Pháp, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
   "tags": [
     "Nam",
     "Office",
