@@ -25,7 +25,7 @@ Nhiều người mới chơi nước hoa hay nghĩ đơn giản: cứ mùi càng
 
 Mùa hè ở Hà Nội và TP.HCM có một bài toán khác. Nhiệt độ cao khiến mùi bung mạnh hơn, dễ bí hơn, và một chai vốn rất đẹp trong phòng lạnh có thể trở nên quá tải khi đi ngoài trời. Một mùi hương bám 10 tiếng nhưng làm người ngồi cạnh thấy nặng từ tiếng đầu tiên thì cũng không phải lựa chọn tốt.
 
-Danh sách dưới đây vì thế không chỉ chọn theo độ bền. Tao ưu tiên thêm 3 thứ: mùi có giữ được sự dễ chịu khi gặp nóng ẩm hay không, có hợp hoàn cảnh dùng thực tế hay không, và số tiền bỏ ra có đáng hay không.
+Danh sách dưới đây vì thế không chỉ chọn theo độ bền. Ba tiêu chí được ưu tiên thêm là: mùi có giữ được sự dễ chịu khi gặp nóng ẩm hay không, có hợp hoàn cảnh dùng thực tế hay không, và số tiền bỏ ra có đáng hay không.
 
 ![Nhiệt độ và độ ẩm ảnh hưởng rất rõ tới khả năng lưu hương của nước hoa nam mùa hè](/images/articles/luu-huong-mua-he-nong.png)
 
@@ -81,7 +81,7 @@ Xem chi tiết: [Creed Aventus](/nuoc-hoa-nam-creed-aventus)
 
 ## 5. Armaf Club de Nuit Intense Man EDP
 
-Nếu ngân sách là yếu tố quan trọng, [Armaf](/thuong-hieu/armaf) Club de Nuit Intense Man EDP vẫn là cái tên rất khó bỏ qua. Tao nhấn mạnh bản EDP, vì đây mới là bản cho độ bền và tổng thể đủ ổn để lên danh sách này.
+Nếu ngân sách là yếu tố quan trọng, [Armaf](/thuong-hieu/armaf) Club de Nuit Intense Man EDP vẫn là cái tên rất khó bỏ qua. Cần nhấn mạnh bản EDP, vì đây mới là bản cho độ bền và tổng thể đủ ổn để lên danh sách này.
 
 CDNIM EDP có một nhược điểm quen thuộc: phần mở đầu hơi gắt và thiếu độ mượt nếu so với những chai đắt tiền hơn. Nhưng sau khoảng 20–30 phút, nó lắng xuống khá ổn và cho hiệu quả thực dụng rất rõ. Xịt sáng đi làm, chiều vẫn còn nền hương trên áo là chuyện hoàn toàn có thể.
 
@@ -143,6 +143,6 @@ Dù dùng chai tốt đến đâu, mùa hè vẫn là bài test khó. Một vài
 
 Nếu chỉ xét đúng một tiêu chí là độ bám và độ hiện diện, Sauvage Elixir vẫn là cái tên nổi bật nhất. Nhưng nếu nhìn theo hướng thực dụng hơn — tức là vừa bám tốt, vừa dễ dùng, vừa hợp nhiều hoàn cảnh — thì Bleu de Chanel Parfum và YSL Y EDP lại là hai lựa chọn dễ sống cùng hơn trong đời thực.
 
-Còn nếu ngân sách là yếu tố quan trọng, CDNIM EDP vẫn là phương án đáng chú ý nhất ở nhóm phổ thông. Và nếu mày đang mới bắt đầu chơi nước hoa, nên đọc thêm [lần đầu mua nước hoa nam nên chọn gì](/lan-dau-mua-nuoc-hoa-nam-nen-chon-gi) trước khi xuống tiền.
+Còn nếu ngân sách là yếu tố quan trọng, CDNIM EDP vẫn là phương án đáng chú ý nhất ở nhóm phổ thông. Và nếu bạn mới bắt đầu chơi nước hoa, nên đọc thêm [lần đầu mua nước hoa nam nên chọn gì](/lan-dau-mua-nuoc-hoa-nam-nen-chon-gi) trước khi xuống tiền.
 
 Cần tham khảo thêm các lựa chọn đang có, có thể ghé trang [nước hoa chính hãng](/).
