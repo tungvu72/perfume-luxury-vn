@@ -132,11 +132,11 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
         <div className="space-y-6">
             {/* Gender */}
             <div>
-                <h4 className="text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">Giới tính</h4>
+                <h4 className="text-[11px] md:text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">Giới tính</h4>
                 <div className="flex flex-wrap gap-2">
                     {[{ id: "nam", label: "Nam 🤵" }, { id: "nu", label: "Nữ 💃" }, { id: "unisex", label: "Unisex ✨" }].map(g => (
                         <button key={g.id} onClick={() => toggleGender(g.id)}
-                            className={`px-4 py-2 rounded-full text-xs font-semibold transition-all ${genderFilter.includes(g.id) ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
+                            className={`px-4 py-2.5 md:py-2 rounded-full text-[13px] md:text-xs font-semibold transition-all ${genderFilter.includes(g.id) ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
                             {g.label}
                         </button>
                     ))}
@@ -145,11 +145,11 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
 
             {/* Season */}
             <div>
-                <h4 className="text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">Phù hợp mùa</h4>
+                <h4 className="text-[11px] md:text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">Phù hợp mùa</h4>
                 <div className="flex flex-wrap gap-2">
                     {([{ id: "spring" as SeasonKey, label: "Xuân 🌸" }, { id: "summer" as SeasonKey, label: "Hạ ☀️" }, { id: "fall" as SeasonKey, label: "Thu 🍂" }, { id: "winter" as SeasonKey, label: "Đông ❄️" }]).map(s => (
                         <button key={s.id} onClick={() => toggleSeason(s.id)}
-                            className={`px-4 py-2 rounded-full text-xs font-semibold transition-all ${seasonFilter.includes(s.id) ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
+                            className={`px-4 py-2.5 md:py-2 rounded-full text-[13px] md:text-xs font-semibold transition-all ${seasonFilter.includes(s.id) ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
                             {s.label}
                         </button>
                     ))}
@@ -158,11 +158,11 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
 
             {/* Longevity */}
             <div>
-                <h4 className="text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">⏱️ Độ lưu hương</h4>
+                <h4 className="text-[11px] md:text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">⏱️ Độ lưu hương</h4>
                 <div className="flex flex-wrap gap-2">
                     {[{ id: "high", label: "Rất lâu (8h+)" }, { id: "mid", label: "Khá (6-8h)" }, { id: "low", label: "Trung bình (<6h)" }].map(l => (
                         <button key={l.id} onClick={() => setLongevityFilter(longevityFilter === l.id ? "" : l.id)}
-                            className={`px-4 py-2 rounded-full text-xs font-semibold transition-all ${longevityFilter === l.id ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
+                            className={`px-4 py-2.5 md:py-2 rounded-full text-[13px] md:text-xs font-semibold transition-all ${longevityFilter === l.id ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
                             {l.label}
                         </button>
                     ))}
@@ -171,11 +171,11 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
 
             {/* Sillage */}
             <div>
-                <h4 className="text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">💨 Độ tỏa hương</h4>
+                <h4 className="text-[11px] md:text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">💨 Độ tỏa hương</h4>
                 <div className="flex flex-wrap gap-2">
                     {[{ id: "strong", label: "Mạnh (8+)" }, { id: "moderate", label: "Vừa (6-8)" }, { id: "intimate", label: "Nhẹ (<6)" }].map(s => (
                         <button key={s.id} onClick={() => setSillageFilter(sillageFilter === s.id ? "" : s.id)}
-                            className={`px-4 py-2 rounded-full text-xs font-semibold transition-all ${sillageFilter === s.id ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
+                            className={`px-4 py-2.5 md:py-2 rounded-full text-[13px] md:text-xs font-semibold transition-all ${sillageFilter === s.id ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
                             {s.label}
                         </button>
                     ))}
@@ -184,7 +184,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
 
             {/* Price Range */}
             <div>
-                <h4 className="text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">💰 Tầm giá</h4>
+                <h4 className="text-[11px] md:text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">💰 Tầm giá</h4>
                 <div className="flex flex-wrap gap-2">
                     {[
                         { id: "budget", label: "Dưới 2.5tr" },
@@ -193,7 +193,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                         { id: "luxury", label: "Trên 8tr" },
                     ].map(p => (
                         <button key={p.id} onClick={() => setPriceFilter(priceFilter === p.id ? "" : p.id)}
-                            className={`px-4 py-2 rounded-full text-xs font-semibold transition-all ${priceFilter === p.id ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
+                            className={`px-4 py-2.5 md:py-2 rounded-full text-[13px] md:text-xs font-semibold transition-all ${priceFilter === p.id ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
                             {p.label}
                         </button>
                     ))}
@@ -202,17 +202,17 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
 
             {/* Brand */}
             <div>
-                <h4 className="text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">Thương hiệu</h4>
+                <h4 className="text-[11px] md:text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-3">Thương hiệu</h4>
                 <div className="flex flex-wrap gap-2">
                     {displayedBrands.map(b => (
                         <button key={b} onClick={() => toggleBrand(b)}
-                            className={`px-3 py-1.5 rounded-full text-[10px] font-semibold transition-all ${brandFilter.includes(b) ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
+                            className={`px-3 py-1.5 rounded-full text-[11px] md:text-[10px] font-semibold transition-all ${brandFilter.includes(b) ? 'bg-foreground text-white' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}>
                             {b}
                         </button>
                     ))}
                 </div>
                 {allBrands.length > 10 && (
-                    <button onClick={() => setShowAllBrands(!showAllBrands)} className="flex items-center gap-1 text-[10px] text-primary font-semibold mt-2 hover:underline">
+                    <button onClick={() => setShowAllBrands(!showAllBrands)} className="flex items-center gap-1 text-[11px] md:text-[10px] text-primary font-semibold mt-2 hover:underline">
                         <ChevronDown size={12} className={`transition-transform ${showAllBrands ? 'rotate-180' : ''}`} />
                         {showAllBrands ? 'Thu gọn' : `Xem thêm ${allBrands.length - 10} thương hiệu`}
                     </button>
@@ -220,8 +220,8 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
             </div>
 
             {activeFilterCount > 0 && (
-                <button onClick={clearAll} className="flex items-center gap-2 text-xs text-red-500 font-semibold hover:underline">
-                    <RotateCcw size={12} />
+                <button onClick={clearAll} className="flex items-center gap-2 text-[13px] md:text-xs text-red-500 font-semibold hover:underline">
+                    <RotateCcw size={14} />
                     Xoá tất cả bộ lọc ({activeFilterCount})
                 </button>
             )}
@@ -229,16 +229,16 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
     );
 
     return (
-        <div className="max-w-[1200px] mx-auto px-5 py-8 flex gap-10">
+        <div className="max-w-[1200px] mx-auto px-4 md:px-5 py-4 md:py-8 flex gap-10">
             {/* MOBILE FILTER TOGGLE */}
-            <div className="md:hidden sticky top-0 z-40 bg-white border-b border-[var(--border)] px-4 py-2.5 -mx-5 mb-3">
+            <div className="md:hidden sticky top-0 z-40 bg-white border-b border-[var(--border)] px-4 py-3 -mx-4 mb-3">
                 <div className="flex items-center justify-between">
                     <button onClick={() => setShowMobileFilter(!showMobileFilter)}
-                        className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider">
-                        <SlidersHorizontal size={14} /> Bộ lọc
+                        className="flex items-center gap-2 text-[13px] font-bold uppercase tracking-wider">
+                        <SlidersHorizontal size={16} /> Bộ lọc
                         {activeFilterCount > 0 && <span className="bg-primary text-white w-5 h-5 rounded-full text-[10px] flex items-center justify-center">{activeFilterCount}</span>}
                     </button>
-                    <span className="text-[10px] text-gray-400">{filteredProducts.length} kết quả</span>
+                    <span className="text-[12px] text-gray-400 font-medium">{filteredProducts.length} kết quả</span>
                 </div>
                 {showMobileFilter && (
                     <div className="mt-3 pb-2 border-t border-gray-100 pt-3 max-h-[60vh] overflow-y-auto -webkit-overflow-scrolling-touch">
@@ -264,7 +264,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                 <div className="flex overflow-x-auto md:flex-wrap gap-2 mb-4 md:mb-6 pb-3 md:pb-4 border-b border-gray-100 scrollbar-hide">
                     {popularTags.map(tag => (
                         <button key={tag} onClick={() => setTagFilter(tagFilter === tag ? "" : tag)}
-                            className={`text-[10px] font-bold px-3 py-1.5 rounded-full transition-all whitespace-nowrap flex-shrink-0 ${tagFilter === tag
+                            className={`text-[12px] md:text-[10px] font-bold px-3.5 md:px-3 py-2 md:py-1.5 rounded-full transition-all whitespace-nowrap flex-shrink-0 ${tagFilter === tag
                                 ? 'bg-primary text-white'
                                 : 'bg-gray-50 text-gray-500 hover:bg-primary/10 hover:text-primary'
                                 }`}>
@@ -299,13 +299,13 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
 
                 <div className="mb-4 md:mb-6 flex flex-col gap-2 md:gap-3 rounded-2xl md:rounded-[24px] border border-[#eadfce] bg-white p-3 md:p-4 shadow-[0_12px_35px_rgba(27,18,13,0.03)] md:flex-row md:items-center md:justify-between">
                     <div>
-                        <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Kết quả hiện tại</div>
-                        <span className="mt-1 block text-sm text-gray-500">{filteredProducts.length} lựa chọn phù hợp với bộ lọc đang chọn</span>
+                        <div className="text-[12px] md:text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Kết quả hiện tại</div>
+                        <span className="mt-0.5 block text-[13px] md:text-sm text-gray-500">{filteredProducts.length} lựa chọn phù hợp với bộ lọc đang chọn</span>
                     </div>
                     <div className="flex items-center gap-2">
-                        <ArrowUpDown size={12} className="text-gray-400" />
+                        <ArrowUpDown size={14} className="text-gray-400" />
                         <select value={sortBy} onChange={(e) => setSortBy(e.target.value as SortOption)}
-                            className="text-xs font-semibold bg-transparent outline-none cursor-pointer text-gray-600">
+                            className="text-[13px] md:text-xs font-semibold bg-transparent outline-none cursor-pointer text-gray-600">
                             <option value="score">Điểm cao nhất</option>
                             <option value="compliments">Nịnh mũi nhất</option>
                             <option value="longevity">Bền nhất</option>
@@ -316,49 +316,49 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                     </div>
                 </div>
 
-                <div className="flex flex-col gap-4">
+                <div className="flex flex-col gap-3 md:gap-4">
                     {displayedProducts.map((product, i) => (
                         <div key={product.id} className="relative group/card">
                             <Link href={getProductUrl(product)}
                                 className="flex items-center gap-3 md:gap-5 rounded-2xl border border-[#eae5dd] bg-white p-3 md:p-4 shadow-[0_2px_12px_rgba(0,0,0,0.04)] transition-all hover:-translate-y-0.5 hover:border-primary/40 hover:shadow-[0_8px_24px_rgba(0,0,0,0.08)] group">
                                 {/* Rank number */}
-                                <div className="w-7 text-center text-base md:text-lg font-bold text-gray-300 group-hover:text-primary/40 transition-colors tabular-nums">
+                                <div className="w-7 md:w-7 text-center text-[15px] md:text-lg font-bold text-gray-300 group-hover:text-primary/40 transition-colors tabular-nums">
                                     {String(i + 1).padStart(2, '0')}
                                 </div>
-                                {/* Image frame — fixed size, neutral bg, consistent padding */}
-                                <div className="w-[88px] h-[88px] md:w-[110px] md:h-[110px] flex-shrink-0 rounded-xl bg-[#f7f5f2] overflow-hidden relative"
-                                     style={{ padding: '8px' }}>
+                                {/* Image frame */}
+                                <div className="w-[72px] h-[72px] md:w-[110px] md:h-[110px] flex-shrink-0 rounded-xl bg-[#f7f5f2] overflow-hidden relative"
+                                     style={{ padding: '6px' }}>
                                     <Image
                                         src={product.image}
                                         alt={product.name}
                                         fill
-                                        sizes="(max-width: 768px) 88px, 110px"
-                                        className="object-contain mix-blend-multiply p-1.5 group-hover:scale-105 transition-transform duration-300"
+                                        sizes="(max-width: 768px) 72px, 110px"
+                                        className="object-contain mix-blend-multiply p-1 group-hover:scale-105 transition-transform duration-300"
                                     />
                                 </div>
                                 {/* Text block */}
                                 <div className="flex-1 min-w-0">
                                     <div className="flex items-center gap-2 mb-0.5">
-                                        <span className="text-[10px] font-bold text-primary tracking-[1.5px] uppercase truncate">{product.brand}</span>
-                                        <span className="text-[9px] px-1.5 py-0.5 bg-gray-100 rounded text-gray-400 font-semibold flex-shrink-0">{product.gender === 'nam' ? '♂ Nam' : product.gender === 'nu' ? '♀ Nữ' : '⚡ Uni'}</span>
+                                        <span className="text-[11px] md:text-[10px] font-bold text-primary tracking-[1.5px] uppercase truncate">{product.brand}</span>
+                                        <span className="text-[10px] md:text-[9px] px-1.5 py-0.5 bg-gray-100 rounded text-gray-400 font-semibold flex-shrink-0">{product.gender === 'nam' ? '♂ Nam' : product.gender === 'nu' ? '♀ Nữ' : '⚡ Uni'}</span>
                                     </div>
                                     <h3 className="text-[15px] md:text-[17px] font-semibold leading-snug text-[#1a1a1a] group-hover:text-primary transition-colors line-clamp-2">{product.name}</h3>
-                                    <div className="text-[11px] text-gray-400 mt-1 flex items-center gap-2 flex-wrap">
-                                        <span className="font-medium text-gray-500">{product.basePrice.toLocaleString()}đ</span>
+                                    <div className="text-[12px] md:text-[11px] text-gray-400 mt-1 flex items-center gap-2 flex-wrap">
+                                        <span className="font-medium text-gray-600">{product.basePrice.toLocaleString()}đ</span>
                                         {product.longevity && (
-                                            <span className="hidden md:inline">⏱ {product.longevity}h</span>
+                                            <span>⏱ {product.longevity}h</span>
                                         )}
                                         {product.sillage && product.sillage >= 8 && (
-                                            <span className="hidden md:inline">💨 Mạnh</span>
+                                            <span>💨 Mạnh</span>
                                         )}
                                     </div>
                                 </div>
                                 {/* Score */}
                                 <div className="flex flex-col items-center gap-0.5 flex-shrink-0">
-                                    <div className="w-12 h-12 md:w-14 md:h-14 rounded-full border-2 border-primary/20 bg-primary/5 flex items-center justify-center">
-                                        <span className="text-base md:text-lg font-bold text-primary">{product.score.total}</span>
+                                    <div className="w-11 h-11 md:w-14 md:h-14 rounded-full border-2 border-primary/20 bg-primary/5 flex items-center justify-center">
+                                        <span className="text-[15px] md:text-lg font-bold text-primary">{product.score.total}</span>
                                     </div>
-                                    <div className="text-[7px] text-gray-400 font-bold uppercase tracking-wider">Điểm</div>
+                                    <div className="text-[9px] md:text-[7px] text-gray-400 font-bold uppercase tracking-wider">Điểm</div>
                                 </div>
                             </Link>
                             <CompareButton product={product} />
