@@ -231,7 +231,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
     return (
         <div className="max-w-[1200px] mx-auto px-5 py-8 flex gap-10">
             {/* MOBILE FILTER TOGGLE */}
-            <div className="md:hidden sticky top-0 z-40 bg-white border-b border-[var(--border)] px-5 py-3 -mx-5 mb-4">
+            <div className="md:hidden sticky top-0 z-40 bg-white border-b border-[var(--border)] px-4 py-2.5 -mx-5 mb-3">
                 <div className="flex items-center justify-between">
                     <button onClick={() => setShowMobileFilter(!showMobileFilter)}
                         className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider">
@@ -241,7 +241,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                     <span className="text-[10px] text-gray-400">{filteredProducts.length} kết quả</span>
                 </div>
                 {showMobileFilter && (
-                    <div className="mt-4 pb-2 border-t border-gray-100 pt-4 max-h-[60vh] overflow-y-auto -webkit-overflow-scrolling-touch">
+                    <div className="mt-3 pb-2 border-t border-gray-100 pt-3 max-h-[60vh] overflow-y-auto -webkit-overflow-scrolling-touch">
                         <FilterPanel />
                     </div>
                 )}
@@ -261,10 +261,10 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
             {/* PRODUCT LIST */}
             <div className="flex-1">
                 {/* QUICK TAG ROW */}
-                <div className="flex flex-wrap gap-2 mb-6 pb-4 border-b border-gray-100">
+                <div className="flex overflow-x-auto md:flex-wrap gap-2 mb-4 md:mb-6 pb-3 md:pb-4 border-b border-gray-100 scrollbar-hide">
                     {popularTags.map(tag => (
                         <button key={tag} onClick={() => setTagFilter(tagFilter === tag ? "" : tag)}
-                            className={`text-[10px] font-bold px-3 py-1.5 rounded-full transition-all ${tagFilter === tag
+                            className={`text-[10px] font-bold px-3 py-1.5 rounded-full transition-all whitespace-nowrap flex-shrink-0 ${tagFilter === tag
                                 ? 'bg-primary text-white'
                                 : 'bg-gray-50 text-gray-500 hover:bg-primary/10 hover:text-primary'
                                 }`}>
@@ -297,7 +297,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                     </div>
                 )}
 
-                <div className="mb-6 flex flex-col gap-3 rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_12px_35px_rgba(27,18,13,0.03)] md:flex-row md:items-center md:justify-between">
+                <div className="mb-4 md:mb-6 flex flex-col gap-2 md:gap-3 rounded-2xl md:rounded-[24px] border border-[#eadfce] bg-white p-3 md:p-4 shadow-[0_12px_35px_rgba(27,18,13,0.03)] md:flex-row md:items-center md:justify-between">
                     <div>
                         <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Kết quả hiện tại</div>
                         <span className="mt-1 block text-sm text-gray-500">{filteredProducts.length} lựa chọn phù hợp với bộ lọc đang chọn</span>
