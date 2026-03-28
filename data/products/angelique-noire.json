@@ -6,10 +6,10 @@
   "subName": "Eau de Parfum",
   "perfumer": "Daniela Andrier",
   "gender": "unisex",
-  "image": "/images/products/guerlain-angelique-noire-main.avif",
+  "image": "/images/products/guerlain-angelique-noire-main.jpg",
   "images": [
     {
-      "url": "/images/products/guerlain-angelique-noire-main.avif",
+      "url": "/images/products/guerlain-angelique-noire-main.jpg",
       "source": "fragram",
       "caption": "Guerlain Angélique Noire Eau de Parfum chính hãng",
       "verified": true

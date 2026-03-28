@@ -6,10 +6,10 @@
   "subName": "Eau de Parfum",
   "perfumer": "Henri Robert",
   "gender": "nu",
-  "image": "/images/products/chanel-no-19-eau-de-parfum-main.webp",
+  "image": "/images/products/chanel-no-19-eau-de-parfum-main.jpg",
   "images": [
     {
-      "url": "/images/products/chanel-no-19-eau-de-parfum-main.webp",
+      "url": "/images/products/chanel-no-19-eau-de-parfum-main.jpg",
       "source": "fragram",
       "caption": "Chanel N°19 EDP chính hãng",
       "verified": true

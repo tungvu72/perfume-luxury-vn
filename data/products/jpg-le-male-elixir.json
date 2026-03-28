@@ -6,10 +6,10 @@
   "subName": "Parfum",
   "perfumer": "Quentin Bisch",
   "gender": "nam",
-  "image": "/images/products/jpg-le-male-elixir-bottle.jpg",
+  "image": "/images/products/jpg-le-male-elixir-main.jpg",
   "images": [
     {
-      "url": "/images/products/jpg-le-male-elixir-bottle.jpg",
+      "url": "/images/products/jpg-le-male-elixir-main.jpg",
       "source": "studio",
       "caption": "JPG Le Male Elixir chính hãng",
       "verified": true

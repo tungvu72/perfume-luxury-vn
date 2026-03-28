@@ -6,10 +6,10 @@
   "subName": "Eau de Toilette",
   "perfumer": "Francis Kurkdjian",
   "gender": "nam",
-  "image": "/images/products/jpg-le-male-edt-bottle.jpg",
+  "image": "/images/products/jpg-le-male-edt-main.jpg",
   "images": [
     {
-      "url": "/images/products/jpg-le-male-edt-bottle.jpg",
+      "url": "/images/products/jpg-le-male-edt-main.jpg",
       "source": "fragram",
       "caption": "JPG Le Male Eau de Toilette chính hãng",
       "verified": true

@@ -16,7 +16,7 @@
     }
   ],
   "description": "Đây là kiểu mùi nam ngọt trái cây, vui và khá bốc. Hợp đi tối, đi chơi hoặc người trẻ thích mùi nổi. Nếu bạn thích mùi nghiêm túc và kín đáo, bản này không phải lựa chọn hợp nhất.",
-  "article": "Tại Maison de SON, Ultra Male là một trong những chai nước hoa nam nổi tiếng nhất ở nhóm ngọt trẻ đi tối. Nó được yêu thích vì vừa vui, vừa bắt mũi, vừa dễ tạo cảm giác năng động và nổi bật.\n\n### Nguồn gốc và xuất xứ\nUltra Male thuộc gia đình Le Male của Jean Paul Gaultier, thương hiệu Pháp nổi tiếng với những mùi có cá tính rõ và rất dễ nhớ.\n\n### Ra mắt khi nào?\nUltra Male ra mắt năm 2015 và nhanh chóng trở thành cái tên quen thuộc với người thích mùi nam ngọt đi tối.\n\n### Câu chuyện ra đời\nNếu Le Male EDT thiên cổ điển hơn, Ultra Male được tạo ra cho nhóm thích phong cách trẻ, nổi và có độ vui nhiều hơn. Đây là phiên bản rất dễ nhận ra của cả line.\n\n### Có những phiên bản nào gần nó?\n- Le Male EDT: cổ điển hơn\n- Ultra Male: ngọt trái cây và trẻ hơn\n- Le Male Le Parfum: sang và dày hơn\n\n### Mùi hương mang lại cảm giác gì?\nMở đầu là lê, bergamot và chút ngọt trái cây. Sau đó quế, lavender, vanilla đi lên làm tổng thể vừa ngọt vừa nổi và rất dễ gây chú ý.\n\n### Khi nào nên dùng?\n- Đi tối, tụ tập, tiệc tùng\n- Hợp người trẻ thích mùi ngọt, vui, nổi\n- Không hợp lắm nếu bạn cần mùi kín đáo cho văn phòng nhỏ\n\n### Nhận xét của Maison de SON\nUltra Male hấp dẫn vì hiệu ứng mạnh và dễ vui. Điểm yếu là nó không hợp tất cả hoàn cảnh, nhất là trời nóng và nơi kín.",
+  "article": "### Ai không nên mua?\n\nNếu bạn thích mùi nghiêm túc, kín đáo hoặc cần một chai đi làm văn phòng mỗi ngày, Ultra Male không phải hướng đó. Đây là chai rất nổi và ngọt, nên người không quen mùi ngọt mạnh hoặc đang ở không gian kín nhỏ sẽ thấy nó hơi áp lực. Trời Sài Gòn nóng giữa trưa xịt nhiều nhát cũng dễ khiến mùi lê và vani bị kẹo hóa, mất đi cái vui duyên mà nó vốn có.\n\n### Có đáng tiền không?\n\nUltra Male ở phân khúc designer tầm trung, giá cực kỳ phải chăng cho chất lượng nhận được. Lưu hương rất tốt, tỏa hương mạnh — chai này hiệu năng vượt phân khúc. So với Versace Dylan Blue cùng tầm giá thì Ultra Male ngọt và bốc hơn rõ rệt, hợp đi tối hơn nhiều. So với Le Male EDT cùng hãng thì Ultra Male tươi và trẻ hơn, còn Le Male có chiều sâu aromatic kiểu cổ điển hơn. Nếu chưa thử bao giờ nên chiết 10ml trước.\n\n### Nên dùng khi nào?\n\nUltra Male sinh ra cho buổi tối, tiệc tùng, đi bar và những dịp muốn mùi tạo không khí. Mùa thu đông lên đẹp nhất. Xịt 2–3 nhát là đủ — đừng tham, chai này tỏa rất mạnh. Ban ngày trời mát có thể dùng 1–2 nhát nhẹ nhàng. Trong phòng máy lạnh tối, Ultra Male lên vani và lê rất ngọt cuốn và dễ tạo cảm giác năng động.",
   "verdict": "Mùi này ngọt, vui và khá bốc. Hợp đi tối hoặc lúc muốn mùi nam nổi hơn bình thường. Nếu bạn thích sự kín đáo, bản này hơi ồn.",
   "verdictShort": "NGỌT, VUI, KHÁ BỐC",
   "score": {
@@ -27,18 +27,9 @@
     "total": 8.6
   },
   "vibes": [
-    {
-      "label": "Tiệc tùng",
-      "icon": "🎉"
-    },
-    {
-      "label": "Buổi tối",
-      "icon": "🌙"
-    },
-    {
-      "label": "Trẻ trung",
-      "icon": "⚡"
-    }
+    { "label": "Tiệc tùng", "icon": "🎉" },
+    { "label": "Buổi tối", "icon": "🌙" },
+    { "label": "Trẻ trung", "icon": "⚡" }
   ],
   "longevity": 9,
   "sillage": 9,
@@ -53,70 +44,29 @@
     "night": 98
   },
   "topNotes": [
-    {
-      "name": "Lê"
-    },
-    {
-      "name": "Cam bergamot"
-    },
-    {
-      "name": "Chanh"
-    }
+    { "name": "Lê" },
+    { "name": "Cam bergamot" },
+    { "name": "Chanh" }
   ],
   "middleNotes": [
-    {
-      "name": "Quế"
-    },
-    {
-      "name": "Lavender"
-    }
+    { "name": "Quế" },
+    { "name": "Oải hương" }
   ],
   "baseNotes": [
-    {
-      "name": "Vanilla"
-    },
-    {
-      "name": "Hổ phách"
-    },
-    {
-      "name": "Hoắc hương"
-    }
+    { "name": "Vani" },
+    { "name": "Hổ phách" },
+    { "name": "Hoắc hương" }
   ],
   "accords": [
-    {
-      "name": "Ngọt",
-      "value": 90,
-      "color": "#8B0000"
-    },
-    {
-      "name": "Trái cây",
-      "value": 56,
-      "color": "#f39c12"
-    },
-    {
-      "name": "Gia vị ấm",
-      "value": 44,
-      "color": "#e67e22"
-    },
-    {
-      "name": "Hổ phách",
-      "value": 36,
-      "color": "#d4a017"
-    }
+    { "name": "Ngọt", "value": 90, "color": "#8B0000" },
+    { "name": "Trái cây", "value": 56, "color": "#f39c12" },
+    { "name": "Gia vị ấm", "value": 44, "color": "#e67e22" },
+    { "name": "Hổ phách", "value": 36, "color": "#d4a017" }
   ],
   "seoTitle": "JPG Ultra Male chính hãng giá bao nhiêu? Review 2026",
   "metaDescription": "Đánh giá JPG Ultra Male chính hãng: mùi lê vanilla ngọt đậm, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-  "tags": [
-    "Nam",
-    "Buổi tối",
-    "Trẻ trung",
-    "Cao cấp"
-  ],
-  "sizes": [
-    "10ml Chiết",
-    "75ml Fullbox",
-    "125ml Fullbox"
-  ],
+  "tags": ["Nam", "Buổi tối", "Trẻ trung", "Cao cấp"],
+  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
   "basePrice": 2650000,
   "shopeeOffers": []
 }
