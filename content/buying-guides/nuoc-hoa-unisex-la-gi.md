@@ -116,7 +116,7 @@ Bạn có thể bỏ qua nhóm này nếu:
 - bạn đang tìm hình ảnh rất rõ ràng — cực kỳ nam tính, hoặc cực kỳ quyến rũ theo kiểu riêng
 - bạn muốn một chai cá tính mạnh, không cần số đông thích cũng được
 
-Ví dụ, nếu bạn biết mình thích kiểu lịch sự, nam tính, công sở thì những lựa chọn như **[Bleu de Chanel EDP](/nuoc-hoa-nam-chanel-bleu-chanel-edp)** đôi khi sát gu hơn một chai unisex "an toàn nhưng chưa đủ đúng".
+Ví dụ, nếu bạn biết mình thích kiểu lịch sự, nam tính, công sở thì những lựa chọn như **[Bleu de Chanel EDP](/nuoc-hoa-nam-chanel-bleu-de-chanel-eau-de-parfum)** đôi khi sát gu hơn một chai unisex "an toàn nhưng chưa đủ đúng".
 
 Nếu muốn xem thêm cách các dòng kinh điển được định vị, có thể ghé trang **[Chanel](/chanel)** để so sánh.
 

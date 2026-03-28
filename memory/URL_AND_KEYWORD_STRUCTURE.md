@@ -12,7 +12,7 @@
 | Bảng xếp hạng | `/bang-xep-hang` | `.../bang-xep-hang` |
 | Thương hiệu (list) | `/thuong-hieu` | `.../thuong-hieu` |
 | **Thương hiệu (detail)** | `/[brand-slug]` | `.../chanel`, `.../dior` |
-| **Sản phẩm (detail)** | `/nuoc-hoa-{gender}-{brand}-{id}` | `.../nuoc-hoa-nam-dior-sauvage-elixir` |
+| **Sản phẩm (detail)** | `/nuoc-hoa-{gender}-{brand}-{product-slug}` | `.../nuoc-hoa-nam-dior-sauvage-elixir` |
 | **Bài viết** | `/[article-slug]` | `.../top-10-san-pham-nuoc-hoa-nam` |
 | **Tác giả** | `/[author-slug]` | `.../maison-de-son` |
 | Nam giới | `/nam-gioi` | `.../nam-gioi` |
@@ -23,8 +23,8 @@
 | So sánh | `/so-sanh` | `.../so-sanh` |
 
 ### Redirect 301 (URL cũ → mới):
-- `/san-pham/[id]` → `/nuoc-hoa-{gender}-{brand}-{id}`
-- `/[old-product-slug]` → `/nuoc-hoa-{gender}-{brand}-{id}`
+- `/san-pham/[id]` → `/nuoc-hoa-{gender}-{brand}-{product-slug}`
+- `/[old-product-slug]` → `/nuoc-hoa-{gender}-{brand}-{product-slug}`
 - `/thuong-hieu/[slug]` → `/[slug]`
 - `/kien-thuc/[slug]` → `/[slug]`
 - `/tac-gia/[slug]` → `/[slug]`
@@ -164,7 +164,7 @@
 | Nước hoa cho nam | "nước hoa nam" | `/nam-gioi` |
 | Nước hoa cho nữ | "nước hoa nữ" | `/nu-gioi` |
 | Tên brand (Chanel/Dior...) | "[Tên Brand]" | `/[brand-slug]` |
-| Tên sản phẩm (lần đầu) | "[Tên SP]" | `/nuoc-hoa-{gender}-{brand}-{id}` |
+| Tên sản phẩm (lần đầu) | "[Tên SP]" | `/nuoc-hoa-{gender}-{brand}-{product-slug}` |
 
 ### 3 internal links bắt buộc trong mỗi bài viết/trang SP:
 1. Link về **Homepage** với anchor "nước hoa chính hãng"

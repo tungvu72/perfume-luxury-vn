@@ -21,7 +21,7 @@ export default async function RankingPage() {
     const products = await getAllProducts();
 
     return (
-        <main className="min-h-screen bg-white pb-32">
+        <main className="min-h-screen bg-white pb-32 overflow-x-hidden">
             <Header />
 
             {/* HEADER */}

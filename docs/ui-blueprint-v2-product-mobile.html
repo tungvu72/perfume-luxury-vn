@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Product Page Mobile Blueprint V2 — Maison de SON</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg:        #FFFFFF;
+      --bg-subtle: #F8FAFB;
+      --bg-muted:  #F1F5F5;
+      --text:      #1A1D21;
+      --text-2:    #5A6270;
+      --text-3:    #8E95A2;
+      --primary:   #0D7377;
+      --primary-lt:#E6F3F3;
+      --border:    #E5E7EB;
+      --border-s:  #F0F1F3;
+      --dark:      #1A1D21;
+      --serif: 'Playfair Display', Georgia, serif;
+      --sans:  'Inter', system-ui, sans-serif;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: #E8EAF0; display: flex; justify-content: center;
+      min-height: 100vh; padding: 32px 16px 48px; font-family: var(--sans);
+    }
+    .phone {
+      width: 390px; background: var(--bg); border-radius: 40px;
+      box-shadow: 0 24px 80px rgba(0,0,0,.18); overflow: hidden;
+    }
+    .phone-content { background: var(--bg); padding-bottom: 76px; color: var(--text); -webkit-font-smoothing: antialiased; }
+    a { text-decoration: none; color: inherit; }
+    .serif  { font-family: var(--serif); }
+    .eyebrow { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .16em; color: var(--primary); }
+    .divider { border: none; border-top: 1px solid var(--border-s); }
+
+    /* ─── HEADER ─── */
+    .m-header {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(255,255,255,.96); backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border-s); padding: 11px 16px;
+    }
+    .m-header-row { display: flex; align-items: center; justify-content: space-between; }
+    .m-logo { font-family: var(--serif); font-size: 15px; font-weight: 700; letter-spacing: .1em; }
+    .m-icon-btn { width: 36px; height: 36px; border-radius: 10px; border: 1px solid var(--border); background: var(--bg-subtle); display: flex; align-items: center; justify-content: center; }
+    .m-breadcrumb { padding: 10px 16px 0; display: flex; gap: 5px; align-items: center; }
+    .m-breadcrumb span { font-size: 11px; color: var(--text-3); }
+    .m-breadcrumb span.sep { color: var(--border); }
+
+    /* ════════════════════════════════
+       BLOCK 1 — PRODUCT HERO MOBILE
+    ════════════════════════════════ */
+    .m-product-img {
+      background: linear-gradient(160deg,#FAF9F7,#EDE8E0);
+      height: 260px; display: flex; align-items: center; justify-content: center;
+      position: relative; font-size: 110px;
+    }
+    .m-score-badge {
+      position: absolute; top: 16px; right: 16px;
+      background: var(--dark); color: #fff; border-radius: 50%;
+      width: 58px; height: 58px; display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+    }
+    .m-score-badge-num { font-family: var(--serif); font-size: 20px; font-weight: 700; line-height: 1; }
+    .m-score-badge-sub { font-size: 8px; opacity: .55; }
+    .m-hero-info { padding: 18px 16px 0; }
+    .m-brand-link { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .16em; color: var(--primary); }
+    .m-product-name { font-family: var(--serif); font-size: 26px; line-height: 1.12; letter-spacing: -.015em; margin: 8px 0 8px; }
+    .m-tagline { font-size: 14px; color: var(--text-2); line-height: 1.7; margin-bottom: 14px; }
+
+    /* Meta strip */
+    .m-meta-strip {
+      display: flex; gap: 0; overflow-x: auto; scrollbar-width: none;
+      border: 1px solid var(--border); border-radius: 14px; background: var(--bg-subtle);
+      margin-bottom: 16px;
+    }
+    .m-meta-strip::-webkit-scrollbar { display: none; }
+    .m-meta-item { flex: 1; min-width: 80px; padding: 10px 12px; text-align: center; border-right: 1px solid var(--border); }
+    .m-meta-item:last-child { border-right: none; }
+    .m-meta-label { font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: .12em; color: var(--text-3); display: block; margin-bottom: 3px; }
+    .m-meta-val   { font-size: 12px; font-weight: 700; color: var(--text); }
+
+    /* Price + CTA */
+    .m-price-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; }
+    .m-price-main { font-family: var(--serif); font-size: 26px; font-weight: 700; }
+    .m-price-note { font-size: 11px; color: var(--text-3); margin-top: 2px; }
+    .m-cta-block { display: flex; flex-direction: column; gap: 8px; padding: 0 16px 16px; }
+    .m-btn-primary {
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+      background: var(--dark); color: #fff; padding: 14px 20px;
+      border-radius: 999px; font-size: 14px; font-weight: 700; width: 100%;
+    }
+    .m-btn-sec {
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+      background: transparent; color: var(--text); border: 1.5px solid var(--border);
+      padding: 12px 20px; border-radius: 999px; font-size: 13px; font-weight: 600; width: 100%;
+    }
+    .m-trust-row { display: flex; gap: 6px; flex-wrap: wrap; padding: 0 16px 16px; }
+    .m-trust-chip { font-size: 10px; font-weight: 600; padding: 4px 10px; border-radius: 999px; background: var(--bg-subtle); border: 1px solid var(--border); color: var(--text-2); }
+
+    /* ════════════════════════════════
+       BLOCK 2 — PERFORMANCE
+    ════════════════════════════════ */
+    .m-block { padding: 18px 16px; }
+    .m-block-title { font-family: var(--serif); font-size: 18px; font-weight: 700; margin-bottom: 14px; }
+    .m-score-summary {
+      display: grid; grid-template-columns: 80px 1fr; gap: 16px; align-items: center;
+      background: var(--bg-subtle); border: 1px solid var(--border); border-radius: 16px; padding: 16px;
+    }
+    .m-total-circle {
+      width: 72px; height: 72px; border-radius: 50%; background: var(--dark); color: #fff;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+    }
+    .m-total-num { font-family: var(--serif); font-size: 26px; font-weight: 700; line-height: 1; }
+    .m-total-sub { font-size: 8px; opacity: .5; letter-spacing: .08em; }
+    .m-score-bars { display: flex; flex-direction: column; gap: 10px; }
+    .m-score-row { display: grid; grid-template-columns: 1fr 36px; gap: 6px; align-items: center; }
+    .m-score-label { font-size: 12px; color: var(--text-2); }
+    .m-score-bar-bg { height: 4px; background: var(--border-s); border-radius: 999px; overflow: hidden; margin-top: 3px; }
+    .m-bar-fill { height: 100%; background: var(--primary); border-radius: 999px; }
+    .m-score-val { font-size: 12px; font-weight: 700; text-align: right; }
+
+    /* ════════════════════════════════
+       BLOCK 3 — NOTES / ACCORDS
+    ════════════════════════════════ */
+    .m-note-group { margin-bottom: 14px; }
+    .m-note-group-label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .12em; color: var(--text-3); margin-bottom: 8px; }
+    .m-chip-row { display: flex; gap: 6px; flex-wrap: wrap; }
+    .m-chip {
+      font-size: 12px; font-weight: 500; padding: 5px 12px; border-radius: 999px;
+      border: 1px solid var(--border); background: #fff; color: var(--text);
+    }
+    .m-chip.primary { background: var(--primary-lt); border-color: var(--primary); color: var(--primary); font-weight: 600; }
+    .m-chip.muted   { background: var(--bg-subtle); color: var(--text-2); }
+
+    /* ════════════════════════════════
+       BLOCK 4 — EDITORIAL SECTIONS
+    ════════════════════════════════ */
+    .m-editorial { padding: 0 16px 4px; }
+    .m-ed-section { margin-bottom: 22px; }
+    .m-ed-label {
+      font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .14em;
+      color: var(--primary); background: var(--primary-lt);
+      padding: 3px 10px; border-radius: 999px; display: inline-block; margin-bottom: 10px;
+    }
+    .m-ed-title { font-family: var(--serif); font-size: 18px; font-weight: 700; margin-bottom: 10px; line-height: 1.25; }
+    .m-ed-body { font-size: 14px; line-height: 1.8; color: var(--text-2); }
+    .m-ed-body p + p { margin-top: 12px; }
+    .m-ed-highlight {
+      background: var(--bg-subtle); border-left: 3px solid var(--primary);
+      padding: 10px 14px; border-radius: 0 8px 8px 0;
+      font-size: 13px; font-weight: 600; color: var(--text); margin: 12px 0;
+    }
+
+    /* ════════════════════════════════
+       BLOCK 5 — VERDICT
+    ════════════════════════════════ */
+    .m-verdict {
+      margin: 0 16px; background: var(--dark); color: #fff;
+      border-radius: 18px; padding: 22px 18px;
+    }
+    .m-verdict .eyebrow { color: #7FD4D1; margin-bottom: 8px; }
+    .m-verdict-title { font-family: var(--serif); font-size: 20px; color: #fff; margin-bottom: 10px; line-height: 1.2; }
+    .m-verdict-text  { font-size: 13px; color: rgba(255,255,255,.7); line-height: 1.75; }
+
+    /* ════════════════════════════════
+       BLOCK 6 — RELATED SECTION
+    ════════════════════════════════ */
+    .m-related { padding: 20px 16px 0; }
+    .m-related-title { font-family: var(--serif); font-size: 20px; margin-bottom: 14px; }
+    .m-related-scroll { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 4px; margin: 0 -16px; padding-left: 16px; scrollbar-width: none; }
+    .m-related-scroll::-webkit-scrollbar { display: none; }
+    .m-rel-card { flex-shrink: 0; width: 160px; border: 1px solid var(--border); border-radius: 16px; overflow: hidden; background: #fff; }
+    .m-rel-img  { height: 140px; background: linear-gradient(160deg,#FAF9F7,#EDE8E0); display: flex; align-items: center; justify-content: center; font-size: 52px; }
+    .m-rel-body { padding: 10px 12px; }
+    .m-rel-brand { font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: .12em; color: var(--primary); }
+    .m-rel-name  { font-size: 13px; font-weight: 700; line-height: 1.3; margin: 4px 0 6px; }
+    .m-rel-footer { display: flex; justify-content: space-between; align-items: center; }
+    .m-rel-score { font-family: var(--serif); font-size: 17px; font-weight: 700; color: var(--primary); }
+    .m-rel-score span { font-size: 10px; font-weight: 400; color: var(--text-3); }
+    .m-rel-price { font-size: 10px; font-weight: 700; color: var(--text-2); }
+
+    /* ════════════════════════════════
+       FOOTER
+    ════════════════════════════════ */
+    .m-footer { padding: 20px 16px 10px; }
+    .m-footer-logo  { font-family: var(--serif); font-size: 16px; font-weight: 700; letter-spacing: .1em; margin-bottom: 8px; }
+    .m-footer-about { font-size: 12px; color: var(--text-2); line-height: 1.65; margin-bottom: 16px; }
+    .m-footer-links { display: grid; grid-template-columns: 1fr 1fr; gap: 6px 16px; margin-bottom: 16px; }
+    .m-footer-links a { font-size: 12px; color: var(--text-2); }
+    .m-footer-copy  { font-size: 10px; color: var(--text-3); border-top: 1px solid var(--border-s); padding-top: 12px; }
+
+    /* ─── BOTTOM NAV ─── */
+    .m-bottom-nav {
+      position: sticky; bottom: 0; width: 100%;
+      background: rgba(255,255,255,.97); backdrop-filter: blur(12px);
+      border-top: 1px solid var(--border-s);
+      display: grid; grid-template-columns: repeat(4,1fr);
+    }
+    .m-nav-item { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 8px 4px 10px; gap: 3px; font-size: 10px; font-weight: 600; color: var(--text-3); }
+    .m-nav-item svg { width: 20px; height: 20px; }
+    .m-nav-item.active { color: var(--primary); }
+  </style>
+</head>
+<body>
+<div class="phone">
+<div class="phone-content">
+
+  <!-- HEADER -->
+  <header class="m-header">
+    <div class="m-header-row">
+      <div class="m-icon-btn">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 5l-7 7 7 7"/></svg>
+      </div>
+      <div class="m-logo serif">MAISON DE SON</div>
+      <div class="m-icon-btn">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      </div>
+    </div>
+    <div class="m-breadcrumb">
+      <span>Trang chủ</span><span class="sep">/</span>
+      <span>Nam</span><span class="sep">/</span>
+      <span style="color:var(--text-2);font-weight:500;">Stronger With You Intensely</span>
+    </div>
+  </header>
+
+  <!-- ══ BLOCK 1 — HERO MOBILE ══ -->
+  <div class="m-product-img">
+    🧴
+    <div class="m-score-badge">
+      <div class="m-score-badge-num">8.4</div>
+      <div class="m-score-badge-sub">/10</div>
+    </div>
+  </div>
+
+  <div class="m-hero-info">
+    <div class="m-brand-link">Giorgio Armani</div>
+    <h1 class="m-product-name serif">Stronger With You Intensely</h1>
+    <p class="m-tagline">Ngọt ấm, dễ được khen, rất hợp đi tối. Tạo thiện cảm tốt trong không gian gần gũi.</p>
+
+    <!-- Meta strip -->
+    <div class="m-meta-strip">
+      <div class="m-meta-item">
+        <span class="m-meta-label">Loại</span>
+        <span class="m-meta-val">Nam</span>
+      </div>
+      <div class="m-meta-item">
+        <span class="m-meta-label">Nồng độ</span>
+        <span class="m-meta-val">EDP</span>
+      </div>
+      <div class="m-meta-item">
+        <span class="m-meta-label">Mùa</span>
+        <span class="m-meta-val">Thu Đông</span>
+      </div>
+      <div class="m-meta-item">
+        <span class="m-meta-label">Dịp</span>
+        <span class="m-meta-val">Tối</span>
+      </div>
+    </div>
+
+    <!-- Price -->
+    <div class="m-price-row">
+      <div>
+        <div class="m-price-main">2.800.000đ</div>
+        <div class="m-price-note">100ml · Giá tham khảo</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CTA block -->
+  <div class="m-cta-block">
+    <a class="m-btn-primary" href="#">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.117.553 4.107 1.524 5.836L.057 23.886c-.071.26.177.508.47.437l6.248-1.487C8.284 23.55 10.11 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+      Hỏi tư vấn trước khi mua
+    </a>
+    <a class="m-btn-sec" href="#">Xem nơi mua chính hãng</a>
+  </div>
+
+  <div class="m-trust-row">
+    <span class="m-trust-chip">Review khí hậu Việt</span>
+    <span class="m-trust-chip">Không sponsored</span>
+    <span class="m-trust-chip">Miễn phí tư vấn</span>
+  </div>
+
+  <hr class="divider" />
+
+  <!-- ══ BLOCK 2 — PERFORMANCE ══ -->
+  <div class="m-block">
+    <div class="m-block-title serif">Chấm điểm chi tiết</div>
+    <div class="m-score-summary">
+      <div class="m-total-circle">
+        <div class="m-total-num">8.4</div>
+        <div class="m-total-sub">/10</div>
+      </div>
+      <div class="m-score-bars">
+        <div>
+          <div class="m-score-row">
+            <span class="m-score-label">Lưu hương</span>
+            <span class="m-score-val">8.2</span>
+          </div>
+          <div class="m-score-bar-bg"><div class="m-bar-fill" style="width:82%"></div></div>
+        </div>
+        <div>
+          <div class="m-score-row">
+            <span class="m-score-label">Toả mùi</span>
+            <span class="m-score-val">7.5</span>
+          </div>
+          <div class="m-score-bar-bg"><div class="m-bar-fill" style="width:75%"></div></div>
+        </div>
+        <div>
+          <div class="m-score-row">
+            <span class="m-score-label">Phù hợp</span>
+            <span class="m-score-val">8.8</span>
+          </div>
+          <div class="m-score-bar-bg"><div class="m-bar-fill" style="width:88%"></div></div>
+        </div>
+        <div>
+          <div class="m-score-row">
+            <span class="m-score-label">Giá trị</span>
+            <span class="m-score-val">7.8</span>
+          </div>
+          <div class="m-score-bar-bg"><div class="m-bar-fill" style="width:78%"></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider" />
+
+  <!-- ══ BLOCK 3 — NOTES / ACCORDS ══ -->
+  <div class="m-block">
+    <div class="m-block-title serif">Nốt hương</div>
+    <div class="m-note-group">
+      <div class="m-note-group-label">Nốt đầu</div>
+      <div class="m-chip-row">
+        <span class="m-chip primary">Cardamom</span>
+        <span class="m-chip">Violet leaf</span>
+        <span class="m-chip">Bergamotze</span>
+      </div>
+    </div>
+    <div class="m-note-group" style="margin-top:12px;">
+      <div class="m-note-group-label">Nốt giữa</div>
+      <div class="m-chip-row">
+        <span class="m-chip primary">Vanilla</span>
+        <span class="m-chip">Chestnut</span>
+        <span class="m-chip">Lavender</span>
+      </div>
+    </div>
+    <div class="m-note-group" style="margin-top:12px;">
+      <div class="m-note-group-label">Nốt cuối</div>
+      <div class="m-chip-row">
+        <span class="m-chip muted">Sandalwood</span>
+        <span class="m-chip muted">Tonka bean</span>
+        <span class="m-chip muted">Cedarwood</span>
+      </div>
+    </div>
+    <div class="m-note-group" style="margin-top:12px;">
+      <div class="m-note-group-label">Tính chất</div>
+      <div class="m-chip-row">
+        <span class="m-chip primary">Ngọt ấm</span>
+        <span class="m-chip">Gỗ nhẹ</span>
+        <span class="m-chip">Dễ chịu</span>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider" />
+
+  <!-- ══ BLOCK 4 — EDITORIAL ══ -->
+  <div class="m-editorial">
+    <div style="padding-top:18px; margin-bottom:16px;">
+      <div class="m-block-title serif">Nhận xét thực tế</div>
+    </div>
+
+    <div class="m-ed-section">
+      <span class="m-ed-label">Ai không nên mua?</span>
+      <div class="m-ed-body">
+        <p>Không hợp nếu bạn không thích mùi ngọt, đi làm văn phòng kín, hoặc dùng ban ngày trong thời tiết nóng ẩm.</p>
+        <div class="m-ed-highlight">Không hợp: văn phòng kín, ngày hè, người ghét mùi ngọt.</div>
+      </div>
+    </div>
+
+    <div class="m-ed-section">
+      <span class="m-ed-label">Có đáng tiền không?</span>
+      <div class="m-ed-body">
+        <p>Ở mức 2.800.000đ, hiệu năng mùi xứng đáng với số tiền bỏ ra. Đây không phải chai rẻ nhưng cũng không phải chi phí không hợp lý trong phân khúc của nó.</p>
+      </div>
+    </div>
+
+    <div class="m-ed-section">
+      <span class="m-ed-label">Nên dùng khi nào?</span>
+      <div class="m-ed-body">
+        <p>Dùng tốt nhất vào buổi tối, mùa thu đông, hoặc đi hẹn hò. Xịt 3–4 phát là đủ — không cần xịt nhiều vì mùi tương đối mạnh.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ BLOCK 5 — VERDICT ══ -->
+  <div class="m-verdict" style="margin:0 16px;">
+    <div class="eyebrow" style="color:#7FD4D1;margin-bottom:8px;">Kết luận</div>
+    <div class="m-verdict-title serif">Đáng thử nếu thích mùi ngọt ấm buổi tối</div>
+    <div class="m-verdict-text">Chai dễ được khen, dễ gây thiện cảm và không kén người ngửi. Lựa chọn an toàn và đáng tiền trong phân khúc.</div>
+  </div>
+
+  <hr class="divider" style="margin:20px 0 0;" />
+
+  <!-- ══ BLOCK 6 — RELATED ══ -->
+  <div class="m-related">
+    <div class="eyebrow" style="margin-bottom:6px;">Xem tiếp</div>
+    <div class="m-related-title serif">Gu tương tự đáng xem</div>
+    <div class="m-related-scroll">
+      <div class="m-rel-card">
+        <div class="m-rel-img">🧴</div>
+        <div class="m-rel-body">
+          <div class="m-rel-brand">Dior</div>
+          <div class="m-rel-name">Sauvage Elixir</div>
+          <div class="m-rel-footer">
+            <div class="m-rel-score">9.3<span>/10</span></div>
+            <div class="m-rel-price">5.400.000đ</div>
+          </div>
+        </div>
+      </div>
+      <div class="m-rel-card">
+        <div class="m-rel-img">🌿</div>
+        <div class="m-rel-body">
+          <div class="m-rel-brand">YSL</div>
+          <div class="m-rel-name">Y Eau de Parfum</div>
+          <div class="m-rel-footer">
+            <div class="m-rel-score">9.2<span>/10</span></div>
+            <div class="m-rel-price">3.250.000đ</div>
+          </div>
+        </div>
+      </div>
+      <div class="m-rel-card">
+        <div class="m-rel-img">🪷</div>
+        <div class="m-rel-body">
+          <div class="m-rel-brand">Lattafa</div>
+          <div class="m-rel-name">Khamrah</div>
+          <div class="m-rel-footer">
+            <div class="m-rel-score">8.8<span>/10</span></div>
+            <div class="m-rel-price">1.250.000đ</div>
+          </div>
+        </div>
+      </div>
+      <div class="m-rel-card">
+        <div class="m-rel-img">🌸</div>
+        <div class="m-rel-body">
+          <div class="m-rel-brand">Tom Ford</div>
+          <div class="m-rel-name">Tobacco Vanille</div>
+          <div class="m-rel-footer">
+            <div class="m-rel-score">9.0<span>/10</span></div>
+            <div class="m-rel-price">9.500.000đ</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="padding:12px 0;">
+      <a href="#" style="display:flex;align-items:center;justify-content:center;gap:6px;border:1px solid var(--border);border-radius:999px;padding:11px;font-size:12px;font-weight:700;color:var(--text-2);">
+        Xem bảng xếp hạng đầy đủ →
+      </a>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="m-footer">
+    <div class="m-footer-logo serif">MAISON DE SON</div>
+    <p class="m-footer-about">Kiến thức, review thực tế và định hướng chọn mua nước hoa cho người Việt.</p>
+    <div class="m-footer-links">
+      <a href="#">Nước hoa Nam</a>
+      <a href="#">Nước hoa Nữ</a>
+      <a href="#">Bảng xếp hạng</a>
+      <a href="#">Thương hiệu</a>
+      <a href="#">Kiến thức</a>
+      <a href="#">Về chúng tôi</a>
+    </div>
+    <div class="m-footer-copy">© 2026 Maison de SON</div>
+  </div>
+
+</div>
+
+<!-- BOTTOM NAV -->
+<nav class="m-bottom-nav">
+  <div class="m-nav-item">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+    Trang chủ
+  </div>
+  <div class="m-nav-item">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="18 20 18 10"/><polyline points="12 20 12 4"/><polyline points="6 20 6 14"/></svg>
+    Xếp hạng
+  </div>
+  <div class="m-nav-item">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M2 3h6a4 4 0 014 4v14a3 3 0 00-3-3H2z"/><path d="M22 3h-6a4 4 0 00-4 4v14a3 3 0 013-3h7z"/></svg>
+    Kiến thức
+  </div>
+  <div class="m-nav-item active">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
+    Tư vấn
+  </div>
+</nav>
+
+</div>
+</body>
+</html>

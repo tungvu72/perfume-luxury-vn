@@ -77,7 +77,7 @@ Mày là **Coder** — **Lead dự án** của Maison De Son. Mày quyết đị
 |---|---|---|
 | Trang chủ | `/` | maisondeson.com/ |
 | Bài viết | `/[article-slug]` | /top-10-nuoc-hoa-nam |
-| **Sản phẩm** | `/nuoc-hoa-{gender}-{brand}-{id}` | /nuoc-hoa-nam-dior-sauvage-elixir |
+| **Sản phẩm** | `/nuoc-hoa-{gender}-{brand}-{product-slug}` | /nuoc-hoa-nam-dior-sauvage-elixir |
 | Thương hiệu | `/[brand-slug]` | /chanel |
 | Tác giả | `/[author-slug]` | /maison-de-son |
 | Listing bài | `/kien-thuc` | /kien-thuc |
@@ -89,7 +89,7 @@ Mày là **Coder** — **Lead dự án** của Maison De Son. Mày quyết đị
 3. Post match? → Render Article
 4. No match → 404
 
-**301 Redirects:** `/san-pham/[id]` → `/nuoc-hoa-...`, `/[old-slug]` → `/nuoc-hoa-...`, `/kien-thuc/[slug]` → `/[slug]`
+**301 Redirects:** `/san-pham/[id]` → `/nuoc-hoa-{gender}-{brand}-{product-slug}`, `/[old-slug]` → `/nuoc-hoa-{gender}-{brand}-{product-slug}`, `/kien-thuc/[slug]` → `/[slug]`
 
 ---
 
@@ -104,10 +104,6 @@ Mày là **Coder** — **Lead dự án** của Maison De Son. Mày quyết đị
 - Target: `top [N] nước hoa [đặc điểm]`
 - 1500-2500 từ, 10-15 ảnh
 - Criteria → Top list → Bảng so sánh → Budget tiers
-
-### D3: Trend Digest 🔥
-- Target: Traffic từ trend mới (Reddit, Fragrantica)
-- Đăng trong 24h khi trend nổi
 
 ### D4: Head-to-Head ⚖️
 - Target: `A vs B`
@@ -142,11 +138,10 @@ tags: [tag1, tag2, tag3]
 ```
 
 ### Quy tắc viết
-- **Sapo** ≤100 chữ đầu: có keyword chính + bối cảnh VN (khí hậu nóng/ẩm)
-- **Body**: Mỗi đoạn ≤5 dòng. 1 ảnh mỗi 200-300 từ
-- **Ảnh**: WebP < 150KB, alt-text chứa keyword, loading=lazy
+- Bỏ rule viết chung cũ; nguồn chuẩn duy nhất cho article writing hiện tại là: `docs/content/article-writing-sop.md`
+- Mọi bài phải bám SOP này về: mở bài, nhịp trình bày, mật độ ảnh, internal links, giọng Maison, quality gate
 - **Tiếng Việt**: ĐẦY ĐỦ DẤU, không bao giờ thiếu dấu
-- **EEAT**: Trải nghiệm thực 3 tuần tại VN, thuật ngữ kỹ thuật chính xác
+- **EEAT**: Chỉ dùng claim trải nghiệm thực khi có căn cứ; không bịa trải nghiệm 3 tuần nếu không có evidence
 
 ### Internal Links bắt buộc (mỗi bài)
 1. Link về **Trang chủ** — anchor "nước hoa chính hãng"
@@ -159,7 +154,7 @@ tags: [tag1, tag2, tag3]
 | Thương hiệu (list) | "thương hiệu nước hoa" | /thuong-hieu |
 | Bảng xếp hạng | "top nước hoa tốt nhất" | /bang-xep-hang |
 | Tên brand cụ thể | "[Tên Brand]" | /[brand-slug] |
-| Tên sản phẩm | "[Tên SP]" | /nuoc-hoa-{gender}-{brand}-{id} |
+| Tên sản phẩm | "[Tên SP]" | /nuoc-hoa-{gender}-{brand}-{product-slug} |
 
 ---
 

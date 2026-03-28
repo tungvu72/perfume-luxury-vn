@@ -229,7 +229,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
     );
 
     return (
-        <div className="max-w-[1200px] mx-auto px-4 md:px-5 py-4 md:py-8 flex gap-10">
+        <div className="max-w-[1200px] mx-auto px-4 md:px-5 py-4 md:py-8 flex gap-10 overflow-x-hidden">
             {/* MOBILE FILTER TOGGLE */}
             <div className="md:hidden sticky top-0 z-40 bg-white border-b border-[var(--border)] px-4 py-3 -mx-4 mb-3">
                 <div className="flex items-center justify-between">
@@ -259,7 +259,7 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
             </aside>
 
             {/* PRODUCT LIST */}
-            <div className="flex-1">
+            <div className="flex-1 min-w-0 overflow-hidden">
                 {/* QUICK TAG ROW */}
                 <div className="flex overflow-x-auto md:flex-wrap gap-2 mb-4 md:mb-6 pb-3 md:pb-4 border-b border-gray-100 scrollbar-hide">
                     {popularTags.map(tag => (
@@ -338,8 +338,8 @@ export default function RankingClient({ initialProducts }: { initialProducts: Pe
                                 </div>
                                 {/* Text block */}
                                 <div className="flex-1 min-w-0">
-                                    <div className="flex items-center gap-1.5 md:gap-2 mb-0.5">
-                                        <span className="text-[11px] md:text-[10px] font-bold text-primary tracking-[1px] md:tracking-[1.5px] uppercase truncate">{product.brand}</span>
+                                    <div className="flex items-center gap-1.5 md:gap-2 mb-0.5 max-w-full">
+                                        <span className="text-[11px] md:text-[10px] font-bold text-primary tracking-[1px] md:tracking-[1.5px] uppercase truncate max-w-[140px] md:max-w-none">{product.brand}</span>
                                         <span className="hidden md:inline text-[9px] px-1.5 py-0.5 bg-gray-100 rounded text-gray-400 font-semibold flex-shrink-0">{product.gender === 'nam' ? '♂ Nam' : product.gender === 'nu' ? '♀ Nữ' : '⚡ Uni'}</span>
                                     </div>
                                     <h3 className="text-[14px] md:text-[17px] font-semibold leading-snug text-[#1a1a1a] group-hover:text-primary transition-colors line-clamp-1 md:line-clamp-2">{product.name}</h3>

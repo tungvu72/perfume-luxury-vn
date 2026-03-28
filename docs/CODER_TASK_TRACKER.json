@@ -5,7 +5,16 @@
   "rules": {
     "coderMustUpdate": "Sau mỗi task hoàn thành, Coder PHẢI cập nhật file này với proof (file changed, line count, timestamp). Nếu không update = chưa làm.",
     "verifyMethod": "Chạy scripts/verify-coder-work.js để kiểm tra thực tế",
-    "escalation": "Nếu task quá hạn 2 giờ mà không có proof → Anti sẽ ping lại qua Telegram"
+    "escalation": "Nếu task quá hạn 2 giờ mà không có proof → Anti sẽ ping lại qua Telegram",
+    "productionFirst": "🚨 PRODUCTION-FIRST: Task website phải verify trên https://www.maisondeson.com, KHÔNG localhost",
+    "defaultVerificationTarget": "https://www.maisondeson.com",
+    "defaultPublishMode": "direct-repo",
+    "defaultForbiddenTargets": ["localhost", "127.0.0.1", "sanity-preview"],
+    "taskWebsiteFields": {
+      "verificationTarget": "BẮT BUỘC cho task website — URL production để verify",
+      "publishMode": "direct-repo | sanity-cms (mặc định: direct-repo)",
+      "forbiddenTargets": "Danh sách target KHÔNG được dùng làm evidence"
+    }
   },
   "tasks": [
     {

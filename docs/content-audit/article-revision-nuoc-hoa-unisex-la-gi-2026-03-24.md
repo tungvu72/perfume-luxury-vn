@@ -1,8 +1,6 @@
 # Article Revision Notes — nuoc-hoa-unisex-la-gi
 
-**Date:** 2026-03-24  
-**Commit:** `3a0895f`  
-**Live URL:** https://www.maisondeson.com/nuoc-hoa-unisex-la-gi
+**Date:** 2026-03-24 | **Final commit:** `c8ad7df` | **Live URL:** https://www.maisondeson.com/nuoc-hoa-unisex-la-gi
 
 ---
 

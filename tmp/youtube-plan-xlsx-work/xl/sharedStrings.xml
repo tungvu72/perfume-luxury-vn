@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="126" uniqueCount="126">
+  <si><t>Kế hoạch nội dung YouTube nước hoa — Bản chi tiết</t></si>
+  <si><t>Chỉ số</t></si>
+  <si><t>Giá trị</t></si>
+  <si><t>Ghi chú</t></si>
+  <si><t>Số video dự kiến 30 ngày tới</t></si>
+  <si><t>Mục tiêu: 8 video với format mix để tránh nhàm chán</t></si>
+  <si><t>Số video ranking</t></si>
+  <si><t>Dùng làm máy kéo view nhưng giữ dưới 60% tổng output</t></si>
+  <si><t>Số video không phải ranking</t></si>
+  <si><t>Gồm battle, giải quyết vấn đề và opinion/authority</t></si>
+  <si><t>CTR trung bình mục tiêu</t></si>
+  <si><t>Ưu tiên topic nam mass, dễ hiểu, dễ click</t></si>
+  <si><t>Điểm effort trung bình</t></si>
+  <si><t>Giữ dưới 7.0 để sản xuất đều và nhanh</t></si>
+  <si><t>Tổng lượt xem dự kiến</t></si>
+  <si><t>Tính từ baseline format và uplift CTR</t></si>
+  <si><t>Số video tuần 1</t></si>
+  <si><t>Mở bằng kèo thắng + 1 video practical follow-up</t></si>
+  <si><t>Số video tuần 2</t></si>
+  <si><t>Chèn battle để giảm cảm giác lặp format</t></si>
+  <si><t>Tỷ trọng ranking</t></si>
+  <si><t>Guardrail để không spam 1 kiểu nội dung</t></si>
+  <si><t>Giả định</t></si>
+  <si><t>Base / Quy tắc</t></si>
+  <si><t>Bình luận</t></si>
+  <si><t>Baseline view cho ranking</t></si>
+  <si><t>Dựa trên format thắng hiện tại và browse traffic mạnh</t></si>
+  <si><t>Baseline view cho battle</t></si>
+  <si><t>Mạnh ở comment/debate nhưng thường thấp hơn ranking</t></si>
+  <si><t>Baseline view cho problem-solving</t></si>
+  <si><t>Practical, buyer intent tốt, dễ giữ người xem</t></si>
+  <si><t>Baseline view cho authority/opinion</t></si>
+  <si><t>Tốt cho xây audience trung thành hơn là reach lớn</t></si>
+  <si><t>Mục tiêu số video 30 ngày</t></si>
+  <si><t>Sprint 4 tuần</t></si>
+  <si><t>Trần tỷ trọng ranking</t></si>
+  <si><t>Guardrail chống mệt audience</t></si>
+  <si><t>Sàn tỷ trọng non-ranking</t></si>
+  <si><t>Bắt buộc để giữ độ đa dạng</t></si>
+  <si><t>Ưu tiên</t></si>
+  <si><t>Chủ đề video</t></si>
+  <si><t>Trụ cột</t></si>
+  <si><t>Format</t></si>
+  <si><t>Nguồn uy tín</t></si>
+  <si><t>Hook chính</t></si>
+  <si><t>Điểm effort</t></si>
+  <si><t>CTR mục tiêu</t></si>
+  <si><t>Lượt xem dự kiến</t></si>
+  <si><t>Tuần đăng</t></si>
+  <si><t>Trạng thái</t></si>
+  <si><t>Top 50 Freshest Fragrances for Men 2025</t></si>
+  <si><t>Máy kéo view</t></si>
+  <si><t>Ranking</t></si>
+  <si><t>Fragrantica Awards 2025</t></si>
+  <si><t>Authority ranking + seasonal relevance + chai dễ nhận diện</t></si>
+  <si><t>5 Office Fragrances That Never Offend</t></si>
+  <si><t>Practical trust</t></si>
+  <si><t>Giải quyết vấn đề</t></si>
+  <si><t>Nhận định biên tập</t></si>
+  <si><t>Giải đúng bài toán mua thật cho dân văn phòng</t></si>
+  <si><t>Bleu de Chanel vs Dior Sauvage</t></si>
+  <si><t>Debate</t></si>
+  <si><t>Battle</t></si>
+  <si><t>Đối đầu 2 big name để kéo comment và phe phái</t></si>
+  <si><t>Most Complimented Men's Fragrances</t></si>
+  <si><t>Editorial + audience demand</t></si>
+  <si><t>Social proof + desire rất mạnh</t></si>
+  <si><t>5 Fragrance Mistakes Men Keep Making</t></si>
+  <si><t>Education</t></si>
+  <si><t>Pain-point hook cho nam phổ thông</t></si>
+  <si><t>Fragrances That Smell Expensive</t></si>
+  <si><t>Aspirational</t></si>
+  <si><t>Luxury angle + buyer intent cao</t></si>
+  <si><t>Best Signature Scents for Men Over 40</t></si>
+  <si><t>Authority</t></si>
+  <si><t>Đúng tệp core 35–54 tuổi</t></si>
+  <si><t>Aventus vs Hacivat</t></si>
+  <si><t>Debate niche vừa đủ, chưa quá hẹp</t></si>
+  <si><t>Best Office Fragrances for Men</t></si>
+  <si><t>Keyword broad + practical intent rõ</t></si>
+  <si><t>Date Night Fragrances Women Actually Like</t></si>
+  <si><t>Female framing nhưng vẫn bám lane nam</t></si>
+  <si><t>Fragrances for Men Who Want Respect, Not Attention</t></si>
+  <si><t>Opinion</t></si>
+  <si><t>Identity-based positioning cho audience trưởng thành</t></si>
+  <si><t>Best Masculine Fragrances of All Time</t></si>
+  <si><t>Mass masculine framing + bottle recognition tốt</t></si>
+  <si><t>Sẵn sàng</t></si>
+  <si><t>Backlog</t></si>
+  <si><t>Lên kế hoạch</t></si>
+  <si><t>Tuần</t></si>
+  <si><t>Ngày đăng</t></si>
+  <si><t>Video chính</t></si>
+  <si><t>Video phụ</t></si>
+  <si><t>Video thứ ba</t></si>
+  <si><t>Mục tiêu tuần</t></si>
+  <si><t>Tuần 1</t></si>
+  <si><t>Tuần 2</t></si>
+  <si><t>Tuần 3</t></si>
+  <si><t>Tuần 4</t></si>
+  <si><t>Mở bằng format thắng + practical follow-up</t></si>
+  <si><t>Chèn battle và pain-point để phá nhịp</t></si>
+  <si><t>Quay lại ranking sau khi đã đổi nhịp</t></si>
+  <si><t>Đóng bằng identity/authority để tăng loyalty</t></si>
+  <si><t>Bài học đáng học từ repo Nova</t></si>
+  <si><t>Hạng mục</t></si>
+  <si><t>Điều đáng lấy</t></si>
+  <si><t>Cách áp vào kênh này</t></si>
+  <si><t>Feedback loop</t></si>
+  <si><t>Log video win/flop + lý do + pattern. Không lặp lại angle fail.</t></si>
+  <si><t>Tạo file theo dõi riêng cho winner patterns và flop graveyard.</t></si>
+  <si><t>Memory loop</t></si>
+  <si><t>Mỗi lần làm idea mới đều đọc lại insight cũ trước khi ra quyết định.</t></si>
+  <si><t>Buộc hệ thống đọc performance log, audience model và blacklist topic trước khi brainstorm.</t></si>
+  <si><t>Competitor scan</t></si>
+  <si><t>Tìm outlier video của đối thủ để bóc pattern topic/title/thumbnail.</t></si>
+  <si><t>Chỉ lấy pattern, không copy nội dung; ưu tiên các kênh nam trưởng thành / fragrance mass.</t></si>
+  <si><t>Pipeline khép kín</t></si>
+  <si><t>Idea → title → thumbnail hook → script → publish → log kết quả.</t></si>
+  <si><t>Biến mỗi video thành 1 vòng lặp học tập, không chỉ là đăng xong rồi quên.</t></si>
+  <si><t>Anti-repeat system</t></si>
+  <si><t>Ý tưởng bị reject hoặc flop phải có lý do ghi lại.</t></si>
+  <si><t>Lần sau brainstorm phải check blacklist trước.</t></si>
+  <si><t>Không nên bê nguyên</t></si>
+  <si><t>Repo này quá generic cho mọi niche.</t></si>
+  <si><t>Chỉ lấy framework; phải custom thành fragrance male system riêng.</t></si>
+</sst>
