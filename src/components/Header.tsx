@@ -105,7 +105,7 @@ const Header = () => {
     const showResults = isSearchFocused && (searchQuery.trim().length >= 2 || searchQuery.trim().length === 0);
 
     const menuItems = [
-        { name: "Bảng xếp hạng", href: "/bang-xep-hang" },
+        { name: "Tìm nước hoa", href: "/nuoc-hoa-theo-nhu-cau" },
         { name: "Nam", href: "/nam-gioi" },
         { name: "Nữ", href: "/nu-gioi" },
         { name: "Kiến thức", href: "/kien-thuc" },
@@ -165,8 +165,8 @@ const Header = () => {
 
                         {/* DESKTOP NAV */}
                         <nav className="hidden md:flex items-center gap-7 text-xs font-semibold tracking-wider uppercase">
-                            <Link href="/bang-xep-hang" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
-                                Bảng xếp hạng
+                            <Link href="/nuoc-hoa-theo-nhu-cau" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
+                                Tìm nước hoa
                             </Link>
 
                             {/* THƯƠNG HIỆU MEGA DROPDOWN */}
@@ -317,7 +317,7 @@ const Header = () => {
                                                     </Link>
                                                 ))}
                                                 <Link
-                                                    href={`/bang-xep-hang`}
+                                                    href={`/nuoc-hoa-theo-nhu-cau`}
                                                     onClick={() => { setIsSearchFocused(false); }}
                                                     className="flex items-center justify-center gap-2 px-4 py-3 text-xs font-semibold text-primary hover:bg-primary/5 transition-colors"
                                                 >
@@ -417,8 +417,8 @@ const Header = () => {
 
                         <nav className="flex flex-col gap-1">
                             {/* Core nav */}
-                            <Link href="/bang-xep-hang" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-3 rounded-xl text-sm font-semibold uppercase tracking-wider hover:bg-primary/5 hover:text-primary transition-colors">
-                                📊 Bảng xếp hạng
+                            <Link href="/nuoc-hoa-theo-nhu-cau" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-3 rounded-xl text-sm font-semibold uppercase tracking-wider hover:bg-primary/5 hover:text-primary transition-colors">
+                                🔍 Tìm nước hoa
                             </Link>
 
                             {/* Thương hiệu collapsible */}

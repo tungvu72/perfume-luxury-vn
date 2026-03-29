@@ -1,4 +1,4 @@
-﻿import Link from "next/link";
+import Link from "next/link";
 
 export default function KnowledgeCTA() {
   return (
@@ -22,10 +22,10 @@ export default function KnowledgeCTA() {
             Tư vấn qua Zalo
           </Link>
           <Link
-            href="/bang-xep-hang"
+            href="/nuoc-hoa-theo-nhu-cau"
             className="inline-flex items-center justify-center rounded-full border border-[var(--border)] bg-white px-6 py-3 text-sm font-semibold text-[var(--foreground)] transition hover:border-primary hover:text-primary"
           >
-            Xem bảng xếp hạng
+            Tìm nước hoa phù hợp
           </Link>
         </div>
       </div>

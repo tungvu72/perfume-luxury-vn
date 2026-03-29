@@ -14,6 +14,9 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // ── /bang-xep-hang → /nuoc-hoa-theo-nhu-cau (page replacement) ──
+      { source: '/bang-xep-hang', destination: '/nuoc-hoa-theo-nhu-cau', permanent: true },
+
       // ── Indexed URL redirects (from GSC) ──
       // baccarat-rouge-540 is the only indexed product — redirect to new URL format
       { source: '/baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540', permanent: true },

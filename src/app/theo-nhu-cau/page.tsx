@@ -20,37 +20,37 @@ const useCases = [
   {
     title: "Đi làm văn phòng",
     description: "Ưu tiên sạch, gọn, dễ chịu, không quá áp lực với người ngồi gần và đủ chỉn chu để dùng hằng ngày.",
-    href: "/bang-xep-hang",
+    href: "/nuoc-hoa-theo-nhu-cau",
     chips: ["Dễ dùng", "Sạch sẽ", "Ít rủi ro"],
   },
   {
     title: "Hẹn hò buổi tối",
     description: "Tập trung vào những lựa chọn cuốn hút hơn, có chiều sâu hơn và tạo dấu ấn tốt khi ở khoảng cách gần.",
-    href: "/bang-xep-hang",
+    href: "/nuoc-hoa-theo-nhu-cau",
     chips: ["Cuốn hút", "Gần gũi", "Ấn tượng"],
   },
   {
     title: "Mùa hè nóng ẩm",
     description: "Dành cho người cần mùi thoáng, sáng, sạch và không bị bí khi dùng trong thời tiết Việt Nam.",
-    href: "/bang-xep-hang",
+    href: "/nuoc-hoa-theo-nhu-cau",
     chips: ["Thoáng", "Mát", "Hợp khí hậu VN"],
   },
   {
     title: "Dễ dùng hằng ngày",
     description: "Những chai ít kén hoàn cảnh, dễ tạo thiện cảm và phù hợp nếu bạn chỉ muốn có một lựa chọn an toàn mà vẫn đẹp.",
-    href: "/bang-xep-hang",
+    href: "/nuoc-hoa-theo-nhu-cau",
     chips: ["An toàn", "Đa dụng", "Ai cũng dùng được"],
   },
   {
     title: "Sang trọng & chỉn chu",
     description: "Cho người muốn mùi hương tạo cảm giác trưởng thành, có gu, điềm tĩnh và chỉnh chu hơn bình thường.",
-    href: "/bang-xep-hang",
+    href: "/nuoc-hoa-theo-nhu-cau",
     chips: ["Sang", "Trưởng thành", "Có gu"],
   },
   {
     title: "Theo tầm giá",
-    description: "Nếu ngân sách là thứ bạn cần chốt trước, hãy đi vào bảng xếp hạng để lọc nhanh theo mức giá phù hợp.",
-    href: "/bang-xep-hang",
+    description: "Nếu ngân sách là thứ bạn cần chốt trước, hãy tìm nước hoa theo nhu cầu để lọc nhanh theo mức giá phù hợp.",
+    href: "/nuoc-hoa-theo-nhu-cau",
     chips: ["Dưới 2.5tr", "2.5–5tr", "5tr+"],
   },
 ];
@@ -72,7 +72,7 @@ export default function UseCaseFinderPage() {
             <div className="mt-5 flex flex-wrap gap-3 text-sm">
               <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Đi từ nhu cầu thật</span>
               <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Phù hợp người mới lẫn người đã biết gu</span>
-              <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Dẫn thẳng vào bảng xếp hạng</span>
+              <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Tìm nhanh theo hoàn cảnh</span>
             </div>
           </div>
         </div>

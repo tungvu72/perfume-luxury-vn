@@ -10,7 +10,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Maison de SON | Kiến Thức, Review Nước Hoa & Gợi Ý Mua Chính Hãng",
   description:
-    "Trang web chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa cho người Việt. Xem bảng xếp hạng, chọn mùi phù hợp và tham khảo nơi mua chính hãng giá tốt.",
+    "Trang web chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa cho người Việt. Tìm nước hoa theo nhu cầu, chọn mùi phù hợp và tham khảo nơi mua chính hãng giá tốt.",
   alternates: {
     canonical: "https://www.maisondeson.com/",
   },
@@ -56,7 +56,7 @@ const QUICK_PATHS = [
     id: "nam",
     title: "Nước hoa nam dễ dùng",
     desc: "Đi làm, hẹn hò, dùng hằng ngày — hợp nhiều hoàn cảnh",
-    href: "/bang-xep-hang?gender=nam",
+    href: "/nuoc-hoa-theo-nhu-cau?gender=nam",
     image: "/images/ambient/di-lam-v2.png",
     imageAlt: "Bàn làm việc buổi sáng với chai nước hoa nam",
   },
@@ -64,7 +64,7 @@ const QUICK_PATHS = [
     id: "nu",
     title: "Nước hoa nữ thanh lịch",
     desc: "Nhẹ nhàng, dễ ngửi, không quá gắt",
-    href: "/bang-xep-hang?gender=nu",
+    href: "/nuoc-hoa-theo-nhu-cau?gender=nu",
     image: "/images/ambient/nu-thanh-lich-v2.png",
     imageAlt: "Chai nước hoa oval trên marble kem",
   },
@@ -72,7 +72,7 @@ const QUICK_PATHS = [
     id: "dang-tien",
     title: "Top đáng tiền nhất",
     desc: "Chất lượng xứng giá — nhiều người chọn và hài lòng",
-    href: "/bang-xep-hang?sort=value",
+    href: "/nuoc-hoa-theo-nhu-cau",
     image: "/images/ambient/dang-tien-v2.png",
     imageAlt: "Bộ chai nước hoa cao cấp trên nền đá tối",
   },
@@ -91,21 +91,21 @@ const ONBOARDING_PATHS = [
     num: "01",
     title: "Tôi cần mùi đi làm",
     desc: "Lịch sự, không gây chú ý quá mức, hợp văn phòng và không ngợp trong phòng máy lạnh kín.",
-    href: "/bang-xep-hang?dip=di-lam",
+    href: "/nuoc-hoa-theo-nhu-cau",
     cta: "Xem gợi ý đi làm",
   },
   {
     num: "02",
     title: "Tôi cần mùi hẹn hò",
     desc: "Ấm hơn, cuốn hơn, dễ khiến người khác nhớ — hợp buổi tối và những dịp muốn nổi bật.",
-    href: "/bang-xep-hang?dip=hen-ho",
+    href: "/nuoc-hoa-theo-nhu-cau",
     cta: "Xem gợi ý hẹn hò",
   },
   {
     num: "03",
     title: "Tôi mới bắt đầu chơi nước hoa",
     desc: "Chưa biết mình thích gì, cần chai dễ dùng và an toàn — không lo mua nhầm.",
-    href: "/bang-xep-hang?sort=easiest",
+    href: "/nuoc-hoa-theo-nhu-cau",
     cta: "Xem top dành cho người mới",
   },
 ];
@@ -265,10 +265,10 @@ export default async function Home() {
               </p>
               <div className="flex flex-col sm:flex-row gap-3 mt-6">
                 <Link
-                  href="/bang-xep-hang"
+                  href="/nuoc-hoa-theo-nhu-cau"
                   className="inline-flex items-center justify-center rounded-full bg-[var(--color-primary)] px-6 py-3 text-sm font-bold text-white min-h-[46px] hover:bg-[var(--color-primary-hover)] hover:-translate-y-0.5 transition-all"
                 >
-                  Xem bảng xếp hạng
+                  Tìm nước hoa phù hợp
                 </Link>
                 <Link
                   href="/kien-thuc"
@@ -364,7 +364,7 @@ export default async function Home() {
             <h2 className="font-serif text-[26px] md:text-[34px] tracking-tight mt-2">Nước hoa nên xem trước</h2>
             <p className="text-[14px] md:text-[15px] text-[var(--color-text-secondary)] mt-1.5">Các chai dễ dùng, điểm cao và hợp nhiều người Việt.</p>
           </div>
-          <Link href="/bang-xep-hang" className="hidden md:inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-[13px] font-bold text-[var(--color-text)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-all flex-shrink-0">
+          <Link href="/nuoc-hoa-theo-nhu-cau" className="hidden md:inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-[13px] font-bold text-[var(--color-text)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-all flex-shrink-0">
             Xem toàn bộ
           </Link>
         </div>
@@ -428,8 +428,8 @@ export default async function Home() {
         </div>
 
         <div className="mt-4 text-center md:hidden">
-          <Link href="/bang-xep-hang" className="inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-[12px] font-bold text-[var(--color-text-secondary)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-colors">
-            Xem bảng xếp hạng đầy đủ →
+          <Link href="/nuoc-hoa-theo-nhu-cau" className="inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-[12px] font-bold text-[var(--color-text-secondary)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-colors">
+            Xem tất cả nước hoa →
           </Link>
         </div>
       </section>
@@ -678,7 +678,7 @@ export default async function Home() {
           },
           {
             icon: <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><polyline points="18 20 18 10"/><polyline points="12 20 12 4"/><polyline points="6 20 6 14"/></svg>,
-            label: "Xếp hạng", href: "/bang-xep-hang",
+            label: "Tìm hoa", href: "/nuoc-hoa-theo-nhu-cau",
           },
           {
             icon: <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M2 3h6a4 4 0 014 4v14a3 3 0 00-3-3H2z"/><path d="M22 3h-6a4 4 0 00-4 4v14a3 3 0 013-3h7z"/></svg>,

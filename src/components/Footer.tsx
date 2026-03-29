@@ -34,7 +34,7 @@ export default function Footer() {
                             <li><Link href="/thuong-hieu" className="hover:text-primary transition-colors py-1 block">Thương hiệu A-Z</Link></li>
                             <li><Link href="/theo-nhu-cau" className="hover:text-primary transition-colors py-1 block">Theo nhu cầu</Link></li>
                             <li><Link href="/theo-not-huong" className="hover:text-primary transition-colors py-1 block">Theo nốt hương</Link></li>
-                            <li><Link href="/bang-xep-hang" className="hover:text-primary transition-colors py-1 block">Bảng xếp hạng</Link></li>
+                            <li><Link href="/nuoc-hoa-theo-nhu-cau" className="hover:text-primary transition-colors py-1 block">Tìm nước hoa</Link></li>
                         </ul>
                     </div>
 

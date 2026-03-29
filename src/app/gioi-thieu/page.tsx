@@ -139,8 +139,8 @@ export default function AboutPage() {
                         <Link href="/" className="bg-primary text-white px-10 py-4 rounded-xl font-bold hover:scale-105 transition-transform">
                             Khám phá Tủ hương
                         </Link>
-                        <Link href="/bang-xep-hang" className="bg-white border border-[var(--border)] px-10 py-4 rounded-xl font-bold hover:bg-gray-50 transition-colors">
-                            Bảng xếp hạng
+                        <Link href="/nuoc-hoa-theo-nhu-cau" className="bg-white border border-[var(--border)] px-10 py-4 rounded-xl font-bold hover:bg-gray-50 transition-colors">
+                            Tìm nước hoa
                         </Link>
                     </div>
                 </div>

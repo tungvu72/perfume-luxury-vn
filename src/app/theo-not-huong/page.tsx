@@ -56,7 +56,7 @@ export default function NotesPage() {
             </p>
             <div className="mt-5 flex flex-wrap gap-3 text-sm">
               <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Bắt đầu từ mùi bạn thích</span>
-              <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Đi thẳng vào bảng xếp hạng đã lọc</span>
+              <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Lọc nhanh theo nốt hương</span>
               <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Dễ dùng cho người mới</span>
             </div>
           </div>
@@ -77,7 +77,7 @@ export default function NotesPage() {
                 {group.notes.map((note) => (
                   <Link
                     key={note}
-                    href={`/bang-xep-hang?note=${encodeURIComponent(note)}`}
+                    href={`/nuoc-hoa-theo-nhu-cau?note=${encodeURIComponent(note)}`}
                     className="rounded-full border border-[#decfbd] bg-[#faf6f1] px-4 py-2.5 text-sm font-semibold text-[#4b3b30] transition hover:border-primary hover:text-primary"
                   >
                     {note}
@@ -106,10 +106,10 @@ export default function NotesPage() {
               Nhắn Zalo để được gợi ý
             </Link>
             <Link
-              href="/bang-xep-hang"
+              href="/nuoc-hoa-theo-nhu-cau"
               className="inline-flex items-center justify-center rounded-full border border-white/20 px-6 py-3 text-sm font-bold text-white transition hover:bg-white/10"
             >
-              Xem toàn bộ bảng xếp hạng
+              Xem toàn bộ nước hoa
             </Link>
           </div>
         </div>

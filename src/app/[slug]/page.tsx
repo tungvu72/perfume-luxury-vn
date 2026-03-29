@@ -593,7 +593,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 <p className="text-[14px] text-gray-600 mb-5 leading-[1.8]">Nếu bạn vẫn đang phân vân giữa vài lựa chọn, cứ nhắn Zalo. Maison de SON sẽ gợi ý theo gu mùi, ngân sách và hoàn cảnh dùng thực tế.</p>
                                 <div className="flex flex-col sm:flex-row gap-3">
                                     <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 px-6 py-3.5 bg-[#0068FF] text-white text-sm font-bold rounded-full hover:bg-[#0055d4] transition-colors shadow-[0_4px_14px_rgba(0,104,255,0.3)]">💬 Hỏi qua Zalo</a>
-                                    <Link href="/bang-xep-hang" className="flex items-center justify-center gap-2 px-6 py-3.5 border border-[#d4c9b8] bg-white text-[#4b3b30] text-sm font-bold rounded-full hover:border-primary hover:text-primary transition-colors">Xem bảng xếp hạng</Link>
+                                    <Link href="/nuoc-hoa-theo-nhu-cau" className="flex items-center justify-center gap-2 px-6 py-3.5 border border-[#d4c9b8] bg-white text-[#4b3b30] text-sm font-bold rounded-full hover:border-primary hover:text-primary transition-colors">Tìm nước hoa</Link>
                                 </div>
                             </section>
 
@@ -654,7 +654,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                             </Link>
                                         ))}
                                     </div>
-                                    <Link href="/bang-xep-hang" className="block text-center text-[10px] font-bold text-primary hover:underline mt-4 pt-3 border-t border-gray-100">Xem tất cả →</Link>
+                                    <Link href="/nuoc-hoa-theo-nhu-cau" className="block text-center text-[10px] font-bold text-primary hover:underline mt-4 pt-3 border-t border-gray-100">Xem tất cả →</Link>
                                 </div>
 
                                 <div className="border border-[#e8e0d4] bg-white rounded-2xl p-5 shadow-[0_4px_20px_rgba(0,0,0,0.03)]">

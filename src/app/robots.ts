@@ -10,7 +10,7 @@ export default function robots(): MetadataRoute.Robots {
           '/theo-not-huong',
           '/theo-nhu-cau',
           '/thuong-hieu/',
-          '/bang-xep-hang',
+          '/nuoc-hoa-theo-nhu-cau',
           '/kien-thuc/',
           '/gioi-thieu',
           '/nam-gioi',
