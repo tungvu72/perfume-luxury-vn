@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Jean-Claude Ellena",
   "gender": "nam",
+  "year": 2006,
   "image": "/images/products/terre-dhermes-edt-main.jpg",
   "images": [
     {
@@ -27,9 +28,18 @@
     "total": 8.4
   },
   "vibes": [
-    { "label": "Trưởng thành", "icon": "🧔" },
-    { "label": "Lịch sự", "icon": "🕴️" },
-    { "label": "Tinh tế", "icon": "🎯" }
+    {
+      "label": "Trưởng thành",
+      "icon": "🧔"
+    },
+    {
+      "label": "Lịch sự",
+      "icon": "🕴️"
+    },
+    {
+      "label": "Tinh tế",
+      "icon": "🎯"
+    }
   ],
   "longevity": 7,
   "sillage": 6,
@@ -44,30 +54,73 @@
     "night": 40
   },
   "topNotes": [
-    { "name": "Cam" },
-    { "name": "Bưởi" }
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Bưởi"
+    }
   ],
   "middleNotes": [
-    { "name": "Tiêu" },
-    { "name": "Phong lữ thảo" },
-    { "name": "Đá lửa" }
+    {
+      "name": "Tiêu"
+    },
+    {
+      "name": "Phong lữ thảo"
+    },
+    {
+      "name": "Đá lửa"
+    }
   ],
   "baseNotes": [
-    { "name": "Cỏ hương bài" },
-    { "name": "Gỗ tuyết tùng" },
-    { "name": "Hoắc hương" },
-    { "name": "An tức hương" }
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "An tức hương"
+    }
   ],
   "accords": [
-    { "name": "Cam chanh", "value": 62, "color": "#f7c242" },
-    { "name": "Khoáng", "value": 56, "color": "#95a5a6" },
-    { "name": "Gỗ", "value": 54, "color": "#8B4513" },
-    { "name": "Gia vị tươi", "value": 36, "color": "#c58a2b" }
+    {
+      "name": "Cam chanh",
+      "value": 62,
+      "color": "#f7c242"
+    },
+    {
+      "name": "Khoáng",
+      "value": 56,
+      "color": "#95a5a6"
+    },
+    {
+      "name": "Gỗ",
+      "value": 54,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị tươi",
+      "value": 36,
+      "color": "#c58a2b"
+    }
   ],
   "seoTitle": "Terre d'Hermes EDT chính hãng giá bao nhiêu? Review 2026",
   "metaDescription": "Đánh giá Terre d'Hermes EDT chính hãng: mùi cam gỗ đất trưởng thành, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-  "tags": ["Nam", "Trưởng thành", "Lịch sự", "Cao cấp"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Trưởng thành",
+    "Lịch sự",
+    "Cao cấp"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2550000,
   "shopeeOffers": []
 }

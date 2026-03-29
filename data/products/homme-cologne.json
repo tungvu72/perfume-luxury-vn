@@ -6,6 +6,7 @@
   "subName": "Cologne",
   "perfumer": "François Demachy",
   "gender": "nam",
+  "year": 2013,
   "image": "/images/products/dior-homme-cologne-main.jpg",
   "images": [
     {
@@ -19,30 +20,106 @@
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi bám lâu tỏa xa — thì Homme Cologne BÁM 2-3 GIỜ rồi biến mất. Đây là cologne nồng độ thấp nhất: citrus-xạ hương sạch kiểu vừa tắm xong, da sạch, không hương liệu nặng. Ai quen Sauvage hay Eros sẽ hỏi \"tao xịt gì rồi nhỉ?\" sau 2 giờ. Đây là chai \"feel clean\" chứ không phải \"smell good\".\n\n### Có đáng tiền không?\n\nGiá Dior — nhưng cologne bám ngắn nên ML/giờ đắt hơn EDP nhiều. Lý do người ta vẫn mua: cảm giác SẠC quá đẹp. Bưởi + xạ hương trắng tạo ra skin scent mà nhiều niche house bán gấp 3 không đạt được. So với Dior Homme EDT — cùng dòng — thì Cologne nhẹ hơn 90%, không iris, thuần citrus. So với Hermès Eau d'Orange Verte — cùng nhóm citrus sạch — thì Dior mượt hơn, ít green hơn.\n\n### Nên dùng khi nào?\n\nMùa hè, sau khi tắm, trước khi ra ngoài dạo phố, đi cafe ban ngày. Xịt 5-6 nhát vì cologne tỏa yếu: cổ, ngực, cổ tay, sau tai, quần áo. Sài Gòn dùng quanh năm. Hà Nội tháng 4-9. Đừng mong bám — mong DA SẠCH.",
   "verdict": "Citrus-xạ hương sạch nhất — da vừa tắm. Bám 2-3 giờ. Không phải khoe mà để SẠCH. Niche clean ở giá designer.",
   "verdictShort": "CITRUS SẠCH, DA TẮM, BÁM NGẮN",
-  "score": { "scent": 8.0, "uniqueness": 7.5, "compliments": 6.5, "value": 6.5, "total": 7.1 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 7.5,
+    "compliments": 6.5,
+    "value": 6.5,
+    "total": 7.1
+  },
   "vibes": [
-    { "label": "Sạch", "icon": "🧼" },
-    { "label": "Da tắm", "icon": "💧" },
-    { "label": "Mùa hè", "icon": "☀️" }
+    {
+      "label": "Sạch",
+      "icon": "🧼"
+    },
+    {
+      "label": "Da tắm",
+      "icon": "💧"
+    },
+    {
+      "label": "Mùa hè",
+      "icon": "☀️"
+    }
   ],
   "longevity": 3,
   "sillage": 3,
-  "seasons": { "spring": 82, "summer": 95, "fall": 28, "winter": 8 },
-  "dayNight": { "day": 92, "night": 15 },
-  "topNotes": [{ "name": "Bưởi" }, { "name": "Cam bergamot" }, { "name": "Chanh" }],
-  "middleNotes": [{ "name": "Oải hương" }],
-  "baseNotes": [{ "name": "Xạ hương trắng" }, { "name": "Cỏ hương bài" }, { "name": "Gỗ tuyết tùng" }],
+  "seasons": {
+    "spring": 82,
+    "summer": 95,
+    "fall": 28,
+    "winter": 8
+  },
+  "dayNight": {
+    "day": 92,
+    "night": 15
+  },
+  "topNotes": [
+    {
+      "name": "Bưởi"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Chanh"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Oải hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Xạ hương trắng"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
   "accords": [
-    { "name": "Cam chanh", "value": 100, "color": "#f1c40f" },
-    { "name": "Tươi mát", "value": 82, "color": "#2ecc71" },
-    { "name": "Xạ hương", "value": 55, "color": "#bdc3c7" },
-    { "name": "Thơm thảo mộc", "value": 32, "color": "#2c7a4b" },
-    { "name": "Gỗ", "value": 25, "color": "#8B4513" }
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 82,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 55,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 32,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gỗ",
+      "value": 25,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "Dior Homme Cologne chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Dior Homme Cologne chính hãng: mùi citrus sạch skin scent kiểu da tắm, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Sạch", "Mùa hè", "Skin scent"],
-  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Sạch",
+    "Mùa hè",
+    "Skin scent"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox",
+    "125ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

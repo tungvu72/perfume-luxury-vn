@@ -6,6 +6,7 @@
   "subName": "Le Parfum",
   "perfumer": "François Demachy",
   "gender": "nam",
+  "year": 2014,
   "image": "/images/products/dior-fahrenheit-le-parfum-main.jpg",
   "images": [
     {
@@ -19,30 +20,99 @@
   "article": "### Ai không nên mua?\n\nNếu bạn yêu Fahrenheit EDT gốc (xăng-hoa tím-da) và muốn bản đậm hơn — thì Le Parfum khác HOÀN TOÀN. Demachy bỏ gần hết nốt xăng-violet, thay bằng da hun-nghệ tây-oải hương nặng. Đây không phải upgrade mà là REBOOT. Ai thích EDT nên giữ EDT. Le Parfum cho ai muốn DNA da-leather without the gasoline.\n\n### Có đáng tiền không?\n\nGiá Dior Le Parfum — cao hơn EDT nhưng concentration mạnh: bám 10+ giờ, tỏa mạnh. So với Fahrenheit EDT gốc — khác hoàn toàn, ít synthetic hơn, tối hơn. So với Tom Ford Tuscan Leather — cùng nhóm da niche — thì Le Parfum nhẹ hơn nhưng rẻ hơn gấp 3. So với Ombre Leather Tom Ford — cùng tầm giá — thì Le Parfum có nghệ tây mà OL thiếu. Bám cực lâu.\n\n### Nên dùng khi nào?\n\nMùa đông, buổi tối, khi muốn mùi DA mà không cần xăng. Xịt 1-2 nhát cổ — Le Parfum quá mạnh nếu xịt nhiều. Hà Nội tháng 11-2. Sài Gòn chỉ tối lạnh hoặc phòng điều hòa cực mạnh. Chai aggressive nhất dòng Fahrenheit.",
   "verdict": "Da hun-nghệ tây — Fahrenheit reboot tối nhất. Không xăng. Demachy. Le Parfum 10h+. Leather without gasoline.",
   "verdictShort": "DA HUN NGHỆ TÂY, REBOOT, CỰC MẠNH",
-  "score": { "scent": 8.5, "uniqueness": 8.8, "compliments": 7.0, "value": 7.5, "total": 8.0 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.8,
+    "compliments": 7,
+    "value": 7.5,
+    "total": 8
+  },
   "vibes": [
-    { "label": "Da thuộc", "icon": "🖤" },
-    { "label": "Intense", "icon": "🔥" },
-    { "label": "Mùa đông", "icon": "❄️" }
+    {
+      "label": "Da thuộc",
+      "icon": "🖤"
+    },
+    {
+      "label": "Intense",
+      "icon": "🔥"
+    },
+    {
+      "label": "Mùa đông",
+      "icon": "❄️"
+    }
   ],
   "longevity": 10,
   "sillage": 8,
-  "seasons": { "spring": 18, "summer": 2, "fall": 72, "winter": 92 },
-  "dayNight": { "day": 12, "night": 88 },
-  "topNotes": [{ "name": "Oải hương" }],
-  "middleNotes": [{ "name": "Da thuộc" }, { "name": "Nghệ tây" }],
-  "baseNotes": [{ "name": "Cỏ hương bài" }, { "name": "Hổ phách" }],
+  "seasons": {
+    "spring": 18,
+    "summer": 2,
+    "fall": 72,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 12,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Nghệ tây"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Da thuộc", "value": 100, "color": "#795548" },
-    { "name": "Gỗ", "value": 72, "color": "#8B4513" },
-    { "name": "Gia vị ấm", "value": 62, "color": "#e67e22" },
-    { "name": "Thơm thảo mộc", "value": 48, "color": "#2c7a4b" },
-    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+    {
+      "name": "Da thuộc",
+      "value": 100,
+      "color": "#795548"
+    },
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 62,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 48,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 42,
+      "color": "#d4a017"
+    }
   ],
   "seoTitle": "Dior Fahrenheit Le Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Dior Fahrenheit Le Parfum chính hãng: mùi da hun nghệ tây tối nhất Fahrenheit, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Da thuộc", "Intense", "Mùa đông"],
-  "sizes": ["10ml Chiết", "75ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Da thuộc",
+    "Intense",
+    "Mùa đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox"
+  ],
   "basePrice": 3200000,
   "shopeeOffers": [],
   "isPublished": true

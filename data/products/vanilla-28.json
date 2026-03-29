@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Gabriela Chelariu",
   "gender": "unisex",
+  "year": 2006,
   "image": "/images/products/kayali-vanilla-28-main.jpg",
   "images": [
     {
@@ -27,9 +28,18 @@
     "total": 8.2
   },
   "vibes": [
-    { "label": "Layering", "icon": "🧪" },
-    { "label": "Ấm áp", "icon": "🤎" },
-    { "label": "Hằng ngày", "icon": "🧴" }
+    {
+      "label": "Layering",
+      "icon": "🧪"
+    },
+    {
+      "label": "Ấm áp",
+      "icon": "🤎"
+    },
+    {
+      "label": "Hằng ngày",
+      "icon": "🧴"
+    }
   ],
   "longevity": 7,
   "sillage": 6,
@@ -44,28 +54,67 @@
     "night": 74
   },
   "topNotes": [
-    { "name": "Lan vani" },
-    { "name": "Hoa nhài" }
+    {
+      "name": "Lan vani"
+    },
+    {
+      "name": "Hoa nhài"
+    }
   ],
   "middleNotes": [
-    { "name": "Đường nâu" },
-    { "name": "Đậu tonka" }
+    {
+      "name": "Đường nâu"
+    },
+    {
+      "name": "Đậu tonka"
+    }
   ],
   "baseNotes": [
-    { "name": "Hổ phách" },
-    { "name": "Xạ hương" },
-    { "name": "Hoắc hương" }
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hoắc hương"
+    }
   ],
   "accords": [
-    { "name": "Vani", "value": 74, "color": "#f5deb3" },
-    { "name": "Ngọt", "value": 44, "color": "#8B0000" },
-    { "name": "Hổ phách", "value": 24, "color": "#d4a017" },
-    { "name": "Phấn mềm", "value": 18, "color": "#a1887f" }
+    {
+      "name": "Vani",
+      "value": 74,
+      "color": "#f5deb3"
+    },
+    {
+      "name": "Ngọt",
+      "value": 44,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 24,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Phấn mềm",
+      "value": 18,
+      "color": "#a1887f"
+    }
   ],
   "seoTitle": "Kayali Vanilla 28 chính hãng giá bao nhiêu? Review 2026",
   "metaDescription": "Đánh giá Kayali Vanilla 28 chính hãng: mùi vanilla ngọt ấm gourmand, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-  "tags": ["Unisex", "Vanilla", "Layering", "Hằng ngày"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Vanilla",
+    "Layering",
+    "Hằng ngày"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2650000,
   "shopeeOffers": []
 }

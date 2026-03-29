@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Honorine Blanc",
   "gender": "nam",
+  "year": 2020,
   "image": "/images/products/boss-bottled-edp-main.jpg",
   "images": [
     {
@@ -27,9 +28,18 @@
     "total": 8.2
   },
   "vibes": [
-    { "label": "Đi làm", "icon": "💼" },
-    { "label": "Lịch sự", "icon": "🎩" },
-    { "label": "Trưởng thành", "icon": "🖤" }
+    {
+      "label": "Đi làm",
+      "icon": "💼"
+    },
+    {
+      "label": "Lịch sự",
+      "icon": "🎩"
+    },
+    {
+      "label": "Trưởng thành",
+      "icon": "🖤"
+    }
   ],
   "longevity": 7,
   "sillage": 6,
@@ -44,25 +54,61 @@
     "night": 60
   },
   "topNotes": [
-    { "name": "Táo" },
-    { "name": "Tiêu đen" },
-    { "name": "Cam bergamot" }
+    {
+      "name": "Táo"
+    },
+    {
+      "name": "Tiêu đen"
+    },
+    {
+      "name": "Cam bergamot"
+    }
   ],
   "middleNotes": [
-    { "name": "Quế" },
-    { "name": "Bạch đậu khấu" },
-    { "name": "Hạt dẻ" }
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Hạt dẻ"
+    }
   ],
   "baseNotes": [
-    { "name": "Xạ hương" },
-    { "name": "Cỏ hương bài" }
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
   ],
   "accords": [
-    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
-    { "name": "Gia vị ấm", "value": 82, "color": "#b05c00" },
-    { "name": "Ngọt", "value": 68, "color": "#e74c3c" },
-    { "name": "Tươi", "value": 55, "color": "#2ecc71" },
-    { "name": "Trái cây", "value": 48, "color": "#f39c12" }
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 82,
+      "color": "#b05c00"
+    },
+    {
+      "name": "Ngọt",
+      "value": 68,
+      "color": "#e74c3c"
+    },
+    {
+      "name": "Tươi",
+      "value": 55,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Trái cây",
+      "value": 48,
+      "color": "#f39c12"
+    }
   ],
   "seoTitle": "Boss Bottled EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Boss Bottled EDP chính hãng: mùi gỗ gia vị lịch lãm, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",

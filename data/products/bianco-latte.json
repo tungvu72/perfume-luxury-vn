@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Unknown",
   "gender": "unisex",
+  "year": 2023,
   "image": "/images/products/giardini-di-toscana-bianco-latte-main.jpg",
   "images": [
     {
@@ -19,30 +20,99 @@
   "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt — dừng lại ngay. Bianco Latte NGỌT. Rất ngọt. Caramel-sữa-vani-mật ong — kiểu ly sữa nóng rưới caramel ở quán cà phê mùa đông. Ai thích mùi tươi mát, mùi citrus hay mùi gỗ khô sẽ thấy nó ngộp. Ngoài ra, chai này viral trên TikTok nên khả năng đụng hàng rất cao — đặc biệt với gen Z.\n\n### Có đáng tiền không?\n\nGiá tầm trung — rẻ hơn nhiều so với niche nhưng đắt hơn designer. Giardini Di Toscana là hãng Ý ít ai biết trước khi TikTok đẩy Bianco Latte lên viral. So với Ariana Grande Cloud — cùng nhóm ngọt viral — thì Bianco Latte sữa hơn, ít marshmallow hơn. So với Kayali Vanilla 28 — cùng vani — thì Bianco Latte có caramel-mật ong mà Kayali thiếu. Bám 6-7 giờ, tỏa vừa.\n\n### Nên dùng khi nào?\n\nMùa đông, ở nhà cuối tuần, đi cafe, hoặc khi muốn comfort zone. Xịt 2-3 nhát cổ và cổ tay. Hà Nội tháng 11-2 là perfect. Sài Gòn thì phòng máy lạnh hoặc tối mát. Không dùng đi làm trong phòng kín vì caramel sữa sẽ ngộp đồng nghiệp.",
   "verdict": "Sữa caramel trong chai — TikTok viral, comfort food. Ngọt nhưng ai thích thì nghiện. Giá tốt cho gourmand.",
   "verdictShort": "SỮA CARAMEL, TIKTOK VIRAL, COMFORT",
-  "score": { "scent": 8.0, "uniqueness": 7.5, "compliments": 8.5, "value": 8.5, "total": 8.1 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 7.5,
+    "compliments": 8.5,
+    "value": 8.5,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Comfort", "icon": "🥛" },
-    { "label": "Viral", "icon": "📱" },
-    { "label": "Ngọt", "icon": "🍯" }
+    {
+      "label": "Comfort",
+      "icon": "🥛"
+    },
+    {
+      "label": "Viral",
+      "icon": "📱"
+    },
+    {
+      "label": "Ngọt",
+      "icon": "🍯"
+    }
   ],
   "longevity": 7,
   "sillage": 6,
-  "seasons": { "spring": 32, "summer": 8, "fall": 72, "winter": 88 },
-  "dayNight": { "day": 42, "night": 72 },
-  "topNotes": [{ "name": "Caramel" }],
-  "middleNotes": [{ "name": "Mật ong" }, { "name": "Coumarin" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Xạ hương trắng" }],
+  "seasons": {
+    "spring": 32,
+    "summer": 8,
+    "fall": 72,
+    "winter": 88
+  },
+  "dayNight": {
+    "day": 42,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Caramel"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Mật ong"
+    },
+    {
+      "name": "Coumarin"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Xạ hương trắng"
+    }
+  ],
   "accords": [
-    { "name": "Gourmand", "value": 100, "color": "#d4a373" },
-    { "name": "Ngọt", "value": 85, "color": "#8B0000" },
-    { "name": "Vani", "value": 78, "color": "#F5DEB3" },
-    { "name": "Kem", "value": 62, "color": "#faebd7" },
-    { "name": "Xạ hương", "value": 38, "color": "#bdc3c7" }
+    {
+      "name": "Gourmand",
+      "value": 100,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Ngọt",
+      "value": 85,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Vani",
+      "value": 78,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Kem",
+      "value": 62,
+      "color": "#faebd7"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 38,
+      "color": "#bdc3c7"
+    }
   ],
   "seoTitle": "Giardini Di Toscana Bianco Latte chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Bianco Latte chính hãng: mùi sữa caramel vani TikTok viral, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Unisex", "Gourmand", "Viral", "Comfort"],
-  "sizes": ["10ml Chiết", "100ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Gourmand",
+    "Viral",
+    "Comfort"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "100ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

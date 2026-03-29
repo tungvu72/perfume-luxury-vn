@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Jean-Paul Guerlain",
   "gender": "nam",
+  "year": 1965,
   "image": "/images/products/guerlain-habit-rouge-edt-main.jpg",
   "images": [
     {
@@ -19,30 +20,119 @@
   "article": "### Ai không nên mua?\n\nNếu bạn chỉ biết nước hoa nam hiện đại — thì Habit Rouge sẽ là time machine về 1965. Tên lấy từ \"áo choàng đỏ\" của kỵ sĩ cưỡi ngựa Pháp — và mùi cũng vậy: cam sáng, quế ấm, da thuộc, vani — kiểu quý ông Pháp thế kỷ trước. Chai nước hoa ORIENTAL NAM ĐẦU TIÊN lịch sử. Ai thích sporty-fresh-modern sẽ thấy nó cũ.\n\n### Có đáng tiền không?\n\nGiá Guerlain EDT — rất hợp lý. Và đây là chai KHAI SINH oriental nam: trước 1965, nam giới chỉ dùng fougère/chypre. Jean-Paul Guerlain phá lệ bằng cam-vani-da — và mở ra cả thể loại mà giờ Spicebomb, Eros, 1 Million thuộc về. So với Spicebomb Extreme — cùng oriental ấm — thì Habit Rouge nhẹ hơn, nhiều cam hơn, vintage hơn. Bám 5-6 giờ (EDT).\n\n### Nên dùng khi nào?\n\nĐi ăn tối, sự kiện nhẹ, hoặc khi muốn mùi Pháp thật sự. Xịt 3 nhát: cổ, ngực, cổ tay. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối mát. Chai để hiểu heritage nước hoa nam.",
   "verdict": "Oriental nam ĐẦU TIÊN lịch sử — cam, vani, da, áo choàng đỏ 1965. Jean-Paul Guerlain. Khai sinh cả thể loại.",
   "verdictShort": "ORIENTAL NAM ĐẦU TIÊN, 1965, HERITAGE",
-  "score": { "scent": 8.0, "uniqueness": 9.0, "compliments": 6.5, "value": 8.5, "total": 8.0 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 9,
+    "compliments": 6.5,
+    "value": 8.5,
+    "total": 8
+  },
   "vibes": [
-    { "label": "Heritage", "icon": "🏇" },
-    { "label": "Kỵ sĩ", "icon": "🇫🇷" },
-    { "label": "Pioneer", "icon": "👑" }
+    {
+      "label": "Heritage",
+      "icon": "🏇"
+    },
+    {
+      "label": "Kỵ sĩ",
+      "icon": "🇫🇷"
+    },
+    {
+      "label": "Pioneer",
+      "icon": "👑"
+    }
   ],
   "longevity": 6,
   "sillage": 5,
-  "seasons": { "spring": 52, "summer": 22, "fall": 78, "winter": 72 },
-  "dayNight": { "day": 42, "night": 72 },
-  "topNotes": [{ "name": "Cam" }, { "name": "Chanh" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Quế" }, { "name": "Hoa cẩm chướng" }, { "name": "Hoa hồng" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Vani" }, { "name": "Da thuộc" }, { "name": "Hổ phách" }, { "name": "Benzoin" }],
+  "seasons": {
+    "spring": 52,
+    "summer": 22,
+    "fall": 78,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 42,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Chanh"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Hoa cẩm chướng"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Benzoin"
+    }
+  ],
   "accords": [
-    { "name": "Cam chanh", "value": 100, "color": "#f1c40f" },
-    { "name": "Phương Đông", "value": 72, "color": "#c0392b" },
-    { "name": "Gia vị ấm", "value": 58, "color": "#e67e22" },
-    { "name": "Da thuộc", "value": 48, "color": "#795548" },
-    { "name": "Vani", "value": 42, "color": "#F5DEB3" }
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Phương Đông",
+      "value": 72,
+      "color": "#c0392b"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 58,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 48,
+      "color": "#795548"
+    },
+    {
+      "name": "Vani",
+      "value": 42,
+      "color": "#F5DEB3"
+    }
   ],
   "seoTitle": "Guerlain Habit Rouge chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Guerlain Habit Rouge chính hãng: oriental nam đầu tiên lịch sử 1965, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Heritage", "Pioneer", "Oriental"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Heritage",
+    "Pioneer",
+    "Oriental"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 1800000,
   "shopeeOffers": [],
   "isPublished": true

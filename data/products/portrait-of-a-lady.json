@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Dominique Ropion",
   "gender": "nu",
+  "year": 2010,
   "image": "/images/products/frederic-malle-portrait-of-a-lady-main.jpg",
   "images": [
     {
@@ -19,30 +20,133 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi nhẹ nhàng tươi sáng thì Portrait of a Lady hoàn toàn ngược — đây là mùi hoa hồng đen-hoắc hương cực kỳ đậm và opulent. Ai dưới 25 tuổi có thể thấy nó quá mature. Cần test trước — chai này polarizing.\n\n### Có đáng tiền không?\n\nPortrait of a Lady thuộc phân khúc Frederic Malle — ultra-niche, giá rất cao. So với Penhaligon's Halfeti (cùng nhóm hoa hồng đen), Portrait có hoắc hương mạnh hơn và ít oud hơn. So với MFK Oud Satin Mood, Portrait đậm hoắc hương hơn. Hiệu năng quái vật: bám 12+ giờ, tỏa mạnh. Masterpiece thật sự.\n\n### Nên dùng khi nào?\n\nMùa thu đông, buổi tối, dịp đặc biệt, sự kiện VIP. Xịt 1-2 nhát — beast mode. Đẹp nhất khi trời lạnh. Ở Việt Nam hợp mùa đông.",
   "verdict": "Masterpiece hoa hồng đen-hoắc hương — opulent, powerful, 12h+. Chai nghệ thuật đỉnh cao. Không dành cho ai sợ mùi đậm.",
   "verdictShort": "HOA HỒNG ĐEN, OPULENT, MASTERPIECE",
-  "score": { "scent": 9.8, "uniqueness": 9.5, "compliments": 8.5, "value": 7.0, "total": 8.7 },
+  "score": {
+    "scent": 9.8,
+    "uniqueness": 9.5,
+    "compliments": 8.5,
+    "value": 7,
+    "total": 8.7
+  },
   "vibes": [
-    { "label": "Masterpiece", "icon": "🎭" },
-    { "label": "Opulent", "icon": "👑" },
-    { "label": "Dịp đặc biệt", "icon": "🥂" }
+    {
+      "label": "Masterpiece",
+      "icon": "🎭"
+    },
+    {
+      "label": "Opulent",
+      "icon": "👑"
+    },
+    {
+      "label": "Dịp đặc biệt",
+      "icon": "🥂"
+    }
   ],
   "longevity": 10,
   "sillage": 9,
-  "seasons": { "spring": 28, "summer": 5, "fall": 85, "winter": 98 },
-  "dayNight": { "day": 15, "night": 95 },
-  "topNotes": [{ "name": "Hoa hồng" }, { "name": "Đinh hương" }, { "name": "Phúc bồn tử" }, { "name": "Lý chua đen" }, { "name": "Quế" }],
-  "middleNotes": [{ "name": "Hoa hồng Thổ Nhĩ Kỳ" }, { "name": "Hoắc hương" }, { "name": "Trầm hương" }, { "name": "Gỗ đàn hương" }, { "name": "Ngọc lan tây" }],
-  "baseNotes": [{ "name": "Trầm hương" }, { "name": "Gỗ đàn hương" }, { "name": "Xạ hương" }, { "name": "Benzoin" }, { "name": "Hổ phách" }, { "name": "Gỗ tuyết tùng" }],
+  "seasons": {
+    "spring": 28,
+    "summer": 5,
+    "fall": 85,
+    "winter": 98
+  },
+  "dayNight": {
+    "day": 15,
+    "night": 95
+  },
+  "topNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Đinh hương"
+    },
+    {
+      "name": "Phúc bồn tử"
+    },
+    {
+      "name": "Lý chua đen"
+    },
+    {
+      "name": "Quế"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng Thổ Nhĩ Kỳ"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Trầm hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Ngọc lan tây"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Trầm hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
   "accords": [
-    { "name": "Hoắc hương", "value": 100, "color": "#4e342e" },
-    { "name": "Hoa", "value": 82, "color": "#e91e63" },
-    { "name": "Gia vị ấm", "value": 68, "color": "#e67e22" },
-    { "name": "Gỗ", "value": 58, "color": "#8B4513" },
-    { "name": "Hổ phách", "value": 48, "color": "#d4a017" }
+    {
+      "name": "Hoắc hương",
+      "value": 100,
+      "color": "#4e342e"
+    },
+    {
+      "name": "Hoa",
+      "value": 82,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 68,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Gỗ",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 48,
+      "color": "#d4a017"
+    }
   ],
   "seoTitle": "Frederic Malle Portrait of a Lady chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Frederic Malle Portrait of a Lady chính hãng: mùi hoa hồng đen hoắc hương opulent, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Ultra-niche", "Masterpiece", "Opulent"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Ultra-niche",
+    "Masterpiece",
+    "Opulent"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 8500000,
   "shopeeOffers": [],
   "isPublished": true

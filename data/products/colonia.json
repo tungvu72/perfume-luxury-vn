@@ -6,6 +6,7 @@
   "subName": "Eau de Cologne",
   "perfumer": "Carlo Magnani",
   "gender": "unisex",
+  "year": 1916,
   "image": "/images/products/acqua-di-parma-colonia-main.jpg",
   "images": [
     {
@@ -19,30 +20,119 @@
   "article": "### Ai không nên mua?\n\nNếu bạn cần beast mode bám 10 giờ thì Colonia không dành cho bạn — đây là Eau de Cologne, bám 3-4 giờ. Ai thích mùi ngọt đậm cũng sẽ thấy chai này quá nhẹ và quá sạch. Giá Acqua di Parma khá cao cho EDC.\n\n### Có đáng tiền không?\n\nColonia thuộc phân khúc Italian luxury — 110 năm tuổi. So với Dior Eau Sauvage, Colonia ấm hơn và nhiều hoa hơn. So với 4711 Original, Colonia sang hơn rất nhiều với chất liệu đỉnh. Hiệu năng yếu (EDC) nhưng blend đỉnh cao. Đáng mua cho connoisseur và collection.\n\n### Nên dùng khi nào?\n\nMùa hè, ban ngày, đi brunch, dạo phố kiểu gentleman Ý. Xịt 4-5 nhát vì tỏa nhẹ. Đẹp nhất khi trời nóng. Ở Sài Gòn dùng quanh năm.",
   "verdict": "Chai citrus 110 năm bất tử — sáng, sạch, gentleman Ý. Bám yếu nhưng blend đỉnh cao. Collector piece.",
   "verdictShort": "CITRUS KINH ĐIỂN 1916, Ý, BẤT TỬ",
-  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 7.5, "value": 7.0, "total": 8.0 },
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.5,
+    "compliments": 7.5,
+    "value": 7,
+    "total": 8
+  },
   "vibes": [
-    { "label": "Kinh điển", "icon": "👑" },
-    { "label": "Gentleman", "icon": "🎩" },
-    { "label": "Mùa hè", "icon": "☀️" }
+    {
+      "label": "Kinh điển",
+      "icon": "👑"
+    },
+    {
+      "label": "Gentleman",
+      "icon": "🎩"
+    },
+    {
+      "label": "Mùa hè",
+      "icon": "☀️"
+    }
   ],
   "longevity": 3,
   "sillage": 4,
-  "seasons": { "spring": 85, "summer": 92, "fall": 42, "winter": 22 },
-  "dayNight": { "day": 92, "night": 22 },
-  "topNotes": [{ "name": "Cam Sicily" }, { "name": "Oải hương" }, { "name": "Cỏ roi ngựa chanh" }, { "name": "Hương thảo" }],
-  "middleNotes": [{ "name": "Hoa hồng Bulgaria" }, { "name": "Hoa nhài" }],
-  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Xạ hương nhẹ" }, { "name": "Gỗ đàn hương" }, { "name": "Hoắc hương" }, { "name": "Cỏ hương bài" }],
+  "seasons": {
+    "spring": 85,
+    "summer": 92,
+    "fall": 42,
+    "winter": 22
+  },
+  "dayNight": {
+    "day": 92,
+    "night": 22
+  },
+  "topNotes": [
+    {
+      "name": "Cam Sicily"
+    },
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Cỏ roi ngựa chanh"
+    },
+    {
+      "name": "Hương thảo"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng Bulgaria"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Xạ hương nhẹ"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
   "accords": [
-    { "name": "Cam chanh", "value": 100, "color": "#f1c40f" },
-    { "name": "Thơm thảo mộc", "value": 78, "color": "#2c7a4b" },
-    { "name": "Gia vị tươi", "value": 62, "color": "#27ae60" },
-    { "name": "Gỗ", "value": 48, "color": "#8B4513" },
-    { "name": "Phấn", "value": 35, "color": "#d7bde2" }
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 78,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gia vị tươi",
+      "value": 62,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Gỗ",
+      "value": 48,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Phấn",
+      "value": 35,
+      "color": "#d7bde2"
+    }
   ],
   "seoTitle": "Acqua di Parma Colonia chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Acqua di Parma Colonia chính hãng: mùi citrus kinh điển 1916, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Unisex", "Kinh điển", "Citrus", "Mùa hè"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "180ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Kinh điển",
+    "Citrus",
+    "Mùa hè"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "180ml Fullbox"
+  ],
   "basePrice": 3200000,
   "shopeeOffers": [],
   "isPublished": true

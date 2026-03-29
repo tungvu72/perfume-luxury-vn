@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Jacques Polge",
   "gender": "nam",
+  "year": 1990,
   "image": "/images/products/chanel-egoiste-main.jpg",
   "images": [
     {
@@ -19,30 +20,115 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích compliment getter — thì Égoïste đúng như tên: ÍCH KỶ. Chai này xịt cho MÌNH thích chứ không phải cho ai khen. Gỗ hồng (rosewood) ấm, khô, phấn — mùi rất \"nội tâm\" và không crowd-pleasing. Quảng cáo gốc cũng iconic: phụ nữ la hét \"Égoïste!\" từ trên ban công. Đây không phải chai cho casual.\n\n### Có đáng tiền không?\n\nGiá Chanel — EDT nên reasonable. Égoïste ra đời 1990, dùng gỗ hồng (Brazilian rosewood) — nguyên liệu hiện tại gần như tuyệt chủng và bị cấm khai thác, nên bản reformulate không thể giống gốc 100%. So với Dior Homme — cùng nhóm nam elegant — thì Égoïste nhiều gỗ hồng hơn, ít iris hơn, vintage hơn. So với Antaeus — cùng Chanel cổ — thì Égoïste nhẹ hơn, bớt powerhouse. Bám 6-7 giờ.\n\n### Nên dùng khi nào?\n\nĐi làm, ăn tối nhẹ, đọc sách, hoặc khi muốn thời gian cho bản thân. Xịt 3 nhát: cổ, ngực, cổ tay. Thu đông đẹp nhất — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai cho người đã tìm được chính mình.",
   "verdict": "Gỗ hồng-vani ích kỷ — xịt cho mình. Quảng cáo iconic. Rosewood gần tuyệt chủng. Chanel vintage art.",
   "verdictShort": "GỖ HỒNG VANI, ÍCH KỶ, VINTAGE CHANEL",
-  "score": { "scent": 8.8, "uniqueness": 9.0, "compliments": 6.5, "value": 8.0, "total": 8.1 },
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 9,
+    "compliments": 6.5,
+    "value": 8,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Ích kỷ", "icon": "😏" },
-    { "label": "Vintage", "icon": "🏛️" },
-    { "label": "Nội tâm", "icon": "📖" }
+    {
+      "label": "Ích kỷ",
+      "icon": "😏"
+    },
+    {
+      "label": "Vintage",
+      "icon": "🏛️"
+    },
+    {
+      "label": "Nội tâm",
+      "icon": "📖"
+    }
   ],
   "longevity": 7,
   "sillage": 5,
-  "seasons": { "spring": 52, "summer": 18, "fall": 82, "winter": 78 },
-  "dayNight": { "day": 52, "night": 68 },
-  "topNotes": [{ "name": "Rau mùi" }, { "name": "Cam bergamot" }, { "name": "Hương thảo" }, { "name": "Cam quýt" }],
-  "middleNotes": [{ "name": "Gỗ hồng" }, { "name": "Hoa nhài" }, { "name": "Hoa hồng" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Vani" }, { "name": "Hổ phách" }],
+  "seasons": {
+    "spring": 52,
+    "summer": 18,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 52,
+    "night": 68
+  },
+  "topNotes": [
+    {
+      "name": "Rau mùi"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Hương thảo"
+    },
+    {
+      "name": "Cam quýt"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gỗ hồng"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
-    { "name": "Gia vị ấm", "value": 62, "color": "#e67e22" },
-    { "name": "Phấn", "value": 52, "color": "#d7bde2" },
-    { "name": "Hoa", "value": 42, "color": "#e91e63" },
-    { "name": "Vani", "value": 38, "color": "#F5DEB3" }
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 62,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Phấn",
+      "value": 52,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Hoa",
+      "value": 42,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Vani",
+      "value": 38,
+      "color": "#F5DEB3"
+    }
   ],
   "seoTitle": "Chanel Égoïste chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Chanel Égoïste chính hãng: mùi gỗ hồng vani vintage iconic, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Vintage", "Nội tâm", "Gỗ hồng"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Vintage",
+    "Nội tâm",
+    "Gỗ hồng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2500000,
   "shopeeOffers": [],
   "isPublished": true

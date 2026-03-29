@@ -6,6 +6,7 @@
   "subName": "Parfum",
   "perfumer": "Alberto Morillas",
   "gender": "nam",
+  "year": 2015,
   "image": "/images/products/acqua-di-gio-profumo-main.jpg",
   "images": [
     {
@@ -27,9 +28,18 @@
     "total": 8.5
   },
   "vibes": [
-    { "label": "Đa dụng", "icon": "🌊" },
-    { "label": "Nam tính", "icon": "🖤" },
-    { "label": "An toàn", "icon": "✅" }
+    {
+      "label": "Đa dụng",
+      "icon": "🌊"
+    },
+    {
+      "label": "Nam tính",
+      "icon": "🖤"
+    },
+    {
+      "label": "An toàn",
+      "icon": "✅"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
@@ -44,25 +54,63 @@
     "night": 55
   },
   "topNotes": [
-    { "name": "Hương biển" },
-    { "name": "Cam bergamot" }
+    {
+      "name": "Hương biển"
+    },
+    {
+      "name": "Cam bergamot"
+    }
   ],
   "middleNotes": [
-    { "name": "Hương thảo" },
-    { "name": "Xô thơm" },
-    { "name": "Phong lữ" }
+    {
+      "name": "Hương thảo"
+    },
+    {
+      "name": "Xô thơm"
+    },
+    {
+      "name": "Phong lữ"
+    }
   ],
   "baseNotes": [
-    { "name": "Nhũ hương" },
-    { "name": "Hoắc hương" }
+    {
+      "name": "Nhũ hương"
+    },
+    {
+      "name": "Hoắc hương"
+    }
   ],
   "accords": [
-    { "name": "Thơm thảo mộc", "value": 100, "color": "#2c7a4b" },
-    { "name": "Biển", "value": 85, "color": "#1e88e5" },
-    { "name": "Gia vị tươi", "value": 72, "color": "#4CAF50" },
-    { "name": "Hổ phách", "value": 62, "color": "#d4a017" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Khói", "value": 45, "color": "#616161" }
+    {
+      "name": "Thơm thảo mộc",
+      "value": 100,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Biển",
+      "value": 85,
+      "color": "#1e88e5"
+    },
+    {
+      "name": "Gia vị tươi",
+      "value": 72,
+      "color": "#4CAF50"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 62,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Khói",
+      "value": 45,
+      "color": "#616161"
+    }
   ],
   "seoTitle": "Acqua di Giò Profumo chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Acqua di Giò Profumo chính hãng: mùi biển sạch trưởng thành, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",

@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Francis Kurkdjian",
   "gender": "nam",
+  "year": 1995,
   "image": "/images/products/jpg-le-male-edt-main.jpg",
   "images": [
     {
@@ -19,30 +20,126 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi sạch hiện đại kiểu Bleu de Chanel hay Sauvage thì Le Male will feel old-school — đây là mùi barbershop ngọt kiểu 90s. Ai ghét vanilla-lavender ngọt cũng nên tránh. Ngoài ra, người chơi lâu năm sẽ thấy mùi này rất quen — mỗi hiệu cắt tóc đều có một chai clone Le Male đâu đó.\n\n### Có đáng tiền không?\n\nLe Male thuộc phân khúc designer tầm trung — rẻ hơn Chanel và Dior. So với Ultra Male (flanker cùng dòng), Le Male nhẹ hơn và less sweet. So với Boss Bottled EDP, Le Male vui hơn và ngọt hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá mạnh. Chai này đáng vì chất mùi rất đặc trưng — xịt 1 lần ai cũng nhận ra.\n\n### Nên dùng khi nào?\n\nĐi chơi, hẹn hò casual, tụ tập bạn bè, trời mát. Xịt 2-3 nhát: cổ, ngực, cổ tay. Đẹp nhất mùa thu đông. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh. Đừng dùng đi văn phòng nghiêm túc — quá vui và quá ngọt.",
   "verdict": "Tượng đài barbershop nam — lavender, mint, vani. Vui, dễ nhớ và có bản sắc. Hơi cổ điển cho ai thích mùi hiện đại.",
   "verdictShort": "BARBERSHOP, NGỌT, KINH ĐIỂN",
-  "score": { "scent": 8.5, "uniqueness": 8.2, "compliments": 8.8, "value": 8.5, "total": 8.5 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.2,
+    "compliments": 8.8,
+    "value": 8.5,
+    "total": 8.5
+  },
   "vibes": [
-    { "label": "Kinh điển", "icon": "👑" },
-    { "label": "Vui vẻ", "icon": "😎" },
-    { "label": "Hẹn hò", "icon": "❤️" }
+    {
+      "label": "Kinh điển",
+      "icon": "👑"
+    },
+    {
+      "label": "Vui vẻ",
+      "icon": "😎"
+    },
+    {
+      "label": "Hẹn hò",
+      "icon": "❤️"
+    }
   ],
   "longevity": 7,
   "sillage": 7,
-  "seasons": { "spring": 58, "summer": 35, "fall": 82, "winter": 88 },
-  "dayNight": { "day": 42, "night": 78 },
-  "topNotes": [{ "name": "Oải hương" }, { "name": "Bạc hà" }, { "name": "Bạch đậu khấu" }, { "name": "Cam bergamot" }, { "name": "Ngải cứu" }],
-  "middleNotes": [{ "name": "Quế" }, { "name": "Hoa cam" }, { "name": "Thì là Ai Cập" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Đậu Tonka" }, { "name": "Hổ phách" }, { "name": "Gỗ đàn hương" }, { "name": "Gỗ tuyết tùng" }],
+  "seasons": {
+    "spring": 58,
+    "summer": 35,
+    "fall": 82,
+    "winter": 88
+  },
+  "dayNight": {
+    "day": 42,
+    "night": 78
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Bạc hà"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Ngải cứu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Thì là Ai Cập"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
   "accords": [
-    { "name": "Thơm thảo mộc", "value": 100, "color": "#2c7a4b" },
-    { "name": "Vani", "value": 82, "color": "#F5DEB3" },
-    { "name": "Ngọt", "value": 72, "color": "#8B0000" },
-    { "name": "Gia vị ấm", "value": 62, "color": "#e67e22" },
-    { "name": "Oải hương", "value": 55, "color": "#7e57c2" }
+    {
+      "name": "Thơm thảo mộc",
+      "value": 100,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Vani",
+      "value": 82,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Ngọt",
+      "value": 72,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 62,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Oải hương",
+      "value": 55,
+      "color": "#7e57c2"
+    }
   ],
   "seoTitle": "JPG Le Male EDT chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá JPG Le Male EDT chính hãng: tượng đài barbershop lavender-vani, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Kinh điển", "Hẹn hò", "Barbershop"],
-  "sizes": ["10ml Chiết", "40ml Fullbox", "75ml Fullbox", "125ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Kinh điển",
+    "Hẹn hò",
+    "Barbershop"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "40ml Fullbox",
+    "75ml Fullbox",
+    "125ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 2000000,
   "shopeeOffers": [],
   "isPublished": true

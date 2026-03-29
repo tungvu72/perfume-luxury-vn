@@ -6,32 +6,122 @@
   "subName": "Le Parfum",
   "perfumer": "Anne Flipo",
   "gender": "nu",
+  "year": 2022,
   "image": "/images/products/ysl-libre-le-parfum-main.jpg",
   "images": [
-    { "url": "/images/products/ysl-libre-le-parfum-main.jpg", "source": "fragram", "caption": "YSL Libre Le Parfum chính hãng", "verified": true }
+    {
+      "url": "/images/products/ysl-libre-le-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "YSL Libre Le Parfum chính hãng",
+      "verified": true
+    }
   ],
   "description": "Nồng độ cao nhất Libre — oải hương, hoa cam, nhài, vani dày, gỗ đàn hương, hổ phách và xạ hương. Libre đậm nhất, bám lâu nhất, nữ mạnh nhất.",
   "article": "### Ai không nên mua?\n\nNếu bạn thấy Libre gốc đã đủ — thì Le Parfum quá nặng. Đây là Libre MAX: Anne Flipo đẩy vani và amber lên nồng độ Parfum, tạo ra phiên bản NỮ MẠNH nhất lineup. Oải hương vẫn có nhưng bị vani phủ nặng. Ai thích Libre vì tươi sáng sẽ thất vọng.\n\n### Có đáng tiền không?\n\nGiá YSL Le Parfum — đắt hơn EDP. Nhưng bám 10+ giờ và tỏa cả ngày. So với Libre Intense — Le Parfum đậm hơn nữa, nhiều vani hơn nữa, ít lavender hơn. So với JPG La Belle Le Parfum — cùng nhóm vani le parfum — thì Libre có oải hương mà La Belle không có. Nồng độ cao nhất = best longevity.\n\n### Nên dùng khi nào?\n\nSự kiện đặc biệt, đêm mùa đông, hoặc khi muốn STATEMENT. Xịt 1-2 nhát cổ — Le Parfum cực mạnh. Hà Nội tháng 11-2. Sài Gòn chỉ tối phòng điều hòa mạnh. Chai artillery, không phải hằng ngày.",
   "verdict": "Libre MAX — vani parfum. Anne Flipo. 10h+. Nữ mạnh nhất YSL. Artillery, không phải everyday.",
   "verdictShort": "VANI PARFUM, LIBRE MAX, ARTILLERY",
-  "score": { "scent": 8.5, "uniqueness": 7.5, "compliments": 8.5, "value": 7.5, "total": 8.0 },
-  "vibes": [{ "label": "Artillery", "icon": "💣" }, { "label": "Statement", "icon": "⭐" }, { "label": "Mùa đông", "icon": "❄️" }],
-  "longevity": 10, "sillage": 8,
-  "seasons": { "spring": 18, "summer": 2, "fall": 78, "winter": 92 },
-  "dayNight": { "day": 12, "night": 88 },
-  "topNotes": [{ "name": "Oải hương" }],
-  "middleNotes": [{ "name": "Hoa cam" }, { "name": "Hoa nhài" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Hổ phách" }, { "name": "Xạ hương" }],
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 7.5,
+    "compliments": 8.5,
+    "value": 7.5,
+    "total": 8
+  },
+  "vibes": [
+    {
+      "label": "Artillery",
+      "icon": "💣"
+    },
+    {
+      "label": "Statement",
+      "icon": "⭐"
+    },
+    {
+      "label": "Mùa đông",
+      "icon": "❄️"
+    }
+  ],
+  "longevity": 10,
+  "sillage": 8,
+  "seasons": {
+    "spring": 18,
+    "summer": 2,
+    "fall": 78,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 12,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
   "accords": [
-    { "name": "Vani", "value": 100, "color": "#F5DEB3" },
-    { "name": "Hổ phách", "value": 78, "color": "#d4a017" },
-    { "name": "Ngọt", "value": 62, "color": "#8B0000" },
-    { "name": "Hoa trắng", "value": 42, "color": "#f5f5dc" },
-    { "name": "Thơm thảo mộc", "value": 35, "color": "#2c7a4b" }
+    {
+      "name": "Vani",
+      "value": 100,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 78,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Ngọt",
+      "value": 62,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Hoa trắng",
+      "value": 42,
+      "color": "#f5f5dc"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 35,
+      "color": "#2c7a4b"
+    }
   ],
   "seoTitle": "YSL Libre Le Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá YSL Libre Le Parfum chính hãng: mùi vani parfum nữ mạnh nhất YSL, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Statement", "Vani", "Mùa đông"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
-  "basePrice": 2800000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Statement",
+    "Vani",
+    "Mùa đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "90ml Fullbox"
+  ],
+  "basePrice": 2800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

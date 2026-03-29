@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Francis Kurkdjian",
   "gender": "nu",
+  "year": 2018,
   "image": "/images/products/burberry-her-edp-main.jpg",
   "images": [
     {
@@ -19,30 +20,134 @@
   "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt trái cây thì Burberry Her sẽ quá ngọt — berry đỏ (dâu, mâm xôi, blackberry) phả ra ngay phút đầu, gần như kiểu kẹo dâu. Ai thích mùi thanh lịch kiểu Chanel hay mùi powdery mature cũng sẽ thấy Her quá trẻ và quá \"candy\". Ngoài ra, chai nhỏ nhất (50ml) không rẻ cho mùi ngọt dâu — nếu chưa chắc thì nên thử chiết 10ml trước.\n\n### Có đáng tiền không?\n\nBất ngờ: người đứng sau Burberry Her là Francis Kurkdjian — perfumer tạo ra BR540 và Baccarat Rouge. Chai này rẻ hơn MFK 4-5 lần nhưng có chiều sâu tương tự ở phần base: cashmeran, vani và xạ hương tạo lớp kem ấm phía dưới berry. So với Sol de Janeiro Cheirosa 62 — cùng nhóm ngọt-ấm — thì Her phức tạp hơn với violet-jasmine ở giữa. So với Ariana Grande Cloud — cùng ngọt trẻ — thì Her berry hơn và ít marshmallow hơn. Bám 6-7 giờ, tỏa vừa.\n\n### Nên dùng khi nào?\n\nĐi cafe, đi shopping, gặp bạn bè, hẹn hò casual. Xịt 2-3 nhát cổ và cổ tay. Dùng quanh năm — ở Sài Gòn dùng thoải mái vì berry tươi sáng. Hà Nội mùa đông thì cashmeran-vani ấm lên đẹp. Chai này tỏa hương vui vẻ — ai đứng gần cũng thấy thoải mái.",
   "verdict": "Berry đỏ-vani kiểu London — Francis Kurkdjian blend, giá tốt. Ngọt dâu, ấm, dễ thương kiểu gen Z.",
   "verdictShort": "BERRY ĐỎ VANI, DỄ THƯƠNG, GEN Z",
-  "score": { "scent": 8.5, "uniqueness": 7.8, "compliments": 8.8, "value": 8.5, "total": 8.4 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 7.8,
+    "compliments": 8.8,
+    "value": 8.5,
+    "total": 8.4
+  },
   "vibes": [
-    { "label": "Dễ thương", "icon": "🍓" },
-    { "label": "Trẻ trung", "icon": "⚡" },
-    { "label": "Hằng ngày", "icon": "🧴" }
+    {
+      "label": "Dễ thương",
+      "icon": "🍓"
+    },
+    {
+      "label": "Trẻ trung",
+      "icon": "⚡"
+    },
+    {
+      "label": "Hằng ngày",
+      "icon": "🧴"
+    }
   ],
   "longevity": 7,
   "sillage": 7,
-  "seasons": { "spring": 78, "summer": 62, "fall": 72, "winter": 65 },
-  "dayNight": { "day": 75, "night": 62 },
-  "topNotes": [{ "name": "Dâu tây" }, { "name": "Phúc bồn tử" }, { "name": "Blackberry" }, { "name": "Anh đào chua" }, { "name": "Lý chua đen" }, { "name": "Cam quýt" }, { "name": "Chanh" }],
-  "middleNotes": [{ "name": "Hoa tím" }, { "name": "Hoa nhài" }],
-  "baseNotes": [{ "name": "Xạ hương" }, { "name": "Vani" }, { "name": "Cashmeran" }, { "name": "Gỗ" }, { "name": "Hổ phách" }, { "name": "Rêu sồi" }, { "name": "Hoắc hương" }],
+  "seasons": {
+    "spring": 78,
+    "summer": 62,
+    "fall": 72,
+    "winter": 65
+  },
+  "dayNight": {
+    "day": 75,
+    "night": 62
+  },
+  "topNotes": [
+    {
+      "name": "Dâu tây"
+    },
+    {
+      "name": "Phúc bồn tử"
+    },
+    {
+      "name": "Blackberry"
+    },
+    {
+      "name": "Anh đào chua"
+    },
+    {
+      "name": "Lý chua đen"
+    },
+    {
+      "name": "Cam quýt"
+    },
+    {
+      "name": "Chanh"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa tím"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Cashmeran"
+    },
+    {
+      "name": "Gỗ"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
   "accords": [
-    { "name": "Trái cây", "value": 100, "color": "#f39c12" },
-    { "name": "Ngọt", "value": 78, "color": "#8B0000" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Xạ hương", "value": 48, "color": "#bdc3c7" },
-    { "name": "Phấn", "value": 35, "color": "#d7bde2" }
+    {
+      "name": "Trái cây",
+      "value": 100,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Ngọt",
+      "value": 78,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 48,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Phấn",
+      "value": 35,
+      "color": "#d7bde2"
+    }
   ],
   "seoTitle": "Burberry Her EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Burberry Her EDP chính hãng: mùi berry đỏ vani dễ thương, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Dễ thương", "Berry", "Hằng ngày"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Dễ thương",
+    "Berry",
+    "Hằng ngày"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

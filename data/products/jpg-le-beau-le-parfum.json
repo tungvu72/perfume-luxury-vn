@@ -6,6 +6,7 @@
   "subName": "Parfum",
   "perfumer": "Quentin Bisch",
   "gender": "nam",
+  "year": 2022,
   "image": "/images/products/jpg-le-beau-le-parfum-main.jpg",
   "images": [
     {
@@ -27,9 +28,18 @@
     "total": 8.6
   },
   "vibes": [
-    { "label": "Đi chơi", "icon": "🏝️" },
-    { "label": "Buổi tối", "icon": "🌙" },
-    { "label": "Quyến rũ", "icon": "🔥" }
+    {
+      "label": "Đi chơi",
+      "icon": "🏝️"
+    },
+    {
+      "label": "Buổi tối",
+      "icon": "🌙"
+    },
+    {
+      "label": "Quyến rũ",
+      "icon": "🔥"
+    }
   ],
   "longevity": 8,
   "sillage": 8,
@@ -44,27 +54,64 @@
     "night": 92
   },
   "topNotes": [
-    { "name": "Dứa" },
-    { "name": "Gừng" }
+    {
+      "name": "Dứa"
+    },
+    {
+      "name": "Gừng"
+    }
   ],
   "middleNotes": [
-    { "name": "Dừa" },
-    { "name": "Gỗ" }
+    {
+      "name": "Dừa"
+    },
+    {
+      "name": "Gỗ"
+    }
   ],
   "baseNotes": [
-    { "name": "Đậu tonka" },
-    { "name": "Hổ phách" }
+    {
+      "name": "Đậu tonka"
+    },
+    {
+      "name": "Hổ phách"
+    }
   ],
   "accords": [
-    { "name": "Ngọt", "value": 74, "color": "#8B0000" },
-    { "name": "Tropical", "value": 66, "color": "#f39c12" },
-    { "name": "Hổ phách", "value": 32, "color": "#d4a017" },
-    { "name": "Gỗ", "value": 28, "color": "#8B4513" }
+    {
+      "name": "Ngọt",
+      "value": 74,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Tropical",
+      "value": 66,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 32,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gỗ",
+      "value": 28,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "JPG Le Beau Le Parfum chính hãng giá bao nhiêu? Review 2026",
   "metaDescription": "Đánh giá JPG Le Beau Le Parfum chính hãng: mùi dừa vanilla nhiệt đới, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-  "tags": ["Nam", "Đi chơi", "Buổi tối", "Cao cấp"],
-  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Đi chơi",
+    "Buổi tối",
+    "Cao cấp"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox",
+    "125ml Fullbox"
+  ],
   "basePrice": 3000000,
   "shopeeOffers": []
 }

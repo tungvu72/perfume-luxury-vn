@@ -1,24 +1,125 @@
 {
-  "id": "bright-crystal", "brandSlug": "versace", "brand": "VERSACE", "name": "Bright Crystal", "subName": "Eau de Toilette",
-  "perfumer": "Alberto Morillas", "gender": "nu",
+  "id": "bright-crystal",
+  "brandSlug": "versace",
+  "brand": "VERSACE",
+  "name": "Bright Crystal",
+  "subName": "Eau de Toilette",
+  "perfumer": "Alberto Morillas",
+  "gender": "nu",
+  "year": 2006,
   "image": "/images/products/versace-bright-crystal-main.jpg",
-  "images": [{ "url": "/images/products/versace-bright-crystal-main.jpg", "source": "fragram", "caption": "Versace Bright Crystal EDT chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/versace-bright-crystal-main.jpg",
+      "source": "fragram",
+      "caption": "Versace Bright Crystal EDT chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ lựu-mẫu đơn-xạ hương kiểu pha lê sáng — lựu, yuzu, hoa mẫu đơn, magnolia, hoa sen, xạ hương, hổ phách và gỗ gụ. Tươi, nữ tính và rất dễ dùng.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi unique cá tính — Bright Crystal quá SAFE. Alberto Morillas (CK One, Acqua di Gio) tạo chai này kiểu \"an toàn đẹp\": tươi mát, hoa nhẹ, xạ hương sạch — ai cũng thích nhưng không ai shock. NAME nghĩa đen: pha lê sáng. Mùi cũng vậy: trong, sáng, không góc cạnh.\n\n### Có đáng tiền không?\n\nGiá Versace — RẺ nhất trong các designer nữ nổi tiếng. Và chai này BÁN CHẠY toàn cầu vì lý do: dễ dùng, dễ thích, giá tốt. So với D&G Light Blue — cùng nhóm tươi nữ — thì Bright Crystal nhiều hoa hơn, ít citrus hơn. So với Chanel Chance Eau Tendre — cùng nhóm — thì BC rẻ hơn nhiều. Bám 4-5 giờ (EDT).\n\n### Nên dùng khi nào?\n\nMọi lúc — đi làm, đi học, đi chơi, đi biển. Xịt 4-5 nhát vì EDT nhẹ. Sài Gòn quanh năm. Hà Nội tháng 3-11. Chai MỌI PHỤ NỮ nên có 1.",
   "verdict": "Pha lê sáng — Morillas safe beauty. Rẻ nhất designer, bán chạy nhất. Mọi phụ nữ nên có 1.",
   "verdictShort": "PHA LÊ SÁNG, RẺ NHẤT, MỌI LÚC",
-  "score": { "scent": 7.5, "uniqueness": 6.0, "compliments": 8.0, "value": 9.5, "total": 7.8 },
-  "vibes": [{ "label": "Tươi", "icon": "💎" }, { "label": "Giá tốt", "icon": "💸" }, { "label": "Mọi lúc", "icon": "☀️" }],
-  "longevity": 4, "sillage": 4,
-  "seasons": { "spring": 82, "summer": 88, "fall": 52, "winter": 28 },
-  "dayNight": { "day": 88, "night": 32 },
-  "topNotes": [{ "name": "Lựu" }, { "name": "Yuzu" }],
-  "middleNotes": [{ "name": "Hoa mẫu đơn" }, { "name": "Magnolia" }, { "name": "Hoa sen" }],
-  "baseNotes": [{ "name": "Xạ hương" }, { "name": "Hổ phách" }, { "name": "Gỗ gụ" }],
-  "accords": [{ "name": "Tươi mát", "value": 100, "color": "#2ecc71" }, { "name": "Hoa", "value": 72, "color": "#e91e63" }, { "name": "Xạ hương", "value": 55, "color": "#bdc3c7" }, { "name": "Trái cây", "value": 42, "color": "#f39c12" }],
+  "score": {
+    "scent": 7.5,
+    "uniqueness": 6,
+    "compliments": 8,
+    "value": 9.5,
+    "total": 7.8
+  },
+  "vibes": [
+    {
+      "label": "Tươi",
+      "icon": "💎"
+    },
+    {
+      "label": "Giá tốt",
+      "icon": "💸"
+    },
+    {
+      "label": "Mọi lúc",
+      "icon": "☀️"
+    }
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "seasons": {
+    "spring": 82,
+    "summer": 88,
+    "fall": 52,
+    "winter": 28
+  },
+  "dayNight": {
+    "day": 88,
+    "night": 32
+  },
+  "topNotes": [
+    {
+      "name": "Lựu"
+    },
+    {
+      "name": "Yuzu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa mẫu đơn"
+    },
+    {
+      "name": "Magnolia"
+    },
+    {
+      "name": "Hoa sen"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ gụ"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Tươi mát",
+      "value": 100,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Hoa",
+      "value": 72,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 55,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Trái cây",
+      "value": 42,
+      "color": "#f39c12"
+    }
+  ],
   "seoTitle": "Versace Bright Crystal chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Versace Bright Crystal chính hãng: tươi sáng nữ tính giá tốt nhất designer, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Giá tốt", "Tươi", "Mọi lúc"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
-  "basePrice": 1200000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Giá tốt",
+    "Tươi",
+    "Mọi lúc"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "90ml Fullbox"
+  ],
+  "basePrice": 1200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

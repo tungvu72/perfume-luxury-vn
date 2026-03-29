@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Pierre Bourdon & Maurice Roger",
   "gender": "nu",
+  "year": 1994,
   "image": "/images/products/dior-dolce-vita-main.jpg",
   "images": [
     {
@@ -19,30 +20,118 @@
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi hiện đại trendy — thì Dolce Vita sẽ quá thập niên 90. Chai ra đời 1995, tên lấy từ bộ phim \"La Dolce Vita\" của Fellini — và mùi cũng đúng kiểu Italian golden life: đào, magnolia, gỗ đàn hương, vani. Ai thích sharp, fresh, cool sẽ thấy nó quá mềm, quá ấm. Ngoài ra, chai đã discontinued nên khó tìm.\n\n### Có đáng tiền không?\n\nGiá Dior — nhưng vì discontinued, thị trường secondhand tăng giá. Pierre Bourdon (perfumer cũng tạo Cool Water) + Maurice Roger tạo Dolce Vita như bài thơ về mùa hè Địa Trung Hải. So với Guerlain Champs-Élysées — cùng 90s floral — thì Dolce Vita ấm hơn, nhiều đào hơn. So với Hermès 24 Faubourg — cùng nhóm nữ sang — thì Dolce Vita ngọt trái cây hơn. Bám 5-6 giờ (EDT).\n\n### Nên dùng khi nào?\n\nBan ngày, đi dạo, café, du lịch, hoặc khi muốn cảm giác \"cuộc sống ngọt ngào\" đúng nghĩa. Xịt 3 nhát: cổ và cổ tay. Xuân hè đẹp nhất. Sài Gòn dùng quanh năm. Hà Nội tháng 3-10. Nếu tìm được chai, giữ lại — vintage value.",
   "verdict": "La Dolce Vita trong chai — đào, magnolia, gỗ đàn hương. Fellini 1995. Discontinued. Vintage treasure.",
   "verdictShort": "ĐÀO HOA GỖ, DOLCE VITA, DISCONTINUED",
-  "score": { "scent": 8.5, "uniqueness": 8.5, "compliments": 8.0, "value": 7.5, "total": 8.1 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.5,
+    "compliments": 8,
+    "value": 7.5,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "La Dolce Vita", "icon": "🍑" },
-    { "label": "Vintage", "icon": "📽️" },
-    { "label": "Discontinued", "icon": "⏳" }
+    {
+      "label": "La Dolce Vita",
+      "icon": "🍑"
+    },
+    {
+      "label": "Vintage",
+      "icon": "📽️"
+    },
+    {
+      "label": "Discontinued",
+      "icon": "⏳"
+    }
   ],
   "longevity": 6,
   "sillage": 5,
-  "seasons": { "spring": 82, "summer": 62, "fall": 55, "winter": 32 },
-  "dayNight": { "day": 78, "night": 48 },
-  "topNotes": [{ "name": "Magnolia" }, { "name": "Cam bergamot" }, { "name": "Bạch đậu khấu" }],
-  "middleNotes": [{ "name": "Hoa huệ" }, { "name": "Mai" }, { "name": "Hoa hồng" }, { "name": "Quế" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Vani" }, { "name": "Xạ hương" }, { "name": "Cỏ hương bài" }],
+  "seasons": {
+    "spring": 82,
+    "summer": 62,
+    "fall": 55,
+    "winter": 32
+  },
+  "dayNight": {
+    "day": 78,
+    "night": 48
+  },
+  "topNotes": [
+    {
+      "name": "Magnolia"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa huệ"
+    },
+    {
+      "name": "Mai"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Quế"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
   "accords": [
-    { "name": "Hoa", "value": 100, "color": "#e91e63" },
-    { "name": "Trái cây", "value": 72, "color": "#f39c12" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Gia vị ấm", "value": 42, "color": "#e67e22" },
-    { "name": "Ngọt", "value": 38, "color": "#8B0000" }
+    {
+      "name": "Hoa",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Trái cây",
+      "value": 72,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 42,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Ngọt",
+      "value": 38,
+      "color": "#8B0000"
+    }
   ],
   "seoTitle": "Dior Dolce Vita chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Dior Dolce Vita chính hãng: mùi đào magnolia gỗ đàn hương kiểu Fellini, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Vintage", "La Dolce Vita", "Discontinued"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Vintage",
+    "La Dolce Vita",
+    "Discontinued"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2500000,
   "shopeeOffers": [],
   "isPublished": true

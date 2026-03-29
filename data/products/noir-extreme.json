@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Sonia Constant",
   "gender": "nam",
+  "year": 2015,
   "image": "/images/products/tom-ford-noir-extreme-main.jpg",
   "images": [
     {
@@ -33,9 +34,18 @@
     "total": 8.4
   },
   "vibes": [
-    { "label": "Buổi tối", "icon": "🌙" },
-    { "label": "Sự kiện", "icon": "🎭" },
-    { "label": "Sang trọng", "icon": "✨" }
+    {
+      "label": "Buổi tối",
+      "icon": "🌙"
+    },
+    {
+      "label": "Sự kiện",
+      "icon": "🎭"
+    },
+    {
+      "label": "Sang trọng",
+      "icon": "✨"
+    }
   ],
   "longevity": 8,
   "sillage": 8,
@@ -50,33 +60,83 @@
     "night": 100
   },
   "topNotes": [
-    { "name": "Bạch đậu khấu" },
-    { "name": "Nhục đậu khấu" },
-    { "name": "Nghệ tây" },
-    { "name": "Quýt" }
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Nhục đậu khấu"
+    },
+    {
+      "name": "Nghệ tây"
+    },
+    {
+      "name": "Quýt"
+    }
   ],
   "middleNotes": [
-    { "name": "Kulfi" },
-    { "name": "Hoa hồng" },
-    { "name": "Hoa nhài" },
-    { "name": "Hoa cam" }
+    {
+      "name": "Kulfi"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa cam"
+    }
   ],
   "baseNotes": [
-    { "name": "Vani" },
-    { "name": "Hổ phách" },
-    { "name": "Gỗ đàn hương" },
-    { "name": "Gỗ tuyết tùng" }
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
   ],
   "accords": [
-    { "name": "Gia vị ấm", "value": 92, "color": "#e67e22" },
-    { "name": "Hổ phách", "value": 72, "color": "#c57b21" },
-    { "name": "Ngọt", "value": 68, "color": "#8B0000" },
-    { "name": "Gỗ", "value": 60, "color": "#8B4513" }
+    {
+      "name": "Gia vị ấm",
+      "value": 92,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 72,
+      "color": "#c57b21"
+    },
+    {
+      "name": "Ngọt",
+      "value": 68,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gỗ",
+      "value": 60,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "Tom Ford Noir Extreme chính hãng giá bao nhiêu? Review 2026",
   "metaDescription": "Đánh giá Tom Ford Noir Extreme chính hãng: mùi ấm ngọt sang cho buổi tối, độ lưu hương, độ tỏa hương và giá tham khảo 2026.",
-  "tags": ["Tom Ford", "Buổi tối", "Thu đông", "Cao cấp"],
-  "sizes": ["5ml Chiết", "10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Tom Ford",
+    "Buổi tối",
+    "Thu đông",
+    "Cao cấp"
+  ],
+  "sizes": [
+    "5ml Chiết",
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 4000000,
   "shopeeOffers": []
 }

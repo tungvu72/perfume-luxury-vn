@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Daniela Andrier",
   "gender": "nu",
+  "year": 2007,
   "image": "/images/products/prada-infusion-diris-main.jpg",
   "images": [
     {
@@ -19,30 +20,110 @@
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi ngọt, sexy, tỏa xa — thì Infusion d'Iris sẽ quá SẠCH, quá TỐI GIẢN để bạn cảm nhận được. Đây là iris kiểu Prada: clean, powdery, gần da — kiểu áo sơ mi trắng ủi phẳng, không phụ kiện. Daniela Andrier (cũng tạo Angélique Noire) thiết kế nó như \"trà hoa iris\" — nhẹ, thanh, không cần ai khen.\n\n### Có đáng tiền không?\n\nGiá Prada tầm trung-cao — và Infusion d'Iris là chai Prada nữ KINH ĐIỂN nhất. So với Dior Homme — cùng iris — thì Infusion d'Iris nữ hơn, sạch hơn, ít da hơn. So với Chanel No.19 — cùng iris nữ cổ điển — thì Infusion d'Iris hiện đại hơn, ít gia vị hơn. Chai được coi là \"quiet luxury\" scent — cho người không cần nói nhiều nhưng ai gần biết là đắt. Bám 6-7 giờ.\n\n### Nên dùng khi nào?\n\nĐi làm, gặp khách, họp, hoặc bất cứ dịp nào cần sự LỊCH SỰ THẦM LẶNG. Xịt 2-3 nhát: cổ và cổ tay. Dùng quanh năm — iris-neroli tươi mùa hè, benzoin-cedar ấm mùa đông. Chai \"old money\" scent.",
   "verdict": "Iris tối giản — trà hoa, sạch, quiet luxury. Andrier. Prada kinh điển nhất. Old money scent.",
   "verdictShort": "IRIS TỐI GIẢN, QUIET LUXURY, OLD MONEY",
-  "score": { "scent": 8.5, "uniqueness": 8.5, "compliments": 7.0, "value": 7.5, "total": 7.9 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.5,
+    "compliments": 7,
+    "value": 7.5,
+    "total": 7.9
+  },
   "vibes": [
-    { "label": "Quiet luxury", "icon": "🤫" },
-    { "label": "Tối giản", "icon": "⬜" },
-    { "label": "Old money", "icon": "💎" }
+    {
+      "label": "Quiet luxury",
+      "icon": "🤫"
+    },
+    {
+      "label": "Tối giản",
+      "icon": "⬜"
+    },
+    {
+      "label": "Old money",
+      "icon": "💎"
+    }
   ],
   "longevity": 7,
   "sillage": 4,
-  "seasons": { "spring": 78, "summer": 62, "fall": 65, "winter": 52 },
-  "dayNight": { "day": 78, "night": 42 },
-  "topNotes": [{ "name": "Neroli" }, { "name": "Cam quýt" }, { "name": "Galbanum" }],
-  "middleNotes": [{ "name": "Iris" }, { "name": "Cỏ hương bài" }],
-  "baseNotes": [{ "name": "Benzoin" }, { "name": "Gỗ tuyết tùng" }, { "name": "Nhũ hương" }],
+  "seasons": {
+    "spring": 78,
+    "summer": 62,
+    "fall": 65,
+    "winter": 52
+  },
+  "dayNight": {
+    "day": 78,
+    "night": 42
+  },
+  "topNotes": [
+    {
+      "name": "Neroli"
+    },
+    {
+      "name": "Cam quýt"
+    },
+    {
+      "name": "Galbanum"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Nhũ hương"
+    }
+  ],
   "accords": [
-    { "name": "Phấn", "value": 100, "color": "#d7bde2" },
-    { "name": "Hoa", "value": 72, "color": "#e91e63" },
-    { "name": "Tươi mát", "value": 55, "color": "#2ecc71" },
-    { "name": "Gỗ", "value": 48, "color": "#8B4513" },
-    { "name": "Xạ hương", "value": 42, "color": "#bdc3c7" }
+    {
+      "name": "Phấn",
+      "value": 100,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Hoa",
+      "value": 72,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 55,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Gỗ",
+      "value": 48,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 42,
+      "color": "#bdc3c7"
+    }
   ],
   "seoTitle": "Prada Infusion d'Iris chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Prada Infusion d'Iris chính hãng: mùi iris tối giản quiet luxury, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Quiet luxury", "Tối giản", "Office"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Quiet luxury",
+    "Tối giản",
+    "Office"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 2800000,
   "shopeeOffers": [],
   "isPublished": true

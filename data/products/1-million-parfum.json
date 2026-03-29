@@ -6,6 +6,7 @@
   "subName": "Parfum",
   "perfumer": "Quentin Bisch, Christophe Raynaud & Sonia Constant",
   "gender": "nam",
+  "year": 2020,
   "image": "/images/products/paco-rabanne-1-million-parfum-main.jpg",
   "images": [
     {
@@ -19,30 +20,113 @@
   "article": "### Ai không nên mua?\n\nNếu bạn mong đợi 1 Million ngọt vàng giòn giã huyền thoại thì Parfum sẽ gây bất ngờ — đây KHÔNG phải 1 Million mà bạn biết. Nó mặn, có da thuộc rõ, có tuberose (một loại hoa thường dùng trong mùi nữ), và tổng thể rất khác DNA vàng kim ngọt ban đầu. Nhiều fan 1 Million sẽ ghét. Ngoài ra, câu chuyện chai này xuất phát từ tai nạn kem chống nắng đổ lên mẫu da trong cặp của perfumer — và bạn NGỬI ra được: nó có mùi kem chống nắng thật sự.\n\n### Có đáng tiền không?\n\nGiá rẻ hơn Tom Ford và niche nhiều — mà DNA da-muối-nắng thì cực kỳ hiếm ở tầm giá designer. So với 1 Million Lucky — biến thể trước đó — thì Parfum tối hơn và ít ngọt hơn rõ rệt. So với JPG Le Male Le Parfum — cùng tầm giá, cùng năm ra mắt — thì 1 Million Parfum khác biệt hơn, ít mainstream hơn. Bám 8-9 giờ vì nồng độ parfum, tỏa khá mạnh 3 giờ đầu.\n\n### Nên dùng khi nào?\n\nĐi club, đi bar, tiệc tối, hoặc gặp gỡ cuối tuần. Xịt 2-3 nhát: cổ và ngực. Đẹp nhất khi trời ấm — vì DNA nắng-biển sẽ tỏa tự nhiên nhất. Ở Sài Gòn dùng tối quanh năm. Hà Nội thì từ tháng 4-10. Không hợp đi làm vì tuberose + kem chống nắng sẽ lạc lõng trong phòng họp.",
   "verdict": "1 Million nhưng không phải 1 Million — da, muối, nắng. Quentin Bisch sáng tạo. Cho đêm, cho party.",
   "verdictShort": "DA MUỐI NẮNG, KHÁC BIỆT, PARTY",
-  "score": { "scent": 8.5, "uniqueness": 9.0, "compliments": 8.2, "value": 8.0, "total": 8.4 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 9,
+    "compliments": 8.2,
+    "value": 8,
+    "total": 8.4
+  },
   "vibes": [
-    { "label": "Sexy", "icon": "🔥" },
-    { "label": "Party", "icon": "🎉" },
-    { "label": "Khác biệt", "icon": "⚡" }
+    {
+      "label": "Sexy",
+      "icon": "🔥"
+    },
+    {
+      "label": "Party",
+      "icon": "🎉"
+    },
+    {
+      "label": "Khác biệt",
+      "icon": "⚡"
+    }
   ],
   "longevity": 9,
   "sillage": 8,
-  "seasons": { "spring": 68, "summer": 72, "fall": 58, "winter": 35 },
-  "dayNight": { "day": 32, "night": 88 },
-  "topNotes": [{ "name": "Bưởi" }],
-  "middleNotes": [{ "name": "Tuberose mặn" }, { "name": "Muối" }, { "name": "Dầu monoï" }],
-  "baseNotes": [{ "name": "Da thuộc nắng" }, { "name": "Long diên hương" }, { "name": "Cashmeran" }, { "name": "Labdanum" }, { "name": "Thông" }],
+  "seasons": {
+    "spring": 68,
+    "summer": 72,
+    "fall": 58,
+    "winter": 35
+  },
+  "dayNight": {
+    "day": 32,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Bưởi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Tuberose mặn"
+    },
+    {
+      "name": "Muối"
+    },
+    {
+      "name": "Dầu monoï"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Da thuộc nắng"
+    },
+    {
+      "name": "Long diên hương"
+    },
+    {
+      "name": "Cashmeran"
+    },
+    {
+      "name": "Labdanum"
+    },
+    {
+      "name": "Thông"
+    }
+  ],
   "accords": [
-    { "name": "Da thuộc", "value": 100, "color": "#795548" },
-    { "name": "Mặn", "value": 72, "color": "#2980b9" },
-    { "name": "Hoa", "value": 58, "color": "#e91e63" },
-    { "name": "Nhựa", "value": 48, "color": "#5d4037" },
-    { "name": "Nắng", "value": 42, "color": "#f39c12" }
+    {
+      "name": "Da thuộc",
+      "value": 100,
+      "color": "#795548"
+    },
+    {
+      "name": "Mặn",
+      "value": 72,
+      "color": "#2980b9"
+    },
+    {
+      "name": "Hoa",
+      "value": 58,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Nhựa",
+      "value": 48,
+      "color": "#5d4037"
+    },
+    {
+      "name": "Nắng",
+      "value": 42,
+      "color": "#f39c12"
+    }
   ],
   "seoTitle": "Paco Rabanne 1 Million Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Paco Rabanne 1 Million Parfum chính hãng: mùi da muối nắng khác biệt, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Khác biệt", "Party", "Sexy"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Khác biệt",
+    "Party",
+    "Sexy"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

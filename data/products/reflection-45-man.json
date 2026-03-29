@@ -1,23 +1,128 @@
 {
-  "id": "reflection-45-man", "brandSlug": "amouage", "brand": "AMOUAGE", "name": "Reflection 45 Man", "subName": "Extrait de Parfum",
-  "perfumer": "Lucas Sieuzac", "gender": "nam",
+  "id": "reflection-45-man",
+  "brandSlug": "amouage",
+  "brand": "AMOUAGE",
+  "name": "Reflection 45 Man",
+  "subName": "Extrait de Parfum",
+  "perfumer": "Lucas Sieuzac",
+  "gender": "nam",
+  "year": 2022,
   "image": "/images/products/amouage-reflection-45-man-main.jpg",
-  "images": [{ "url": "/images/products/amouage-reflection-45-man-main.jpg", "source": "fragram", "caption": "Amouage Reflection 45 Man chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/amouage-reflection-45-man-main.jpg",
+      "source": "fragram",
+      "caption": "Amouage Reflection 45 Man chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nam hoa nhài-gỗ đàn hương-iris kiểu quý ông Oman sang nhất — nhài Sambac, hồng, iris, gỗ đàn hương, hoắc hương, vani, hổ phách và xạ hương. Hoa nam sang nhất niche. 45% concentration.",
   "article": "### Ai không nên mua?\n\nNếu bạn thấy hoa nhài \"quá nữ\" — thì Reflection 45 sẽ thách thức quan niệm đó. Lucas Sieuzac dùng nhài Sambac ở nồng độ 45% (extrait) tạo ra hoa nam SANG NHẤT niche: nhài + iris + gỗ đàn hương = quý ông Oman trong bộ thobe trắng. Ai muốn sporty-fresh đừng đến gần.\n\n### Có đáng tiền không?\n\nGiá Amouage 45 — top niche ĐẮT. Nhưng 45% concentration = 2-3 nhát bám 12+ giờ. Amouage = nhà hương liệu hoàng gia Oman, nguyên liệu Grade-A. So với Reflection Man EDP gốc — 45 đậm hơn, nhiều vani hơn, sang hơn. So với Dior Homme Parfum — cùng iris nam — thì Reflection 45 nhiều nhài hơn, siêu luxury.\n\n### Nên dùng khi nào?\n\nSự kiện VIP, gala, hoặc khi muốn mùi SANG NHẤT. Xịt 1-2 nhát sau cổ. Quanh năm — nhài tươi mùa hè, vani ấm mùa đông. Chai holy grail niche nam.",
   "verdict": "Nhài nam sang nhất — Amouage 45% Oman royal. 12h+. Holy grail niche. Quý ông thobe trắng.",
   "verdictShort": "NHÀI NAM, 45%, HOLY GRAIL NICHE",
-  "score": { "scent": 9.8, "uniqueness": 9.8, "compliments": 9.0, "value": 6.5, "total": 8.8 },
-  "vibes": [{ "label": "Holy grail", "icon": "🏆" }, { "label": "Royal", "icon": "👑" }, { "label": "Luxury", "icon": "💎" }],
-  "longevity": 12, "sillage": 7,
-  "seasons": { "spring": 72, "summer": 48, "fall": 78, "winter": 72 },
-  "dayNight": { "day": 55, "night": 72 },
-  "topNotes": [{ "name": "Nhài Sambac" }, { "name": "Hoa hồng" }],
-  "middleNotes": [{ "name": "Iris" }, { "name": "Gỗ đàn hương" }],
-  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Vani" }, { "name": "Hổ phách" }, { "name": "Xạ hương" }],
-  "accords": [{ "name": "Hoa trắng", "value": 100, "color": "#f5f5dc" }, { "name": "Gỗ", "value": 72, "color": "#8B4513" }, { "name": "Phấn", "value": 55, "color": "#d7bde2" }, { "name": "Xạ hương", "value": 42, "color": "#bdc3c7" }, { "name": "Vani", "value": 38, "color": "#F5DEB3" }],
+  "score": {
+    "scent": 9.8,
+    "uniqueness": 9.8,
+    "compliments": 9,
+    "value": 6.5,
+    "total": 8.8
+  },
+  "vibes": [
+    {
+      "label": "Holy grail",
+      "icon": "🏆"
+    },
+    {
+      "label": "Royal",
+      "icon": "👑"
+    },
+    {
+      "label": "Luxury",
+      "icon": "💎"
+    }
+  ],
+  "longevity": 12,
+  "sillage": 7,
+  "seasons": {
+    "spring": 72,
+    "summer": 48,
+    "fall": 78,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 55,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Nhài Sambac"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#f5f5dc"
+    },
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Phấn",
+      "value": 55,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 42,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Vani",
+      "value": 38,
+      "color": "#F5DEB3"
+    }
+  ],
   "seoTitle": "Amouage Reflection 45 Man chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Amouage Reflection 45 Man chính hãng: nhài nam sang nhất niche royal Oman 45%, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Holy grail", "Niche", "Royal"], "sizes": ["10ml Chiết", "100ml Fullbox"],
-  "basePrice": 8000000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nam",
+    "Holy grail",
+    "Niche",
+    "Royal"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "100ml Fullbox"
+  ],
+  "basePrice": 8000000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

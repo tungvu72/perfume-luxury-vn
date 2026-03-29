@@ -6,6 +6,7 @@
   "subName": "Parfum",
   "perfumer": "Olivier Polge",
   "gender": "nam",
+  "year": 2018,
   "image": "/images/products/bleu-de-chanel-parfum-main.jpg",
   "images": [
     {
@@ -20,16 +21,25 @@
   "verdict": "Bản hoàn thiện nhất của Bleu de Chanel — mượt, ấm và sang. Hợp người thích phong cách trưởng thành, lịch thiệp. Ít tươi hơn EDP nhưng bù lại bằng chiều sâu.",
   "verdictShort": "MƯỢT, ẤM, HOÀN THIỆN",
   "score": {
-    "scent": 9.0,
+    "scent": 9,
     "uniqueness": 7.8,
     "compliments": 8.8,
-    "value": 8.0,
+    "value": 8,
     "total": 8.4
   },
   "vibes": [
-    { "label": "Lịch thiệp", "icon": "🎩" },
-    { "label": "Trưởng thành", "icon": "🖤" },
-    { "label": "Đa dụng", "icon": "✅" }
+    {
+      "label": "Lịch thiệp",
+      "icon": "🎩"
+    },
+    {
+      "label": "Trưởng thành",
+      "icon": "🖤"
+    },
+    {
+      "label": "Đa dụng",
+      "icon": "✅"
+    }
   ],
   "longevity": 7,
   "sillage": 7,
@@ -44,30 +54,76 @@
     "night": 72
   },
   "topNotes": [
-    { "name": "Vỏ chanh" },
-    { "name": "Cam bergamot" },
-    { "name": "Bạc hà" },
-    { "name": "Ngải cứu" }
+    {
+      "name": "Vỏ chanh"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Bạc hà"
+    },
+    {
+      "name": "Ngải cứu"
+    }
   ],
   "middleNotes": [
-    { "name": "Oải hương" },
-    { "name": "Phong lữ" },
-    { "name": "Dứa" },
-    { "name": "Hương xanh" }
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Phong lữ"
+    },
+    {
+      "name": "Dứa"
+    },
+    {
+      "name": "Hương xanh"
+    }
   ],
   "baseNotes": [
-    { "name": "Gỗ đàn hương" },
-    { "name": "Gỗ tuyết tùng" },
-    { "name": "Amberwood" },
-    { "name": "Iso E Super" },
-    { "name": "Đậu Tonka" }
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Amberwood"
+    },
+    {
+      "name": "Iso E Super"
+    },
+    {
+      "name": "Đậu Tonka"
+    }
   ],
   "accords": [
-    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
-    { "name": "Cam chanh", "value": 82, "color": "#f1c40f" },
-    { "name": "Thơm thảo mộc", "value": 75, "color": "#2c7a4b" },
-    { "name": "Hổ phách", "value": 62, "color": "#d4a017" },
-    { "name": "Gia vị tươi", "value": 55, "color": "#4CAF50" }
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 82,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 75,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 62,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gia vị tươi",
+      "value": 55,
+      "color": "#4CAF50"
+    }
   ],
   "seoTitle": "Bleu de Chanel Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Bleu de Chanel Parfum chính hãng: mùi gỗ ấm sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",

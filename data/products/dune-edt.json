@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Jean-Louis Sieuzac, Nejla Barbir & Dominique Ropion",
   "gender": "nu",
+  "year": 1991,
   "image": "/images/products/dior-dune-edt-main.jpg",
   "images": [
     {
@@ -19,30 +20,125 @@
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi hoa rõ ràng kiểu rose hay jasmine — thì Dune sẽ khiến bạn bối rối vì nó ABSTRACT. Đây là mùi CÁT — không phải cát biển tươi mát, mà cát sa mạc ấm dưới nắng chiều, có hơi biển bay vào. Rất khó mô tả = rất khó bán. Nhưng ai đã hiểu thì sẽ yêu. Dominique Ropion tham gia nhóm perfumer — cùng người tạo Carnal Flower.\n\n### Có đáng tiền không?\n\nGiá Dior tầm trung — nhưng Dune ra đời 1991, thuộc nhóm heritage. 3 perfumer hợp tác tạo ra thứ gì đó mà đến giờ chưa ai replicate được: mùi cát ấm. So với Hermès Terre d'Hermès — cùng nhóm đất-khoáng — thì Dune nữ hơn, nhiều hổ phách hơn. So với CK Eternity — cùng 90s nữ — thì Dune abstract hơn, khó tiếp cận hơn nhưng thú vị hơn. Bám 6-7 giờ.\n\n### Nên dùng khi nào?\n\nCuối tuần thư giãn, đi biển, dạo hoàng hôn, hoặc khi muốn mùi hương mà không ai hỏi \"xịt mùi gì\" mà hỏi \"cảm giác gì thế?\". Xịt 3 nhát: cổ và cổ tay. Dùng quanh năm — cát ấm vào đông, biển tươi vào hè. Chai dành cho dreamer.",
   "verdict": "Cát sa mạc gặp biển — abstract nhất Dior. 3 perfumer (gồm Ropion). Mùi cảm giác, không phải mùi hoa.",
   "verdictShort": "CÁT BIỂN, ABSTRACT, CHO DREAMER",
-  "score": { "scent": 8.5, "uniqueness": 9.5, "compliments": 6.5, "value": 8.0, "total": 8.1 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 9.5,
+    "compliments": 6.5,
+    "value": 8,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Abstract", "icon": "🏜️" },
-    { "label": "Dreamer", "icon": "🌅" },
-    { "label": "Heritage", "icon": "👑" }
+    {
+      "label": "Abstract",
+      "icon": "🏜️"
+    },
+    {
+      "label": "Dreamer",
+      "icon": "🌅"
+    },
+    {
+      "label": "Heritage",
+      "icon": "👑"
+    }
   ],
   "longevity": 7,
   "sillage": 5,
-  "seasons": { "spring": 62, "summer": 52, "fall": 72, "winter": 58 },
-  "dayNight": { "day": 62, "night": 55 },
-  "topNotes": [{ "name": "Aldehyde" }, { "name": "Wallflower" }, { "name": "Mẫu đơn" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Hoa hồng" }, { "name": "Lily" }, { "name": "Lichen" }],
-  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Gỗ đàn hương" }, { "name": "Benzoin" }, { "name": "Vani" }, { "name": "Xạ hương" }],
+  "seasons": {
+    "spring": 62,
+    "summer": 52,
+    "fall": 72,
+    "winter": 58
+  },
+  "dayNight": {
+    "day": 62,
+    "night": 55
+  },
+  "topNotes": [
+    {
+      "name": "Aldehyde"
+    },
+    {
+      "name": "Wallflower"
+    },
+    {
+      "name": "Mẫu đơn"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Lily"
+    },
+    {
+      "name": "Lichen"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
   "accords": [
-    { "name": "Hổ phách", "value": 100, "color": "#d4a017" },
-    { "name": "Hoa", "value": 62, "color": "#e91e63" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Phấn", "value": 48, "color": "#d7bde2" },
-    { "name": "Biển", "value": 38, "color": "#2980b9" }
+    {
+      "name": "Hổ phách",
+      "value": 100,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Hoa",
+      "value": 62,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Phấn",
+      "value": 48,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Biển",
+      "value": 38,
+      "color": "#2980b9"
+    }
   ],
   "seoTitle": "Dior Dune chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Dior Dune chính hãng: mùi cát sa mạc biển abstract độc đáo, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Abstract", "Heritage", "Dreamer"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Abstract",
+    "Heritage",
+    "Dreamer"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Xerjoff (XJ 1861 Collection)",
   "gender": "unisex",
+  "year": 2015,
   "image": "/images/products/xerjoff-naxos-main.jpg",
   "images": [
     {
@@ -19,30 +20,115 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi sạch tươi nhẹ nhàng thì Naxos quá ngọt, quá ấm và quá gourmand cho gu đó. Ai ghét mùi thuốc lá hoặc mật ong cũng nên tránh. Đây là chai mùa đông — dùng hè sẽ ngọp.\n\n### Có đáng tiền không?\n\nNaxos thuộc phân khúc Xerjoff — đắt nhưng chất lượng top-tier. So với Alexandria II cùng hãng, Naxos ấm hơn, ít citrus hơn và nhiều gourmand hơn. So với PdM Herod (cùng nhóm thuốc lá), Naxos có mật ong-lavender mà Herod không có. Hiệu năng quái vật: bám 10+ giờ, tỏa mạnh. Chai Xerjoff được đánh giá cao nhất.\n\n### Nên dùng khi nào?\n\nMùa thu đông, buổi tối, hẹn hò, dịp đặc biệt. Xịt 1-2 nhát — beast mode. Đẹp nhất khi trời lạnh. Ở Việt Nam hợp mùa đông Hà Nội nhất.",
   "verdict": "Chai Xerjoff được yêu thích nhất — mật ong, lavender, thuốc lá. Beast mode 10h+. Gourmand đỉnh cao.",
   "verdictShort": "MẬT ONG LAVENDER, GOURMAND ĐỈNH CAO",
-  "score": { "scent": 9.5, "uniqueness": 9.2, "compliments": 9.0, "value": 7.5, "total": 8.8 },
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 9.2,
+    "compliments": 9,
+    "value": 7.5,
+    "total": 8.8
+  },
   "vibes": [
-    { "label": "Gourmand", "icon": "🍯" },
-    { "label": "Thu đông", "icon": "🍂" },
-    { "label": "Đỉnh cao", "icon": "🏆" }
+    {
+      "label": "Gourmand",
+      "icon": "🍯"
+    },
+    {
+      "label": "Thu đông",
+      "icon": "🍂"
+    },
+    {
+      "label": "Đỉnh cao",
+      "icon": "🏆"
+    }
   ],
   "longevity": 10,
   "sillage": 9,
-  "seasons": { "spring": 32, "summer": 8, "fall": 88, "winter": 98 },
-  "dayNight": { "day": 22, "night": 92 },
-  "topNotes": [{ "name": "Oải hương" }, { "name": "Cam bergamot" }, { "name": "Chanh" }],
-  "middleNotes": [{ "name": "Mật ong" }, { "name": "Quế" }, { "name": "Cashmeran" }, { "name": "Nhài Sambac" }],
-  "baseNotes": [{ "name": "Thuốc lá" }, { "name": "Vani" }, { "name": "Đậu Tonka" }],
+  "seasons": {
+    "spring": 32,
+    "summer": 8,
+    "fall": 88,
+    "winter": 98
+  },
+  "dayNight": {
+    "day": 22,
+    "night": 92
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Chanh"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Mật ong"
+    },
+    {
+      "name": "Quế"
+    },
+    {
+      "name": "Cashmeran"
+    },
+    {
+      "name": "Nhài Sambac"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Thuốc lá"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Đậu Tonka"
+    }
+  ],
   "accords": [
-    { "name": "Gourmand", "value": 100, "color": "#d4a373" },
-    { "name": "Thơm thảo mộc", "value": 82, "color": "#2c7a4b" },
-    { "name": "Cam chanh", "value": 65, "color": "#f1c40f" },
-    { "name": "Gia vị ấm", "value": 58, "color": "#e67e22" },
-    { "name": "Ngọt", "value": 52, "color": "#8B0000" }
+    {
+      "name": "Gourmand",
+      "value": 100,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 82,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 65,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 58,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Ngọt",
+      "value": 52,
+      "color": "#8B0000"
+    }
   ],
   "seoTitle": "Xerjoff Naxos chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Xerjoff Naxos chính hãng: mùi mật ong lavender thuốc lá gourmand, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Unisex", "Niche", "Gourmand", "Thu đông"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Gourmand",
+    "Thu đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 5500000,
   "shopeeOffers": [],
   "isPublished": true

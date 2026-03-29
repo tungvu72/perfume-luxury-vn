@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Anne Flipo & Carlos Benaïm",
   "gender": "nu",
+  "year": 2019,
   "image": "/images/products/ysl-libre-edp-main.jpg",
   "images": [
     {
@@ -19,30 +20,119 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi nữ truyền thống — hoa hồng nhẹ, phấn thanh, ngọt dịu dàng — thì Libre sẽ gây hoang mang. Chai này có lavender rõ rệt, một thành phần thường chỉ xuất hiện trong nước hoa nam. Nhiều phụ nữ xịt lần đầu sẽ nói \"mùi nước hoa con trai mà\". Nếu bạn ngại mùi unisex-thiên-nam thì nên thử trước. Ngược lại, nếu bạn TÌM mùi phá cách khác biệt — thì đây là đúng chai.\n\n### Có đáng tiền không?\n\nGiá tầm trung YSL — tương đương Dior và Chanel. Libre đặc biệt ở chỗ nó kết hợp lavender (nam) với hoa cam và vani Madagascar (nữ) — tạo ra thứ không nam không nữ, rất powerful. So với La Vie Est Belle — cùng best seller nữ — thì Libre mạnh hơn, ít ngọt hơn và \"bà chủ\" hơn. So với Mon Paris cùng hãng thì Libre trưởng thành hơn và ít trái cây hơn. Bám 8-9 giờ, tỏa khá mạnh — kiểu bước vào phòng là biết có ai đó đang xịt Libre.\n\n### Nên dùng khi nào?\n\nĐi làm (nếu công sở thoải mái), gặp đối tác, thuyết trình, hoặc bất cứ khi nào muốn tỏa ra năng lượng tự tin. Xịt 2 nhát cổ — tỏa mạnh nên không cần nhiều. Dùng quanh năm, cả Hà Nội lẫn Sài Gòn. Lavender giúp nó tươi vào hè, vani giữ ấm vào đông. Không nên dùng khi muốn thân mật nhẹ nhàng — Libre không biết nhẹ nhàng là gì.",
   "verdict": "Lavender-hoa cam-vani phá cách — mạnh, tự tin, unisex. Best seller YSL. Cho ai không muốn dịu dàng.",
   "verdictShort": "LAVENDER HOA CAM, PHÁ CÁCH, TỰ TIN",
-  "score": { "scent": 8.8, "uniqueness": 8.8, "compliments": 8.8, "value": 8.2, "total": 8.7 },
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.8,
+    "compliments": 8.8,
+    "value": 8.2,
+    "total": 8.7
+  },
   "vibes": [
-    { "label": "Phá cách", "icon": "⚡" },
-    { "label": "Tự tin", "icon": "💪" },
-    { "label": "Unisex", "icon": "✨" }
+    {
+      "label": "Phá cách",
+      "icon": "⚡"
+    },
+    {
+      "label": "Tự tin",
+      "icon": "💪"
+    },
+    {
+      "label": "Unisex",
+      "icon": "✨"
+    }
   ],
   "longevity": 8,
   "sillage": 8,
-  "seasons": { "spring": 72, "summer": 58, "fall": 78, "winter": 72 },
-  "dayNight": { "day": 68, "night": 72 },
-  "topNotes": [{ "name": "Oải hương" }, { "name": "Cam quýt" }, { "name": "Lý chua đen" }, { "name": "Petitgrain" }],
-  "middleNotes": [{ "name": "Oải hương" }, { "name": "Hoa cam" }, { "name": "Nhài Sambac" }],
-  "baseNotes": [{ "name": "Vani Madagascar" }, { "name": "Xạ hương" }, { "name": "Gỗ tuyết tùng" }, { "name": "Long diên hương" }],
+  "seasons": {
+    "spring": 72,
+    "summer": 58,
+    "fall": 78,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 68,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Cam quýt"
+    },
+    {
+      "name": "Lý chua đen"
+    },
+    {
+      "name": "Petitgrain"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Nhài Sambac"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani Madagascar"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Long diên hương"
+    }
+  ],
   "accords": [
-    { "name": "Hoa trắng", "value": 100, "color": "#ecf0f1" },
-    { "name": "Cam chanh", "value": 72, "color": "#f1c40f" },
-    { "name": "Thơm thảo mộc", "value": 68, "color": "#2c7a4b" },
-    { "name": "Vani", "value": 62, "color": "#F5DEB3" },
-    { "name": "Phấn", "value": 42, "color": "#d7bde2" }
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 72,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 68,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Vani",
+      "value": 62,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Phấn",
+      "value": 42,
+      "color": "#d7bde2"
+    }
   ],
   "seoTitle": "YSL Libre EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá YSL Libre EDP chính hãng: mùi lavender hoa cam vani phá cách, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Phá cách", "Tự tin", "Unisex"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Phá cách",
+    "Tự tin",
+    "Unisex"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "90ml Fullbox"
+  ],
   "basePrice": 2500000,
   "shopeeOffers": [],
   "isPublished": true

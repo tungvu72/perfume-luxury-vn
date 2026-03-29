@@ -6,6 +6,7 @@
   "subName": "Parfum",
   "perfumer": "Quentin Bisch & Natalie Gracia-Cetto",
   "gender": "nam",
+  "year": 2020,
   "image": "/images/products/jpg-le-male-le-parfum-main.jpg",
   "images": [
     {
@@ -19,30 +20,103 @@
   "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt hoặc thích mùi sạch thoáng kiểu Bleu de Chanel thì Le Male Le Parfum quá ấm và quá ngọt cho gu đó. Ai vùng Sài Gòn dùng ban ngày trời nóng ngoài trời cũng sẽ thấy hơi dày. Ngoài ra, nếu đã có Le Male EDT và muốn thứ khác hoàn toàn thì Le Parfum cùng DNA — chỉ đậm và trưởng thành hơn.\n\n### Có đáng tiền không?\n\nLe Male Le Parfum thuộc phân khúc designer tầm trung. So với Le Male EDT, Le Parfum sang hơn, đậm hơn và ít barbershop hơn. So với Valentino Uomo BIRI (cùng nhóm ngọt ấm), Le Parfum có bạch đậu khấu rõ hơn và trưởng thành hơn. Hiệu năng tốt: bám 8-9 giờ, tỏa khá mạnh. Đáng tiền cho ai cần chai date night mạnh mẽ.\n\n### Nên dùng khi nào?\n\nHẹn hò, đi chơi tối, tiệc, sự kiện. Xịt 2-3 nhát: cổ, sau tai, cổ tay. Đẹp nhất mùa thu đông, trời mát dưới 25°C. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.",
   "verdict": "Le Male bản sang — ngọt ấm trưởng thành, quyến rũ. Hợp hẹn hò, đi tối. Không hợp ai cần mùi sạch ban ngày.",
   "verdictShort": "NGỌT ẤM, SANG, DATE NIGHT",
-  "score": { "scent": 8.9, "uniqueness": 8.0, "compliments": 9.1, "value": 8.6, "total": 8.7 },
+  "score": {
+    "scent": 8.9,
+    "uniqueness": 8,
+    "compliments": 9.1,
+    "value": 8.6,
+    "total": 8.7
+  },
   "vibes": [
-    { "label": "Hẹn hò", "icon": "❤️" },
-    { "label": "Buổi tối", "icon": "🌙" },
-    { "label": "Thu đông", "icon": "🍂" }
+    {
+      "label": "Hẹn hò",
+      "icon": "❤️"
+    },
+    {
+      "label": "Buổi tối",
+      "icon": "🌙"
+    },
+    {
+      "label": "Thu đông",
+      "icon": "🍂"
+    }
   ],
   "longevity": 8,
   "sillage": 8,
-  "seasons": { "spring": 52, "summer": 20, "fall": 90, "winter": 96 },
-  "dayNight": { "day": 32, "night": 96 },
-  "topNotes": [{ "name": "Bạch đậu khấu" }],
-  "middleNotes": [{ "name": "Oải hương" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Hổ phách" }, { "name": "Gỗ" }],
+  "seasons": {
+    "spring": 52,
+    "summer": 20,
+    "fall": 90,
+    "winter": 96
+  },
+  "dayNight": {
+    "day": 32,
+    "night": 96
+  },
+  "topNotes": [
+    {
+      "name": "Bạch đậu khấu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ"
+    }
+  ],
   "accords": [
-    { "name": "Ngọt", "value": 100, "color": "#8B0000" },
-    { "name": "Gia vị ấm", "value": 82, "color": "#e67e22" },
-    { "name": "Phấn", "value": 55, "color": "#d7bde2" },
-    { "name": "Gỗ", "value": 48, "color": "#8B4513" },
-    { "name": "Vani", "value": 42, "color": "#F5DEB3" }
+    {
+      "name": "Ngọt",
+      "value": 100,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 82,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Phấn",
+      "value": 55,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Gỗ",
+      "value": 48,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Vani",
+      "value": 42,
+      "color": "#F5DEB3"
+    }
   ],
   "seoTitle": "JPG Le Male Le Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá JPG Le Male Le Parfum chính hãng: mùi ngọt ấm quyến rũ, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Hẹn hò", "Thu đông", "Quyến rũ"],
-  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Hẹn hò",
+    "Thu đông",
+    "Quyến rũ"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox",
+    "125ml Fullbox"
+  ],
   "basePrice": 2900000,
   "shopeeOffers": [],
   "isPublished": true

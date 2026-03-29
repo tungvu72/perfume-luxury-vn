@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Alberto Morillas",
   "gender": "nu",
+  "year": 2018,
   "image": "/images/products/gucci-bloom-edp-main.jpg",
   "images": [
     {
@@ -19,30 +20,95 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi trái cây, vani, hay kiểu ngọt ngọt dễ thương thì Bloom không có gì thuộc về thế giới đó. Đây là THUẦN hoa trắng — nhài và tuberose chiếm hết, từ đầu tới cuối, không nhường cho bất cứ nốt hương nào khác. Nhiều bạn trẻ sẽ thấy nó \"già\" vì tuberose tự nhiên có vẻ nặng, hơi giống mùi hoa đám cưới hoặc mùi phấn nền. Nếu bạn chưa biết mình có thích tuberose hay không, nên thử trước ở quầy hoặc mua chiết — đừng mua fullbox ngay.\n\n### Có đáng tiền không?\n\nBloom giá tầm trung Gucci — không rẻ nhưng cũng không quá đắt cho một chai dùng nguyên liệu tự nhiên cao cấp (tuberose absolute Ấn Độ, jasmine absolute). So với Miss Dior EDP — cùng nhóm hoa nhưng Miss Dior có trái cây và gia vị để dễ tiếp cận hơn — thì Bloom \"thẳng\" hơn, không vòng vo. So với Chanel Gabrielle thì Bloom nặng tuberose hơn rõ rệt. Bám tầm 6-7 giờ, tỏa trong vòng cánh tay. Chai dành cho người biết mình thích gì.\n\n### Nên dùng khi nào?\n\nĐi ăn brunch, đi uống cà phê, gặp bạn bè, hoặc đi chùa. Xịt 2-3 nhát cổ tay và sau cổ. Đẹp nhất vào buổi sáng trời mát, khi hoa trắng tỏa tự nhiên nhất. Ở Sài Gòn dùng trong phòng máy lạnh hoặc buổi tối. Hà Nội thì xuân thu là lý tưởng.",
   "verdict": "Thuần hoa trắng — nhài + tuberose, không pha tạp. Đẹp nhưng kén người. Dành cho ai biết mình muốn gì.",
   "verdictShort": "HOA TRẮNG THUẦN TÚY, KÉN NGƯỜI",
-  "score": { "scent": 8.5, "uniqueness": 8.2, "compliments": 8.0, "value": 7.8, "total": 8.1 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.2,
+    "compliments": 8,
+    "value": 7.8,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Hoa trắng", "icon": "🌿" },
-    { "label": "Tự nhiên", "icon": "🌸" },
-    { "label": "Tinh tế", "icon": "💎" }
+    {
+      "label": "Hoa trắng",
+      "icon": "🌿"
+    },
+    {
+      "label": "Tự nhiên",
+      "icon": "🌸"
+    },
+    {
+      "label": "Tinh tế",
+      "icon": "💎"
+    }
   ],
   "longevity": 7,
   "sillage": 6,
-  "seasons": { "spring": 85, "summer": 55, "fall": 65, "winter": 42 },
-  "dayNight": { "day": 78, "night": 52 },
-  "topNotes": [{ "name": "Hoa nhài" }],
-  "middleNotes": [{ "name": "Tuberose" }],
-  "baseNotes": [{ "name": "Rangoon Creeper" }],
+  "seasons": {
+    "spring": 85,
+    "summer": 55,
+    "fall": 65,
+    "winter": 42
+  },
+  "dayNight": {
+    "day": 78,
+    "night": 52
+  },
+  "topNotes": [
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Tuberose"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Rangoon Creeper"
+    }
+  ],
   "accords": [
-    { "name": "Hoa trắng", "value": 100, "color": "#ecf0f1" },
-    { "name": "Ngọt", "value": 55, "color": "#8B0000" },
-    { "name": "Xạ hương", "value": 42, "color": "#bdc3c7" },
-    { "name": "Phấn", "value": 38, "color": "#d7bde2" },
-    { "name": "Xanh", "value": 28, "color": "#27ae60" }
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Ngọt",
+      "value": 55,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 42,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Phấn",
+      "value": 38,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Xanh",
+      "value": 28,
+      "color": "#27ae60"
+    }
   ],
   "seoTitle": "Gucci Bloom EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Gucci Bloom EDP chính hãng: mùi hoa trắng thuần túy nhài tuberose, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Hoa trắng", "Tự nhiên", "Tinh tế"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Hoa trắng",
+    "Tự nhiên",
+    "Tinh tế"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

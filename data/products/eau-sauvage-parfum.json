@@ -6,6 +6,7 @@
   "subName": "Parfum",
   "perfumer": "François Demachy",
   "gender": "nam",
+  "year": 2012,
   "image": "/images/products/dior-eau-sauvage-parfum-main.jpg",
   "images": [
     {
@@ -19,30 +20,100 @@
   "article": "### Ai không nên mua?\n\nNếu bạn biết Eau Sauvage gốc 1966 (citrus-nhẹ-sạch) và kỳ vọng Parfum giống thế — thì KHÔNG. François Demachy rewrite hoàn toàn: Parfum tối, khoáng, vetiver-nhựa dược, gần như không còn citrus. Đây là chai cho ai muốn Eau Sauvage TRƯỞNG THÀNH — từ chàng trai thành quý ông. Ai thích tươi sáng nên quay về EDT gốc.\n\n### Có đáng tiền không?\n\nGiá Dior nhưng Parfum concentration — bám 10+ giờ. DNA vetiver-myrrh ở đây gần niche hơn designer. So với Terre d'Hermès — cùng nhóm khoáng-đất — thì Eau Sauvage Parfum tối hơn, ít cam hơn, nhiều nhựa hơn. So với Tom Ford Grey Vetiver — cùng vetiver — thì ESP rẻ hơn và dark hơn. Beast mode.\n\n### Nên dùng khi nào?\n\nĐi làm, ăn tối, sự kiện cần sự nghiêm túc. Xịt 2 nhát cổ — Parfum mạnh. Thu đông tuyệt vời — Hà Nội tháng 10-2. Sài Gòn tối điều hòa. Chai cho quý ông thật sự.",
   "verdict": "Eau Sauvage tối nhất — vetiver nhựa dược khoáng. Demachy rewrite hoàn toàn. Từ chàng trai thành quý ông.",
   "verdictShort": "VETIVER NHỰA DƯỢC, TỐI, QUÝ ÔNG",
-  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 7.0, "value": 8.0, "total": 8.1 },
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.5,
+    "compliments": 7,
+    "value": 8,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Quý ông", "icon": "🎩" },
-    { "label": "Tối", "icon": "🖤" },
-    { "label": "Khoáng", "icon": "⛰️" }
+    {
+      "label": "Quý ông",
+      "icon": "🎩"
+    },
+    {
+      "label": "Tối",
+      "icon": "🖤"
+    },
+    {
+      "label": "Khoáng",
+      "icon": "⛰️"
+    }
   ],
   "longevity": 10,
   "sillage": 7,
-  "seasons": { "spring": 38, "summer": 12, "fall": 82, "winter": 88 },
-  "dayNight": { "day": 42, "night": 78 },
-  "topNotes": [{ "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Nhựa dược" }, { "name": "Cỏ hương bài" }],
-  "baseNotes": [{ "name": "Nhựa thông" }, { "name": "Ambra xám" }],
+  "seasons": {
+    "spring": 38,
+    "summer": 12,
+    "fall": 82,
+    "winter": 88
+  },
+  "dayNight": {
+    "day": 42,
+    "night": 78
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Nhựa dược"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Nhựa thông"
+    },
+    {
+      "name": "Ambra xám"
+    }
+  ],
   "accords": [
-    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
-    { "name": "Khoáng", "value": 72, "color": "#7f8c8d" },
-    { "name": "Nhựa", "value": 62, "color": "#5d4037" },
-    { "name": "Thơm thảo mộc", "value": 48, "color": "#2c7a4b" },
-    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Khoáng",
+      "value": 72,
+      "color": "#7f8c8d"
+    },
+    {
+      "name": "Nhựa",
+      "value": 62,
+      "color": "#5d4037"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 48,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 42,
+      "color": "#d4a017"
+    }
   ],
   "seoTitle": "Dior Eau Sauvage Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Dior Eau Sauvage Parfum chính hãng: mùi vetiver nhựa dược tối nhất dòng, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Quý ông", "Khoáng", "Thu đông"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Quý ông",
+    "Khoáng",
+    "Thu đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2800000,
   "shopeeOffers": [],
   "isPublished": true

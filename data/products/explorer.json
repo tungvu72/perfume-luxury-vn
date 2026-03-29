@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Jórdi Fernandez, Antoine Maisondieu & Olivier Pescheux",
   "gender": "nam",
+  "year": 2019,
   "image": "/images/products/montblanc-explorer-main.jpg",
   "images": [
     {
@@ -19,30 +20,113 @@
   "article": "### Ai không nên mua?\n\nNếu bạn cần chai có cá tính riêng biệt, thì Explorer sẽ làm thất vọng. Nó bị so sánh với Creed Aventus liên tục vì chia sẻ DNA tương tự — bergamot, ambroxan, akigalawood — nhưng ở mức giá rẻ hơn 5-6 lần. Ai đã có Aventus sẽ thấy Explorer nhạt hơn và thiếu smokiness đặc trưng. Ngoài ra, chai này không gây ấn tượng mạnh lần đầu — kiểu xịt lên người bên cạnh gật đầu nhưng không quay lại hỏi.\n\n### Có đáng tiền không?\n\nĐây có lẽ là chai \"chất lượng/giá\" tốt nhất phân khúc nam. Explorer nằm ở tầm giá thấp nhất designer mà vẫn có akigalawood — thành phần đắt tiền mà hay gặp trong niche. So với Sauvage EDP — đắt gấp đôi — thì Explorer gỗ hơn, đất hơn, ít synthetic hơn. So với Armaf CDNIM — rẻ hơn nữa — thì Explorer tinh tế hơn một bậc rõ rệt. Bám 7-8 giờ, tỏa tầm trung. Nếu budget chặt mà muốn chai đi làm-đi chơi đều được, Explorer là đáp án.\n\n### Nên dùng khi nào?\n\nGần như mọi lúc: đi làm, đi cafe, dạo phố, du lịch. Xịt 3 nhát: cổ, ngực, cổ tay. Dùng quanh năm — ở cả Hà Nội và Sài Gòn đều thoải mái vì bergamot opening tươi sáng. Chỉ trời đông rét đậm thì nên đổi sang chai ấm hơn vì Explorer không đủ \"nặng\" cho thời tiết đó.",
   "verdict": "Aventus của người bình dân — gỗ, tươi, đa dụng. Giá tốt nhất phân khúc. An toàn và versatile.",
   "verdictShort": "GỖ TƯƠI, GIÁ TỐT, ĐA DỤNG",
-  "score": { "scent": 8.0, "uniqueness": 6.8, "compliments": 8.0, "value": 9.5, "total": 8.1 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 6.8,
+    "compliments": 8,
+    "value": 9.5,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Đa dụng", "icon": "🔄" },
-    { "label": "Giá tốt", "icon": "💸" },
-    { "label": "Phiêu lưu", "icon": "🏔️" }
+    {
+      "label": "Đa dụng",
+      "icon": "🔄"
+    },
+    {
+      "label": "Giá tốt",
+      "icon": "💸"
+    },
+    {
+      "label": "Phiêu lưu",
+      "icon": "🏔️"
+    }
   ],
   "longevity": 7,
   "sillage": 7,
-  "seasons": { "spring": 82, "summer": 65, "fall": 72, "winter": 52 },
-  "dayNight": { "day": 78, "night": 55 },
-  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Tiêu hồng" }, { "name": "Cỏ xô thơm" }],
-  "middleNotes": [{ "name": "Cỏ hương bài Haiti" }, { "name": "Da thuộc" }],
-  "baseNotes": [{ "name": "Ambroxan" }, { "name": "Akigalawood" }, { "name": "Hoắc hương Indonesia" }, { "name": "Cacao" }],
+  "seasons": {
+    "spring": 82,
+    "summer": 65,
+    "fall": 72,
+    "winter": 52
+  },
+  "dayNight": {
+    "day": 78,
+    "night": 55
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Tiêu hồng"
+    },
+    {
+      "name": "Cỏ xô thơm"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Cỏ hương bài Haiti"
+    },
+    {
+      "name": "Da thuộc"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Ambroxan"
+    },
+    {
+      "name": "Akigalawood"
+    },
+    {
+      "name": "Hoắc hương Indonesia"
+    },
+    {
+      "name": "Cacao"
+    }
+  ],
   "accords": [
-    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
-    { "name": "Thơm thảo mộc", "value": 72, "color": "#2c7a4b" },
-    { "name": "Da thuộc", "value": 58, "color": "#795548" },
-    { "name": "Cam chanh", "value": 52, "color": "#f1c40f" },
-    { "name": "Tươi mát", "value": 42, "color": "#2ecc71" }
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 72,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 58,
+      "color": "#795548"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 52,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 42,
+      "color": "#2ecc71"
+    }
   ],
   "seoTitle": "Montblanc Explorer chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Montblanc Explorer chính hãng: mùi gỗ tươi đa dụng giá tốt nhất, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Đa dụng", "Giá tốt", "Phiêu lưu"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "60ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Đa dụng",
+    "Giá tốt",
+    "Phiêu lưu"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "60ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 1200000,
   "shopeeOffers": [],
   "isPublished": true

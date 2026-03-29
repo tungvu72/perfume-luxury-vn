@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Jean-Claude Ellena",
   "gender": "nam",
+  "year": 2009,
   "image": "/images/products/tom-ford-grey-vetiver-main.jpg",
   "images": [
     {
@@ -19,30 +20,112 @@
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi gây chú ý, sexy, tỏa xa — thì Grey Vetiver quá kín đáo. Đây là vetiver SẠCH — kiểu bộ suit xám vừa vặn, không hoa văn, không phụ kiện thừa. Jean-Claude Ellena (Master Perfumer của Hermès) tạo ra chai này — và phong cách Ellena = tối giản, thanh, không thừa nốt nào. Ai thích bold sẽ thấy nó nhạt.\n\n### Có đáng tiền không?\n\nGiá Tom Ford — thuộc nhóm Signature nên đắt hơn designer nhưng rẻ hơn Private Blend. Ellena tạo Grey Vetiver như Terre d'Hermès phiên bản Tom Ford: cùng vetiver, cùng citrus, nhưng sạch hơn, ít đất hơn, elegant hơn. So với Terre d'Hermès — cùng vetiver — thì GV lịch sự hơn, bớt earthy. So với Chanel Bleu — cùng office — thì GV mature hơn, ít ambroxan hơn. Bám 8 giờ.\n\n### Nên dùng khi nào?\n\nVăn phòng, meeting, gặp khách, hoặc BẤT CỨ KHI NÀO cần mùi hương professional. Xịt 2-3 nhát: cổ và cổ tay. Dùng quanh năm — vetiver giữ tươi mùa hè, gỗ sồi giữ ấm mùa đông. Chai \"CEO scent\" đúng nghĩa.",
   "verdict": "Vetiver sạch nhất Tom Ford — Ellena tạo. CEO suit grey energy. Office king. Dùng quanh năm.",
   "verdictShort": "VETIVER SẠCH, CEO SCENT, ELLENA",
-  "score": { "scent": 8.5, "uniqueness": 8.0, "compliments": 7.5, "value": 7.5, "total": 7.9 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8,
+    "compliments": 7.5,
+    "value": 7.5,
+    "total": 7.9
+  },
   "vibes": [
-    { "label": "CEO", "icon": "💼" },
-    { "label": "Sạch", "icon": "✨" },
-    { "label": "Office king", "icon": "👔" }
+    {
+      "label": "CEO",
+      "icon": "💼"
+    },
+    {
+      "label": "Sạch",
+      "icon": "✨"
+    },
+    {
+      "label": "Office king",
+      "icon": "👔"
+    }
   ],
   "longevity": 8,
   "sillage": 6,
-  "seasons": { "spring": 78, "summer": 62, "fall": 72, "winter": 58 },
-  "dayNight": { "day": 82, "night": 52 },
-  "topNotes": [{ "name": "Bưởi" }, { "name": "Cam" }, { "name": "Xô thơm" }],
-  "middleNotes": [{ "name": "Phong lữ" }, { "name": "Cỏ hương bài" }],
-  "baseNotes": [{ "name": "Gỗ sồi" }, { "name": "Hoắc hương" }, { "name": "Rêu" }, { "name": "Hổ phách" }],
+  "seasons": {
+    "spring": 78,
+    "summer": 62,
+    "fall": 72,
+    "winter": 58
+  },
+  "dayNight": {
+    "day": 82,
+    "night": 52
+  },
+  "topNotes": [
+    {
+      "name": "Bưởi"
+    },
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Xô thơm"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Phong lữ"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ sồi"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Rêu"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
-    { "name": "Thơm thảo mộc", "value": 72, "color": "#2c7a4b" },
-    { "name": "Cam chanh", "value": 62, "color": "#f1c40f" },
-    { "name": "Xanh", "value": 48, "color": "#27ae60" },
-    { "name": "Rêu", "value": 38, "color": "#556b2f" }
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 72,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 62,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Xanh",
+      "value": 48,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Rêu",
+      "value": 38,
+      "color": "#556b2f"
+    }
   ],
   "seoTitle": "Tom Ford Grey Vetiver chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Tom Ford Grey Vetiver chính hãng: mùi vetiver sạch office CEO scent, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "CEO", "Office", "Vetiver"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "CEO",
+    "Office",
+    "Vetiver"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 3500000,
   "shopeeOffers": [],
   "isPublished": true

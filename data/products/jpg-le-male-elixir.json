@@ -6,6 +6,7 @@
   "subName": "Parfum",
   "perfumer": "Quentin Bisch",
   "gender": "nam",
+  "year": 2023,
   "image": "/images/products/jpg-le-male-elixir-main.jpg",
   "images": [
     {
@@ -19,30 +20,106 @@
   "article": "### Ai không nên mua?\n\nNếu bạn ghét ngọt — Elixir NGỌT. Rất ngọt. Vani-mật ong-đậu Tonka phủ lên oải hương Le Male quen thuộc, tạo ra bom ngọt mà ai đứng gần đều ngửi thấy. Đây là phiên bản Le Male ĐẬM NHẤT, tối nhất, gần gourmand nhất. Ai thích mùi sạch, sporty hay office sẽ thấy Elixir quá much. Trời nóng Sài Gòn mà xịt nhiều = ngộp.\n\n### Có đáng tiền không?\n\nGiá JPG rất tốt — rẻ hơn Dior/Chanel đáng kể mà Parfum concentration bám 8-10 giờ. So với Le Male Le Parfum — cùng dòng — thì Elixir nhiều mật ong-vani hơn, ít iris hơn, ngọt hơn nhiều. So với Spicebomb Extreme — cùng nhóm date night — thì Elixir ngọt hơn, Spicebomb cay hơn. So với PDM Layton — cùng vani-oải hương niche — thì Elixir rẻ hơn 3 lần.\n\n### Nên dùng khi nào?\n\nDate night, đi bar, đi club, hoặc bất cứ tối nào muốn được KHEN. Xịt 2 nhát cổ — CHẤM HẾT. Parfum tỏa cực mạnh. Thu đông — Hà Nội tháng 10-2. Sài Gòn chỉ tối phòng điều hòa. Compliment beast đúng nghĩa.",
   "verdict": "Vani mật ong bomb — Le Male đậm nhất. Parfum 10h. Rẻ hơn Layton 3 lần mà compliment ngang. Date night king.",
   "verdictShort": "VANI MẬT ONG BOMB, DATE NIGHT, RẺ MẠNH",
-  "score": { "scent": 8.0, "uniqueness": 7.5, "compliments": 9.5, "value": 9.0, "total": 8.5 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 7.5,
+    "compliments": 9.5,
+    "value": 9,
+    "total": 8.5
+  },
   "vibes": [
-    { "label": "Date night", "icon": "🌙" },
-    { "label": "Compliment beast", "icon": "💯" },
-    { "label": "Giá tốt", "icon": "💸" }
+    {
+      "label": "Date night",
+      "icon": "🌙"
+    },
+    {
+      "label": "Compliment beast",
+      "icon": "💯"
+    },
+    {
+      "label": "Giá tốt",
+      "icon": "💸"
+    }
   ],
   "longevity": 9,
   "sillage": 9,
-  "seasons": { "spring": 22, "summer": 5, "fall": 82, "winter": 92 },
-  "dayNight": { "day": 8, "night": 92 },
-  "topNotes": [{ "name": "Oải hương" }, { "name": "Bạc hà" }],
-  "middleNotes": [{ "name": "Vani" }, { "name": "An tức hương" }],
-  "baseNotes": [{ "name": "Mật ong" }, { "name": "Đậu Tonka" }, { "name": "Thuốc lá" }],
+  "seasons": {
+    "spring": 22,
+    "summer": 5,
+    "fall": 82,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 8,
+    "night": 92
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Bạc hà"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "An tức hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Mật ong"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Thuốc lá"
+    }
+  ],
   "accords": [
-    { "name": "Vani", "value": 100, "color": "#F5DEB3" },
-    { "name": "Ngọt", "value": 85, "color": "#8B0000" },
-    { "name": "Thơm thảo mộc", "value": 55, "color": "#2c7a4b" },
-    { "name": "Gourmand", "value": 48, "color": "#d4a373" },
-    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+    {
+      "name": "Vani",
+      "value": 100,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Ngọt",
+      "value": 85,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 55,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gourmand",
+      "value": 48,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 42,
+      "color": "#d4a017"
+    }
   ],
   "seoTitle": "JPG Le Male Elixir chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá JPG Le Male Elixir chính hãng: mùi vani mật ong date night bomb, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Date night", "Compliment beast", "Giá tốt"],
-  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Date night",
+    "Compliment beast",
+    "Giá tốt"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox",
+    "125ml Fullbox"
+  ],
   "basePrice": 1800000,
   "shopeeOffers": [],
   "isPublished": true

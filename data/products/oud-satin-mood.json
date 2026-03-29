@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Francis Kurkdjian",
   "gender": "unisex",
+  "year": 2018,
   "image": "/images/products/mfk-oud-satin-mood-main.jpg",
   "images": [
     {
@@ -19,30 +20,115 @@
   "article": "### Ai không nên mua?\n\nNếu bạn nghe \"oud\" và tưởng tượng mùi thú vật gắt kiểu Trung Đông thì hãy yên tâm — Oud Satin Mood không như vậy. Nhưng nếu bạn thích mùi tươi sạch hay mùi tối giản thì chai này ngược hoàn toàn: đây là hoa hồng-oud-vani đậm, ngọt, và rất \"giàu có\". Ai mặc quần jean đi cà phê sáng sẽ thấy nó lạc lõng. Chai này kén hoàn cảnh — chọn sai dịp sẽ bị overdrеssed về mùi hương.\n\n### Có đáng tiền không?\n\nĐắt — nhưng MFK dùng nguyên liệu thật và không cắt xén. So với Tom Ford Oud Wood — cùng oud nhưng gỗ và khô hơn — thì Oud Satin Mood mềm hơn nhiều, nhiều hoa hồng hơn và ngọt hơn. So với Frederic Malle Portrait of a Lady — cùng hoa hồng opulent — thì Oud Satin Mood bớt hoắc hương hơn và thay bằng oud-vani mềm như satin. Bám 8-9 giờ, tỏa vừa phải. Chai này thiên về chất lượng blend hơn là độ tỏa xa.\n\n### Nên dùng khi nào?\n\nĐi event trang trọng, đám cưới, gặp bạn bè quan trọng, hoặc khi muốn cảm giác sang trong không gian riêng. Xịt 2 nhát: sau cổ và cổ tay. Trời mát-lạnh là lý tưởng. Ở Sài Gòn chỉ dùng tối trong nhà hàng hoặc phòng điều hòa mạnh. Hà Nội mùa đông là thiên đường cho chai này.",
   "verdict": "Hoa hồng-oud mềm như satin — opulent, ngọt, rất MFK. Kén dịp nhưng đúng lúc thì không gì sánh.",
   "verdictShort": "HOA HỒNG OUD, SATIN MỀM, OPULENT",
-  "score": { "scent": 9.5, "uniqueness": 9.0, "compliments": 8.8, "value": 7.5, "total": 8.7 },
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 9,
+    "compliments": 8.8,
+    "value": 7.5,
+    "total": 8.7
+  },
   "vibes": [
-    { "label": "Opulent", "icon": "👑" },
-    { "label": "Sang trọng", "icon": "💎" },
-    { "label": "Dịp đặc biệt", "icon": "🥂" }
+    {
+      "label": "Opulent",
+      "icon": "👑"
+    },
+    {
+      "label": "Sang trọng",
+      "icon": "💎"
+    },
+    {
+      "label": "Dịp đặc biệt",
+      "icon": "🥂"
+    }
   ],
   "longevity": 9,
   "sillage": 7,
-  "seasons": { "spring": 35, "summer": 8, "fall": 82, "winter": 95 },
-  "dayNight": { "day": 18, "night": 88 },
-  "topNotes": [{ "name": "Hoa hồng Bulgaria" }, { "name": "Hoa tím" }, { "name": "Dâu tây" }],
-  "middleNotes": [{ "name": "Hoa hồng Thổ Nhĩ Kỳ" }],
-  "baseNotes": [{ "name": "Trầm hương" }, { "name": "Vani" }, { "name": "Hổ phách" }, { "name": "Benzoin" }, { "name": "Caramel" }, { "name": "Gỗ tuyết tùng" }],
+  "seasons": {
+    "spring": 35,
+    "summer": 8,
+    "fall": 82,
+    "winter": 95
+  },
+  "dayNight": {
+    "day": 18,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Hoa hồng Bulgaria"
+    },
+    {
+      "name": "Hoa tím"
+    },
+    {
+      "name": "Dâu tây"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng Thổ Nhĩ Kỳ"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Trầm hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Caramel"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
   "accords": [
-    { "name": "Hoa", "value": 100, "color": "#e91e63" },
-    { "name": "Oud", "value": 78, "color": "#3e2723" },
-    { "name": "Vani", "value": 65, "color": "#F5DEB3" },
-    { "name": "Hổ phách", "value": 55, "color": "#d4a017" },
-    { "name": "Gỗ", "value": 45, "color": "#8B4513" }
+    {
+      "name": "Hoa",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Oud",
+      "value": 78,
+      "color": "#3e2723"
+    },
+    {
+      "name": "Vani",
+      "value": 65,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 55,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gỗ",
+      "value": 45,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "MFK Oud Satin Mood chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá MFK Oud Satin Mood chính hãng: mùi hoa hồng oud vani satin opulent, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Unisex", "Niche", "Opulent", "Dịp đặc biệt"],
-  "sizes": ["10ml Chiết", "70ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Opulent",
+    "Dịp đặc biệt"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "70ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 6800000,
   "shopeeOffers": [],
   "isPublished": true

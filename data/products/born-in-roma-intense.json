@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Amandine Clerc-Marie & Honorine Blanc",
   "gender": "nu",
+  "year": 2021,
   "image": "/images/products/valentino-born-in-roma-intense-main.jpg",
   "images": [
     {
@@ -19,30 +20,97 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi sáng citrus hay mùi sạch nhẹ nhàng thì Born in Roma Intense quá ngọt và quá vani cho gu đó. Ai ghét mùi ngọt cũng nên tránh. Dùng mùa hè nóng sẽ hơi ngọp.\n\n### Có đáng tiền không?\n\nBorn in Roma Intense thuộc phân khúc Valentino — giá tốt cho 2023 release. So với bản gốc Born in Roma, Intense đậm hơn và nhiều vani hơn rõ rệt. So với La Vie Est Belle Intensément, Born in Roma Intense có benzoin ấm hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa vừa-mạnh. Chai vani nữ mới nhất đáng mua.\n\n### Nên dùng khi nào?\n\nMùa thu đông, buổi tối, hẹn hò, dịp ấm cúng. Xịt 2-3 nhát: cổ, cổ tay. Đẹp nhất khi trời mát. Ở Sài Gòn dùng tối hoặc phòng máy lạnh.",
   "verdict": "Chai vani-nhài Valentino 2023 — ngọt ấm cozy. Bám 8h. Hợp thu đông. Best vani nữ tầm giá.",
   "verdictShort": "VANI NHÀI, ẤM, COZY",
-  "score": { "scent": 8.5, "uniqueness": 7.8, "compliments": 8.8, "value": 8.5, "total": 8.4 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 7.8,
+    "compliments": 8.8,
+    "value": 8.5,
+    "total": 8.4
+  },
   "vibes": [
-    { "label": "Cozy", "icon": "🤎" },
-    { "label": "Hẹn hò", "icon": "❤️" },
-    { "label": "Thu đông", "icon": "🍂" }
+    {
+      "label": "Cozy",
+      "icon": "🤎"
+    },
+    {
+      "label": "Hẹn hò",
+      "icon": "❤️"
+    },
+    {
+      "label": "Thu đông",
+      "icon": "🍂"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
-  "seasons": { "spring": 42, "summer": 15, "fall": 88, "winter": 92 },
-  "dayNight": { "day": 28, "night": 85 },
-  "topNotes": [{ "name": "Vani Bourbon" }, { "name": "Hổ phách" }],
-  "middleNotes": [{ "name": "Nhài" }],
-  "baseNotes": [{ "name": "Benzoin" }],
+  "seasons": {
+    "spring": 42,
+    "summer": 15,
+    "fall": 88,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 28,
+    "night": 85
+  },
+  "topNotes": [
+    {
+      "name": "Vani Bourbon"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Benzoin"
+    }
+  ],
   "accords": [
-    { "name": "Vani", "value": 100, "color": "#F5DEB3" },
-    { "name": "Ngọt", "value": 78, "color": "#8B0000" },
-    { "name": "Hổ phách", "value": 65, "color": "#d4a017" },
-    { "name": "Hoa trắng", "value": 52, "color": "#ecf0f1" },
-    { "name": "Nhựa", "value": 42, "color": "#5d4037" }
+    {
+      "name": "Vani",
+      "value": 100,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Ngọt",
+      "value": 78,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 65,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Hoa trắng",
+      "value": 52,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Nhựa",
+      "value": 42,
+      "color": "#5d4037"
+    }
   ],
   "seoTitle": "Valentino Born in Roma Intense chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Valentino Born in Roma Intense chính hãng: mùi vani nhài ấm cozy, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Vani", "Cozy", "Thu đông"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Vani",
+    "Cozy",
+    "Thu đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2500000,
   "shopeeOffers": [],
   "isPublished": true

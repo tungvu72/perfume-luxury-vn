@@ -1,18 +1,135 @@
 {
-  "id": "shalimar-parfum", "brandSlug": "guerlain", "brand": "GUERLAIN", "name": "Shalimar", "subName": "Parfum",
-  "perfumer": "Jacques Guerlain", "gender": "nu",
+  "id": "shalimar-parfum",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "Shalimar",
+  "subName": "Parfum",
+  "perfumer": "Jacques Guerlain",
+  "gender": "nu",
+  "year": 1925,
   "image": "/images/products/guerlain-shalimar-parfum-main.jpg",
-  "images": [{ "url": "/images/products/guerlain-shalimar-parfum-main.jpg", "source": "fragram", "caption": "Guerlain Shalimar Parfum chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/guerlain-shalimar-parfum-main.jpg",
+      "source": "fragram",
+      "caption": "Guerlain Shalimar Parfum chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Nồng độ Parfum của Shalimar kinh điển 1925 — cam bergamot, nhài, hồng, iris, vani, opoponax, civette, gỗ đàn hương, xạ hương và benzoin. Shalimar đậm nhất, sâu nhất, version TỐT NHẤT.",
   "article": "### Ai không nên mua?\n\nNếu bạn thấy Shalimar EDT/EDP đã nặng — thì Parfum nặng GẤP ĐÔI. Jacques Guerlain tạo Shalimar 1925 — lấy cảm hứng từ vườn Shalimar Ấn Độ (\"Temple of Love\"). Parfum = nồng độ cao nhất: vani-civette-opoponax tối, animalic, smoky. Nặng nhất Guerlain.\n\n### Có đáng tiền không?\n\nParfum đắt nhất dòng — nhưng bám 12+ giờ. Shalimar = top 10 nước hoa nổi tiếng nhất lịch sử. So với EDP — Parfum tối hơn, nhiều civette hơn, animalic hơn. Best version cho collector.\n\n### Nên dùng khi nào?\n\nSự kiện đặc biệt, opera, gala. Dabbing 1-2 giọt sau tai. Mùa đông only. Chai museum-worthy.",
   "verdict": "Shalimar đỉnh — Parfum 1925. Jacques Guerlain. Top 10 lịch sử. Temple of Love. 12h+.",
   "verdictShort": "SHALIMAR ĐỈNH, 1925, TEMPLE OF LOVE",
-  "score": { "scent": 9.5, "uniqueness": 9.5, "compliments": 7.0, "value": 7.0, "total": 8.3 },
-  "vibes": [{ "label": "Legend", "icon": "🏛️" }, { "label": "Temple", "icon": "🕌" }, { "label": "Parfum", "icon": "👑" }],
-  "longevity": 12, "sillage": 7, "seasons": { "spring": 22, "summer": 2, "fall": 72, "winter": 92 }, "dayNight": { "day": 8, "night": 88 },
-  "topNotes": [{ "name": "Cam bergamot" }], "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Hoa hồng" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Opoponax" }, { "name": "Civette" }, { "name": "Gỗ đàn hương" }, { "name": "Xạ hương" }, { "name": "Benzoin" }],
-  "accords": [{ "name": "Hổ phách", "value": 100, "color": "#d4a017" }, { "name": "Vani", "value": 85, "color": "#F5DEB3" }, { "name": "Nốt động vật", "value": 62, "color": "#795548" }, { "name": "Phấn", "value": 48, "color": "#d7bde2" }, { "name": "Hoa", "value": 42, "color": "#e91e63" }],
-  "seoTitle": "Guerlain Shalimar Parfum chính hãng mua ở đâu? Review 2026", "metaDescription": "Đánh giá Guerlain Shalimar Parfum chính hãng: kiệt tác 1925 Temple of Love nồng độ cao nhất, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Legend", "Kiệt tác", "Parfum"], "sizes": ["7.5ml Dabber", "15ml Dabber", "30ml Fullbox"], "basePrice": 5000000, "shopeeOffers": [], "isPublished": true
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 9.5,
+    "compliments": 7,
+    "value": 7,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Legend",
+      "icon": "🏛️"
+    },
+    {
+      "label": "Temple",
+      "icon": "🕌"
+    },
+    {
+      "label": "Parfum",
+      "icon": "👑"
+    }
+  ],
+  "longevity": 12,
+  "sillage": 7,
+  "seasons": {
+    "spring": 22,
+    "summer": 2,
+    "fall": 72,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 8,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Opoponax"
+    },
+    {
+      "name": "Civette"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Benzoin"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hổ phách",
+      "value": 100,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Vani",
+      "value": 85,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Nốt động vật",
+      "value": 62,
+      "color": "#795548"
+    },
+    {
+      "name": "Phấn",
+      "value": 48,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Hoa",
+      "value": 42,
+      "color": "#e91e63"
+    }
+  ],
+  "seoTitle": "Guerlain Shalimar Parfum chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Guerlain Shalimar Parfum chính hãng: kiệt tác 1925 Temple of Love nồng độ cao nhất, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": [
+    "Nữ",
+    "Legend",
+    "Kiệt tác",
+    "Parfum"
+  ],
+  "sizes": [
+    "7.5ml Dabber",
+    "15ml Dabber",
+    "30ml Fullbox"
+  ],
+  "basePrice": 5000000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

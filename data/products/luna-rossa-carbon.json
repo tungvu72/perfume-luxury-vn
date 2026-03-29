@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Daniela Andrier",
   "gender": "nam",
+  "year": 2017,
   "image": "/images/products/prada-luna-rossa-carbon-main.jpg",
   "images": [
     {
@@ -19,30 +20,113 @@
   "article": "### Ai không nên mua?\n\nNếu bạn đã có Dior Sauvage EDT hoặc EDP thì nên cân nhắc kỹ. Luna Rossa Carbon chia sẻ chung thành phần chủ đạo là ambroxan, và khi xịt cách 2 mét thì nhiều người sẽ nhầm là Sauvage. Nếu mục đích là tìm mùi KHÁC BIỆT, thì đây không phải đáp án. Chai này cũng không có gì bất ngờ — anh em thích mùi niche có chiều sâu hoặc mùi ấm có cá tính sẽ thấy Carbon nhạt nhẽo và vô danh.\n\n### Có đáng tiền không?\n\nLuna Rossa Carbon rẻ hơn Sauvage khoảng 20-30%, và đó là lý do nó tồn tại. Cùng DNA ambroxan-lavender nhưng Carbon mềm hơn, sạch hơn, ít gắt hơn — phù hợp văn phòng hơn Sauvage. Nếu bạn thử Sauvage và thấy nó hơi \"quá\" cho chỗ làm, thì Carbon giải quyết đúng vấn đề đó. Bám 6-7 giờ, tỏa vừa phải, không ai phàn nàn nhưng cũng ít ai hỏi \"mùi gì thế\". An toàn tuyệt đối.\n\n### Nên dùng khi nào?\n\nĐi làm. Nghiêm túc mà nói: đây là chai đi làm 5 ngày/tuần. Văn phòng máy lạnh, họp team, gặp khách — Carbon không bao giờ sai. Xịt 2-3 nhát sáng, nếu hết hơn thì bổ sung 1 nhát sau giờ ăn trưa. Dùng quanh năm ở cả Hà Nội lẫn Sài Gòn. Muốn đi hẹn hò hay đám tiệc thì nên chọn chai khác — Carbon không tạo ấn tượng, nó tạo sự chuyên nghiệp.",
   "verdict": "Sauvage phiên bản nhẹ hơn, rẻ hơn, office hơn. An toàn tuyệt đối nhưng không tạo ấn tượng riêng.",
   "verdictShort": "SẠCH, OFFICE, AN TOÀN TUYỆT ĐỐI",
-  "score": { "scent": 7.8, "uniqueness": 6.5, "compliments": 8.0, "value": 8.5, "total": 7.7 },
+  "score": {
+    "scent": 7.8,
+    "uniqueness": 6.5,
+    "compliments": 8,
+    "value": 8.5,
+    "total": 7.7
+  },
   "vibes": [
-    { "label": "Office", "icon": "💼" },
-    { "label": "An toàn", "icon": "✅" },
-    { "label": "Hằng ngày", "icon": "🧴" }
+    {
+      "label": "Office",
+      "icon": "💼"
+    },
+    {
+      "label": "An toàn",
+      "icon": "✅"
+    },
+    {
+      "label": "Hằng ngày",
+      "icon": "🧴"
+    }
   ],
   "longevity": 7,
   "sillage": 6,
-  "seasons": { "spring": 78, "summer": 68, "fall": 72, "winter": 62 },
-  "dayNight": { "day": 85, "night": 42 },
-  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Tiêu" }],
-  "middleNotes": [{ "name": "Oải hương" }, { "name": "Kim loại" }, { "name": "Nước" }, { "name": "Than" }, { "name": "Phong lữ" }],
-  "baseNotes": [{ "name": "Ambroxan" }, { "name": "Hoắc hương" }],
+  "seasons": {
+    "spring": 78,
+    "summer": 68,
+    "fall": 72,
+    "winter": 62
+  },
+  "dayNight": {
+    "day": 85,
+    "night": 42
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Tiêu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Kim loại"
+    },
+    {
+      "name": "Nước"
+    },
+    {
+      "name": "Than"
+    },
+    {
+      "name": "Phong lữ"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Ambroxan"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
   "accords": [
-    { "name": "Thơm thảo mộc", "value": 100, "color": "#2c7a4b" },
-    { "name": "Tươi mát", "value": 78, "color": "#2ecc71" },
-    { "name": "Gỗ", "value": 62, "color": "#8B4513" },
-    { "name": "Cam chanh", "value": 55, "color": "#f1c40f" },
-    { "name": "Xạ hương", "value": 42, "color": "#bdc3c7" }
+    {
+      "name": "Thơm thảo mộc",
+      "value": 100,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 78,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Gỗ",
+      "value": 62,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 55,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 42,
+      "color": "#bdc3c7"
+    }
   ],
   "seoTitle": "Prada Luna Rossa Carbon chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Prada Luna Rossa Carbon chính hãng: mùi sạch office ambroxan lavender, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Office", "An toàn", "Hằng ngày"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Office",
+    "An toàn",
+    "Hằng ngày"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "150ml Fullbox"
+  ],
   "basePrice": 2000000,
   "shopeeOffers": [],
   "isPublished": true

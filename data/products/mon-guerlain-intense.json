@@ -6,30 +6,125 @@
   "subName": "Eau de Parfum Intense",
   "perfumer": "Thierry Wasser",
   "gender": "nu",
+  "year": 2018,
   "image": "/images/products/guerlain-mon-guerlain-intense-main.jpg",
-  "images": [{ "url": "/images/products/guerlain-mon-guerlain-intense-main.jpg", "source": "fragram", "caption": "Guerlain Mon Guerlain Intense chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/guerlain-mon-guerlain-intense-main.jpg",
+      "source": "fragram",
+      "caption": "Guerlain Mon Guerlain Intense chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Phiên bản Intense đậm nhất Mon Guerlain — oải hương, cam bergamot, nhài, vani, gỗ đàn hương, coumarin, benzoin và iris. Mon Guerlain đậm hơn, vani hơn, cho đêm.",
   "article": "### Ai không nên mua?\n\nNếu bạn có Mon Guerlain EDP gốc — Intense SẤT giống nhưng đẩy vani lên. Thierry Wasser giữ nguyên DNA oải hương-nhài-vani nhưng thêm coumarin (ngọt hạnh nhân) và benzoin. Sự khác biệt: đêm hơn, ngọt hơn, bám lâu hơn. Nếu gốc đủ rồi thì Intense redundant.\n\n### Có đáng tiền không?\n\nGiá Guerlain Intense — hơi đắt hơn gốc. So với Mon Guerlain EDP — tối hơn, ngọt hơn, 8-9 giờ vs 6-7 giờ. So với YSL Libre Intense — cùng nhóm nữ intense — thì Mon Guerlain Intense nhiều nhài hơn, ít oải hương hơn.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, hẹn hò, sự kiện. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối điều hòa. Mon Guerlain cho đêm lạnh.",
   "verdict": "Mon Guerlain đậm — vani coumarin thêm. Cho đêm thu đông. Cùng DNA nhưng push ngọt.",
   "verdictShort": "MON GUERLAIN TỐI, VANI ĐẬM, ĐÊM",
-  "score": { "scent": 8.0, "uniqueness": 7.0, "compliments": 8.0, "value": 7.5, "total": 7.6 },
-  "vibes": [{ "label": "Đêm", "icon": "🌙" }, { "label": "Vani", "icon": "🍦" }, { "label": "Ấm", "icon": "🕯️" }],
-  "longevity": 9, "sillage": 7,
-  "seasons": { "spring": 35, "summer": 12, "fall": 82, "winter": 85 },
-  "dayNight": { "day": 22, "night": 82 },
-  "topNotes": [{ "name": "Oải hương" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Coumarin" }, { "name": "Benzoin" }],
+  "score": {
+    "scent": 8,
+    "uniqueness": 7,
+    "compliments": 8,
+    "value": 7.5,
+    "total": 7.6
+  },
+  "vibes": [
+    {
+      "label": "Đêm",
+      "icon": "🌙"
+    },
+    {
+      "label": "Vani",
+      "icon": "🍦"
+    },
+    {
+      "label": "Ấm",
+      "icon": "🕯️"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 7,
+  "seasons": {
+    "spring": 35,
+    "summer": 12,
+    "fall": 82,
+    "winter": 85
+  },
+  "dayNight": {
+    "day": 22,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Coumarin"
+    },
+    {
+      "name": "Benzoin"
+    }
+  ],
   "accords": [
-    { "name": "Vani", "value": 100, "color": "#F5DEB3" },
-    { "name": "Hoa trắng", "value": 72, "color": "#f5f5dc" },
-    { "name": "Thơm thảo mộc", "value": 48, "color": "#2c7a4b" },
-    { "name": "Ngọt", "value": 42, "color": "#8B0000" },
-    { "name": "Gỗ", "value": 38, "color": "#8B4513" }
+    {
+      "name": "Vani",
+      "value": 100,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Hoa trắng",
+      "value": 72,
+      "color": "#f5f5dc"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 48,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Ngọt",
+      "value": 42,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gỗ",
+      "value": 38,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "Guerlain Mon Guerlain Intense chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Mon Guerlain Intense chính hãng: mùi vani oải hương đậm cho đêm, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Đêm", "Vani", "Thu đông"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "75ml Fullbox"],
-  "basePrice": 2500000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Đêm",
+    "Vani",
+    "Thu đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "75ml Fullbox"
+  ],
+  "basePrice": 2500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

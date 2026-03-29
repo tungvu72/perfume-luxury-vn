@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette Concentrée",
   "perfumer": "Jacques Polge",
   "gender": "nam",
+  "year": 2012,
   "image": "/images/products/chanel-allure-homme-sport-eau-extreme-main.jpg",
   "images": [
     {
@@ -19,30 +20,113 @@
   "article": "### Ai không nên mua?\n\nNếu bạn muốn chai nổi bật, khác biệt, gây ấn tượng mạnh — thì Allure Homme Sport Eau Extrême sẽ khiến bạn cảm thấy... bình thường. Đây là chai \"đẹp trai mà bình thường\" — ai ngửi cũng khen nhưng ít ai ngoắc lại hỏi \"mùi gì thế\". Nếu bạn đã có Bleu de Chanel EDP, thì cả hai chia sẻ vị trí \"chai Chanel nam an toàn\" và có thể trùng nhau về dịp dùng.\n\n### Có đáng tiền không?\n\nGiá Chanel — nhỉnh hơn designer bình thường. Nhưng Eau Extrême (bản concentrated) bám lâu hơn hẳn bản Sport thường — 8-9 giờ so với 4-5 giờ. Đó là lý do bạn nên mua bản Extrême thay vì bản thường. So với Dior Sauvage EDT — cùng nhóm nam an toàn — thì Eau Extrême mềm hơn, ít aggressive hơn và nhiều đậu Tonka ấm hơn. So với Bleu de Chanel EDP cùng hãng — thì Eau Extrême sporty hơn, nhiều bạc hà hơn và trẻ trung hơn.\n\n### Nên dùng khi nào?\n\nMọi lúc: đi làm, đi gym, đi chơi, hẹn hò casual. Xịt 3-4 nhát: cổ, ngực, cổ tay. Chai 4 mùa — ở Sài Gòn thì bạc hà-cam tươi trong nóng, ở Hà Nội thì đậu Tonka ấm trong lạnh. Đây là chai \"main rotation\" — xịt 5 ngày/tuần không ai phàn nàn, không bao giờ sai.",
   "verdict": "Chai Chanel nam sporty đa dụng nhất — tươi, ấm, an toàn tuyệt đối. Bám 9h. Main rotation 5 ngày/tuần.",
   "verdictShort": "TƯƠI ẤM, AN TOÀN, MAIN ROTATION",
-  "score": { "scent": 8.5, "uniqueness": 7.0, "compliments": 8.8, "value": 8.0, "total": 8.1 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 7,
+    "compliments": 8.8,
+    "value": 8,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Sporty", "icon": "⚡" },
-    { "label": "An toàn", "icon": "✅" },
-    { "label": "Hằng ngày", "icon": "🧴" }
+    {
+      "label": "Sporty",
+      "icon": "⚡"
+    },
+    {
+      "label": "An toàn",
+      "icon": "✅"
+    },
+    {
+      "label": "Hằng ngày",
+      "icon": "🧴"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
-  "seasons": { "spring": 82, "summer": 72, "fall": 72, "winter": 62 },
-  "dayNight": { "day": 82, "night": 62 },
-  "topNotes": [{ "name": "Cam quýt" }, { "name": "Bạc hà" }, { "name": "Bách" }, { "name": "Xô thơm" }],
-  "middleNotes": [{ "name": "Tiêu" }],
-  "baseNotes": [{ "name": "Đậu Tonka" }, { "name": "Xạ hương" }, { "name": "Gỗ đàn hương" }, { "name": "Gỗ tuyết tùng" }],
+  "seasons": {
+    "spring": 82,
+    "summer": 72,
+    "fall": 72,
+    "winter": 62
+  },
+  "dayNight": {
+    "day": 82,
+    "night": 62
+  },
+  "topNotes": [
+    {
+      "name": "Cam quýt"
+    },
+    {
+      "name": "Bạc hà"
+    },
+    {
+      "name": "Bách"
+    },
+    {
+      "name": "Xô thơm"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Tiêu"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
   "accords": [
-    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
-    { "name": "Thơm thảo mộc", "value": 78, "color": "#2c7a4b" },
-    { "name": "Tươi mát", "value": 72, "color": "#2ecc71" },
-    { "name": "Gia vị ấm", "value": 55, "color": "#e67e22" },
-    { "name": "Cam chanh", "value": 48, "color": "#f1c40f" }
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 78,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 72,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 55,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 48,
+      "color": "#f1c40f"
+    }
   ],
   "seoTitle": "Chanel Allure Homme Sport Eau Extrême chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Chanel Allure Homme Sport Eau Extrême chính hãng: mùi tươi ấm sporty đa dụng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Sporty", "An toàn", "Đa dụng"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Sporty",
+    "An toàn",
+    "Đa dụng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "150ml Fullbox"
+  ],
   "basePrice": 2800000,
   "shopeeOffers": [],
   "isPublished": true

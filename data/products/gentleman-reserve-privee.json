@@ -1,24 +1,129 @@
 {
-  "id": "gentleman-reserve-privee", "brandSlug": "givenchy", "brand": "GIVENCHY", "name": "Gentleman Réserve Privée", "subName": "Eau de Parfum",
-  "perfumer": "Olivier Cresp", "gender": "nam",
+  "id": "gentleman-reserve-privee",
+  "brandSlug": "givenchy",
+  "brand": "GIVENCHY",
+  "name": "Gentleman Réserve Privée",
+  "subName": "Eau de Parfum",
+  "perfumer": "Olivier Cresp",
+  "gender": "nam",
+  "year": 2019,
   "image": "/images/products/givenchy-gentleman-reserve-privee-main.jpg",
-  "images": [{ "url": "/images/products/givenchy-gentleman-reserve-privee-main.jpg", "source": "fragram", "caption": "Givenchy Gentleman Réserve Privée chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/givenchy-gentleman-reserve-privee-main.jpg",
+      "source": "fragram",
+      "caption": "Givenchy Gentleman Réserve Privée chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nam iris-cacao-cognac kiểu quý ông VIP — iris, cam bergamot, quế, cacao, rượu cognac, gỗ đàn hương, benzoin và đậu Tonka. Boozy-cacao, sang và rất gentleman.",
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi sáng — Réserve Privée TỐI: cacao, cognac, iris — kiểu ngồi phòng cigar uống cognac. Olivier Cresp (cũng tạo Angel Mugler, Light Blue) xử lý cacao ở đây KHÔ, không ngọt, gần bitter chocolate hơn. Tên \"Réserve Privée\" = một chai riêng từ tủ rượu — private reserve. Ai muốn sporty fresh đừng mua.\n\n### Có đáng tiền không?\n\nGiá Givenchy — affordable hơn Dior/Chanel. So với Gentleman EDP gốc — Réserve đậm hơn, nhiều cognac hơn, ít hoa lavender hơn. So với Valentino Uomo Intense — cùng iris-cacao — thì Réserve nhiều cognac hơn, boozy hơn. So với Tom Ford Tobacco Vanille — cùng nhóm boozy — thì Réserve rẻ hơn 3 lần. Bám 8-9 giờ.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, hẹn hò, bar, hoặc khi muốn mùi SANG TỐI. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-2. Sài Gòn tối phòng điều hòa. Chai designer tốt nhất nhóm boozy.",
   "verdict": "Cacao-cognac phòng cigar — Cresp. Givenchy affordable luxury. Réserve Privée = private reserve. Boozy best.",
   "verdictShort": "CACAO COGNAC, PHÒNG CIGAR, AFFORDABLE",
-  "score": { "scent": 8.5, "uniqueness": 8.0, "compliments": 8.5, "value": 9.0, "total": 8.5 },
-  "vibes": [{ "label": "Phòng cigar", "icon": "🥃" }, { "label": "Sang tối", "icon": "🖤" }, { "label": "Giá tốt", "icon": "💸" }],
-  "longevity": 9, "sillage": 7,
-  "seasons": { "spring": 28, "summer": 5, "fall": 85, "winter": 92 },
-  "dayNight": { "day": 18, "night": 88 },
-  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Quế" }],
-  "middleNotes": [{ "name": "Iris" }, { "name": "Cacao" }, { "name": "Cognac" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Benzoin" }, { "name": "Đậu Tonka" }],
-  "accords": [{ "name": "Gourmand", "value": 100, "color": "#d4a373" }, { "name": "Boozy", "value": 78, "color": "#6d4c41" }, { "name": "Gỗ", "value": 55, "color": "#8B4513" }, { "name": "Gia vị ấm", "value": 48, "color": "#e67e22" }, { "name": "Phấn", "value": 38, "color": "#d7bde2" }],
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8,
+    "compliments": 8.5,
+    "value": 9,
+    "total": 8.5
+  },
+  "vibes": [
+    {
+      "label": "Phòng cigar",
+      "icon": "🥃"
+    },
+    {
+      "label": "Sang tối",
+      "icon": "🖤"
+    },
+    {
+      "label": "Giá tốt",
+      "icon": "💸"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 7,
+  "seasons": {
+    "spring": 28,
+    "summer": 5,
+    "fall": 85,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 18,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Quế"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Cacao"
+    },
+    {
+      "name": "Cognac"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Đậu Tonka"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Gourmand",
+      "value": 100,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Boozy",
+      "value": 78,
+      "color": "#6d4c41"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 48,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Phấn",
+      "value": 38,
+      "color": "#d7bde2"
+    }
+  ],
   "seoTitle": "Givenchy Gentleman Réserve Privée chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Gentleman Réserve Privée chính hãng: cacao cognac boozy affordable luxury, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Boozy", "Phòng cigar", "Giá tốt"],
-  "sizes": ["10ml Chiết", "60ml Fullbox", "100ml Fullbox"],
-  "basePrice": 2200000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nam",
+    "Boozy",
+    "Phòng cigar",
+    "Giá tốt"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "60ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

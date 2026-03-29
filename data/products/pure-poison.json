@@ -1,23 +1,122 @@
 {
-  "id": "pure-poison", "brandSlug": "dior", "brand": "DIOR", "name": "Pure Poison", "subName": "Eau de Parfum",
-  "perfumer": "Carlos Benaïm, Dominique Ropion & Olivier Polge", "gender": "nu",
+  "id": "pure-poison",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Pure Poison",
+  "subName": "Eau de Parfum",
+  "perfumer": "Carlos Benaïm, Dominique Ropion & Olivier Polge",
+  "gender": "nu",
+  "year": 2004,
   "image": "/images/products/dior-pure-poison-main.jpg",
-  "images": [{ "url": "/images/products/dior-pure-poison-main.jpg", "source": "fragram", "caption": "Dior Pure Poison chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/dior-pure-poison-main.jpg",
+      "source": "fragram",
+      "caption": "Dior Pure Poison chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Poison phiên bản sạch — nhài, cam, gỗ đàn hương, hổ phách, xạ hương trắng và gardenia. KHÁC HẲN Poison gốc: sạch, hoa trắng, không powerhouse.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn Poison gốc (tuberose-gia vị nặng) — Pure Poison hoàn toàn KHÁC. 3 perfumer (Benaïm + Ropion + Polge) tạo ra chất độc \"thuần\" = nhài-gardenia sạch trên nền amber trắng. Không nặng, không tối, không bị cấm ở đâu cả. Nếu ghét hoa trắng thì sẽ thấy nhài quá mạnh.\n\n### Có đáng tiền không?\n\nGiá Dior — và bám 7-8 giờ. 3 perfumer top thế giới cùng ký tên hiếm gặp. So với Poison gốc — Pure nhẹ hơn 10 lần, hoa trắng thay tuberose. So với Narciso Rodriguez For Her — cùng nhóm sạch nữ — thì Pure Poison nhiều nhài hơn, ít musk hơn.\n\n### Nên dùng khi nào?\n\nĐi làm, đi ăn, gặp bạn bè — dùng hàng ngày. Xịt 2-3 nhát cổ. Dùng quanh năm. Cả SG lẫn HN. Chai Poison cho ai sợ Poison gốc.",
   "verdict": "Chất độc thuần — nhài sạch thay tuberose. 3 perfumer ký. Cho ai sợ Poison gốc.",
   "verdictShort": "NHÀI SẠCH, CHO AI SỢ POISON GỐC",
-  "score": { "scent": 7.5, "uniqueness": 7.0, "compliments": 8.0, "value": 8.0, "total": 7.6 },
-  "vibes": [{ "label": "Sạch", "icon": "🤍" }, { "label": "Nhài", "icon": "🌸" }, { "label": "Hàng ngày", "icon": "☀️" }],
-  "longevity": 8, "sillage": 6,
-  "seasons": { "spring": 72, "summer": 52, "fall": 62, "winter": 52 },
-  "dayNight": { "day": 72, "night": 55 },
-  "topNotes": [{ "name": "Cam" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Gardenia" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Hổ phách" }, { "name": "Xạ hương trắng" }],
-  "accords": [{ "name": "Hoa trắng", "value": 100, "color": "#f5f5dc" }, { "name": "Xạ hương", "value": 62, "color": "#bdc3c7" }, { "name": "Tươi mát", "value": 48, "color": "#2ecc71" }, { "name": "Gỗ", "value": 42, "color": "#8B4513" }],
+  "score": {
+    "scent": 7.5,
+    "uniqueness": 7,
+    "compliments": 8,
+    "value": 8,
+    "total": 7.6
+  },
+  "vibes": [
+    {
+      "label": "Sạch",
+      "icon": "🤍"
+    },
+    {
+      "label": "Nhài",
+      "icon": "🌸"
+    },
+    {
+      "label": "Hàng ngày",
+      "icon": "☀️"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 6,
+  "seasons": {
+    "spring": 72,
+    "summer": 52,
+    "fall": 62,
+    "winter": 52
+  },
+  "dayNight": {
+    "day": 72,
+    "night": 55
+  },
+  "topNotes": [
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Gardenia"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Xạ hương trắng"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#f5f5dc"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 62,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 48,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Gỗ",
+      "value": 42,
+      "color": "#8B4513"
+    }
+  ],
   "seoTitle": "Dior Pure Poison chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Dior Pure Poison chính hãng: mùi nhài sạch hoa trắng dùng hàng ngày, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Sạch", "Nhài", "Hàng ngày"], "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
-  "basePrice": 2200000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Sạch",
+    "Nhài",
+    "Hàng ngày"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

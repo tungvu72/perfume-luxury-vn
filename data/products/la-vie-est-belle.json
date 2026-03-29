@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Olivier Polge, Dominique Ropion & Anne Flipo",
   "gender": "nu",
+  "year": 2012,
   "image": "/images/products/lancome-la-vie-est-belle-main.jpg",
   "images": [
     {
@@ -19,30 +20,114 @@
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi KHÁC BIỆT để tạo dấu ấn riêng, thì La Vie Est Belle là lựa chọn sai. Đây là chai nữ bán chạy nhất hành tinh — nghĩa là ra đường, vào thang máy, đi đám cưới, ở đâu cũng có thể đụng người xịt cùng mùi. Ngoài ra, nếu bạn ghét mùi ngọt praline-vani thì chai này sẽ quá ngọt — nhất là 30 phút đầu khi praline phả ra rất mạnh.\n\n### Có đáng tiền không?\n\nGiá tầm trung Lancôme — không rẻ nhưng nhờ bán chạy nên dễ tìm deal tốt. Về chất lượng, La Vie Est Belle có 3 perfumer hàng đầu thế giới cùng làm — iris ở đây mềm và thanh, khác hẳn iris gắt trong những chai rẻ. So với Good Girl (Carolina Herrera) — cùng nhóm ngọt quyến rũ — thì La Vie Est Belle ấm hơn và nhiều praline hơn. So với Black Opium — cùng best seller — thì La Vie Est Belle ít cà phê hơn và \"dễ thương\" hơn thay vì sexy. Bám 7-8 giờ, tỏa tốt.\n\n### Nên dùng khi nào?\n\nGần như mọi lúc ngoài đi biển: đi làm, đi chơi, gặp bạn, ăn tối. Xịt 2 nhát cổ và cổ tay là đủ. Dùng quanh năm — ở Sài Gòn và Hà Nội đều thoải mái. Mùa đông thì praline-vani tỏa đẹp hơn, mùa hè thì iris-lê tươi sáng hơn. Chai an toàn nhất cho ai chưa biết bắt đầu từ đâu.",
   "verdict": "Chai nữ phổ biến nhất thế giới — iris-praline-vani. An toàn, ai cũng khen, nhưng dễ đụng hàng.",
   "verdictShort": "IRIS PRALINE VANI, PHỔ BIẾN NHẤT",
-  "score": { "scent": 8.5, "uniqueness": 6.5, "compliments": 9.0, "value": 8.5, "total": 8.1 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 6.5,
+    "compliments": 9,
+    "value": 8.5,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Best seller", "icon": "🏆" },
-    { "label": "An toàn", "icon": "✅" },
-    { "label": "Ngọt ngào", "icon": "🍬" }
+    {
+      "label": "Best seller",
+      "icon": "🏆"
+    },
+    {
+      "label": "An toàn",
+      "icon": "✅"
+    },
+    {
+      "label": "Ngọt ngào",
+      "icon": "🍬"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
-  "seasons": { "spring": 72, "summer": 55, "fall": 82, "winter": 78 },
-  "dayNight": { "day": 68, "night": 72 },
-  "topNotes": [{ "name": "Lý chua đen" }, { "name": "Lê" }],
-  "middleNotes": [{ "name": "Iris" }, { "name": "Hoa nhài" }, { "name": "Hoa cam" }],
-  "baseNotes": [{ "name": "Praline" }, { "name": "Vani" }, { "name": "Hoắc hương" }, { "name": "Đậu Tonka" }],
+  "seasons": {
+    "spring": 72,
+    "summer": 55,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 68,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Lý chua đen"
+    },
+    {
+      "name": "Lê"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa cam"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Praline"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Đậu Tonka"
+    }
+  ],
   "accords": [
-    { "name": "Gourmand", "value": 100, "color": "#d4a373" },
-    { "name": "Hoa", "value": 72, "color": "#e91e63" },
-    { "name": "Ngọt", "value": 68, "color": "#8B0000" },
-    { "name": "Trái cây", "value": 55, "color": "#f39c12" },
-    { "name": "Phấn", "value": 42, "color": "#d7bde2" }
+    {
+      "name": "Gourmand",
+      "value": 100,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Hoa",
+      "value": 72,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Ngọt",
+      "value": 68,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Trái cây",
+      "value": 55,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Phấn",
+      "value": 42,
+      "color": "#d7bde2"
+    }
   ],
   "seoTitle": "Lancôme La Vie Est Belle chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Lancôme La Vie Est Belle chính hãng: mùi iris praline vani phổ biến nhất thế giới, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Best seller", "An toàn", "Đa dụng"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "75ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Best seller",
+    "An toàn",
+    "Đa dụng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "75ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

@@ -1,23 +1,120 @@
 {
-  "id": "philosykos-edp", "brandSlug": "diptyque", "brand": "DIPTYQUE", "name": "Philosykos", "subName": "Eau de Parfum",
-  "perfumer": "Olivia Giacobetti", "gender": "unisex",
+  "id": "philosykos-edp",
+  "brandSlug": "diptyque",
+  "brand": "DIPTYQUE",
+  "name": "Philosykos",
+  "subName": "Eau de Parfum",
+  "perfumer": "Olivia Giacobetti",
+  "gender": "unisex",
+  "year": 1996,
   "image": "/images/products/diptyque-philosykos-edp-main.jpg",
-  "images": [{ "url": "/images/products/diptyque-philosykos-edp-main.jpg", "source": "fragram", "caption": "Diptyque Philosykos EDP chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/diptyque-philosykos-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Diptyque Philosykos EDP chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai unisex lá sung-gỗ sung-trái sung kiểu vườn Hy Lạp — lá sung, quả sung xanh, gỗ sung, dừa, hoắc hương, gỗ tuyết tùng và xạ hương trắng. Sung toàn phần, xanh và rất art.",
   "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi xanh lá — Philosykos LÁ SUNG NGUYÊN CÂY: lá, quả, gỗ, nhựa — cả cây sung trong một chai. Olivia Giacobetti (cũng tạo En Passant cho FM) tạo ra tượng đài soliflore sung. \"Philo-sykos\" = người yêu sung trong tiếng Hy Lạp. Ai muốn hoa hoặc ngọt sẽ thấy nó quá xanh, quá gỗ.\n\n### Có đáng tiền không?\n\nGiá Diptyque — niche Pháp tầm trung. EDP đậm hơn EDT: nhiều gỗ sung hơn, ít lá xanh hơn, ấm hơn. So với Aqua Allegoria Fig Tea Guerlain — cùng sung — thì Philosykos đậm hơn, woody hơn, art hơn. Bám 6-7 giờ (EDP).\n\n### Nên dùng khi nào?\n\nMùa hè, đi biển, cuối tuần, hoặc khi muốn mùi THIÊN NHIÊN thật sự. Xịt 2-3 nhát cổ. Sài Gòn quanh năm. Hà Nội tháng 4-10. Chai cho nature lover.",
   "verdict": "Cây sung toàn phần — Giacobetti. Diptyque art. Philosykos = người yêu sung. Nature niche.",
   "verdictShort": "CÂY SUNG, NGƯỜI YÊU SUNG, NATURE ART",
-  "score": { "scent": 9.0, "uniqueness": 9.5, "compliments": 7.0, "value": 7.5, "total": 8.3 },
-  "vibes": [{ "label": "Thiên nhiên", "icon": "🌿" }, { "label": "Art", "icon": "🎨" }, { "label": "Hy Lạp", "icon": "🏛️" }],
-  "longevity": 7, "sillage": 5,
-  "seasons": { "spring": 78, "summer": 82, "fall": 52, "winter": 28 },
-  "dayNight": { "day": 82, "night": 38 },
-  "topNotes": [{ "name": "Lá sung" }, { "name": "Quả sung xanh" }],
-  "middleNotes": [{ "name": "Gỗ sung" }, { "name": "Dừa" }],
-  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Gỗ tuyết tùng" }, { "name": "Xạ hương trắng" }],
-  "accords": [{ "name": "Xanh", "value": 100, "color": "#27ae60" }, { "name": "Gỗ", "value": 72, "color": "#8B4513" }, { "name": "Trái cây", "value": 55, "color": "#f39c12" }, { "name": "Tươi mát", "value": 42, "color": "#2ecc71" }],
+  "score": {
+    "scent": 9,
+    "uniqueness": 9.5,
+    "compliments": 7,
+    "value": 7.5,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Thiên nhiên",
+      "icon": "🌿"
+    },
+    {
+      "label": "Art",
+      "icon": "🎨"
+    },
+    {
+      "label": "Hy Lạp",
+      "icon": "🏛️"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 5,
+  "seasons": {
+    "spring": 78,
+    "summer": 82,
+    "fall": 52,
+    "winter": 28
+  },
+  "dayNight": {
+    "day": 82,
+    "night": 38
+  },
+  "topNotes": [
+    {
+      "name": "Lá sung"
+    },
+    {
+      "name": "Quả sung xanh"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gỗ sung"
+    },
+    {
+      "name": "Dừa"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Xạ hương trắng"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Xanh",
+      "value": 100,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Trái cây",
+      "value": 55,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 42,
+      "color": "#2ecc71"
+    }
+  ],
   "seoTitle": "Diptyque Philosykos EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Diptyque Philosykos EDP chính hãng: mùi cây sung toàn phần nature niche art, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Unisex", "Thiên nhiên", "Art", "Niche"], "sizes": ["10ml Chiết", "75ml Fullbox"],
-  "basePrice": 3500000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Unisex",
+    "Thiên nhiên",
+    "Art",
+    "Niche"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox"
+  ],
+  "basePrice": 3500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

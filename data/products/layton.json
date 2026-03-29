@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Hamid Merati-Kashani",
   "gender": "unisex",
+  "year": 2016,
   "image": "/images/products/parfums-de-marly-layton-main.jpg",
   "images": [
     {
@@ -19,30 +20,124 @@
   "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt thì Layton có vani-táo rất rõ — gần gourmand. Ai thích mùi sạch tươi citrus thuần cũng sẽ thấy chai này hơi ngọt. Ngoài ra, Layton rất phổ biến — nhiều người xịt cùng mùi.\n\n### Có đáng tiền không?\n\nLayton thuộc phân khúc PdM niche — đắt hơn designer. So với Herod cùng hãng, Layton sáng hơn, ít thuốc lá hơn và đa dụng hơn. So với BR540 (MFK), Layton ấm hơn và ít caramelized hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa mạnh. Đây là chai PdM best seller — không bao giờ sai.\n\n### Nên dùng khi nào?\n\nQuanh năm — đi làm, hẹn hò, gặp gỡ, dạo phố. Xịt 2 nhát — tỏa mạnh. Đẹp nhất thu đông nhưng dùng quanh năm vì lavender sáng. Ở Sài Gòn dùng thoải mái vì opening tươi.",
   "verdict": "Chai PdM best seller — táo, vani, lavender. Beast mode 10h+. Đa dụng quanh năm. Hơi mainstream nhưng quá đẹp.",
   "verdictShort": "TÁO VANI, BEST SELLER, BEAST MODE",
-  "score": { "scent": 9.0, "uniqueness": 8.0, "compliments": 9.5, "value": 7.8, "total": 8.6 },
+  "score": {
+    "scent": 9,
+    "uniqueness": 8,
+    "compliments": 9.5,
+    "value": 7.8,
+    "total": 8.6
+  },
   "vibes": [
-    { "label": "Best seller", "icon": "🏆" },
-    { "label": "Đa dụng", "icon": "🔄" },
-    { "label": "Cuốn hút", "icon": "🔥" }
+    {
+      "label": "Best seller",
+      "icon": "🏆"
+    },
+    {
+      "label": "Đa dụng",
+      "icon": "🔄"
+    },
+    {
+      "label": "Cuốn hút",
+      "icon": "🔥"
+    }
   ],
   "longevity": 10,
   "sillage": 9,
-  "seasons": { "spring": 72, "summer": 42, "fall": 92, "winter": 95 },
-  "dayNight": { "day": 62, "night": 88 },
-  "topNotes": [{ "name": "Táo" }, { "name": "Oải hương" }, { "name": "Cam bergamot" }, { "name": "Cam quýt" }],
-  "middleNotes": [{ "name": "Phong lữ" }, { "name": "Hoa tím" }, { "name": "Hoa nhài" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Bạch đậu khấu" }, { "name": "Gỗ đàn hương" }, { "name": "Tiêu" }, { "name": "Gỗ Guaiac" }, { "name": "Hoắc hương" }],
+  "seasons": {
+    "spring": 72,
+    "summer": 42,
+    "fall": 92,
+    "winter": 95
+  },
+  "dayNight": {
+    "day": 62,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Táo"
+    },
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Cam quýt"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Phong lữ"
+    },
+    {
+      "name": "Hoa tím"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Bạch đậu khấu"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Tiêu"
+    },
+    {
+      "name": "Gỗ Guaiac"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
   "accords": [
-    { "name": "Gia vị ấm", "value": 100, "color": "#e67e22" },
-    { "name": "Vani", "value": 85, "color": "#F5DEB3" },
-    { "name": "Thơm thảo mộc", "value": 72, "color": "#2c7a4b" },
-    { "name": "Trái cây", "value": 62, "color": "#f39c12" },
-    { "name": "Gỗ", "value": 52, "color": "#8B4513" }
+    {
+      "name": "Gia vị ấm",
+      "value": 100,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Vani",
+      "value": 85,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 72,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Trái cây",
+      "value": 62,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Gỗ",
+      "value": 52,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "Parfums de Marly Layton chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Parfums de Marly Layton chính hãng: mùi táo vani lavender niche, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Unisex", "Niche", "Best seller", "Đa dụng"],
-  "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Best seller",
+    "Đa dụng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox",
+    "125ml Fullbox"
+  ],
   "basePrice": 5200000,
   "shopeeOffers": [],
   "isPublished": true

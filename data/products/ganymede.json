@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Quentin Bisch",
   "gender": "unisex",
+  "year": 2019,
   "image": "/images/products/marc-antoine-barrois-ganymede-main.jpg",
   "images": [
     {
@@ -19,30 +20,118 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt ấm dễ tiếp cận thì Ganymede ở chiều ngược — đây là mùi khoáng-kim loại-da lộn rất lạnh và rất khó mô tả. Ai quen mùi designer mainstream sẽ thấy chai này \"space-age\". Cần test trước — đây là acquired taste.\n\n### Có đáng tiền không?\n\nGanymede thuộc phân khúc niche tầm trung — rẻ hơn Xerjoff và MFK. So với Terre d'Hermès (cùng nhóm khoáng), Ganymede metallic hơn và da lộn hơn rất nhiều. So với Dior Homme (cùng nhóm iris), Ganymede ít phấn hơn và lạnh hơn. Hiệu năng rất tốt: bám 9 giờ, tỏa khá. Chai unique nhất tầm giá — không chai nào giống.\n\n### Nên dùng khi nào?\n\nQuanh năm — đi làm, gặp gỡ, sự kiện. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất khi trời mát. Ở Sài Gòn dùng quanh năm vì citrus opening tươi.",
   "verdict": "Chai khoáng-da lộn-metallic unique nhất — lạnh, khác biệt. Bám 9h. Không giống bất kỳ chai nào khác.",
   "verdictShort": "KHOÁNG METALLIC, UNIQUE, DA LỘN",
-  "score": { "scent": 9.2, "uniqueness": 10.0, "compliments": 8.0, "value": 8.0, "total": 8.8 },
+  "score": {
+    "scent": 9.2,
+    "uniqueness": 10,
+    "compliments": 8,
+    "value": 8,
+    "total": 8.8
+  },
   "vibes": [
-    { "label": "Unique", "icon": "🪐" },
-    { "label": "Tinh tế", "icon": "💎" },
-    { "label": "Unisex", "icon": "✨" }
+    {
+      "label": "Unique",
+      "icon": "🪐"
+    },
+    {
+      "label": "Tinh tế",
+      "icon": "💎"
+    },
+    {
+      "label": "Unisex",
+      "icon": "✨"
+    }
   ],
   "longevity": 9,
   "sillage": 8,
-  "seasons": { "spring": 72, "summer": 55, "fall": 82, "winter": 78 },
-  "dayNight": { "day": 65, "night": 72 },
-  "topNotes": [{ "name": "Nghệ tây" }, { "name": "Cam quýt Ý" }],
-  "middleNotes": [{ "name": "Hoa mộc Trung Quốc" }, { "name": "Hoa bất tử" }, { "name": "Lá hoa tím" }],
-  "baseNotes": [{ "name": "Khoáng" }, { "name": "Da lộn" }, { "name": "Akigalawood" }, { "name": "Gỗ tuyết tùng" }, { "name": "Xạ hương" }, { "name": "Hoắc hương" }],
+  "seasons": {
+    "spring": 72,
+    "summer": 55,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 65,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Nghệ tây"
+    },
+    {
+      "name": "Cam quýt Ý"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa mộc Trung Quốc"
+    },
+    {
+      "name": "Hoa bất tử"
+    },
+    {
+      "name": "Lá hoa tím"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Khoáng"
+    },
+    {
+      "name": "Da lộn"
+    },
+    {
+      "name": "Akigalawood"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
   "accords": [
-    { "name": "Khoáng", "value": 100, "color": "#7f8c8d" },
-    { "name": "Gia vị ấm", "value": 72, "color": "#e67e22" },
-    { "name": "Da thuộc", "value": 65, "color": "#795548" },
-    { "name": "Gỗ", "value": 58, "color": "#8B4513" },
-    { "name": "Kim loại", "value": 52, "color": "#95a5a6" }
+    {
+      "name": "Khoáng",
+      "value": 100,
+      "color": "#7f8c8d"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 72,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 65,
+      "color": "#795548"
+    },
+    {
+      "name": "Gỗ",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Kim loại",
+      "value": 52,
+      "color": "#95a5a6"
+    }
   ],
   "seoTitle": "Marc-Antoine Barrois Ganymede chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Marc-Antoine Barrois Ganymede chính hãng: mùi khoáng da lộn metallic unique, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Unisex", "Niche", "Unique", "Khoáng"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Unique",
+    "Khoáng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 4800000,
   "shopeeOffers": [],
   "isPublished": true

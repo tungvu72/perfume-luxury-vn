@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Jacques Guerlain & Jean-Paul Guerlain",
   "gender": "nu",
+  "year": 1996,
   "image": "/images/products/guerlain-champs-elysees-edp-main.jpg",
   "images": [
     {
@@ -19,30 +20,112 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi hiện đại trendy — thì Champs-Élysées sẽ quá cổ điển. Đây là chai Guerlain nữ phấn-hoa vàng kiểu thập niên 90: mimosa, lilac, hạnh nhân — mọi thứ đều mềm, bột và romantic. Ai thích gourmand ngọt rõ hay mùi gỗ sharp cũng sẽ thấy nó quá \"phấn\" và quá nhẹ.\n\n### Có đáng tiền không?\n\nGiá Guerlain tầm trung — và Champs-Élysées là một trong những chai bị underrated nhất hãng. Mimosa — hoa vàng nhỏ thơm phấn — là nguyên liệu đắt và khó cân bằng, nhưng 2 thế hệ nhà Guerlain (Jacques + Jean-Paul) blend nó thành thứ gì đó rất Parisian. So với Chanel No.5 — cùng nhóm nữ cổ điển — thì Champs-Élysées ấm hơn, vàng hơn, ít aldehyde hơn. So với Sì Armani — cùng nhóm nữ sang — thì Champs-Élysées powdery hơn. Bám 6-7 giờ.\n\n### Nên dùng khi nào?\n\nĐi ăn trưa sang, dạo phố, gặp bạn bè, hoặc mùa xuân. Xịt 2-3 nhát: cổ và cổ tay. Xuân là đẹp nhất — mimosa nở vào xuân. Hà Nội tháng 3-5. Sài Gòn dùng ban ngày phòng điều hòa. Chai cho ai yêu Paris và phong cách Pháp thật sự.",
   "verdict": "Mimosa-hạnh nhân vàng kiểu đại lộ Paris — 2 thế hệ Guerlain. Phấn, lãng mạn, underrated.",
   "verdictShort": "MIMOSA VÀNG, PARIS, UNDERRATED GUERLAIN",
-  "score": { "scent": 8.0, "uniqueness": 8.0, "compliments": 7.5, "value": 8.0, "total": 7.9 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 8,
+    "compliments": 7.5,
+    "value": 8,
+    "total": 7.9
+  },
   "vibes": [
-    { "label": "Paris", "icon": "🗼" },
-    { "label": "Lãng mạn", "icon": "🌸" },
-    { "label": "Phấn", "icon": "✨" }
+    {
+      "label": "Paris",
+      "icon": "🗼"
+    },
+    {
+      "label": "Lãng mạn",
+      "icon": "🌸"
+    },
+    {
+      "label": "Phấn",
+      "icon": "✨"
+    }
   ],
   "longevity": 7,
   "sillage": 5,
-  "seasons": { "spring": 92, "summer": 55, "fall": 55, "winter": 38 },
-  "dayNight": { "day": 78, "night": 52 },
-  "topNotes": [{ "name": "Lá mimosa" }, { "name": "Cánh hồng" }],
-  "middleNotes": [{ "name": "Mimosa" }, { "name": "Buddleia" }, { "name": "Lý chua đen" }],
-  "baseNotes": [{ "name": "Hạt dâm bụt" }, { "name": "Gỗ hạnh nhân" }, { "name": "Gỗ" }, { "name": "Vani" }],
+  "seasons": {
+    "spring": 92,
+    "summer": 55,
+    "fall": 55,
+    "winter": 38
+  },
+  "dayNight": {
+    "day": 78,
+    "night": 52
+  },
+  "topNotes": [
+    {
+      "name": "Lá mimosa"
+    },
+    {
+      "name": "Cánh hồng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Mimosa"
+    },
+    {
+      "name": "Buddleia"
+    },
+    {
+      "name": "Lý chua đen"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hạt dâm bụt"
+    },
+    {
+      "name": "Gỗ hạnh nhân"
+    },
+    {
+      "name": "Gỗ"
+    },
+    {
+      "name": "Vani"
+    }
+  ],
   "accords": [
-    { "name": "Hoa", "value": 100, "color": "#e91e63" },
-    { "name": "Hoa vàng", "value": 78, "color": "#f4d03f" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Phấn", "value": 52, "color": "#d7bde2" },
-    { "name": "Xanh", "value": 38, "color": "#27ae60" }
+    {
+      "name": "Hoa",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Hoa vàng",
+      "value": 78,
+      "color": "#f4d03f"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Phấn",
+      "value": 52,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Xanh",
+      "value": 38,
+      "color": "#27ae60"
+    }
   ],
   "seoTitle": "Guerlain Champs-Élysées EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Guerlain Champs-Élysées EDP chính hãng: mùi mimosa hoa vàng kiểu Paris, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Paris", "Lãng mạn", "Mùa xuân"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "75ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Paris",
+    "Lãng mạn",
+    "Mùa xuân"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "75ml Fullbox"
+  ],
   "basePrice": 2800000,
   "shopeeOffers": [],
   "isPublished": true

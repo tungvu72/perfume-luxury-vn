@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Annick Ménardo",
   "gender": "nu",
+  "year": 2004,
   "image": "/images/products/lolita-lempicka-le-parfum-main.jpg",
   "images": [
     {
@@ -19,30 +20,116 @@
   "article": "### Ai không nên mua?\n\nNếu bạn ghét cam thảo (licorice) — dừng lại. Lolita Lempicka là chai KHAI SINH mùi cam thảo trong nước hoa nữ — và Le Parfum (phiên bản 2017) tiếp nối di sản đó: hồi + cam thảo đen tạo ra vị kẹo tối mà không ai khác dám copy. Annick Ménardo (cũng tạo Balenciaga Paris) giữ DNA gothic fairy của Lolita.\n\n### Có đáng tiền không?\n\nGiá — CỰC RẺ. Rẻ hơn mọi designer mainstream. Nhưng mùi thì KHÔNG RẺ: cam thảo-hồi-vani ở đây tinh tế, tối, có chiều sâu mà nhiều niche phải ghen. So với Lolita gốc 1997 — Le Parfum ngọt hơn, ít xanh hơn, hiện đại hơn. So với Angel Mugler — cùng nhóm nữ tối ngọt — thì Lolita nhiều cam thảo hơn, ít chocolate hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nThu đông, buổi tối, khi muốn mùi BÍ ẨN. Xịt 2-3 nhát: cổ và cổ tay. Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai dành cho ai muốn unique mà không phải trả giá niche.",
   "verdict": "Cam thảo-hồi gothic fairy — DNA không ai copy. Annick Ménardo. Giá cực rẻ mà mùi niche. Hidden gem.",
   "verdictShort": "CAM THẢO GOTHIC, CỰC RẺ, HIDDEN GEM",
-  "score": { "scent": 8.5, "uniqueness": 9.5, "compliments": 7.5, "value": 9.5, "total": 8.8 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 9.5,
+    "compliments": 7.5,
+    "value": 9.5,
+    "total": 8.8
+  },
   "vibes": [
-    { "label": "Gothic fairy", "icon": "🧚" },
-    { "label": "Bí ẩn", "icon": "🌙" },
-    { "label": "Hidden gem", "icon": "💎" }
+    {
+      "label": "Gothic fairy",
+      "icon": "🧚"
+    },
+    {
+      "label": "Bí ẩn",
+      "icon": "🌙"
+    },
+    {
+      "label": "Hidden gem",
+      "icon": "💎"
+    }
   ],
   "longevity": 8,
   "sillage": 6,
-  "seasons": { "spring": 42, "summer": 12, "fall": 85, "winter": 82 },
-  "dayNight": { "day": 28, "night": 82 },
-  "topNotes": [{ "name": "Hồi" }, { "name": "Cam thảo" }, { "name": "Hạnh nhân" }],
-  "middleNotes": [{ "name": "Hoa anh đào" }, { "name": "Anh túc" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Xạ hương" }, { "name": "Cỏ hương bài" }],
+  "seasons": {
+    "spring": 42,
+    "summer": 12,
+    "fall": 85,
+    "winter": 82
+  },
+  "dayNight": {
+    "day": 28,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Hồi"
+    },
+    {
+      "name": "Cam thảo"
+    },
+    {
+      "name": "Hạnh nhân"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa anh đào"
+    },
+    {
+      "name": "Anh túc"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
   "accords": [
-    { "name": "Ngọt", "value": 100, "color": "#8B0000" },
-    { "name": "Gourmand", "value": 78, "color": "#d4a373" },
-    { "name": "Hoa", "value": 55, "color": "#e91e63" },
-    { "name": "Vani", "value": 48, "color": "#F5DEB3" },
-    { "name": "Phấn", "value": 35, "color": "#d7bde2" }
+    {
+      "name": "Ngọt",
+      "value": 100,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gourmand",
+      "value": 78,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Hoa",
+      "value": 55,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Vani",
+      "value": 48,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Phấn",
+      "value": 35,
+      "color": "#d7bde2"
+    }
   ],
   "seoTitle": "Lolita Lempicka Le Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Lolita Lempicka Le Parfum chính hãng: mùi cam thảo gothic fairy hidden gem giá cực rẻ, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Gothic", "Hidden gem", "Giá rẻ"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "80ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Gothic",
+    "Hidden gem",
+    "Giá rẻ"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "80ml Fullbox"
+  ],
   "basePrice": 700000,
   "shopeeOffers": [],
   "isPublished": true

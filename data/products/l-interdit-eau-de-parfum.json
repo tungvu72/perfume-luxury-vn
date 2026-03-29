@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Dominique Ropion, Anne Flipo & Fanny Bal",
   "gender": "nu",
+  "year": 2018,
   "image": "/images/products/givenchy-l-interdit-eau-de-parfum-main.jpg",
   "images": [
     {
@@ -19,30 +20,113 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi nhẹ nhàng tươi sáng kiểu Chloé hay Light Blue thì L'Interdit quá tối và quá hoắc hương cho gu đó. Ai ghét tuberose (nặng, ngọt) cũng nên tránh. Đây là chai có contrast rất lớn — không phải ai cũng thích.\n\n### Có đáng tiền không?\n\nL'Interdit thuộc phân khúc Givenchy — tương đương Dior và Chanel. So với Miss Dior EDP, L'Interdit tối hơn và có hoắc hương đậm hơn. So với Black Opium, L'Interdit có tuberose-hoa cam rõ hơn và ít cà phê hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá. Chai nữ Givenchy best seller.\n\n### Nên dùng khi nào?\n\nHẹn hò, tiệc, buổi tối, dịp đặc biệt. Xịt 2 nhát: cổ, cổ tay. Đẹp nhất thu đông. Ở Sài Gòn dùng tối hoặc phòng máy lạnh.",
   "verdict": "Chai Givenchy nữ best seller — hoa trắng-dark contrast. Bám 8h. Hợp hẹn hò. Không hợp ai thích mùi nhẹ.",
   "verdictShort": "HOA TRẮNG DARK, CONTRAST, BEST SELLER",
-  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 8.8, "value": 8.2, "total": 8.6 },
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.5,
+    "compliments": 8.8,
+    "value": 8.2,
+    "total": 8.6
+  },
   "vibes": [
-    { "label": "Đối lập", "icon": "⚡" },
-    { "label": "Hẹn hò", "icon": "❤️" },
-    { "label": "Buổi tối", "icon": "🌙" }
+    {
+      "label": "Đối lập",
+      "icon": "⚡"
+    },
+    {
+      "label": "Hẹn hò",
+      "icon": "❤️"
+    },
+    {
+      "label": "Buổi tối",
+      "icon": "🌙"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
-  "seasons": { "spring": 55, "summer": 28, "fall": 88, "winter": 85 },
-  "dayNight": { "day": 35, "night": 85 },
-  "topNotes": [{ "name": "Lê" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Tuberose" }, { "name": "Hoa cam" }, { "name": "Nhài Sambac" }],
-  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Vani" }, { "name": "Ambroxan" }, { "name": "Cỏ hương bài" }],
+  "seasons": {
+    "spring": 55,
+    "summer": 28,
+    "fall": 88,
+    "winter": 85
+  },
+  "dayNight": {
+    "day": 35,
+    "night": 85
+  },
+  "topNotes": [
+    {
+      "name": "Lê"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Tuberose"
+    },
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Nhài Sambac"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Ambroxan"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
   "accords": [
-    { "name": "Hoa trắng", "value": 100, "color": "#ecf0f1" },
-    { "name": "Ngọt", "value": 72, "color": "#8B0000" },
-    { "name": "Hoắc hương", "value": 65, "color": "#4e342e" },
-    { "name": "Cam chanh", "value": 48, "color": "#f1c40f" },
-    { "name": "Gỗ", "value": 42, "color": "#8B4513" }
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Ngọt",
+      "value": 72,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Hoắc hương",
+      "value": 65,
+      "color": "#4e342e"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 48,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Gỗ",
+      "value": 42,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "Givenchy L'Interdit EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Givenchy L'Interdit EDP chính hãng: mùi hoa trắng dark contrast, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Best seller", "Hoa trắng", "Đối lập"],
-  "sizes": ["10ml Chiết", "35ml Fullbox", "50ml Fullbox", "80ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Best seller",
+    "Hoa trắng",
+    "Đối lập"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "35ml Fullbox",
+    "50ml Fullbox",
+    "80ml Fullbox"
+  ],
   "basePrice": 2800000,
   "shopeeOffers": [],
   "isPublished": true

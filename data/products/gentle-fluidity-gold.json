@@ -1,24 +1,122 @@
 {
-  "id": "gentle-fluidity-gold", "brandSlug": "maison-francis-kurkdjian", "brand": "MAISON FRANCIS KURKDJIAN", "name": "Gentle Fluidity Gold", "subName": "Eau de Parfum",
-  "perfumer": "Francis Kurkdjian", "gender": "unisex",
+  "id": "gentle-fluidity-gold",
+  "brandSlug": "maison-francis-kurkdjian",
+  "brand": "MAISON FRANCIS KURKDJIAN",
+  "name": "Gentle Fluidity Gold",
+  "subName": "Eau de Parfum",
+  "perfumer": "Francis Kurkdjian",
+  "gender": "unisex",
+  "year": 2019,
   "image": "/images/products/maison-francis-kurkdjian-gentle-fluidity-gold-main.jpg",
-  "images": [{ "url": "/images/products/maison-francis-kurkdjian-gentle-fluidity-gold-main.jpg", "source": "fragram", "caption": "MFK Gentle Fluidity Gold chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/maison-francis-kurkdjian-gentle-fluidity-gold-main.jpg",
+      "source": "fragram",
+      "caption": "MFK Gentle Fluidity Gold chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai unisex vani-xạ hương-hổ phách kiểu dòng chảy nhẹ vàng — bách xù, nhục đậu khấu, quế, vani, hổ phách, xạ hương trắng và gỗ đàn hương. Vani mượt, ấm và siêu sang.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi loud nổi bật — Gentle Fluidity Gold gần da, QUIET. Francis Kurkdjian (Baccarat Rouge 540, Grand Soir) tạo ra vani-amber-musk ở mức mượt nhất có thể: không hét, không tỏa xa, chỉ ÔM DA rồi ai đến gần sẽ thấy đắt. \"Gentle Fluidity\" = dòng chảy nhẹ nhàng. Gold = ấm.\n\n### Có đáng tiền không?\n\nGiá MFK — top niche đắt. Nhưng Kurkdjian DNA ở đây unmistakable: vani-amber-musk trio tinh khiết, không nhân tạo, không gourmand, chỉ SANG. So với BR540 — cùng MFK — thì GFG nhẹ hơn, ít saffron hơn, đời hơn. So với Silver — bản đối — thì Gold ấm, Silver tươi. Bám 7-8 giờ (gần da).\n\n### Nên dùng khi nào?\n\nMọi lúc — đi làm, gặp khách, cuối tuần, ngủ. Xịt 3-4 nhát cổ và ngực. Quanh năm. Chai \"tiền nói thay\" — không ai biết mùi gì nhưng ai cũng biết đắt.",
   "verdict": "Vani vàng quiet luxury — Kurkdjian. MFK sang nhất. Gần da, ấm, mượt. Tiền nói thay.",
   "verdictShort": "VANI VÀNG, QUIET LUXURY, KURKDJIAN",
-  "score": { "scent": 8.5, "uniqueness": 8.0, "compliments": 7.5, "value": 7.0, "total": 7.8 },
-  "vibes": [{ "label": "Quiet luxury", "icon": "🤫" }, { "label": "Vàng", "icon": "✨" }, { "label": "Mọi lúc", "icon": "☀️" }],
-  "longevity": 8, "sillage": 4,
-  "seasons": { "spring": 72, "summer": 48, "fall": 78, "winter": 72 },
-  "dayNight": { "day": 72, "night": 62 },
-  "topNotes": [{ "name": "Bách xù" }, { "name": "Nhục đậu khấu" }, { "name": "Quế" }],
-  "middleNotes": [{ "name": "Vani" }],
-  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Xạ hương trắng" }, { "name": "Gỗ đàn hương" }],
-  "accords": [{ "name": "Vani", "value": 100, "color": "#F5DEB3" }, { "name": "Hổ phách", "value": 72, "color": "#d4a017" }, { "name": "Xạ hương", "value": 55, "color": "#bdc3c7" }, { "name": "Gia vị ấm", "value": 42, "color": "#e67e22" }],
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8,
+    "compliments": 7.5,
+    "value": 7,
+    "total": 7.8
+  },
+  "vibes": [
+    {
+      "label": "Quiet luxury",
+      "icon": "🤫"
+    },
+    {
+      "label": "Vàng",
+      "icon": "✨"
+    },
+    {
+      "label": "Mọi lúc",
+      "icon": "☀️"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 4,
+  "seasons": {
+    "spring": 72,
+    "summer": 48,
+    "fall": 78,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 72,
+    "night": 62
+  },
+  "topNotes": [
+    {
+      "name": "Bách xù"
+    },
+    {
+      "name": "Nhục đậu khấu"
+    },
+    {
+      "name": "Quế"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Vani"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Xạ hương trắng"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Vani",
+      "value": 100,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 72,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 55,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 42,
+      "color": "#e67e22"
+    }
+  ],
   "seoTitle": "MFK Gentle Fluidity Gold chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá MFK Gentle Fluidity Gold chính hãng: vani quiet luxury Kurkdjian, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Unisex", "Quiet luxury", "Vani", "Mọi lúc"],
-  "sizes": ["10ml Chiết", "35ml Fullbox", "70ml Fullbox", "200ml Fullbox"],
-  "basePrice": 4990000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Unisex",
+    "Quiet luxury",
+    "Vani",
+    "Mọi lúc"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "35ml Fullbox",
+    "70ml Fullbox",
+    "200ml Fullbox"
+  ],
+  "basePrice": 4990000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

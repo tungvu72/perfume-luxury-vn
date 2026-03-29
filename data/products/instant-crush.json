@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Pierre Montale",
   "gender": "unisex",
+  "year": 2019,
   "image": "/images/products/mancera-instant-crush-main.jpg",
   "images": [
     {
@@ -27,9 +28,18 @@
     "total": 8.6
   },
   "vibes": [
-    { "label": "Dịp đặc biệt", "icon": "🥂" },
-    { "label": "Buổi tối", "icon": "🌙" },
-    { "label": "Có lực", "icon": "🔥" }
+    {
+      "label": "Dịp đặc biệt",
+      "icon": "🥂"
+    },
+    {
+      "label": "Buổi tối",
+      "icon": "🌙"
+    },
+    {
+      "label": "Có lực",
+      "icon": "🔥"
+    }
   ],
   "longevity": 9,
   "sillage": 9,
@@ -44,30 +54,72 @@
     "night": 100
   },
   "topNotes": [
-    { "name": "Nghệ tây" },
-    { "name": "Gừng" },
-    { "name": "Cam bergamot" }
+    {
+      "name": "Nghệ tây"
+    },
+    {
+      "name": "Gừng"
+    },
+    {
+      "name": "Cam bergamot"
+    }
   ],
   "middleNotes": [
-    { "name": "Hoa hồng" },
-    { "name": "Hoa nhài" },
-    { "name": "Gỗ amber" }
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Gỗ amber"
+    }
   ],
   "baseNotes": [
-    { "name": "Vani" },
-    { "name": "Xạ hương" },
-    { "name": "Gỗ đàn hương" }
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
   ],
   "accords": [
-    { "name": "Hổ phách", "value": 58, "color": "#d4a017" },
-    { "name": "Ngọt", "value": 50, "color": "#8B0000" },
-    { "name": "Nghệ tây", "value": 24, "color": "#f39c12" },
-    { "name": "Gỗ", "value": 22, "color": "#8B4513" }
+    {
+      "name": "Hổ phách",
+      "value": 58,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Ngọt",
+      "value": 50,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Nghệ tây",
+      "value": 24,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Gỗ",
+      "value": 22,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "Mancera Instant Crush chính hãng giá bao nhiêu? Review 2026",
   "metaDescription": "Đánh giá Mancera Instant Crush chính hãng: mùi hoa hồng vanilla đậm, độ lưu hương, độ tỏa hương, ai nên dùng và giá tham khảo 2026.",
-  "tags": ["Unisex", "Buổi tối", "Bám tốt", "Cao cấp"],
-  "sizes": ["10ml Chiết", "120ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Buổi tối",
+    "Bám tốt",
+    "Cao cấp"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "120ml Fullbox"
+  ],
   "basePrice": 2550000,
   "shopeeOffers": []
 }

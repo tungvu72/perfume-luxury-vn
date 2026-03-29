@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Olivier Cresp & Yves de Chiris",
   "gender": "nu",
+  "year": 1992,
   "image": "/images/products/mugler-angel-main.jpg",
   "images": [
     {
@@ -19,30 +20,140 @@
   "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt thì Angel là ÁC MỘNG — đây là chai ngọt nhất mọi thời đại. Ai thích mùi sạch tươi nhẹ nhàng cũng nên tránh xa. Dùng ban ngày mùa hè sẽ buồn nôn. Chai này polarizing cực kỳ — người yêu thì nghiện, người ghét thì muốn bỏ chạy.\n\n### Có đáng tiền không?\n\nAngel thuộc phân khúc designer — giá rất tốt cho chai huyền thoại 1992. Đây là chai MỞ RA thể loại gourmand — La Vie Est Belle, Black Opium, Good Girl đều chịu ảnh hưởng từ Angel. So với Black Opium, Angel ngọt hơn và có hoắc hương mạnh hơn. Hiệu năng quái vật: bám 10+ giờ, tỏa rất mạnh. Giá rẻ — best value legend.\n\n### Nên dùng khi nào?\n\nMùa đông, buổi tối. Xịt 1 nhát — tỏa cả phòng. Đẹp nhất khi trời lạnh. Ở Sài Gòn chỉ dùng tối trong phòng máy lạnh.",
   "verdict": "Chai cách mạng 1992 — cha đẻ gourmand. Ngọt, sốc, beast mode 10h+. Yêu hoặc ghét, không ai quên.",
   "verdictShort": "GOURMAND HUYỀN THOẠI 1992, CỰC NGỌT",
-  "score": { "scent": 8.5, "uniqueness": 10.0, "compliments": 7.5, "value": 8.5, "total": 8.6 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 10,
+    "compliments": 7.5,
+    "value": 8.5,
+    "total": 8.6
+  },
   "vibes": [
-    { "label": "Huyền thoại", "icon": "👑" },
-    { "label": "Gourmand", "icon": "🍫" },
-    { "label": "Polarizing", "icon": "⚡" }
+    {
+      "label": "Huyền thoại",
+      "icon": "👑"
+    },
+    {
+      "label": "Gourmand",
+      "icon": "🍫"
+    },
+    {
+      "label": "Polarizing",
+      "icon": "⚡"
+    }
   ],
   "longevity": 10,
   "sillage": 10,
-  "seasons": { "spring": 15, "summer": 2, "fall": 72, "winter": 98 },
-  "dayNight": { "day": 5, "night": 92 },
-  "topNotes": [{ "name": "Kẹo bông" }, { "name": "Dừa" }, { "name": "Lý chua đen" }, { "name": "Dứa" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Mật ong" }, { "name": "Quả mọng đỏ" }, { "name": "Mận" }, { "name": "Nhục đậu khấu" }, { "name": "Hoa hồng" }],
-  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Chocolate" }, { "name": "Caramel" }, { "name": "Vani" }, { "name": "Đậu Tonka" }, { "name": "Hổ phách" }, { "name": "Xạ hương" }, { "name": "Gỗ đàn hương" }],
+  "seasons": {
+    "spring": 15,
+    "summer": 2,
+    "fall": 72,
+    "winter": 98
+  },
+  "dayNight": {
+    "day": 5,
+    "night": 92
+  },
+  "topNotes": [
+    {
+      "name": "Kẹo bông"
+    },
+    {
+      "name": "Dừa"
+    },
+    {
+      "name": "Lý chua đen"
+    },
+    {
+      "name": "Dứa"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Mật ong"
+    },
+    {
+      "name": "Quả mọng đỏ"
+    },
+    {
+      "name": "Mận"
+    },
+    {
+      "name": "Nhục đậu khấu"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Chocolate"
+    },
+    {
+      "name": "Caramel"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
   "accords": [
-    { "name": "Gourmand", "value": 100, "color": "#d4a373" },
-    { "name": "Hoắc hương", "value": 82, "color": "#4e342e" },
-    { "name": "Ngọt", "value": 78, "color": "#8B0000" },
-    { "name": "Vani", "value": 65, "color": "#F5DEB3" },
-    { "name": "Trái cây", "value": 48, "color": "#f39c12" }
+    {
+      "name": "Gourmand",
+      "value": 100,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Hoắc hương",
+      "value": 82,
+      "color": "#4e342e"
+    },
+    {
+      "name": "Ngọt",
+      "value": 78,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Vani",
+      "value": 65,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Trái cây",
+      "value": 48,
+      "color": "#f39c12"
+    }
   ],
   "seoTitle": "Mugler Angel EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Mugler Angel EDP chính hãng: chai gourmand huyền thoại 1992, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Huyền thoại", "Gourmand", "Polarizing"],
-  "sizes": ["10ml Chiết", "25ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Huyền thoại",
+    "Gourmand",
+    "Polarizing"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "25ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2500000,
   "shopeeOffers": [],
   "isPublished": true

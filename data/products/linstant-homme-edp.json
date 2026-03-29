@@ -6,32 +6,127 @@
   "subName": "Eau de Parfum",
   "perfumer": "Thierry Wasser & Maurice Roucel",
   "gender": "nam",
+  "year": 2015,
   "image": "/images/products/guerlain-linstant-homme-edp-main.jpg",
   "images": [
-    { "url": "/images/products/guerlain-linstant-homme-edp-main.jpg", "source": "fragram", "caption": "Guerlain L'Instant Homme EDP chính hãng", "verified": true }
+    {
+      "url": "/images/products/guerlain-linstant-homme-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Guerlain L'Instant Homme EDP chính hãng",
+      "verified": true
+    }
   ],
   "description": "Chai nam cacao-hổ phách-hoắc hương kiểu khoảnh khắc nam — cam bergamot, bưởi, nhục đậu khấu, cacao, da thuộc, hổ phách, gỗ đàn hương, hoắc hương và benzoin. Cacao ấm, nam tính và rất Guerlain.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi tươi sporty — thì L'Instant Homme EDP quá ấm, quá cacao. Thierry Wasser + Maurice Roucel (rare collab) tạo ra chai nam cacao-hổ phách mà nhiều fan Guerlain coi là GEM BỊ GIẤU: không marketing, không TikTok, nhưng ai dùng đều thề.\n\n### Có đáng tiền không?\n\nGiá Guerlain tầm trung — và EDP bám 8+ giờ. So với L'Homme Idéal EDP — cùng Guerlain gourmand nam — thì L'Instant ít hạnh nhân hơn, nhiều cacao-leather hơn. So với Givenchy Gentleman Reserve Privee — cùng cacao — thì L'Instant tinh tế hơn, ít boozy hơn. Hidden gem Guerlain nam.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, hẹn hò, cuối tuần thư giãn. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai cho ai đã mệt mainstream.",
   "verdict": "Cacao-hổ phách hidden gem — Wasser+Roucel rare collab. Guerlain nam bí mật. Ai dùng đều thề.",
   "verdictShort": "CACAO HỔ PHÁCH, HIDDEN GEM, RARE COLLAB",
-  "score": { "scent": 8.5, "uniqueness": 8.5, "compliments": 8.0, "value": 8.0, "total": 8.3 },
-  "vibes": [{ "label": "Hidden gem", "icon": "💎" }, { "label": "Cacao", "icon": "🍫" }, { "label": "Trưởng thành", "icon": "🎩" }],
-  "longevity": 8, "sillage": 6,
-  "seasons": { "spring": 42, "summer": 12, "fall": 82, "winter": 82 },
-  "dayNight": { "day": 35, "night": 78 },
-  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Bưởi" }, { "name": "Nhục đậu khấu" }],
-  "middleNotes": [{ "name": "Cacao" }, { "name": "Da thuộc" }],
-  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Gỗ đàn hương" }, { "name": "Hoắc hương" }, { "name": "Benzoin" }],
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.5,
+    "compliments": 8,
+    "value": 8,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Hidden gem",
+      "icon": "💎"
+    },
+    {
+      "label": "Cacao",
+      "icon": "🍫"
+    },
+    {
+      "label": "Trưởng thành",
+      "icon": "🎩"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 6,
+  "seasons": {
+    "spring": 42,
+    "summer": 12,
+    "fall": 82,
+    "winter": 82
+  },
+  "dayNight": {
+    "day": 35,
+    "night": 78
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Bưởi"
+    },
+    {
+      "name": "Nhục đậu khấu"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Cacao"
+    },
+    {
+      "name": "Da thuộc"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Benzoin"
+    }
+  ],
   "accords": [
-    { "name": "Gourmand", "value": 100, "color": "#d4a373" },
-    { "name": "Gỗ", "value": 72, "color": "#8B4513" },
-    { "name": "Hổ phách", "value": 62, "color": "#d4a017" },
-    { "name": "Da thuộc", "value": 48, "color": "#795548" },
-    { "name": "Gia vị ấm", "value": 42, "color": "#e67e22" }
+    {
+      "name": "Gourmand",
+      "value": 100,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 62,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 48,
+      "color": "#795548"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 42,
+      "color": "#e67e22"
+    }
   ],
   "seoTitle": "Guerlain L'Instant Homme EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá L'Instant Homme EDP chính hãng: mùi cacao hổ phách hidden gem Guerlain, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Hidden gem", "Cacao", "Thu đông"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
-  "basePrice": 2200000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nam",
+    "Hidden gem",
+    "Cacao",
+    "Thu đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Christine Nagel & Francis Kurkdjian",
   "gender": "nu",
+  "year": 2006,
   "image": "/images/products/narciso-rodriguez-for-her-edp-main.jpg",
   "images": [
     {
@@ -19,30 +20,104 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tỏa mạnh hoặc mùi hoa rõ ràng thì For Her EDP quá subtle — đây là skin-scent thuần xạ hương, gần da hơn là tỏa xa. Ai cần mùi nhận diện ngay lập tức cũng sẽ thấy chai này hiền.\n\n### Có đáng tiền không?\n\nFor Her EDP thuộc phân khúc Narciso Rodriguez — giá tốt. So với bản EDT, EDP đậm hơn và hoa hồng rõ hơn. So với Chloé EDP, For Her EDP ít hoa hơn và nhiều xạ hương hơn. Hiệu năng lạ: bám rất lâu (8-9 giờ) trên da nhưng tỏa nhẹ — kiểu ôm mới ngửi thấy. Đó chính là sức hút.\n\n### Nên dùng khi nào?\n\nHằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. Đẹp quanh năm. Ở Sài Gòn dùng thoải mái.",
   "verdict": "Chai xạ hương skin-scent đẹp nhất — mềm, gợi cảm, gần da. Hợp hằng ngày. Ai ôm mới ngửi thấy.",
   "verdictShort": "XẠ HƯƠNG, SKIN-SCENT, GỢI CẢM",
-  "score": { "scent": 8.5, "uniqueness": 8.2, "compliments": 8.0, "value": 8.2, "total": 8.2 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.2,
+    "compliments": 8,
+    "value": 8.2,
+    "total": 8.2
+  },
   "vibes": [
-    { "label": "Gợi cảm", "icon": "💕" },
-    { "label": "Skin-scent", "icon": "🤍" },
-    { "label": "Hằng ngày", "icon": "🧴" }
+    {
+      "label": "Gợi cảm",
+      "icon": "💕"
+    },
+    {
+      "label": "Skin-scent",
+      "icon": "🤍"
+    },
+    {
+      "label": "Hằng ngày",
+      "icon": "🧴"
+    }
   ],
   "longevity": 8,
   "sillage": 5,
-  "seasons": { "spring": 78, "summer": 62, "fall": 72, "winter": 65 },
-  "dayNight": { "day": 68, "night": 72 },
-  "topNotes": [{ "name": "Hoa hồng" }, { "name": "Đào" }],
-  "middleNotes": [{ "name": "Xạ hương" }, { "name": "Hổ phách" }],
-  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Gỗ đàn hương" }],
+  "seasons": {
+    "spring": 78,
+    "summer": 62,
+    "fall": 72,
+    "winter": 65
+  },
+  "dayNight": {
+    "day": 68,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Đào"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
   "accords": [
-    { "name": "Xạ hương", "value": 100, "color": "#bdc3c7" },
-    { "name": "Hoa", "value": 65, "color": "#e91e63" },
-    { "name": "Hổ phách", "value": 55, "color": "#d4a017" },
-    { "name": "Gỗ", "value": 48, "color": "#8B4513" },
-    { "name": "Phấn", "value": 35, "color": "#d7bde2" }
+    {
+      "name": "Xạ hương",
+      "value": 100,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Hoa",
+      "value": 65,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 55,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gỗ",
+      "value": 48,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Phấn",
+      "value": 35,
+      "color": "#d7bde2"
+    }
   ],
   "seoTitle": "Narciso Rodriguez For Her EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Narciso Rodriguez For Her EDP chính hãng: mùi xạ hương skin-scent gợi cảm, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Gợi cảm", "Xạ hương", "Hằng ngày"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Gợi cảm",
+    "Xạ hương",
+    "Hằng ngày"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

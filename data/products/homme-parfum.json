@@ -6,6 +6,7 @@
   "subName": "Parfum",
   "perfumer": "François Demachy",
   "gender": "nam",
+  "year": 2014,
   "image": "/images/products/dior-homme-parfum-main.jpg",
   "images": [
     {
@@ -19,30 +20,108 @@
   "article": "### Ai không nên mua?\n\nNếu bạn đã thử Dior Homme EDT/EDP và thấy iris phấn nhẹ dễ thương — thì Parfum sẽ SHOCK: iris ở đây tối, dày, khô, phủ da thuộc nặng. Đây là chai Dior Homme tối nhất, discontinued, và trở thành CULT CLASSIC — giá secondhand đang tăng mỗi năm. Ai thích mùi sáng tươi đừng đến gần.\n\n### Có đáng tiền không?\n\nDiscontinued — nên giá thị trường cao hơn giá gốc. Nhưng với những ai yêu dòng Homme, Parfum là ĐỈNH CAO: Demachy đẩy iris lên nồng độ cao nhất, thêm leather-benzoin-vetiver tạo ra chiều sâu mà EDT/EDP không có. So với Dior Homme Intense — cùng iris đậm — thì Parfum tối hơn, khô hơn, ít ngọt hơn. So với Valentino Uomo Intense — cùng iris-leather — thì DHP nghiêm túc hơn. Bám 10+ giờ.\n\n### Nên dùng khi nào?\n\nĐi ăn tối sang, sự kiện quan trọng, hoặc khi muốn chai ĐẶC BIỆT. Xịt 2 nhát cổ — Parfum mạnh. Thu đông — Hà Nội tháng 10-2. Sài Gòn tối phòng điều hòa. Nếu tìm được chai chưa mở seal, mua ngay — giá chỉ tăng.",
   "verdict": "Iris-da tối nhất Homme — discontinued cult classic. Demachy peak. Giá tăng mỗi năm. Holy grail.",
   "verdictShort": "IRIS DA TỐI, DISCONTINUED, HOLY GRAIL",
-  "score": { "scent": 9.5, "uniqueness": 9.5, "compliments": 8.0, "value": 7.0, "total": 8.5 },
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 9.5,
+    "compliments": 8,
+    "value": 7,
+    "total": 8.5
+  },
   "vibes": [
-    { "label": "Cult classic", "icon": "🏆" },
-    { "label": "Holy grail", "icon": "💎" },
-    { "label": "Discontinued", "icon": "⏳" }
+    {
+      "label": "Cult classic",
+      "icon": "🏆"
+    },
+    {
+      "label": "Holy grail",
+      "icon": "💎"
+    },
+    {
+      "label": "Discontinued",
+      "icon": "⏳"
+    }
   ],
   "longevity": 10,
   "sillage": 7,
-  "seasons": { "spring": 28, "summer": 5, "fall": 82, "winter": 92 },
-  "dayNight": { "day": 22, "night": 88 },
-  "topNotes": [{ "name": "Iris" }, { "name": "Cam bergamot" }, { "name": "Oải hương" }],
-  "middleNotes": [{ "name": "Da thuộc" }, { "name": "Gỗ" }],
-  "baseNotes": [{ "name": "Cỏ hương bài" }, { "name": "Benzoin" }, { "name": "Hổ phách" }],
+  "seasons": {
+    "spring": 28,
+    "summer": 5,
+    "fall": 82,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 22,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Oải hương"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Gỗ"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Da thuộc", "value": 100, "color": "#795548" },
-    { "name": "Hoa", "value": 72, "color": "#e91e63" },
-    { "name": "Gỗ", "value": 62, "color": "#8B4513" },
-    { "name": "Phấn", "value": 48, "color": "#d7bde2" },
-    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+    {
+      "name": "Da thuộc",
+      "value": 100,
+      "color": "#795548"
+    },
+    {
+      "name": "Hoa",
+      "value": 72,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Gỗ",
+      "value": 62,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Phấn",
+      "value": 48,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 42,
+      "color": "#d4a017"
+    }
   ],
   "seoTitle": "Dior Homme Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Dior Homme Parfum chính hãng: mùi iris da thuộc cult classic discontinued, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Cult classic", "Discontinued", "Holy grail"],
-  "sizes": ["10ml Chiết", "75ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Cult classic",
+    "Discontinued",
+    "Holy grail"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox"
+  ],
   "basePrice": 4500000,
   "shopeeOffers": [],
   "isPublished": true

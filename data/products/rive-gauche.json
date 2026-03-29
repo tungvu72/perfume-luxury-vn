@@ -1,23 +1,127 @@
 {
-  "id": "rive-gauche", "brandSlug": "ysl", "brand": "YSL", "name": "Rive Gauche", "subName": "Eau de Toilette",
-  "perfumer": "Michel Hy", "gender": "nu",
+  "id": "rive-gauche",
+  "brandSlug": "ysl",
+  "brand": "YSL",
+  "name": "Rive Gauche",
+  "subName": "Eau de Toilette",
+  "perfumer": "Michel Hy",
+  "gender": "nu",
+  "year": 1971,
   "image": "/images/products/ysl-rive-gauche-main.jpg",
-  "images": [{ "url": "/images/products/ysl-rive-gauche-main.jpg", "source": "fragram", "caption": "YSL Rive Gauche chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/ysl-rive-gauche-main.jpg",
+      "source": "fragram",
+      "caption": "YSL Rive Gauche chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ aldehyde-hồng-rêu sồi kiểu tả ngạn Paris 1971 — aldehyde, cam bergamot, hồng, nhài, iris, gỗ đàn hương, cỏ hương bài, rêu sồi và xạ hương. Aldehyde sạch, Paris và vintage legend.",
   "article": "### Ai không nên mua?\n\nNếu bạn ghét aldehyde (mùi xà phòng kim loại) — Rive Gauche FULL ALDEHYDE. Michel Hy tạo năm 1971 cho YSL — lấy tên từ bờ tả ngạn sông Seine, nơi bohemian-intellectual Paris sống. Mùi sạch, phấn, metallic — kiểu nữ nghệ sĩ Paris thập niên 70. Chai vỏ lon kim loại sọc xanh-trắng-đỏ = ICONIC.\n\n### Có đáng tiền không?\n\nGiá YSL — rẻ. Và Rive Gauche 50+ năm, chai lon iconic nhất lịch sử nước hoa. So với No.5 — cùng aldehyde floral — thì Rive Gauche xanh hơn, ít vani hơn, bohemian hơn. Bám 5-6 giờ (EDT).\n\n### Nên dùng khi nào?\n\nBan ngày, đi dạo, galerie, hoặc khi muốn mùi Paris student art. Xịt 3 nhát cổ. Xuân thu. Chai vintage affordable nhất.",
   "verdict": "Tả ngạn Paris 1971 — aldehyde bohemian. Chai lon iconic. Michel Hy. Vintage affordable. Left bank art.",
   "verdictShort": "ALDEHYDE PARIS, CHAI LON ICONIC, BOHEMIAN",
-  "score": { "scent": 8.0, "uniqueness": 9.0, "compliments": 6.0, "value": 9.0, "total": 8.0 },
-  "vibes": [{ "label": "Paris", "icon": "🗼" }, { "label": "Bohemian", "icon": "🎨" }, { "label": "Vintage", "icon": "📽️" }],
-  "longevity": 6, "sillage": 5,
-  "seasons": { "spring": 78, "summer": 52, "fall": 62, "winter": 42 },
-  "dayNight": { "day": 78, "night": 38 },
-  "topNotes": [{ "name": "Aldehyde" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Hoa hồng" }, { "name": "Hoa nhài" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Cỏ hương bài" }, { "name": "Rêu sồi" }, { "name": "Xạ hương" }],
-  "accords": [{ "name": "Aldehyde", "value": 100, "color": "#ecf0f1" }, { "name": "Hoa", "value": 72, "color": "#e91e63" }, { "name": "Xanh", "value": 55, "color": "#27ae60" }, { "name": "Phấn", "value": 48, "color": "#d7bde2" }],
+  "score": {
+    "scent": 8,
+    "uniqueness": 9,
+    "compliments": 6,
+    "value": 9,
+    "total": 8
+  },
+  "vibes": [
+    {
+      "label": "Paris",
+      "icon": "🗼"
+    },
+    {
+      "label": "Bohemian",
+      "icon": "🎨"
+    },
+    {
+      "label": "Vintage",
+      "icon": "📽️"
+    }
+  ],
+  "longevity": 6,
+  "sillage": 5,
+  "seasons": {
+    "spring": 78,
+    "summer": 52,
+    "fall": 62,
+    "winter": 42
+  },
+  "dayNight": {
+    "day": 78,
+    "night": 38
+  },
+  "topNotes": [
+    {
+      "name": "Aldehyde"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Aldehyde",
+      "value": 100,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Hoa",
+      "value": 72,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Xanh",
+      "value": 55,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Phấn",
+      "value": 48,
+      "color": "#d7bde2"
+    }
+  ],
   "seoTitle": "YSL Rive Gauche chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá YSL Rive Gauche chính hãng: aldehyde Paris bohemian vintage chai lon iconic, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Paris", "Vintage", "Bohemian"], "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
-  "basePrice": 1500000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Paris",
+    "Vintage",
+    "Bohemian"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 1500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

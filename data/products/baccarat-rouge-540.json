@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Francis Kurkdjian",
   "gender": "unisex",
+  "year": 2015,
   "image": "/images/products/baccarat-rouge-540-main.jpg",
   "images": [
     {
@@ -27,9 +28,18 @@
     "total": 8.7
   },
   "vibes": [
-    { "label": "Phi giới tính", "icon": "✨" },
-    { "label": "Sang trọng", "icon": "💎" },
-    { "label": "Biểu tượng", "icon": "👑" }
+    {
+      "label": "Phi giới tính",
+      "icon": "✨"
+    },
+    {
+      "label": "Sang trọng",
+      "icon": "💎"
+    },
+    {
+      "label": "Biểu tượng",
+      "icon": "👑"
+    }
   ],
   "longevity": 8,
   "sillage": 8,
@@ -44,23 +54,55 @@
     "night": 85
   },
   "topNotes": [
-    { "name": "Nghệ tây" },
-    { "name": "Hoa nhài" }
+    {
+      "name": "Nghệ tây"
+    },
+    {
+      "name": "Hoa nhài"
+    }
   ],
   "middleNotes": [
-    { "name": "Amberwood" },
-    { "name": "Long diên hương" }
+    {
+      "name": "Amberwood"
+    },
+    {
+      "name": "Long diên hương"
+    }
   ],
   "baseNotes": [
-    { "name": "Nhựa thông" },
-    { "name": "Gỗ tuyết tùng" }
+    {
+      "name": "Nhựa thông"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
   ],
   "accords": [
-    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
-    { "name": "Hổ phách", "value": 92, "color": "#d4a017" },
-    { "name": "Gia vị ấm", "value": 72, "color": "#b05c00" },
-    { "name": "Kim loại", "value": 58, "color": "#9E9E9E" },
-    { "name": "Gia vị tươi", "value": 48, "color": "#4CAF50" }
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 92,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 72,
+      "color": "#b05c00"
+    },
+    {
+      "name": "Kim loại",
+      "value": 58,
+      "color": "#9E9E9E"
+    },
+    {
+      "name": "Gia vị tươi",
+      "value": 48,
+      "color": "#4CAF50"
+    }
   ],
   "seoTitle": "Baccarat Rouge 540 chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Baccarat Rouge 540 chính hãng: mùi ngọt trong sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",

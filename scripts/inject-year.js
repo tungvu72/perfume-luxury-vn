@@ -1,0 +1,271 @@
+const fs = require('fs');
+const path = require('path');
+
+// Perfume release years - researched data
+const YEAR_DATA = {
+  "1-million-parfum": 2020,
+  "24-faubourg": 1995,
+  "9pm": 2020,
+  "absolu-aventus": 2024,
+  "acqua-di-gio-parfum": 2022,
+  "acqua-di-gio-profondo": 2020,
+  "acqua-di-gio-profumo": 2015,
+  "acqua-di-gio": 1996,
+  "addict-edp-2014": 2014,
+  "addict-edp": 2002,
+  "african-leather": 2016,
+  "alexandria-ii": 2017,
+  "alien-edp": 2005,
+  "allure-edp": 1999,
+  "allure-homme-edition-blanche": 2014,
+  "allure-homme-edt": 1999,
+  "allure-homme-sport-eau-extreme": 2012,
+  "allure-homme-sport": 2004,
+  "althair": 2023,
+  "andromeda": 2016,
+  "angel-muse": 2015,
+  "angel": 1992,
+  "angelique-noire": 2013,
+  "angels-share": 2020,
+  "ani": 2019,
+  "antaeus": 1981,
+  "armani-si-edp": 2013,
+  "aventus": 2010,
+  "baccarat-rouge-540": 2015,
+  "bad-boy": 2019,
+  "bal-dafrique": 2009,
+  "bianco-latte": 2023,
+  "black-opium-le-parfum": 2022,
+  "black-opium": 2014,
+  "black-orchid": 2006,
+  "bleu-chanel-edp": 2014,
+  "bleu-de-chanel-parfum": 2018,
+  "bleu-noir-parfum": 2018,
+  "bloom-edp": 2018,
+  "bois-imperial": 2016,
+  "born-in-roma-intense": 2021,
+  "boss-bottled-edp": 2020,
+  "bottled-absolu": 2024,
+  "bright-crystal": 2006,
+  "by-the-fireplace": 2015,
+  "carlisle": 2015,
+  "carnal-flower": 2005,
+  "cedrat-boise": 2011,
+  "champs-elysees-edp": 1996,
+  "chance-eau-tendre-edp": 2019,
+  "cinema": 2004,
+  "ck-obsession": 1985,
+  "club-de-nuit-intense-man": 2015,
+  "coco-eau-de-parfum": 1984,
+  "coco-eau-de-toilette": 1984,
+  "coco-mademoiselle-edp": 2001,
+  "coco-noir": 2012,
+  "code-parfum": 2023,
+  "colonia": 1916,
+  "cool-water": 1988,
+  "coromandel-eau-de-parfum": 2007,
+  "crystal-noir-eau-de-toilette": 2004,
+  "dama-bianca": 2018,
+  "delina": 2017,
+  "diorissimo": 1956,
+  "dolce-vita": 1994,
+  "drakkar-noir": 1982,
+  "dune-edt": 1991,
+  "dylan-blue": 2016,
+  "eau-de-parfum": 2017,
+  "eau-sauvage-parfum": 2012,
+  "eau-sauvage": 1966,
+  "egoiste-platinum": 1993,
+  "egoiste": 1990,
+  "elixir-des-merveilles": 2006,
+  "encre-noire": 2006,
+  "erba-pura": 2019,
+  "eros-edp": 2020,
+  "eros-flame": 2018,
+  "explorer": 2019,
+  "fahrenheit-le-parfum": 2014,
+  "fahrenheit": 1988,
+  "for-her-edp": 2006,
+  "for-men": 2003,
+  "ganymede": 2019,
+  "gentle-fluidity-gold": 2019,
+  "gentleman-edp-boisee": 2020,
+  "gentleman-reserve-privee": 2019,
+  "good-girl": 2016,
+  "grand-soir": 2016,
+  "green-irish-tweed": 1985,
+  "grey-vetiver": 2009,
+  "habit-rouge-edt": 1965,
+  "habit-rouge-parfum": 2021,
+  "hacivat": 2017,
+  "halfeti": 2015,
+  "her-edp": 2018,
+  "herod": 2012,
+  "homme-cologne": 2013,
+  "homme-intense": 2013,
+  "homme-parfum": 2014,
+  "homme-sport-2021": 2021,
+  "hundred-silent-ways": 2019,
+  "hypnotic-poison": 1998,
+  "imagination": 2021,
+  "infusion-diris": 2007,
+  "insolence-edp": 2008,
+  "instant-crush": 2019,
+  "interlude-man": 2012,
+  "jadore-edp": 1999,
+  "jazz-club": 2013,
+  "jpg-classique-edt": 1993,
+  "jpg-la-belle-edp": 2019,
+  "jpg-la-belle-le-parfum": 2021,
+  "jpg-le-beau-le-parfum": 2022,
+  "jpg-le-male-edt": 1995,
+  "jpg-le-male-elixir": 2023,
+  "jpg-le-male-le-parfum": 2020,
+  "jpg-ultra-male": 2015,
+  "khamrah": 2022,
+  "l-homme-ideal-eau-de-parfum": 2016,
+  "l-interdit-eau-de-parfum-rouge": 2021,
+  "l-interdit-eau-de-parfum": 2018,
+  "la-nuit-de-lhomme-bleu-electrique": 2021,
+  "la-nuit-de-lhomme": 2009,
+  "la-vie-est-belle": 2012,
+  "layton": 2016,
+  "le-parfum-elie-saab": 2011,
+  "le-parfum-lolita": 2004,
+  "leau-dissey-pour-homme": 1994,
+  "lheure-bleue-edp": 1912,
+  "lheure-bleue-edt": 1912,
+  "lhomme-ideal-parfum": 2022,
+  "lhomme-intense": 2009,
+  "lhomme": 2006,
+  "libre-edp": 2019,
+  "libre-intense": 2020,
+  "libre-le-parfum": 2022,
+  "light-blue-intense-homme": 2017,
+  "light-blue-pour-femme": 2001,
+  "light-blue": 2007,
+  "limmensite": 2018,
+  "linstant-de-guerlain-femme": 2003,
+  "linstant-homme-edp": 2015,
+  "lira": 2013,
+  "lost-cherry": 2018,
+  "love-dont-be-shy": 2007,
+  "luna-rossa-black": 2018,
+  "luna-rossa-carbon": 2017,
+  "man-in-black": 2014,
+  "midnight-poison": 2007,
+  "miss-dior-blooming-bouquet": 2014,
+  "miss-dior-cherie": 2005,
+  "mitsouko-edp": 1919,
+  "mon-guerlain-intense": 2018,
+  "mon-guerlain": 2017,
+  "mon-paris-edp": 2016,
+  "musc-noir-rose-for-her": 2022,
+  "musc-ravageur": 2000,
+  "musk-therapy": 2021,
+  "my-way": 2020,
+  "n019": 2019,
+  "naxos": 2015,
+  "no-19-eau-de-parfum": 1970,
+  "no-19-poudre": 2011,
+  "no-5-eau-de-parfum": 1986,
+  "no-5-eau-de-toilette": 1924,
+  "no-5-parfum": 1921,
+  "noir-extreme": 2015,
+  "nomade-edp": 2018,
+  "ombre-leather": 2018,
+  "ombre-nomade": 2018,
+  "opium-edt": 1977,
+  "organza": 1996,
+  "oud-satin-mood": 2018,
+  "oud-wood": 2007,
+  "philosykos-edp": 1996,
+  "poison": 1985,
+  "polo-green": 1978,
+  "portrait-of-a-lady": 2010,
+  "pour-homme": 2003,
+  "pure-musc-for-her": 2019,
+  "pure-poison": 2004,
+  "reflection-45-man": 2022,
+  "reflection-man": 2007,
+  "rive-gauche": 1971,
+  "samsara-edp": 1989,
+  "sauvage-edp": 2018,
+  "sauvage-elixir": 2021,
+  "sedley": 2019,
+  "shalimar-edp": 2009,
+  "shalimar-lessence": 2013,
+  "shalimar-parfum": 1925,
+  "side-effect": 2016,
+  "signature-edp": 2020,
+  "spicebomb-extreme": 2015,
+  "stronger-with-you-intensely": 2019,
+  "terre-dhermes-eau-givree": 2022,
+  "terre-dhermes-edt": 2006,
+  "terre-dhermes-parfum": 2009,
+  "the-most-wanted-parfum": 2022,
+  "the-one-edp": 2006,
+  "the-one-for-men-eau-de-parfum": 2015,
+  "this-is-her": 2016,
+  "tobacco-vanille": 2007,
+  "torino21": 2021,
+  "toy-boy": 2019,
+  "tresor": 1990,
+  "tuscan-leather": 2007,
+  "tuxedo": 2015,
+  "un-jardin-sur-le-nil": 2005,
+  "uomo-born-in-roma-intense": 2021,
+  "uomo-intense": 2017,
+  "vanilla-28": 2006,
+  "vanilla": 2021,
+  "vetiver": 1959,
+  "vibrato": 2016,
+  "y-edp": 2018,
+};
+
+const productsDir = path.join(__dirname, '..', 'data', 'products');
+const files = fs.readdirSync(productsDir).filter(f => f.endsWith('.json'));
+
+let updated = 0;
+let missing = [];
+
+files.forEach(file => {
+  const id = file.replace('.json', '');
+  const filePath = path.join(productsDir, file);
+  const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  
+  if (YEAR_DATA[id]) {
+    data.year = YEAR_DATA[id];
+    // Insert year after gender field by rewriting
+    const ordered = {};
+    for (const key of Object.keys(data)) {
+      ordered[key] = data[key];
+      if (key === 'gender') {
+        ordered.year = YEAR_DATA[id];
+      }
+    }
+    // Remove duplicate year if it ended up at end
+    if (Object.keys(ordered).indexOf('year') !== Object.keys(ordered).lastIndexOf('year')) {
+      // keep only the first one (after gender)
+      const keys = Object.keys(ordered);
+      const firstIdx = keys.indexOf('year');
+      const result = {};
+      keys.forEach((k, i) => {
+        if (k === 'year' && i !== firstIdx) return;
+        result[k] = ordered[k];
+      });
+      fs.writeFileSync(filePath, JSON.stringify(result, null, 2) + '\n', 'utf-8');
+    } else {
+      fs.writeFileSync(filePath, JSON.stringify(ordered, null, 2) + '\n', 'utf-8');
+    }
+    updated++;
+  } else {
+    missing.push(id);
+  }
+});
+
+console.log(`✅ Updated ${updated} files with year data`);
+if (missing.length > 0) {
+  console.log(`⚠️ Missing year for ${missing.length} files:`);
+  missing.forEach(m => console.log(`  - ${m}`));
+}

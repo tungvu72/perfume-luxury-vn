@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Pierre Wargnye",
   "gender": "nam",
+  "year": 1982,
   "image": "/images/products/guy-laroche-drakkar-noir-main.jpg",
   "images": [
     {
@@ -19,30 +20,131 @@
   "article": "### Ai không nên mua?\n\nNếu bạn dưới 30 — thì Drakkar Noir sẽ là mùi BA bạn xịt hồi thập niên 90. Và đúng vậy: đây từng là chai nam BÁN CHẠY NHẤT thế giới suốt thập niên 80-90, trước khi Acqua di Gio thay thế. Fougère tối: oải hương, rêu sồi, da, nhựa — đậm, nặng, không có gì synthetic. Ai quen mùi hiện đại sẽ thấy nó quá old school.\n\n### Có đáng tiền không?\n\nGiá — CỰC RẺ. Rẻ hơn CK Obsession, rẻ hơn gần như mọi thứ. Và với một chai đã bán hàng triệu chai khắp thế giới, từng là biểu tượng nam tính thập niên 80-90, giá này là steal. So với Polo Green — cùng era — thì Drakkar Noir tối hơn, ít xanh hơn, nhiều da hơn. So với Sauvage — cùng ambroxan era hiện tại — thì Drakkar là antonym: tối vs sáng, nặng vs nhẹ. Bám 6-7 giờ.\n\n### Nên dùng khi nào?\n\nMùa đông, buổi tối, hoặc khi muốn thử trải nghiệm \"mùi của một thời đại\". Xịt 2-3 nhát: cổ và ngực. Hà Nội tháng 11-2. Sài Gòn khó dùng do nóng. Chai để hiểu lịch sử nước hoa nam.",
   "verdict": "Fougère huyền thoại 1982 — từng bán chạy nhất thế giới. Tối, mạnh, giá rẻ nhất danh sách. Lịch sử sống.",
   "verdictShort": "FOUGÈRE HUYỀN THOẠI, CỰC RẺ, LỊCH SỬ",
-  "score": { "scent": 8.0, "uniqueness": 8.5, "compliments": 6.0, "value": 9.5, "total": 8.0 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 8.5,
+    "compliments": 6,
+    "value": 9.5,
+    "total": 8
+  },
   "vibes": [
-    { "label": "Huyền thoại", "icon": "⚔️" },
-    { "label": "Old school", "icon": "🏛️" },
-    { "label": "Giá rẻ", "icon": "💸" }
+    {
+      "label": "Huyền thoại",
+      "icon": "⚔️"
+    },
+    {
+      "label": "Old school",
+      "icon": "🏛️"
+    },
+    {
+      "label": "Giá rẻ",
+      "icon": "💸"
+    }
   ],
   "longevity": 7,
   "sillage": 7,
-  "seasons": { "spring": 28, "summer": 5, "fall": 72, "winter": 85 },
-  "dayNight": { "day": 18, "night": 82 },
-  "topNotes": [{ "name": "Oải hương" }, { "name": "Artemisia" }, { "name": "Hương thảo" }, { "name": "Húng quế" }, { "name": "Chanh" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Bách xù" }, { "name": "Nhựa thơm" }, { "name": "Rau mùi" }, { "name": "Da thuộc" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Xạ hương" }, { "name": "Hoắc hương" }, { "name": "Hổ phách" }, { "name": "Rêu sồi" }],
+  "seasons": {
+    "spring": 28,
+    "summer": 5,
+    "fall": 72,
+    "winter": 85
+  },
+  "dayNight": {
+    "day": 18,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Artemisia"
+    },
+    {
+      "name": "Hương thảo"
+    },
+    {
+      "name": "Húng quế"
+    },
+    {
+      "name": "Chanh"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Bách xù"
+    },
+    {
+      "name": "Nhựa thơm"
+    },
+    {
+      "name": "Rau mùi"
+    },
+    {
+      "name": "Da thuộc"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Rêu sồi"
+    }
+  ],
   "accords": [
-    { "name": "Thơm thảo mộc", "value": 100, "color": "#2c7a4b" },
-    { "name": "Gỗ", "value": 72, "color": "#8B4513" },
-    { "name": "Da thuộc", "value": 55, "color": "#795548" },
-    { "name": "Rêu", "value": 48, "color": "#556b2f" },
-    { "name": "Gia vị ấm", "value": 42, "color": "#e67e22" }
+    {
+      "name": "Thơm thảo mộc",
+      "value": 100,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 55,
+      "color": "#795548"
+    },
+    {
+      "name": "Rêu",
+      "value": 48,
+      "color": "#556b2f"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 42,
+      "color": "#e67e22"
+    }
   ],
   "seoTitle": "Guy Laroche Drakkar Noir chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Drakkar Noir chính hãng: mùi fougère huyền thoại 1982 giá cực rẻ, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Huyền thoại", "Old school", "Giá rẻ"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Huyền thoại",
+    "Old school",
+    "Giá rẻ"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 600000,
   "shopeeOffers": [],
   "isPublished": true

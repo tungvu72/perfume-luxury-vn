@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Maurice Roucel",
   "gender": "nu",
+  "year": 2008,
   "image": "/images/products/guerlain-insolence-edp-main.jpg",
   "images": [
     {
@@ -19,30 +20,113 @@
   "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi phấn — thì Insolence phấn NẶNG. Violet (hoa tím) + iris tạo ra lớp bột mịn dày kiểu má phấn hồng — vừa ngọt vừa powdery. Maurice Roucel (cùng perfumer tạo Musc Ravageur và 24 Faubourg) thiết kế chai này mang tính \"hỗn xược\" — nhưng insolence ở đây là kiểu quý phái biết mình đẹp, không phải punk.\n\n### Có đáng tiền không?\n\nGiá Guerlain tầm trung — và Insolence EDP đậm hơn EDT đáng kể: nhiều nhựa Tolu, nhiều hổ phách, powdery hơn. So với YSL Mon Paris — cùng nữ trái cây ấm — thì Insolence nhiều violet hơn, unique hơn. So với Prada Candy — cùng ngọt — thì Insolence bớt gourmand, nhiều hoa hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, hẹn hò, sự kiện, hoặc khi muốn mùi NỮ 100%. Xịt 2-3 nhát: cổ và cổ tay. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai cho ai muốn feminine mà không basic.",
   "verdict": "Tím-violet-phấn kiểu hỗn — Roucel. Guerlain feminine nhất. Powdery mà quý, ngọt mà không cheap.",
   "verdictShort": "TÍM HOA TÍM, POWDERY QUÝ, FEMININE",
-  "score": { "scent": 8.0, "uniqueness": 8.0, "compliments": 8.0, "value": 8.0, "total": 8.0 },
+  "score": {
+    "scent": 8,
+    "uniqueness": 8,
+    "compliments": 8,
+    "value": 8,
+    "total": 8
+  },
   "vibes": [
-    { "label": "Feminine", "icon": "💜" },
-    { "label": "Powdery", "icon": "✨" },
-    { "label": "Hỗn xược", "icon": "😏" }
+    {
+      "label": "Feminine",
+      "icon": "💜"
+    },
+    {
+      "label": "Powdery",
+      "icon": "✨"
+    },
+    {
+      "label": "Hỗn xược",
+      "icon": "😏"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
-  "seasons": { "spring": 62, "summer": 28, "fall": 78, "winter": 72 },
-  "dayNight": { "day": 42, "night": 75 },
-  "topNotes": [{ "name": "Cam huyết" }, { "name": "Hoa tím" }],
-  "middleNotes": [{ "name": "Quả mọng tím" }, { "name": "Hoa hồng" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Nhựa Tolu" }, { "name": "Hổ phách" }, { "name": "Đậu Tonka" }, { "name": "Xạ hương" }],
+  "seasons": {
+    "spring": 62,
+    "summer": 28,
+    "fall": 78,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 42,
+    "night": 75
+  },
+  "topNotes": [
+    {
+      "name": "Cam huyết"
+    },
+    {
+      "name": "Hoa tím"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Quả mọng tím"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Nhựa Tolu"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
   "accords": [
-    { "name": "Phấn", "value": 100, "color": "#d7bde2" },
-    { "name": "Hoa", "value": 82, "color": "#e91e63" },
-    { "name": "Ngọt", "value": 62, "color": "#8B0000" },
-    { "name": "Trái cây", "value": 48, "color": "#f39c12" },
-    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+    {
+      "name": "Phấn",
+      "value": 100,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Hoa",
+      "value": 82,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Ngọt",
+      "value": 62,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Trái cây",
+      "value": 48,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 42,
+      "color": "#d4a017"
+    }
   ],
   "seoTitle": "Guerlain Insolence EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Guerlain Insolence EDP chính hãng: mùi tím violet powdery feminine, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Feminine", "Powdery", "Buổi tối"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Feminine",
+    "Powdery",
+    "Buổi tối"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

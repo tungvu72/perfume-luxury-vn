@@ -6,29 +6,112 @@
   "subName": "Eau de Parfum",
   "perfumer": "François Demachy",
   "gender": "nu",
+  "year": 2007,
   "image": "/images/products/dior-midnight-poison-main.jpg",
-  "images": [{ "url": "/images/products/dior-midnight-poison-main.jpg", "source": "fragram", "caption": "Dior Midnight Poison chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/dior-midnight-poison-main.jpg",
+      "source": "fragram",
+      "caption": "Dior Midnight Poison chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ hoa hồng-hổ phách-hoắc hương kiểu nửa đêm quyến rũ — cam quýt, cam bergamot, hoa hồng Damask, hổ phách, hoắc hương và gỗ đàn hương. Tối, hồng và discontinued cult.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mua dễ — thì Midnight Poison DISCONTINUED. Dior ngừng sản xuất từ lâu và giá secondhand tăng liên tục. Chai nổi tiếng vì Eva Green quảng cáo — tóc đen, áo đen, nửa đêm. Mùi cũng vậy: hồng tối, hổ phách nặng, hoắc hương black. Ai thích mùi nhẹ sẽ thấy nó quá \"midnight\".\n\n### Có đáng tiền không?\n\nDiscontinued = giá collector. Demachy tạo DNA hồng-hổ phách mà Poison gốc không có. So với Poison gốc 1985 — Midnight sạch hơn, ít tuberose hơn, nhiều hồng hơn. So với Hypnotic Poison — cùng dòng Poison — thì Midnight tối hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nĐêm đặc biệt, hẹn hò, sự kiện tối. Xịt 2 nhát cổ. Thu đông. Chai collector — tìm được thì giữ.",
   "verdict": "Hồng tối-hổ phách nửa đêm — Eva Green era. Discontinued cult. Tìm được = may mắn.",
   "verdictShort": "HỒNG TỐI, DISCONTINUED, CULT CLASSIC",
-  "score": { "scent": 8.5, "uniqueness": 8.5, "compliments": 8.0, "value": 7.0, "total": 8.0 },
-  "vibes": [{ "label": "Cult classic", "icon": "🌑" }, { "label": "Discontinued", "icon": "⏳" }, { "label": "Quyến rũ", "icon": "💋" }],
-  "longevity": 8, "sillage": 7,
-  "seasons": { "spring": 28, "summer": 8, "fall": 78, "winter": 85 },
-  "dayNight": { "day": 15, "night": 88 },
-  "topNotes": [{ "name": "Cam quýt" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Hoa hồng Damask" }],
-  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Hoắc hương" }, { "name": "Gỗ đàn hương" }],
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.5,
+    "compliments": 8,
+    "value": 7,
+    "total": 8
+  },
+  "vibes": [
+    {
+      "label": "Cult classic",
+      "icon": "🌑"
+    },
+    {
+      "label": "Discontinued",
+      "icon": "⏳"
+    },
+    {
+      "label": "Quyến rũ",
+      "icon": "💋"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": {
+    "spring": 28,
+    "summer": 8,
+    "fall": 78,
+    "winter": 85
+  },
+  "dayNight": {
+    "day": 15,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Cam quýt"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng Damask"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
   "accords": [
-    { "name": "Hoa hồng", "value": 100, "color": "#e91e63" },
-    { "name": "Hổ phách", "value": 78, "color": "#d4a017" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Phấn", "value": 42, "color": "#d7bde2" }
+    {
+      "name": "Hoa hồng",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 78,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Phấn",
+      "value": 42,
+      "color": "#d7bde2"
+    }
   ],
   "seoTitle": "Dior Midnight Poison chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Dior Midnight Poison chính hãng: mùi hồng tối hổ phách discontinued cult, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Discontinued", "Cult classic", "Buổi tối"],
-  "sizes": ["10ml Chiết", "50ml Fullbox"],
-  "basePrice": 3500000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Discontinued",
+    "Cult classic",
+    "Buổi tối"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox"
+  ],
+  "basePrice": 3500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

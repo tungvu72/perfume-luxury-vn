@@ -1,23 +1,136 @@
 {
-  "id": "poison", "brandSlug": "dior", "brand": "DIOR", "name": "Poison", "subName": "Eau de Toilette",
-  "perfumer": "Edouard Fléchier", "gender": "nu",
+  "id": "poison",
+  "brandSlug": "dior",
+  "brand": "DIOR",
+  "name": "Poison",
+  "subName": "Eau de Toilette",
+  "perfumer": "Edouard Fléchier",
+  "gender": "nu",
+  "year": 1985,
   "image": "/images/products/dior-poison-main.jpg",
-  "images": [{ "url": "/images/products/dior-poison-main.jpg", "source": "fragram", "caption": "Dior Poison chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/dior-poison-main.jpg",
+      "source": "fragram",
+      "caption": "Dior Poison chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ tuberose-coriander-opoponax kiểu chất độc 1985 — coriander, mận, bách xù, tuberose, quế, opoponax, hổ phách, gỗ đàn hương, xạ hương và civette. POWERHOUSE nữ tối nhất, nặng nhất 80s.",
   "article": "### Ai không nên mua?\n\nNếu bạn chưa sẵn sàng cho mùi MẠNH — Poison là chai nữ gây SỢ nhất thập niên 80. Tuberose-coriander-opoponax phả ra như sóng, tối, nặng và kiểu \"tao đến rồi, không cần xin phép\". Từng bị CẤM ở một số nhà hàng vì quá mạnh. Edouard Fléchier tạo ra monster.\n\n### Có đáng tiền không?\n\nGiá Dior EDT — hợp lý. Và Poison 40+ năm vẫn bán. So với Angel Mugler — cùng 80s-90s powerhouse — thì Poison ít chocolate, nhiều tuberose, tối hơn. So với Opium YSL — cùng era — thì Poison nhiều tuberose, ít gia vị. Bám 7-8 giờ — và TỎA rất mạnh.\n\n### Nên dùng khi nào?\n\nĐêm mùa đông, sự kiện muốn gây ấn tượng MẠNH. Xịt 1-2 nhát SAU CỔ — chấm hết. Hà Nội tháng 12-2. Sài Gòn hoàn toàn không nên. Chai gây sợ đẹp nhất lịch sử.",
   "verdict": "Chất độc 1985 — tuberose powerhouse. Bị cấm ở nhà hàng. Tối nhất Dior nữ. Monster đẹp.",
   "verdictShort": "CHẤT ĐỘC, BỊ CẤM, MONSTER ĐẸP",
-  "score": { "scent": 8.5, "uniqueness": 9.5, "compliments": 7.0, "value": 8.0, "total": 8.3 },
-  "vibes": [{ "label": "Monster", "icon": "☠️" }, { "label": "Powerhouse", "icon": "💪" }, { "label": "80s", "icon": "🕶️" }],
-  "longevity": 8, "sillage": 9,
-  "seasons": { "spring": 8, "summer": 0, "fall": 72, "winter": 92 },
-  "dayNight": { "day": 2, "night": 92 },
-  "topNotes": [{ "name": "Rau mùi" }, { "name": "Mận" }, { "name": "Bách xù" }],
-  "middleNotes": [{ "name": "Tuberose" }, { "name": "Quế" }],
-  "baseNotes": [{ "name": "Opoponax" }, { "name": "Hổ phách" }, { "name": "Gỗ đàn hương" }, { "name": "Xạ hương" }, { "name": "Civette" }],
-  "accords": [{ "name": "Hoa trắng", "value": 100, "color": "#f5f5dc" }, { "name": "Gia vị ấm", "value": 78, "color": "#e67e22" }, { "name": "Nhựa", "value": 62, "color": "#5d4037" }, { "name": "Nốt động vật", "value": 48, "color": "#795548" }, { "name": "Hổ phách", "value": 42, "color": "#d4a017" }],
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 9.5,
+    "compliments": 7,
+    "value": 8,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Monster",
+      "icon": "☠️"
+    },
+    {
+      "label": "Powerhouse",
+      "icon": "💪"
+    },
+    {
+      "label": "80s",
+      "icon": "🕶️"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 9,
+  "seasons": {
+    "spring": 8,
+    "summer": 0,
+    "fall": 72,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 2,
+    "night": 92
+  },
+  "topNotes": [
+    {
+      "name": "Rau mùi"
+    },
+    {
+      "name": "Mận"
+    },
+    {
+      "name": "Bách xù"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Tuberose"
+    },
+    {
+      "name": "Quế"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Opoponax"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Civette"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#f5f5dc"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 78,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Nhựa",
+      "value": 62,
+      "color": "#5d4037"
+    },
+    {
+      "name": "Nốt động vật",
+      "value": 48,
+      "color": "#795548"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 42,
+      "color": "#d4a017"
+    }
+  ],
   "seoTitle": "Dior Poison chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Dior Poison chính hãng: chất độc 1985 tuberose powerhouse bị cấm ở nhà hàng, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Powerhouse", "80s", "Monster"], "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
-  "basePrice": 2200000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Powerhouse",
+    "80s",
+    "Monster"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

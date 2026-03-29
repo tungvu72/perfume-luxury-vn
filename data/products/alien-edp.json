@@ -1,24 +1,116 @@
 {
-  "id": "alien-edp", "brandSlug": "mugler", "brand": "MUGLER", "name": "Alien", "subName": "Eau de Parfum",
-  "perfumer": "Dominique Ropion & Laurent Bruyere", "gender": "nu",
+  "id": "alien-edp",
+  "brandSlug": "mugler",
+  "brand": "MUGLER",
+  "name": "Alien",
+  "subName": "Eau de Parfum",
+  "perfumer": "Dominique Ropion & Laurent Bruyere",
+  "gender": "nu",
+  "year": 2005,
   "image": "/images/products/mugler-alien-edp-main.jpg",
-  "images": [{ "url": "/images/products/mugler-alien-edp-main.jpg", "source": "fragram", "caption": "Mugler Alien EDP chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/mugler-alien-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Mugler Alien EDP chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ nhài-hổ phách-gỗ kiểu ngoài hành tinh — nhài Sambac, cashmeran, gỗ đàn hương, hổ phách và xạ hương trắng. Nhài solar sáng, ấm và gây nghiện.",
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi nhẹ kín đáo — Alien TỎA RẤT MẠNH. Dominique Ropion (Portrait of a Lady, Carnal Flower) + Laurent Bruyere tạo ra nhài Sambac ở nồng độ SOLAR: sáng rực, gần như phát sáng. Chai hình UFO tím — and the scent lives up to the name. Ai muốn subtle skin scent sẽ thấy Alien quá loud.\n\n### Có đáng tiền không?\n\nGiá Mugler — tầm trung, rẻ hơn Dior/Chanel. Và Alien bám KHỎE: 8-10 giờ, tỏa xa. Chỉ 2 nhát là đủ. So với Angel Mugler — cùng nhà — thì Alien ít chocolate hơn, nhiều nhài hơn, sáng hơn. So với Lancôme La Vie Est Belle — cùng nhóm nữ compliment getter — thì Alien nhiều nhài hơn, ít iris hơn. Refillable bottle = tiết kiệm lâu dài.\n\n### Nên dùng khi nào?\n\nĐi ăn tối, sự kiện, hẹn hò, hoặc khi muốn mùi PHÁT SÁNG. Xịt 2 nhát cổ — CHẤM. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai gây nghiện — một khi yêu thì không bỏ được.",
   "verdict": "Nhài solar phát sáng — Ropion+Bruyere. UFO tím. 8-10h bám. Refillable. Gây nghiện từ chai đầu tiên.",
   "verdictShort": "NHÀI SOLAR, PHÁT SÁNG, GÂY NGHIỆN",
-  "score": { "scent": 8.5, "uniqueness": 8.5, "compliments": 9.0, "value": 8.5, "total": 8.6 },
-  "vibes": [{ "label": "Phát sáng", "icon": "✨" }, { "label": "Gây nghiện", "icon": "💜" }, { "label": "UFO", "icon": "🛸" }],
-  "longevity": 9, "sillage": 8,
-  "seasons": { "spring": 52, "summer": 28, "fall": 82, "winter": 78 },
-  "dayNight": { "day": 38, "night": 82 },
-  "topNotes": [{ "name": "Nhài Sambac" }],
-  "middleNotes": [{ "name": "Cashmeran" }, { "name": "Gỗ đàn hương" }],
-  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Xạ hương trắng" }],
-  "accords": [{ "name": "Hoa trắng", "value": 100, "color": "#f5f5dc" }, { "name": "Hổ phách", "value": 78, "color": "#d4a017" }, { "name": "Gỗ", "value": 55, "color": "#8B4513" }, { "name": "Xạ hương", "value": 42, "color": "#bdc3c7" }],
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.5,
+    "compliments": 9,
+    "value": 8.5,
+    "total": 8.6
+  },
+  "vibes": [
+    {
+      "label": "Phát sáng",
+      "icon": "✨"
+    },
+    {
+      "label": "Gây nghiện",
+      "icon": "💜"
+    },
+    {
+      "label": "UFO",
+      "icon": "🛸"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 8,
+  "seasons": {
+    "spring": 52,
+    "summer": 28,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 38,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Nhài Sambac"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Cashmeran"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Xạ hương trắng"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#f5f5dc"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 78,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 42,
+      "color": "#bdc3c7"
+    }
+  ],
   "seoTitle": "Mugler Alien EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Mugler Alien EDP chính hãng: nhài solar phát sáng gây nghiện, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Gây nghiện", "Compliment getter", "Buổi tối"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "60ml Fullbox", "90ml Fullbox"],
-  "basePrice": 2390000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Gây nghiện",
+    "Compliment getter",
+    "Buổi tối"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "60ml Fullbox",
+    "90ml Fullbox"
+  ],
+  "basePrice": 2390000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

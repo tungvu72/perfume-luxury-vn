@@ -46,6 +46,7 @@ export interface Perfume {
     subName?: string;
     perfumer?: string; // Tên tác giả / Nhà tạo hương (Perfumer)
     gender: 'nam' | 'nu' | 'unisex';
+    year?: number; // Năm ra mắt
     image: string;
     video?: string; // Video sản phẩm (mp4)
     images?: (string | GalleryImage)[]; // Ảnh thực tế (Gallery) — string (legacy) hoặc GalleryImage (Sanity)

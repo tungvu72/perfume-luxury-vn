@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Jean-Christophe Hérault & Erwin Creed",
   "gender": "nam",
+  "year": 2010,
   "image": "/images/products/creed-aventus-main.jpg",
   "images": [
     {
@@ -19,30 +20,136 @@
   "article": "### Ai không nên mua?\n\nNếu bạn cần chai nước hoa để \"âm thầm mà hiệu quả\" thì Aventus là sai lựa chọn — vì ai trong giới nước hoa cũng nhận ra Aventus ngay lập tức. Xịt Aventus trong nhóm yêu nước hoa giống như đeo Rolex Submariner trong hội đồng hồ: ai cũng biết, ai cũng có ý kiến. Ngoài ra, giá Creed rất cao — và nhiều chai clone 200-300k ngửi gần giống 80%. Nếu budget dưới 3 triệu, nên thử Montblanc Explorer hoặc CDNIM trước.\n\n### Có đáng tiền không?\n\nĐây là câu hỏi gây tranh cãi nhất cộng đồng nước hoa. Giá Creed thuộc top cao nhất — nhưng Aventus tạo ra một DNA mà cả ngành công nghiệp phải clone theo: dứa-bạch dương-rêu sồi. So với Explorer (Montblanc) — clone phổ biến nhất — thì Aventus có bạch dương smoky và tỏa xa hơn hẳn. So với CDNIM (Armaf) — clone rẻ nhất — thì Aventus mượt hơn, ít synthetic hơn và lắng xuống đẹp hơn. Bám 8-10 giờ, tỏa mạnh. Câu hỏi thật sự không phải \"có đáng không\" mà là \"bạn có cần bản gốc không\".\n\n### Nên dùng khi nào?\n\nGần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp đối tác, hẹn hò. Xịt 2-3 nhát cổ và ngực. Aventus tỏa rất mạnh 2 giờ đầu rồi lắng xuống thành skin scent gỗ-rêu sồi. Dùng quanh năm — Sài Gòn thì dứa-cam mở ra tươi, Hà Nội mùa đông thì bạch dương-rêu sồi ấm. Chai mà mặc vest hay jeans đều hợp.",
   "verdict": "Huyền thoại dứa-bạch dương — DNA mà cả ngành phải clone. Đắt nhưng iconic. Câu hỏi là bạn có cần bản gốc.",
   "verdictShort": "DỨA BẠCH DƯƠNG, HUYỀN THOẠI, ICONIC",
-  "score": { "scent": 9.5, "uniqueness": 8.0, "compliments": 9.5, "value": 6.5, "total": 8.4 },
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 8,
+    "compliments": 9.5,
+    "value": 6.5,
+    "total": 8.4
+  },
   "vibes": [
-    { "label": "Huyền thoại", "icon": "👑" },
-    { "label": "Quyền lực", "icon": "🦁" },
-    { "label": "Đa dụng", "icon": "🔄" }
+    {
+      "label": "Huyền thoại",
+      "icon": "👑"
+    },
+    {
+      "label": "Quyền lực",
+      "icon": "🦁"
+    },
+    {
+      "label": "Đa dụng",
+      "icon": "🔄"
+    }
   ],
   "longevity": 9,
   "sillage": 9,
-  "seasons": { "spring": 82, "summer": 65, "fall": 78, "winter": 72 },
-  "dayNight": { "day": 75, "night": 78 },
-  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Lý chua đen" }, { "name": "Táo" }, { "name": "Dứa" }, { "name": "Chanh" }, { "name": "Tiêu hồng" }],
-  "middleNotes": [{ "name": "Dứa" }, { "name": "Hoắc hương" }, { "name": "Nhài Morocco" }, { "name": "Hoa hồng" }, { "name": "Bạch dương khô" }],
-  "baseNotes": [{ "name": "Rêu sồi" }, { "name": "Xạ hương" }, { "name": "Long diên hương" }, { "name": "Vani" }, { "name": "Gỗ tuyết tùng" }, { "name": "Ambroxan" }],
+  "seasons": {
+    "spring": 82,
+    "summer": 65,
+    "fall": 78,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 75,
+    "night": 78
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Lý chua đen"
+    },
+    {
+      "name": "Táo"
+    },
+    {
+      "name": "Dứa"
+    },
+    {
+      "name": "Chanh"
+    },
+    {
+      "name": "Tiêu hồng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Dứa"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Nhài Morocco"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Bạch dương khô"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Long diên hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Ambroxan"
+    }
+  ],
   "accords": [
-    { "name": "Trái cây", "value": 100, "color": "#f39c12" },
-    { "name": "Cam chanh", "value": 78, "color": "#f1c40f" },
-    { "name": "Thơm thảo mộc", "value": 65, "color": "#2c7a4b" },
-    { "name": "Gỗ", "value": 58, "color": "#8B4513" },
-    { "name": "Gia vị ấm", "value": 48, "color": "#e67e22" }
+    {
+      "name": "Trái cây",
+      "value": 100,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 78,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 65,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gỗ",
+      "value": 58,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 48,
+      "color": "#e67e22"
+    }
   ],
   "seoTitle": "Creed Aventus chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Creed Aventus chính hãng: mùi dứa bạch dương huyền thoại, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Niche", "Huyền thoại", "Iconic"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Niche",
+    "Huyền thoại",
+    "Iconic"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 7500000,
   "shopeeOffers": [],
   "isPublished": true

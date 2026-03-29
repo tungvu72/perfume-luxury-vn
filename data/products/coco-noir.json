@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Jacques Polge & Christopher Sheldrake",
   "gender": "nu",
+  "year": 2012,
   "image": "/images/products/chanel-coco-noir-main.jpg",
   "images": [
     {
@@ -19,30 +20,134 @@
   "article": "### Ai không nên mua?\n\nNếu bạn quen với Chanel No.5 hoặc Chance — nhẹ, sáng, phấn — thì Coco Noir sẽ hoàn toàn là một Chanel khác. Đây là chai TỐI nhất trong collection: hoắc hương, trầm hương và vani đè lên hoa hồng-nhài, tạo ra mùi \"nguy hiểm\" thay vì \"dễ thương\". Nếu bạn mua chai Chanel để mặc đi brunch Chủ nhật, thì không phải chai này. Coco Noir là chai bạn dùng khi muốn khiến ai đó không thể quên mình.\n\n### Có đáng tiền không?\n\nGiá Chanel — không rẻ, nhưng Coco Noir ít khi giảm giá vì Chanel không bao giờ bán như vậy. So với Chanel Chance Eau Tendre — cùng hãng nhưng khác hoàn toàn — thì Coco Noir tối hơn, đậm hơn và trưởng thành hơn rất nhiều. So với YSL Black Opium — cùng nhóm nữ tối — thì Coco Noir ít ngọt hơn, nhiều trầm hương hơn và kiểu \"đắt\" hơn. Bám 7-8 giờ, tỏa vừa.\n\n### Nên dùng khi nào?\n\nĐi ăn tối ở nhà hàng, dự sự kiện buổi tối, hoặc khi muốn mặc đồ đen ra ngoài. Xịt 2 nhát sau cổ và cổ tay. Đẹp nhất thu đông — Hà Nội tháng 10-2 là lý tưởng. Ở Sài Gòn thì dùng tối, phòng máy lạnh. Tránh ban ngày nóng vì hoắc hương sẽ nặng.",
   "verdict": "Chanel tối nhất — hoắc hương, trầm, vani. Cho buổi tối và dịp quyến rũ. Không phải Chanel \"dễ thương\".",
   "verdictShort": "CHANEL TỐI NHẤT, QUYẾN RŨ, BUỔI TỐI",
-  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 8.5, "value": 7.5, "total": 8.3 },
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.5,
+    "compliments": 8.5,
+    "value": 7.5,
+    "total": 8.3
+  },
   "vibes": [
-    { "label": "Quyến rũ", "icon": "🖤" },
-    { "label": "Buổi tối", "icon": "🌙" },
-    { "label": "Sang trọng", "icon": "💎" }
+    {
+      "label": "Quyến rũ",
+      "icon": "🖤"
+    },
+    {
+      "label": "Buổi tối",
+      "icon": "🌙"
+    },
+    {
+      "label": "Sang trọng",
+      "icon": "💎"
+    }
   ],
   "longevity": 7,
   "sillage": 7,
-  "seasons": { "spring": 42, "summer": 15, "fall": 85, "winter": 88 },
-  "dayNight": { "day": 22, "night": 88 },
-  "topNotes": [{ "name": "Bưởi" }, { "name": "Cam bergamot" }, { "name": "Cam" }],
-  "middleNotes": [{ "name": "Hoa hồng" }, { "name": "Phong lữ" }, { "name": "Hoa nhài" }, { "name": "Thuỷ tiên" }, { "name": "Đào" }],
-  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Gỗ đàn hương" }, { "name": "Trầm hương" }, { "name": "Đậu Tonka" }, { "name": "Vani" }, { "name": "Xạ hương trắng" }, { "name": "Đinh hương" }, { "name": "Benzoin" }],
+  "seasons": {
+    "spring": 42,
+    "summer": 15,
+    "fall": 85,
+    "winter": 88
+  },
+  "dayNight": {
+    "day": 22,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Bưởi"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Cam"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Phong lữ"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Thuỷ tiên"
+    },
+    {
+      "name": "Đào"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Trầm hương"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Xạ hương trắng"
+    },
+    {
+      "name": "Đinh hương"
+    },
+    {
+      "name": "Benzoin"
+    }
+  ],
   "accords": [
-    { "name": "Hoắc hương", "value": 100, "color": "#4e342e" },
-    { "name": "Hoa", "value": 72, "color": "#e91e63" },
-    { "name": "Gỗ", "value": 65, "color": "#8B4513" },
-    { "name": "Vani", "value": 55, "color": "#F5DEB3" },
-    { "name": "Gia vị ấm", "value": 42, "color": "#e67e22" }
+    {
+      "name": "Hoắc hương",
+      "value": 100,
+      "color": "#4e342e"
+    },
+    {
+      "name": "Hoa",
+      "value": 72,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Gỗ",
+      "value": 65,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Vani",
+      "value": 55,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 42,
+      "color": "#e67e22"
+    }
   ],
   "seoTitle": "Chanel Coco Noir chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Chanel Coco Noir chính hãng: chai Chanel tối nhất quyến rũ nhất, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Quyến rũ", "Buổi tối", "Sang trọng"],
-  "sizes": ["10ml Chiết", "35ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Quyến rũ",
+    "Buổi tối",
+    "Sang trọng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "35ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 3200000,
   "shopeeOffers": [],
   "isPublished": true

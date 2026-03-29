@@ -1,24 +1,128 @@
 {
-  "id": "mon-paris-edp", "brandSlug": "ysl", "brand": "YSL", "name": "Mon Paris", "subName": "Eau de Parfum",
-  "perfumer": "Harry Fremont & Dora Baghriche", "gender": "nu",
+  "id": "mon-paris-edp",
+  "brandSlug": "ysl",
+  "brand": "YSL",
+  "name": "Mon Paris",
+  "subName": "Eau de Parfum",
+  "perfumer": "Harry Fremont & Dora Baghriche",
+  "gender": "nu",
+  "year": 2016,
   "image": "/images/products/ysl-mon-paris-edp-main.jpg",
-  "images": [{ "url": "/images/products/ysl-mon-paris-edp-main.jpg", "source": "fragram", "caption": "YSL Mon Paris EDP chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/ysl-mon-paris-edp-main.jpg",
+      "source": "fragram",
+      "caption": "YSL Mon Paris EDP chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ dâu-mẫu đơn-hoắc hương kiểu Paris tao điên — dâu tây, lê, cam bergamot, hoa mẫu đơn, datura, nhài, hoắc hương, xạ hương trắng và hổ phách. Trái cây hoa, Paris và crazy in love.",
   "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt trái cây — Mon Paris NGỌT: dâu tây-mẫu đơn-hoắc hương kiểu yêu điên cuồng. Tên = Paris CỦA TÔI. YSL tạo ra chai dành cho \"tình yêu điên\" — not gentle love. Harry Fremont + Dora Baghriche mix chypre modern + gourmand = kết quả là trái cây hoa TỐI hơn bạn tưởng.\n\n### Có đáng tiền không?\n\nGiá YSL — affordable. So với La Vie Est Belle — cùng nhóm nữ best-seller — thì Mon Paris nhiều dâu hơn, ít iris hơn. So với Coco Mademoiselle — cùng tier — thì Mon Paris ngọt hơn, trẻ hơn, ít sophisticated hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nĐi chơi, hẹn hò, party, hoặc khi muốn mùi CRAZY IN LOVE. Xịt 2-3 nhát cổ. Quanh năm nhưng đẹp nhất thu xuân. Chai cho ai yêu Paris điên cuồng.",
   "verdict": "Paris yêu điên — dâu mẫu đơn hoắc hương. YSL affordable. Crazy in love scent. Trái cây hoa modern.",
   "verdictShort": "DÂU PARIS, YÊU ĐIÊN, AFFORDABLE",
-  "score": { "scent": 8.0, "uniqueness": 7.5, "compliments": 8.5, "value": 8.5, "total": 8.1 },
-  "vibes": [{ "label": "Paris", "icon": "🗼" }, { "label": "Yêu điên", "icon": "💕" }, { "label": "Giá tốt", "icon": "💸" }],
-  "longevity": 8, "sillage": 7,
-  "seasons": { "spring": 72, "summer": 42, "fall": 78, "winter": 62 },
-  "dayNight": { "day": 55, "night": 72 },
-  "topNotes": [{ "name": "Dâu tây" }, { "name": "Lê" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Hoa mẫu đơn" }, { "name": "Datura" }, { "name": "Hoa nhài" }],
-  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Xạ hương trắng" }, { "name": "Hổ phách" }],
-  "accords": [{ "name": "Trái cây", "value": 100, "color": "#f39c12" }, { "name": "Hoa", "value": 78, "color": "#e91e63" }, { "name": "Ngọt", "value": 62, "color": "#8B0000" }, { "name": "Gỗ", "value": 42, "color": "#8B4513" }],
+  "score": {
+    "scent": 8,
+    "uniqueness": 7.5,
+    "compliments": 8.5,
+    "value": 8.5,
+    "total": 8.1
+  },
+  "vibes": [
+    {
+      "label": "Paris",
+      "icon": "🗼"
+    },
+    {
+      "label": "Yêu điên",
+      "icon": "💕"
+    },
+    {
+      "label": "Giá tốt",
+      "icon": "💸"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 7,
+  "seasons": {
+    "spring": 72,
+    "summer": 42,
+    "fall": 78,
+    "winter": 62
+  },
+  "dayNight": {
+    "day": 55,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Dâu tây"
+    },
+    {
+      "name": "Lê"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa mẫu đơn"
+    },
+    {
+      "name": "Datura"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Xạ hương trắng"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Trái cây",
+      "value": 100,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Hoa",
+      "value": 78,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Ngọt",
+      "value": 62,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gỗ",
+      "value": 42,
+      "color": "#8B4513"
+    }
+  ],
   "seoTitle": "YSL Mon Paris EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá YSL Mon Paris EDP chính hãng: dâu Paris yêu điên cuồng affordable, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Paris", "Yêu", "Giá tốt"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
-  "basePrice": 1800000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Paris",
+    "Yêu",
+    "Giá tốt"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "90ml Fullbox"
+  ],
+  "basePrice": 1800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

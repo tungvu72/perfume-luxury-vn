@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Dominique Ropion",
   "gender": "unisex",
+  "year": 2005,
   "image": "/images/products/frederic-malle-carnal-flower-main.jpg",
   "images": [
     {
@@ -19,30 +20,121 @@
   "article": "### Ai không nên mua?\n\nNếu bạn chưa bao giờ ngửi hoa huệ (tuberose) thật — thì Carnal Flower có thể gây choáng. Dominique Ropion dùng tuberose absolute tự nhiên ở nồng độ cực cao — mùi hoa trắng đậm, kem, hơi indolic (gần mùi da thịt). Ai thích mùi nhẹ nhàng, mùi tươi mát hay mùi gỗ khô sẽ thấy nó MẠNH và \"thịt\" quá. Giá Frederic Malle cũng thuộc top đắt nhất niche.\n\n### Có đáng tiền không?\n\nFrederic Malle — \"publisher of perfumes\" — cho perfumer toàn quyền sáng tạo. Dominique Ropion (đứng sau Portrait of a Lady, Oud Satin Mood) tạo Carnal Flower như tượng đài tuberose. So với Tom Ford Tubéreuse Nue — cùng tuberose niche — thì Carnal Flower mạnh hơn, tự nhiên hơn và ít ngọt hơn. So với Gucci Bloom — tuberose designer — thì Carnal Flower là Rolls Royce còn Bloom là Toyota. Bám 8-10 giờ, tỏa mạnh.\n\n### Nên dùng khi nào?\n\nSự kiện quan trọng, opera, triển lãm, hoặc khi muốn mùi hương là statement. Xịt 1-2 nhát SAU CỔ — vì EDP mạnh. Dùng quanh năm nhưng đẹp nhất mùa ấm — tuberose nở ra dưới nắng. Cả Sài Gòn và Hà Nội đều dùng được vì bạch đàn giữ tươi.",
   "verdict": "Tuberose tượng đài — Ropion + Frederic Malle. Hoa trắng thuần khiết, mạnh, carnal. Rolls Royce của tuberose.",
   "verdictShort": "TUBEROSE TƯỢNG ĐÀI, ROPION, ĐỈNH CAO",
-  "score": { "scent": 9.8, "uniqueness": 9.8, "compliments": 8.0, "value": 7.0, "total": 8.7 },
+  "score": {
+    "scent": 9.8,
+    "uniqueness": 9.8,
+    "compliments": 8,
+    "value": 7,
+    "total": 8.7
+  },
   "vibes": [
-    { "label": "Tượng đài", "icon": "🏛️" },
-    { "label": "Niche", "icon": "💎" },
-    { "label": "Statement", "icon": "🌺" }
+    {
+      "label": "Tượng đài",
+      "icon": "🏛️"
+    },
+    {
+      "label": "Niche",
+      "icon": "💎"
+    },
+    {
+      "label": "Statement",
+      "icon": "🌺"
+    }
   ],
   "longevity": 9,
   "sillage": 8,
-  "seasons": { "spring": 72, "summer": 62, "fall": 65, "winter": 52 },
-  "dayNight": { "day": 55, "night": 72 },
-  "topNotes": [{ "name": "Bạch đàn" }, { "name": "Dưa lưới" }, { "name": "Cam bergamot" }, { "name": "Galbanum" }],
-  "middleNotes": [{ "name": "Dừa" }, { "name": "Tuberose" }, { "name": "Hoa nhài" }, { "name": "Ngọc lan tây" }, { "name": "Hoa cam" }],
-  "baseNotes": [{ "name": "Xạ hương trắng" }, { "name": "Nốt động vật" }, { "name": "Hổ phách" }],
+  "seasons": {
+    "spring": 72,
+    "summer": 62,
+    "fall": 65,
+    "winter": 52
+  },
+  "dayNight": {
+    "day": 55,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Bạch đàn"
+    },
+    {
+      "name": "Dưa lưới"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Galbanum"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Dừa"
+    },
+    {
+      "name": "Tuberose"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Ngọc lan tây"
+    },
+    {
+      "name": "Hoa cam"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Xạ hương trắng"
+    },
+    {
+      "name": "Nốt động vật"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Hoa trắng", "value": 100, "color": "#f5f5dc" },
-    { "name": "Kem", "value": 62, "color": "#faebd7" },
-    { "name": "Xanh", "value": 48, "color": "#27ae60" },
-    { "name": "Xạ hương", "value": 42, "color": "#bdc3c7" },
-    { "name": "Trái cây", "value": 35, "color": "#f39c12" }
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#f5f5dc"
+    },
+    {
+      "name": "Kem",
+      "value": 62,
+      "color": "#faebd7"
+    },
+    {
+      "name": "Xanh",
+      "value": 48,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 42,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Trái cây",
+      "value": 35,
+      "color": "#f39c12"
+    }
   ],
   "seoTitle": "Frederic Malle Carnal Flower chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Frederic Malle Carnal Flower chính hãng: mùi tuberose tượng đài Dominique Ropion, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Unisex", "Niche", "Tượng đài", "Hoa trắng"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Tượng đài",
+    "Hoa trắng"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 6500000,
   "shopeeOffers": [],
   "isPublished": true

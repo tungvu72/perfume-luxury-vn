@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Jacques Polge",
   "gender": "nam",
+  "year": 2004,
   "image": "/images/products/chanel-allure-homme-sport-main.jpg",
   "images": [
     {
@@ -19,30 +20,125 @@
   "article": "### Ai không nên mua?\n\nNếu bạn đã có Allure Homme Sport Eau Extrême thì bản Sport EDT gốc này yếu hơn RÕ RỆT — bám 4-5 giờ so với 9 giờ, tỏa nhẹ hơn, và nhạt hơn. Nhiều người mua Sport rồi nhanh chóng upgrade lên Eau Extrême. Nếu ngân sách cho phép, nhảy thẳng lên Extrême luôn. Ngoài ra, ai muốn mùi cá tính mạnh cũng nên biết: Sport EDT rất AN TOÀN — không ai ghét nhưng cũng khó ai nhớ.\n\n### Có đáng tiền không?\n\nGiá Chanel nhưng EDT nên nhẹ — bám ngắn, tỏa yếu. So với bản Eau Extrême (concentrated) — cùng DNA nhưng mạnh hơn gấp đôi — thì Sport EDT rẻ hơn không đáng kể mà yếu hơn nhiều. So với Versace Pour Homme — rẻ hơn đáng kể — thì Sport EDT sang hơn nhưng giá cũng gấp đôi. Điều Sport EDT làm tốt: DNA cam-biển-tiêu-vani rất dễ chịu, rất crowd-pleasing.\n\n### Nên dùng khi nào?\n\nĐi tập gym, đi chơi ngoài trời, dạo phố, hoặc bất cứ dịp casual nào. Xịt 4-5 nhát vì EDT nhẹ: cổ, ngực, cổ tay, sau tai. Xuân hè là tốt nhất. Cả Sài Gòn và Hà Nội dùng thoải mái trừ mùa đông lạnh. Chai \"tập tành\" Chanel.",
   "verdict": "Cam-biển-vani sporty cổ điển — an toàn, crowd-pleasing. EDT yếu nên cân nhắc upgrade lên Eau Extrême.",
   "verdictShort": "CAM BIỂN SPORTY, AN TOÀN, CÂN NHẮC EXTRÊME",
-  "score": { "scent": 7.8, "uniqueness": 6.5, "compliments": 8.0, "value": 7.5, "total": 7.5 },
+  "score": {
+    "scent": 7.8,
+    "uniqueness": 6.5,
+    "compliments": 8,
+    "value": 7.5,
+    "total": 7.5
+  },
   "vibes": [
-    { "label": "Sporty", "icon": "⚡" },
-    { "label": "An toàn", "icon": "✅" },
-    { "label": "Mùa hè", "icon": "☀️" }
+    {
+      "label": "Sporty",
+      "icon": "⚡"
+    },
+    {
+      "label": "An toàn",
+      "icon": "✅"
+    },
+    {
+      "label": "Mùa hè",
+      "icon": "☀️"
+    }
   ],
   "longevity": 5,
   "sillage": 5,
-  "seasons": { "spring": 82, "summer": 82, "fall": 48, "winter": 28 },
-  "dayNight": { "day": 82, "night": 42 },
-  "topNotes": [{ "name": "Cam" }, { "name": "Biển" }, { "name": "Aldehyde" }, { "name": "Cam huyết" }],
-  "middleNotes": [{ "name": "Tiêu" }, { "name": "Neroli" }, { "name": "Gỗ tuyết tùng" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Đậu Tonka" }, { "name": "Xạ hương trắng" }, { "name": "Hổ phách" }, { "name": "Cỏ hương bài" }, { "name": "Nhựa elemi" }],
+  "seasons": {
+    "spring": 82,
+    "summer": 82,
+    "fall": 48,
+    "winter": 28
+  },
+  "dayNight": {
+    "day": 82,
+    "night": 42
+  },
+  "topNotes": [
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Biển"
+    },
+    {
+      "name": "Aldehyde"
+    },
+    {
+      "name": "Cam huyết"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Tiêu"
+    },
+    {
+      "name": "Neroli"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Xạ hương trắng"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Nhựa elemi"
+    }
+  ],
   "accords": [
-    { "name": "Cam chanh", "value": 100, "color": "#f1c40f" },
-    { "name": "Thơm thảo mộc", "value": 65, "color": "#2c7a4b" },
-    { "name": "Vani", "value": 52, "color": "#F5DEB3" },
-    { "name": "Biển", "value": 48, "color": "#2980b9" },
-    { "name": "Ngọt", "value": 38, "color": "#8B0000" }
+    {
+      "name": "Cam chanh",
+      "value": 100,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 65,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Vani",
+      "value": 52,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Biển",
+      "value": 48,
+      "color": "#2980b9"
+    },
+    {
+      "name": "Ngọt",
+      "value": 38,
+      "color": "#8B0000"
+    }
   ],
   "seoTitle": "Chanel Allure Homme Sport chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Chanel Allure Homme Sport chính hãng: mùi cam biển sporty an toàn, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Sporty", "An toàn", "Mùa hè"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Sporty",
+    "An toàn",
+    "Mùa hè"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "150ml Fullbox"
+  ],
   "basePrice": 2500000,
   "shopeeOffers": [],
   "isPublished": true

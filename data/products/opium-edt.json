@@ -1,23 +1,139 @@
 {
-  "id": "opium-edt", "brandSlug": "ysl", "brand": "YSL", "name": "Opium", "subName": "Eau de Toilette",
-  "perfumer": "Jean Amic & Jean-Louis Sieuzac", "gender": "nu",
+  "id": "opium-edt",
+  "brandSlug": "ysl",
+  "brand": "YSL",
+  "name": "Opium",
+  "subName": "Eau de Toilette",
+  "perfumer": "Jean Amic & Jean-Louis Sieuzac",
+  "gender": "nu",
+  "year": 1977,
   "image": "/images/products/ysl-opium-edt-main.jpg",
-  "images": [{ "url": "/images/products/ysl-opium-edt-main.jpg", "source": "fragram", "caption": "YSL Opium EDT chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/ysl-opium-edt-main.jpg",
+      "source": "fragram",
+      "caption": "YSL Opium EDT chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ oriental gia vị-hoa-hổ phách kiểu thuốc phiện 1977 — đinh hương, hoa nhài, quế, hồng, nhục đậu khấu, opoponax, gỗ đàn hương, vani, benzoin và xạ hương. Gia vị nặng, oriental huyền thoại.",
   "article": "### Ai không nên mua?\n\nNếu bạn dưới 30 — Opium có thể quá \"mẹ\". Ra đời 1977, gây BÊ BỐI vì tên (thuốc phiện!) và mùi: gia vị nặng (đinh hương, quế, nhục đậu khấu) trên nền hổ phách-vani dày. Đây là POWERHOUSE nữ gốc — kiểu mùi mà cả phòng biết bạn đến. YSL thời Yves Saint Laurent còn sống — bold, provocative, không xin phép ai.\n\n### Có đáng tiền không?\n\nGiá YSL tầm trung — và Opium 45+ năm. So với Black Opium — successor hiện đại — thì Opium gốc nhiều gia vị hơn, ít cà phê hơn, oriental hơn 10 lần. So với Shalimar Guerlain — cùng oriental nữ kinh điển — thì Opium nhiều gia vị hơn, ít lavender hơn. Bám 6-7 giờ (EDT).\n\n### Nên dùng khi nào?\n\nSự kiện tối, opera, hoặc khi muốn PRESENCE. Xịt 2-3 nhát cổ. Thu đông — Hà Nội tháng 10-2. Sài Gòn tối điều hòa. Chai gây bê bối vĩ đại nhất lịch sử nước hoa.",
   "verdict": "Oriental huyền thoại 1977 — YSL thuốc phiện. Gia vị nặng, cả phòng biết. Gây bê bối nhất lịch sử. Bold.",
   "verdictShort": "GIA VỊ NẶNG, 1977, BÊ BỐI HUYỀN THOẠI",
-  "score": { "scent": 8.5, "uniqueness": 9.0, "compliments": 7.0, "value": 8.0, "total": 8.1 },
-  "vibes": [{ "label": "Huyền thoại", "icon": "👑" }, { "label": "Bold", "icon": "🔥" }, { "label": "Oriental", "icon": "🌙" }],
-  "longevity": 7, "sillage": 7,
-  "seasons": { "spring": 22, "summer": 5, "fall": 82, "winter": 88 },
-  "dayNight": { "day": 12, "night": 88 },
-  "topNotes": [{ "name": "Đinh hương" }, { "name": "Hoa nhài" }, { "name": "Quế" }],
-  "middleNotes": [{ "name": "Hoa hồng" }, { "name": "Nhục đậu khấu" }, { "name": "Hoa lan" }],
-  "baseNotes": [{ "name": "Opoponax" }, { "name": "Gỗ đàn hương" }, { "name": "Vani" }, { "name": "Benzoin" }, { "name": "Xạ hương" }],
-  "accords": [{ "name": "Gia vị ấm", "value": 100, "color": "#e67e22" }, { "name": "Phương Đông", "value": 85, "color": "#c0392b" }, { "name": "Hoa", "value": 55, "color": "#e91e63" }, { "name": "Hổ phách", "value": 48, "color": "#d4a017" }, { "name": "Ngọt", "value": 42, "color": "#8B0000" }],
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 9,
+    "compliments": 7,
+    "value": 8,
+    "total": 8.1
+  },
+  "vibes": [
+    {
+      "label": "Huyền thoại",
+      "icon": "👑"
+    },
+    {
+      "label": "Bold",
+      "icon": "🔥"
+    },
+    {
+      "label": "Oriental",
+      "icon": "🌙"
+    }
+  ],
+  "longevity": 7,
+  "sillage": 7,
+  "seasons": {
+    "spring": 22,
+    "summer": 5,
+    "fall": 82,
+    "winter": 88
+  },
+  "dayNight": {
+    "day": 12,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Đinh hương"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Quế"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Nhục đậu khấu"
+    },
+    {
+      "name": "Hoa lan"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Opoponax"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Gia vị ấm",
+      "value": 100,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Phương Đông",
+      "value": 85,
+      "color": "#c0392b"
+    },
+    {
+      "name": "Hoa",
+      "value": 55,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 48,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Ngọt",
+      "value": 42,
+      "color": "#8B0000"
+    }
+  ],
   "seoTitle": "YSL Opium EDT chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá YSL Opium EDT chính hãng: oriental gia vị huyền thoại 1977 gây bê bối, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Huyền thoại", "Oriental", "Bold"], "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
-  "basePrice": 1800000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Huyền thoại",
+    "Oriental",
+    "Bold"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "90ml Fullbox"
+  ],
+  "basePrice": 1800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

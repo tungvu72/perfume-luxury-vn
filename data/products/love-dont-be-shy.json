@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Calice Becker",
   "gender": "nu",
+  "year": 2007,
   "image": "/images/products/kilian-love-dont-be-shy-main.jpg",
   "images": [
     {
@@ -19,30 +20,132 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thấy mùi ngọt loại marshmallow-caramel là ngán thì Love, don't be shy sẽ không qua nổi 5 phút đầu. Chai này NGỌT — không phải ngọt hoa hay ngọt trái cây, mà ngọt kẹo, ngọt vani, ngọt marshmallow thật sự. Ai thích mùi sang trọng kiểu Chanel No.5 hay mùi thanh lịch kiểu Elie Saab cũng sẽ thấy nó quá \"trẻ con\". Và với giá Kilian, nếu chưa chắc thì nhất định phải test trước — đừng mua vì tên đẹp.\n\n### Có đáng tiền không?\n\nGiá Kilian thuộc top niche — và Love, don't be shy là chai bán chạy nhất hãng, nổi tiếng hơn nữa nhờ Rihanna từng đề cập. So với Kayali Vanilla 28 — cùng nhóm vani ngọt, rẻ hơn 3-4 lần — thì Love có lớp hoa cam và neroli mà Kayali thiếu, tạo ra chiều sâu hơn. So với Mugler Angel — cùng gourmand kinh điển — thì Love nhẹ nhàng hơn nhiều, không có hoắc hương nặng. Bám 7-8 giờ, tỏa gần da — kiểu ôm vào mới nghe rõ, rất intimate.\n\n### Nên dùng khi nào?\n\nHẹn hò, sinh nhật, Giáng sinh, Valentine — những dịp ngọt ngào. Xịt 2 nhát sau cổ và cổ tay. Mùi sẽ ngọt nhất 30 phút đầu rồi dịu dần. Ở Hà Nội dùng thu đông. Ở Sài Gòn thì tối mát hoặc phòng điều hòa — không nên dùng ban ngày ngoài trời vì ngọt gặp nóng sẽ ngấy.",
   "verdict": "Marshmallow-hoa cam nổi tiếng nhất Kilian. Ngọt dịu dàng, intimate nhưng kén người. Rihanna's choice.",
   "verdictShort": "MARSHMALLOW HOA CAM, NGỌT NGÀO, INTIMATE",
-  "score": { "scent": 8.8, "uniqueness": 8.5, "compliments": 8.8, "value": 7.0, "total": 8.3 },
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 8.5,
+    "compliments": 8.8,
+    "value": 7,
+    "total": 8.3
+  },
   "vibes": [
-    { "label": "Ngọt ngào", "icon": "🍬" },
-    { "label": "Intimate", "icon": "💕" },
-    { "label": "Niche", "icon": "💎" }
+    {
+      "label": "Ngọt ngào",
+      "icon": "🍬"
+    },
+    {
+      "label": "Intimate",
+      "icon": "💕"
+    },
+    {
+      "label": "Niche",
+      "icon": "💎"
+    }
   ],
   "longevity": 8,
   "sillage": 6,
-  "seasons": { "spring": 52, "summer": 18, "fall": 82, "winter": 88 },
-  "dayNight": { "day": 28, "night": 82 },
-  "topNotes": [{ "name": "Neroli" }, { "name": "Cam bergamot" }, { "name": "Tiêu hồng" }, { "name": "Rau mùi" }],
-  "middleNotes": [{ "name": "Hoa cam" }, { "name": "Kim ngân" }, { "name": "Hoa nhài" }, { "name": "Marshmallow" }, { "name": "Iris" }, { "name": "Hoa hồng" }],
-  "baseNotes": [{ "name": "Đường" }, { "name": "Vani" }, { "name": "Caramel" }, { "name": "Xạ hương" }, { "name": "Cầy hương" }, { "name": "Labdanum" }],
+  "seasons": {
+    "spring": 52,
+    "summer": 18,
+    "fall": 82,
+    "winter": 88
+  },
+  "dayNight": {
+    "day": 28,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Neroli"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Tiêu hồng"
+    },
+    {
+      "name": "Rau mùi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Kim ngân"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Marshmallow"
+    },
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Hoa hồng"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Đường"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Caramel"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Cầy hương"
+    },
+    {
+      "name": "Labdanum"
+    }
+  ],
   "accords": [
-    { "name": "Ngọt", "value": 100, "color": "#8B0000" },
-    { "name": "Vani", "value": 82, "color": "#F5DEB3" },
-    { "name": "Hoa trắng", "value": 65, "color": "#ecf0f1" },
-    { "name": "Gourmand", "value": 58, "color": "#d4a373" },
-    { "name": "Xạ hương", "value": 42, "color": "#bdc3c7" }
+    {
+      "name": "Ngọt",
+      "value": 100,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Vani",
+      "value": 82,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Hoa trắng",
+      "value": 65,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Gourmand",
+      "value": 58,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 42,
+      "color": "#bdc3c7"
+    }
   ],
   "seoTitle": "Kilian Love, don't be shy chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Kilian Love don't be shy chính hãng: mùi marshmallow hoa cam vani niche, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Niche", "Ngọt ngào", "Intimate"],
-  "sizes": ["10ml Chiết", "50ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Niche",
+    "Ngọt ngào",
+    "Intimate"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox"
+  ],
   "basePrice": 6500000,
   "shopeeOffers": [],
   "isPublished": true

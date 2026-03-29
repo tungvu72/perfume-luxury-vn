@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Francis Kurkdjian",
   "gender": "nu",
+  "year": 2011,
   "image": "/images/products/elie-saab-le-parfum-main.jpg",
   "images": [
     {
@@ -19,30 +20,104 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi ngọt đậm kiểu vani-caramel hay mùi tối sexy kiểu đi club thì Le Parfum quá thanh và quá \"chỉnh tề\" cho những dịp đó. Đây là chai nước hoa kiểu mặc đầm dự tiệc — không phải mặc jeans đi uống bia. Ai dưới 22 tuổi cũng có thể thấy nó hơi mature, vì hoa cam và nhài ở đây rất haute couture.\n\n### Có đáng tiền không?\n\nBất ngờ: Le Parfum rẻ hơn đáng kể so với Dior, Chanel cùng phân khúc — nhưng người đứng sau lại là Francis Kurkdjian, perfumer tạo ra BR540. So với J'adore EDP — cùng là chai nữ sang — thì Le Parfum có mật ong trắng mà J'adore không có, tạo cảm giác ấm hơn một chút. So với Chloé EDP — cùng nhóm hoa sáng — thì Le Parfum dressy hơn, sang hơn và kém casual hơn. Bám 7-8 giờ, tỏa vừa phải. Giá rất hợp lý cho chất lượng blend.\n\n### Nên dùng khi nào?\n\nĐám cưới (có thể là đám cưới bạn), tiệc cocktail, ăn tối ở nhà hàng, hoặc bất cứ khi nào bạn mặc váy. Xịt 2-3 nhát: cổ, cổ tay, sau tai. Đẹp nhất khi trời xuân thu — Hà Nội tháng 3-4 và tháng 10. Ở Sài Gòn dùng quanh năm vì hoa cam rất sáng, nhưng tránh ngoài trời nắng gắt.",
   "verdict": "Chai nữ elegant underrated — hoa cam, nhài, mật ong. Francis Kurkdjian blend, giá tốt. Cho tiệc và dịp sang.",
   "verdictShort": "SANG, THANH LỊCH, DRESSY",
-  "score": { "scent": 8.6, "uniqueness": 8.0, "compliments": 8.5, "value": 8.5, "total": 8.4 },
+  "score": {
+    "scent": 8.6,
+    "uniqueness": 8,
+    "compliments": 8.5,
+    "value": 8.5,
+    "total": 8.4
+  },
   "vibes": [
-    { "label": "Thanh lịch", "icon": "✨" },
-    { "label": "Sang trọng", "icon": "💎" },
-    { "label": "Dressy", "icon": "👗" }
+    {
+      "label": "Thanh lịch",
+      "icon": "✨"
+    },
+    {
+      "label": "Sang trọng",
+      "icon": "💎"
+    },
+    {
+      "label": "Dressy",
+      "icon": "👗"
+    }
   ],
   "longevity": 7,
   "sillage": 7,
-  "seasons": { "spring": 82, "summer": 62, "fall": 78, "winter": 68 },
-  "dayNight": { "day": 65, "night": 72 },
-  "topNotes": [{ "name": "Hoa cam châu Phi" }],
-  "middleNotes": [{ "name": "Hoa nhài" }],
-  "baseNotes": [{ "name": "Mật ong trắng" }, { "name": "Hoắc hương" }, { "name": "Hoa hồng" }, { "name": "Gỗ tuyết tùng Virginia" }],
+  "seasons": {
+    "spring": 82,
+    "summer": 62,
+    "fall": 78,
+    "winter": 68
+  },
+  "dayNight": {
+    "day": 65,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Hoa cam châu Phi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Mật ong trắng"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Gỗ tuyết tùng Virginia"
+    }
+  ],
   "accords": [
-    { "name": "Hoa trắng", "value": 100, "color": "#ecf0f1" },
-    { "name": "Mật ong", "value": 82, "color": "#f39c12" },
-    { "name": "Hoắc hương", "value": 65, "color": "#4e342e" },
-    { "name": "Gỗ", "value": 55, "color": "#8B4513" },
-    { "name": "Hoa", "value": 48, "color": "#e91e63" }
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Mật ong",
+      "value": 82,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Hoắc hương",
+      "value": 65,
+      "color": "#4e342e"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hoa",
+      "value": 48,
+      "color": "#e91e63"
+    }
   ],
   "seoTitle": "Elie Saab Le Parfum chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Elie Saab Le Parfum chính hãng: mùi hoa cam nhài mật ong thanh lịch, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Thanh lịch", "Sang trọng", "Dressy"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Thanh lịch",
+    "Sang trọng",
+    "Dressy"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "90ml Fullbox"
+  ],
   "basePrice": 2290000,
   "shopeeOffers": [],
   "isPublished": true

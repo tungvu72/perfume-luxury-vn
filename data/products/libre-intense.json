@@ -6,32 +6,128 @@
   "subName": "Eau de Parfum Intense",
   "perfumer": "Anne Flipo & Carlos Benaïm",
   "gender": "nu",
+  "year": 2020,
   "image": "/images/products/ysl-libre-intense-main.jpg",
   "images": [
-    { "url": "/images/products/ysl-libre-intense-main.jpg", "source": "fragram", "caption": "YSL Libre Intense chính hãng", "verified": true }
+    {
+      "url": "/images/products/ysl-libre-intense-main.jpg",
+      "source": "fragram",
+      "caption": "YSL Libre Intense chính hãng",
+      "verified": true
+    }
   ],
   "description": "Phiên bản Intense tối nhất Libre — oải hương, cam quýt, hoa cam, nhài, hoa mận, vani, gỗ đàn hương, xạ hương và hổ phách. Libre đậm hơn, tối hơn, sexy hơn.",
   "article": "### Ai không nên mua?\n\nNếu bạn có Libre EDP gốc — Intense SẤT giống nhưng đậm hơn: nhiều vani hơn, nhiều amber hơn, ít citrus tươi hơn. So sự khác biệt không lớn — nếu đã có gốc thì Intense redundant trừ khi muốn phiên bản \"mùa đông\" nặng hơn.\n\n### Có đáng tiền không?\n\nGiá YSL — cùng tier Libre gốc. Flipo + Benaïm giữ DNA oải hương-hoa cam-vani nhưng push vani lên. So với Libre EDP — tối hơn, ngọt hơn, bám lâu hơn (8-9 giờ). So với Libre Le Parfum — thì Intense nhẹ hơn Le Parfum. So với Black Opium — cùng YSL tối — thì Intense ít cà phê, nhiều oải hương hơn.\n\n### Nên dùng khi nào?\n\nĐi chơi tối, hẹn hò, party. Xịt 2-3 nhát cổ và cổ tay. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Libre cho đêm lạnh.",
   "verdict": "Libre tối hơn — vani amber đậm. Cho đêm thu đông. Cùng DNA nhưng push ngọt. Nếu có gốc rồi thì redundant.",
   "verdictShort": "LIBRE TỐI, VANI ĐẬM, CHO ĐÊM LẠNH",
-  "score": { "scent": 8.0, "uniqueness": 7.0, "compliments": 8.5, "value": 7.5, "total": 7.8 },
-  "vibes": [{ "label": "Tối", "icon": "🌙" }, { "label": "Vani", "icon": "🍦" }, { "label": "Thu đông", "icon": "❄️" }],
-  "longevity": 9, "sillage": 7,
-  "seasons": { "spring": 38, "summer": 12, "fall": 82, "winter": 85 },
-  "dayNight": { "day": 22, "night": 82 },
-  "topNotes": [{ "name": "Oải hương" }, { "name": "Cam quýt" }],
-  "middleNotes": [{ "name": "Hoa cam" }, { "name": "Hoa nhài" }, { "name": "Hoa mận" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Xạ hương" }, { "name": "Hổ phách" }],
+  "score": {
+    "scent": 8,
+    "uniqueness": 7,
+    "compliments": 8.5,
+    "value": 7.5,
+    "total": 7.8
+  },
+  "vibes": [
+    {
+      "label": "Tối",
+      "icon": "🌙"
+    },
+    {
+      "label": "Vani",
+      "icon": "🍦"
+    },
+    {
+      "label": "Thu đông",
+      "icon": "❄️"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 7,
+  "seasons": {
+    "spring": 38,
+    "summer": 12,
+    "fall": 82,
+    "winter": 85
+  },
+  "dayNight": {
+    "day": 22,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Cam quýt"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa mận"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hổ phách"
+    }
+  ],
   "accords": [
-    { "name": "Vani", "value": 100, "color": "#F5DEB3" },
-    { "name": "Hoa trắng", "value": 72, "color": "#f5f5dc" },
-    { "name": "Thơm thảo mộc", "value": 55, "color": "#2c7a4b" },
-    { "name": "Hổ phách", "value": 48, "color": "#d4a017" },
-    { "name": "Ngọt", "value": 42, "color": "#8B0000" }
+    {
+      "name": "Vani",
+      "value": 100,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Hoa trắng",
+      "value": 72,
+      "color": "#f5f5dc"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 55,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 48,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Ngọt",
+      "value": 42,
+      "color": "#8B0000"
+    }
   ],
   "seoTitle": "YSL Libre Intense chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá YSL Libre Intense chính hãng: mùi Libre vani đậm cho đêm thu đông, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Tối", "Vani", "Thu đông"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
-  "basePrice": 2500000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Tối",
+    "Vani",
+    "Thu đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "90ml Fullbox"
+  ],
+  "basePrice": 2500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

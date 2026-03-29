@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Olivier Polge",
   "gender": "nam",
+  "year": 2014,
   "image": "/images/products/bleu-chanel-edp-main.jpg",
   "images": [
     {
@@ -39,9 +40,18 @@
     "total": 8.3
   },
   "vibes": [
-    { "label": "Văn phòng", "icon": "💼" },
-    { "label": "Đa dụng", "icon": "🔄" },
-    { "label": "Thanh lịch", "icon": "🕴️" }
+    {
+      "label": "Văn phòng",
+      "icon": "💼"
+    },
+    {
+      "label": "Đa dụng",
+      "icon": "🔄"
+    },
+    {
+      "label": "Thanh lịch",
+      "icon": "🕴️"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
@@ -56,30 +66,76 @@
     "night": 56
   },
   "topNotes": [
-    { "name": "Bưởi" },
-    { "name": "Chanh" },
-    { "name": "Bạc hà" },
-    { "name": "Hồng tiêu" }
+    {
+      "name": "Bưởi"
+    },
+    {
+      "name": "Chanh"
+    },
+    {
+      "name": "Bạc hà"
+    },
+    {
+      "name": "Hồng tiêu"
+    }
   ],
   "middleNotes": [
-    { "name": "Gừng" },
-    { "name": "Nhục đậu khấu" },
-    { "name": "Hoa nhài" },
-    { "name": "Iso E Super" }
+    {
+      "name": "Gừng"
+    },
+    {
+      "name": "Nhục đậu khấu"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Iso E Super"
+    }
   ],
   "baseNotes": [
-    { "name": "Trầm hương" },
-    { "name": "Gỗ đàn hương" },
-    { "name": "Hoắc hương" },
-    { "name": "Labdanum" },
-    { "name": "Gỗ tuyết tùng" }
+    {
+      "name": "Trầm hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Labdanum"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    }
   ],
   "accords": [
-    { "name": "Hổ phách", "value": 100, "color": "#d4a017" },
-    { "name": "Gỗ", "value": 90, "color": "#8B4513" },
-    { "name": "Cam chanh", "value": 76, "color": "#f7c242" },
-    { "name": "Gia vị ấm", "value": 62, "color": "#e67e22" },
-    { "name": "Thơm thảo mộc", "value": 56, "color": "#2c7a4b" }
+    {
+      "name": "Hổ phách",
+      "value": 100,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gỗ",
+      "value": 90,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 76,
+      "color": "#f7c242"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 62,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 56,
+      "color": "#2c7a4b"
+    }
   ],
   "seoTitle": "Bleu de Chanel EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Bleu de Chanel EDP chính hãng: mùi sạch sang dễ dùng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",

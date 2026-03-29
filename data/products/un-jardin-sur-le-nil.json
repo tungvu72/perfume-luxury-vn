@@ -1,18 +1,125 @@
 {
-  "id": "un-jardin-sur-le-nil", "brandSlug": "hermes", "brand": "HERMÈS", "name": "Un Jardin sur le Nil", "subName": "Eau de Toilette",
-  "perfumer": "Jean-Claude Ellena", "gender": "unisex",
+  "id": "un-jardin-sur-le-nil",
+  "brandSlug": "hermes",
+  "brand": "HERMÈS",
+  "name": "Un Jardin sur le Nil",
+  "subName": "Eau de Toilette",
+  "perfumer": "Jean-Claude Ellena",
+  "gender": "unisex",
+  "year": 2005,
   "image": "/images/products/hermes-un-jardin-sur-le-nil-main.jpg",
-  "images": [{ "url": "/images/products/hermes-un-jardin-sur-le-nil-main.jpg", "source": "fragram", "caption": "Hermès Un Jardin sur le Nil chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/hermes-un-jardin-sur-le-nil-main.jpg",
+      "source": "fragram",
+      "caption": "Hermès Un Jardin sur le Nil chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai unisex xoài xanh-cà rốt-nhũ hương kiểu vườn sông Nile — xoài xanh, cam, bưởi, cà rốt, nhũ hương, cánh hoa sen, gỗ sậy và xạ hương. Xoài xanh, sông Nile và Ellena.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi hoa hoặc mùi ngọt — Un Jardin sur le Nil là XOÀI XANH + CÀ RỐT. Đúng, cà rốt. Jean-Claude Ellena (Master Perfumer Hermès) bay đến đảo Kitchener giữa sông Nile, Ai Cập, và tạo ra chai mùi rau-trái xanh mà chưa ai dám làm. Aquatic lạ, xanh, tropical mà không ngọt.\n\n### Có đáng tiền không?\n\nGiá Hermès EDT — reasonable. Và DNA xoài xanh-cà rốt-hoa sen ở đây UNIQUE: không ai copy vì quá lạ. So với Un Jardin en Méditerranée — cùng Jardin series — thì Nil xanh hơn, nhiều xoài hơn, ít sung hơn. Bám 4-5 giờ (EDT nhẹ).\n\n### Nên dùng khi nào?\n\nMùa hè, đi dạo, du lịch, khi muốn mùi TƯƠI KHÁC BIỆT. Xịt 4-5 nhát vì EDT nhẹ. Sài Gòn quanh năm. Hà Nội tháng 4-10. Chai để đi biển đẹp nhất.",
   "verdict": "Xoài xanh-cà rốt sông Nile — Ellena bay đến Ai Cập. Unique nhất Jardin. Không ai dám copy.",
   "verdictShort": "XOÀI CÀ RỐT, SÔNG NILE, ELLENA",
-  "score": { "scent": 8.5, "uniqueness": 9.5, "compliments": 7.0, "value": 8.0, "total": 8.3 },
-  "vibes": [{ "label": "Sông Nile", "icon": "🌊" }, { "label": "Xanh", "icon": "🥭" }, { "label": "Du lịch", "icon": "✈️" }],
-  "longevity": 4, "sillage": 4, "seasons": { "spring": 82, "summer": 92, "fall": 38, "winter": 12 }, "dayNight": { "day": 92, "night": 18 },
-  "topNotes": [{ "name": "Xoài xanh" }, { "name": "Cam" }, { "name": "Bưởi" }],
-  "middleNotes": [{ "name": "Cà rốt" }, { "name": "Hoa sen" }], "baseNotes": [{ "name": "Nhũ hương" }, { "name": "Gỗ sậy" }, { "name": "Xạ hương" }],
-  "accords": [{ "name": "Xanh", "value": 100, "color": "#27ae60" }, { "name": "Trái cây", "value": 78, "color": "#f39c12" }, { "name": "Cam chanh", "value": 62, "color": "#f1c40f" }, { "name": "Tươi mát", "value": 55, "color": "#2ecc71" }],
-  "seoTitle": "Hermès Un Jardin sur le Nil chính hãng mua ở đâu? Review 2026", "metaDescription": "Đánh giá Un Jardin sur le Nil chính hãng: xoài xanh cà rốt sông Nile Ellena, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Unisex", "Mùa hè", "Du lịch", "Unique"], "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"], "basePrice": 2200000, "shopeeOffers": [], "isPublished": true
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 9.5,
+    "compliments": 7,
+    "value": 8,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Sông Nile",
+      "icon": "🌊"
+    },
+    {
+      "label": "Xanh",
+      "icon": "🥭"
+    },
+    {
+      "label": "Du lịch",
+      "icon": "✈️"
+    }
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "seasons": {
+    "spring": 82,
+    "summer": 92,
+    "fall": 38,
+    "winter": 12
+  },
+  "dayNight": {
+    "day": 92,
+    "night": 18
+  },
+  "topNotes": [
+    {
+      "name": "Xoài xanh"
+    },
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Bưởi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Cà rốt"
+    },
+    {
+      "name": "Hoa sen"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Nhũ hương"
+    },
+    {
+      "name": "Gỗ sậy"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Xanh",
+      "value": 100,
+      "color": "#27ae60"
+    },
+    {
+      "name": "Trái cây",
+      "value": 78,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Cam chanh",
+      "value": 62,
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 55,
+      "color": "#2ecc71"
+    }
+  ],
+  "seoTitle": "Hermès Un Jardin sur le Nil chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá Un Jardin sur le Nil chính hãng: xoài xanh cà rốt sông Nile Ellena, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": [
+    "Unisex",
+    "Mùa hè",
+    "Du lịch",
+    "Unique"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

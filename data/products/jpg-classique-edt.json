@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Jacques Cavallier",
   "gender": "nu",
+  "year": 1993,
   "image": "/images/products/jpg-classique-edt-main.jpg",
   "images": [
     {
@@ -19,30 +20,112 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi sạch hiện đại — thì Classique quá RETRO. Chai hình corset thân phụ nữ — iconic nhất lịch sử nước hoa về mặt thiết kế. Mùi cũng vậy: hoa cam-gừng-vani ngọt ấm, kiểu sexy 90s. Jacques Cavallier (giờ ở Louis Vuitton) tạo ra chai này trước khi thành Master Perfumer. Ai thích clean-fresh sẽ thấy nó quá ngọt.\n\n### Có đáng tiền không?\n\nGiá tầm trung — rẻ hơn Dior, Chanel. Và bản EDT đã discontinued (thay bằng La Belle line mới), nên nếu tìm được là may. So với La Belle EDP — successor — thì Classique EDT nhẹ hơn, nhiều hoa cam hơn, ít vanilla-pear hơn. So với Mugler Angel — cùng 90s nữ ngọt — thì Classique ít patchouli hơn, nhiều hoa hơn, nhẹ hơn. Bám 5-6 giờ.\n\n### Nên dùng khi nào?\n\nĐi chơi tối, hẹn hò, đi bar, hoặc khi muốn mùi 90s nostalgia. Xịt 3 nhát: cổ, cổ tay, tóc. Thu đông nhẹ — Hà Nội tháng 10-3. Sài Gòn tối mát. Chai biểu tượng — mua vì chai cũng đáng.",
   "verdict": "Corset gợi cảm 1993 — hoa cam gừng vani. Chai iconic nhất lịch sử. Cavallier trước LV. Discontinued EDT.",
   "verdictShort": "CORSET GỢI CẢM, 90S ICONIC, DISCONTINUED",
-  "score": { "scent": 7.8, "uniqueness": 8.5, "compliments": 8.0, "value": 8.0, "total": 8.1 },
+  "score": {
+    "scent": 7.8,
+    "uniqueness": 8.5,
+    "compliments": 8,
+    "value": 8,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Iconic", "icon": "👗" },
-    { "label": "90s", "icon": "📼" },
-    { "label": "Gợi cảm", "icon": "💋" }
+    {
+      "label": "Iconic",
+      "icon": "👗"
+    },
+    {
+      "label": "90s",
+      "icon": "📼"
+    },
+    {
+      "label": "Gợi cảm",
+      "icon": "💋"
+    }
   ],
   "longevity": 6,
   "sillage": 6,
-  "seasons": { "spring": 58, "summer": 28, "fall": 72, "winter": 68 },
-  "dayNight": { "day": 38, "night": 78 },
-  "topNotes": [{ "name": "Cam" }, { "name": "Hoa cam" }, { "name": "Gừng" }],
-  "middleNotes": [{ "name": "Hoa hồng" }, { "name": "Hoa nhài" }, { "name": "Orchid" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Xạ hương" }],
+  "seasons": {
+    "spring": 58,
+    "summer": 28,
+    "fall": 72,
+    "winter": 68
+  },
+  "dayNight": {
+    "day": 38,
+    "night": 78
+  },
+  "topNotes": [
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "Hoa cam"
+    },
+    {
+      "name": "Gừng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Orchid"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
   "accords": [
-    { "name": "Hoa", "value": 100, "color": "#e91e63" },
-    { "name": "Ngọt", "value": 72, "color": "#8B0000" },
-    { "name": "Gia vị ấm", "value": 55, "color": "#e67e22" },
-    { "name": "Hoa trắng", "value": 48, "color": "#f5f5dc" },
-    { "name": "Vani", "value": 42, "color": "#F5DEB3" }
+    {
+      "name": "Hoa",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Ngọt",
+      "value": 72,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 55,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Hoa trắng",
+      "value": 48,
+      "color": "#f5f5dc"
+    },
+    {
+      "name": "Vani",
+      "value": 42,
+      "color": "#F5DEB3"
+    }
   ],
   "seoTitle": "Jean Paul Gaultier Classique EDT chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá JPG Classique EDT chính hãng: mùi hoa cam gừng vani gợi cảm iconic, độ bám tỏa thực tế và tư vấn mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Iconic", "90s", "Gợi cảm"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Iconic",
+    "90s",
+    "Gợi cảm"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 1800000,
   "shopeeOffers": [],
   "isPublished": true

@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Quentin Bisch & Sonia Constant",
   "gender": "nu",
+  "year": 2019,
   "image": "/images/products/jpg-la-belle-edp-main.jpg",
   "images": [
     {
@@ -19,30 +20,110 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích mùi tươi sáng nhẹ nhàng kiểu Chloé hay Light Blue thì La Belle quá ngọt và quá sexy cho gu đó. Ai ghét vani đậm cũng nên tránh — vani ở đây rất rõ. Dùng ban ngày nóng ngoài trời sẽ hơi ngọp.\n\n### Có đáng tiền không?\n\nLa Belle thuộc phân khúc designer tầm trung — tương đương Good Girl. So với La Vie Est Belle, La Belle ngọt hơn và sexy hơn rõ. So với Good Girl, La Belle ít cà phê-cacao hơn và nhiều vani-lê hơn. Hiệu năng tốt: bám 7-8 giờ, tỏa khá. Đáng tiền cho chai nữ date night.\n\n### Nên dùng khi nào?\n\nHẹn hò, đi chơi tối, tiệc, dịp đặc biệt. Xịt 2 nhát: cổ, cổ tay. Đẹp nhất thu đông, buổi tối. Ở Sài Gòn dùng tối hoặc phòng máy lạnh.",
   "verdict": "Chai vani-lê ngọt sexy nhất JPG — ấm, gợi cảm. Hợp date night. Không hợp ai thích mùi nhẹ nhàng.",
   "verdictShort": "VANI LÊ, NGỌT, SEXY",
-  "score": { "scent": 8.5, "uniqueness": 7.8, "compliments": 8.8, "value": 8.2, "total": 8.3 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 7.8,
+    "compliments": 8.8,
+    "value": 8.2,
+    "total": 8.3
+  },
   "vibes": [
-    { "label": "Sexy", "icon": "🔥" },
-    { "label": "Buổi tối", "icon": "🌙" },
-    { "label": "Ngọt", "icon": "🍐" }
+    {
+      "label": "Sexy",
+      "icon": "🔥"
+    },
+    {
+      "label": "Buổi tối",
+      "icon": "🌙"
+    },
+    {
+      "label": "Ngọt",
+      "icon": "🍐"
+    }
   ],
   "longevity": 8,
   "sillage": 7,
-  "seasons": { "spring": 42, "summer": 18, "fall": 85, "winter": 90 },
-  "dayNight": { "day": 25, "night": 88 },
-  "topNotes": [{ "name": "Lê" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Hoa" }, { "name": "Da thuộc" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Cỏ hương bài" }, { "name": "Hổ phách" }, { "name": "Xạ hương" }],
+  "seasons": {
+    "spring": 42,
+    "summer": 18,
+    "fall": 85,
+    "winter": 90
+  },
+  "dayNight": {
+    "day": 25,
+    "night": 88
+  },
+  "topNotes": [
+    {
+      "name": "Lê"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa"
+    },
+    {
+      "name": "Da thuộc"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
   "accords": [
-    { "name": "Vani", "value": 100, "color": "#F5DEB3" },
-    { "name": "Ngọt", "value": 88, "color": "#8B0000" },
-    { "name": "Trái cây", "value": 65, "color": "#f39c12" },
-    { "name": "Phấn", "value": 52, "color": "#d7bde2" },
-    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+    {
+      "name": "Vani",
+      "value": 100,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Ngọt",
+      "value": 88,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Trái cây",
+      "value": 65,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Phấn",
+      "value": 52,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 42,
+      "color": "#d4a017"
+    }
   ],
   "seoTitle": "JPG La Belle EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá JPG La Belle EDP chính hãng: mùi vani lê ngọt sexy, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nữ", "Sexy", "Vani", "Buổi tối"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Sexy",
+    "Vani",
+    "Buổi tối"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

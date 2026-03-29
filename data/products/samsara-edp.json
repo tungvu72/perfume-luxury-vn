@@ -1,23 +1,136 @@
 {
-  "id": "samsara-edp", "brandSlug": "guerlain", "brand": "GUERLAIN", "name": "Samsara", "subName": "Eau de Parfum",
-  "perfumer": "Jean-Paul Guerlain", "gender": "nu",
+  "id": "samsara-edp",
+  "brandSlug": "guerlain",
+  "brand": "GUERLAIN",
+  "name": "Samsara",
+  "subName": "Eau de Parfum",
+  "perfumer": "Jean-Paul Guerlain",
+  "gender": "nu",
+  "year": 1989,
   "image": "/images/products/guerlain-samsara-edp-main.jpg",
-  "images": [{ "url": "/images/products/guerlain-samsara-edp-main.jpg", "source": "fragram", "caption": "Guerlain Samsara EDP chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/guerlain-samsara-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Guerlain Samsara EDP chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ gỗ đàn hương-nhài-vani-tonka kiểu luân hồi 1989 — cam bergamot, đào, nhài, ylang-ylang, hoa hồng, iris, gỗ đàn hương, vani, đậu Tonka và xạ hương. Gỗ đàn hương nặng, oriental và Phật giáo.",
   "article": "### Ai không nên mua?\n\nNếu bạn ghét gỗ đàn hương — Samsara = GỖ ĐÀN HƯƠNG ở nồng độ CAO NHẤT mà Guerlain từng dùng. Jean-Paul Guerlain tạo năm 1989, lấy tên từ Phật giáo (Samsara = luân hồi). Gỗ đàn hương Mysore ấm, kem, dày — phủ lên nhài tạo combo oriental nặng. Ai thích nhẹ fresh sẽ thấy nó ngộp.\n\n### Có đáng tiền không?\n\nGiá Guerlain — gỗ đàn hương Mysore giờ cực hiếm và đắt, nên reformulate dùng synthetic thay phần lớn. So với Shalimar — cùng Guerlain oriental — thì Samsara nhiều đàn hương hơn, ít smoky hơn. So với Tom Ford Santal Blush — cùng đàn hương — thì Samsara nhiều nhài hơn, rẻ hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nThiền, yoga, sự kiện tối, hoặc khi muốn inner peace mùi hương. Xịt 2 nhát cổ. Thu đông. Chai cho ai hiểu spirituality.",
   "verdict": "Gỗ đàn hương luân hồi — Jean-Paul Guerlain 1989. Mysore sandalwood (hiếm). Buddhist oriental.",
   "verdictShort": "ĐÀN HƯƠNG LUÂN HỒI, MYSORE, SPIRITUAL",
-  "score": { "scent": 8.5, "uniqueness": 9.0, "compliments": 7.0, "value": 8.0, "total": 8.1 },
-  "vibes": [{ "label": "Spiritual", "icon": "🧘" }, { "label": "Đàn hương", "icon": "🪵" }, { "label": "Heritage", "icon": "👑" }],
-  "longevity": 8, "sillage": 6,
-  "seasons": { "spring": 42, "summer": 15, "fall": 78, "winter": 82 },
-  "dayNight": { "day": 35, "night": 72 },
-  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Đào" }],
-  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Ngọc lan tây" }, { "name": "Hoa hồng" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Vani" }, { "name": "Đậu Tonka" }, { "name": "Xạ hương" }],
-  "accords": [{ "name": "Gỗ", "value": 100, "color": "#8B4513" }, { "name": "Hoa", "value": 72, "color": "#e91e63" }, { "name": "Phương Đông", "value": 62, "color": "#c0392b" }, { "name": "Phấn", "value": 48, "color": "#d7bde2" }, { "name": "Vani", "value": 42, "color": "#F5DEB3" }],
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 9,
+    "compliments": 7,
+    "value": 8,
+    "total": 8.1
+  },
+  "vibes": [
+    {
+      "label": "Spiritual",
+      "icon": "🧘"
+    },
+    {
+      "label": "Đàn hương",
+      "icon": "🪵"
+    },
+    {
+      "label": "Heritage",
+      "icon": "👑"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 6,
+  "seasons": {
+    "spring": 42,
+    "summer": 15,
+    "fall": 78,
+    "winter": 82
+  },
+  "dayNight": {
+    "day": 35,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Đào"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Ngọc lan tây"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hoa",
+      "value": 72,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Phương Đông",
+      "value": 62,
+      "color": "#c0392b"
+    },
+    {
+      "name": "Phấn",
+      "value": 48,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Vani",
+      "value": 42,
+      "color": "#F5DEB3"
+    }
+  ],
   "seoTitle": "Guerlain Samsara EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Guerlain Samsara EDP chính hãng: mùi gỗ đàn hương luân hồi Phật giáo, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Spiritual", "Đàn hương", "Heritage"], "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
-  "basePrice": 2200000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Spiritual",
+    "Đàn hương",
+    "Heritage"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 2200000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

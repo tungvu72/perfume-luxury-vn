@@ -6,6 +6,7 @@
   "subName": "Extrait de Parfum",
   "perfumer": "Jorge Lee",
   "gender": "unisex",
+  "year": 2019,
   "image": "/images/products/nishane-hundred-silent-ways-main.jpg",
   "images": [
     {
@@ -19,30 +20,112 @@
   "article": "### Ai không nên mua?\n\nNếu bạn ghét mùi ngọt hoặc mùi hoa nặng thì Hundred Silent Ways xịt lên sẽ thấy như đứng trong tiệm kem hoa tươi — tuberose, gardenia, vani trộn lẫn, rất quyến rũ nhưng cũng rất sweet. Anh em nam hay ngại chai unisex thiên hoa cũng nên test trước: dù là unisex nhưng nó nghiêng nữ rõ ràng ở Việt Nam. Nếu bạn cần mùi sạch tươi đi làm, chai này không dành cho bạn.\n\n### Có đáng tiền không?\n\nHundred Silent Ways thuộc phân khúc Nishane — extrait de parfum, nồng độ cao. So với Xerjoff Dama Bianca — cùng hoa-vani niche nữ — thì Hundred Silent Ways creamy hơn, nhiều đào hơn và ít iris hơn. So với Kayali Vanilla 28 — cùng nhóm ngọt nổi tiếng — thì chai Nishane phức tạp hơn nhiều với lớp gardenia và nhài thật sự. Bám 8-10 giờ vì extrait, tỏa vừa phải — kiểu da ấm thơm ngọt cả ngày. Giá hợp lý cho niche.\n\n### Nên dùng khi nào?\n\nNhững ngày muốn tự thưởng cho mình — đi cà phê một mình, đọc sách, hoặc hẹn hò nhẹ nhàng. Xịt 2 nhát: cổ tay và sau cổ. Vì extrait, ít thôi là đủ. Đẹp nhất trời mát — Hà Nội thu đông, Sài Gòn tối mát hoặc phòng máy lạnh. Không hợp đi dã ngoại hay nhậu nhẹt — chai này cần không gian yên tĩnh để thưởng thức.",
   "verdict": "Hoa-kem-vani niche — creamy, mềm, đầy cảm xúc. Extrait bám 10h. Thiên nữ, cần không gian riêng để thưởng.",
   "verdictShort": "HOA KEM VANI, CREAMY, THƠ RUMI",
-  "score": { "scent": 9.0, "uniqueness": 8.8, "compliments": 8.2, "value": 8.0, "total": 8.5 },
+  "score": {
+    "scent": 9,
+    "uniqueness": 8.8,
+    "compliments": 8.2,
+    "value": 8,
+    "total": 8.5
+  },
   "vibes": [
-    { "label": "Creamy", "icon": "🍦" },
-    { "label": "Cảm xúc", "icon": "💫" },
-    { "label": "Niche", "icon": "💎" }
+    {
+      "label": "Creamy",
+      "icon": "🍦"
+    },
+    {
+      "label": "Cảm xúc",
+      "icon": "💫"
+    },
+    {
+      "label": "Niche",
+      "icon": "💎"
+    }
   ],
   "longevity": 9,
   "sillage": 7,
-  "seasons": { "spring": 72, "summer": 32, "fall": 82, "winter": 78 },
-  "dayNight": { "day": 55, "night": 72 },
-  "topNotes": [{ "name": "Tuberose" }, { "name": "Đào" }, { "name": "Cam quýt" }],
-  "middleNotes": [{ "name": "Gardenia" }, { "name": "Hoa nhài" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Gỗ đàn hương" }, { "name": "Cỏ hương bài" }],
+  "seasons": {
+    "spring": 72,
+    "summer": 32,
+    "fall": 82,
+    "winter": 78
+  },
+  "dayNight": {
+    "day": 55,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Tuberose"
+    },
+    {
+      "name": "Đào"
+    },
+    {
+      "name": "Cam quýt"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Gardenia"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
   "accords": [
-    { "name": "Ngọt", "value": 100, "color": "#8B0000" },
-    { "name": "Hoa", "value": 82, "color": "#e91e63" },
-    { "name": "Trái cây", "value": 65, "color": "#f39c12" },
-    { "name": "Kem", "value": 58, "color": "#faebd7" },
-    { "name": "Gourmand", "value": 48, "color": "#d4a373" }
+    {
+      "name": "Ngọt",
+      "value": 100,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Hoa",
+      "value": 82,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Trái cây",
+      "value": 65,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Kem",
+      "value": 58,
+      "color": "#faebd7"
+    },
+    {
+      "name": "Gourmand",
+      "value": 48,
+      "color": "#d4a373"
+    }
   ],
   "seoTitle": "Nishane Hundred Silent Ways chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Nishane Hundred Silent Ways chính hãng: mùi hoa kem vani niche creamy, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Unisex", "Niche", "Creamy", "Hoa"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Creamy",
+    "Hoa"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 4200000,
   "shopeeOffers": [],
   "isPublished": true

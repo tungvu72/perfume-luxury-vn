@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Jacques Guerlain",
   "gender": "nu",
+  "year": 1912,
   "image": "/images/products/guerlain-lheure-bleue-edp-main.jpg",
   "images": [
     {
@@ -19,30 +20,118 @@
   "article": "### Ai không nên mua?\n\nNếu bạn sinh sau 1990 — thì L'Heure Bleue có thể quá \"cổ\" để hiểu ngay lần đầu. Jacques Guerlain tạo ra chai này năm 1912 — HƠN 110 NĂM TRƯỚC — lấy cảm hứng từ khoảnh khắc \"giờ xanh\" trước khi mặt trời hoàn toàn lặn. Hoa tím-vani-anise phấn — mùi của một thế giới đã mất. Ai muốn mùi hiện đại sẽ không hiểu nó.\n\n### Có đáng tiền không?\n\nGiá Guerlain — và đây là KIỆT TÁC thật sự: một trong 3 chai Guerlain kinh điển nhất (cùng Shalimar và Mitsouko). Jacques Guerlain đã nói \"Tôi tạo Shalimar cho tình yêu, Mitsouko cho sự thanh lịch, và L'Heure Bleue cho nỗi buồn đẹp.\" EDP đậm hơn EDT. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nHoàng hôn (theo đúng tên), ăn tối nhẹ, thời gian riêng, hoặc khi muốn mùi hương là THƠ chứ không phải phụ kiện. Xịt 2 nhát: cổ và cổ tay. Dùng quanh năm — hoa tím tươi mùa xuân, vani ấm mùa đông. Chai để sống chậm lại.",
   "verdict": "Hoàng hôn xanh 1912 — Jacques Guerlain. 110+ năm. \"Nỗi buồn đẹp.\" Kiệt tác vượt thời gian.",
   "verdictShort": "HOÀNG HÔN XANH, 1912, KIỆT TÁC",
-  "score": { "scent": 9.0, "uniqueness": 9.5, "compliments": 6.5, "value": 8.0, "total": 8.3 },
+  "score": {
+    "scent": 9,
+    "uniqueness": 9.5,
+    "compliments": 6.5,
+    "value": 8,
+    "total": 8.3
+  },
   "vibes": [
-    { "label": "Kiệt tác", "icon": "🏛️" },
-    { "label": "Hoàng hôn", "icon": "🌅" },
-    { "label": "Thơ", "icon": "📜" }
+    {
+      "label": "Kiệt tác",
+      "icon": "🏛️"
+    },
+    {
+      "label": "Hoàng hôn",
+      "icon": "🌅"
+    },
+    {
+      "label": "Thơ",
+      "icon": "📜"
+    }
   ],
   "longevity": 8,
   "sillage": 5,
-  "seasons": { "spring": 72, "summer": 35, "fall": 78, "winter": 65 },
-  "dayNight": { "day": 45, "night": 72 },
-  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Hồi" }],
-  "middleNotes": [{ "name": "Hoa tím" }, { "name": "Hoa hồng" }, { "name": "Hoa nhài" }, { "name": "Tuberose" }, { "name": "Iris" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Benzoin" }, { "name": "Xạ hương" }, { "name": "Heliotrope" }],
+  "seasons": {
+    "spring": 72,
+    "summer": 35,
+    "fall": 78,
+    "winter": 65
+  },
+  "dayNight": {
+    "day": 45,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Hồi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa tím"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Tuberose"
+    },
+    {
+      "name": "Iris"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Heliotrope"
+    }
+  ],
   "accords": [
-    { "name": "Phấn", "value": 100, "color": "#d7bde2" },
-    { "name": "Hoa", "value": 78, "color": "#e91e63" },
-    { "name": "Ngọt", "value": 55, "color": "#8B0000" },
-    { "name": "Vani", "value": 48, "color": "#F5DEB3" },
-    { "name": "Hổ phách", "value": 42, "color": "#d4a017" }
+    {
+      "name": "Phấn",
+      "value": 100,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Hoa",
+      "value": 78,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Ngọt",
+      "value": 55,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Vani",
+      "value": 48,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 42,
+      "color": "#d4a017"
+    }
   ],
   "seoTitle": "Guerlain L'Heure Bleue EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Guerlain L'Heure Bleue EDP chính hãng: mùi hoàng hôn xanh kiệt tác 1912, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Kiệt tác", "Heritage", "Hoàng hôn"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "75ml Fullbox"],
+  "tags": [
+    "Nữ",
+    "Kiệt tác",
+    "Heritage",
+    "Hoàng hôn"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "75ml Fullbox"
+  ],
   "basePrice": 2800000,
   "shopeeOffers": [],
   "isPublished": true

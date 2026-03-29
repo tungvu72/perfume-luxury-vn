@@ -6,29 +6,118 @@
   "subName": "Eau de Parfum",
   "perfumer": "Christine Nagel",
   "gender": "nu",
+  "year": 2005,
   "image": "/images/products/dior-miss-dior-cherie-main.jpg",
-  "images": [{ "url": "/images/products/dior-miss-dior-cherie-main.jpg", "source": "fragram", "caption": "Dior Miss Dior Chérie chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/dior-miss-dior-cherie-main.jpg",
+      "source": "fragram",
+      "caption": "Dior Miss Dior Chérie chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ dâu tây-popcorn-hoắc hương kiểu yêu đời cũ — dâu tây, cam quýt, bắp rang, hồng, hoa tím, hoắc hương, xạ hương và gỗ đàn hương. Dâu popcorn, vui và discontinued.",
   "article": "### Ai không nên mua?\n\nKhông thể mua mới — Miss Dior Chérie DISCONTINUED từ lâu. Chai này nổi tiếng vì nốt POPCORN — bắp rang bơ — cực kỳ vui và khác biệt. Christine Nagel (giờ ở Hermès) tạo ra combo dâu tây-popcorn-hoắc hương mà không ai dám lặp lại. Ai tìm được vintage bottle nên giữ chặt.\n\n### Có đáng tiền không?\n\nCollector price — và dâu-popcorn DNA ở đây unique thật sự. So với Miss Dior hiện tại — hoàn toàn khác: Miss Dior mới hoa hồng-iris, Chérie là trái cây-gourmand. So với Viktor & Rolf Bonbon — cùng caramel gourmand — thì Chérie có popcorn mà Bonbon thiếu. Bám 5-6 giờ.\n\n### Nên dùng khi nào?\n\nBan ngày, đi chơi, picnic, hoặc khi nào muốn VUI. Chai này = nụ cười trong lọ nước hoa. Discontinued nên dùng dè sẻn.",
   "verdict": "Dâu-popcorn discontinued — Christine Nagel. Unique nhất Miss Dior. Nụ cười trong lọ. Collector treasure.",
   "verdictShort": "DÂU POPCORN, DISCONTINUED, NỤ CƯỜI",
-  "score": { "scent": 8.0, "uniqueness": 9.5, "compliments": 8.5, "value": 7.0, "total": 8.3 },
-  "vibes": [{ "label": "Vui", "icon": "🍿" }, { "label": "Discontinued", "icon": "⏳" }, { "label": "Collector", "icon": "💎" }],
-  "longevity": 6, "sillage": 5,
-  "seasons": { "spring": 82, "summer": 62, "fall": 52, "winter": 28 },
-  "dayNight": { "day": 82, "night": 42 },
-  "topNotes": [{ "name": "Dâu tây" }, { "name": "Cam quýt" }],
-  "middleNotes": [{ "name": "Bắp rang" }, { "name": "Hoa hồng" }, { "name": "Hoa tím" }],
-  "baseNotes": [{ "name": "Hoắc hương" }, { "name": "Xạ hương" }, { "name": "Gỗ đàn hương" }],
+  "score": {
+    "scent": 8,
+    "uniqueness": 9.5,
+    "compliments": 8.5,
+    "value": 7,
+    "total": 8.3
+  },
+  "vibes": [
+    {
+      "label": "Vui",
+      "icon": "🍿"
+    },
+    {
+      "label": "Discontinued",
+      "icon": "⏳"
+    },
+    {
+      "label": "Collector",
+      "icon": "💎"
+    }
+  ],
+  "longevity": 6,
+  "sillage": 5,
+  "seasons": {
+    "spring": 82,
+    "summer": 62,
+    "fall": 52,
+    "winter": 28
+  },
+  "dayNight": {
+    "day": 82,
+    "night": 42
+  },
+  "topNotes": [
+    {
+      "name": "Dâu tây"
+    },
+    {
+      "name": "Cam quýt"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Bắp rang"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Hoa tím"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    }
+  ],
   "accords": [
-    { "name": "Gourmand", "value": 100, "color": "#d4a373" },
-    { "name": "Trái cây", "value": 78, "color": "#f39c12" },
-    { "name": "Hoa", "value": 55, "color": "#e91e63" },
-    { "name": "Ngọt", "value": 48, "color": "#8B0000" }
+    {
+      "name": "Gourmand",
+      "value": 100,
+      "color": "#d4a373"
+    },
+    {
+      "name": "Trái cây",
+      "value": 78,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Hoa",
+      "value": 55,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Ngọt",
+      "value": 48,
+      "color": "#8B0000"
+    }
   ],
   "seoTitle": "Dior Miss Dior Chérie chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Miss Dior Chérie chính hãng: mùi dâu popcorn discontinued vui tươi, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Discontinued", "Gourmand", "Collector"],
-  "sizes": ["10ml Chiết", "50ml Fullbox"],
-  "basePrice": 3000000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Discontinued",
+    "Gourmand",
+    "Collector"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox"
+  ],
+  "basePrice": 3000000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

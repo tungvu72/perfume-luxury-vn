@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Lucas Sieuzac",
   "gender": "nam",
+  "year": 2007,
   "image": "/images/products/amouage-reflection-man-main.jpg",
   "images": [
     {
@@ -19,30 +20,118 @@
   "article": "### Ai không nên mua?\n\nNếu bạn thích \"mùi nước hoa nam\" kiểu mạnh mẽ — oud, da, thuốc lá, hoặc ít nhất là ambroxan tỏa xa — thì Reflection Man sẽ khiến bạn thất vọng. Chai này sạch đến mức nhiều người nói \"như mùi xà phòng cao cấp\" — và tùy góc nhìn, đó là khen hoặc chê. Ai cần mùi gây ấn tượng mạnh trong 3 giây đầu cũng nên nhìn qua: Reflection Man cần 30 phút để lắng xuống mới đẹp.\n\n### Có đáng tiền không?\n\nAmouage thuộc niche Oman — đắt hơn designer nhưng rẻ hơn MFK và Creed. Điều Reflection Man làm xuất sắc là hoa nhài trong nước hoa nam mà không bị nữ tính — nhờ hương thảo và gỗ đàn hương cân bằng. So với Dior Homme Intense — cùng nhóm hoa-phấn nam — thì Reflection sạch hơn, ít iris phấn hơn và nhiều gỗ hơn. So với Bleu de Chanel — cùng nhóm \"sạch sang\" — thì Reflection thanh lịch hơn một tầm rõ rệt. Bám 7-8 giờ, tỏa nhẹ-vừa.\n\n### Nên dùng khi nào?\n\nĐi làm sang trọng, gặp khách hàng quan trọng, đi ăn trưa ở nhà hàng, hoặc bất cứ khi nào muốn tạo hình ảnh chỉnh tề mà không cần la hét. Xịt 3 nhát: cổ, ngực, cổ tay. Dùng quanh năm — Sài Gòn hay Hà Nội đều thoải mái vì mùi rất sạch. Tránh đi club hay nhậu — lãng phí.",
   "verdict": "Chai nhài-iris sạch sang nhất — gentleman thầm lặng. Amouage blend đỉnh. Cho ai thích sạch mà quý phái.",
   "verdictShort": "SẠCH, SANG, GENTLEMAN THẦM LẶNG",
-  "score": { "scent": 9.0, "uniqueness": 8.8, "compliments": 7.8, "value": 7.5, "total": 8.3 },
+  "score": {
+    "scent": 9,
+    "uniqueness": 8.8,
+    "compliments": 7.8,
+    "value": 7.5,
+    "total": 8.3
+  },
   "vibes": [
-    { "label": "Gentleman", "icon": "🎩" },
-    { "label": "Sạch", "icon": "🤍" },
-    { "label": "Niche", "icon": "💎" }
+    {
+      "label": "Gentleman",
+      "icon": "🎩"
+    },
+    {
+      "label": "Sạch",
+      "icon": "🤍"
+    },
+    {
+      "label": "Niche",
+      "icon": "💎"
+    }
   ],
   "longevity": 7,
   "sillage": 6,
-  "seasons": { "spring": 85, "summer": 68, "fall": 72, "winter": 58 },
-  "dayNight": { "day": 82, "night": 52 },
-  "topNotes": [{ "name": "Hương thảo" }, { "name": "Tiêu hồng" }, { "name": "Petitgrain" }],
-  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Neroli" }, { "name": "Iris" }, { "name": "Ngọc lan tây" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Gỗ tuyết tùng" }, { "name": "Cỏ hương bài" }, { "name": "Hoắc hương" }],
+  "seasons": {
+    "spring": 85,
+    "summer": 68,
+    "fall": 72,
+    "winter": 58
+  },
+  "dayNight": {
+    "day": 82,
+    "night": 52
+  },
+  "topNotes": [
+    {
+      "name": "Hương thảo"
+    },
+    {
+      "name": "Tiêu hồng"
+    },
+    {
+      "name": "Petitgrain"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Neroli"
+    },
+    {
+      "name": "Iris"
+    },
+    {
+      "name": "Ngọc lan tây"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
   "accords": [
-    { "name": "Hoa trắng", "value": 100, "color": "#ecf0f1" },
-    { "name": "Gỗ", "value": 72, "color": "#8B4513" },
-    { "name": "Thơm thảo mộc", "value": 62, "color": "#2c7a4b" },
-    { "name": "Phấn", "value": 48, "color": "#d7bde2" },
-    { "name": "Tươi mát", "value": 42, "color": "#2ecc71" }
+    {
+      "name": "Hoa trắng",
+      "value": 100,
+      "color": "#ecf0f1"
+    },
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 62,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Phấn",
+      "value": 48,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Tươi mát",
+      "value": 42,
+      "color": "#2ecc71"
+    }
   ],
   "seoTitle": "Amouage Reflection Man chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Amouage Reflection Man chính hãng: mùi nhài iris sạch sang gentlemanly, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Niche", "Gentleman", "Sạch"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Niche",
+    "Gentleman",
+    "Sạch"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 4500000,
   "shopeeOffers": [],
   "isPublished": true

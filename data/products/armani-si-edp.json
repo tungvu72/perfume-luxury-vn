@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Christine Nagel",
   "gender": "nu",
+  "year": 2013,
   "image": "/images/products/armani-si-edp-main.jpg",
   "images": [
     {
@@ -27,9 +28,18 @@
     "total": 8.3
   },
   "vibes": [
-    { "label": "Thanh lịch", "icon": "✨" },
-    { "label": "Đi làm", "icon": "💼" },
-    { "label": "Đa dụng", "icon": "✅" }
+    {
+      "label": "Thanh lịch",
+      "icon": "✨"
+    },
+    {
+      "label": "Đi làm",
+      "icon": "💼"
+    },
+    {
+      "label": "Đa dụng",
+      "icon": "✅"
+    }
   ],
   "longevity": 7,
   "sillage": 6,
@@ -44,24 +54,58 @@
     "night": 55
   },
   "topNotes": [
-    { "name": "Lý chua đen" }
+    {
+      "name": "Lý chua đen"
+    }
   ],
   "middleNotes": [
-    { "name": "Hoa hồng tháng 5" },
-    { "name": "Lan Nam Phi" }
+    {
+      "name": "Hoa hồng tháng 5"
+    },
+    {
+      "name": "Lan Nam Phi"
+    }
   ],
   "baseNotes": [
-    { "name": "Vani" },
-    { "name": "Hoắc hương" },
-    { "name": "Gỗ" },
-    { "name": "Ambroxan" }
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Gỗ"
+    },
+    {
+      "name": "Ambroxan"
+    }
   ],
   "accords": [
-    { "name": "Trái cây", "value": 100, "color": "#9b59b6" },
-    { "name": "Ngọt", "value": 78, "color": "#e74c3c" },
-    { "name": "Hoa", "value": 68, "color": "#e91e63" },
-    { "name": "Vani", "value": 58, "color": "#F5DEB3" },
-    { "name": "Gỗ", "value": 45, "color": "#8B4513" }
+    {
+      "name": "Trái cây",
+      "value": 100,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "Ngọt",
+      "value": 78,
+      "color": "#e74c3c"
+    },
+    {
+      "name": "Hoa",
+      "value": 68,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Vani",
+      "value": 58,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Gỗ",
+      "value": 45,
+      "color": "#8B4513"
+    }
   ],
   "seoTitle": "Armani Sì EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Armani Sì EDP chính hãng: mùi lý chua đen vanilla thanh lịch, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",

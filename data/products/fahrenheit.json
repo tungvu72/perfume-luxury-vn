@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Jean-Louis Sieuzac, Michel Almairac & Maurice Roger",
   "gender": "nam",
+  "year": 1988,
   "image": "/images/products/dior-fahrenheit-main.jpg",
   "images": [
     {
@@ -19,30 +20,134 @@
   "article": "### Ai không nên mua?\n\nNếu bạn quen mùi Sauvage EDP hay Bleu de Chanel — các chai tươi sạch, dễ chịu, ai xịt cũng khen — thì Fahrenheit sẽ gây sốc. Mùi xăng, da và hoa tím phả vào mặt ngay phút đầu, nhiều người sẽ hỏi \"anh vừa đổ xăng à?\". Không nên xịt đi phỏng vấn, họp khách hàng, hoặc bất cứ chỗ nào cần gây thiện cảm lần đầu. Anh em dưới 25 tuổi phần lớn sẽ thấy nó già, vì thật ra Fahrenheit ra đời năm 1988 và thuộc về thế hệ cha chú.\n\n### Có đáng tiền không?\n\nFahrenheit giá chỉ bằng nửa Tom Ford Tuscan Leather — mà mùi da không thua kém là bao. Chai này rẻ nhất trong lineup Dior nam, nhưng chất liệu da và hoa tím bên trong thì không chai designer nào khác có. Nếu bạn đã từng ngửi Tuscan Leather và thích nhưng sợ giá, thì nên thử Fahrenheit trước. Lưu ý là EDT nên tỏa hương không quá mạnh — tầm 5-6 giờ, vòng tay trở vào. Nhưng với giá này thì xịt thêm nhát buổi chiều cũng chẳng tiếc.\n\n### Nên dùng khi nào?\n\nĐi chơi cuối tuần, đi bar, xem nhạc sống, hoặc chạy xe chiều tối trời mát. Xịt 2-3 nhát trước ngực và sau cổ. Trời Hà Nội tháng 11-12, khoác áo khoác da rồi xịt Fahrenheit lên cổ áo — đó là lúc nó đẹp nhất. Ở Sài Gòn thì tối mát hoặc phòng máy lạnh mới nên dùng. Không phải chai hằng ngày, nhưng khi đúng lúc thì không gì thay được.",
   "verdict": "Chai da-xăng huyền thoại 1988 — nóng, bold, cách mạng. Hợp thu đông. Yêu hoặc ghét.",
   "verdictShort": "DA XĂNG, HUYỀN THOẠI 1988, BOLD",
-  "score": { "scent": 8.8, "uniqueness": 9.5, "compliments": 7.5, "value": 8.0, "total": 8.5 },
+  "score": {
+    "scent": 8.8,
+    "uniqueness": 9.5,
+    "compliments": 7.5,
+    "value": 8,
+    "total": 8.5
+  },
   "vibes": [
-    { "label": "Huyền thoại", "icon": "👑" },
-    { "label": "Bold", "icon": "🔥" },
-    { "label": "Thu đông", "icon": "🍂" }
+    {
+      "label": "Huyền thoại",
+      "icon": "👑"
+    },
+    {
+      "label": "Bold",
+      "icon": "🔥"
+    },
+    {
+      "label": "Thu đông",
+      "icon": "🍂"
+    }
   ],
   "longevity": 7,
   "sillage": 7,
-  "seasons": { "spring": 42, "summer": 18, "fall": 85, "winter": 88 },
-  "dayNight": { "day": 35, "night": 78 },
-  "topNotes": [{ "name": "Nhục đậu khấu" }, { "name": "Oải hương" }, { "name": "Cam quýt" }, { "name": "Gỗ tuyết tùng" }, { "name": "Cam bergamot" }],
-  "middleNotes": [{ "name": "Lá hoa tím" }, { "name": "Nhục đậu khấu" }, { "name": "Gỗ đàn hương" }, { "name": "Hoa cẩm chướng" }, { "name": "Hoa nhài" }],
-  "baseNotes": [{ "name": "Da thuộc" }, { "name": "Cỏ hương bài" }, { "name": "Xạ hương" }, { "name": "Hổ phách" }, { "name": "Hoắc hương" }, { "name": "Đậu Tonka" }],
+  "seasons": {
+    "spring": 42,
+    "summer": 18,
+    "fall": 85,
+    "winter": 88
+  },
+  "dayNight": {
+    "day": 35,
+    "night": 78
+  },
+  "topNotes": [
+    {
+      "name": "Nhục đậu khấu"
+    },
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Cam quýt"
+    },
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Cam bergamot"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Lá hoa tím"
+    },
+    {
+      "name": "Nhục đậu khấu"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hoa cẩm chướng"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Da thuộc"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Đậu Tonka"
+    }
+  ],
   "accords": [
-    { "name": "Da thuộc", "value": 100, "color": "#795548" },
-    { "name": "Thơm thảo mộc", "value": 78, "color": "#2c7a4b" },
-    { "name": "Gỗ", "value": 68, "color": "#8B4513" },
-    { "name": "Gia vị ấm", "value": 55, "color": "#e67e22" },
-    { "name": "Hoa", "value": 42, "color": "#e91e63" }
+    {
+      "name": "Da thuộc",
+      "value": 100,
+      "color": "#795548"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 78,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Gỗ",
+      "value": 68,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 55,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Hoa",
+      "value": 42,
+      "color": "#e91e63"
+    }
   ],
   "seoTitle": "Dior Fahrenheit chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Dior Fahrenheit chính hãng: mùi da xăng huyền thoại 1988, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Huyền thoại", "Da thuộc", "Bold"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "200ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Huyền thoại",
+    "Da thuộc",
+    "Bold"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox",
+    "200ml Fullbox"
+  ],
   "basePrice": 2200000,
   "shopeeOffers": [],
   "isPublished": true

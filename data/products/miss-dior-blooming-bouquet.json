@@ -6,6 +6,7 @@
   "subName": "Blooming Bouquet",
   "perfumer": "Louise Turner",
   "gender": "nu",
+  "year": 2014,
   "image": "/images/products/miss-dior-blooming-bouquet-main.jpg",
   "images": [
     {
@@ -20,16 +21,25 @@
   "verdict": "Mùi hoa nhẹ, trong trẻo và rất dễ mến. Hợp phụ nữ thích sự tinh khôi, dịu dàng. Không hợp ai cần mùi nặng hay bám cả ngày.",
   "verdictShort": "NHẸ, TRONG TRẺO, DỄ MẾN",
   "score": {
-    "scent": 8.0,
+    "scent": 8,
     "uniqueness": 7.2,
     "compliments": 8.4,
     "value": 7.8,
     "total": 7.9
   },
   "vibes": [
-    { "label": "Dịu dàng", "icon": "🌸" },
-    { "label": "Ban ngày", "icon": "☀️" },
-    { "label": "Thanh lịch", "icon": "✨" }
+    {
+      "label": "Dịu dàng",
+      "icon": "🌸"
+    },
+    {
+      "label": "Ban ngày",
+      "icon": "☀️"
+    },
+    {
+      "label": "Thanh lịch",
+      "icon": "✨"
+    }
   ],
   "longevity": 5,
   "sillage": 5,
@@ -44,22 +54,52 @@
     "night": 30
   },
   "topNotes": [
-    { "name": "Cam bergamot" },
-    { "name": "Đậu ngọt" }
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Đậu ngọt"
+    }
   ],
   "middleNotes": [
-    { "name": "Mẫu đơn" },
-    { "name": "Hoa hồng Damask" }
+    {
+      "name": "Mẫu đơn"
+    },
+    {
+      "name": "Hoa hồng Damask"
+    }
   ],
   "baseNotes": [
-    { "name": "Xạ hương trắng" }
+    {
+      "name": "Xạ hương trắng"
+    }
   ],
   "accords": [
-    { "name": "Hoa", "value": 100, "color": "#e91e63" },
-    { "name": "Hoa hồng", "value": 85, "color": "#f48fb1" },
-    { "name": "Tươi", "value": 72, "color": "#2ecc71" },
-    { "name": "Phấn", "value": 55, "color": "#d7bde2" },
-    { "name": "Xạ hương", "value": 48, "color": "#bdc3c7" }
+    {
+      "name": "Hoa",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Hoa hồng",
+      "value": 85,
+      "color": "#f48fb1"
+    },
+    {
+      "name": "Tươi",
+      "value": 72,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Phấn",
+      "value": 55,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Xạ hương",
+      "value": 48,
+      "color": "#bdc3c7"
+    }
   ],
   "seoTitle": "Miss Dior Blooming Bouquet chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Miss Dior Blooming Bouquet chính hãng: mùi hoa nhẹ tươi nữ tính, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",

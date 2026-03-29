@@ -6,30 +6,127 @@
   "subName": "Eau de Parfum",
   "perfumer": "Maurice Roucel",
   "gender": "unisex",
+  "year": 2000,
   "image": "/images/products/frederic-malle-musc-ravageur-main.jpg",
-  "images": [{ "url": "/images/products/frederic-malle-musc-ravageur-main.jpg", "source": "fragram", "caption": "Frederic Malle Musc Ravageur chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/frederic-malle-musc-ravageur-main.jpg",
+      "source": "fragram",
+      "caption": "Frederic Malle Musc Ravageur chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai unisex xạ hương-vani-hổ phách kiểu sex in a bottle — xạ hương, vani, hổ phách, quế, oải hương, cam quýt, benzoin, gỗ đàn hương và cỏ hương bài. Xạ hương tàn phá, nóng và rất nổi tiếng.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi office sạch — Musc Ravageur là SEX IN A BOTTLE theo nghĩa đen. Maurice Roucel (24 Faubourg, Insolence) tạo ra chai xạ hương-vani-hổ phách mà nhiều người gọi là \"mùi da sau khi...\" — warm, animalic, intimate. Tên \"Ravageur\" = TÀN PHÁ. Không phải cho tất cả mọi người.\n\n### Có đáng tiền không?\n\nGiá Frederic Malle — đắt top niche. Nhưng DNA ở đây không ai copy được: xạ hương + vani ở nồng độ cao tạo ra aura mà generic designer musk không thể. So với Narciso Rodriguez For Her Musc Noir — mainstream musk — thì Ravageur MẠNH hơn 5x, sâu hơn 5x. So với Kilian Good Girl Gone Bad — cùng niche sexy — thì Ravageur nhiều xạ hương hơn, ít hoa hơn. Bám 10+ giờ.\n\n### Nên dùng khi nào?\n\nĐêm đặc biệt, hẹn hò, phòng ngủ. Xịt 1 nhát GÓC CỔ — MỘT NHÁT thôi. Thu đông. Hà Nội tháng 11-2. Sài Gòn chỉ tối phòng điều hòa lạnh. Không phải hằng ngày.",
   "verdict": "Sex in a bottle — Roucel xạ hương tàn phá. Frederic Malle legend. 10h+. 1 nhát cổ = đủ.",
   "verdictShort": "XẠ HƯƠNG TÀN PHÁ, SEX IN A BOTTLE, ROUCEL",
-  "score": { "scent": 9.5, "uniqueness": 9.5, "compliments": 9.0, "value": 7.0, "total": 8.8 },
-  "vibes": [{ "label": "Sex", "icon": "🔥" }, { "label": "Tàn phá", "icon": "💣" }, { "label": "Niche", "icon": "💎" }],
-  "longevity": 10, "sillage": 9,
-  "seasons": { "spring": 18, "summer": 2, "fall": 72, "winter": 92 },
-  "dayNight": { "day": 5, "night": 95 },
-  "topNotes": [{ "name": "Oải hương" }, { "name": "Cam quýt" }],
-  "middleNotes": [{ "name": "Xạ hương" }, { "name": "Quế" }],
-  "baseNotes": [{ "name": "Vani" }, { "name": "Hổ phách" }, { "name": "Benzoin" }, { "name": "Gỗ đàn hương" }, { "name": "Cỏ hương bài" }],
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 9.5,
+    "compliments": 9,
+    "value": 7,
+    "total": 8.8
+  },
+  "vibes": [
+    {
+      "label": "Sex",
+      "icon": "🔥"
+    },
+    {
+      "label": "Tàn phá",
+      "icon": "💣"
+    },
+    {
+      "label": "Niche",
+      "icon": "💎"
+    }
+  ],
+  "longevity": 10,
+  "sillage": 9,
+  "seasons": {
+    "spring": 18,
+    "summer": 2,
+    "fall": 72,
+    "winter": 92
+  },
+  "dayNight": {
+    "day": 5,
+    "night": 95
+  },
+  "topNotes": [
+    {
+      "name": "Oải hương"
+    },
+    {
+      "name": "Cam quýt"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Xạ hương"
+    },
+    {
+      "name": "Quế"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    }
+  ],
   "accords": [
-    { "name": "Xạ hương", "value": 100, "color": "#bdc3c7" },
-    { "name": "Vani", "value": 85, "color": "#F5DEB3" },
-    { "name": "Hổ phách", "value": 72, "color": "#d4a017" },
-    { "name": "Gia vị ấm", "value": 55, "color": "#e67e22" },
-    { "name": "Nốt động vật", "value": 42, "color": "#5d4037" }
+    {
+      "name": "Xạ hương",
+      "value": 100,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Vani",
+      "value": 85,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 72,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 55,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Nốt động vật",
+      "value": 42,
+      "color": "#5d4037"
+    }
   ],
   "seoTitle": "Frederic Malle Musc Ravageur chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Musc Ravageur chính hãng: mùi xạ hương tàn phá niche legend, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Unisex", "Niche", "Sex", "Legend"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
-  "basePrice": 6000000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Sex",
+    "Legend"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 6000000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

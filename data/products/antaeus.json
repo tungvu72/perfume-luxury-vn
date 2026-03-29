@@ -6,6 +6,7 @@
   "subName": "Eau de Toilette",
   "perfumer": "Jacques Polge",
   "gender": "nam",
+  "year": 1981,
   "image": "/images/products/chanel-antaeus-main.jpg",
   "images": [
     {
@@ -19,30 +20,121 @@
   "article": "### Ai không nên mua?\n\nNếu bạn sinh sau 2000 — thì Antaeus sẽ giống mùi rượu cổ trong tủ gỗ của ông ngoại. Và... đúng. Đây là powerhouse 1981: castoreum (tuyến hải ly), rêu sồi dày, labdanum nhựa — những nguyên liệu mà EU đã hạn chế khiến nước hoa hiện đại không dám dùng. Ai thích Sauvage, Eros, hay bất cứ thứ gì sau 2005 sẽ bị culture shock.\n\n### Có đáng tiền không?\n\nGiá Chanel nhưng EDT nên reasonable. Antaeus là chai Chanel nam BỊ LÃNG QUÊN — ít ai nhắc, ít ai biết, nhưng những người biết thì thề. Tên lấy từ Antaeus — khổng lồ bất tử trong thần thoại Hy Lạp, con của Poseidon. So với Égoïste — cùng Chanel cổ điển — thì Antaeus nặng hơn, nhiều da hơn, ít gỗ hồng hơn. So với Polo Green (Ralph Lauren) — cùng era — thì Antaeus tối hơn, ít xanh hơn. Bám 6-8 giờ.\n\n### Nên dùng khi nào?\n\nMùa đông, buổi tối, khi muốn cảm giác AUY QUYỀN. Xịt 2-3 nhát cổ — tỏa mạnh nên không cần nhiều. Hà Nội tháng 12 khoác áo dạ, Antaeus lúc đó perfect. Sài Gòn thì khó dùng vì quá nặng cho khí hậu. Chai dành cho người đã mệt với mainstream.",
   "verdict": "Powerhouse 1981 — da, rêu sồi, castoreum. Chanel bị lãng quên. Cho người mệt mainstream, thích old school.",
   "verdictShort": "DA RÊU POWERHOUSE, 1981, CHANEL BÍ ẨN",
-  "score": { "scent": 8.5, "uniqueness": 9.5, "compliments": 6.5, "value": 8.0, "total": 8.1 },
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 9.5,
+    "compliments": 6.5,
+    "value": 8,
+    "total": 8.1
+  },
   "vibes": [
-    { "label": "Powerhouse", "icon": "💪" },
-    { "label": "Old school", "icon": "🏛️" },
-    { "label": "Mùa đông", "icon": "❄️" }
+    {
+      "label": "Powerhouse",
+      "icon": "💪"
+    },
+    {
+      "label": "Old school",
+      "icon": "🏛️"
+    },
+    {
+      "label": "Mùa đông",
+      "icon": "❄️"
+    }
   ],
   "longevity": 7,
   "sillage": 7,
-  "seasons": { "spring": 28, "summer": 5, "fall": 75, "winter": 88 },
-  "dayNight": { "day": 22, "night": 82 },
-  "topNotes": [{ "name": "Xô thơm" }, { "name": "Rau mùi" }, { "name": "Cam bergamot" }, { "name": "Chanh" }],
-  "middleNotes": [{ "name": "Hoa hồng" }, { "name": "Thyme" }, { "name": "Húng quế" }, { "name": "Hoa nhài" }],
-  "baseNotes": [{ "name": "Castoreum" }, { "name": "Rêu sồi" }, { "name": "Hoắc hương" }, { "name": "Labdanum" }],
+  "seasons": {
+    "spring": 28,
+    "summer": 5,
+    "fall": 75,
+    "winter": 88
+  },
+  "dayNight": {
+    "day": 22,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Xô thơm"
+    },
+    {
+      "name": "Rau mùi"
+    },
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Chanh"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Thyme"
+    },
+    {
+      "name": "Húng quế"
+    },
+    {
+      "name": "Hoa nhài"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Castoreum"
+    },
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Labdanum"
+    }
+  ],
   "accords": [
-    { "name": "Gỗ", "value": 100, "color": "#8B4513" },
-    { "name": "Thơm thảo mộc", "value": 78, "color": "#2c7a4b" },
-    { "name": "Da thuộc", "value": 68, "color": "#795548" },
-    { "name": "Rêu", "value": 55, "color": "#556b2f" },
-    { "name": "Khói", "value": 42, "color": "#7f8c8d" }
+    {
+      "name": "Gỗ",
+      "value": 100,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Thơm thảo mộc",
+      "value": 78,
+      "color": "#2c7a4b"
+    },
+    {
+      "name": "Da thuộc",
+      "value": 68,
+      "color": "#795548"
+    },
+    {
+      "name": "Rêu",
+      "value": 55,
+      "color": "#556b2f"
+    },
+    {
+      "name": "Khói",
+      "value": 42,
+      "color": "#7f8c8d"
+    }
   ],
   "seoTitle": "Chanel Antaeus chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Chanel Antaeus chính hãng: mùi da rêu sồi powerhouse 1981, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Nam", "Powerhouse", "Old school", "Mùa đông"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Nam",
+    "Powerhouse",
+    "Old school",
+    "Mùa đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 2500000,
   "shopeeOffers": [],
   "isPublished": true

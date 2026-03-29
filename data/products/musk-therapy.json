@@ -6,30 +6,120 @@
   "subName": "Eau de Parfum",
   "perfumer": "Alberto Morillas",
   "gender": "unisex",
+  "year": 2021,
   "image": "/images/products/initio-musk-therapy-main.jpg",
-  "images": [{ "url": "/images/products/initio-musk-therapy-main.jpg", "source": "fragram", "caption": "Initio Musk Therapy chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/initio-musk-therapy-main.jpg",
+      "source": "fragram",
+      "caption": "Initio Musk Therapy chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai unisex xạ hương-cam-gỗ kiểu trị liệu — cam bergamot, nghệ tây, xạ hương, hổ phách, gỗ đàn hương, hoắc hương và vani. Xạ hương ấm, chữa lành và rất skin scent.",
   "article": "### Ai không nên mua?\n\nNếu bạn muốn mùi tỏa xa — Musk Therapy GẦN DA. Alberto Morillas (CK One, Acqua di Gio Profumo) tạo chai này kiểu liệu pháp xạ hương: ấm, mượt, trùm lên da rồi ngồi yên. Initio gọi đây là nước hoa \"chữa lành\" — và đúng vậy: nó relax, không aggressive. Ai thích mùi mạnh sẽ thấy nó quá nhẹ.\n\n### Có đáng tiền không?\n\nGiá Initio — top niche đắt. Nhưng DNA xạ hương ở đây KHÁC HAI: so với xạ hương trắng generic (kiểu Si Armani), Musk Therapy complex hơn — có nghệ tây, hoắc hương, vani tạo chiều sâu. So với Musc Ravageur — cùng musk niche — thì Musk Therapy nhẹ hơn nhiều, ít animalic hơn, therapeutic hơn. Bám 8-9 giờ (gần da).\n\n### Nên dùng khi nào?\n\nMọi lúc — đi làm, cuối tuần, ngủ, hoặc khi cần bình yên. Xịt 3-4 nhát cả cổ và ngực, gần da. Dùng quanh năm. Chai comfort niche đắt nhưng xứng.",
   "verdict": "Xạ hương trị liệu — Morillas therapeutic. Initio chữa lành. Gần da, ấm, không aggressive. Comfort niche.",
   "verdictShort": "XẠ HƯƠNG TRỊ LIỆU, MORILLAS, COMFORT",
-  "score": { "scent": 8.5, "uniqueness": 8.5, "compliments": 7.0, "value": 7.0, "total": 7.8 },
-  "vibes": [{ "label": "Trị liệu", "icon": "🧘" }, { "label": "Comfort", "icon": "🤗" }, { "label": "Skin scent", "icon": "💧" }],
-  "longevity": 9, "sillage": 4,
-  "seasons": { "spring": 72, "summer": 52, "fall": 72, "winter": 72 },
-  "dayNight": { "day": 72, "night": 62 },
-  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Nghệ tây" }],
-  "middleNotes": [{ "name": "Xạ hương" }],
-  "baseNotes": [{ "name": "Hổ phách" }, { "name": "Gỗ đàn hương" }, { "name": "Hoắc hương" }, { "name": "Vani" }],
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.5,
+    "compliments": 7,
+    "value": 7,
+    "total": 7.8
+  },
+  "vibes": [
+    {
+      "label": "Trị liệu",
+      "icon": "🧘"
+    },
+    {
+      "label": "Comfort",
+      "icon": "🤗"
+    },
+    {
+      "label": "Skin scent",
+      "icon": "💧"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 4,
+  "seasons": {
+    "spring": 72,
+    "summer": 52,
+    "fall": 72,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 72,
+    "night": 62
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Nghệ tây"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hoắc hương"
+    },
+    {
+      "name": "Vani"
+    }
+  ],
   "accords": [
-    { "name": "Xạ hương", "value": 100, "color": "#bdc3c7" },
-    { "name": "Gỗ", "value": 62, "color": "#8B4513" },
-    { "name": "Hổ phách", "value": 55, "color": "#d4a017" },
-    { "name": "Gia vị ấm", "value": 42, "color": "#e67e22" },
-    { "name": "Vani", "value": 38, "color": "#F5DEB3" }
+    {
+      "name": "Xạ hương",
+      "value": 100,
+      "color": "#bdc3c7"
+    },
+    {
+      "name": "Gỗ",
+      "value": 62,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 55,
+      "color": "#d4a017"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 42,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Vani",
+      "value": 38,
+      "color": "#F5DEB3"
+    }
   ],
   "seoTitle": "Initio Musk Therapy chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Initio Musk Therapy chính hãng: mùi xạ hương trị liệu comfort niche, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Unisex", "Trị liệu", "Comfort", "Niche"],
-  "sizes": ["10ml Chiết", "90ml Fullbox"],
-  "basePrice": 5500000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Unisex",
+    "Trị liệu",
+    "Comfort",
+    "Niche"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "90ml Fullbox"
+  ],
+  "basePrice": 5500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

@@ -6,6 +6,7 @@
   "subName": "Eau de Parfum",
   "perfumer": "Olivier Gillotin",
   "gender": "unisex",
+  "year": 2007,
   "image": "/images/products/tom-ford-tobacco-vanille-main.jpg",
   "images": [
     {
@@ -19,30 +20,113 @@
   "article": "### Ai không nên mua?\n\nNếu bạn dị ứng với mùi thuốc lá — dù chỉ liên tưởng — thì Tobacco Vanille sẽ là cực hình. Mùi thuốc lá ở đây không phải mùi tàn thuốc trong gạt tàn, mà là mùi lá thuốc thượng hạng để trong hộp gỗ ở phòng cigar — nhưng vẫn là thuốc lá. Ngoài ra, chai này NGỌT không kém mùi nữ — vani và cacao đậm đến mức nhiều người nói \"mùi nước hoa con gái\". Nếu bạn muốn mùi nam tính truyền thống thẳng thừng, Tobacco Vanille sẽ gây hoang mang.\n\n### Có đáng tiền không?\n\nTom Ford Private Blend — một trong những dòng đắt nhất trên thị trường. Nhưng Tobacco Vanille có thứ không chai nào khác làm được ở tầm giá lẫn trên tầm giá: kết hợp thuốc lá và vani sao cho SANG thay vì dùng chỉ một trong hai. So với PdM Herod — cùng nhóm thuốc lá — thì TV ngọt hơn và không smoky. So với Xerjoff Naxos — cùng nhóm gourmand đắt — thì TV ít lavender hơn nhưng nhiều thuốc lá hơn. Bám 10+ giờ, tỏa mạnh 2-3 giờ đầu. Chai fullbox mỗi lần chỉ xịt 1-2 nhát nên dùng rất lâu.\n\n### Nên dùng khi nào?\n\nMùa đông, trời rét, buổi tối. Đi bar upscale, sự kiện Giáng sinh, hoặc ở nhà cuối tuần đọc sách. Xịt 1-2 nhát sau cổ — DUY NHẤT. Xịt nhiều hơn sẽ ngộp. Trời Hà Nội tháng 12 khoác peacoat ra phố — Tobacco Vanille lúc đó là kiệt tác. Ở Sài Gòn thì chỉ nên dùng khi ngồi trong phòng điều hòa hoặc đêm hiếm hoi dưới 25°C.",
   "verdict": "Thuốc lá-vani kiệt tác — Tom Ford đỉnh nhất. Đắt nhưng 1 nhát = cả ngày. Chỉ dùng mùa đông.",
   "verdictShort": "THUỐC LÁ VANI, ĐỈNH CAO, MÙA ĐÔNG",
-  "score": { "scent": 9.8, "uniqueness": 9.5, "compliments": 8.5, "value": 6.5, "total": 8.6 },
+  "score": {
+    "scent": 9.8,
+    "uniqueness": 9.5,
+    "compliments": 8.5,
+    "value": 6.5,
+    "total": 8.6
+  },
   "vibes": [
-    { "label": "Đỉnh cao", "icon": "🏆" },
-    { "label": "Mùa đông", "icon": "❄️" },
-    { "label": "Sang trọng", "icon": "💎" }
+    {
+      "label": "Đỉnh cao",
+      "icon": "🏆"
+    },
+    {
+      "label": "Mùa đông",
+      "icon": "❄️"
+    },
+    {
+      "label": "Sang trọng",
+      "icon": "💎"
+    }
   ],
   "longevity": 10,
   "sillage": 9,
-  "seasons": { "spring": 18, "summer": 2, "fall": 72, "winter": 98 },
-  "dayNight": { "day": 8, "night": 95 },
-  "topNotes": [{ "name": "Lá thuốc lá" }, { "name": "Gia vị" }, { "name": "Gừng" }],
-  "middleNotes": [{ "name": "Vani" }, { "name": "Cacao" }, { "name": "Đậu Tonka" }, { "name": "Hoa thuốc lá" }],
-  "baseNotes": [{ "name": "Trái cây khô" }, { "name": "Gỗ" }],
+  "seasons": {
+    "spring": 18,
+    "summer": 2,
+    "fall": 72,
+    "winter": 98
+  },
+  "dayNight": {
+    "day": 8,
+    "night": 95
+  },
+  "topNotes": [
+    {
+      "name": "Lá thuốc lá"
+    },
+    {
+      "name": "Gia vị"
+    },
+    {
+      "name": "Gừng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Vani"
+    },
+    {
+      "name": "Cacao"
+    },
+    {
+      "name": "Đậu Tonka"
+    },
+    {
+      "name": "Hoa thuốc lá"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Trái cây khô"
+    },
+    {
+      "name": "Gỗ"
+    }
+  ],
   "accords": [
-    { "name": "Gia vị ấm", "value": 100, "color": "#e67e22" },
-    { "name": "Vani", "value": 85, "color": "#F5DEB3" },
-    { "name": "Ngọt", "value": 72, "color": "#8B0000" },
-    { "name": "Thuốc lá", "value": 68, "color": "#5d4037" },
-    { "name": "Gourmand", "value": 55, "color": "#d4a373" }
+    {
+      "name": "Gia vị ấm",
+      "value": 100,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Vani",
+      "value": 85,
+      "color": "#F5DEB3"
+    },
+    {
+      "name": "Ngọt",
+      "value": 72,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Thuốc lá",
+      "value": 68,
+      "color": "#5d4037"
+    },
+    {
+      "name": "Gourmand",
+      "value": 55,
+      "color": "#d4a373"
+    }
   ],
   "seoTitle": "Tom Ford Tobacco Vanille chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Tom Ford Tobacco Vanille chính hãng: mùi thuốc lá vani kiệt tác, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-  "tags": ["Unisex", "Niche", "Đỉnh cao", "Mùa đông"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Đỉnh cao",
+    "Mùa đông"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
   "basePrice": 7200000,
   "shopeeOffers": [],
   "isPublished": true

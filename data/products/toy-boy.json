@@ -1,24 +1,125 @@
 {
-  "id": "toy-boy", "brandSlug": "moschino", "brand": "MOSCHINO", "name": "Toy Boy", "subName": "Eau de Parfum",
-  "perfumer": "Alberto Morillas", "gender": "nam",
+  "id": "toy-boy",
+  "brandSlug": "moschino",
+  "brand": "MOSCHINO",
+  "name": "Toy Boy",
+  "subName": "Eau de Parfum",
+  "perfumer": "Alberto Morillas",
+  "gender": "nam",
+  "year": 2019,
   "image": "/images/products/moschino-toy-boy-main.jpg",
-  "images": [{ "url": "/images/products/moschino-toy-boy-main.jpg", "source": "fragram", "caption": "Moschino Toy Boy EDP chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/moschino-toy-boy-main.jpg",
+      "source": "fragram",
+      "caption": "Moschino Toy Boy EDP chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nam hồng-nhũ hương-gỗ kiểu gấu teddy hồng — hoa hồng, tiêu hồng, nhựa elemi, nhũ hương, gỗ đàn hương, hổ phách, cashmeran và hoắc hương. Hoa hồng nam lạ, vui và unique.",
   "article": "### Ai không nên mua?\n\nNếu bạn sợ hoa hồng trên nam — Toy Boy LÀ HOA HỒNG NAM. Chai hình gấu teddy hồng — và mùi cũng hồng: rose + frankincense + woods. Alberto Morillas (CK One, AdG) tạo ra chai hoa hồng nam UNIQUE vì kết hợp nhũ hương churchy + gỗ ấm. \"Toy Boy\" = trai trẻ — fun, không nghiêm túc.\n\n### Có đáng tiền không?\n\nGiá Moschino — CỰC RẺ. Rẻ nhất list cho một chai nam EDP có cá tính rõ. So với MFK À La Rose — cùng hồng nam — thì Toy Boy rẻ hơn 5 lần mà hồng-nhũ hương combo rất tốt. So với Dior Homme — cùng floral nam — thì Toy Boy nhiều hồng hơn, ít iris hơn. Bám 7-8 giờ.\n\n### Nên dùng khi nào?\n\nĐi chơi, hẹn hò, party, hoặc khi muốn fun + unique. Xịt 3 nhát cổ. Quanh năm — hồng tươi mùa hè, nhũ hương ấm mùa đông. Chai để phá lệ.",
   "verdict": "Gấu teddy hồng — hoa hồng nam unique. Morillas. CỰC RẺ mà cá tính. À La Rose 5 lần rẻ hơn.",
   "verdictShort": "HỒNG NAM, GẤU TEDDY, CỰC RẺ",
-  "score": { "scent": 8.0, "uniqueness": 9.0, "compliments": 8.0, "value": 9.5, "total": 8.6 },
-  "vibes": [{ "label": "Fun", "icon": "🧸" }, { "label": "Unique", "icon": "🌹" }, { "label": "Giá rẻ", "icon": "💸" }],
-  "longevity": 8, "sillage": 6,
-  "seasons": { "spring": 72, "summer": 52, "fall": 72, "winter": 62 },
-  "dayNight": { "day": 62, "night": 62 },
-  "topNotes": [{ "name": "Hoa hồng" }, { "name": "Tiêu hồng" }, { "name": "Nhựa elemi" }],
-  "middleNotes": [{ "name": "Nhũ hương" }],
-  "baseNotes": [{ "name": "Gỗ đàn hương" }, { "name": "Hổ phách" }, { "name": "Cashmeran" }, { "name": "Hoắc hương" }],
-  "accords": [{ "name": "Hoa hồng", "value": 100, "color": "#e91e63" }, { "name": "Nhựa", "value": 72, "color": "#5d4037" }, { "name": "Gỗ", "value": 55, "color": "#8B4513" }, { "name": "Gia vị ấm", "value": 42, "color": "#e67e22" }],
+  "score": {
+    "scent": 8,
+    "uniqueness": 9,
+    "compliments": 8,
+    "value": 9.5,
+    "total": 8.6
+  },
+  "vibes": [
+    {
+      "label": "Fun",
+      "icon": "🧸"
+    },
+    {
+      "label": "Unique",
+      "icon": "🌹"
+    },
+    {
+      "label": "Giá rẻ",
+      "icon": "💸"
+    }
+  ],
+  "longevity": 8,
+  "sillage": 6,
+  "seasons": {
+    "spring": 72,
+    "summer": 52,
+    "fall": 72,
+    "winter": 62
+  },
+  "dayNight": {
+    "day": 62,
+    "night": 62
+  },
+  "topNotes": [
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Tiêu hồng"
+    },
+    {
+      "name": "Nhựa elemi"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Nhũ hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Cashmeran"
+    },
+    {
+      "name": "Hoắc hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoa hồng",
+      "value": 100,
+      "color": "#e91e63"
+    },
+    {
+      "name": "Nhựa",
+      "value": 72,
+      "color": "#5d4037"
+    },
+    {
+      "name": "Gỗ",
+      "value": 55,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 42,
+      "color": "#e67e22"
+    }
+  ],
   "seoTitle": "Moschino Toy Boy EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Moschino Toy Boy EDP chính hãng: hoa hồng nam unique gấu teddy hồng cực rẻ, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nam", "Unique", "Fun", "Giá rẻ"],
-  "sizes": ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
-  "basePrice": 800000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nam",
+    "Unique",
+    "Fun",
+    "Giá rẻ"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "30ml Fullbox",
+    "50ml Fullbox",
+    "100ml Fullbox"
+  ],
+  "basePrice": 800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

@@ -6,30 +6,127 @@
   "subName": "Eau de Parfum",
   "perfumer": "Jacques Guerlain",
   "gender": "nu",
+  "year": 1919,
   "image": "/images/products/guerlain-mitsouko-edp-main.jpg",
-  "images": [{ "url": "/images/products/guerlain-mitsouko-edp-main.jpg", "source": "fragram", "caption": "Guerlain Mitsouko EDP chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/guerlain-mitsouko-edp-main.jpg",
+      "source": "fragram",
+      "caption": "Guerlain Mitsouko EDP chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai nữ đào-rêu sồi-gỗ kiểu chypre kiệt tác 1919 — cam bergamot, đào, nhài, hồng, rêu sồi, gỗ đàn hương, cỏ hương bài, gia vị và labdanum. Chypre, phức tạp và vượt thời gian.",
   "article": "### Ai không nên mua?\n\nNếu bạn chưa bao giờ ngửi chypre — thì Mitsouko sẽ khó hiểu lần đầu. Jacques Guerlain tạo chai này năm 1919, lấy cảm hứng từ tiểu thuyết \"La Bataille\" — câu chuyện tình của cô gái Nhật Bản tên Mitsouko. Chypre = bergamot + rêu sồi + labdanum — kiểu mùi mà phải ngửi 3 lần mới thấy đẹp. Ai muốn sweet-easy sẽ không hiểu.\n\n### Có đáng tiền không?\n\nGiá Guerlain — và đây là TOP 3 kiệt tác Guerlain (cùng Shalimar và L'Heure Bleue). Nốt đào (peach) ở giữa tạo sự mềm mại trên nền rêu sồi khô — artistry mà 100 năm sau vẫn không ai replicate. So với No.19 Chanel — cùng chypre — thì Mitsouko nhiều đào hơn, ít xanh hơn. Bám 8-10 giờ.\n\n### Nên dùng khi nào?\n\nSự kiện trang trọng, opera, triển lãm nghệ thuật. Xịt 2 nhát cổ. Thu đông — Hà Nội tháng 10-3. Sài Gòn tối phòng điều hòa. Chai cho ai coi nước hoa là nghệ thuật.",
   "verdict": "Chypre kiệt tác 1919 — Jacques Guerlain. TOP 3 Guerlain. Đào + rêu sồi 100 năm không ai copy.",
   "verdictShort": "CHYPRE KIỆT TÁC, 1919, KHÔNG AI COPY",
-  "score": { "scent": 9.5, "uniqueness": 10.0, "compliments": 6.0, "value": 8.0, "total": 8.4 },
-  "vibes": [{ "label": "Kiệt tác", "icon": "🏛️" }, { "label": "Nghệ thuật", "icon": "🎨" }, { "label": "100 năm", "icon": "👑" }],
-  "longevity": 9, "sillage": 6,
-  "seasons": { "spring": 52, "summer": 22, "fall": 82, "winter": 72 },
-  "dayNight": { "day": 42, "night": 72 },
-  "topNotes": [{ "name": "Cam bergamot" }, { "name": "Đào" }],
-  "middleNotes": [{ "name": "Hoa nhài" }, { "name": "Hoa hồng" }, { "name": "Gia vị" }],
-  "baseNotes": [{ "name": "Rêu sồi" }, { "name": "Gỗ đàn hương" }, { "name": "Cỏ hương bài" }, { "name": "Labdanum" }],
+  "score": {
+    "scent": 9.5,
+    "uniqueness": 10,
+    "compliments": 6,
+    "value": 8,
+    "total": 8.4
+  },
+  "vibes": [
+    {
+      "label": "Kiệt tác",
+      "icon": "🏛️"
+    },
+    {
+      "label": "Nghệ thuật",
+      "icon": "🎨"
+    },
+    {
+      "label": "100 năm",
+      "icon": "👑"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 6,
+  "seasons": {
+    "spring": 52,
+    "summer": 22,
+    "fall": 82,
+    "winter": 72
+  },
+  "dayNight": {
+    "day": 42,
+    "night": 72
+  },
+  "topNotes": [
+    {
+      "name": "Cam bergamot"
+    },
+    {
+      "name": "Đào"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoa nhài"
+    },
+    {
+      "name": "Hoa hồng"
+    },
+    {
+      "name": "Gia vị"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Rêu sồi"
+    },
+    {
+      "name": "Gỗ đàn hương"
+    },
+    {
+      "name": "Cỏ hương bài"
+    },
+    {
+      "name": "Labdanum"
+    }
+  ],
   "accords": [
-    { "name": "Chypre", "value": 100, "color": "#556b2f" },
-    { "name": "Gỗ", "value": 72, "color": "#8B4513" },
-    { "name": "Trái cây", "value": 55, "color": "#f39c12" },
-    { "name": "Phấn", "value": 42, "color": "#d7bde2" },
-    { "name": "Hoa", "value": 38, "color": "#e91e63" }
+    {
+      "name": "Chypre",
+      "value": 100,
+      "color": "#556b2f"
+    },
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Trái cây",
+      "value": 55,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Phấn",
+      "value": 42,
+      "color": "#d7bde2"
+    },
+    {
+      "name": "Hoa",
+      "value": 38,
+      "color": "#e91e63"
+    }
   ],
   "seoTitle": "Guerlain Mitsouko EDP chính hãng mua ở đâu? Review 2026",
   "metaDescription": "Đánh giá Guerlain Mitsouko EDP chính hãng: mùi chypre kiệt tác 1919 vượt thời gian, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Nữ", "Kiệt tác", "Chypre", "Nghệ thuật"],
-  "sizes": ["10ml Chiết", "50ml Fullbox", "75ml Fullbox"],
-  "basePrice": 2800000, "shopeeOffers": [], "isPublished": true
+  "tags": [
+    "Nữ",
+    "Kiệt tác",
+    "Chypre",
+    "Nghệ thuật"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "50ml Fullbox",
+    "75ml Fullbox"
+  ],
+  "basePrice": 2800000,
+  "shopeeOffers": [],
+  "isPublished": true
 }

@@ -1,18 +1,121 @@
 {
-  "id": "tuxedo", "brandSlug": "ysl", "brand": "YSL", "name": "Tuxedo", "subName": "Eau de Parfum (Le Vestiaire des Parfums)",
-  "perfumer": "Juliette Karagueuzoglou", "gender": "unisex",
+  "id": "tuxedo",
+  "brandSlug": "ysl",
+  "brand": "YSL",
+  "name": "Tuxedo",
+  "subName": "Eau de Parfum (Le Vestiaire des Parfums)",
+  "perfumer": "Juliette Karagueuzoglou",
+  "gender": "unisex",
+  "year": 2015,
   "image": "/images/products/ysl-tuxedo-main.jpg",
-  "images": [{ "url": "/images/products/ysl-tuxedo-main.jpg", "source": "fragram", "caption": "YSL Tuxedo Le Vestiaire chính hãng", "verified": true }],
+  "images": [
+    {
+      "url": "/images/products/ysl-tuxedo-main.jpg",
+      "source": "fragram",
+      "caption": "YSL Tuxedo Le Vestiaire chính hãng",
+      "verified": true
+    }
+  ],
   "description": "Chai unisex hoắc hương-gia vị-hổ phách kiểu Le Smoking — tiêu đen, tiêu hồng, hoắc hương, gỗ tuyết tùng, hổ phách, benzoin và xạ hương. Hoắc hương gia vị, tối và YSL niche.",
   "article": "### Ai không nên mua?\n\nNếu bạn thấy hoắc hương boring — Tuxedo TOÀN HOẮC HƯƠNG. Lấy tên từ \"Le Smoking\" — bộ tuxedo cho nữ mà Yves Saint Laurent cách mạng hóa thời trang 1966. Mùi = hoắc hương + tiêu đen trên nền hổ phách. Đen, sharp, không fancy. Ai muốn hoa hay ngọt sẽ thất vọng.\n\n### Có đáng tiền không?\n\nGiá YSL Le Vestiaire — đắt hơn line thường (niche tier). So với Tom Ford White Patchouli — cùng hoắc hương niche — thì Tuxedo tối hơn, ít hoa hơn. So với Coromandel Chanel — cùng hoắc hương — thì Tuxedo ít chocolate, ít ngọt, sharper. Bám 8-9 giờ.\n\n### Nên dùng khi nào?\n\nSự kiện tối, khi mặc suit, gala. Xịt 2 nhát cổ. Thu đông. Chai cho ai biết Le Smoking là gì.",
   "verdict": "Le Smoking trong chai — hoắc hương tiêu đen YSL niche. Tuxedo tối, sharp. CĐ thời trang = revolution.",
   "verdictShort": "HOẮC HƯƠNG LE SMOKING, YSL NICHE, SHARP",
-  "score": { "scent": 8.5, "uniqueness": 8.5, "compliments": 7.5, "value": 7.5, "total": 8.0 },
-  "vibes": [{ "label": "Le Smoking", "icon": "🤵" }, { "label": "Sharp", "icon": "🖤" }, { "label": "Niche", "icon": "💎" }],
-  "longevity": 9, "sillage": 7, "seasons": { "spring": 32, "summer": 8, "fall": 82, "winter": 88 }, "dayNight": { "day": 22, "night": 82 },
-  "topNotes": [{ "name": "Tiêu đen" }, { "name": "Tiêu hồng" }], "middleNotes": [{ "name": "Hoắc hương" }],
-  "baseNotes": [{ "name": "Gỗ tuyết tùng" }, { "name": "Hổ phách" }, { "name": "Benzoin" }, { "name": "Xạ hương" }],
-  "accords": [{ "name": "Hoắc hương", "value": 100, "color": "#556b2f" }, { "name": "Gỗ", "value": 72, "color": "#8B4513" }, { "name": "Gia vị ấm", "value": 62, "color": "#e67e22" }, { "name": "Hổ phách", "value": 48, "color": "#d4a017" }],
-  "seoTitle": "YSL Tuxedo Le Vestiaire chính hãng mua ở đâu? Review 2026", "metaDescription": "Đánh giá YSL Tuxedo chính hãng: hoắc hương Le Smoking niche sharp, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-  "tags": ["Unisex", "Niche", "Le Smoking", "Sharp"], "sizes": ["10ml Chiết", "75ml Fullbox", "125ml Fullbox"], "basePrice": 4500000, "shopeeOffers": [], "isPublished": true
+  "score": {
+    "scent": 8.5,
+    "uniqueness": 8.5,
+    "compliments": 7.5,
+    "value": 7.5,
+    "total": 8
+  },
+  "vibes": [
+    {
+      "label": "Le Smoking",
+      "icon": "🤵"
+    },
+    {
+      "label": "Sharp",
+      "icon": "🖤"
+    },
+    {
+      "label": "Niche",
+      "icon": "💎"
+    }
+  ],
+  "longevity": 9,
+  "sillage": 7,
+  "seasons": {
+    "spring": 32,
+    "summer": 8,
+    "fall": 82,
+    "winter": 88
+  },
+  "dayNight": {
+    "day": 22,
+    "night": 82
+  },
+  "topNotes": [
+    {
+      "name": "Tiêu đen"
+    },
+    {
+      "name": "Tiêu hồng"
+    }
+  ],
+  "middleNotes": [
+    {
+      "name": "Hoắc hương"
+    }
+  ],
+  "baseNotes": [
+    {
+      "name": "Gỗ tuyết tùng"
+    },
+    {
+      "name": "Hổ phách"
+    },
+    {
+      "name": "Benzoin"
+    },
+    {
+      "name": "Xạ hương"
+    }
+  ],
+  "accords": [
+    {
+      "name": "Hoắc hương",
+      "value": 100,
+      "color": "#556b2f"
+    },
+    {
+      "name": "Gỗ",
+      "value": 72,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Gia vị ấm",
+      "value": 62,
+      "color": "#e67e22"
+    },
+    {
+      "name": "Hổ phách",
+      "value": 48,
+      "color": "#d4a017"
+    }
+  ],
+  "seoTitle": "YSL Tuxedo Le Vestiaire chính hãng mua ở đâu? Review 2026",
+  "metaDescription": "Đánh giá YSL Tuxedo chính hãng: hoắc hương Le Smoking niche sharp, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
+  "tags": [
+    "Unisex",
+    "Niche",
+    "Le Smoking",
+    "Sharp"
+  ],
+  "sizes": [
+    "10ml Chiết",
+    "75ml Fullbox",
+    "125ml Fullbox"
+  ],
+  "basePrice": 4500000,
+  "shopeeOffers": [],
+  "isPublished": true
 }
