@@ -10,6 +10,14 @@ import { getProductUrl } from "@/lib/productUrl";
 
 type SeasonLabel = "he" | "thu-dong" | "da-dung";
 type SortOption = "score" | "year-desc" | "year-asc" | "longevity" | "name-asc";
+type LongevityGroup = "under4" | "4to6" | "6to8" | "over8";
+
+const LONGEVITY_GROUPS: { id: LongevityGroup; label: string; emoji: string; minScore: number; maxScore: number }[] = [
+    { id: "under4", label: "Dưới 4 giờ", emoji: "🕐", minScore: 0, maxScore: 4 },
+    { id: "4to6",   label: "4 – 6 giờ",  emoji: "🕓", minScore: 5, maxScore: 6 },
+    { id: "6to8",   label: "6 – 8 giờ",  emoji: "🕖", minScore: 7, maxScore: 7 },
+    { id: "over8",  label: "8 giờ trở lên", emoji: "🕙", minScore: 8, maxScore: 99 },
+];
 
 /* ═══════════════════════════════════════════
    SEASON DERIVE LOGIC
@@ -119,7 +127,7 @@ export default function NhuCauClient({ initialProducts }: { initialProducts: Per
     const [genderFilter, setGenderFilter] = useState<string[]>([]);
     const [brandFilter, setBrandFilter] = useState<string[]>([]);
     const [seasonFilter, setSeasonFilter] = useState<SeasonLabel[]>([]);
-    const [longevityMin, setLongevityMin] = useState(1);
+    const [longevityFilter, setLongevityFilter] = useState<LongevityGroup[]>([]);
     const [noteFilter, setNoteFilter] = useState<string[]>([]);
     const [accordFilter, setAccordFilter] = useState<string[]>([]);
     const [sortBy, setSortBy] = useState<SortOption>("score");
@@ -167,10 +175,24 @@ export default function NhuCauClient({ initialProducts }: { initialProducts: Per
         return map;
     }, [initialProducts]);
 
+    // Longevity group counts
+    const longevityCounts = useMemo(() => {
+        const map: Record<string, number> = {};
+        LONGEVITY_GROUPS.forEach(g => { map[g.id] = 0; });
+        initialProducts.forEach(p => {
+            const score = p.longevity || 0;
+            for (const g of LONGEVITY_GROUPS) {
+                if (score >= g.minScore && score <= g.maxScore) { map[g.id]++; break; }
+            }
+        });
+        return map;
+    }, [initialProducts]);
+
     // Toggles
     const toggleGender = (g: string) => setGenderFilter(prev => prev.includes(g) ? prev.filter(x => x !== g) : [...prev, g]);
     const toggleBrand = (b: string) => setBrandFilter(prev => prev.includes(b) ? prev.filter(x => x !== b) : [...prev, b]);
     const toggleSeason = (s: SeasonLabel) => setSeasonFilter(prev => prev.includes(s) ? prev.filter(x => x !== s) : [...prev, s]);
+    const toggleLongevity = (g: LongevityGroup) => setLongevityFilter(prev => prev.includes(g) ? prev.filter(x => x !== g) : [...prev, g]);
     const toggleNote = (n: string) => setNoteFilter(prev => prev.includes(n) ? prev.filter(x => x !== n) : [...prev, n]);
     const toggleAccord = (a: string) => setAccordFilter(prev => prev.includes(a) ? prev.filter(x => x !== a) : [...prev, a]);
 
@@ -196,7 +218,14 @@ export default function NhuCauClient({ initialProducts }: { initialProducts: Per
                 if (!hasMatch) return false;
             }
             // Longevity
-            if (longevityMin > 1 && (p.longevity || 0) < longevityMin) return false;
+            if (longevityFilter.length > 0) {
+                const score = p.longevity || 0;
+                const matchesGroup = longevityFilter.some(gId => {
+                    const group = LONGEVITY_GROUPS.find(g => g.id === gId);
+                    return group && score >= group.minScore && score <= group.maxScore;
+                });
+                if (!matchesGroup) return false;
+            }
             // Notes
             if (noteFilter.length > 0) {
                 const allNotes = [...p.topNotes, ...p.middleNotes, ...p.baseNotes].map(n => n.name);
@@ -221,17 +250,17 @@ export default function NhuCauClient({ initialProducts }: { initialProducts: Per
             default: filtered = [...filtered].sort((a, b) => b.score.total - a.score.total); break;
         }
         return filtered;
-    }, [initialProducts, searchQuery, genderFilter, brandFilter, seasonFilter, longevityMin, noteFilter, accordFilter, sortBy]);
+    }, [initialProducts, searchQuery, genderFilter, brandFilter, seasonFilter, longevityFilter, noteFilter, accordFilter, sortBy]);
 
     // Reset visible on filter change
-    useEffect(() => { setVisibleCount(30); }, [genderFilter, brandFilter, seasonFilter, longevityMin, noteFilter, accordFilter, sortBy, searchQuery]);
+    useEffect(() => { setVisibleCount(30); }, [genderFilter, brandFilter, seasonFilter, longevityFilter, noteFilter, accordFilter, sortBy, searchQuery]);
 
     const displayedProducts = filteredProducts.slice(0, visibleCount);
-    const activeFilterCount = genderFilter.length + brandFilter.length + seasonFilter.length + (longevityMin > 1 ? 1 : 0) + noteFilter.length + accordFilter.length;
+    const activeFilterCount = genderFilter.length + brandFilter.length + seasonFilter.length + longevityFilter.length + noteFilter.length + accordFilter.length;
 
     const clearAll = useCallback(() => {
         setGenderFilter([]); setBrandFilter([]); setSeasonFilter([]);
-        setLongevityMin(1); setNoteFilter([]); setAccordFilter([]);
+        setLongevityFilter([]); setNoteFilter([]); setAccordFilter([]);
         setSortBy("score"); setSearchQuery(""); setVisibleCount(30);
     }, []);
 
@@ -293,21 +322,14 @@ export default function NhuCauClient({ initialProducts }: { initialProducts: Per
 
             {/* Longevity */}
             <FilterSection title="Độ lưu hương" icon="⏱️" defaultOpen={false}>
-                <div className="nhucau-longevity-slider">
-                    <input
-                        type="range"
-                        min={1}
-                        max={10}
-                        value={longevityMin}
-                        onChange={e => setLongevityMin(Number(e.target.value))}
-                        className="nhucau-range"
-                    />
-                    <div className="nhucau-longevity-labels">
-                        <span>{longevityMin}/10 trở lên</span>
-                        <span className="nhucau-longevity-desc">
-                            {longevityMin >= 8 ? "Rất lâu (8h+)" : longevityMin >= 6 ? "Khá (6-8h)" : "Tất cả"}
-                        </span>
-                    </div>
+                <div className="nhucau-checkbox-list">
+                    {LONGEVITY_GROUPS.map(g => (
+                        <label key={g.id} className="nhucau-checkbox-item">
+                            <input type="checkbox" checked={longevityFilter.includes(g.id)} onChange={() => toggleLongevity(g.id)} className="nhucau-checkbox" />
+                            <span className="nhucau-checkbox-label">{g.emoji} {g.label}</span>
+                            <span className="nhucau-checkbox-count">{longevityCounts[g.id] || 0}</span>
+                        </label>
+                    ))}
                 </div>
             </FilterSection>
 
@@ -455,6 +477,15 @@ export default function NhuCauClient({ initialProducts }: { initialProducts: Per
                                 <button onClick={() => toggleSeason(s)}><X size={12} /></button>
                             </span>
                         ))}
+                        {longevityFilter.map(l => {
+                            const group = LONGEVITY_GROUPS.find(g => g.id === l);
+                            return (
+                                <span key={l} className="nhucau-active-tag">
+                                    {group?.label || l}
+                                    <button onClick={() => toggleLongevity(l)}><X size={12} /></button>
+                                </span>
+                            );
+                        })}
                         {noteFilter.map(n => (
                             <span key={n} className="nhucau-active-tag">
                                 {n}
