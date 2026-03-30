@@ -5498,8 +5498,8 @@ Giá JPG thuộc phân khúc designer cao — rẻ hơn niche nhưng đắt hơn
     perfumer: "Francis Kurkdjian",
     gender: "nam",
     year: 1995,
-    image: "/images/products/jpg-le-male-edt-bottle.jpg",
-    images: [{ url: "/images/products/jpg-le-male-edt-bottle.jpg", source: "fragram", caption: "JPG Le Male Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/jpg-le-male-edt-main.jpg",
+    images: [{ url: "/images/products/jpg-le-male-edt-main.jpg", source: "fragram", caption: "JPG Le Male Eau de Toilette chính hãng", verified: true }],
     description: "Tượng đài nam barbershop — oải hương, bạc hà, quế, vani và đậu Tonka. Ngọt ấm, vui và rất dễ nhớ. Chai kinh điển từ 1995.",
     article: `### Ai không nên mua?
 
@@ -5547,8 +5547,8 @@ Le Male thuộc phân khúc designer tầm trung — rẻ hơn Chanel và Dior. 
     perfumer: "Quentin Bisch",
     gender: "nam",
     year: 2023,
-    image: "/images/products/jpg-le-male-elixir-bottle.jpg",
-    images: [{ url: "/images/products/jpg-le-male-elixir-bottle.jpg", source: "studio", caption: "JPG Le Male Elixir chính hãng", verified: true }],
+    image: "/images/products/jpg-le-male-elixir-main.jpg",
+    images: [{ url: "/images/products/jpg-le-male-elixir-main.jpg", source: "studio", caption: "JPG Le Male Elixir chính hãng", verified: true }],
     description: "Chai nam oải hương-vani-mật ong-thuốc lá kiểu date night mạnh nhất Le Male — oải hương, bạc hà, vani, an tức hương, mật ong, đậu Tonka và thuốc lá. Ngọt, đậm và compliment beast.",
     article: `### Ai không nên mua?
 
