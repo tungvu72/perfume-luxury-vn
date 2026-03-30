@@ -8090,7 +8090,7 @@ Dịp đặc biệt, sự kiện, khi muốn mùi hương QUYỀN LỰC. Dabbing
     image: "/images/products/noir-extreme-main.jpg",
     images: [
       { url: "/images/products/noir-extreme-main.jpg", source: "ebay", caption: "Tom Ford Noir Extreme Eau de Parfum chai và hộp", verified: true },
-      { url: "/images/products/tom-ford-noir-extreme-bottle.jpg", source: "amazon", caption: "Tom Ford Noir Extreme chai", verified: true }
+
     ],
     description: "Chai nam gia vị-hổ phách-vani ấm tối nhất của Tom Ford — bạch đậu khấu, nghệ tây, kulfi, hoa hồng, vani và gỗ. Sang, gợi cảm và rất hợp buổi tối thu đông.",
     article: `### Ai không nên mua?
@@ -9377,7 +9377,7 @@ Giá Montblanc — RẺ NHẤT nhóm designer nữ EDP. So với Versace Bright 
     year: 2015,
     image: "/images/products/viktor-rolf-spicebomb-extreme-main.jpg",
     images: [
-      { url: "/images/products/viktor-rolf-spicebomb-extreme-main.jpg", source: "fragram", caption: "Viktor & Rolf Spicebomb Extreme Eau de Parfum chính hãng", verified: true }
+
     ],
     description: "Chai nam gia vị-lavender-vani nổ nhất Viktor & Rolf — oải hương, carum, tiêu đen, thuốc lá, vani, quế, nghệ tây và bourbon. Cay, ấm, ngọt và rất sexy.",
     article: `### Ai không nên mua?
