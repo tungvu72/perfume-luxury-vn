@@ -228,7 +228,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
                 src={getImageUrl(allImages[activeImage])}
                 alt={`${product.name} - ${activeImage === 0 ? "ảnh chính" : `gallery ${activeImage}`}`}
                 fill priority sizes="(max-width: 1024px) 100vw, 50vw"
-                className="object-contain p-6 transition-transform duration-500 group-hover:scale-[1.03] sm:p-8"
+                className="object-contain p-6 transition-transform duration-500 group-hover:scale-[1.03] sm:p-8 mix-blend-multiply"
               />
               {/* Score Badge Overlay */}
               <div className="absolute top-4 right-4 flex h-[72px] w-[72px] flex-col items-center justify-center rounded-full bg-[#1A1D21] shadow-xl">

@@ -75,7 +75,7 @@ export default function HomeProductTabs({ products }: HomeProductTabsProps) {
                                 alt={product.name}
                                 fill
                                 sizes="(max-width: 768px) 30vw, 180px"
-                                className="object-contain p-4 transition-transform duration-500 group-hover:scale-105"
+                                className="object-contain mix-blend-multiply p-2 transition-transform duration-500 group-hover:scale-105"
                             />
                         </div>
                         {/* Content area */}
