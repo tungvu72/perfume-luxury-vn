@@ -4,6 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { getAllProducts } from "@/sanity/lib/fetchers";
 import { getAllPosts } from "@/sanity/lib/posts";
+import HomeProductTabs from "@/components/HomeProductTabs";
 import { getProductUrl } from "@/lib/productUrl";
 import { Metadata } from "next";
 
@@ -356,83 +357,8 @@ export default async function Home() {
 
       <div className="mx-auto max-w-[1280px] px-4 md:px-8"><hr className="border-t border-[var(--color-border-subtle)]" /></div>
 
-      {/* ══════ BLOCK 4 — CURATED TOP PICKS ══════ */}
-      <section className="mx-auto max-w-[1280px] px-4 md:px-8 py-8 md:py-12">
-        <div className="flex items-end justify-between gap-4 mb-5 md:mb-7">
-          <div>
-            <p className="text-[10px] md:text-[11px] font-bold uppercase tracking-[0.16em] text-[#B8962E]">★ Điểm cao nhất</p>
-            <h2 className="font-serif text-[26px] md:text-[34px] tracking-tight mt-2">Nước hoa nên xem trước</h2>
-            <p className="text-[14px] md:text-[15px] text-[var(--color-text-secondary)] mt-1.5">Các chai dễ dùng, điểm cao và hợp nhiều người Việt.</p>
-          </div>
-          <Link href="/nuoc-hoa-theo-nhu-cau" className="hidden md:inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-[13px] font-bold text-[var(--color-text)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-all flex-shrink-0">
-            Xem toàn bộ
-          </Link>
-        </div>
-
-        {/* Mobile: horizontal scroll */}
-        <div className="flex gap-3 overflow-x-auto pb-2 no-scrollbar md:hidden">
-          {topProducts.slice(0, 6).map((product) => (
-            <Link key={product.id} href={getProductUrl(product)} className="group flex-shrink-0 w-[168px] rounded-[18px] border border-[var(--color-border)] bg-white overflow-hidden transition-all hover:shadow-lg hover:-translate-y-0.5">
-              <div className="relative h-[130px] bg-gradient-to-b from-[#FAF9F7] to-[#EDE8E0]">
-                <Image src={product.image} alt={product.name} fill sizes="168px" className="object-contain p-4 mix-blend-multiply transition-transform group-hover:scale-105" />
-              </div>
-              <div className="p-3">
-                <div className="text-[9px] font-bold uppercase tracking-[0.14em] text-[var(--color-primary)] mb-0.5">{product.brand}</div>
-                <div className="text-[12px] font-bold line-clamp-2 leading-snug mb-2.5">{product.name}</div>
-                <div className="flex items-center justify-between pt-2 border-t border-[var(--color-border-subtle)]">
-                  <span className="font-serif text-[17px] font-bold text-[var(--color-primary)] leading-none">{product.score.total}<span className="text-[10px] font-sans font-normal text-[var(--color-text-muted)]">/10</span></span>
-                  <span className="text-[11px] text-[var(--color-text-muted)] font-medium whitespace-nowrap">{product.basePrice.toLocaleString()}đ</span>
-                </div>
-              </div>
-            </Link>
-          ))}
-        </div>
-
-        {/* Desktop: featured + grid */}
-        <div className="hidden md:grid grid-cols-[1.4fr_1fr_1fr_1fr] gap-4">
-          {/* Featured */}
-          {featuredProduct && (
-            <Link href={getProductUrl(featuredProduct)} className="group rounded-[20px] border border-[var(--color-border)] bg-white overflow-hidden transition-all hover:shadow-xl hover:-translate-y-[3px] hover:border-transparent">
-              <div className="relative h-[240px] bg-gradient-to-b from-[#FAF9F7] to-[#EDE8E0]">
-                <Image src={featuredProduct.image} alt={featuredProduct.name} fill sizes="360px" className="object-contain p-8 mix-blend-multiply transition-transform duration-500 group-hover:scale-105" />
-              </div>
-              <div className="p-5">
-                <div className="text-[10px] font-bold uppercase tracking-[0.14em] text-[var(--color-primary)]">{featuredProduct.brand}</div>
-                <div className="text-[18px] font-bold mt-1.5 mb-1.5 leading-snug">{featuredProduct.name}</div>
-                <p className="text-[13px] text-[var(--color-text-secondary)] leading-[1.6] line-clamp-2">
-                  {(featuredProduct as any).verdictShort || "Mùi mạnh, sang, bám lâu — nổi bật trong mọi phân khúc."}
-                </p>
-                <div className="flex items-center justify-between mt-4 pt-4 border-t border-[var(--color-border-subtle)]">
-                  <span className="font-serif text-[24px] font-bold text-[var(--color-primary)]">{featuredProduct.score.total}<span className="text-[12px] font-sans font-normal text-[var(--color-text-muted)]">/10</span></span>
-                  <span className="text-[14px] font-bold">{featuredProduct.basePrice.toLocaleString()}đ</span>
-                </div>
-              </div>
-            </Link>
-          )}
-          {/* Grid 3 */}
-          {gridProducts.map((product) => (
-            <Link key={product.id} href={getProductUrl(product)} className="group rounded-[20px] border border-[var(--color-border)] bg-white overflow-hidden transition-all hover:shadow-xl hover:-translate-y-[3px] hover:border-transparent">
-              <div className="relative h-[170px] bg-gradient-to-b from-[#FAF9F7] to-[#EDE8E0]">
-                <Image src={product.image} alt={product.name} fill sizes="280px" className="object-contain p-6 mix-blend-multiply transition-transform duration-500 group-hover:scale-105" />
-              </div>
-              <div className="p-4">
-                <div className="text-[10px] font-bold uppercase tracking-[0.12em] text-[var(--color-primary)]">{product.brand}</div>
-                <div className="text-[15px] font-bold mt-1 leading-snug line-clamp-1">{product.name}</div>
-                <div className="flex items-center justify-between mt-3.5 pt-3.5 border-t border-[var(--color-border-subtle)]">
-                  <span className="font-serif text-[20px] font-bold text-[var(--color-primary)]">{product.score.total}<span className="text-[11px] font-sans font-normal text-[var(--color-text-muted)]">/10</span></span>
-                  <span className="text-[13px] font-bold">{product.basePrice.toLocaleString()}đ</span>
-                </div>
-              </div>
-            </Link>
-          ))}
-        </div>
-
-        <div className="mt-4 text-center md:hidden">
-          <Link href="/nuoc-hoa-theo-nhu-cau" className="inline-flex items-center gap-2 rounded-full border border-[var(--color-border)] px-5 py-2.5 text-[12px] font-bold text-[var(--color-text-secondary)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-colors">
-            Xem tất cả nước hoa →
-          </Link>
-        </div>
-      </section>
+      {/* ══════ BLOCK 4 — HOME PRODUCT TABS ══════ */}
+      <HomeProductTabs products={allProducts} />
 
       <div className="mx-auto max-w-[1280px] px-4 md:px-8"><hr className="border-t border-[var(--color-border-subtle)]" /></div>
 
