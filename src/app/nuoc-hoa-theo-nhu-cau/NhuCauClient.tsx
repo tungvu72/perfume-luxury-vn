@@ -11,7 +11,6 @@ import { getProductUrl } from "@/lib/productUrl";
 type SeasonLabel = "he" | "thu-dong" | "da-dung";
 type SortOption = "score" | "year-desc" | "year-asc" | "longevity" | "name-asc";
 type LongevityGroup = "under4" | "4to6" | "6to8" | "over8";
-type BottleScale = "default" | "boost" | "boost-strong" | "boost-tall";
 
 const LONGEVITY_GROUPS: { id: LongevityGroup; label: string; emoji: string; minScore: number; maxScore: number }[] = [
     { id: "under4", label: "Dưới 4 giờ", emoji: "🕐", minScore: 0, maxScore: 4 },
@@ -39,51 +38,6 @@ function getSeasonLabels(seasons?: { spring: number; summer: number; fall: numbe
         if (isWinter) labels.push("thu-dong");
     }
     return labels;
-}
-
-function getBottleScale(product: Perfume): BottleScale {
-    const image = (product.image || "").toLowerCase();
-    const name = `${product.brand} ${product.name} ${product.subName || ""}`.toLowerCase();
-
-    const strongBoostKeywords = [
-        "aventus",
-        "9pm",
-        "profondo",
-        "signature",
-        "explorer",
-        "ombre nomade",
-        "pure musc",
-        "prada luna rossa black",
-    ];
-
-    const tallBoostKeywords = [
-        "erba pura",
-        "naxos",
-        "torino21",
-        "bianco latte",
-        "layton",
-        "sedley",
-    ];
-
-    if (strongBoostKeywords.some((keyword) => name.includes(keyword) || image.includes(keyword.replace(/\s+/g, "-")))) {
-        return "boost-strong";
-    }
-
-    if (tallBoostKeywords.some((keyword) => name.includes(keyword) || image.includes(keyword.replace(/\s+/g, "-")))) {
-        return "boost-tall";
-    }
-
-    if (
-        name.includes("ganymede") ||
-        name.includes("khamrah") ||
-        name.includes("althair") ||
-        name.includes("angel") ||
-        name.includes("alien")
-    ) {
-        return "boost";
-    }
-
-    return "default";
 }
 
 /* ═══════════════════════════════════════════
@@ -552,10 +506,7 @@ export default function NhuCauClient({ initialProducts }: { initialProducts: Per
 
                 {/* ═══ PRODUCT GRID ═══ */}
                 <div className="nhucau-grid">
-                    {displayedProducts.map(product => {
-                        const bottleScale = getBottleScale(product);
-
-                        return (
+                    {displayedProducts.map(product => (
                         <Link
                             key={product.id}
                             href={getProductUrl(product)}
@@ -563,7 +514,7 @@ export default function NhuCauClient({ initialProducts }: { initialProducts: Per
                         >
                             {/* Image */}
                             <div className="nhucau-card-img">
-                                <div className={`nhucau-card-bottle-stage nhucau-card-bottle-stage--${bottleScale}`}>
+                                <div className="nhucau-card-bottle-stage">
                                     <Image
                                         src={product.image}
                                         alt={product.name}
@@ -586,8 +537,7 @@ export default function NhuCauClient({ initialProducts }: { initialProducts: Per
                                 </div>
                             </div>
                         </Link>
-                        );
-                    })}
+                    ))}
                 </div>
 
                 {/* Empty state */}
