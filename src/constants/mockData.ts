@@ -1028,9 +1028,9 @@ Mugler giá tầm trung — nhưng Angel Muse discontinued nên thị trường 
     perfumer: "Daniela Andrier",
     gender: "unisex",
     year: 2013,
-    image: "/images/products/guerlain-angelique-noire-main.avif",
+    image: "/images/products/guerlain-angelique-noire-main.jpg",
     images: [
-      { url: "/images/products/guerlain-angelique-noire-main.avif", source: "fragram", caption: "Guerlain Angélique Noire Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/guerlain-angelique-noire-main.jpg", source: "fragram", caption: "Guerlain Angélique Noire Eau de Parfum chính hãng", verified: true }
     ],
     description: "Chai unisex bạch chỉ-vani xanh kiểu haute couture Guerlain — bạch chỉ, lê, tiêu hồng, nhài, carum, vani và gỗ tuyết tùng. Vani xanh, thanh lịch và rất nghệ thuật.",
     article: `### Ai không nên mua?
@@ -2232,9 +2232,9 @@ Giá Guerlain tầm trung — và Champs-Élysées là một trong những chai 
     subName: "Eau de Parfum",
     perfumer: "Olivier Polge",
     gender: "nu",
-    image: "/images/products/chanel-chance-eau-tendre-main.png",
+    image: "/images/products/chanel-chance-eau-tendre-main.jpg",
     images: [
-      { url: "/images/products/chanel-chance-eau-tendre-main.png", source: "fragram", caption: "Chanel Chance Eau Tendre Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/chanel-chance-eau-tendre-main.jpg", source: "fragram", caption: "Chanel Chance Eau Tendre Eau de Parfum chính hãng", verified: true }
     ],
     description: "Chai nữ dịu dàng, trái cây và hoa hồng — rất dễ mến và dùng được quanh năm. Hợp phụ nữ thích sự thanh lịch nhẹ nhàng mà không cần quá sexy.",
     article: `### Ai không nên mua?
