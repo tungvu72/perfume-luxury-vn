@@ -63,8 +63,8 @@ function GalleryRail({
           key={i}
           onClick={() => setActiveImage(i)}
           className={`group relative h-16 w-16 flex-shrink-0 overflow-hidden rounded-xl border-2 transition-all ${activeImage === i
-              ? "border-[var(--color-primary)] shadow-md"
-              : "border-[var(--color-border)] opacity-70 hover:opacity-100"
+            ? "border-[var(--color-primary)] shadow-md"
+            : "border-[var(--color-border)] opacity-70 hover:opacity-100"
             }`}
         >
           <Image src={getImageUrl(img)} alt={`Thumb ${i + 1}`} fill sizes="64px" className="object-cover" />
@@ -202,17 +202,19 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             Nước hoa {product.gender === "nam" ? "nam" : product.gender === "nu" ? "nữ" : "unisex"}
           </Link>
           <span className="mx-2 select-none text-gray-400">{">"}</span>
-          <Link href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="text-gray-700 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
+          <span className="text-gray-500 font-medium">
             {product.brand}
-          </Link>
-          <span className="mx-2 select-none text-gray-400">{">"}</span>
-          <span className="text-gray-500 font-medium whitespace-nowrap overflow-hidden text-ellipsis max-w-[200px] md:max-w-none">
-            {product.name}
           </span>
         </nav>
 
-        <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold text-gray-900 leading-tight">
-          Nước Hoa {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'} {product.brand} {product.name}
+        <h1 className="flex flex-col mt-4">
+          <span className="text-sm font-sans tracking-[0.16em] uppercase text-[var(--color-primary)] font-bold mb-2">
+            Nước Hoa {product.brand} {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'}
+            <span className="sr-only"> - </span>
+          </span>
+          <span className="text-3xl sm:text-4xl lg:text-[44px] font-serif leading-tight text-gray-900 dark:text-white">
+            {product.name}
+          </span>
         </h1>
       </div>
 
@@ -318,8 +320,8 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             <button
               onClick={() => add(product)}
               className={`inline-flex items-center justify-center gap-2 rounded-full px-5 py-3.5 text-sm font-bold transition ${isComparing
-                  ? "border border-[var(--color-primary)] bg-[var(--color-primary)] text-white"
-                  : "border border-[var(--color-border)] bg-white text-[var(--color-text-secondary)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]"
+                ? "border border-[var(--color-primary)] bg-[var(--color-primary)] text-white"
+                : "border border-[var(--color-border)] bg-white text-[var(--color-text-secondary)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]"
                 }`}
             >
               <Scale size={18} /> {isComparing ? "Đã thêm so sánh" : "So sánh"}

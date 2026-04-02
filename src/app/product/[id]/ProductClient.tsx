@@ -152,19 +152,18 @@ function ProductHero({
             Nước hoa {product.gender === 'nam' ? 'nam' : product.gender === 'nu' ? 'nữ' : 'unisex'}
           </Link>
           <span className="text-gray-400 mx-2 select-none">&gt;</span>
-          <Link
-            href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\\s+/g, "-")}`}
-            className="text-gray-700 hover:text-primary hover:underline transition-colors duration-200 whitespace-nowrap"
-          >
-            {product.brand}
-          </Link>
-          <span className="text-gray-400 mx-2 select-none">&gt;</span>
           <span className="text-gray-500 font-medium whitespace-nowrap">
-            {product.name}
+            {product.brand}
           </span>
         </nav>
-        <h1 className="mt-2 mb-4 text-2xl md:text-3xl lg:text-4xl font-bold text-gray-900 dark:text-white leading-tight">
-          Nước Hoa {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'} {product.brand.toUpperCase()} {product.name}
+        <h1 className="flex flex-col mt-4 mb-4">
+          <span className="text-sm font-sans tracking-[0.16em] uppercase text-primary font-bold mb-2">
+            Nước Hoa {product.brand} {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'}
+            <span className="sr-only"> - </span>
+          </span>
+          <span className="text-3xl sm:text-4xl lg:text-[44px] font-serif leading-tight text-gray-900 dark:text-white">
+            {product.name}
+          </span>
         </h1>
       </div>
       <section className="grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1.05fr)_minmax(420px,0.95fr)] lg:gap-12">
