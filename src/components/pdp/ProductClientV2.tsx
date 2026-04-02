@@ -191,36 +191,37 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
       )}
 
       {/* ═══════ HERO SECTION ═══════ */}
-      {/* BREADCRUMB & H1 (Desktop + Mobile unified) */}
-      <div className="mb-6 lg:mb-8 w-full border-b border-[var(--color-border)] pb-4 lg:pb-6">
-        <nav aria-label="Breadcrumb" className="flex flex-wrap items-center text-[13px] md:text-sm mb-4 lg:mb-5">
-          <Link href="/" className="flex items-center gap-1.5 text-gray-500 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
-            <Home size={14} className="text-gray-400" /> Trang chủ
-          </Link>
-          <span className="mx-2 select-none text-gray-300">{">"}</span>
-          <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="text-gray-500 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
-            Nước hoa {product.gender === "nam" ? "nam" : product.gender === "nu" ? "nữ" : "unisex"}
-          </Link>
-          <span className="mx-2 select-none text-gray-300">{">"}</span>
-          <span className="text-gray-900 font-medium">
-            {product.brand}
-          </span>
-        </nav>
+      <section className="grid grid-cols-1 gap-y-6 lg:grid-cols-[minmax(0,1fr)_minmax(380px,0.9fr)] lg:gap-x-12 lg:gap-y-0 items-start mt-4 lg:mt-6">
 
-        <h1 className="flex flex-col">
-          <span className="text-[11px] font-sans tracking-[0.22em] uppercase text-[var(--color-primary)] font-bold mb-2">
-            Nước Hoa &bull; {product.brand} &bull; {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'}
-            <span className="sr-only"> - </span>
-          </span>
-          <span className="text-3xl sm:text-4xl lg:text-[44px] font-serif leading-[1.1] text-[var(--color-text)]">
-            {product.name}
-          </span>
-        </h1>
-      </div>
+        {/* DOM 1: TITLE & BREADCRUMB (Mobile: Top, Desktop: Right Col, Top) */}
+        <div className="lg:col-start-2 lg:row-start-1 w-full border-b border-[var(--color-border)] pb-4 lg:pb-6 mb-2 lg:mb-4">
+          <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-x-2 gap-y-1 text-[13px] md:text-sm mb-4 lg:mb-5">
+            <Link href="/" className="inline-flex items-center gap-1.5 text-gray-500 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
+              <Home size={14} className="text-gray-400 mb-[1px]" /> Trang chủ
+            </Link>
+            <span className="select-none text-gray-300">/</span>
+            <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="text-gray-500 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
+              Nước hoa {product.gender === "nam" ? "nam" : product.gender === "nu" ? "nữ" : "unisex"}
+            </Link>
+            <span className="select-none text-gray-300">/</span>
+            <span className="text-gray-900 font-medium">
+              {product.brand}
+            </span>
+          </nav>
 
-      <section className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(380px,0.9fr)] lg:gap-12">
-        {/* LEFT: Product Image — gradient bg + score badge overlay */}
-        <div className="h-fit lg:sticky lg:top-24">
+          <h1 className="flex flex-col">
+            <span className="text-[11px] font-sans tracking-[0.22em] uppercase text-[var(--color-primary)] font-bold mb-2.5">
+              Nước Hoa &bull; {product.brand} &bull; {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'}
+              <span className="sr-only"> - </span>
+            </span>
+            <span className="text-[34px] sm:text-[44px] lg:text-[48px] font-serif leading-[1.05] text-[var(--color-text)] tracking-tight">
+              {product.name}
+            </span>
+          </h1>
+        </div>
+
+        {/* DOM 2: IMAGE (Mobile: Mid, Desktop: Left Col, spanning 2 rows) */}
+        <div className="lg:col-start-1 lg:row-start-1 lg:row-span-2 h-fit lg:sticky lg:top-24">
           <div
             className="rounded-[var(--radius-xl)] border border-[var(--color-border)] overflow-hidden shadow-[var(--shadow-sm)]"
             style={{ background: "linear-gradient(145deg, #FAF9F7 0%, #EDE8E0 100%)" }}
@@ -258,10 +259,10 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
           </div>
         </div>
 
-        {/* RIGHT: Product Info */}
-        <div className="flex flex-col">
+        {/* DOM 3: PRODUCT INFO (Mobile: Bottom, Desktop: Right Col, Bottom) */}
+        <div className="lg:col-start-2 lg:row-start-2 flex flex-col">
           {/* Desktop Share Button */}
-          <div className="flex justify-end mb-3">
+          <div className="flex justify-start mb-3">
             <ShareButton />
           </div>
 

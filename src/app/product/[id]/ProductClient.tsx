@@ -139,35 +139,40 @@ function ProductHero({
 
   return (
     <>
-      <div className="py-3 md:py-4 px-4 md:px-0">
-        <nav className="flex flex-wrap items-center text-[13px] md:text-sm">
-          <Link href="/" className="flex items-center gap-1.5 text-gray-500 hover:text-primary hover:underline transition-colors duration-200">
-            <Home size={14} className="text-gray-400" /> Trang chủ
-          </Link>
-          <span className="text-gray-300 mx-2 select-none">&gt;</span>
-          <Link
-            href={`/${product.gender === 'nam' ? 'nam-gioi' : product.gender === 'nu' ? 'nu-gioi' : 'unisex'}`}
-            className="text-gray-500 hover:text-primary hover:underline transition-colors duration-200 whitespace-nowrap"
-          >
-            Nước hoa {product.gender === 'nam' ? 'nam' : product.gender === 'nu' ? 'nữ' : 'unisex'}
-          </Link>
-          <span className="text-gray-300 mx-2 select-none">&gt;</span>
-          <span className="text-gray-900 font-medium whitespace-nowrap">
-            {product.brand}
-          </span>
-        </nav>
-        <h1 className="flex flex-col mt-4 mb-4">
-          <span className="text-[11px] font-sans tracking-[0.22em] uppercase text-primary font-bold mb-2">
-            Nước Hoa &bull; {product.brand} &bull; {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'}
-            <span className="sr-only"> - </span>
-          </span>
-          <span className="text-3xl sm:text-4xl lg:text-[44px] font-serif leading-[1.1] text-gray-900 dark:text-white">
-            {product.name}
-          </span>
-        </h1>
-      </div>
-      <section className="grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1.05fr)_minmax(420px,0.95fr)] lg:gap-12">
-        <div className="h-fit lg:sticky lg:top-24">
+      <section className="grid grid-cols-1 gap-y-6 lg:grid-cols-[minmax(0,1.05fr)_minmax(420px,0.95fr)] lg:gap-x-12 lg:gap-y-0 items-start mt-4 lg:mt-6">
+
+        {/* DOM 1: TITLE & BREADCRUMB (Mobile: Top, Desktop: Right Col, Top) */}
+        <div className="lg:col-start-2 lg:row-start-1 w-full border-b border-[var(--border)] pb-4 lg:pb-6 mb-2 lg:mb-4">
+          <nav className="flex flex-wrap items-center gap-x-2 gap-y-1 text-[13px] md:text-sm mb-4 lg:mb-5">
+            <Link href="/" className="inline-flex items-center gap-1.5 text-gray-500 hover:text-primary hover:underline transition-colors duration-200">
+              <Home size={14} className="text-gray-400 mb-[1px]" /> Trang chủ
+            </Link>
+            <span className="text-gray-300 select-none">/</span>
+            <Link
+              href={`/${product.gender === 'nam' ? 'nam-gioi' : product.gender === 'nu' ? 'nu-gioi' : 'unisex'}`}
+              className="text-gray-500 hover:text-primary hover:underline transition-colors duration-200 whitespace-nowrap"
+            >
+              Nước hoa {product.gender === 'nam' ? 'nam' : product.gender === 'nu' ? 'nữ' : 'unisex'}
+            </Link>
+            <span className="text-gray-300 select-none">/</span>
+            <span className="text-gray-900 font-medium whitespace-nowrap">
+              {product.brand}
+            </span>
+          </nav>
+
+          <h1 className="flex flex-col">
+            <span className="text-[11px] font-sans tracking-[0.22em] uppercase text-primary font-bold mb-2.5">
+              Nước Hoa &bull; {product.brand} &bull; {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'}
+              <span className="sr-only"> - </span>
+            </span>
+            <span className="text-[34px] sm:text-[44px] lg:text-[48px] font-serif leading-[1.05] text-gray-900 dark:text-white tracking-tight">
+              {product.name}
+            </span>
+          </h1>
+        </div>
+
+        {/* DOM 2: IMAGE (Mobile: Mid, Desktop: Left Col, spanning 2 rows) */}
+        <div className="lg:col-start-1 lg:row-start-1 lg:row-span-2 h-fit lg:sticky lg:top-24">
           <div className="rounded-[24px] border border-[var(--border)] bg-[#faf8f6] p-2.5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:rounded-[28px] sm:p-4">
             <div
               className="group relative aspect-[4/5] cursor-zoom-in overflow-hidden rounded-[24px] bg-white"
@@ -214,7 +219,8 @@ function ProductHero({
           </div>
         </div>
 
-        <div className="flex flex-col">
+        {/* DOM 3: PRODUCT INFO (Mobile: Bottom, Desktop: Right Col, Bottom) */}
+        <div className="lg:col-start-2 lg:row-start-2 flex flex-col">
           <div className="flex flex-wrap items-start justify-between gap-3">
             <div>
               {product.subName && <p className="text-base text-gray-500 sm:text-lg mb-3">{product.subName}</p>}
