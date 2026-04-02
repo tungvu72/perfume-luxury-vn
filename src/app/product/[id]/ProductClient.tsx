@@ -140,28 +140,28 @@ function ProductHero({
   return (
     <>
       <div className="py-3 md:py-4 px-4 md:px-0">
-        <nav className="flex flex-wrap items-center text-sm md:text-base">
-          <Link href="/" className="flex items-center gap-1 text-gray-700 hover:text-primary hover:underline transition-colors duration-200">
-            <Home size={16} className="text-gray-700" /> Trang chủ
+        <nav className="flex flex-wrap items-center text-[13px] md:text-sm">
+          <Link href="/" className="flex items-center gap-1.5 text-gray-500 hover:text-primary hover:underline transition-colors duration-200">
+            <Home size={14} className="text-gray-400" /> Trang chủ
           </Link>
-          <span className="text-gray-400 mx-2 select-none">&gt;</span>
+          <span className="text-gray-300 mx-2 select-none">&gt;</span>
           <Link
             href={`/${product.gender === 'nam' ? 'nam-gioi' : product.gender === 'nu' ? 'nu-gioi' : 'unisex'}`}
-            className="text-gray-700 hover:text-primary hover:underline transition-colors duration-200 whitespace-nowrap"
+            className="text-gray-500 hover:text-primary hover:underline transition-colors duration-200 whitespace-nowrap"
           >
             Nước hoa {product.gender === 'nam' ? 'nam' : product.gender === 'nu' ? 'nữ' : 'unisex'}
           </Link>
-          <span className="text-gray-400 mx-2 select-none">&gt;</span>
-          <span className="text-gray-500 font-medium whitespace-nowrap">
+          <span className="text-gray-300 mx-2 select-none">&gt;</span>
+          <span className="text-gray-900 font-medium whitespace-nowrap">
             {product.brand}
           </span>
         </nav>
         <h1 className="flex flex-col mt-4 mb-4">
-          <span className="text-sm font-sans tracking-[0.16em] uppercase text-primary font-bold mb-2">
-            Nước Hoa {product.brand} {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'}
+          <span className="text-[11px] font-sans tracking-[0.22em] uppercase text-primary font-bold mb-2">
+            Nước Hoa &bull; {product.brand} &bull; {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'}
             <span className="sr-only"> - </span>
           </span>
-          <span className="text-3xl sm:text-4xl lg:text-[44px] font-serif leading-tight text-gray-900 dark:text-white">
+          <span className="text-3xl sm:text-4xl lg:text-[44px] font-serif leading-[1.1] text-gray-900 dark:text-white">
             {product.name}
           </span>
         </h1>
