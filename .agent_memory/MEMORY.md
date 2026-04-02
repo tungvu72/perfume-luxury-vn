@@ -1,5 +1,5 @@
 # MEMORY.md — Bộ Não Chính của Antigravity Agent
-*Cập nhật: 2026-03-06 13:55 ICT*
+*Cập nhật: 2026-03-31 23:10 ICT*
 
 ---
 
@@ -156,17 +156,14 @@ Commit `137881e` đã xóa toàn bộ team agent files cũ:
 
 ---
 
-## 📋 TASKS STATUS (2026-03-05)
+## 📋 TASKS STATUS (2026-03-31)
 | Task | Status | Ghi chú |
 |------|--------|---------|
+| Phase A: Image Intake Script | ✅ Done | Hoàn thiện `refine_intake_final.js`, phân loại 80 folders (Xanh/Vàng/Cam/Đỏ), fix font Mathematical, fix ysl/flankers FP. |
+| AI Infra: CLIProxy & Coder Bot | ✅ Done | Bỏ OpenClaw daemon, dùng Standalone `bot.js` + CLIProxy `config.yaml` map `gpt-4.5-preview`. Nạp System Prompt siêu quyền lực. |
+| Phase B: Track 1 (Attach Images) | ⏳ Pending | Coder Bot cần viết `attach_images_track1.js` (chỉ áp dụng cho bucket Xanh/Green). Cần copy file vào /public/images/ và tiêm vào mockData.ts. |
 | D1-D6 articles | ✅ LIVE | Tất cả published |
 | 8 sản phẩm (1/brand) | ✅ LIVE | Via mockData fallback |
 | Homepage V3 | ✅ LIVE | News section, category icons |
-| mockData Tom Ford fix | ✅ Done | Restored via git checkout + đã có dấu tiếng Việt |
-| OpenClaw 2 bots setup | ✅ Done | Configs trong D:\anti\openclaw\ |
-| Telegram bots created | ✅ Done | Coder + Marketer |
-| Telegram bot test | ⏳ Pending | Mày cần nhắn /start cho 2 bot |
-| Telegram group | ⏳ Pending | Chưa tạo group Maison HQ |
 | Sanity write token | ❌ Chưa làm | Cần để import data vào Sanity |
-| Newsletter backend | ❌ Chưa làm | |
-| Thêm brands (Versace, Hermes...) | ❌ Pending | Chưa có task |
+| Thêm brands (Versace, Hermes...) | ⏳ Đang làm | Nằm trong nhóm Đỏ của đợt Intake này (Track 2) |

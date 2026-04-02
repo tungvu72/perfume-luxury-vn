@@ -194,23 +194,33 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
 
       {/* ═══════ HERO SECTION ═══════ */}
       {/* Mobile-only: Product name + brand ABOVE image */}
-      <div className="lg:hidden mb-4">
-        <div className="flex items-center gap-2 text-[11px] font-bold uppercase tracking-[0.16em]">
-          <span className="text-[var(--color-text-muted)]">{product.gender === "nam" ? "Nước Hoa Nam" : product.gender === "nu" ? "Nước Hoa Nữ" : "Nước Hoa Unisex"}</span>
-          <span className="text-[var(--color-text-muted)]">•</span>
-          <Link
-            href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`}
-            className="text-[var(--color-primary)] hover:underline"
-          >
+      <div className="lg:hidden mb-5">
+        <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-1.5 text-[10px] font-bold uppercase tracking-[0.12em] mb-3">
+          <Link href="/" className="text-[var(--color-text-muted)] hover:text-[var(--color-primary)] transition-colors">Trang chủ</Link>
+          <span className="text-[var(--color-border)]">/</span>
+          <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="text-[var(--color-text-muted)] hover:text-[var(--color-primary)] transition-colors">
+            {product.gender === "nam" ? "Nước Hoa Nam" : product.gender === "nu" ? "Nước Hoa Nữ" : "Unisex"}
+          </Link>
+          <span className="text-[var(--color-border)]">/</span>
+          <Link href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="text-[var(--color-primary)] hover:underline truncate max-w-[120px]">
             {product.brand}
           </Link>
-        </div>
-        <h1 className="mt-2 text-[28px] font-serif leading-tight tracking-tight text-[var(--color-text)]">
-          {product.name}
+        </nav>
+        
+        <h1 className="mt-2">
+          {/* SR-Only full SEO title for mobile-first indexing */}
+          <span className="sr-only">
+            Nước Hoa {product.brand} {product.name} {product.gender === "nam" ? "cho Nam" : product.gender === "nu" ? "cho Nữ" : "Unisex"} {product.subName}
+          </span>
+          <span className="block text-[28px] font-serif leading-tight tracking-tight text-[var(--color-text)]" aria-hidden="true">
+            {product.name}
+          </span>
+          {product.subName && (
+            <span className="block mt-1.5 text-sm font-medium text-[var(--color-text-muted)]" aria-hidden="true">
+              {product.subName}
+            </span>
+          )}
         </h1>
-        {product.subName && (
-          <p className="mt-0.5 text-sm text-[var(--color-text-muted)]">{product.subName}</p>
-        )}
       </div>
 
       <section className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(380px,0.9fr)] lg:gap-12">
@@ -235,10 +245,13 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
                 <span className="text-[22px] font-bold leading-none text-white">{product.score.total}</span>
                 <span className="text-[9px] font-bold uppercase tracking-wider text-white/60 mt-0.5">/ 10</span>
               </div>
-              {/* Image source badge */}
-              <div className="absolute top-4 left-4">
-                <span className="rounded-full bg-black/50 px-3 py-1.5 text-[10px] font-bold uppercase tracking-wider text-white backdrop-blur-sm">
-                  {activeImage === 0 ? "Ảnh chính" : SOURCE_LABELS[getImageSource(allImages[activeImage]) || ""] || "Gallery"}
+              {/* Trust badges overlaid on image */}
+              <div className="absolute top-4 left-4 flex flex-col gap-2">
+                <span className="w-fit rounded-full bg-[#1A1D21]/80 px-3 py-1.5 text-[10px] font-bold uppercase tracking-wider text-white backdrop-blur-sm border border-white/10 shadow-sm">
+                  ✓ Chính Hãng 100%
+                </span>
+                <span className="w-fit rounded-full bg-black/40 px-3 py-1.5 text-[10px] font-bold uppercase tracking-wider text-white/90 backdrop-blur-sm">
+                  {activeImage === 0 ? "Ảnh thực tế" : SOURCE_LABELS[getImageSource(allImages[activeImage]) || ""] || "Gallery"}
                 </span>
               </div>
               {/* Zoom hint */}
@@ -253,27 +266,37 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
         {/* RIGHT: Product Info */}
         <div className="flex flex-col">
           {/* Category + Brand + Share — hidden on mobile (shown above image) */}
-          <div className="hidden lg:flex items-center justify-between gap-3">
-            <div className="flex items-center gap-2 text-[11px] font-bold uppercase tracking-[0.16em]">
-              <span className="text-[var(--color-text-muted)]">{product.gender === "nam" ? "Nước Hoa Nam" : product.gender === "nu" ? "Nước Hoa Nữ" : "Nước Hoa Unisex"}</span>
-              <span className="text-[var(--color-text-muted)]">•</span>
-              <Link
-                href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`}
-                className="text-[var(--color-primary)] hover:underline"
-              >
+          {/* Desktop Breadcrumb + Share */}
+          <div className="hidden lg:flex items-center justify-between gap-3 mb-3">
+            <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-2 text-[11px] font-bold uppercase tracking-[0.16em]">
+              <Link href="/" className="text-[var(--color-text-muted)] hover:text-[var(--color-primary)] transition-colors">Trang chủ</Link>
+              <span className="text-[var(--color-border)]">/</span>
+              <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="text-[var(--color-text-muted)] hover:text-[var(--color-primary)] transition-colors">
+                Nước Hoa {product.gender === "nam" ? "Nam" : product.gender === "nu" ? "Nữ" : "Unisex"}
+              </Link>
+              <span className="text-[var(--color-border)]">/</span>
+              <Link href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="text-[var(--color-primary)] hover:underline">
                 {product.brand}
               </Link>
-            </div>
+            </nav>
             <ShareButton />
           </div>
 
-          {/* Product Name — hidden on mobile (shown above image) */}
-          <div className="hidden lg:block mt-3 text-3xl font-serif leading-tight tracking-tight text-[var(--color-text)] sm:text-4xl lg:text-[44px]">
-            {product.name}
+          {/* Desktop Product Title */}
+          <div className="hidden lg:block mt-3">
+             {/* Visual representation of title on desktop (SEO H1 is handled on mobile block to avoid duplicate H1s, or we can render it here as H2) */}
+             <div className="text-sm font-sans tracking-[0.16em] font-bold uppercase text-[var(--color-primary)] opacity-80 mb-2">
+                 Nước Hoa {product.brand} {product.gender === "nam" ? "Nam" : product.gender === "nu" ? "Nữ" : "Unisex"}
+             </div>
+             <div className="text-3xl font-serif leading-tight tracking-tight text-[var(--color-text)] sm:text-4xl lg:text-[44px]">
+                 {product.name}
+             </div>
+             {product.subName && (
+                 <div className="text-[17px] font-sans font-medium mt-3 text-[var(--color-text-muted)]">
+                     {product.subName}
+                 </div>
+             )}
           </div>
-          {product.subName && (
-            <p className="hidden lg:block mt-1 text-sm text-[var(--color-text-muted)]">{product.subName}</p>
-          )}
 
           {/* Perfumer */}
           {product.perfumer && (

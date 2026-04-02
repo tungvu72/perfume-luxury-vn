@@ -24,6 +24,7 @@ import {
   ZoomIn,
   Camera,
   Sparkles,
+  Home,
 } from "lucide-react";
 import ShareButton from "@/components/ShareButton";
 import { useCompare } from "@/components/CompareSystem";
@@ -137,152 +138,171 @@ function ProductHero({
   const activeSource = activeImage > 0 ? getImageSource(allImages[activeImage]) : undefined;
 
   return (
-    <section className="grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1.05fr)_minmax(420px,0.95fr)] lg:gap-12">
-      <div className="h-fit lg:sticky lg:top-24">
-        <div className="rounded-[24px] border border-[var(--border)] bg-[#faf8f6] p-2.5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:rounded-[28px] sm:p-4">
-          <div
-            className="group relative aspect-[4/5] cursor-zoom-in overflow-hidden rounded-[24px] bg-white"
-            onClick={() => setLightboxOpen(true)}
+    <>
+      <div className="py-3 md:py-4 px-4 md:px-0">
+        <nav className="flex flex-wrap items-center text-sm md:text-base">
+          <Link href="/" className="flex items-center gap-1 text-gray-700 hover:text-primary hover:underline transition-colors duration-200">
+            <Home size={16} className="text-gray-700" /> Trang chủ
+          </Link>
+          <span className="text-gray-400 mx-2 select-none">&gt;</span>
+          <Link
+            href={`/${product.gender === 'nam' ? 'nam-gioi' : product.gender === 'nu' ? 'nu-gioi' : 'unisex'}`}
+            className="text-gray-700 hover:text-primary hover:underline transition-colors duration-200 whitespace-nowrap"
           >
-            <Image
-              src={getImageUrl(allImages[activeImage])}
-              alt={`${product.name} - ${activeImage === 0 ? "ảnh chính" : `gallery ${activeImage}`}`}
-              fill
-              priority
-              sizes="(max-width: 1024px) 100vw, 50vw"
-              className="object-contain p-6 transition-transform duration-500 group-hover:scale-[1.03] sm:p-8"
-            />
-
-            <div className="absolute inset-x-0 top-0 flex items-start justify-between p-3 sm:p-4">
-              <div className="flex flex-wrap gap-2">
-                <span className="rounded-full bg-black/65 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.16em] text-white backdrop-blur-sm">
-                  {activeImage === 0 ? "Ảnh chính" : SOURCE_LABELS[activeSource || "community"] || "Gallery"}
-                </span>
-                {!isImageVerified(allImages[activeImage]) && (
-                  <span className="hidden rounded-full bg-amber-100 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.16em] text-amber-800 sm:inline-block">
-                    Chưa xác minh
-                  </span>
-                )}
-                {allImages.length > 1 && (
-                  <span className="rounded-full bg-white/80 px-3 py-1.5 text-[10px] font-semibold text-gray-700 backdrop-blur-sm">
-                    {activeImage + 1}/{allImages.length}
-                  </span>
-                )}
-              </div>
-              <div className="rounded-full bg-white/80 p-2 text-gray-700 opacity-0 backdrop-blur-sm transition-opacity group-hover:opacity-100">
-                <ZoomIn size={16} />
-              </div>
-            </div>
-
-            {getImageCaption(allImages[activeImage]) && (
-              <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent p-4 pt-10 text-sm text-white/90">
-                {getImageCaption(allImages[activeImage])}
-              </div>
-            )}
-          </div>
-
-          <GalleryRail images={allImages} activeImage={activeImage} setActiveImage={setActiveImage} />
-        </div>
-      </div>
-
-      <div className="flex flex-col">
-        <div className="flex flex-wrap items-center justify-between gap-3">
-          <div className="flex flex-wrap items-center gap-2 text-[11px] font-bold uppercase tracking-[0.18em]">
-            <Link
-              href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`}
-              className="text-primary hover:underline"
-            >
-              {product.brand}
-            </Link>
-            <span className="text-gray-300">•</span>
-            <span className="text-gray-500">{GENDER_LABELS[product.gender]}</span>
-          </div>
-          <ShareButton />
-        </div>
-
-        <div className="mt-4">
-          <h1 className="text-[28px] font-serif leading-[1.08] tracking-[-0.02em] text-gray-950 sm:text-5xl lg:text-[58px]">
+            Nước hoa {product.gender === 'nam' ? 'nam' : product.gender === 'nu' ? 'nữ' : 'unisex'}
+          </Link>
+          <span className="text-gray-400 mx-2 select-none">&gt;</span>
+          <Link
+            href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\\s+/g, "-")}`}
+            className="text-gray-700 hover:text-primary hover:underline transition-colors duration-200 whitespace-nowrap"
+          >
+            {product.brand}
+          </Link>
+          <span className="text-gray-400 mx-2 select-none">&gt;</span>
+          <span className="text-gray-500 font-medium whitespace-nowrap">
             {product.name}
-          </h1>
-          {product.subName && <p className="mt-3 text-base text-gray-500 sm:text-lg">{product.subName}</p>}
-          <div className="mt-4 flex flex-wrap items-center gap-x-3 gap-y-2 text-sm text-gray-500">
-            {product.perfumer && (
-              <span className="inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-white px-3 py-1.5">
-                <Sparkles size={14} className="text-primary" />
-                Tác giả: <strong className="text-gray-800">{product.perfumer}</strong>
-              </span>
-            )}
-            <span className="inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-white px-3 py-1.5">
-              <Camera size={14} className="text-primary" />
-              {allImages.length} ảnh trong gallery
-            </span>
-          </div>
-          <div className="mt-3 flex flex-wrap gap-2">
-            {product.longevity && <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 text-xs font-semibold text-gray-700">Lưu hương {product.longevity}/10</span>}
-            {product.sillage && <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 text-xs font-semibold text-gray-700">Tỏa hương {product.sillage}/10</span>}
-            {product.vibes && product.vibes.length > 0 && product.vibes.slice(0, 3).map((vibe, i) => <span key={i} className="inline-flex items-center gap-1.5 rounded-full bg-[#f7f3ef] px-3 py-1.5 text-xs font-semibold text-gray-700"><span>{vibe.icon}</span><span>{vibe.label}</span></span>)}
-          </div>
-        </div>
-
-        <div className="mt-6 border-t border-[var(--border)] pt-6">
-          <div className="flex items-start gap-4">
-            <div className="flex h-[60px] w-[60px] flex-shrink-0 flex-col items-center justify-center rounded-full border border-primary/20 bg-[#fbf4ee]">
-              <div className={`font-serif text-xl leading-none ${scoreTone(product.score.total)}`}>{product.score.total}</div>
-              <div className="mt-1 text-[8px] font-bold uppercase tracking-[0.15em] text-gray-400">/10</div>
-            </div>
-            <div className="min-w-0">
-              <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Nhận xét nhanh</div>
-              <h2 className="mt-1 text-lg font-semibold leading-snug text-gray-950 sm:text-xl">{product.verdictShort}</h2>
-              <p className="mt-2 text-sm leading-6 text-gray-600">{product.verdict}</p>
-              <p className="mt-2 text-xs text-gray-400">{fitSummary(product)}. {avoidSummary(product)}</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-4">
-          {[
-            { label: "Mùi hương", desc: "Chất mùi tổng thể", val: product.score.scent },
-            { label: "Nét riêng", desc: "Mức độ khác biệt", val: product.score.uniqueness },
-            { label: "Sức hút", desc: "Khả năng gây thiện cảm", val: product.score.compliments },
-            { label: "Đáng tiền", desc: "So với giá bán", val: product.score.value },
-          ].map((s) => (
-            <div key={s.label} className="py-2 text-center">
-              <div className={`font-serif text-2xl ${scoreTone(s.val)}`}>
-                {s.val}<span className="text-sm text-gray-300">/10</span>
-              </div>
-              <div className="mt-1 text-[11px] font-bold uppercase tracking-[0.12em] text-gray-500">{s.label}</div>
-            </div>
-          ))}
-        </div>
-
-        <div className="mt-5 rounded-[24px] border border-[var(--border)] bg-[#fcfbf9] p-4 sm:mt-6 sm:rounded-[28px] sm:p-6">
-          <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
-            <div>
-              <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Giá tham khảo</div>
-              <div className="mt-2 text-3xl font-serif text-gray-950 sm:text-4xl">{priceLabel(product.basePrice)}</div>
-              <p className="mt-2 text-sm leading-6 text-gray-500">Nhắn Zalo để xác nhận size, hàng sẵn và mức giá chính xác theo thời điểm.</p>
-            </div>
-            <div className="flex flex-wrap gap-2">
-              {(product.sizes || []).slice(0, 4).map((size) => (
-                <span key={size} className="rounded-full border border-[var(--border)] bg-white px-3 py-2 text-xs font-semibold text-gray-700">{size}</span>
-              ))}
-            </div>
-          </div>
-
-          <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2">
-            <Link href="https://zalo.me/0961226169" rel="nofollow" target="_blank" className="inline-flex items-center justify-center gap-2 rounded-full bg-[#0068FF] px-6 py-4 text-sm font-bold text-white shadow-lg shadow-blue-100 transition hover:opacity-90">
-              <MessageSquare size={18} /> Tư vấn qua Zalo
-            </Link>
-            <button
-              onClick={onCompare}
-              className={`inline-flex items-center justify-center gap-2 rounded-full px-5 py-4 text-sm font-bold transition ${isComparing ? "border border-primary bg-primary text-white shadow-lg shadow-orange-50" : "border border-[var(--border)] bg-white text-gray-700 hover:border-primary hover:text-primary"}`}
-            >
-              <Scale size={18} /> {isComparing ? "Đã thêm vào so sánh" : "Thêm vào so sánh"}
-            </button>
-          </div>
-        </div>
+          </span>
+        </nav>
+        <h1 className="mt-2 mb-4 text-2xl md:text-3xl lg:text-4xl font-bold text-gray-900 dark:text-white leading-tight">
+          Nước Hoa {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'} {product.brand.toUpperCase()} {product.name}
+        </h1>
       </div>
-    </section>
+      <section className="grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1.05fr)_minmax(420px,0.95fr)] lg:gap-12">
+        <div className="h-fit lg:sticky lg:top-24">
+          <div className="rounded-[24px] border border-[var(--border)] bg-[#faf8f6] p-2.5 shadow-[0_20px_60px_rgba(17,17,17,0.04)] sm:rounded-[28px] sm:p-4">
+            <div
+              className="group relative aspect-[4/5] cursor-zoom-in overflow-hidden rounded-[24px] bg-white"
+              onClick={() => setLightboxOpen(true)}
+            >
+              <Image
+                src={getImageUrl(allImages[activeImage])}
+                alt={`${product.name} - ${activeImage === 0 ? "ảnh chính" : `gallery ${activeImage}`}`}
+                fill
+                priority
+                sizes="(max-width: 1024px) 100vw, 50vw"
+                className="object-contain p-6 transition-transform duration-500 group-hover:scale-[1.03] sm:p-8"
+              />
+
+              <div className="absolute inset-x-0 top-0 flex items-start justify-between p-3 sm:p-4">
+                <div className="flex flex-wrap gap-2">
+                  <span className="rounded-full bg-black/65 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.16em] text-white backdrop-blur-sm">
+                    {activeImage === 0 ? "Ảnh chính" : SOURCE_LABELS[activeSource || "community"] || "Gallery"}
+                  </span>
+                  {!isImageVerified(allImages[activeImage]) && (
+                    <span className="hidden rounded-full bg-amber-100 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.16em] text-amber-800 sm:inline-block">
+                      Chưa xác minh
+                    </span>
+                  )}
+                  {allImages.length > 1 && (
+                    <span className="rounded-full bg-white/80 px-3 py-1.5 text-[10px] font-semibold text-gray-700 backdrop-blur-sm">
+                      {activeImage + 1}/{allImages.length}
+                    </span>
+                  )}
+                </div>
+                <div className="rounded-full bg-white/80 p-2 text-gray-700 opacity-0 backdrop-blur-sm transition-opacity group-hover:opacity-100">
+                  <ZoomIn size={16} />
+                </div>
+              </div>
+
+              {getImageCaption(allImages[activeImage]) && (
+                <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent p-4 pt-10 text-sm text-white/90">
+                  {getImageCaption(allImages[activeImage])}
+                </div>
+              )}
+            </div>
+
+            <GalleryRail images={allImages} activeImage={activeImage} setActiveImage={setActiveImage} />
+          </div>
+        </div>
+
+        <div className="flex flex-col">
+          <div className="flex flex-wrap items-start justify-between gap-3">
+            <div>
+              {product.subName && <p className="text-base text-gray-500 sm:text-lg mb-3">{product.subName}</p>}
+            </div>
+            <ShareButton />
+          </div>
+
+          <div>
+            <div className="mt-4 flex flex-wrap items-center gap-x-3 gap-y-2 text-sm text-gray-500">
+              {product.perfumer && (
+                <span className="inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-white px-3 py-1.5">
+                  <Sparkles size={14} className="text-primary" />
+                  Tác giả: <strong className="text-gray-800">{product.perfumer}</strong>
+                </span>
+              )}
+              <span className="inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-white px-3 py-1.5">
+                <Camera size={14} className="text-primary" />
+                {allImages.length} ảnh trong gallery
+              </span>
+            </div>
+            <div className="mt-3 flex flex-wrap gap-2">
+              {product.longevity && <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 text-xs font-semibold text-gray-700">Lưu hương {product.longevity}/10</span>}
+              {product.sillage && <span className="rounded-full bg-[#f7f3ef] px-3 py-1.5 text-xs font-semibold text-gray-700">Tỏa hương {product.sillage}/10</span>}
+              {product.vibes && product.vibes.length > 0 && product.vibes.slice(0, 3).map((vibe, i) => <span key={i} className="inline-flex items-center gap-1.5 rounded-full bg-[#f7f3ef] px-3 py-1.5 text-xs font-semibold text-gray-700"><span>{vibe.icon}</span><span>{vibe.label}</span></span>)}
+            </div>
+          </div>
+
+          <div className="mt-6 border-t border-[var(--border)] pt-6">
+            <div className="flex items-start gap-4">
+              <div className="flex h-[60px] w-[60px] flex-shrink-0 flex-col items-center justify-center rounded-full border border-primary/20 bg-[#fbf4ee]">
+                <div className={`font-serif text-xl leading-none ${scoreTone(product.score.total)}`}>{product.score.total}</div>
+                <div className="mt-1 text-[8px] font-bold uppercase tracking-[0.15em] text-gray-400">/10</div>
+              </div>
+              <div className="min-w-0">
+                <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Nhận xét nhanh</div>
+                <h2 className="mt-1 text-lg font-semibold leading-snug text-gray-950 sm:text-xl">{product.verdictShort}</h2>
+                <p className="mt-2 text-sm leading-6 text-gray-600">{product.verdict}</p>
+                <p className="mt-2 text-xs text-gray-400">{fitSummary(product)}. {avoidSummary(product)}</p>
+              </div>
+            </div>
+          </div>
+
+          <div className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-4">
+            {[
+              { label: "Mùi hương", desc: "Chất mùi tổng thể", val: product.score.scent },
+              { label: "Nét riêng", desc: "Mức độ khác biệt", val: product.score.uniqueness },
+              { label: "Sức hút", desc: "Khả năng gây thiện cảm", val: product.score.compliments },
+              { label: "Đáng tiền", desc: "So với giá bán", val: product.score.value },
+            ].map((s) => (
+              <div key={s.label} className="py-2 text-center">
+                <div className={`font-serif text-2xl ${scoreTone(s.val)}`}>
+                  {s.val}<span className="text-sm text-gray-300">/10</span>
+                </div>
+                <div className="mt-1 text-[11px] font-bold uppercase tracking-[0.12em] text-gray-500">{s.label}</div>
+              </div>
+            ))}
+          </div>
+
+          <div className="mt-5 rounded-[24px] border border-[var(--border)] bg-[#fcfbf9] p-4 sm:mt-6 sm:rounded-[28px] sm:p-6">
+            <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+              <div>
+                <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-primary">Giá tham khảo</div>
+                <div className="mt-2 text-3xl font-serif text-gray-950 sm:text-4xl">{priceLabel(product.basePrice)}</div>
+                <p className="mt-2 text-sm leading-6 text-gray-500">Nhắn Zalo để xác nhận size, hàng sẵn và mức giá chính xác theo thời điểm.</p>
+              </div>
+              <div className="flex flex-wrap gap-2">
+                {(product.sizes || []).slice(0, 4).map((size) => (
+                  <span key={size} className="rounded-full border border-[var(--border)] bg-white px-3 py-2 text-xs font-semibold text-gray-700">{size}</span>
+                ))}
+              </div>
+            </div>
+
+            <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2">
+              <Link href="https://zalo.me/0961226169" rel="nofollow" target="_blank" className="inline-flex items-center justify-center gap-2 rounded-full bg-[#0068FF] px-6 py-4 text-sm font-bold text-white shadow-lg shadow-blue-100 transition hover:opacity-90">
+                <MessageSquare size={18} /> Tư vấn qua Zalo
+              </Link>
+              <button
+                onClick={onCompare}
+                className={`inline-flex items-center justify-center gap-2 rounded-full px-5 py-4 text-sm font-bold transition ${isComparing ? "border border-primary bg-primary text-white shadow-lg shadow-orange-50" : "border border-[var(--border)] bg-white text-gray-700 hover:border-primary hover:text-primary"}`}
+              >
+                <Scale size={18} /> {isComparing ? "Đã thêm vào so sánh" : "Thêm vào so sánh"}
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+    </>
   );
 }
 

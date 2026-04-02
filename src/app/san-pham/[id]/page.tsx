@@ -76,13 +76,7 @@ export default async function ProductDetailPage({ params }: { params: Promise<{ 
             <ScrollProgress />
             <Header />
             <div className="max-w-[1200px] mx-auto px-5 py-10">
-                <Breadcrumbs
-                    items={[
-                        { label: product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex', href: `/${product.gender === 'nam' ? 'nam-gioi' : product.gender === 'nu' ? 'nu-gioi' : 'unisex'}` },
-                        { label: product.brand, href: `/${product.brandSlug || ''}` },
-                        { label: product.name }
-                    ]}
-                />
+
                 <ProductClient
                     product={product}
                     relatedProducts={
