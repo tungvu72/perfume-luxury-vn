@@ -6,7 +6,7 @@ import Link from "next/link";
 import Image from "next/image";
 import {
   ZoomIn, X, ChevronLeft, ChevronRight, Sparkles,
-  MessageCircle, Scale, Award, ShieldCheck,
+  MessageCircle, Scale, Award, ShieldCheck, Home
 } from "lucide-react";
 import ShareButton from "@/components/ShareButton";
 import { useCompare } from "@/components/CompareSystem";
@@ -62,11 +62,10 @@ function GalleryRail({
         <button
           key={i}
           onClick={() => setActiveImage(i)}
-          className={`group relative h-16 w-16 flex-shrink-0 overflow-hidden rounded-xl border-2 transition-all ${
-            activeImage === i
+          className={`group relative h-16 w-16 flex-shrink-0 overflow-hidden rounded-xl border-2 transition-all ${activeImage === i
               ? "border-[var(--color-primary)] shadow-md"
               : "border-[var(--color-border)] opacity-70 hover:opacity-100"
-          }`}
+            }`}
         >
           <Image src={getImageUrl(img)} alt={`Thumb ${i + 1}`} fill sizes="64px" className="object-cover" />
         </button>
@@ -119,9 +118,8 @@ function Lightbox({
           <button
             key={i}
             onClick={(e) => { e.stopPropagation(); setActiveImage(i); }}
-            className={`relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-md border-2 transition-all ${
-              activeImage === i ? "border-white shadow-lg" : "border-transparent opacity-40 hover:opacity-80"
-            }`}
+            className={`relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-md border-2 transition-all ${activeImage === i ? "border-white shadow-lg" : "border-transparent opacity-40 hover:opacity-80"
+              }`}
           >
             <Image src={getImageUrl(img)} alt={`Thumb ${i + 1}`} fill sizes="48px" className="object-cover" />
           </button>
@@ -193,33 +191,28 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
       )}
 
       {/* ═══════ HERO SECTION ═══════ */}
-      {/* Mobile-only: Product name + brand ABOVE image */}
-      <div className="lg:hidden mb-5">
-        <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-1.5 text-[10px] font-bold uppercase tracking-[0.12em] mb-3">
-          <Link href="/" className="text-[var(--color-text-muted)] hover:text-[var(--color-primary)] transition-colors">Trang chủ</Link>
-          <span className="text-[var(--color-border)]">/</span>
-          <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="text-[var(--color-text-muted)] hover:text-[var(--color-primary)] transition-colors">
-            {product.gender === "nam" ? "Nước Hoa Nam" : product.gender === "nu" ? "Nước Hoa Nữ" : "Unisex"}
+      {/* BREADCRUMB & H1 (Desktop + Mobile unified) */}
+      <div className="mb-6 lg:mb-8 w-full border-b border-[var(--color-border)] pb-4 lg:pb-6">
+        <nav aria-label="Breadcrumb" className="flex flex-wrap items-center text-sm md:text-base mb-3 lg:mb-4">
+          <Link href="/" className="flex items-center gap-1.5 text-gray-700 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
+            <Home size={16} className="text-gray-700" /> Trang chủ
           </Link>
-          <span className="text-[var(--color-border)]">/</span>
-          <Link href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="text-[var(--color-primary)] hover:underline truncate max-w-[120px]">
+          <span className="mx-2 select-none text-gray-400">{">"}</span>
+          <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="text-gray-700 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
+            Nước hoa {product.gender === "nam" ? "nam" : product.gender === "nu" ? "nữ" : "unisex"}
+          </Link>
+          <span className="mx-2 select-none text-gray-400">{">"}</span>
+          <Link href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="text-gray-700 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
             {product.brand}
           </Link>
-        </nav>
-        
-        <h1 className="mt-2">
-          {/* SR-Only full SEO title for mobile-first indexing */}
-          <span className="sr-only">
-            Nước Hoa {product.brand} {product.name} {product.gender === "nam" ? "cho Nam" : product.gender === "nu" ? "cho Nữ" : "Unisex"} {product.subName}
-          </span>
-          <span className="block text-[28px] font-serif leading-tight tracking-tight text-[var(--color-text)]" aria-hidden="true">
+          <span className="mx-2 select-none text-gray-400">{">"}</span>
+          <span className="text-gray-500 font-medium whitespace-nowrap overflow-hidden text-ellipsis max-w-[200px] md:max-w-none">
             {product.name}
           </span>
-          {product.subName && (
-            <span className="block mt-1.5 text-sm font-medium text-[var(--color-text-muted)]" aria-hidden="true">
-              {product.subName}
-            </span>
-          )}
+        </nav>
+
+        <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold text-gray-900 leading-tight">
+          Nước Hoa {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'} {product.brand} {product.name}
         </h1>
       </div>
 
@@ -265,37 +258,9 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
 
         {/* RIGHT: Product Info */}
         <div className="flex flex-col">
-          {/* Category + Brand + Share — hidden on mobile (shown above image) */}
-          {/* Desktop Breadcrumb + Share */}
-          <div className="hidden lg:flex items-center justify-between gap-3 mb-3">
-            <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-2 text-[11px] font-bold uppercase tracking-[0.16em]">
-              <Link href="/" className="text-[var(--color-text-muted)] hover:text-[var(--color-primary)] transition-colors">Trang chủ</Link>
-              <span className="text-[var(--color-border)]">/</span>
-              <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="text-[var(--color-text-muted)] hover:text-[var(--color-primary)] transition-colors">
-                Nước Hoa {product.gender === "nam" ? "Nam" : product.gender === "nu" ? "Nữ" : "Unisex"}
-              </Link>
-              <span className="text-[var(--color-border)]">/</span>
-              <Link href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="text-[var(--color-primary)] hover:underline">
-                {product.brand}
-              </Link>
-            </nav>
+          {/* Desktop Share Button */}
+          <div className="flex justify-end mb-3">
             <ShareButton />
-          </div>
-
-          {/* Desktop Product Title */}
-          <div className="hidden lg:block mt-3">
-             {/* Visual representation of title on desktop (SEO H1 is handled on mobile block to avoid duplicate H1s, or we can render it here as H2) */}
-             <div className="text-sm font-sans tracking-[0.16em] font-bold uppercase text-[var(--color-primary)] opacity-80 mb-2">
-                 Nước Hoa {product.brand} {product.gender === "nam" ? "Nam" : product.gender === "nu" ? "Nữ" : "Unisex"}
-             </div>
-             <div className="text-3xl font-serif leading-tight tracking-tight text-[var(--color-text)] sm:text-4xl lg:text-[44px]">
-                 {product.name}
-             </div>
-             {product.subName && (
-                 <div className="text-[17px] font-sans font-medium mt-3 text-[var(--color-text-muted)]">
-                     {product.subName}
-                 </div>
-             )}
           </div>
 
           {/* Perfumer */}
@@ -352,11 +317,10 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             </a>
             <button
               onClick={() => add(product)}
-              className={`inline-flex items-center justify-center gap-2 rounded-full px-5 py-3.5 text-sm font-bold transition ${
-                isComparing
+              className={`inline-flex items-center justify-center gap-2 rounded-full px-5 py-3.5 text-sm font-bold transition ${isComparing
                   ? "border border-[var(--color-primary)] bg-[var(--color-primary)] text-white"
                   : "border border-[var(--color-border)] bg-white text-[var(--color-text-secondary)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]"
-              }`}
+                }`}
             >
               <Scale size={18} /> {isComparing ? "Đã thêm so sánh" : "So sánh"}
             </button>
