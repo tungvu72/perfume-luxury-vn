@@ -247,7 +247,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
                   ✓ Chính Hãng 100%
                 </span>
                 <span className="w-fit rounded-full bg-black/40 px-3 py-1.5 text-[10px] font-bold uppercase tracking-wider text-white/90 backdrop-blur-sm">
-                  {activeImage === 0 ? "Ảnh thực tế" : SOURCE_LABELS[getImageSource(allImages[activeImage]) || ""] || "Gallery"}
+                  {SOURCE_LABELS[getImageSource(allImages[activeImage]) || "studio"] || "Gallery"}
                 </span>
               </div>
               {/* Zoom hint */}
