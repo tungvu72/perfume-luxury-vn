@@ -324,7 +324,7 @@ const Header = () => {
                                                                 alt={product.name}
                                                                 fill
                                                                 sizes="48px"
-                                                                className="object-cover"
+                                                                className="object-contain p-0.5"
                                                             />
                                                         </div>
                                                         <div className="flex-1 min-w-0">
