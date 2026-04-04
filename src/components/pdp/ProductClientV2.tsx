@@ -28,7 +28,7 @@ function getImageCaption(img: string | GalleryImage): string | undefined {
 
 const SOURCE_LABELS: Record<string, string> = {
   fragram: "Fragram", community: "Community", studio: "Studio",
-  owner: "Chủ shop", maison: "Ảnh thực tế", amazon: "Amazon", ebay: "eBay",
+  owner: "Ảnh thực tế", maison: "Ảnh thực tế", amazon: "Amazon", ebay: "eBay",
 };
 const GENDER_LABELS: Record<Perfume["gender"], string> = {
   nam: "Nam giới", nu: "Nữ giới", unisex: "Unisex",
