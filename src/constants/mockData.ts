@@ -1680,7 +1680,7 @@ Thuộc tầm designer cao cấp, Bleu de Chanel EDP không rẻ nhưng lại l�
     gender: "nam",
     year: 2018,
     image: "/images/products/bleu-de-chanel-parfum-main.jpg",
-    images: [{ url: "/images/products/bleu-de-chanel-parfum-main.jpg", source: "fragram", caption: "Chanel Bleu de Chanel Parfum chính hãng", verified: true }],
+    images: [{ url: "/images/products/bleu-de-chanel-parfum-main.jpg", source: "fragram", caption: "Chanel Bleu de Chanel Parfum chính hãng", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-4.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-5.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
     description: "Phiên bản trưởng thành nhất của Bleu de Chanel — gỗ ấm, mượt và sang hơn bản EDP. Ít fresh hơn nhưng bù lại bằng chiều sâu và sự hoàn thiện cao cấp.",
     article: `### Ai không nên mua?
 
@@ -3279,7 +3279,7 @@ Quanh năm — đi làm, đi học, gặp gỡ, gym, dạo phố. Xịt 2-3 nhá
     gender: "nu",
     year: 2017,
     image: "/images/products/chloe-eau-de-parfum-main.jpg",
-    images: [{ url: "/images/products/chloe-eau-de-parfum-main.jpg", source: "fragram", caption: "Chloé Eau de Parfum chính hãng", verified: true }],
+    images: [{ url: "/images/products/chloe-eau-de-parfum-main.jpg", source: "fragram", caption: "Chloé Eau de Parfum chính hãng", verified: true }, { url: "/images/products/dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-4.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-5.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
     description: "Chai nữ hoa hồng kinh điển — mẫu đơn, vải, hoa hồng và gỗ tuyết tùng. Thanh lịch, nữ tính và rất tinh khôi. Chai signature lý tưởng cho mọi ngày.",
     article: `### Ai không nên mua?
 
@@ -6597,7 +6597,7 @@ Giá tầm trung YSL — tương đương Dior và Chanel. Libre đặc biệt �
     gender: "nu",
     year: 2020,
     image: "/images/products/ysl-libre-intense-main.jpg",
-    images: [{ url: "/images/products/ysl-libre-intense-main.jpg", source: "fragram", caption: "YSL Libre Intense chính hãng", verified: true }],
+    images: [{ url: "/images/products/ysl-libre-intense-main.jpg", source: "fragram", caption: "YSL Libre Intense chính hãng", verified: true }, { url: "/images/products/libre-intense/nuoc-hoa-nu-ysl-libre-intense-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/libre-intense/nuoc-hoa-nu-ysl-libre-intense-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/libre-intense/nuoc-hoa-nu-ysl-libre-intense-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/libre-intense/nuoc-hoa-nu-ysl-libre-intense-thuc-te-4.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/libre-intense/nuoc-hoa-nu-ysl-libre-intense-thuc-te-5.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
     description: "Phiên bản Intense tối nhất Libre — oải hương, cam quýt, hoa cam, nhài, hoa mận, vani, gỗ đàn hương, xạ hương và hổ phách. Libre đậm hơn, tối hơn, sexy hơn.",
     article: `### Ai không nên mua?
 
