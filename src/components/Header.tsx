@@ -23,7 +23,7 @@ const FUSE_DATA = SEARCH_INDEX.map((p: any) => ({
     normBrand: removeVietnameseTones(p.brand),
     normSubName: removeVietnameseTones(p.subName),
     normTags: p.tags ? p.tags.map((t: string) => removeVietnameseTones(t)) : [],
-    normGender: removeVietnameseTones(p.gender === 'nam' ? 'nam giới nước hoa nam' : p.gender === 'nu' ? 'nữ giới nước hoa nữ' : 'unisex nước hoa unisex'),
+    normGender: removeVietnameseTones(p.gender === 'nam' ? 'nam nuoc hoa nam' : p.gender === 'nu' ? 'nu nuoc hoa nu' : 'unisex nuoc hoa unisex'),
     normDesc: removeVietnameseTones(p.description)
 }));
 
@@ -37,6 +37,7 @@ const fuse = new Fuse(FUSE_DATA, {
     ],
     threshold: 0.4,
     ignoreLocation: true,
+    ignoreFieldNorm: true,
     useExtendedSearch: true
 });
 
