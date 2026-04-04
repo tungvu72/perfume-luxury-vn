@@ -3727,7 +3727,7 @@ Thuộc tầm designer trung, Eros EDP là một trong những chai party scent 
     gender: "nam",
     year: 2018,
     image: "/images/products/eros-flame-main.jpg",
-    images: [{ url: "/images/products/eros-flame-main.jpg", source: "fragram", caption: "Versace Eros Flame Eau de Parfum chính hãng", verified: true }],
+    images: [{ url: "/images/products/eros-flame-main.jpg", source: "fragram", caption: "Versace Eros Flame Eau de Parfum chính hãng", verified: true }, { url: "/images/products/eros-flame/nuoc-hoa-nam-versace-eros-flame-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/eros-flame/nuoc-hoa-nam-versace-eros-flame-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/eros-flame/nuoc-hoa-nam-versace-eros-flame-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/eros-flame/nuoc-hoa-nam-versace-eros-flame-thuc-te-4.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/eros-flame/nuoc-hoa-nam-versace-eros-flame-thuc-te-5.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
     description: "Phiên bản ấm của Eros — cam quýt, tiêu Madagascar, hồng, đại hương, vani, đậu Tonka, gỗ đàn hương và hoắc hương. Cay, ấm và rất cuốn hút.",
     article: `### Ai không nên mua?
 
@@ -4175,9 +4175,7 @@ Giá Givenchy — affordable hơn Dior/Chanel. So với Gentleman EDP gốc — 
     gender: "nu",
     year: 2016,
     image: "/images/products/carolina-herrera-good-girl-main.jpg",
-    images: [
-      { url: "/images/products/carolina-herrera-good-girl-main.jpg", source: "fragram", caption: "Carolina Herrera Good Girl Eau de Parfum chính hãng", verified: true }
-    ],
+    images: [{ url: "", source: "fragram", caption: "", verified: true }, { url: "/images/products/good-girl/nuoc-hoa-nu-carolina-herrera-good-girl-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/good-girl/nuoc-hoa-nu-carolina-herrera-good-girl-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/good-girl/nuoc-hoa-nu-carolina-herrera-good-girl-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/good-girl/nuoc-hoa-nu-carolina-herrera-good-girl-thuc-te-4.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
     description: "Chai nữ ngọt sexy nổi tiếng nhất dòng designer — hạnh nhân, cà phê, hoa huệ và cacao. Dễ gây chú ý, rất hợp đi tối và hẹn hò.",
     article: `### Ai không nên mua?
 
@@ -9329,9 +9327,7 @@ Mùa thu đông, buổi tối, hẹn hò, tiệc. Xịt 1-2 nhát — tỏa cự
     gender: "nam",
     year: 2015,
     image: "/images/products/viktor-rolf-spicebomb-extreme-main.jpg",
-    images: [
-
-    ],
+    images: [{ url: "", source: "fragram", caption: "", verified: true }, { url: "/images/products/spicebomb-extreme/nuoc-hoa-nam-viktor-rolf-spicebomb-extreme-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/spicebomb-extreme/nuoc-hoa-nam-viktor-rolf-spicebomb-extreme-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/spicebomb-extreme/nuoc-hoa-nam-viktor-rolf-spicebomb-extreme-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/spicebomb-extreme/nuoc-hoa-nam-viktor-rolf-spicebomb-extreme-thuc-te-4.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/spicebomb-extreme/nuoc-hoa-nam-viktor-rolf-spicebomb-extreme-thuc-te-5.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
     description: "Chai nam gia vị-lavender-vani nổ nhất Viktor & Rolf — oải hương, carum, tiêu đen, thuốc lá, vani, quế, nghệ tây và bourbon. Cay, ấm, ngọt và rất sexy.",
     article: `### Ai không nên mua?
 
@@ -9884,7 +9880,7 @@ Xuân hè, ban ngày, đi làm, thể thao nhẹ, dạo phố. Xịt 3-4 nhát. 
     gender: "nam",
     year: 2019,
     image: "/images/products/moschino-toy-boy-main.jpg",
-    images: [{ url: "/images/products/moschino-toy-boy-main.jpg", source: "fragram", caption: "Moschino Toy Boy EDP chính hãng", verified: true }],
+    images: [{ url: "/images/products/moschino-toy-boy-main.jpg", source: "fragram", caption: "Moschino Toy Boy EDP chính hãng", verified: true }, { url: "/images/products/toy-boy/nuoc-hoa-nam-moschino-toy-boy-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/toy-boy/nuoc-hoa-nam-moschino-toy-boy-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/toy-boy/nuoc-hoa-nam-moschino-toy-boy-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
     description: "Chai nam hồng-nhũ hương-gỗ kiểu gấu teddy hồng — hoa hồng, tiêu hồng, nhựa elemi, nhũ hương, gỗ đàn hương, hổ phách, cashmeran và hoắc hương. Hoa hồng nam lạ, vui và unique.",
     article: `### Ai không nên mua?
 
