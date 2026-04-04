@@ -8,6 +8,7 @@ import Fuse from "fuse.js";
 import { SEARCH_INDEX } from "@/constants/searchIndex";
 import type { SearchProduct } from "@/constants/searchIndex";
 import { getProductUrl } from "@/lib/productUrl";
+import { BLOG_POSTS } from "@/constants/blogData";
 
 const removeVietnameseTones = (str: string) => {
     if (!str) return '';
@@ -54,6 +55,21 @@ const fuse = new Fuse(FUSE_DATA, {
 
 const TRENDING_SEARCHES = ["Sauvage", "Bleu de Chanel", "Aventus", "Baccarat Rouge", "Lost Cherry"];
 
+const TOP_BRANDS = [
+    { name: 'Dior', slug: 'dior' },
+    { name: 'Chanel', slug: 'chanel' },
+    { name: 'YSL', slug: 'ysl' },
+    { name: 'Tom Ford', slug: 'tom-ford' },
+    { name: 'Creed', slug: 'creed' },
+    { name: 'Armani', slug: 'armani' },
+    { name: 'Hermès', slug: 'hermes' },
+    { name: 'MFK', slug: 'maison-francis-kurkdjian' },
+    { name: 'Versace', slug: 'versace' },
+    { name: 'Prada', slug: 'prada' },
+    { name: 'Guerlain', slug: 'guerlain' },
+    { name: 'Nishane', slug: 'nishane' },
+];
+
 const Header = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const [scrolled, setScrolled] = useState(false);
@@ -62,6 +78,8 @@ const Header = () => {
     const [isLoading, setIsLoading] = useState(false);
     const [isSearchFocused, setIsSearchFocused] = useState(false);
     const [selectedIndex, setSelectedIndex] = useState(-1);
+    const [designerResults, setDesignerResults] = useState<typeof TOP_BRANDS>([]);
+    const [articleResults, setArticleResults] = useState<typeof BLOG_POSTS>([]);
     const searchRef = useRef<HTMLDivElement>(null);
     const inputRef = useRef<HTMLInputElement>(null);
 
@@ -85,12 +103,22 @@ const Header = () => {
         const q = removeVietnameseTones(searchQuery.trim());
         if (q.length < 2) {
             setSearchResults([]);
+            setDesignerResults([]);
+            setArticleResults([]);
             return;
         }
 
         const rawResults = fuse.search(q).map(result => result.item);
-        const results = rawResults.filter((p: any) => p.isPublished !== false).slice(0, 8);
+        const results = rawResults.filter((p: any) => p.isPublished !== false).slice(0, 6);
         setSearchResults(results as SearchProduct[]);
+
+        const designers = TOP_BRANDS.filter(b => removeVietnameseTones(b.name).includes(q)).slice(0, 5);
+        setDesignerResults(designers);
+
+        const articles = BLOG_POSTS.filter(b =>
+            removeVietnameseTones(b.title).includes(q) || removeVietnameseTones(b.excerpt).includes(q)
+        ).slice(0, 3);
+        setArticleResults(articles);
     }, [searchQuery]);
 
     // Click outside to close search results
@@ -163,21 +191,6 @@ const Header = () => {
         document.addEventListener('mousedown', handleClick);
         return () => document.removeEventListener('mousedown', handleClick);
     }, []);
-
-    const TOP_BRANDS = [
-        { name: 'Dior', slug: 'dior' },
-        { name: 'Chanel', slug: 'chanel' },
-        { name: 'YSL', slug: 'ysl' },
-        { name: 'Tom Ford', slug: 'tom-ford' },
-        { name: 'Creed', slug: 'creed' },
-        { name: 'Armani', slug: 'armani' },
-        { name: 'Hermès', slug: 'hermes' },
-        { name: 'MFK', slug: 'maison-francis-kurkdjian' },
-        { name: 'Versace', slug: 'versace' },
-        { name: 'Prada', slug: 'prada' },
-        { name: 'Guerlain', slug: 'guerlain' },
-        { name: 'Nishane', slug: 'nishane' },
-    ];
 
     const [isMobileBrandOpen, setIsMobileBrandOpen] = useState(false);
 
@@ -307,62 +320,97 @@ const Header = () => {
 
                             {/* DROPDOWN RESULTS */}
                             {showResults && isSearchFocused && (
-                                <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-2xl z-[100] max-h-[70vh] overflow-y-auto animate-in fade-in slide-in-from-top-1 duration-200">
+                                <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 shadow-2xl z-[100] animate-in fade-in slide-in-from-top-1 duration-200">
                                     {searchQuery.trim().length >= 2 ? (
                                         isLoading ? (
                                             <div className="py-10 text-center flex flex-col items-center gap-3">
                                                 <Loader2 size={24} className="animate-spin text-primary" />
                                                 <span className="text-xs text-gray-400">Đang tìm kiếm...</span>
                                             </div>
-                                        ) : searchResults.length > 0 ? (
-                                            <>
-                                                <div className="px-4 py-2.5 border-b border-gray-100 flex items-center justify-between">
-                                                    <span className="text-[10px] font-bold text-gray-400 uppercase tracking-wider">
-                                                        {searchResults.length} kết quả
-                                                    </span>
-                                                    <span className="text-[10px] text-gray-300">↑↓ để chọn · Enter để mở</span>
+                                        ) : (searchResults.length > 0 || designerResults.length > 0 || articleResults.length > 0) ? (
+                                            <div className="flex flex-col md:grid md:grid-cols-[40%_30%_30%] md:gap-6 max-h-[60vh] overflow-y-auto px-4 py-4 md:p-5">
+                                                {/* PERFUMES */}
+                                                <div className="flex flex-col gap-3 mb-6 md:mb-0">
+                                                    <h3 className="text-[10px] font-bold text-gray-400 uppercase tracking-[0.05em] mb-1">PERFUMES</h3>
+                                                    {searchResults.length === 0 && <div className="text-sm text-gray-500">Không có kết quả</div>}
+                                                    {searchResults.map((product, idx) => (
+                                                        <Link
+                                                            key={`perfume-${product.id}`}
+                                                            href={getProductUrl(product)}
+                                                            onClick={() => { setSearchQuery(""); setIsSearchFocused(false); (document.activeElement as HTMLElement)?.blur(); }}
+                                                            className={`flex items-center gap-3 p-1.5 -mx-1.5 rounded transition-colors ${selectedIndex === idx ? 'bg-primary/5' : 'hover:bg-gray-50'}`}
+                                                        >
+                                                            <div className="w-12 h-12 md:w-10 md:h-10 bg-white border border-gray-100 flex items-center justify-center flex-shrink-0">
+                                                                <img
+                                                                    src={product.image || '/images/placeholder.jpg'}
+                                                                    alt={product.name}
+                                                                    className="w-full h-full object-contain p-0.5"
+                                                                    onError={(e) => { e.currentTarget.src = '/images/placeholder.jpg'; }}
+                                                                />
+                                                            </div>
+                                                            <div className="flex flex-col flex-1 min-w-0">
+                                                                <span className="text-[10px] font-bold text-[#008B8B] tracking-wider uppercase truncate">{product.brand}</span>
+                                                                <span className="text-[13px] font-medium text-gray-800 leading-snug line-clamp-2">{product.name}</span>
+                                                            </div>
+                                                        </Link>
+                                                    ))}
+                                                    {searchResults.length > 0 && (
+                                                        <Link
+                                                            href={`/nuoc-hoa-theo-nhu-cau`}
+                                                            onClick={() => { setIsSearchFocused(false); }}
+                                                            className="flex items-center gap-1.5 mt-2 text-[11px] font-bold text-primary hover:underline"
+                                                        >
+                                                            Tất cả kết quả <ArrowRight size={12} />
+                                                        </Link>
+                                                    )}
                                                 </div>
-                                                {searchResults.map((product, idx) => (
-                                                    <Link
-                                                        key={product.id}
-                                                        href={getProductUrl(product)}
-                                                        onClick={() => { setSearchQuery(""); setIsSearchFocused(false); (document.activeElement as HTMLElement)?.blur(); }}
-                                                        className={`flex items-center gap-4 px-4 py-3 transition-colors border-b border-gray-50 last:border-b-0 ${selectedIndex === idx ? 'bg-primary/5' : 'hover:bg-gray-50'}`}
-                                                    >
-                                                        <div className="w-12 h-12 bg-gray-100 rounded-lg overflow-hidden flex-shrink-0 relative">
-                                                            <Image
-                                                                src={product.image || '/images/placeholder.jpg'}
-                                                                alt={product.name}
-                                                                fill
-                                                                sizes="48px"
-                                                                className="object-contain p-0.5"
-                                                            />
-                                                        </div>
-                                                        <div className="flex-1 min-w-0">
-                                                            <div className="flex items-center gap-2 mb-0.5">
-                                                                <span className="text-[10px] font-bold text-primary tracking-wider uppercase">
-                                                                    {product.brand}
-                                                                </span>
+
+                                                {/* DESIGNERS */}
+                                                <div className="flex flex-col gap-3 mb-6 md:mb-0">
+                                                    <h3 className="text-[10px] font-bold text-gray-400 uppercase tracking-[0.05em] mb-1">DESIGNERS</h3>
+                                                    {designerResults.length === 0 && <div className="text-sm text-gray-500">Không có kết quả</div>}
+                                                    {designerResults.map((brand, idx) => (
+                                                        <Link
+                                                            key={`brand-${brand.slug}`}
+                                                            href={`/thuong-hieu/${brand.slug}`}
+                                                            onClick={() => { setSearchQuery(""); setIsSearchFocused(false); }}
+                                                            className="flex items-center gap-3 p-1.5 -mx-1.5 rounded hover:bg-gray-50 transition-colors"
+                                                        >
+                                                            <div className="w-12 h-12 md:w-10 md:h-10 bg-gray-50 border border-gray-100 flex items-center justify-center flex-shrink-0 text-xl font-serif text-gray-600">
+                                                                {brand.name[0]}
                                                             </div>
-                                                            <div className="text-sm font-semibold truncate text-foreground">
-                                                                {product.name}
+                                                            <span className="text-[13px] font-bold text-gray-800 uppercase">{brand.name}</span>
+                                                        </Link>
+                                                    ))}
+                                                </div>
+
+                                                {/* ARTICLES */}
+                                                <div className="hidden md:flex flex-col gap-3">
+                                                    <h3 className="text-[10px] font-bold text-gray-400 uppercase tracking-[0.05em] mb-1">ARTICLES</h3>
+                                                    {articleResults.length === 0 && <div className="text-sm text-gray-500">Không có kết quả</div>}
+                                                    {articleResults.map((article, idx) => (
+                                                        <Link
+                                                            key={`article-${article.id}`}
+                                                            href={`/kien-thuc`}
+                                                            onClick={() => { setSearchQuery(""); setIsSearchFocused(false); }}
+                                                            className="flex items-center gap-3 p-1.5 -mx-1.5 rounded hover:bg-gray-50 transition-colors"
+                                                        >
+                                                            <div className="w-12 h-12 md:w-10 md:h-10 bg-gray-100 border border-gray-100 flex items-center justify-center flex-shrink-0 overflow-hidden">
+                                                                <img
+                                                                    src={article.img || '/images/placeholder.jpg'}
+                                                                    alt={article.title}
+                                                                    className="w-full h-full object-cover"
+                                                                    onError={(e) => { e.currentTarget.src = '/images/placeholder.jpg'; }}
+                                                                />
                                                             </div>
-                                                        </div>
-                                                        <div className="flex flex-col items-end flex-shrink-0">
-                                                            {product.subName && (
-                                                                <span className="text-[10px] text-gray-400 max-w-[80px] truncate text-right">{product.subName}</span>
-                                                            )}
-                                                        </div>
-                                                    </Link>
-                                                ))}
-                                                <Link
-                                                    href={`/nuoc-hoa-theo-nhu-cau`}
-                                                    onClick={() => { setIsSearchFocused(false); }}
-                                                    className="flex items-center justify-center gap-2 px-4 py-3 text-xs font-semibold text-primary hover:bg-primary/5 transition-colors"
-                                                >
-                                                    Xem tất cả sản phẩm <ArrowRight size={12} />
-                                                </Link>
-                                            </>
+                                                            <div className="flex flex-col flex-1 min-w-0">
+                                                                <span className="text-[10px] font-bold text-[#008B8B] tracking-wider uppercase truncate">{article.category}</span>
+                                                                <span className="text-[13px] font-medium text-gray-800 leading-snug line-clamp-2">{article.title}</span>
+                                                            </div>
+                                                        </Link>
+                                                    ))}
+                                                </div>
+                                            </div>
                                         ) : (
                                             <div className="py-10 text-center">
                                                 <div className="text-3xl mb-3">🔍</div>
