@@ -10409,5 +10409,151 @@ Dùng được quanh năm — đi làm, đi học, đi chơi, hẹn hò nhẹ. X
     basePrice: 2850000,
     shopeeOffers: [],
     isPublished: true
+  },
+  {
+    id: "libre-leau-nue",
+    brandSlug: "ysl",
+    brand: "YVES SAINT LAURENT",
+    name: "Libre L'Eau Nue",
+    subName: "Eau de Toilette",
+    perfumer: "Anne Flipo & Carlos Benaim",
+    gender: "nu",
+    year: 2024,
+    image: "/images/products/ysl-libre-edp-main.jpg",
+    images: [{ url: "/images/products/ysl-libre-edp-main.jpg", source: "owner", caption: "YSL Libre L'Eau Nue chính hãng", verified: true }],
+    description: "Phiên bản nhẹ nhàng nhất của dòng Libre — hoa cam neroli, oải hương, xạ hương trắng. Thoáng mát, sạch sẽ, phù hợp mùa hè.",
+    article: `### Ai không nên mua?
+
+Nếu bạn đã có Libre EDP hoặc Intense và muốn thêm một chai khác biệt thì L'Eau Nue có thể hơi nhạt. Đây là phiên bản EDT nhẹ nhất — ai cần projection mạnh hoặc mùi đậm sẽ thất vọng. Người thích mùi ngọt gourmand cũng nên tránh vì chai này thiên về floral-aquatic sạch sẽ.
+
+### Có đáng tiền không?
+
+Giá YSL EDT — hợp lý cho phân khúc designer. So với Libre EDP gốc, L'Eau Nue nhẹ hơn 50%, ít oải hương hơn, nhiều neroli hơn. Bám 5-6 giờ (EDT standard). Phù hợp người muốn DNA Libre nhưng phiên bản office-safe hơn.
+
+### Nên dùng khi nào?
+
+Văn phòng, ban ngày, mùa hè. Xịt 3 nhát: cổ và cổ tay. Đẹp nhất xuân hè Việt Nam (25-32°C). Chai Libre cho người sợ mùi nặng.`,
+    verdict: "Libre phiên bản nhẹ — neroli-oải hương-xạ hương. Sạch, thoáng, office-safe. Cho ai thích DNA Libre nhưng cần nhẹ hơn.",
+    verdictShort: "LIBRE NHẸ, SẠCH, OFFICE-SAFE",
+    score: { scent: 7.8, uniqueness: 7.2, compliments: 8.0, value: 7.5, total: 7.6 },
+    vibes: [{ label: "Sạch sẽ", icon: "✨" }, { label: "Văn phòng", icon: "💻" }, { label: "Mùa hè", icon: "☀️" }],
+    longevity: 5,
+    sillage: 5,
+    seasons: { spring: 80, summer: 90, fall: 50, winter: 30 },
+    dayNight: { day: 90, night: 30 },
+    topNotes: [{ name: "Hoa cam neroli" }, { name: "Cam bergamot" }],
+    middleNotes: [{ name: "Oải hương" }, { name: "Hoa nhài" }],
+    baseNotes: [{ name: "Xạ hương trắng" }, { name: "Gỗ tuyết tùng" }],
+    accords: [
+      { name: "Hoa", value: 100, color: "#fc0384" },
+      { name: "Cam chanh", value: 75, color: "#f1c40f" },
+      { name: "Xạ hương", value: 60, color: "#bdc3c7" },
+      { name: "Thơm thảo mộc", value: 50, color: "#2c7a4b" }
+    ],
+    seoTitle: "YSL Libre L'Eau Nue chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá YSL Libre L'Eau Nue chính hãng: phiên bản Libre nhẹ nhàng cho mùa hè, độ bám tỏa và tư vấn mua uy tín 2026.",
+    tags: ["Nữ", "Sạch sẽ", "Văn phòng", "Mùa hè"],
+    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 2400000,
+    shopeeOffers: [],
+    isPublished: true
+  },
+  {
+    id: "versace-eros-edt",
+    brandSlug: "versace",
+    brand: "VERSACE",
+    name: "Eros",
+    subName: "Eau de Toilette",
+    perfumer: "Aurélien Guichard",
+    gender: "nam",
+    year: 2012,
+    image: "/images/products/versace-eros-edp-main.jpg",
+    images: [{ url: "/images/products/versace-eros-edp-main.jpg", source: "owner", caption: "Versace Eros EDT chính hãng", verified: true }],
+    description: "Chai nam bạc hà-vani-gỗ ngọt ngào kiểu club — bạc hà, táo xanh, chanh, đậu tonka, vani, gỗ tuyết tùng, cỏ hương bài. Ngọt, trẻ, projection mạnh.",
+    article: `### Ai không nên mua?
+
+Nếu bạn làm văn phòng corporate hoặc môi trường formal thì Eros EDT quá ngọt và quá trẻ cho setting đó. Đây là mùi club/bar/party — projection mạnh, ngọt bạc hà-vani rõ rệt. Người trên 35 tuổi hoặc thích phong cách lịch lãm nên tránh. Ai ghét mùi ngọt cũng sẽ không chịu được.
+
+### Có đáng tiền không?
+
+Giá Versace designer — rất phải chăng cho hiệu năng beast mode. So với Eros EDP (2020), EDT ngọt hơn, projection mạnh hơn nhưng bám ngắn hơn. So với Eros Flame, EDT mát hơn (bạc hà) và ít gia vị hơn. Bám 6-7 giờ, tỏa CỰC MẠNH 3-4 giờ đầu. Giá rẻ cho một chai compliment getter.
+
+### Nên dùng khi nào?
+
+Đi chơi tối, club, bar, hẹn hò. KHÔNG dùng văn phòng. Xịt 2 nhát tối đa — chai này quá mạnh. Đẹp nhất thu đông mát (18-25°C). Ở Việt Nam dùng tối phòng máy lạnh. Chai cho tuổi 18-28.`,
+    verdict: "Bạc hà-vani ngọt kiểu club — projection beast mode, trẻ trung, compliment getter. Không hợp văn phòng. Cho đi chơi tối.",
+    verdictShort: "BẠC HÀ VANI, CLUB, BEAST MODE",
+    score: { scent: 8.0, uniqueness: 7.0, compliments: 9.5, value: 9.0, total: 8.4 },
+    vibes: [{ label: "Trẻ trung", icon: "⚡" }, { label: "Đi chơi", icon: "🎉" }, { label: "Compliment", icon: "👍" }],
+    longevity: 7,
+    sillage: 9,
+    seasons: { spring: 60, summer: 40, fall: 80, winter: 75 },
+    dayNight: { day: 20, night: 95 },
+    topNotes: [{ name: "Bạc hà" }, { name: "Táo xanh" }, { name: "Chanh" }],
+    middleNotes: [{ name: "Đậu tonka" }, { name: "Phong lữ" }, { name: "Hoa hồng" }],
+    baseNotes: [{ name: "Vani" }, { name: "Gỗ tuyết tùng" }, { name: "Cỏ hương bài" }, { name: "Rêu sồi" }],
+    accords: [
+      { name: "Thơm thảo mộc", value: 100, color: "#2c7a4b" },
+      { name: "Ngọt", value: 85, color: "#e74c3c" },
+      { name: "Vani", value: 75, color: "#F5DEB3" },
+      { name: "Gỗ", value: 60, color: "#8B4513" },
+      { name: "Cam chanh", value: 50, color: "#f1c40f" }
+    ],
+    seoTitle: "Versace Eros EDT chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Versace Eros EDT chính hãng: mùi bạc hà vani ngọt projection mạnh, độ bám tỏa và tư vấn mua uy tín 2026.",
+    tags: ["Nam", "Trẻ trung", "Đi chơi", "Beast mode"],
+    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "200ml Fullbox"],
+    basePrice: 1950000,
+    shopeeOffers: [],
+    isPublished: true
+  },
+  {
+    id: "gris-charnel-extrait",
+    brandSlug: "bdk-parfums",
+    brand: "BDK PARFUMS",
+    name: "Gris Charnel Extrait",
+    subName: "Extrait de Parfum",
+    perfumer: "Mathilde Bijaoui",
+    gender: "unisex",
+    year: 2019,
+    image: "/images/placeholder.jpg",
+    images: [{ url: "/images/placeholder.jpg", source: "owner", caption: "BDK Gris Charnel Extrait chính hãng", verified: true }],
+    description: "Chai niche xám-xạ hương-hoa nhài-gỗ đàn hương kiểu Pháp — hoa nhài Sambac, hoa iris, gỗ đàn hương, đậu tonka, xạ hương, hổ phách. Xám, ấm, gợi cảm và tinh tế.",
+    article: `### Ai không nên mua?
+
+Nếu bạn thích mùi tươi sáng kiểu citrus hoặc mùi ngọt gourmand thì Gris Charnel Extrait sẽ quá xám và quá trầm cho gu đó. Đây là mùi skin scent — gần da, ấm áp, gợi cảm kiểu riêng tư. Ai cần projection mạnh để người khác ngửi thấy từ xa sẽ thất vọng. Người dưới 25 tuổi có thể thấy nó hơi mature.
+
+### Có đáng tiền không?
+
+Giá BDK Parfums niche Pháp — cao nhưng hợp lý cho Extrait concentration. So với Gris Charnel EDP, Extrait đậm hơn 30%, nhiều gỗ đàn hương hơn, bám lâu hơn (10+ giờ). So với Le Labo Another 13 (cùng nhóm xám-xạ hương), Gris Charnel Extrait hoa hơn và ấm hơn. Mathilde Bijaoui (perfumer của Pulp) tạo nên chai này — chất lượng niche thật sự.
+
+### Nên dùng khi nào?
+
+Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp nhất thu đông (15-25°C). Ở Việt Nam dùng tối phòng máy lạnh. Chai cho người đã biết mình thích gì — không phải chai an toàn cho người mới.`,
+    verdict: "Xám-xạ hương-hoa nhài-gỗ đàn hương kiểu niche Pháp — gợi cảm, riêng tư, skin scent. Cho người thích mùi tinh tế gần da.",
+    verdictShort: "XÁM, GỢI CẢM, SKIN SCENT",
+    score: { scent: 9.0, uniqueness: 8.8, compliments: 7.5, value: 7.8, total: 8.3 },
+    vibes: [{ label: "Gợi cảm", icon: "🔥" }, { label: "Tinh tế", icon: "✨" }, { label: "Niche", icon: "💎" }],
+    longevity: 10,
+    sillage: 5,
+    seasons: { spring: 55, summer: 30, fall: 85, winter: 90 },
+    dayNight: { day: 30, night: 90 },
+    topNotes: [{ name: "Hoa iris" }, { name: "Hồ tiêu đen" }],
+    middleNotes: [{ name: "Hoa nhài Sambac" }, { name: "Trà đen" }],
+    baseNotes: [{ name: "Gỗ đàn hương" }, { name: "Đậu tonka" }, { name: "Xạ hương" }, { name: "Hổ phách" }],
+    accords: [
+      { name: "Xạ hương", value: 100, color: "#bdc3c7" },
+      { name: "Gỗ", value: 85, color: "#8B4513" },
+      { name: "Hoa", value: 70, color: "#fc0384" },
+      { name: "Phấn", value: 60, color: "#d7bde2" },
+      { name: "Hổ phách", value: 50, color: "#d4a017" }
+    ],
+    seoTitle: "BDK Gris Charnel Extrait chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá BDK Gris Charnel Extrait chính hãng: mùi xám xạ hương gợi cảm niche Pháp, độ bám tỏa và tư vấn mua uy tín 2026.",
+    tags: ["Unisex", "Niche", "Gợi cảm", "Skin scent"],
+    sizes: ["10ml Chiết", "100ml Fullbox"],
+    basePrice: 5200000,
+    shopeeOffers: [],
+    isPublished: true
   }
 ];

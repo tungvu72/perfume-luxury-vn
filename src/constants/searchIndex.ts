@@ -17,6 +17,22 @@ export type SearchProduct = {
 
 export const SEARCH_INDEX: SearchProduct[] = [
   {
+    "id": "montblanc-signature-edp",
+    "name": "Signature",
+    "brand": "MONTBLANC",
+    "subName": "Eau de Parfum",
+    "image": "/images/products/montblanc-signature-main.jpg",
+    "gender": "nu",
+    "brandSlug": "montblanc",
+    "isPublished": true,
+    "tags": [
+      "Nữ",
+      "Văn phòng",
+      "Hiền dịu",
+      "An toàn"
+    ]
+  },
+  {
     "id": "24-faubourg",
     "name": "24 Faubourg",
     "brand": "HERMÈS",
@@ -325,7 +341,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Angélique Noire",
     "brand": "GUERLAIN",
     "subName": "Eau de Parfum",
-    "image": "/images/products/guerlain-angelique-noire-main.avif",
+    "image": "/images/products/guerlain-angelique-noire-main.jpg",
     "gender": "unisex",
     "brandSlug": "guerlain",
     "isPublished": true,
@@ -513,8 +529,8 @@ export const SEARCH_INDEX: SearchProduct[] = [
     ]
   },
   {
-    "id": "bleu-chanel-edp",
-    "name": "Bleu de Chanel",
+    "id": "bleu-de-chanel-eau-de-parfum",
+    "name": "Bleu de Chanel Eau de Parfum",
     "brand": "CHANEL",
     "subName": "Eau de Parfum",
     "image": "/images/products/bleu-chanel-edp-main.jpg",
@@ -530,7 +546,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "bleu-de-chanel-parfum",
-    "name": "Bleu de Chanel",
+    "name": "Bleu de Chanel Parfum",
     "brand": "CHANEL",
     "subName": "Parfum",
     "image": "/images/products/bleu-de-chanel-parfum-main.jpg",
@@ -709,7 +725,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Chance Eau Tendre",
     "brand": "CHANEL",
     "subName": "Eau de Parfum",
-    "image": "/images/products/chanel-chance-eau-tendre-main.png",
+    "image": "/images/products/chanel-chance-eau-tendre-main.jpg",
     "gender": "nu",
     "brandSlug": "chanel",
     "isPublished": true,
@@ -770,7 +786,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "coco-eau-de-parfum",
-    "name": "Coco",
+    "name": "Coco Eau de Parfum",
     "brand": "CHANEL",
     "subName": "Eau de Parfum",
     "image": "/images/products/chanel-coco-eau-de-parfum-main.jpg",
@@ -786,7 +802,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "coco-eau-de-toilette",
-    "name": "Coco",
+    "name": "Coco Eau de Toilette",
     "brand": "CHANEL",
     "subName": "Eau de Toilette",
     "image": "/images/products/chanel-coco-eau-de-toilette-main.jpg",
@@ -1297,22 +1313,6 @@ export const SEARCH_INDEX: SearchProduct[] = [
     ]
   },
   {
-    "id": "gentleman-eau-de-parfum-reserve-privee",
-    "name": "Gentleman Réserve Privée",
-    "brand": "GIVENCHY",
-    "subName": "Eau de Parfum",
-    "image": "/images/products/givenchy-gentleman-reserve-privee-main.jpg",
-    "gender": "nam",
-    "brandSlug": "givenchy",
-    "isPublished": true,
-    "tags": [
-      "Nam",
-      "Cigar lounge",
-      "Boozy",
-      "Giá tốt"
-    ]
-  },
-  {
     "id": "gentleman-reserve-privee",
     "name": "Gentleman Réserve Privée",
     "brand": "GIVENCHY",
@@ -1393,8 +1393,8 @@ export const SEARCH_INDEX: SearchProduct[] = [
     ]
   },
   {
-    "id": "habit-rouge-edt",
-    "name": "Habit Rouge",
+    "id": "habit-rouge-eau-de-toilette",
+    "name": "Habit Rouge Eau de Toilette",
     "brand": "GUERLAIN",
     "subName": "Eau de Toilette",
     "image": "/images/products/guerlain-habit-rouge-edt-main.jpg",
@@ -1410,7 +1410,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "habit-rouge-parfum",
-    "name": "Habit Rouge",
+    "name": "Habit Rouge Parfum",
     "brand": "GUERLAIN",
     "subName": "Parfum",
     "image": "/images/products/habit-rouge-parfum-main.jpg",
@@ -1842,10 +1842,10 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "l-homme-ideal-eau-de-parfum",
-    "name": "L'Homme Idéal",
+    "name": "L'Homme Idéal Eau de Parfum",
     "brand": "GUERLAIN",
     "subName": "Eau de Parfum",
-    "image": "/images/products/guerlain-l-homme-ideal-eau-de-parfum-main.webp",
+    "image": "/images/products/guerlain-l-homme-ideal-eau-de-parfum-main.jpg",
     "gender": "nam",
     "brandSlug": "guerlain",
     "isPublished": true,
@@ -2001,8 +2001,8 @@ export const SEARCH_INDEX: SearchProduct[] = [
     ]
   },
   {
-    "id": "lheure-bleue-edp",
-    "name": "L'Heure Bleue",
+    "id": "l-heure-bleue-eau-de-parfum",
+    "name": "L'Heure Bleue Eau de Parfum",
     "brand": "GUERLAIN",
     "subName": "Eau de Parfum",
     "image": "/images/products/guerlain-lheure-bleue-edp-main.jpg",
@@ -2017,8 +2017,8 @@ export const SEARCH_INDEX: SearchProduct[] = [
     ]
   },
   {
-    "id": "lheure-bleue-edt",
-    "name": "L'Heure Bleue",
+    "id": "l-heure-bleue-eau-de-toilette",
+    "name": "L'Heure Bleue Eau de Toilette",
     "brand": "GUERLAIN",
     "subName": "Eau de Toilette",
     "image": "/images/products/guerlain-lheure-bleue-edt-main.jpg",
@@ -2050,7 +2050,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "lhomme-ideal-parfum",
-    "name": "L'Homme Idéal",
+    "name": "L'Homme Idéal Parfum",
     "brand": "GUERLAIN",
     "subName": "Parfum",
     "image": "/images/products/guerlain-lhomme-ideal-parfum-main.jpg",
@@ -2481,8 +2481,8 @@ export const SEARCH_INDEX: SearchProduct[] = [
     ]
   },
   {
-    "id": "n019",
-    "name": "N°19",
+    "id": "no-19-eau-de-toilette",
+    "name": "N°19 Eau de Toilette",
     "brand": "CHANEL",
     "subName": "Eau de Toilette",
     "image": "/images/products/chanel-n019-main.jpg",
@@ -2514,10 +2514,10 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "no-19-eau-de-parfum",
-    "name": "N°19",
+    "name": "N°19 Eau de Parfum",
     "brand": "CHANEL",
     "subName": "Eau de Parfum",
-    "image": "/images/products/chanel-no-19-eau-de-parfum-main.webp",
+    "image": "/images/products/chanel-no-19-eau-de-parfum-main.jpg",
     "gender": "nu",
     "brandSlug": "chanel",
     "isPublished": true,
@@ -2546,7 +2546,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "no-5-eau-de-parfum",
-    "name": "Chanel N°5",
+    "name": "N°5 Eau de Parfum",
     "brand": "CHANEL",
     "subName": "Eau de Parfum",
     "image": "/images/products/chanel-no-5-eau-de-parfum-main.jpg",
@@ -2562,7 +2562,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "no-5-eau-de-toilette",
-    "name": "N°5",
+    "name": "N°5 Eau de Toilette",
     "brand": "CHANEL",
     "subName": "Eau de Toilette",
     "image": "/images/products/chanel-no-5-eau-de-toilette-main.jpg",
@@ -2578,7 +2578,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "no-5-parfum",
-    "name": "N°5",
+    "name": "N°5 Parfum",
     "brand": "CHANEL",
     "subName": "Parfum",
     "image": "/images/products/chanel-no-5-parfum-main.jpg",
@@ -2769,22 +2769,6 @@ export const SEARCH_INDEX: SearchProduct[] = [
     ]
   },
   {
-    "id": "pour-homme",
-    "name": "Dior Pour Homme",
-    "brand": "DIOR",
-    "subName": "Eau de Toilette",
-    "image": "/images/products/dior-homme-sport-2021-main.jpg",
-    "gender": "nam",
-    "brandSlug": "dior",
-    "isPublished": true,
-    "tags": [
-      "Nam",
-      "Office",
-      "Tinh tế",
-      "Quý ông"
-    ]
-  },
-  {
     "id": "pure-musc-for-her",
     "name": "Pure Musc For Her",
     "brand": "NARCISO RODRIGUEZ",
@@ -2928,8 +2912,8 @@ export const SEARCH_INDEX: SearchProduct[] = [
     ]
   },
   {
-    "id": "shalimar-edp",
-    "name": "Shalimar",
+    "id": "shalimar-eau-de-parfum",
+    "name": "Shalimar Eau de Parfum",
     "brand": "GUERLAIN",
     "subName": "Eau de Parfum",
     "image": "/images/products/guerlain-shalimar-edp-main.jpg",
@@ -2948,7 +2932,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Shalimar L'Essence",
     "brand": "GUERLAIN",
     "subName": "Eau de Parfum",
-    "image": "/images/products/guerlain-shalimar-lessence-main.webp",
+    "image": "/images/products/guerlain-shalimar-lessence-main.jpg",
     "gender": "nu",
     "brandSlug": "guerlain",
     "isPublished": true,
@@ -2961,7 +2945,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "shalimar-parfum",
-    "name": "Shalimar",
+    "name": "Shalimar Parfum",
     "brand": "GUERLAIN",
     "subName": "Parfum",
     "image": "/images/products/guerlain-shalimar-parfum-main.jpg",
@@ -2989,22 +2973,6 @@ export const SEARCH_INDEX: SearchProduct[] = [
       "Niche",
       "Addictive",
       "Thu đông"
-    ]
-  },
-  {
-    "id": "signature-edp",
-    "name": "Signature",
-    "brand": "MONTBLANC",
-    "subName": "Eau de Parfum",
-    "image": "/images/products/chloe-signature-edp-main.jpg",
-    "gender": "nu",
-    "brandSlug": "montblanc",
-    "isPublished": true,
-    "tags": [
-      "Nữ",
-      "An toàn",
-      "Giá rẻ",
-      "Office"
     ]
   },
   {
@@ -3055,8 +3023,8 @@ export const SEARCH_INDEX: SearchProduct[] = [
     ]
   },
   {
-    "id": "terre-dhermes-edt",
-    "name": "Terre d'Hermès",
+    "id": "terre-dhermes-eau-de-toilette",
+    "name": "Terre d'Hermès Eau de Toilette",
     "brand": "HERMÈS",
     "subName": "Eau de Toilette",
     "image": "/images/products/terre-dhermes-edt-main.jpg",
@@ -3072,7 +3040,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "terre-dhermes-parfum",
-    "name": "Terre d'Hermès",
+    "name": "Terre d'Hermès Parfum",
     "brand": "HERMÈS",
     "subName": "Parfum",
     "image": "/images/products/hermes-terre-dhermes-parfum-main.jpg",
@@ -3356,6 +3324,54 @@ export const SEARCH_INDEX: SearchProduct[] = [
       "Trẻ trung",
       "Hằng ngày",
       "Đa dụng"
+    ]
+  },
+  {
+    "id": "libre-leau-nue",
+    "name": "Libre L'Eau Nue",
+    "brand": "YVES SAINT LAURENT",
+    "subName": "Eau de Toilette",
+    "image": "/images/products/ysl-libre-edp-main.jpg",
+    "gender": "nu",
+    "brandSlug": "ysl",
+    "isPublished": true,
+    "tags": [
+      "Nữ",
+      "Sạch sẽ",
+      "Văn phòng",
+      "Mùa hè"
+    ]
+  },
+  {
+    "id": "versace-eros-edt",
+    "name": "Eros",
+    "brand": "VERSACE",
+    "subName": "Eau de Toilette",
+    "image": "/images/products/versace-eros-edp-main.jpg",
+    "gender": "nam",
+    "brandSlug": "versace",
+    "isPublished": true,
+    "tags": [
+      "Nam",
+      "Trẻ trung",
+      "Đi chơi",
+      "Beast mode"
+    ]
+  },
+  {
+    "id": "gris-charnel-extrait",
+    "name": "Gris Charnel Extrait",
+    "brand": "BDK PARFUMS",
+    "subName": "Extrait de Parfum",
+    "image": "/images/placeholder.jpg",
+    "gender": "unisex",
+    "brandSlug": "bdk-parfums",
+    "isPublished": true,
+    "tags": [
+      "Unisex",
+      "Niche",
+      "Gợi cảm",
+      "Skin scent"
     ]
   }
 ];
