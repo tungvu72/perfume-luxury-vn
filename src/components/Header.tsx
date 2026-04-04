@@ -14,31 +14,42 @@ const removeVietnameseTones = (str: string) => {
     return str
         .normalize('NFD')
         .replace(/[\u0300-\u036f]/g, '')
+        .replace(/đ/g, 'd')
+        .replace(/Đ/g, 'D')
+        .replace(/\s+/g, ' ')
+        .trim()
         .toLowerCase();
 };
 
-const FUSE_DATA = SEARCH_INDEX.map((p: any) => ({
-    ...p,
-    normName: removeVietnameseTones(p.name),
-    normBrand: removeVietnameseTones(p.brand),
-    normSubName: removeVietnameseTones(p.subName),
-    normTags: p.tags ? p.tags.map((t: string) => removeVietnameseTones(t)) : [],
-    normGender: removeVietnameseTones(p.gender === 'nam' ? 'nam nuoc hoa nam' : p.gender === 'nu' ? 'nu nuoc hoa nu' : 'unisex nuoc hoa unisex'),
-    normDesc: removeVietnameseTones(p.description)
-}));
+const FUSE_DATA = SEARCH_INDEX.map((p: any) => {
+    const normName = removeVietnameseTones(p.name);
+    const normBrand = removeVietnameseTones(p.brand);
+    const normSubName = removeVietnameseTones(p.subName);
+    const normTags = p.tags ? p.tags.map((t: string) => removeVietnameseTones(t)) : [];
+
+    return {
+        ...p,
+        normName,
+        normBrand,
+        normSubName,
+        normTags,
+        normGender: removeVietnameseTones(p.gender === 'nam' ? 'nam nuoc hoa nam' : p.gender === 'nu' ? 'nu nuoc hoa nu' : 'unisex nuoc hoa unisex'),
+        normDesc: removeVietnameseTones(p.description),
+        combined: `${normBrand} ${normName} ${normSubName} ${normTags.join(' ')}`.trim()
+    };
+});
 
 const fuse = new Fuse(FUSE_DATA, {
     keys: [
+        { name: 'combined', weight: 0.5 },
         { name: 'normName', weight: 0.4 },
         { name: 'normBrand', weight: 0.3 },
-        { name: 'normTags', weight: 0.1 },
-        { name: 'normGender', weight: 0.1 },
-        { name: 'normDesc', weight: 0.1 }
+        { name: 'normTags', weight: 0.2 },
+        { name: 'normGender', weight: 0.2 },
     ],
-    threshold: 0.4,
+    threshold: 0.35,
     ignoreLocation: true,
-    ignoreFieldNorm: true,
-    useExtendedSearch: true
+    useExtendedSearch: false
 });
 
 const TRENDING_SEARCHES = ["Sauvage", "Bleu de Chanel", "Aventus", "Baccarat Rouge", "Lost Cherry"];
