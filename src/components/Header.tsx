@@ -4,9 +4,41 @@ import Link from "next/link";
 import { useState, useEffect, useRef, useCallback } from "react";
 import { Search, Menu, X, TrendingUp, Sparkles, ArrowRight, Loader2, ChevronRight, ChevronDown } from "lucide-react";
 import Image from "next/image";
+import Fuse from "fuse.js";
 import { SEARCH_INDEX } from "@/constants/searchIndex";
 import type { SearchProduct } from "@/constants/searchIndex";
 import { getProductUrl } from "@/lib/productUrl";
+
+const removeVietnameseTones = (str: string) => {
+    if (!str) return '';
+    return str
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase();
+};
+
+const FUSE_DATA = SEARCH_INDEX.map((p: any) => ({
+    ...p,
+    normName: removeVietnameseTones(p.name),
+    normBrand: removeVietnameseTones(p.brand),
+    normSubName: removeVietnameseTones(p.subName),
+    normTags: p.tags ? p.tags.map((t: string) => removeVietnameseTones(t)) : [],
+    normGender: removeVietnameseTones(p.gender === 'nam' ? 'nam giới' : p.gender === 'nu' ? 'nữ giới' : 'unisex'),
+    normDesc: removeVietnameseTones(p.description)
+}));
+
+const fuse = new Fuse(FUSE_DATA, {
+    keys: [
+        { name: 'normName', weight: 0.4 },
+        { name: 'normBrand', weight: 0.3 },
+        { name: 'normTags', weight: 0.1 },
+        { name: 'normGender', weight: 0.1 },
+        { name: 'normDesc', weight: 0.1 }
+    ],
+    threshold: 0.3,
+    ignoreLocation: true,
+    useExtendedSearch: true
+});
 
 const TRENDING_SEARCHES = ["Sauvage", "Bleu de Chanel", "Aventus", "Baccarat Rouge", "Lost Cherry"];
 
@@ -38,20 +70,15 @@ const Header = () => {
 
     // Local instant search — no network call, results on every keystroke
     useEffect(() => {
-        const q = searchQuery.trim().toLowerCase();
+        const q = removeVietnameseTones(searchQuery.trim());
         if (q.length < 2) {
             setSearchResults([]);
             return;
         }
-        const results = SEARCH_INDEX.filter((p: SearchProduct) =>
-            p.isPublished !== false && (
-                p.name.toLowerCase().includes(q) ||
-                p.brand.toLowerCase().includes(q) ||
-                (p.subName && p.subName.toLowerCase().includes(q)) ||
-                (p.tags && p.tags.some((t: string) => t.toLowerCase().includes(q)))
-            )
-        ).slice(0, 8);
-        setSearchResults(results);
+
+        const rawResults = fuse.search(q).map(result => result.item);
+        const results = rawResults.filter((p: any) => p.isPublished !== false).slice(0, 8);
+        setSearchResults(results as SearchProduct[]);
     }, [searchQuery]);
 
     // Click outside to close search results
