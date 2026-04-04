@@ -39,6 +39,21 @@
 
 ---
 
+## Results & Evidence
+
+### Verification on Production (2026-04-04)
+- ✅ **Test 1: Normalization ("nuoc hoa nam")** → PASSED. Dropdown shows 8 relevant men's products.
+- ✅ **Test 2: Brand ("dior sauvage")** → PASSED. Shows all Sauvage variants.
+- ✅ **Test 3: Fuzzy Typo ("sauavge")** → PASSED. Correctly suggests Sauvage family.
+
+### Evidence Artifacts
+- **Search Result Screenshot:** [search_results_final_verification_1775299959299.png](file:///C:/Users/Admin/.gemini/antigravity/brain/ed1cceab-e97a-4676-8e36-c5a0da14d592/search_results_final_verification_1775299959299.png)
+- **Fuzzy Search Screenshot:** [search_sauavge_1775299760715.png](file:///C:/Users/Admin/.gemini/antigravity/brain/ed1cceab-e97a-4676-8e36-c5a0da14d592/search_sauavge_1775299760715.png)
+
+**Final Verdict:** PASS. Implementation uses Fuse.js + Unicode NFD normalization. Threshold set to 0.4 with `ignoreFieldNorm: true`.
+
+---
+
 ## Workspace Rule
 - **PRODUCTION = https://www.maisondeson.com** (nguồn verify duy nhất)
 - User KHÔNG BAO GIỜ làm việc qua http://localhost:3000
@@ -172,9 +187,25 @@
 
 ---
 
-## Rule ảnh sản phẩm
-- Nguồn chuẩn duy nhất cho ảnh sản phẩm: `docs/ops/image-sourcing-sop.md`
-- Mỗi sản phẩm hiện tại có 1 ảnh main chuẩn
-- Ảnh main mặc định lấy từ Fragrantica khi xác minh đúng variant
-- Ảnh thật nội bộ user cung cấp tại `D:\anti\ảnh nước hoa\<ten-folder-san-pham>`
-- Không chắc đúng variant/nồng độ/packaging thì để pending, không đoán
+## 🛠️ SESSION LOG & PENDING TASKS (Cập nhật 2026-04-04)
+
+### ✅ ĐÃ HOÀN THÀNH
+1. **Fix Search Vietnamese (BLOCKING):** 
+   - Đã cài đặt `fuse.js`, triển khai `removeVietnameseTones` (NFD normalization).
+   - Đã verify trên Production: gõ "nuoc hoa nam", "sauavge" (typo) đều trả kết quả đúng.
+   - UI Search: User đã chỉnh `object-contain p-0.5` cho thumbnail trong dropdown.
+2. **Product Image Pipeline (Phase 1):** 
+   - Hoàn thành dump 13 chai "High Confidence" (bao gồm YSL Y EDP với 5 ảnh thực tế).
+   - Đã verify ảnh thực tế hiển thị đúng label và gallery trên Production.
+
+### ⏳ ĐANG DỞ / PENDING (Cần làm sau reset)
+1. **Phase 2 — Tạo Page & Inject Ảnh mới:** Cho 4 sản phẩm chưa có trong `mockData.ts`:
+   - [ ] **Libre L'Eau Nue** (YSL)
+   - [ ] **Oud Forever** (Chưa rõ brand, cần check folder `D:\anti\ảnh nước hoa`)
+   - [ ] **Versace Eros EDT** (Tránh trùng bản EDP/Parfum)
+   - [ ] **Gris Charnel Extrait** (BDK Parfums)
+2. **Audit & Cleanup:** Rà soát lại các folder ảnh còn sót trong `D:\anti\ảnh nước hoa` để đảm bảo 100% sản phẩm có ảnh thực tế.
+
+### 📋 Hướng dẫn Reset
+- Coder/Anti mới: Đọc lại `docs/tasks/fix-search-vietnamese.md` để xem bối cảnh search.
+- Tiếp tục Phase 2 bằng cách tạo object mới trong `src/constants/mockData.ts` cho 4 chai trên trước khi chạy script inject.
