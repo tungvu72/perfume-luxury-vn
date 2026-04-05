@@ -4,6 +4,10 @@ export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
       {
+        userAgent: ['AhrefsBot', 'SemrushBot', 'DotBot', 'MJ12bot', 'PetalBot', 'Baiduspider', 'Bytespider', 'YandexBot', 'Amazonbot', 'ClaudeBot', 'GPTBot'],
+        disallow: ['/']
+      },
+      {
         userAgent: '*',
         allow: [
           '/',
