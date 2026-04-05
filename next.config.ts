@@ -21,10 +21,10 @@ const nextConfig: NextConfig = {
           {
             type: 'header',
             key: 'user-agent',
-            value: '(.*)(AhrefsBot|SemrushBot|DotBot|MJ12bot|PetalBot|Baiduspider|Bytespider|YandexBot|bingbot|Amazonbot|ClaudeBot|GPTBot)(.*)',
+            value: '(.*)(AhrefsBot|SemrushBot|DotBot|MJ12bot|PetalBot|Baiduspider|Bytespider|YandexBot|bingbot|Amazonbot|ClaudeBot|GPTBot|Chrome/146)(.*)',
           },
         ],
-        destination: 'https://en.wikipedia.org/wiki/HTTP_403',
+        destination: '/404',
         permanent: false,
       },
 
