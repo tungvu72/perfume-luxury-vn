@@ -1,60 +1,32 @@
-# Image Sourcing SOP
+# Image Sourcing SOP (V3)
+Cập nhật: 05/04/2026
 
-## Scope
-- Source, verify, optimize, and assign product images for Maison de Son catalog items.
-- This SOP is for **product card / product detail main image**, not editorial article illustrations.
+## 1. Cấu trúc ảnh Gallery chuẩn cho mọi sản phẩm
+Mỗi sản phẩm trên Maison de SON bắt buộc phải có cấu trúc hình ảnh bao gồm **CHÍNH XÁC 6 ẢNH**:
+*   **01 Ảnh Main (Đại diện):** Khai thác tuyệt đối từ Fragrantica (`fimgs.net`), cấm dùng các nguồn cào tự động như Amazon/Google.
+*   **05 Ảnh Thực tế (Gallery):** User tự cung cấp và chụp trực tiếp từ kho, lưu trữ tại `D:\anti\ảnh nước hoa\<slug-san-pham>\`. Dùng để khẳng định tính chân thực (E-E-A-T).
 
-## Rule mới cho ảnh sản phẩm
-Mỗi sản phẩm hiện tại có **1 ảnh main** dùng làm ảnh chính trên site.
+## 2. Luật Đóng Mộc (Watermarking Rule)
+**TẤT CẢ 100% hình ảnh hiển thị trên trang Sản phẩm, kể cả ảnh Main lấy từ Fragrantica và 5 ảnh chụp thực tế, đều BẮT BUỘC PHẢI ĐƯỢC CHÈN WATERMARK "Maison De SON".**
+Mục tiêu: Chống thất thoát hình ảnh, đánh dấu bản quyền và đồng bộ toàn bộ grid sản phẩm.
 
-### Nguồn ưu tiên
-1. **Fragrantica** cho ảnh main mặc định
-2. Ảnh thật nội bộ do user cung cấp tại:
-   - `D:\anti\ảnh nước hoa\<ten-folder-san-pham>`
+## 3. Luật Variant Fidelity (Độ chính xác phiên bản)
+Phải kiểm tra đúng các yếu tố sau trước khi dùng ảnh (đặc biệt áp dụng khi user tự chụp):
+*   Tên chai / Flanker
+*   Nồng độ (EDT / EDP / Parfum / Elixir / ...)
+*   Màu nắp / thân / nhãn
+*   **KHÔNG CHẮC CÚ => PENDING, KHÔNG ĐOÁN HAY LẤY ĐẠI.**
 
-## Cách dùng nguồn ảnh
-### 1) Ảnh main mặc định
-- lấy từ **Fragrantica**
-- phải đúng chai / đúng variant / đúng nồng độ / đúng packaging ở mức có thể xác minh
-- nếu không chắc đúng variant thì để pending, không đoán
+## 4. Kỹ thuật Web & SEO (Core Web Vitals)
+*   **Định dạng:** Toàn bộ convert ra `.webp`.
+*   **Dung lượng:** Không vượt quá `150KB/ảnh`. 
+*   **Trải nghiệm tải trang:** Ảnh dưới trang phải dùng thuộc tính `loading="lazy"`.
+*   **Naming Rule:** Định dạng `[ten-san-pham]-[mo-ta].webp` (VD: `dior-sauvage-elixir-main.webp` hoặc `dior-sauvage-elixir-unbox.webp`).
+*   **Alt-Text:** Không được trống, phải bao gồm Tên sản phẩm + Ý định tìm kiếm.
 
-### 2) Ảnh thật nội bộ
-- user sẽ cung cấp ảnh thật trong thư mục:
-  - `D:\anti\ảnh nước hoa`
-- mỗi sản phẩm là 1 folder riêng
-- ví dụ:
-  - `D:\anti\ảnh nước hoa\ombre leather`
-- các ảnh này là nguồn ưu tiên cho ảnh thực tế / gallery / kiểm chứng sản phẩm thật khi có
-
-## Variant fidelity rule
-Phải kiểm tra đúng các yếu tố sau trước khi dùng ảnh:
-- tên chai / flanker
-- nồng độ (EDT / EDP / Parfum / Elixir / ...)
-- silhouette chai
-- màu nắp / thân / nhãn
-- packaging tổng thể nếu nhìn thấy
-
-Không chắc => pending, không đoán.
-
-## Output format
-Với mỗi sản phẩm, ghi rõ:
-- product slug hoặc product id nội bộ nếu có
-- source URL ảnh main
-- local folder ảnh thật nếu có
-- confidence: high / medium / low
-- notes về mức độ khớp variant
-
-## Optimization
-- tối ưu web-friendly khi cần
-- giữ chất lượng đủ tốt để nhìn rõ chai
-- không over-compress
-- crop nhất quán, ưu tiên chai là chủ thể chính
-
-## Naming
-- tên file giữ ổn định, dễ map theo product slug
-- nếu cần export/copy ra asset chính thức, ưu tiên naming theo product slug thay vì quy tắc cũ `{id}-main.jpg`
-
-## Final assignment rule
-- mỗi sản phẩm hiện tại có 1 ảnh main chuẩn
-- ảnh thật nội bộ là nguồn bổ sung quan trọng khi user đã cung cấp folder riêng
-- nếu chưa chắc ảnh đúng variant => pending, không fill bằng ảnh đoán
+## 5. Nguồn Ảnh Chèn Trong Bài Viết Kiến Thức (Blog)
+Thứ tự ưu tiên ảnh chèn để cắt ngang dòng text:
+1.  Ảnh do hệ thống nội bộ (user) cung cấp.
+2.  Cộng đồng Fragram (lifestyle/review thật).
+3.  Unsplash (không watermark).
+4.  Hạn chế dùng: Ảnh bóng loáng của Hãng (Brand Official) vì giảm điểm trust E-E-A-T.

@@ -19,23 +19,25 @@
 - Dev server chỉ chạy khi cần build/debug, KHÔNG chạy mặc định
 
 ### Anti-Sanity drift (BLOCKING)
-- Nếu task yêu cầu viết/sửa/publish trực tiếp trong repo → dùng direct-repo workflow
-- KHÔNG tự chuyển sang Sanity path khi task không yêu cầu
-- Chỉ dùng Sanity khi task nói rõ: "CMS task", "Sanity task", "publish qua Sanity"
+- **TỪ BÂY GIỜ CHÍNH THỨC KHÔNG BAO GIỜ SỬ DỤNG SANITY NỮA.** Bất kỳ tính năng / sản phẩm nào đang dùng Sanity phải được gỡ bỏ và đưa dữ liệu ngược về hệ thống `mockData.ts` an toàn. 
+- Mọi dữ liệu phải nằm hoàn toàn trong Github Repo. Sanity đã bị loại bỏ khỏi kiến trúc hệ thống của website.
 - Default publish mode = **direct-repo + git push + Vercel deploy**
 
 ### Verification gate (BLOCKING)
 - Task liên quan website Maison → BẮT BUỘC verify trên https://www.maisondeson.com
+- **SAU KHI DEPLOY: PHẢI CHECK KẾT QUẢ BẰNG CẢ MOBILE VÀ DESKTOP** (rule quan trọng nhất)
 - KHÔNG được báo "done", "pass", "verified", "xong" nếu evidence chỉ là:
   - ❌ localhost screenshot
   - ❌ local dev server output
   - ❌ Sanity preview
   - ❌ assumption không có URL thật
+  - ❌ chỉ test desktop HOẶC chỉ test mobile (phải test CẢ HAI)
 - Evidence hợp lệ:
-  - ✅ Screenshot từ https://www.maisondeson.com/...
+  - ✅ Screenshot từ https://www.maisondeson.com/... (CẢ desktop VÀ mobile)
   - ✅ Vercel deploy log thành công
   - ✅ `git log` confirm push + Vercel build pass
   - ✅ URL production thật có thể truy cập
+  - ✅ Test cases pass trên CẢ desktop (1920px) VÀ mobile (375px)
 
 ---
 

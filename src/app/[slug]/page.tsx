@@ -21,7 +21,7 @@ import RelatedArticles from '@/components/RelatedArticles';
 import Footer from '@/components/Footer';
 
 export const dynamicParams = true;
-export const revalidate = 3600; // ISR: re-generate sau 1 tiếng, đảm bảo content mới lên live không cần redeploy
+export const revalidate = 86400; // ISR: re-generate sau 24 giờ (giảm edge requests, content ít thay đổi)
 
 
 // Detect content type từ slug

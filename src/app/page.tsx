@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   ],
 };
 
-export const revalidate = 3600;
+export const revalidate = 86400; // ISR: re-generate sau 24 giờ (giảm edge requests)
 
 const PLACEHOLDER =
   "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=1200";
