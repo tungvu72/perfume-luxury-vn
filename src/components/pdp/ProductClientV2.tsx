@@ -195,28 +195,22 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
 
         {/* DOM 1: TITLE & BREADCRUMB (Mobile: Top, Desktop: Right Col, Top) */}
         <div className="lg:col-start-2 lg:row-start-1 w-full border-b border-[var(--color-border)] pb-4 lg:pb-6 mb-2 lg:mb-4">
-          <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-x-2 gap-y-1 text-[13px] md:text-sm mb-4 lg:mb-5">
-            <Link href="/" className="inline-flex items-center gap-1.5 text-gray-500 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
-              <Home size={14} className="text-gray-400 mb-[1px]" /> Trang chủ
+          <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-x-1.5 gap-y-1 text-[11px] lg:text-[12px] mb-3 lg:mb-4">
+            <Link href="/" className="inline-flex items-center gap-1 text-gray-400 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
+              <Home size={12} className="text-gray-400" /> Trang chủ
             </Link>
             <span className="select-none text-gray-300">/</span>
-            <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="text-gray-500 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
+            <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="text-gray-400 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
               Nước hoa {product.gender === "nam" ? "nam" : product.gender === "nu" ? "nữ" : "unisex"}
             </Link>
             <span className="select-none text-gray-300">/</span>
-            <span className="text-gray-900 font-medium">
+            <span className="text-gray-600 font-medium">
               {product.brand}
             </span>
           </nav>
 
-          <h1 className="flex flex-col">
-            <span className="text-[11px] font-sans tracking-[0.22em] uppercase text-[var(--color-primary)] font-bold mb-2.5">
-              Nước Hoa &bull; {product.brand} &bull; {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'}
-              <span className="sr-only"> - </span>
-            </span>
-            <span className="text-[34px] sm:text-[44px] lg:text-[48px] font-serif leading-[1.05] text-[var(--color-text)] tracking-tight">
-              {product.name}
-            </span>
+          <h1 className="text-[18px] lg:text-[22px] font-serif leading-[1.3] text-[var(--color-text)]">
+            Nước Hoa {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'} {product.brand} {product.name}
           </h1>
         </div>
 
@@ -237,9 +231,9 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
                 className="object-contain p-6 transition-transform duration-500 group-hover:scale-[1.03] sm:p-8 mix-blend-multiply"
               />
               {/* Score Badge Overlay */}
-              <div className="absolute top-4 right-4 flex h-[72px] w-[72px] flex-col items-center justify-center rounded-full bg-[#1A1D21] shadow-xl">
-                <span className="text-[22px] font-bold leading-none text-white">{product.score.total}</span>
-                <span className="text-[9px] font-bold uppercase tracking-wider text-white/60 mt-0.5">/ 10</span>
+              <div className="absolute top-3 right-3 flex h-9 w-9 lg:h-11 lg:w-11 flex-col items-center justify-center rounded-full bg-[#1A1D21] shadow-lg">
+                <span className="text-[12px] lg:text-[14px] font-bold leading-none text-white">{product.score.total}</span>
+                <span className="text-[7px] lg:text-[8px] font-bold uppercase tracking-wider text-white/60">/ 10</span>
               </div>
               {/* Trust badges overlaid on image */}
               <div className="absolute top-4 left-4 flex flex-col gap-2">
