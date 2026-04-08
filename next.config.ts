@@ -14,19 +14,7 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
-      // ── Bot block rules (Prevent aggressive scrapers from hitting limits) ──
-      {
-        source: '/(.*)',
-        has: [
-          {
-            type: 'header',
-            key: 'user-agent',
-            value: '(.*)(AhrefsBot|SemrushBot|DotBot|MJ12bot|PetalBot|Baiduspider|Bytespider|YandexBot|bingbot|Amazonbot|ClaudeBot|GPTBot|Chrome/146)(.*)',
-          },
-        ],
-        destination: '/404',
-        permanent: false,
-      },
+      // ── Bot blocking moved to middleware.ts (runs at Edge, no quota cost) ──
 
       // ── /bang-xep-hang → /nuoc-hoa-theo-nhu-cau (page replacement) ──
       { source: '/bang-xep-hang', destination: '/nuoc-hoa-theo-nhu-cau', permanent: true },

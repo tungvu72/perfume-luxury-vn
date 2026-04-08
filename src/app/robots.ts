@@ -3,24 +3,52 @@ import { MetadataRoute } from 'next';
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
+      // ── Whitelist: chỉ Google & Bing được crawl toàn bộ ──
       {
-        userAgent: ['AhrefsBot', 'SemrushBot', 'DotBot', 'MJ12bot', 'PetalBot', 'Baiduspider', 'Bytespider', 'YandexBot', 'Amazonbot', 'ClaudeBot', 'GPTBot'],
-        disallow: ['/']
+        userAgent: 'Googlebot',
+        allow: ['/'],
+        disallow: ['/api/', '/_next/', '/admin/'],
       },
       {
-        userAgent: '*',
-        allow: [
-          '/',
-          '/theo-not-huong',
-          '/theo-nhu-cau',
-          '/thuong-hieu/',
-          '/nuoc-hoa-theo-nhu-cau',
-          '/kien-thuc/',
-          '/gioi-thieu',
-          '/nam-gioi',
-          '/nu-gioi',
-          '/unisex',
+        userAgent: 'Bingbot',
+        allow: ['/'],
+        disallow: ['/api/', '/_next/', '/admin/'],
+      },
+      {
+        userAgent: 'facebookexternalhit',
+        allow: ['/'],
+      },
+
+      // ── Blacklist: SEO crawlers & AI scrapers tốn bandwidth ──
+      {
+        userAgent: [
+          'AhrefsBot',
+          'SemrushBot',
+          'DotBot',
+          'MJ12bot',
+          'PetalBot',
+          'Baiduspider',
+          'Bytespider',
+          'YandexBot',
+          'Amazonbot',
+          'ClaudeBot',
+          'GPTBot',
+          'anthropic-ai',
+          'CCBot',
+          'DataForSeoBot',
+          'MajesticSEO',
+          'BLEXBot',
+          'serpstatbot',
+          'SeznamBot',
+          'meta-externalagent',
         ],
+        disallow: ['/'],
+      },
+
+      // ── Default: tất cả crawlers còn lại ──
+      {
+        userAgent: '*',
+        allow: ['/'],
         disallow: [
           '/api/',
           '/_next/',
