@@ -22,21 +22,51 @@ const removeVietnameseTones = (str: string) => {
         .toLowerCase();
 };
 
+const BRAND_ALIASES: Record<string, string[]> = {
+    'yves saint laurent': ['ysl'],
+    'maison margiela': ['replica', 'margiela'],
+    'maison francis kurkdjian': ['mfk', 'kurkdjian'],
+    'narciso rodriguez': ['nar', 'narciso', 'cuc gach'],
+    'tom ford': ['tf'],
+    'dolce gabbana': ['dg', 'd&g'],
+    'giorgio armani': ['armani', 'gio'],
+    'jean paul gaultier': ['jpg', 'gaultier'],
+    'parfums de marly': ['pdm', 'marly'],
+    'carolina herrera': ['ch', 'herrera'],
+    'viktor rolf': ['vr', 'viktor rolf', 'viktor & rolf'],
+    'marc antoine barrois': ['mab', 'barrois'],
+    'bdk parfums': ['bdk'],
+    'xerjoff': ['casamorati'],
+    'chloe': ['chloe'],
+    'lancome': ['lancome'],
+    'kilian': ['ran', 'ran trang', 'ran den']
+};
+
 const FUSE_DATA = SEARCH_INDEX.map((p: any) => {
     const normName = removeVietnameseTones(p.name);
     const normBrand = removeVietnameseTones(p.brand);
     const normSubName = removeVietnameseTones(p.subName);
     const normTags = p.tags ? p.tags.map((t: string) => removeVietnameseTones(t)) : [];
 
+    // Tự động giải mã brand thành các từ khóa viết tắt ẩn
+    const lowerBrand = normBrand.toLowerCase();
+    let aliases: string[] = [];
+    Object.keys(BRAND_ALIASES).forEach(key => {
+        // e.g. "yves saint laurent" matches "yves saint laurent"
+        if (lowerBrand.includes(key.toLowerCase()) || lowerBrand.replace('&', '') === key.replace('&', '')) {
+            aliases = aliases.concat(BRAND_ALIASES[key]);
+        }
+    });
+
     return {
         ...p,
         normName,
         normBrand,
         normSubName,
-        normTags,
+        normTags: [...normTags, ...aliases],
         normGender: removeVietnameseTones(p.gender === 'nam' ? 'nam nuoc hoa nam' : p.gender === 'nu' ? 'nu nuoc hoa nu' : 'unisex nuoc hoa unisex'),
         normDesc: removeVietnameseTones(p.description),
-        combined: `${normBrand} ${normName} ${normSubName} ${normTags.join(' ')}`.trim()
+        combined: `${normBrand} ${normName} ${normSubName} ${normTags.join(' ')} ${aliases.join(' ')}`.trim()
     };
 });
 
