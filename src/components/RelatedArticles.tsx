@@ -1,4 +1,4 @@
-import { getAllPosts } from "@/sanity/lib/posts";
+import { getAllPosts } from "@/lib/dataPosts";
 import { Perfume } from "@/types";
 import Link from "next/link";
 

@@ -33,7 +33,7 @@ export default function ScoreDisplay({ score, verdictShort, verdict }: ScoreDisp
         </div>
         <div className="min-w-0 flex-1">
           <div className="text-xs font-bold uppercase tracking-[0.14em] text-[var(--color-primary)]">Nhận xét nhanh</div>
-          <h2 className="mt-1 text-lg font-bold leading-snug text-[var(--color-text)] sm:text-xl">
+          <h2 className="mt-1 font-sans text-base sm:text-lg font-semibold leading-snug text-[var(--color-text)]">
             {verdictShort}
           </h2>
 
@@ -49,7 +49,7 @@ export default function ScoreDisplay({ score, verdictShort, verdict }: ScoreDisp
               key={cat.key}
               className="rounded-[var(--radius-md)] border border-[var(--color-border-subtle)] bg-[var(--color-surface-raised)] p-3 text-center transition-colors hover:border-[var(--color-primary-light)]"
             >
-              <div className={`text-2xl font-bold ${scoreTone(val)}`}>
+              <div className={`text-2xl font-sans font-bold tabular-nums ${scoreTone(val)}`}>
                 {val}
                 <span className="text-xs font-normal text-[var(--color-text-muted)]">/10</span>
               </div>

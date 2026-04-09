@@ -191,7 +191,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
       )}
 
       {/* ═══════ HERO SECTION ═══════ */}
-      <section className="grid grid-cols-1 gap-y-6 lg:grid-cols-[minmax(0,1fr)_minmax(380px,0.9fr)] lg:gap-x-12 lg:gap-y-0 items-start mt-4 lg:mt-6">
+      <section className="grid grid-cols-1 gap-y-6 lg:grid-cols-[minmax(0,480px)_1fr] lg:gap-x-12 lg:gap-y-0 items-start mt-4 lg:mt-6">
 
         {/* DOM 1: TITLE & BREADCRUMB (Mobile: Top, Desktop: Right Col, Top) */}
         <div className="lg:col-start-2 lg:row-start-1 w-full border-b border-[var(--color-border)] pb-4 lg:pb-6 mb-2 lg:mb-4">
@@ -204,9 +204,9 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               Nước hoa {product.gender === "nam" ? "nam" : product.gender === "nu" ? "nữ" : "unisex"}
             </Link>
             <span className="select-none text-gray-300">/</span>
-            <span className="text-gray-600 font-medium">
+            <Link href={`/thuong-hieu/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="text-gray-600 font-medium hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
               {product.brand}
-            </span>
+            </Link>
           </nav>
 
           <h1 className="text-[18px] lg:text-[22px] font-serif leading-[1.3] text-[var(--color-text)]">
@@ -221,7 +221,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             style={{ background: "linear-gradient(145deg, #FAF9F7 0%, #EDE8E0 100%)" }}
           >
             <div
-              className="group relative aspect-[4/5] cursor-zoom-in overflow-hidden"
+              className="group relative aspect-square cursor-zoom-in overflow-hidden"
               onClick={() => setLightboxOpen(true)}
             >
               <Image
@@ -239,9 +239,6 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               <div className="absolute top-4 left-4 flex flex-col gap-2">
                 <span className="w-fit rounded-full bg-[#1A1D21]/80 px-3 py-1.5 text-[10px] font-bold uppercase tracking-wider text-white backdrop-blur-sm border border-white/10 shadow-sm">
                   ✓ Chính Hãng 100%
-                </span>
-                <span className="w-fit rounded-full bg-black/40 px-3 py-1.5 text-[10px] font-bold uppercase tracking-wider text-white/90 backdrop-blur-sm">
-                  {SOURCE_LABELS[getImageSource(allImages[activeImage]) || "studio"] || "Gallery"}
                 </span>
               </div>
               {/* Zoom hint */}
@@ -365,7 +362,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               <section>
                 <div className="mb-6">
                   <div className="text-xs font-bold uppercase tracking-[0.14em] text-[var(--color-primary)]">Đánh giá thực tế</div>
-                  <h2 className="mt-2 text-xl font-serif text-[var(--color-text)] sm:text-2xl">Cần biết gì về {product.name}?</h2>
+                  <h2 className="mt-2 text-xl font-sans text-[var(--color-text)] sm:text-2xl font-semibold">Cần biết gì về {product.name}?</h2>
                 </div>
                 <div className="space-y-5">
                   {sections.slice(0, 3).map((sec, i) => {
@@ -375,8 +372,8 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
                         <div className={`inline-block rounded-full px-3 py-1 text-[10px] font-bold uppercase tracking-wider ${style.labelBg} ${style.labelText} mb-3`}>
                           {style.eyebrow}
                         </div>
-                        <h3 className="text-base font-bold text-[var(--color-text)] leading-snug mb-4">{sec.heading}</h3>
-                        <div className="text-[14px] leading-[1.85] text-[var(--color-text-secondary)] space-y-3">
+                        <h3 className="text-base font-bold text-[var(--color-text)] leading-snug mb-4 font-sans">{sec.heading}</h3>
+                        <div className="text-base leading-7 text-[var(--color-text-secondary)] space-y-3">
                           {sec.body.split("\n").filter(l => l.trim()).map((line, li) => (
                             <p key={li}>{line.trim()}</p>
                           ))}
@@ -395,8 +392,8 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
           {/* Verdict Dark Block */}
           {product.verdict && (
             <section className="rounded-2xl bg-[#1A1D21] p-7 sm:p-8">
-              <div className="text-[11px] font-bold uppercase tracking-[0.2em] text-teal-400 mb-3">Kết luận của Maison de SON</div>
-              <blockquote className="text-lg font-serif leading-[1.7] text-white sm:text-xl">&ldquo;{product.verdict}&rdquo;</blockquote>
+              <div className="text-[11px] font-bold uppercase tracking-[0.2em] text-teal-400 mb-3 font-sans">Kết luận của Maison de SON</div>
+              <blockquote className="text-base font-sans font-medium leading-[1.7] text-white sm:text-lg">&ldquo;{product.verdict}&rdquo;</blockquote>
               {product.verdictShort && (
                 <div className="mt-4 inline-block rounded-full border border-white/20 px-4 py-1.5 text-[11px] font-bold uppercase tracking-wider text-white/70">
                   {product.verdictShort}
@@ -411,7 +408,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
           {/* Related Articles */}
           {relatedArticles && (
             <section className="border-t border-[var(--color-border)] pt-8">
-              <h2 className="mb-6 text-xl font-serif text-[var(--color-text)]">Bài viết liên quan</h2>
+              <h2 className="mb-6 text-xl font-sans font-semibold text-[var(--color-text)]">Bài viết liên quan</h2>
               {relatedArticles}
             </section>
           )}
@@ -444,7 +441,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               <div className="space-y-2.5 text-sm">
                 <div className="flex justify-between">
                   <span className="text-[var(--color-text-muted)]">Thương hiệu</span>
-                  <Link href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="font-semibold text-[var(--color-primary)] hover:underline">{product.brand}</Link>
+                  <Link href={`/thuong-hieu/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="font-semibold text-[var(--color-primary)] hover:underline">{product.brand}</Link>
                 </div>
                 <div className="flex justify-between">
                   <span className="text-[var(--color-text-muted)]">Giới tính</span>

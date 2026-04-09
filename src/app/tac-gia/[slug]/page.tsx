@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
-import { getAllPosts } from "@/sanity/lib/posts";
+import { getAllPosts } from "@/lib/dataPosts";
 
 // Data của từng author — dùng slug để route
 const AUTHOR_DATA: Record<string, any> = {

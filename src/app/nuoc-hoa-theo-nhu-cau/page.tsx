@@ -1,4 +1,4 @@
-import { getAllProducts } from "@/sanity/lib/fetchers";
+import { getAllProducts } from "@/lib/dataFetchers";
 import { Metadata } from "next";
 import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";

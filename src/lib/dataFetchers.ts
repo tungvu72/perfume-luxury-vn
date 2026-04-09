@@ -12,7 +12,7 @@ import { findProductByNewSlug, isProductSlug } from '@/lib/productUrl'
 // ─────────────────────────────────────────────────────────────────────────────
 
 export const getAllProducts = cache(async (): Promise<Perfume[]> => {
-    return filterValidProducts(MASTER_PERFUMES);
+    return filterValidProducts(MASTER_PERFUMES.filter(p => p.isPublished === true));
 })
 
 export const getProductBySlug = cache(async (slug: string): Promise<Perfume | null> => {
@@ -28,12 +28,13 @@ export const getPublishedProducts = cache(async (): Promise<Perfume[]> => {
 })
 
 export const getProductsByGender = cache(async (gender: string): Promise<Perfume[]> => {
-    return filterValidProducts(MASTER_PERFUMES.filter(p => p.gender === gender));
+    return filterValidProducts(MASTER_PERFUMES.filter(p => p.isPublished === true && p.gender === gender));
 })
 
 export const getProductsByBrand = cache(async (brandSlug: string): Promise<Perfume[]> => {
     return filterValidProducts(
         MASTER_PERFUMES.filter(p =>
+            p.isPublished === true &&
             (p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-')) === brandSlug
         )
     );
@@ -51,21 +52,21 @@ export const searchProducts = async (searchTerm: string): Promise<Perfume[]> => 
 
 export const getTopRankedProducts = cache(async (): Promise<Perfume[]> => {
     return filterValidProducts(
-        [...MASTER_PERFUMES].sort((a, b) => b.score.total - a.score.total).slice(0, 20)
+        [...MASTER_PERFUMES].filter(p => p.isPublished === true).sort((a, b) => b.score.total - a.score.total).slice(0, 20)
     );
 })
 
 export const getRelatedProducts = cache(async (currentSlug: string, brandName: string, gender: string): Promise<Perfume[]> => {
     return filterValidProducts(
         MASTER_PERFUMES.filter(p =>
-            p.id !== currentSlug && (p.brand === brandName || p.gender === gender)
+            p.isPublished === true && p.id !== currentSlug && (p.brand === brandName || p.gender === gender)
         ).slice(0, 4)
     );
 })
 
 export const getAllBrands = cache(async () => {
     const brandMap = new Map<string, any>();
-    MASTER_PERFUMES.forEach(p => {
+    MASTER_PERFUMES.filter(p => p.isPublished === true).forEach(p => {
         const slug = p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-');
         const existing = brandMap.get(slug);
         if (existing) {

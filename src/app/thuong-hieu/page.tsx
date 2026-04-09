@@ -1,4 +1,4 @@
-import { getAllBrands } from "@/sanity/lib/fetchers";
+import { getAllBrands } from "@/lib/dataFetchers";
 import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Link from "next/link";
@@ -40,11 +40,11 @@ const SEO_PLACEHOLDER_BRANDS = [
 
 export default async function BrandsIndexPage() {
     // Lấy danh sách brand từ Sanity
-    const sanityBrands = await getAllBrands();
-    const activeBrandsMap = new Map(sanityBrands.map((b: any) => [b.name.toUpperCase(), b]));
+    const allBrands = await getAllBrands();
+    const activeBrandsMap = new Map(allBrands.map((b: any) => [b.name.toUpperCase(), b]));
 
     // Gộp tất cả brand (thật + placeholder), loại bỏ trùng lặp
-    const allBrandNamesSet = new Set([...SEO_PLACEHOLDER_BRANDS, ...sanityBrands.map((b: any) => b.name.toUpperCase())]);
+    const allBrandNamesSet = new Set([...SEO_PLACEHOLDER_BRANDS, ...allBrands.map((b: any) => b.name.toUpperCase())]);
     const allBrandNames = Array.from(allBrandNamesSet).sort();
 
     // Nhóm theo chữ cái đầu
@@ -56,7 +56,7 @@ export default async function BrandsIndexPage() {
     });
 
     const letters = Object.keys(grouped).sort();
-    const totalProducts = sanityBrands.reduce((acc: number, b: any) => acc + (b.productCount || 0), 0);
+    const totalProducts = allBrands.reduce((acc: number, b: any) => acc + (b.productCount || 0), 0);
 
     return (
         <main className="min-h-screen bg-white pb-20">

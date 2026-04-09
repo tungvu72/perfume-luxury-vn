@@ -1,8 +1,8 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { Metadata } from "next";
-import { getAllPosts } from "@/sanity/lib/posts";
-import { getAllProducts } from "@/sanity/lib/fetchers";
+import { getAllPosts } from "@/lib/dataPosts";
+import { getAllProducts } from "@/lib/dataFetchers";
 import Link from "next/link";
 import Image from "next/image";
 import { getProductUrl } from "@/lib/productUrl";

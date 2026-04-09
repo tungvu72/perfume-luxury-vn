@@ -1,6 +1,6 @@
 import CategoryLayout from "@/components/CategoryLayout";
 import { Metadata } from "next";
-import { getProductsByGender } from "@/sanity/lib/fetchers";
+import { getProductsByGender } from "@/lib/dataFetchers";
 import Breadcrumbs from "@/components/Breadcrumbs";
 
 const now = new Date();

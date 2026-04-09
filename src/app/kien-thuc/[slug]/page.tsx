@@ -1,5 +1,5 @@
 import { redirect } from 'next/navigation';
-import { getAllPosts } from '@/sanity/lib/posts';
+import { getAllPosts } from '@/lib/dataPosts';
 
 export const dynamicParams = true;
 

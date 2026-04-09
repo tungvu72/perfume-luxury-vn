@@ -1,5 +1,5 @@
 import { Perfume } from "@/types";
-import { getRelatedProducts } from "@/sanity/lib/fetchers";
+import { getRelatedProducts } from "@/lib/dataFetchers";
 import Link from "next/link";
 import Image from "next/image";
 import { getProductUrl } from "@/lib/productUrl";
@@ -29,7 +29,6 @@ export default async function RelatedProducts({ current }: { current: Perfume })
                         </div>
                         <div className="text-[9px] font-bold text-gray-400 tracking-widest uppercase">{p.brand}</div>
                         <div className="text-sm font-semibold truncate group-hover:text-primary transition-colors">{p.name}</div>
-                        <div className="text-xs text-gray-400 mt-1">{p.basePrice.toLocaleString()}đ</div>
                     </Link>
                 ))}
             </div>

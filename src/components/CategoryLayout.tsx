@@ -39,7 +39,6 @@ export default function CategoryLayout({ title, description, products }: { title
                             </div>
                             <span className="text-[10px] font-bold text-gray-400 tracking-wider uppercase">{product.brand}</span>
                             <h3 className="text-sm font-semibold group-hover:text-primary transition-colors mt-1">{product.name}</h3>
-                            <div className="text-xs text-gray-500 mt-1">{product.basePrice.toLocaleString()} VNĐ</div>
                         </Link>
                     ))}
                 </div>
