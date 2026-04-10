@@ -204,7 +204,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               Nước hoa {product.gender === "nam" ? "nam" : product.gender === "nu" ? "nữ" : "unisex"}
             </Link>
             <span className="select-none text-gray-300">/</span>
-            <Link href={`/thuong-hieu/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="text-gray-600 font-medium hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
+            <Link href={`/thuong-hieu/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="text-gray-600 font-medium hover:text-[var(--color-primary)] hover:underline transition-colors duration-200 max-w-[160px] lg:max-w-none truncate inline-block align-bottom">
               {product.brand}
             </Link>
           </nav>
