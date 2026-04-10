@@ -200,11 +200,11 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               <Home size={12} className="text-gray-400" /> Trang chủ
             </Link>
             <span className="select-none text-gray-300">/</span>
-            <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="text-gray-400 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
+            <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="inline-flex items-center text-gray-400 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
               Nước hoa {product.gender === "nam" ? "nam" : product.gender === "nu" ? "nữ" : "unisex"}
             </Link>
             <span className="select-none text-gray-300">/</span>
-            <Link href={`/thuong-hieu/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="text-gray-600 font-medium hover:text-[var(--color-primary)] hover:underline transition-colors duration-200 max-w-[160px] lg:max-w-none truncate inline-block align-bottom">
+            <Link href={`/thuong-hieu/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="inline-flex items-center text-gray-600 font-medium hover:text-[var(--color-primary)] hover:underline transition-colors duration-200 max-w-[160px] lg:max-w-none truncate">
               {product.brand}
             </Link>
           </nav>
