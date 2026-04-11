@@ -75,7 +75,7 @@
 - Verify: `git -C "d:\anti\perfume-luxury-vn" log --oneline -3 origin/main`
 - Credentials đã lưu trong Windows Credential Manager (`git:https://github.com`) — không cần nhập lại
 - **Vercel token backup** (nếu cần deploy thẳng không qua git): stored locally, do not commit to git
-- Vercel dashboard: https://vercel.com/tungvu72s-projects/perfume-luxury-vn-q72y
+- Vercel dashboard: https://vercel.com/tungvu7202-5838s-projects/perfume-luxury-vn (Domain mới: perfume-luxury-vn-pink.vercel.app)
 - Workflow chi tiết: `.agents/workflows/git-push-deploy.md`
 
 ## Memory & Storage Rule
