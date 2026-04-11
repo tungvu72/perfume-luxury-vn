@@ -4249,13 +4249,39 @@ Giá Givenchy — affordable hơn Dior/Chanel. So với Gentleman EDP gốc — 
     brandSlug: "carolina-herrera",
     brand: "CAROLINA HERRERA",
     name: "Good Girl EDP",
-    subName: "Eau de Parfum",
+    subName: "EDP",
     perfumer: "Louise Turner",
     gender: "nu",
     year: 2016,
+    longevity: 7,
+    sillage: 8,
+    seasons: {"spring":30,"summer":10,"fall":85,"winter":100},
+    dayNight: {"day":15,"night":85},
+    seoTitle: "Carolina Herrera Good Girl EDP chính hãng mua ở đâu?",
+    metaDescription: "Đánh giá Carolina Herrera Good Girl EDP chính hãng: Biểu tượng giày gót nhọn, cacao ngọt ngào cho tiệc tùng cháy phố.",
+    description: "Good Girl EDP mang đến hình ảnh chiếc giày gót nhọn lừng danh của giới sành điệu. Mùi hương ngập tràn sự quyến rũ chết người từ cacao sưởi ấm kết hợp với hoa huệ, lý tưởng cho những đêm tiệc tùng bùng nổ năng lượng.",
+    score: {"scent":8,"uniqueness":6,"compliments":8.5,"value":9,"total":8},
+    topNotes: [
+      {"name": "Cacao"},
+      {"name": "Hạnh nhân"}
+    ],
+    middleNotes: [
+      {"name": "Hoa huệ (Tuberose)"},
+      {"name": "Hoa nhài"}
+    ],
+    baseNotes: [
+      {"name": "Đậu Tonka"},
+      {"name": "Vanilla"}
+    ],
+    accords: [
+      {"name": "Ngọt ngào", "value": 100, "color": "#ff3333"},
+      {"name": "Hoa trắng", "value": 85, "color": "#f0f8ff"},
+      {"name": "Cay ấm", "value": 80, "color": "#cc4400"},
+      {"name": "Vanilla", "value": 75, "color": "#ffffcc"},
+      {"name": "Hổ phách", "value": 70, "color": "#d2691e"}
+    ],
     image: "/images/products/carolina-herrera-good-girl-main.jpg",
     images: [{ url: "/images/products/carolina-herrera-good-girl-main.jpg", source: "fragram", caption: "Carolina Herrera Good Girl Eau de Parfum", verified: true }, { url: "/images/products/good-girl/nuoc-hoa-nu-carolina-herrera-good-girl-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/good-girl/nuoc-hoa-nu-carolina-herrera-good-girl-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/good-girl/nuoc-hoa-nu-carolina-herrera-good-girl-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/good-girl/nuoc-hoa-nu-carolina-herrera-good-girl-thuc-te-4.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
-    description: "Chai nữ ngọt sexy nổi tiếng nhất dòng designer — hạnh nhân, cà phê, hoa huệ và cacao. Dễ gây chú ý, rất hợp đi tối và hẹn hò.",
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi nhẹ nhàng, trong trẻo kiểu Miss Dior Blooming Bouquet thì Good Girl hoàn toàn ngược — đây là mùi đậm, ngọt và sexy rõ ràng. Ai dùng hằng ngày đi văn phòng sẽ thấy chai này hơi nhiều, đặc biệt nếu xịt quá 2 nhát. Ngoài ra, người nhạy cảm với mùi ngọt sâu (cacao, đậu Tonka) nên thử trước vì Good Girl khá nồng trong không gian kín.
@@ -4269,24 +4295,7 @@ Good Girl thuộc phân khúc designer cao cấp — giá tương đương Coco 
 Hẹn hò buổi tối, đi bar, đi ăn nhà hàng, dự tiệc. Xịt 1-2 nhát thôi: 1 cổ, 1 cổ tay — vì tỏa rất mạnh. Đẹp nhất khi trời mát, mùa đông hoặc buổi tối. Ở Sài Gòn dùng trong phòng máy lạnh. Đừng xịt 3-4 nhát đi ăn trưa trong quán nhỏ — mọi người sẽ chỉ ngửi thấy bạn.`,
     verdict: "Mùi này ngọt, sexy và khá nổi. Hợp đi tối hoặc lúc muốn tạo dấu ấn rõ rệt. Không hợp ai thích mùi nhẹ nhàng cho ban ngày.",
     verdictShort: "NGỌT, SEXY, KHÁ NỔI",
-    score: { scent: 8.7, uniqueness: 8, compliments: 9, value: 8.2, total: 8.5 },
     vibes: [{ label: "Hẹn hò", icon: "❤️" }, { label: "Buổi tối", icon: "🌙" }, { label: "Sexy", icon: "🔥" }],
-    longevity: 8,
-    sillage: 8,
-    seasons: { spring: 60, summer: 28, fall: 88, winter: 92 },
-    dayNight: { day: 30, night: 96 },
-    topNotes: [{ name: "Hạnh nhân" }, { name: "Cà phê" }],
-    middleNotes: [{ name: "Hoa huệ" }, { name: "Hoa nhài sambac" }],
-    baseNotes: [{ name: "Đậu Tonka" }, { name: "Cacao" }, { name: "Vani" }],
-    accords: [
-      { name: "Hoa trắng", value: 100, color: "#e75480" },
-      { name: "Ngọt", value: 88, color: "#8B0000" },
-      { name: "Cacao", value: 68, color: "#5d4037" },
-      { name: "Gia vị ấm", value: 55, color: "#e67e22" },
-      { name: "Gỗ", value: 45, color: "#8B4513" }
-    ],
-    seoTitle: "Carolina Herrera Good Girl chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Good Girl chính hãng: mùi cà phê hoa trắng quyến rũ, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
     tags: ["Nữ", "Hẹn hò", "Buổi tối", "Sexy"],
     sizes: ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "80ml Fullbox"],
     basePrice: 2550000,
@@ -11043,58 +11052,6 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
     baseNotes: [{"name":"Hổ phách mù"},{"name":"Hoắc hương"},{"name":"Xạ hương rêu"}],
     accords: [{"name":"Biển cả","value":100,"color":"#0000cd"},{"name":"Giải nhiệt","value":85,"color":"#00bfff"}],
     tags: ["Thơm lâu", "Tôn lên vẻ đẹp", "Theo dòng xu hướng"],
-    sizes: ["100ml"],
-    basePrice: 0,
-    shopeeOffers: [],
-    isPublished: true
-},
-  {
-    id: "good-girl-carolina",
-    brand: "Carolina Herrera",
-    brandSlug: "carolina-herrera",
-    name: "Good Girl EDP",
-    subName: "EDP",
-    perfumer: "Louise Turner",
-    gender: "nu",
-    year: 2016,
-    longevity: 7,
-    sillage: 8,
-    seasons: {"spring":30,"summer":10,"fall":85,"winter":100},
-    dayNight: {"day":15,"night":85},
-    seoTitle: "Carolina Herrera Good Girl EDP chính hãng mua ở đâu?",
-    metaDescription: "Đánh giá Carolina Herrera Good Girl EDP chính hãng: Biểu tượng giày gót nhọn, cacao ngọt ngào cho tiệc tùng cháy phố.",
-    description: "Good Girl EDP mang đến hình ảnh chiếc giày gót nhọn lừng danh của giới sành điệu. Mùi hương ngập tràn sự quyến rũ chết người từ cacao sưởi ấm kết hợp với hoa huệ, lý tưởng cho những đêm tiệc tùng bùng nổ năng lượng.",
-    score: {"scent":8,"uniqueness":6,"compliments":8.5,"value":9,"total":8},
-    topNotes: [
-      {"name": "Cacao"},
-      {"name": "Hạnh nhân"}
-    ],
-    middleNotes: [
-      {"name": "Hoa huệ (Tuberose)"},
-      {"name": "Hoa nhài"}
-    ],
-    baseNotes: [
-      {"name": "Đậu Tonka"},
-      {"name": "Vanilla"}
-    ],
-    accords: [
-      {"name": "Ngọt ngào", "value": 100, "color": "#ff3333"},
-      {"name": "Hoa trắng", "value": 85, "color": "#f0f8ff"},
-      {"name": "Cay ấm", "value": 80, "color": "#cc4400"},
-      {"name": "Vanilla", "value": 75, "color": "#ffffcc"},
-      {"name": "Hổ phách", "value": 70, "color": "#d2691e"}
-    ],
-    image: "/images/products/good-girl-carolina/nuoc-hoa-good-girl-carolina-thuc-te-1.webp",
-    images: [
-      { url: "/images/products/good-girl-carolina/nuoc-hoa-good-girl-carolina-thuc-te-1.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true },
-      { url: "/images/products/good-girl-carolina/nuoc-hoa-good-girl-carolina-thuc-te-2.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true },
-      { url: "/images/products/good-girl-carolina/nuoc-hoa-good-girl-carolina-thuc-te-3.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true },
-      { url: "/images/products/good-girl-carolina/nuoc-hoa-good-girl-carolina-thuc-te-4.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }
-    ],
-    verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
-    verdictShort: "Đang cập nhật",
-    vibes: [{"label":"Quyến rũ","icon":"👠"},{"label":"Tiệc đêm","icon":"✨"}],
-    tags: ["Thơm lâu", "Tôn lên vẻ đẹp", "Đáng mua năm nay"],
     sizes: ["100ml"],
     basePrice: 0,
     shopeeOffers: [],
