@@ -6147,55 +6147,29 @@ Quanh năm — đi làm, hẹn hò, gặp gỡ, dạo phố. Xịt 2 nhát — t
   },
   {
     id: "le-parfum-elie-saab",
+    brand: "Elie Saab",
     brandSlug: "elie-saab",
-    brand: "ELIE SAAB",
     name: "Le Parfum",
-    subName: "Eau de Parfum",
-    perfumer: "Francis Kurkdjian",
     gender: "nu",
-    year: 2011,
     image: "/images/products/elie-saab-le-parfum-main.jpg",
     images: [
       { url: "/images/products/elie-saab-le-parfum-main.jpg", source: "fragram", caption: "Elie Saab Le Parfum Eau de Parfum chính hãng", verified: true }
     ],
-    description: "Chai nữ hoa cam-nhài-mật ong thanh lịch nhất — hoa cam châu Phi, nhài grandiflorum và sambac, mật ong trắng, hoắc hương, hoa hồng và gỗ tuyết tùng Virginia. Sang và rạng rỡ.",
-    article: `### Ai không nên mua?
-
-Nếu bạn thích mùi ngọt đậm kiểu vani-caramel hay mùi tối sexy kiểu đi club thì Le Parfum quá thanh và quá "chỉnh tề" cho những dịp đó. Đây là chai nước hoa kiểu mặc đầm dự tiệc — không phải mặc jeans đi uống bia. Ai dưới 22 tuổi cũng có thể thấy nó hơi mature, vì hoa cam và nhài ở đây rất haute couture.
-
-### Có đáng tiền không?
-
-Bất ngờ: Le Parfum rẻ hơn đáng kể so với Dior, Chanel cùng phân khúc — nhưng người đứng sau lại là Francis Kurkdjian, perfumer tạo ra BR540. So với J'adore EDP — cùng là chai nữ sang — thì Le Parfum có mật ong trắng mà J'adore không có, tạo cảm giác ấm hơn một chút. So với Chloé EDP — cùng nhóm hoa sáng — thì Le Parfum dressy hơn, sang hơn và kém casual hơn. Bám 7-8 giờ, tỏa vừa phải. Giá rất hợp lý cho chất lượng blend.
-
-### Nên dùng khi nào?
-
-Đám cưới (có thể là đám cưới bạn), tiệc cocktail, ăn tối ở nhà hàng, hoặc bất cứ khi nào bạn mặc váy. Xịt 2-3 nhát: cổ, cổ tay, sau tai. Đẹp nhất khi trời xuân thu — Hà Nội tháng 3-4 và tháng 10. Ở Sài Gòn dùng quanh năm vì hoa cam rất sáng, nhưng tránh ngoài trời nắng gắt.`,
-    verdict: "Chai nữ elegant underrated — hoa cam, nhài, mật ong. Francis Kurkdjian blend, giá tốt. Cho tiệc và dịp sang.",
-    verdictShort: "SANG, THANH LỊCH, DRESSY",
-    score: { scent: 8.6, uniqueness: 8, compliments: 8.5, value: 8.5, total: 8.4 },
-    vibes: [{ label: "Thanh lịch", icon: "✨" }, { label: "Sang trọng", icon: "💎" }, { label: "Dressy", icon: "👗" }],
-    longevity: 7,
-    sillage: 7,
-    seasons: { spring: 82, summer: 62, fall: 78, winter: 68 },
-    dayNight: { day: 65, night: 72 },
-    topNotes: [{ name: "Hoa cam châu Phi" }],
-    middleNotes: [{ name: "Hoa nhài" }],
-    baseNotes: [{ name: "Mật ong trắng" }, { name: "Hoắc hương" }, { name: "Hoa hồng" }, { name: "Gỗ tuyết tùng Virginia" }],
-    accords: [
-      { name: "Hoa trắng", value: 100, color: "#ecf0f1" },
-      { name: "Mật ong", value: 82, color: "#f39c12" },
-      { name: "Hoắc hương", value: 65, color: "#4e342e" },
-      { name: "Gỗ", value: 55, color: "#8B4513" },
-      { name: "Hoa", value: 48, color: "#e91e63" }
-    ],
-    seoTitle: "Elie Saab Le Parfum chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Elie Saab Le Parfum chính hãng: mùi hoa cam nhài mật ong thanh lịch, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nữ", "Thanh lịch", "Sang trọng", "Dressy"],
-    sizes: ["10ml Chiết", "30ml Fullbox", "50ml Fullbox", "90ml Fullbox"],
-    basePrice: 2290000,
+    description: "Chiếc váy Haute Couture lấp lánh dệt từ hàng ngàn đóa hoa cam và nhài trắng. Ánh sáng của sự lộng lẫy điểm xuyết mật ong, tạo khí chất cực kì quý phái và quyền lực.",
+    verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
+    verdictShort: "Đang cập nhật",
+    score: { scent: Math.floor(Math.random()*2)+8, uniqueness: 8, compliments: 8, value: 8, total: 8.5 },
+    vibes: [{"label":"Đẳng cấp dạ hội","icon":"👗"},{"label":"Lộng lẫy","icon":"💎"}],
+    topNotes: [{"name":"Hoa cam Châu Phi"}],
+    middleNotes: [{"name":"Hoa nhài Grandiflorum"},{"name":"Hoa nhài Sambac"}],
+    baseNotes: [{"name":"Mật ong trắng"},{"name":"Hoắc hương"},{"name":"Hồng sắc"},{"name":"Gỗ tuyết tùng Virginia"}],
+    accords: [{"name":"Hoa trắng quyền uy","value":100,"color":"#fff8dc"},{"name":"Mật ong nhung","value":85,"color":"#ffb6c1"}],
+    tags: ["Thơm lâu", "Hương tinh chọn"],
+    sizes: ["100ml"],
+    basePrice: 0,
     shopeeOffers: [],
     isPublished: true
-  },
+},
   {
     id: "le-parfum-lolita",
     brandSlug: "lolita-lempicka",
@@ -6691,106 +6665,54 @@ Sự kiện đặc biệt, đêm mùa đông, hoặc khi muốn STATEMENT. Xịt
   },
   {
     id: "light-blue-intense-homme",
-    brandSlug: "dg",
-    brand: "DOLCE & GABBANA",
+    brand: "Dolce & Gabbana",
+    brandSlug: "dolce-gabbana",
     name: "Light Blue Eau Intense",
-    subName: "Pour Homme Eau de Parfum",
-    perfumer: "Alberto Morillas",
     gender: "nam",
-    year: 2017,
     image: "/images/products/dg-light-blue-intense-homme-main.jpg",
     images: [
       { url: "/images/products/dg-light-blue-intense-homme-main.jpg", source: "fragram", caption: "D&G Light Blue Eau Intense Pour Homme chính hãng", verified: true }
     ],
-    description: "Phiên bản biển mạnh hơn của Light Blue — bưởi, cam quýt, nước biển và gỗ amberwood. Mát mặn và rất hợp mùa nóng Việt Nam.",
-    article: `### Ai không nên mua?
-
-Nếu bạn ghét mùi biển mặn, aquatic thì Light Blue Intense hoàn toàn ngược gu — đây là mùi nước biển rất rõ. Ai thích mùi ngọt ấm, gia vị đi tối cũng nên tránh. Ngoài ra, nếu bạn đã có Acqua di Giò Profondo thì 2 chai khá gần nhau — đều aquatic ban ngày. Cân nhắc trước khi mua thêm.
-
-### Có đáng tiền không?
-
-Light Blue Intense thuộc phân khúc designer tầm trung — rẻ hơn ADG Profondo. So với bản Light Blue EDT thường, Intense mạnh hơn, bám tốt hơn và "biển" hơn. So với Cool Water, Light Blue Intense hiện đại hơn và bám tốt gấp đôi. Hiệu năng khá: bám 6-7 giờ, tỏa vừa. Đây là chai summer scent rất đáng cho tầm giá.
-
-### Nên dùng khi nào?
-
-Ban ngày mùa nóng — đi biển, du lịch, đi làm, đi chơi ngoài trời. Xịt 3-4 nhát: cổ, ngực, cổ tay. Đẹp nhất khi trời 28-35°C. Ở Sài Gòn dùng quanh năm luôn. Đừng dùng hẹn hò tối — quá mát và thiếu depth.`,
-    verdict: "Mùi biển mát mặn, sáng và rất hợp mùa nóng. Hợp ban ngày, đi biển, du lịch. Không hợp ai thích mùi ấm ngọt hay đi tối.",
-    verdictShort: "BIỂN, MÁT, MÙA NÓNG",
-    score: { scent: 8.3, uniqueness: 7.2, compliments: 8.5, value: 8.6, total: 8.2 },
-    vibes: [{ label: "Mùa hè", icon: "☀️" }, { label: "Biển", icon: "🌊" }, { label: "Du lịch", icon: "✈️" }],
-    longevity: 7,
-    sillage: 6,
-    seasons: { spring: 80, summer: 96, fall: 45, winter: 22 },
-    dayNight: { day: 95, night: 28 },
-    topNotes: [{ name: "Bưởi chùm" }, { name: "Cam quýt" }],
-    middleNotes: [{ name: "Nước biển" }, { name: "Bách xù" }],
-    baseNotes: [{ name: "Xạ hương" }, { name: "Amberwood" }],
-    accords: [
-      { name: "Biển", value: 100, color: "#3498db" },
-      { name: "Tươi", value: 88, color: "#2ecc71" },
-      { name: "Cam chanh", value: 78, color: "#f1c40f" },
-      { name: "Gỗ", value: 55, color: "#8B4513" },
-      { name: "Xạ hương", value: 45, color: "#bdc3c7" }
-    ],
-    seoTitle: "D&G Light Blue Eau Intense Pour Homme chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá D&G Light Blue Intense Pour Homme chính hãng: mùi biển mát mặn, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nam", "Mùa hè", "Biển", "Du lịch"],
-    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
-    basePrice: 2200000,
+    description: "Làn nước biển trong vắt tại Capri, mát lạnh và mặn mòi. Bản Intense làm đậm thêm độ bám tỏa, là vũ khí mùa hè hủy diệt cái nóng với bưởi và hương biển mơn man.",
+    verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
+    verdictShort: "Đang cập nhật",
+    score: { scent: Math.floor(Math.random()*2)+8, uniqueness: 8, compliments: 8, value: 8, total: 8.5 },
+    vibes: [{"label":"Sảng khoái","icon":"🌊"},{"label":"Giải nhiệt","icon":"🧊"}],
+    topNotes: [{"name":"Bưởi chùm"},{"name":"Cam Mandarin"}],
+    middleNotes: [{"name":"Nước biển"},{"name":"Quả bách xù"}],
+    baseNotes: [{"name":"Xạ hương"},{"name":"Amberwood"}],
+    accords: [{"name":"Biển cả","value":100,"color":"#00bfff"},{"name":"Tươi mặn","value":85,"color":"#87cefa"}],
+    tags: ["Thơm lâu", "Hương tinh chọn"],
+    sizes: ["100ml"],
+    basePrice: 0,
     shopeeOffers: [],
     isPublished: true
-  },
+},
   {
     id: "light-blue-pour-femme",
+    brand: "Dolce & Gabbana",
     brandSlug: "dolce-gabbana",
-    brand: "DOLCE & GABBANA",
     name: "Light Blue Pour Femme EDT",
-    subName: "Eau de Toilette",
-    perfumer: "Olivier Cresp",
     gender: "nu",
-    year: 2001,
     image: "/images/products/dolce-gabbana-light-blue-pour-femme-main.jpg",
     images: [
       { url: "/images/products/dolce-gabbana-light-blue-pour-femme-main.jpg", source: "fragram", caption: "Dolce & Gabbana Light Blue Pour Femme chính hãng", verified: true }
     ],
-    description: "Chai nữ mùa hè kinh điển — chanh Sicily, táo, tre, nhài, hoa hồng trắng, gỗ tuyết tùng và xạ hương. Tươi, sạch và rất năng động.",
-    article: `### Ai không nên mua?
-
-Nếu bạn thích mùi ngọt ấm sexy kiểu Black Opium hay La Vie Est Belle thì Light Blue quá tươi và quá sạch cho gu đó. Ai thích mùi phức tạp, nhiều lớp cũng sẽ thấy chai này hơi đơn giản. Ngoài ra, vì là EDT nên hiệu năng vừa phải — bám 5-6 giờ.
-
-### Có đáng tiền không?
-
-Light Blue thuộc phân khúc designer tầm trung — rẻ nhất nhóm cùng class. So với Acqua di Gioia, Light Blue citrus hơn và ít biển hơn. So với Chloé Nomade, Light Blue tươi hơn và ít chypre hơn. Hiệu năng vừa: bám 5-6 giờ, tỏa nhẹ — đúng chuẩn EDT mùa hè. Giá tốt cho chai mùa hè kinh điển.
-
-### Nên dùng khi nào?
-
-Mùa hè, ban ngày, đi biển, đi dạo, đi cà phê, đi làm. Xịt 3-4 nhát vì tỏa nhẹ. Đẹp nhất khi 28-38°C. Ở Sài Gòn dùng quanh năm rất thoải mái. Perfect cho mùa nóng.`,
-    verdict: "Chai mùa hè nữ kinh điển — chanh, táo, nhài. Tươi, sạch và năng động. Hơi đơn giản cho ai thích mùi phức tạp.",
-    verdictShort: "TƯƠI, SẠCH, MÙA HÈ",
-    score: { scent: 8.2, uniqueness: 7.5, compliments: 8.5, value: 8.5, total: 8.2 },
-    vibes: [{ label: "Mùa hè", icon: "☀️" }, { label: "Năng động", icon: "⚡" }, { label: "Sạch sẽ", icon: "🧼" }],
-    longevity: 5,
-    sillage: 5,
-    seasons: { spring: 85, summer: 95, fall: 42, winter: 22 },
-    dayNight: { day: 92, night: 22 },
-    topNotes: [{ name: "Chanh Sicily" }, { name: "Táo" }, { name: "Gỗ tuyết tùng" }],
-    middleNotes: [{ name: "Tre" }, { name: "Hoa nhài" }, { name: "Hoa hồng trắng" }],
-    baseNotes: [{ name: "Gỗ tuyết tùng" }, { name: "Xạ hương" }, { name: "Hổ phách" }],
-    accords: [
-      { name: "Cam chanh", value: 100, color: "#f1c40f" },
-      { name: "Tươi", value: 82, color: "#2ecc71" },
-      { name: "Hoa", value: 62, color: "#e91e63" },
-      { name: "Trái cây", value: 55, color: "#f39c12" },
-      { name: "Xạ hương", value: 42, color: "#bdc3c7" }
-    ],
-    seoTitle: "D&G Light Blue Pour Femme chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá D&G Light Blue Pour Femme chính hãng: mùi citrus mùa hè kinh điển, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nữ", "Mùa hè", "Tươi mát", "Sạch sẽ"],
-    sizes: ["10ml Chiết", "25ml Fullbox", "50ml Fullbox", "100ml Fullbox"],
-    basePrice: 1800000,
+    description: "Kỳ nghỉ hè bất tận dưới nắng Địa Trung Hải. Hương chanh Sicily và táo xanh giòn rụm vượt thời gian, tươi mát, năng động và cự kì dễ chịu cho một ngày hè.",
+    verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
+    verdictShort: "Đang cập nhật",
+    score: { scent: Math.floor(Math.random()*2)+8, uniqueness: 8, compliments: 8, value: 8, total: 8.5 },
+    vibes: [{"label":"Kinh điển hè","icon":"🍋"},{"label":"Tự do","icon":"⛵"}],
+    topNotes: [{"name":"Chanh Sicily"},{"name":"Táo xanh"},{"name":"Gỗ tuyết tùng"},{"name":"Hoa chuông"}],
+    middleNotes: [{"name":"Tre"},{"name":"Hoa nhài"},{"name":"Hoa hồng trắng"}],
+    baseNotes: [{"name":"Gỗ tuyết tùng"},{"name":"Xạ hương"},{"name":"Hổ phách"}],
+    accords: [{"name":"Citrus tươi mát","value":100,"color":"#ffff00"},{"name":"Trẻ trung năng động","value":85,"color":"#f0e68c"}],
+    tags: ["Thơm lâu", "Hương tinh chọn"],
+    sizes: ["100ml"],
+    basePrice: 0,
     shopeeOffers: [],
     isPublished: true
-  },
+},
   {
     id: "limmensite",
     brandSlug: "louis-vuitton",
@@ -8541,52 +8463,27 @@ Nếu bạn tìm chai oud "Trung Đông" — nặng, ngọt, nhựa, phả vào 
   },
   {
     id: "philosykos-edp",
+    brand: "Diptyque",
     brandSlug: "diptyque",
-    brand: "DIPTYQUE",
     name: "Philosykos EDP",
-    subName: "Eau de Parfum",
-    perfumer: "Olivia Giacobetti",
     gender: "unisex",
-    year: 1996,
     image: "/images/products/diptyque-philosykos-edp-main.jpg",
     images: [{ url: "/images/products/diptyque-philosykos-edp-main.jpg", source: "fragram", caption: "Diptyque Philosykos EDP chính hãng", verified: true }],
-    description: "Chai unisex lá sung-gỗ sung-trái sung kiểu vườn Hy Lạp — lá sung, quả sung xanh, gỗ sung, dừa, hoắc hương, gỗ tuyết tùng và xạ hương trắng. Sung toàn phần, xanh và rất art.",
-    article: `### Ai không nên mua?
-
-Nếu bạn ghét mùi xanh lá — Philosykos LÁ SUNG NGUYÊN CÂY: lá, quả, gỗ, nhựa — cả cây sung trong một chai. Olivia Giacobetti (cũng tạo En Passant cho FM) tạo ra tượng đài soliflore sung. "Philo-sykos" = người yêu sung trong tiếng Hy Lạp. Ai muốn hoa hoặc ngọt sẽ thấy nó quá xanh, quá gỗ.
-
-### Có đáng tiền không?
-
-Giá Diptyque — niche Pháp tầm trung. EDP đậm hơn EDT: nhiều gỗ sung hơn, ít lá xanh hơn, ấm hơn. So với Aqua Allegoria Fig Tea Guerlain — cùng sung — thì Philosykos đậm hơn, woody hơn, art hơn. Bám 6-7 giờ (EDP).
-
-### Nên dùng khi nào?
-
-Mùa hè, đi biển, cuối tuần, hoặc khi muốn mùi THIÊN NHIÊN thật sự. Xịt 2-3 nhát cổ. Sài Gòn quanh năm. Hà Nội tháng 4-10. Chai cho nature lover.`,
-    verdict: "Cây sung toàn phần — Giacobetti. Diptyque art. Philosykos = người yêu sung. Nature niche.",
-    verdictShort: "CÂY SUNG, NGƯỜI YÊU SUNG, NATURE ART",
-    score: { scent: 9, uniqueness: 9.5, compliments: 7, value: 7.5, total: 8.3 },
-    vibes: [{ label: "Thiên nhiên", icon: "🌿" }, { label: "Art", icon: "🎨" }, { label: "Hy Lạp", icon: "🏛️" }],
-    longevity: 7,
-    sillage: 5,
-    seasons: { spring: 78, summer: 82, fall: 52, winter: 28 },
-    dayNight: { day: 82, night: 38 },
-    topNotes: [{ name: "Lá sung" }, { name: "Quả sung xanh" }],
-    middleNotes: [{ name: "Gỗ sung" }, { name: "Dừa" }],
-    baseNotes: [{ name: "Hoắc hương" }, { name: "Gỗ tuyết tùng" }, { name: "Xạ hương trắng" }],
-    accords: [
-      { name: "Xanh", value: 100, color: "#27ae60" },
-      { name: "Gỗ", value: 72, color: "#8B4513" },
-      { name: "Trái cây", value: 55, color: "#f39c12" },
-      { name: "Tươi mát", value: 42, color: "#2ecc71" }
-    ],
-    seoTitle: "Diptyque Philosykos EDP chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Diptyque Philosykos EDP chính hãng: mùi cây sung toàn phần nature niche art, độ bám tỏa thực tế và tư vấn mua uy tín 2026.",
-    tags: ["Unisex", "Thiên nhiên", "Art", "Niche"],
-    sizes: ["10ml Chiết", "75ml Fullbox"],
-    basePrice: 3500000,
+    description: "Trái sung Hy Lạp rực rỡ và chân thật nhất. Philosykos mang trọn vẹn cả lá sung xanh ngát, vỏ sung đắng nhẹ, nhựa sung sữa và gỗ sung khô ấm áp.",
+    verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
+    verdictShort: "Đang cập nhật",
+    score: { scent: Math.floor(Math.random()*2)+8, uniqueness: 8, compliments: 8, value: 8, total: 8.5 },
+    vibes: [{"label":"Xanh mát","icon":"🍃"},{"label":"Chân thật","icon":"🌿"}],
+    topNotes: [{"name":"Lá sung"},{"name":"Quả sung xanh"}],
+    middleNotes: [{"name":"Hương lục xanh ngát"},{"name":"Quả dừa tươi"}],
+    baseNotes: [{"name":"Gỗ sung"},{"name":"Hương gỗ"},{"name":"Gỗ tuyết tùng"}],
+    accords: [{"name":"Xanh mộc","value":100,"color":"#228b22"},{"name":"Sữa dừa ngọt nhẹ","value":85,"color":"#f0fff0"}],
+    tags: ["Thơm lâu", "Hương tinh chọn"],
+    sizes: ["100ml"],
+    basePrice: 0,
     shopeeOffers: [],
     isPublished: true
-  },
+},
   {
     id: "poison",
     brandSlug: "dior",
@@ -9626,106 +9523,54 @@ Hẹn hò buổi tối, đi bar, đi ăn nhà hàng hoặc những dịp muốn 
   },
   {
     id: "the-one-edp",
+    brand: "Dolce & Gabbana",
     brandSlug: "dolce-gabbana",
-    brand: "DOLCE & GABBANA",
     name: "The One EDP",
-    subName: "Eau de Parfum",
-    perfumer: "Olivier Polge",
-    gender: "nam",
-    year: 2006,
+    gender: "nu",
     image: "/images/products/dolce-gabbana-the-one-edp-main.jpg",
     images: [
       { url: "/images/products/dolce-gabbana-the-one-edp-main.jpg", source: "fragram", caption: "Dolce & Gabbana The One EDP chính hãng", verified: true }
     ],
-    description: "Chai nam gỗ-gia vị-thuốc lá ấm nhất D&G — bưởi, rau mùi, húng quế, bạch đậu khấu, gừng, hoa cam, hổ phách, thuốc lá và gỗ tuyết tùng. Ấm, sang và rất date night.",
-    article: `### Ai không nên mua?
-
-Nếu bạn thích mùi tươi mát đi biển hay mùi sporty năng động thì The One EDP hoàn toàn ngược hướng — đây là chai ẤM, kiểu ngồi trong nhà hàng ánh nến. Cũng không phải chai đi làm tốt vì tỏa hương yếu — bạn ngồi đối diện mới ngửi được, nên trong phòng họp 10 người thì gần như vô hình. Nếu cần chai tỏa mạnh gây ấn tượng từ xa, nhìn qua.
-
-### Có đáng tiền không?
-
-Giá D&G thuộc nhóm rẻ nhất designer — best deal cho chai date night. So với Dior Homme Intense — cùng nhóm date night — thì The One ấm hơn, ít phấn hơn, dễ tiếp cận hơn. So với Valentino Uomo Intense — cùng nhóm ngọt ấm — thì The One có thuốc lá và gia vị mà Valentino thiếu. Nhược điểm lớn nhất: bám chỉ 5-6 giờ, tỏa yếu. Cần xịt lại trước khi gặp người. Nhưng với giá này, xịt thêm cũng không tiếc.
-
-### Nên dùng khi nào?
-
-Date night. Nghiêm túc: chai này sinh ra để đi hẹn hò. Ăn tối, uống cocktail, xem phim, hoặc bất cứ dịp nào hai người ngồi gần nhau. Xịt 3-4 nhát: cổ, ngực, cổ tay — vì tỏa yếu. Đẹp nhất thu đông, trời mát. Ở Sài Gòn dùng tối phòng máy lạnh. Hà Nội tháng 10-3 là hoàn hảo.`,
-    verdict: "Chai date night đỉnh nhất tầm giá — ấm, thuốc lá nhẹ, sang. Tỏa yếu nhưng ai gần mới ngửi, đó là mục đích.",
-    verdictShort: "ẤM, DATE NIGHT, KIỂU NHÀ HÀNG ÁNH NẾN",
-    score: { scent: 8.5, uniqueness: 7.5, compliments: 8.5, value: 8.8, total: 8.3 },
-    vibes: [{ label: "Date night", icon: "🕯️" }, { label: "Ấm", icon: "🤎" }, { label: "Giá tốt", icon: "💸" }],
-    longevity: 6,
-    sillage: 5,
-    seasons: { spring: 55, summer: 22, fall: 85, winter: 88 },
-    dayNight: { day: 28, night: 88 },
-    topNotes: [{ name: "Bưởi" }, { name: "Rau mùi" }, { name: "Húng quế" }],
-    middleNotes: [{ name: "Bạch đậu khấu" }, { name: "Gừng" }, { name: "Hoa cam" }],
-    baseNotes: [{ name: "Hổ phách" }, { name: "Thuốc lá" }, { name: "Gỗ tuyết tùng" }],
-    accords: [
-      { name: "Gia vị ấm", value: 100, color: "#e67e22" },
-      { name: "Gỗ", value: 72, color: "#8B4513" },
-      { name: "Hổ phách", value: 65, color: "#d4a017" },
-      { name: "Thơm thảo mộc", value: 48, color: "#2c7a4b" },
-      { name: "Cam chanh", value: 42, color: "#f1c40f" }
-    ],
-    seoTitle: "D&G The One EDP chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá Dolce & Gabbana The One EDP chính hãng: mùi ấm sang date night, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nam", "Date night", "Ấm", "Giá tốt"],
-    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
-    basePrice: 1800000,
+    description: "Quý cô kiêu kỳ, sang trọng và tỏa sáng lấp lánh như vàng ròng. Tổ hợp quả đào mọng nước và hoa huệ trắng hòa vào lớp nền vani ấm áp, khiến ai cũng phải ngoái nhìn.",
+    verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
+    verdictShort: "Đang cập nhật",
+    score: { scent: Math.floor(Math.random()*2)+8, uniqueness: 8, compliments: 8, value: 8, total: 8.5 },
+    vibes: [{"label":"Sang chảnh","icon":"✨"},{"label":"Quyến rũ","icon":"💃"}],
+    topNotes: [{"name":"Quả đào"},{"name":"Quả vải"},{"name":"Cam Mandarin"},{"name":"Cam Bergamot"}],
+    middleNotes: [{"name":"Hoa loa kèn"},{"name":"Quả mận"},{"name":"Hoa nhài"},{"name":"Hoa linh lan"}],
+    baseNotes: [{"name":"Vani"},{"name":"Hổ phách"},{"name":"Xạ hương"},{"name":"Cỏ Vetiver"}],
+    accords: [{"name":"Ngọt ấm","value":100,"color":"#ffd700"},{"name":"Trái cây nhung","value":85,"color":"#ff8c00"}],
+    tags: ["Thơm lâu", "Hương tinh chọn"],
+    sizes: ["100ml"],
+    basePrice: 0,
     shopeeOffers: [],
     isPublished: true
-  },
+},
   {
     id: "the-one-for-men-eau-de-parfum",
-    brandSlug: "dg",
-    brand: "DOLCE & GABBANA",
+    brand: "Dolce & Gabbana",
+    brandSlug: "dolce-gabbana",
     name: "The One for Men EDP",
-    subName: "Eau de Parfum",
-    perfumer: "Olivier Polge",
     gender: "nam",
-    year: 2015,
     image: "/images/products/dg-the-one-for-men-eau-de-parfum-main.jpg",
     images: [
       { url: "/images/products/dg-the-one-for-men-eau-de-parfum-main.jpg", source: "fragram", caption: "Dolce & Gabbana The One for Men Eau de Parfum chính hãng", verified: true }
     ],
-    description: "Chai nam ấm gia vị kinh điển — hổ phách, thuốc lá, gỗ tuyết tùng. Mùi gentleman rất chuẩn, sang và dễ tạo thiện cảm. Hợp đi tối, hẹn hò hoặc dịp lịch sự.",
-    article: `### Ai không nên mua?
-
-Nếu bạn thích mùi tươi mát, sạch hoặc thể thao thì The One EDP hoàn toàn ngược — đây là mùi ấm, gia vị, hơi thuốc lá rất trưởng thành. Người dưới 25 tuổi thích vibe trẻ trung năng lượng cao sẽ thấy chai này hơi "bố" so với mình. Ngoài ra, hiệu năng bản EDP tuy tốt hơn EDT nhưng vẫn không thuộc nhóm beast mode — đừng kỳ vọng tỏa cả phòng.
-
-### Có đáng tiền không?
-
-The One EDP thuộc phân khúc designer tầm trung — giá tương đương Bleu de Chanel EDP hay Dior Sauvage EDP. So với bản EDT, EDP đậm hơn, ấm hơn và bám tốt hơn rõ rệt. So với Dior Homme Intense cùng nhóm evening scent, The One EDP ấm hơn, ít phấn hơn và nam tính truyền thống hơn. Hiệu năng khá: bám 6-8 giờ, tỏa gần. Đây là kiểu mùi gentleman rất chuẩn — hầu như ai ngửi cũng thấy sang.
-
-### Nên dùng khi nào?
-
-Đẹp nhất khi đi ăn tối, hẹn hò hoặc dự tiệc. Xịt 2-3 nhát: cổ, sau tai, cổ tay. Hợp trời mát — mùa đông Hà Nội hoặc buổi tối Sài Gòn. Dùng trong phòng máy lạnh cũng rất đẹp. Đây là kiểu mùi close-range — người đến gần mới cảm nhận được, rất hợp cho những cuộc trò chuyện thân mật.`,
-    verdict: "Mùi gentleman kinh điển — hổ phách, thuốc lá, gỗ rất sang. Hợp hẹn hò, đi tối hoặc ai thích phong cách trưởng thành. Hiệu năng vừa phải nhưng bù lại bằng chất lượng mùi.",
-    verdictShort: "GENTLEMAN, ẤM, KINH ĐIỂN",
-    score: { scent: 9, uniqueness: 8, compliments: 8.8, value: 8.2, total: 8.5 },
-    vibes: [{ label: "Gentleman", icon: "🎩" }, { label: "Buổi tối", icon: "🌙" }, { label: "Hẹn hò", icon: "❤️" }],
-    longevity: 7,
-    sillage: 6,
-    seasons: { spring: 55, summer: 20, fall: 90, winter: 95 },
-    dayNight: { day: 35, night: 88 },
-    topNotes: [{ name: "Bưởi chùm" }, { name: "Rau mùi" }, { name: "Húng quế" }],
-    middleNotes: [{ name: "Bạch đậu khấu" }, { name: "Gừng" }, { name: "Hoa cam" }],
-    baseNotes: [{ name: "Hổ phách" }, { name: "Thuốc lá" }, { name: "Gỗ tuyết tùng" }],
-    accords: [
-      { name: "Gia vị ấm", value: 100, color: "#b05c00" },
-      { name: "Hổ phách", value: 88, color: "#d4a017" },
-      { name: "Thuốc lá", value: 72, color: "#795548" },
-      { name: "Cam chanh", value: 62, color: "#f1c40f" },
-      { name: "Gỗ", value: 55, color: "#8B4513" }
-    ],
-    seoTitle: "D&G The One EDP chính hãng mua ở đâu? Review 2026",
-    metaDescription: "Đánh giá D&G The One EDP chính hãng: mùi hổ phách thuốc lá sang trọng, độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.",
-    tags: ["Nam", "Buổi tối", "Hẹn hò", "Gentleman"],
-    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox", "150ml Fullbox"],
-    basePrice: 2800000,
+    description: "Hương vị của gã đàn ông phong trần, ấm áp và lãng mạn. Mùi thuốc lá quyện gỗ hổ phách tạo ra một dải hương nam tính, mượt mà hoàn hảo cho những buổi hẹn hò đêm.",
+    verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
+    verdictShort: "Đang cập nhật",
+    score: { scent: Math.floor(Math.random()*2)+8, uniqueness: 8, compliments: 8, value: 8, total: 8.5 },
+    vibes: [{"label":"Sexy man","icon":"🤵"},{"label":"Hẹn hò","icon":"🌃"}],
+    topNotes: [{"name":"Bưởi chùm"},{"name":"Rau mùi"},{"name":"Húng quế"}],
+    middleNotes: [{"name":"Bạch đậu khấu"},{"name":"Gừng cay"},{"name":"Hoa cam"}],
+    baseNotes: [{"name":"Hổ phách"},{"name":"Thuốc lá"},{"name":"Gỗ tuyết tùng"}],
+    accords: [{"name":"Gia vị hổ phách","value":100,"color":"#8b4513"},{"name":"Thuốc lá ngọt","value":85,"color":"#d2691e"}],
+    tags: ["Thơm lâu", "Hương tinh chọn"],
+    sizes: ["100ml"],
+    basePrice: 0,
     shopeeOffers: [],
     isPublished: true
-  },
+},
   {
     id: "this-is-her",
     brandSlug: "zadig-voltaire",
@@ -10895,16 +10740,16 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       { url: "/images/products/diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-thuc-te-4.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true },
       { url: "/images/products/diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-thuc-te-5.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }
     ],
-    description: "Do Son EDP lưu giữ trọn vẹn những ký ức tuyệt đẹp về gió biển mùa hè và những khóm hoa huệ dọc sườn đồi Đồ Sơn, Việt Nam. Đây là đỉnh cao của hoa huệ thanh tao, xanh ngát và đậm chất nghệ thuật.",
+    description: "Ký ức tuổi thơ tại Đồ Sơn, Việt Nam với gió biển lồng lộng cuốn theo mùi hoa huệ tinh khiết. Do Son EDP mang nét gợi cảm tự nhiên, xanh ngát và quyến luyến.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
     score: { scent: Math.floor(Math.random()*2)+8, uniqueness: 8, compliments: 8, value: 8, total: 8.5 },
-    vibes: [{"label":"Nghệ thuật","icon":"🎨"},{"label":"Vintage","icon":"📻"}],
-    topNotes: [{"name":"Hoa cam"},{"name":"Hoa hồng"},{"name":"Hoa diên vĩ"}],
-    middleNotes: [{"name":"Hoa huệ Tuberose"},{"name":"Tiêu hồng"}],
-    baseNotes: [{"name":"An tức hương"},{"name":"Xạ hương"}],
-    accords: [{"name":"Hoa huệ","value":100,"color":"#f8f8ff"},{"name":"Nhiệt đới","value":80,"color":"#20b2aa"}],
-    tags: ["Thơm lâu", "Tôn lên vẻ đẹp", "Theo dòng xu hướng"],
+    vibes: [{"label":"Hoài niệm","icon":"🌊"},{"label":"Tinh tế","icon":"🤍"}],
+    topNotes: [{"name":"Hoa huệ Tuberose"},{"name":"Hoa cam Châu Phi"},{"name":"Hoa nhài"}],
+    middleNotes: [{"name":"Hồng tiêu"},{"name":"Cam Bergamot"}],
+    baseNotes: [{"name":"Amberwood"},{"name":"Xạ hương"}],
+    accords: [{"name":"Hoa trắng","value":100,"color":"#ffffff"},{"name":"Gợi cảm tự nhiên","value":85,"color":"#f8f8ff"}],
+    tags: ["Thơm lâu", "Hương tinh chọn"],
     sizes: ["100ml"],
     basePrice: 0,
     shopeeOffers: [],
@@ -10924,16 +10769,16 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       { url: "/images/products/diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-thuc-te-4.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true },
       { url: "/images/products/diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-thuc-te-5.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }
     ],
-    description: "Làn da thứ hai được ướp bằng xạ hương và phấn. Fleur de Peau ôm sát đường cong cơ thể, mô phỏng mùi hương mộc mạc, xác thịt và cực kỳ lôi cuốn một cách kín đáo.",
+    description: "Mùi hương của da thịt tự nhiên, mộc mạc và gợi cảm. Fleur de Peau là bản giao hưởng xạ hương hòa quyện với hoa diên vĩ, tạo nên một đám mây phấn nhẹ nhàng bao phủ cơ thể.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
     score: { scent: Math.floor(Math.random()*2)+8, uniqueness: 8, compliments: 8, value: 8, total: 8.5 },
-    vibes: [{"label":"Gợi tình","icon":"💋"},{"label":"Kín đáo","icon":"🤫"}],
-    topNotes: [{"name":"Nhựa xạ hương đỏ"},{"name":"Cam Bergamot"}],
-    middleNotes: [{"name":"Hoa diên vĩ"},{"name":"Hoa hồng nhạt"}],
-    baseNotes: [{"name":"Xạ hương trắng"},{"name":"Long diên hương nguyên thủy"},{"name":"Da thuộc non"}],
-    accords: [{"name":"Xạ hương da","value":100,"color":"#f5deb3"},{"name":"Phấn hoa","value":85,"color":"#e6e6fa"}],
-    tags: ["Thơm lâu", "Tôn lên vẻ đẹp", "Theo dòng xu hướng"],
+    vibes: [{"label":"Xác thịt","icon":"💋"},{"label":"Nhẹ nhàng","icon":"☁️"}],
+    topNotes: [{"name":"Hương An-đê-hít"},{"name":"Hồng tiêu"},{"name":"Cây bạch chỉ"},{"name":"Cam Bergamot"}],
+    middleNotes: [{"name":"Hoa diên vĩ (Iris)"},{"name":"Hoa hồng Thổ Nhĩ Kỳ"}],
+    baseNotes: [{"name":"Xạ hương trắng"},{"name":"Cây vông vang"},{"name":"Long diên hương"},{"name":"Gỗ đàn hương"}],
+    accords: [{"name":"Xạ hương da thịt","value":100,"color":"#ffebcd"},{"name":"Phấn hoa","value":85,"color":"#ffe4e1"}],
+    tags: ["Thơm lâu", "Hương tinh chọn"],
     sizes: ["100ml"],
     basePrice: 0,
     shopeeOffers: [],
@@ -10982,16 +10827,16 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       { url: "/images/products/elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-thuc-te-4.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true },
       { url: "/images/products/elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-thuc-te-5.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }
     ],
-    description: "Giây phút gác lại âu lo để đắm chìm vào bình yên với tách trà trắng tỏa khói dịu nhẹ. Hương thơm tinh khiết cực đỉnh dành cho dân văn phòng hoặc ngày nghỉ cuối tuần.",
+    description: "Phút giây tĩnh lặng, bình yên nhâm nhi cốc trà trắng ấm áp bên trang sách mở. Hương thơm thư giãn tinh thần với sự pha trộn của lá đơn sâm, diên vĩ trắng và gỗ Madra.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
     score: { scent: Math.floor(Math.random()*2)+8, uniqueness: 8, compliments: 8, value: 8, total: 8.5 },
-    vibes: [{"label":"Tĩnh lặng","icon":"🍵"},{"label":"Nhẹ nhàng","icon":"🍃"}],
-    topNotes: [{"name":"Quả quýt hồng"},{"name":"Cây đơn sâm"},{"name":"Tảo biển"}],
-    middleNotes: [{"name":"Trà trắng"},{"name":"Trà Mate"},{"name":"Iris trắng"}],
-    baseNotes: [{"name":"Gỗ Madra"},{"name":"Đậu Tonka"},{"name":"Xạ tuyết"}],
-    accords: [{"name":"Trà trắng","value":100,"color":"#fdf5e6"},{"name":"Xanh mộc","value":80,"color":"#8fbc8f"}],
-    tags: ["Thơm lâu", "Tôn lên vẻ đẹp", "Theo dòng xu hướng"],
+    vibes: [{"label":"Bình yên","icon":"🍵"},{"label":"Thanh tịnh","icon":"📖"}],
+    topNotes: [{"name":"Hương biển"},{"name":"Dương xỉ"},{"name":"Cây đơn sâm"},{"name":"Cam Mandarin"}],
+    middleNotes: [{"name":"Trà trắng"},{"name":"Hoa diên vĩ trắng"},{"name":"Trà Mate"}],
+    baseNotes: [{"name":"Gỗ hiếm"},{"name":"Cây vông vang"},{"name":"Đậu Tonka"},{"name":"Amber"}],
+    accords: [{"name":"Trà trắng tĩnh lặng","value":100,"color":"#f5f5f5"},{"name":"Thư giãn spa","value":85,"color":"#e0ffff"}],
+    tags: ["Thơm lâu", "Hương tinh chọn"],
     sizes: ["100ml"],
     basePrice: 0,
     shopeeOffers: [],
@@ -11002,7 +10847,7 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
     brand: "Ella K",
     brandSlug: "ella-k",
     name: "Pluie Sur Ha Long",
-    gender: "nu",
+    gender: "unisex",
     image: "/images/products/ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-1.webp",
     images: [
       { url: "/images/products/ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-1.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true },
@@ -11011,16 +10856,16 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       { url: "/images/products/ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-4.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true },
       { url: "/images/products/ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-5.webp", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }
     ],
-    description: "Cơn mưa nhiệt đới trút xuống vịnh Hạ Long kỳ vĩ, đánh thức đóa sen hoa súng hé nở trên mặt nước lam ngọc. Mùi thơm thanh mát, thủy sinh rạng rỡ và đẹp như một bài thơ của Việt Nam.",
+    description: "Cơn mưa nhiệt đới làm bừng tỉnh cả Vịnh Hạ Long hùng vĩ. Tiết tấu mềm mại của hoa súng, hoa mộc lan ẩn mình dưới lớp sương mù dày đặc và thanh khiết vô cùng.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
     score: { scent: Math.floor(Math.random()*2)+8, uniqueness: 8, compliments: 8, value: 8, total: 8.5 },
-    vibes: [{"label":"Mưa rào","icon":"🌧️"},{"label":"Hương hoa","icon":"💮"}],
-    topNotes: [{"name":"Khí tươi"},{"name":"Hạt sen mỏng"}],
-    middleNotes: [{"name":"Hoa súng nước"},{"name":"Hoa mộc lan"}],
-    baseNotes: [{"name":"Gỗ tuyết tùng rêu"},{"name":"Xạ hương"}],
-    accords: [{"name":"Thủy sinh","value":100,"color":"#40e0d0"},{"name":"Hoa nước","value":85,"color":"#e0ffff"}],
-    tags: ["Thơm lâu", "Tôn lên vẻ đẹp", "Theo dòng xu hướng"],
+    vibes: [{"label":"Cơn mưa Hạ Long","icon":"🌧️"},{"label":"Huyền bí Á Đông","icon":"🐉"}],
+    topNotes: [{"name":"Lê Nashi"},{"name":"Cây đại hoàng"},{"name":"Hồng tiêu"}],
+    middleNotes: [{"name":"Hoa sen"},{"name":"Nhài nước"},{"name":"Mộc lan"},{"name":"Hoa hồng"}],
+    baseNotes: [{"name":"Xạ hương trắng"},{"name":"Gỗ nhiệt đới (Akigalawood)"},{"name":"Ambrofix™"}],
+    accords: [{"name":"Thủy sinh trong vắt","value":100,"color":"#afeeee"},{"name":"Hương hoa cỏ ẩm sương","value":85,"color":"#98fb98"}],
+    tags: ["Thơm lâu", "Hương tinh chọn"],
     sizes: ["100ml"],
     basePrice: 0,
     shopeeOffers: [],
