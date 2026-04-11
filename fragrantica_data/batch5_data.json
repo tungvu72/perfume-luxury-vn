@@ -1,0 +1,172 @@
+[
+  {
+    "id": "chance-eau-tendre",
+    "longevity": 6,
+    "sillage": 8,
+    "dayNight": { "day": 80, "night": 20 },
+    "seasons": { "winter": 20, "spring": 80, "summer": 100, "autumn": 40 },
+    "accords": [
+      { "name": "Rose", "value": 100, "color": "#ef0c6e" },
+      { "name": "Citrus", "value": 95, "color": "#f8ff5a" },
+      { "name": "Fruity", "value": 95, "color": "#f85227" },
+      { "name": "Musky", "value": 90, "color": "#e2cdef" },
+      { "name": "Floral", "value": 90, "color": "#ff638d" }
+    ],
+    "topNotes": [{ "name": "Quince" }, { "name": "Grapefruit" }],
+    "middleNotes": [{ "name": "Rose" }, { "name": "Jasmine" }],
+    "baseNotes": [{ "name": "Musk" }]
+  },
+  {
+    "id": "coco-eau-de-parfum",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 25, "night": 75 },
+    "seasons": { "winter": 95, "spring": 20, "summer": 10, "autumn": 85 },
+    "accords": [
+      { "name": "Amber", "value": 100, "color": "#bf5119" },
+      { "name": "Warm Spicy", "value": 85, "color": "#c63911" },
+      { "name": "Sweet", "value": 80, "color": "#ec3948" },
+      { "name": "Powdery", "value": 75, "color": "#edd1b3" },
+      { "name": "Woody", "value": 70, "color": "#7b461f" }
+    ],
+    "topNotes": [{ "name": "Cloves" }, { "name": "Coriander" }],
+    "middleNotes": [{ "name": "Rose" }, { "name": "Opoponax" }],
+    "baseNotes": [{ "name": "Amber" }, { "name": "Sandalwood" }]
+  },
+  {
+    "id": "coco-eau-de-toilette",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 30, "night": 70 },
+    "seasons": { "winter": 95, "spring": 20, "summer": 10, "autumn": 85 },
+    "accords": [
+      { "name": "Amber", "value": 100, "color": "#bf5119" },
+      { "name": "Warm Spicy", "value": 85, "color": "#c63911" },
+      { "name": "Sweet", "value": 80, "color": "#ec3948" },
+      { "name": "Powdery", "value": 75, "color": "#edd1b3" },
+      { "name": "Woody", "value": 70, "color": "#7b461f" }
+    ],
+    "topNotes": [{ "name": "Cloves" }, { "name": "Coriander" }],
+    "middleNotes": [{ "name": "Rose" }, { "name": "Opoponax" }],
+    "baseNotes": [{ "name": "Sandalwood" }, { "name": "Amber" }]
+  },
+  {
+    "id": "coco-mademoiselle-edp",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 75, "night": 25 },
+    "seasons": { "winter": 40, "spring": 80, "summer": 60, "autumn": 85 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#f9ff43" },
+      { "name": "Woody", "value": 80, "color": "#7b461f" },
+      { "name": "Patchouli", "value": 80, "color": "#5b6631" },
+      { "name": "Sweet", "value": 75, "color": "#eb3a33" },
+      { "name": "White Floral", "value": 70, "color": "#eff1ff" }
+    ],
+    "topNotes": [{ "name": "Orange" }, { "name": "Mandarin Orange" }, { "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Rose" }, { "name": "Orange Blossom" }],
+    "baseNotes": [{ "name": "Patchouli" }]
+  },
+  {
+    "id": "coco-noir",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 40, "night": 60 },
+    "seasons": { "winter": 75, "spring": 30, "summer": 10, "autumn": 85 },
+    "accords": [
+      { "name": "Warm Spicy", "value": 100, "color": "#c63901" },
+      { "name": "Woody", "value": 95, "color": "#7b471f" },
+      { "name": "Citrus", "value": 90, "color": "#faff43" },
+      { "name": "Fresh Spicy", "value": 85, "color": "#81bd26" },
+      { "name": "Amber", "value": 80, "color": "#c6511b" }
+    ],
+    "topNotes": [{ "name": "Grapefruit" }, { "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Rose" }, { "name": "Geranium" }],
+    "baseNotes": [{ "name": "Patchouli" }, { "name": "Sandalwood" }, { "name": "Olibanum (Frankincense)" }, { "name": "Tonka Bean" }]
+  },
+  {
+    "id": "coromandel-eau-de-parfum",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 45, "night": 55 },
+    "seasons": { "winter": 85, "spring": 20, "summer": 10, "autumn": 80 },
+    "accords": [
+      { "name": "Amber", "value": 100, "color": "#c44f10" },
+      { "name": "Woody", "value": 80, "color": "#7a481f" },
+      { "name": "Warm Spicy", "value": 75, "color": "#c63911" },
+      { "name": "Patchouli", "value": 70, "color": "#5b6631" },
+      { "name": "Balsamic", "value": 60, "color": "#b58763" }
+    ],
+    "topNotes": [{ "name": "Bitter Orange" }, { "name": "Citrus" }],
+    "middleNotes": [{ "name": "Patchouli" }, { "name": "Orris" }],
+    "baseNotes": [{ "name": "White Chocolate" }, { "name": "Benzoin" }, { "name": "Amber" }, { "name": "Olibanum (Frankincense)" }, { "name": "Incense" }]
+  },
+  {
+    "id": "egoiste",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 50, "night": 50 },
+    "seasons": { "winter": 85, "spring": 30, "summer": 10, "autumn": 85 },
+    "accords": [
+      { "name": "Woody", "value": 100, "color": "#7a461e" },
+      { "name": "Warm Spicy", "value": 95, "color": "#c63901" },
+      { "name": "Cinnamon", "value": 80, "color": "#ce7f32" },
+      { "name": "Rose", "value": 65, "color": "#ef0c6e" },
+      { "name": "Floral", "value": 60, "color": "#ff628f" }
+    ],
+    "topNotes": [{ "name": "Mahogany" }, { "name": "Coriander" }],
+    "middleNotes": [{ "name": "Cinnamon" }, { "name": "Rose" }, { "name": "Carnation" }],
+    "baseNotes": [{ "name": "Sandalwood" }, { "name": "Tobacco" }, { "name": "Brazilian Rosewood" }]
+  },
+  {
+    "id": "egoiste-platinum",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 75, "night": 25 },
+    "seasons": { "winter": 25, "spring": 85, "summer": 75, "autumn": 60 },
+    "accords": [
+      { "name": "Aromatic", "value": 100, "color": "#339d7d" },
+      { "name": "Fresh Spicy", "value": 80, "color": "#81bd26" },
+      { "name": "Woody", "value": 70, "color": "#7a461e" },
+      { "name": "Lavender", "value": 60, "color": "#9d7eba" },
+      { "name": "Green", "value": 55, "color": "#188217" }
+    ],
+    "topNotes": [{ "name": "Lavender" }, { "name": "Rosemary" }, { "name": "Neroli" }],
+    "middleNotes": [{ "name": "Geranium" }, { "name": "Clary Sage" }],
+    "baseNotes": [{ "name": "Oakmoss" }, { "name": "Vetiver" }]
+  },
+  {
+    "id": "no-19-eau-de-parfum",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 75, "night": 25 },
+    "seasons": { "winter": 20, "spring": 100, "summer": 40, "autumn": 60 },
+    "accords": [
+      { "name": "Green", "value": 100, "color": "#178217" },
+      { "name": "Earthy", "value": 90, "color": "#5b5141" },
+      { "name": "Woody", "value": 85, "color": "#7a461e" },
+      { "name": "Iris", "value": 70, "color": "#c4aedc" },
+      { "name": "Mossy", "value": 70, "color": "#606931" }
+    ],
+    "topNotes": [{ "name": "Green Notes" }, { "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Iris" }, { "name": "Rose" }],
+    "baseNotes": [{ "name": "Oakmoss" }, { "name": "Vetiver" }]
+  },
+  {
+    "id": "no-19-eau-de-toilette",
+    "longevity": 6,
+    "sillage": 8,
+    "dayNight": { "day": 80, "night": 20 },
+    "seasons": { "winter": 15, "spring": 100, "summer": 35, "autumn": 30 },
+    "accords": [
+      { "name": "Green", "value": 100, "color": "#188217" },
+      { "name": "Powdery", "value": 65, "color": "#eed1b1" },
+      { "name": "Woody", "value": 55, "color": "#7b471f" },
+      { "name": "Aromatic", "value": 55, "color": "#339d7d" },
+      { "name": "Balsamic", "value": 50, "color": "#b58763" }
+    ],
+    "topNotes": [{ "name": "Green Notes" }, { "name": "Galbanum" }],
+    "middleNotes": [{ "name": "Iris Pallida" }],
+    "baseNotes": [{ "name": "Powdery Notes" }, { "name": "Woody Notes" }]
+  }
+]

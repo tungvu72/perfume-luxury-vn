@@ -1,0 +1,34 @@
+{
+  "id": "byredo-la-tulipe",
+  "brand": "Byredo",
+  "name": "La Tulipe",
+  "gender": "for women",
+  "year": 2010,
+  "main_accords": [
+    { "name": "Floral", "color": "#FFC0CB" },
+    { "name": "Green", "color": "#008000" },
+    { "name": "Soft Spicy", "color": "#FF8C00" },
+    { "name": "Fruity", "color": "#FA8072" },
+    { "name": "Aromatic", "color": "#8A2BE2" }
+  ],
+  "notes": {
+    "top": ["Rhubarb", "Cyclamen", "Freesia"],
+    "mid": ["Pink Tulip"],
+    "base": ["Green Notes", "Vetiver", "Blonde Woods"]
+  },
+  "ratings": {
+    "score": 4.1,
+    "longevity": "Moderate",
+    "sillage": "Moderate"
+  },
+  "seasons": {
+    "spring": 100,
+    "summer": 60,
+    "fall": 20,
+    "winter": 10
+  },
+  "day_night": {
+    "day": 95,
+    "night": 20
+  }
+}

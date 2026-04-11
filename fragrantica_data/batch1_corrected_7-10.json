@@ -1,0 +1,70 @@
+[
+  {
+    "id": "odyssey-limoni",
+    "longevity": 5,
+    "sillage": 5,
+    "dayNight": { "day": 85, "night": 15 },
+    "seasons": { "winter": 30, "spring": 80, "summer": 100, "autumn": 40 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#faff4a" },
+      { "name": "Fresh Spicy", "value": 70, "color": "#81bd25" },
+      { "name": "Aromatic", "value": 65, "color": "#2c9e7b" },
+      { "name": "Fresh", "value": 60, "color": "#a1e5ec" },
+      { "name": "Green", "value": 55, "color": "#177e16" }
+    ],
+    "topNotes": [{ "name": "Lemon" }, { "name": "Mandarin Orange" }, { "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Orange" }, { "name": "Tea" }],
+    "baseNotes": [{ "name": "Orange Blossom" }, { "name": "Musk" }]
+  },
+  {
+    "id": "odyssey-mandarin-sky",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 45, "night": 55 },
+    "seasons": { "winter": 75, "spring": 60, "summer": 70, "autumn": 85 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#f8ff41" },
+      { "name": "Caramel", "value": 75, "color": "#cd934c" },
+      { "name": "Sweet", "value": 70, "color": "#eb3a49" },
+      { "name": "Amber", "value": 60, "color": "#b84f1b" },
+      { "name": "Aromatic", "value": 55, "color": "#339c7d" }
+    ],
+    "topNotes": [{ "name": "Mandarin Orange" }, { "name": "Orange" }],
+    "middleNotes": [{ "name": "Caramel" }, { "name": "Tonka Bean" }],
+    "baseNotes": [{ "name": "Ambroxan" }, { "name": "Cedar" }]
+  },
+  {
+    "id": "club-de-nuit-intense-man",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 45, "night": 55 },
+    "seasons": { "winter": 60, "spring": 85, "summer": 75, "autumn": 85 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#eaff5b" },
+      { "name": "Fruity", "value": 85, "color": "#e84b2c" },
+      { "name": "Leather", "value": 75, "color": "#764736" },
+      { "name": "Woody", "value": 70, "color": "#7a4620" },
+      { "name": "Smoky", "value": 65, "color": "#80738a" }
+    ],
+    "topNotes": [{ "name": "Lemon" }, { "name": "Pineapple" }, { "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Birch" }, { "name": "Jasmine" }],
+    "baseNotes": [{ "name": "Ambergris" }, { "name": "Musk" }]
+  },
+  {
+    "id": "armaf-effects-of-uniq",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 40, "night": 60 },
+    "seasons": { "winter": 90, "spring": 20, "summer": 15, "autumn": 80 },
+    "accords": [
+      { "name": "Vanilla", "value": 100, "color": "#fcfebc" },
+      { "name": "Sweet", "value": 95, "color": "#e93849" },
+      { "name": "Woody", "value": 80, "color": "#79461f" },
+      { "name": "Coffee", "value": 75, "color": "#4e3f28" },
+      { "name": "Caramel", "value": 70, "color": "#d2984f" }
+    ],
+    "topNotes": [{ "name": "Pear" }, { "name": "Orange Blossom" }],
+    "middleNotes": [{ "name": "Coffee" }, { "name": "Caramel" }],
+    "baseNotes": [{ "name": "Vanilla" }, { "name": "Cedar" }]
+  }
+]

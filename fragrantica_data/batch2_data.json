@@ -1,0 +1,101 @@
+[
+  {
+    "id": "colonia",
+    "brand": "Acqua Di Parma",
+    "name": "Colonia",
+    "notes": {
+      "top": ["Chanh Sicily", "Cam ngọt đỏ", "Cam Bergamot"],
+      "mid": ["Hoa oải hương", "Hoa hồng Bulgaria", "Cỏ đuôi ngựa", "Hương thảo"],
+      "base": ["Cỏ hương bài", "Gỗ đàn hương", "Hoắc hương"]
+    },
+    "verdict": "Một biểu tượng cổ điển của nước Ý. Sạch sẽ, chua nhẹ và tinh tươm hệt như một quý ông bước ra từ tiệm hớt tóc sang trọng."
+  },
+  {
+    "id": "9pm",
+    "brand": "Afnan",
+    "name": "9PM",
+    "notes": {
+      "top": ["Quả táo xanh", "Quế cờ", "Hoa oải hương hoang", "Cam Bergamot"],
+      "mid": ["Hoa cam", "Hoa linh lan"],
+      "base": ["Vanilla nguyên chất", "Đậu Tonka", "Long diên hương nguyên thủy", "Hoắc hương rễ"]
+    },
+    "verdict": "Bản dupe xuất sắc nhất của JPG Ultra Male. Vị táo tẩm quế trên nền vanila siêu bám, chuyên trị dành cho những buổi tiệc bung xõa thâu đêm."
+  },
+  {
+    "id": "interlude-man",
+    "brand": "Amouage",
+    "name": "Interlude Man",
+    "notes": {
+      "top": ["Lá Oregano", "Tiêu đen", "Cam Bergamot"],
+      "mid": ["Nhang khói (Incense)", "Opoponax", "Hổ phách tươi", "Labdanum"],
+      "base": ["Da thuộc mộc", "Gỗ trầm hương (Oud)", "Gỗ đàn hương ngậm sương", "Hoắc hương đen"]
+    },
+    "verdict": "Mệnh danh là 'Quái vật xanh' (The Blue Beast) của giới nước hoa. Đậm đặc khói, sặc sụa và mang một uy quyền tối thượng khó ai sánh bằng."
+  },
+  {
+    "id": "reflection-45-man",
+    "brand": "Amouage",
+    "name": "Reflection 45 Man",
+    "notes": {
+      "top": ["Hoa oải hương thảo", "Nhựa khô Benzoin", "Tiêu hồng phấn"],
+      "mid": ["Hoa nhài rạng rỡ", "Tinh chất rễ diên vĩ", "Cam đắng", "Hạt đậu hương"],
+      "base": ["Gỗ tuyết tùng trầm", "Opoponax", "Cỏ hoắc hương", "Vetiver"]
+    },
+    "verdict": "Tinh chất Exrait 45% siêu nồng độ. Kéo dài sự thanh lịch của Reflection nguyên bản nhưng đậm sâu hơn với những nốt gỗ béo ngậy vương giả."
+  },
+  {
+    "id": "reflection-man",
+    "brand": "Amouage",
+    "name": "Reflection Man",
+    "notes": {
+      "top": ["Hoa oải hương mượt", "Cỏ xạ hương đỏ", "Tiêu tứ xuyên"],
+      "mid": ["Hoa nhài tuyết", "Hoa cam", "Hoa ngọc lan tây", "Rễ hoa diên vĩ"],
+      "base": ["Gỗ tuyết tùng xám", "Rễ cỏ hương bài", "Gỗ đàn hương", "Hoắc hương"]
+    },
+    "verdict": "Quý ông vương thư sinh mặc áo sơ mi trắng. Hương hoa nhài phũ trên nền đàn hương mượt và sang đến vô thực."
+  },
+  {
+    "id": "odyssey-limoni",
+    "brand": "Armaf",
+    "name": "Odyssey Limoni",
+    "notes": {
+      "top": ["Chanh Ý dập đá", "Cam Bergamot xé", "Gừng ấm"],
+      "mid": ["Hoa nhài", "Hương hoa lục"],
+      "base": ["Xạ hương trắng", "Rêu sồi tươi", "Hoắc hương non"]
+    },
+    "verdict": "Một xô đá chanh tạc vào mặt giữa ngày hè nóng bức. Giải nhiệt, nổ tung năng lượng và cực kỳ sành điệu."
+  },
+  {
+    "id": "odyssey-mandarin-sky",
+    "brand": "Armaf",
+    "name": "Odyssey Mandarin Sky",
+    "notes": {
+      "top": ["Cam Mandarin mọng nước", "Cây xô thơm chát"],
+      "mid": ["Đường Caramel lỏng", "Đậu Tonka cháy đen", "Nhựa cây"],
+      "base": ["Gỗ Vetiver phơi khô", "Hoắc hương rễ", "Gỗ tuyết tùng nhạt"]
+    },
+    "verdict": "Theo phong cách Scandal Pour Homme nức tiếng: Khởi điểm là trái cam múi chín và sau đó khô lại lún sâu trong làn Caramel cháy ngầy ngậy mlem bám dính."
+  },
+  {
+    "id": "club-de-nuit-intense-man",
+    "brand": "Armaf",
+    "name": "Club de Nuit Intense Man",
+    "notes": {
+      "top": ["Chanh vàng xanh", "Dứa nướng", "Táo gai", "Cam chát", "Nho đen"],
+      "mid": ["Bạch dương đốt khói", "Hoa nhài hoang", "Hoa hồng rễ"],
+      "base": ["Xạ hương đậm", "Long diên hương tổng hợp", "Vani rêu sồi"]
+    },
+    "verdict": "Vị dứa nướng khói huyền thoại làm say lòng vạn tín đồ với khả năng bắt nhịp Aventus cực tốt, giá bình dân nhưng lưu hương diệt khẩu."
+  },
+  {
+    "id": "armaf-effects-of-uniq",
+    "brand": "Armaf",
+    "name": "Effects of Uniq",
+    "notes": {
+      "top": ["Dứa chát", "Cam Bergamot"],
+      "mid": ["Hoa linh lan trắng", "Xạ hương phấn"],
+      "base": ["Hương gỗ trắng", "Rêu sồi", "Cỏ hoắc hương đen"]
+    },
+    "verdict": "Một biến thể hiếm hoi từ Armaf đánh mạnh vào phong cách gỗ thơm Unisex an toàn, không xối xả mà lả lướt dịu êm."
+  }
+]

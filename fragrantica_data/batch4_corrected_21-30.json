@@ -1,0 +1,155 @@
+[
+  {
+    "id": "good-girl",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 35, "night": 65 },
+    "seasons": { "winter": 90, "spring": 30, "summer": 10, "autumn": 85 },
+    "accords": [
+      { "name": "Sweet", "value": 100, "color": "#ec3938" },
+      { "name": "White Floral", "value": 95, "color": "#eff1ff" },
+      { "name": "Warm Spicy", "value": 90, "color": "#c63901" },
+      { "name": "Vanilla", "value": 80, "color": "#fcffb8" },
+      { "name": "Amber", "value": 70, "color": "#c6511b" }
+    ],
+    "topNotes": [{ "name": "Almond" }, { "name": "Cacao Pod" }],
+    "middleNotes": [{ "name": "Tuberose" }, { "name": "Jasmine" }],
+    "baseNotes": [{ "name": "Tonka Bean" }, { "name": "Vanilla" }]
+  },
+  {
+    "id": "allure-edp",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 60, "night": 40 },
+    "seasons": { "winter": 40, "spring": 80, "summer": 60, "autumn": 70 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#faff43" },
+      { "name": "Floral", "value": 85, "color": "#ff628f" },
+      { "name": "White Floral", "value": 75, "color": "#eff1fd" },
+      { "name": "Vanilla", "value": 70, "color": "#fdffb8" },
+      { "name": "Fruity", "value": 65, "color": "#f85328" }
+    ],
+    "topNotes": [{ "name": "Mandarin Orange" }, { "name": "Peach" }, { "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Jasmine" }, { "name": "Magnolia" }],
+    "baseNotes": [{ "name": "Vanilla" }]
+  },
+  {
+    "id": "allure-homme-edition-blanche",
+    "longevity": 6,
+    "sillage": 8,
+    "dayNight": { "day": 75, "night": 25 },
+    "seasons": { "winter": 25, "spring": 80, "summer": 100, "autumn": 40 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#f9ff43" },
+      { "name": "Aromatic", "value": 80, "color": "#349c7c" },
+      { "name": "Vanilla", "value": 75, "color": "#fdffba" },
+      { "name": "Woody", "value": 70, "color": "#7b471f" },
+      { "name": "Powdery", "value": 60, "color": "#eed1b1" }
+    ],
+    "topNotes": [{ "name": "Lemon" }, { "name": "Bergamot" }, { "name": "Pink Pepper" }],
+    "middleNotes": [{ "name": "Tonka Bean" }],
+    "baseNotes": [{ "name": "Vanilla" }, { "name": "Sandalwood" }]
+  },
+  {
+    "id": "allure-homme-edt",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 60, "night": 40 },
+    "seasons": { "winter": 60, "spring": 80, "summer": 50, "autumn": 85 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#f8ff44" },
+      { "name": "Vanilla", "value": 95, "color": "#feffb9" },
+      { "name": "Woody", "value": 80, "color": "#7b461f" },
+      { "name": "Fresh Spicy", "value": 75, "color": "#81bd25" },
+      { "name": "Sweet", "value": 70, "color": "#eb3a33" }
+    ],
+    "topNotes": [{ "name": "Lemon" }, { "name": "Peach" }, { "name": "Mandarin Orange" }],
+    "middleNotes": [{ "name": "Ginger" }],
+    "baseNotes": [{ "name": "Vanilla" }, { "name": "Tonka Bean" }]
+  },
+  {
+    "id": "allure-homme-sport-eau-extreme",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 65, "night": 35 },
+    "seasons": { "winter": 40, "spring": 85, "summer": 75, "autumn": 80 },
+    "accords": [
+      { "name": "Aromatic", "value": 100, "color": "#339d7d" },
+      { "name": "Woody", "value": 85, "color": "#7b471f" },
+      { "name": "Fresh Spicy", "value": 80, "color": "#81bc26" },
+      { "name": "Citrus", "value": 75, "color": "#f8ff41" },
+      { "name": "Green", "value": 75, "color": "#188217" }
+    ],
+    "topNotes": [{ "name": "Mint" }, { "name": "Mandarin Orange" }, { "name": "Pepper" }],
+    "middleNotes": [{ "name": "Musk" }],
+    "baseNotes": [{ "name": "Tonka Bean" }, { "name": "Sandalwood" }]
+  },
+  {
+    "id": "allure-homme-sport",
+    "longevity": 6,
+    "sillage": 8,
+    "dayNight": { "day": 80, "night": 20 },
+    "seasons": { "winter": 20, "spring": 80, "summer": 100, "autumn": 40 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#f8ff43" },
+      { "name": "Aromatic", "value": 80, "color": "#339d7d" },
+      { "name": "Vanilla", "value": 70, "color": "#feffb9" },
+      { "name": "Aldehydic", "value": 65, "color": "#cbdffd" },
+      { "name": "Marine", "value": 60, "color": "#1152a5" }
+    ],
+    "topNotes": [{ "name": "Orange" }, { "name": "Sea Water" }, { "name": "Aldehydes" }, { "name": "Mandarin Orange" }],
+    "middleNotes": [{ "name": "Pepper" }],
+    "baseNotes": [{ "name": "Tonka Bean" }, { "name": "Musk" }, { "name": "Vanilla" }]
+  },
+  {
+    "id": "antaeus",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 25, "night": 75 },
+    "seasons": { "winter": 100, "spring": 20, "summer": 10, "autumn": 85 },
+    "accords": [
+      { "name": "Woody", "value": 100, "color": "#7a461e" },
+      { "name": "Aromatic", "value": 95, "color": "#339d7c" },
+      { "name": "Leather", "value": 80, "color": "#764736" },
+      { "name": "Mossy", "value": 75, "color": "#5f6832" },
+      { "name": "Earthy", "value": 75, "color": "#5a5042" }
+    ],
+    "topNotes": [{ "name": "Clary Sage" }, { "name": "Coriander" }, { "name": "Thyme" }],
+    "middleNotes": [{ "name": "Rose" }, { "name": "Patchouli" }],
+    "baseNotes": [{ "name": "Castoreum" }, { "name": "Oakmoss" }, { "name": "Labdanum" }]
+  },
+  {
+    "id": "bleu-de-chanel-eau-de-parfum",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 60, "night": 40 },
+    "seasons": { "winter": 40, "spring": 85, "summer": 80, "autumn": 85 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#faff43" },
+      { "name": "Amber", "value": 80, "color": "#c44f10" },
+      { "name": "Woody", "value": 75, "color": "#7a481f" },
+      { "name": "Fresh Spicy", "value": 70, "color": "#81bd26" },
+      { "name": "Aromatic", "value": 65, "color": "#339d7d" }
+    ],
+    "topNotes": [{ "name": "Grapefruit" }, { "name": "Lemon" }, { "name": "Mint" }],
+    "middleNotes": [{ "name": "Ginger" }, { "name": "Incense" }],
+    "baseNotes": [{ "name": "Amber" }, { "name": "Cedar" }, { "name": "Sandalwood" }]
+  },
+  {
+    "id": "bleu-de-chanel-parfum",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 45, "night": 55 },
+    "seasons": { "winter": 60, "spring": 80, "summer": 60, "autumn": 85 },
+    "accords": [
+      { "name": "Woody", "value": 100, "color": "#7a4720" },
+      { "name": "Citrus", "value": 75, "color": "#f8ff43" },
+      { "name": "Aromatic", "value": 65, "color": "#349c7d" },
+      { "name": "Amber", "value": 60, "color": "#c6511b" },
+      { "name": "Fresh Spicy", "value": 55, "color": "#81bd25" }
+    ],
+    "topNotes": [{ "name": "Lemon Zest" }, { "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Lavender" }, { "name": "Iso E Super" }],
+    "baseNotes": [{ "name": "Sandalwood" }, { "name": "Cedar" }, { "name": "Amberwood" }, { "name": "Tonka Bean" }]
+  }
+]

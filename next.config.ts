@@ -47,6 +47,23 @@ const nextConfig: NextConfig = {
       { source: '/san-pham/lattafa-khamrah', destination: '/nuoc-hoa-unisex-lattafa-lattafa-khamrah', permanent: true },
       { source: '/versace-eros-edp', destination: '/nuoc-hoa-nam-versace-versace-eros-edp', permanent: true },
       { source: '/san-pham/versace-eros-edp', destination: '/nuoc-hoa-nam-versace-versace-eros-edp', permanent: true },
+
+      // ── Duplicate merge redirects (2026-04-11) ──
+      { source: '/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-mfk-baccarat-54-edp', permanent: true },
+      { source: '/nuoc-hoa-nam-lalique-encre-noire', destination: '/nuoc-hoa-nam-lalique-lalique-encre-noir-edt', permanent: true },
+      { source: '/nuoc-hoa-nu-narciso-rodriguez-for-her-edp', destination: '/nuoc-hoa-nu-narciso-rodriguez-narciso-rodriguez-for-her-eau-de-parfum', permanent: true },
+      { source: '/nuoc-hoa-nu-giorgio-armani-my-way', destination: '/nuoc-hoa-nu-giorgio-armani-my-way-edp', permanent: true },
+      { source: '/nuoc-hoa-nam-ysl-y-edp', destination: '/nuoc-hoa-nam-yves-saint-laurent-ysl-y-eau-de-parfum', permanent: true },
+      { source: '/nuoc-hoa-nu-carolina-herrera-good-girl-carolina', destination: '/nuoc-hoa-nu-carolina-herrera-good-girl', permanent: true },
+
+      // ── Duplicate merge redirects round 2 (2026-04-11) ──
+      { source: '/nuoc-hoa-nam-creed-aventus', destination: '/nuoc-hoa-nam-creed-creed-aventus', permanent: true },
+      { source: '/nuoc-hoa-unisex-tom-ford-black-orchid', destination: '/nuoc-hoa-unisex-tom-ford-tom-ford-black-orchid', permanent: true },
+      { source: '/nuoc-hoa-nu-versace-bright-crystal', destination: '/nuoc-hoa-nu-versace-versace-bright-crystal', permanent: true },
+      { source: '/nuoc-hoa-nam-versace-eros-flame', destination: '/nuoc-hoa-nam-versace-versace-eros-flame', permanent: true },
+      { source: '/nuoc-hoa-nam-moschino-toy-boy', destination: '/nuoc-hoa-nam-moschino-moschino-toy-boy', permanent: true },
+      { source: '/nuoc-hoa-unisex-mancera-cedrat-boise', destination: '/nuoc-hoa-unisex-mancera-mancera-cedrat-boise', permanent: true },
+      { source: '/nuoc-hoa-unisex-xerjoff-torino21', destination: '/nuoc-hoa-nam-xerjoff-xerjoff-torino', permanent: true },
     ];
   },
 };

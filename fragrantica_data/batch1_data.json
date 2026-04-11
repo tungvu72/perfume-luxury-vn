@@ -1,0 +1,62 @@
+[
+  {
+    "id": "byredo-blanche",
+    "brand": "Byredo",
+    "name": "Blanche",
+    "gender": "for women",
+    "main_accords": [
+      { "name": "Aldehydic", "color": "#f8f8ff" },
+      { "name": "Musky", "color": "#ffebcd" },
+      { "name": "Fresh Floral", "color": "#ffb6c1" },
+      { "name": "Powdery", "color": "#ffe4e1" },
+      { "name": "Soapy", "color": "#e0ffff" }
+    ],
+    "notes": {
+      "top": ["Hương An-đê-hít", "Hoa hồng trắng", "Tiêu hồng"],
+      "mid": ["Hoa mẫu đơn", "Hoa tím Violet", "Hoa cam Châu Phi"],
+      "base": ["Xạ hương trắng", "Hương gỗ tuyết", "Gỗ đàn hương"]
+    },
+    "description": "Blanche như mùi rèm cửa sổ bằng lanh trắng vừa giặt sạch phơi trong nắng sớm. Sự thanh khiết tột độ của hương An-đê-hít hòa quyện cùng xạ hương và hoa mẫu đơn trắng, tạo nên cảm giác trong veo, sạch sẽ và an toàn tuyệt đối. Phù hợp cho dân văn phòng hoặc những tâm hồn thích sự tối giản.",
+    "verdict": "Hương thơm tối giản, mô phỏng mùi áo sơ mi trắng tinh tươm. Rất dễ dùng môi trường văn phòng."
+  },
+  {
+    "id": "byredo-mojave-ghost",
+    "brand": "Byredo",
+    "name": "Mojave Ghost",
+    "gender": "for women and men",
+    "main_accords": [
+      { "name": "Floral", "color": "#ff69b4" },
+      { "name": "Woody", "color": "#deb887" },
+      { "name": "Powdery", "color": "#ffe4e1" },
+      { "name": "Violet", "color": "#ee82ee" },
+      { "name": "Fruity", "color": "#ffdab9" }
+    ],
+    "notes": {
+      "top": ["Quả hồng xiêm nam mỹ (Sapodilla)", "Cây vông vang (Ambrette)"],
+      "mid": ["Hoa mộc lan", "Hoa tím Violet", "Gỗ đàn hương sâu"],
+      "base": ["Long diên hương", "Gỗ tuyết tùng xám"]
+    },
+    "description": "Là loài hoa ma dại mọc lên giữa sa mạc Mojave khắc nghiệt. Sự ngọt bùi của quả hồng xiêm hòa vào phấn hoa mộc lan tạo ra một mùi bay bổng, có chút bụi bặm nhưng cực kỳ sang trọng. Mojave Ghost lưu một lớp màng lấp lánh như bụi sao lên da.",
+    "verdict": "Mùi hồng xiêm mix cùng phấn hoa ma mị, bám tỏa ở mức lả lướt, ngửi hoài không chán."
+  },
+  {
+    "id": "byredo-rose-of-no-mans-land",
+    "brand": "Byredo",
+    "name": "Rose Of No Man's Land",
+    "gender": "for women and men",
+    "main_accords": [
+      { "name": "Rose", "color": "#dc143c" },
+      { "name": "Floral", "color": "#ff69b4" },
+      { "name": "Soft Spicy", "color": "#cd5c5c" },
+      { "name": "Woody", "color": "#8b4513" },
+      { "name": "Amber", "color": "#ff8c00" }
+    ],
+    "notes": {
+      "top": ["Hoa hồng Thổ Nhĩ Kỳ", "Tiêu hồng"],
+      "mid": ["Hồng đậm Thổ Nhĩ Kỳ", "Hoa mâm xôi"],
+      "base": ["Giấy cói (Papyrus)", "Hổ phách trắng"]
+    },
+    "description": "Tôn vinh những y tá dũng cảm ngoài chiến trường. Đây không phải hoa hồng bánh bèo, mà là đóa hồng gai góc mọc trên đất thép khô cằn. Sắc sảo, lạnh lùng nhưng bên trong lại tỏa ra sương mù hổ phách và hoa mâm xôi đầy lôi cuốn.",
+    "verdict": "Hoa hồng y tế hơi khô, mang tính chất trị liệu và cá tính vô cùng độc lập."
+  }
+]

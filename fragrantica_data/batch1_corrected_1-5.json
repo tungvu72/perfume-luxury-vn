@@ -1,0 +1,87 @@
+[
+  {
+    "id": "colonia",
+    "longevity": 6,
+    "sillage": 5,
+    "dayNight": { "day": 75, "night": 25 },
+    "seasons": { "winter": 20, "spring": 75, "summer": 100, "autumn": 40 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#fbff00" },
+      { "name": "Aromatic", "value": 80, "color": "#2c9e7b" },
+      { "name": "Fresh Spicy", "value": 75, "color": "#81bc26" },
+      { "name": "Woody", "value": 70, "color": "#7b4721" },
+      { "name": "Lavender", "value": 65, "color": "#9b78b5" }
+    ],
+    "topNotes": [{ "name": "Citruses" }, { "name": "Lemon Verbena" }],
+    "middleNotes": [{ "name": "Lavender" }, { "name": "Rosemary" }],
+    "baseNotes": [{ "name": "Vetiver" }, { "name": "Musk" }]
+  },
+  {
+    "id": "9pm",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 35, "night": 65 },
+    "seasons": { "winter": 85, "spring": 60, "summer": 20, "autumn": 75 },
+    "accords": [
+      { "name": "Vanilla", "value": 100, "color": "#fbfebc" },
+      { "name": "Amber", "value": 70, "color": "#c44f12" },
+      { "name": "Warm Spicy", "value": 65, "color": "#c73a11" },
+      { "name": "Fruity", "value": 60, "color": "#f85638" },
+      { "name": "Sweet", "value": 55, "color": "#eb3a49" }
+    ],
+    "topNotes": [{ "name": "Apple" }, { "name": "Cinnamon" }, { "name": "Lavender" }],
+    "middleNotes": [{ "name": "Orange Blossom" }, { "name": "Lily of the Valley" }],
+    "baseNotes": [{ "name": "Vanilla" }, { "name": "Tonka Bean" }, { "name": "Amber" }]
+  },
+  {
+    "id": "interlude-man",
+    "longevity": 9,
+    "sillage": 10,
+    "dayNight": { "day": 30, "night": 70 },
+    "seasons": { "winter": 95, "spring": 40, "summer": 10, "autumn": 85 },
+    "accords": [
+      { "name": "Amber", "value": 100, "color": "#b14d0a" },
+      { "name": "Balsamic", "value": 75, "color": "#ac8b61" },
+      { "name": "Fresh Spicy", "value": 70, "color": "#81ba26" },
+      { "name": "Smoky", "value": 65, "color": "#80738a" },
+      { "name": "Warm Spicy", "value": 60, "color": "#b82604" }
+    ],
+    "topNotes": [{ "name": "Oregano" }, { "name": "Pepper" }, { "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Incense" }, { "name": "Opoponax" }, { "name": "Amber" }, { "name": "Labdanum" }],
+    "baseNotes": [{ "name": "Agarwood (Oud)" }, { "name": "Leather" }, { "name": "Sandalwood" }, { "name": "Patchouli" }]
+  },
+  {
+    "id": "reflection-45-man",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 50, "night": 50 },
+    "seasons": { "winter": 50, "spring": 80, "summer": 50, "autumn": 80 },
+    "accords": [
+      { "name": "Aromatic", "value": 100, "color": "#2c9e7b" },
+      { "name": "Woody", "value": 85, "color": "#7b4620" },
+      { "name": "Amber", "value": 80, "color": "#c54f11" },
+      { "name": "Warm Spicy", "value": 70, "color": "#c73911" },
+      { "name": "Powdery", "value": 60, "color": "#eed0b1" }
+    ],
+    "topNotes": [{ "name": "Lavender" }, { "name": "Benzoin" }, { "name": "Pink Pepper" }],
+    "middleNotes": [{ "name": "Iris" }, { "name": "Jasmine" }, { "name": "Neroli" }, { "name": "Tonka" }],
+    "baseNotes": [{ "name": "Olibanum" }, { "name": "Opoponax" }, { "name": "Cedar" }, { "name": "Vetiver" }]
+  },
+  {
+    "id": "reflection-man",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 55, "night": 45 },
+    "seasons": { "winter": 60, "spring": 100, "summer": 70, "autumn": 75 },
+    "accords": [
+      { "name": "Woody", "value": 100, "color": "#7b4721" },
+      { "name": "White Floral", "value": 85, "color": "#f1efff" },
+      { "name": "Aromatic", "value": 75, "color": "#2d9f7c" },
+      { "name": "Powdery", "value": 70, "color": "#efd1b1" },
+      { "name": "Fresh Spicy", "value": 60, "color": "#81bd26" }
+    ],
+    "topNotes": [{ "name": "Rosemary" }, { "name": "Petitgrain" }, { "name": "Pepper" }],
+    "middleNotes": [{ "name": "Jasmine" }, { "name": "Neroli" }, { "name": "Orris Root" }],
+    "baseNotes": [{ "name": "Sandalwood" }, { "name": "Cedar" }, { "name": "Vetiver" }, { "name": "Patchouli" }]
+  }
+]

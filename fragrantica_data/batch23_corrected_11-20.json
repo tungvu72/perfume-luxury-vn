@@ -1,0 +1,138 @@
+[
+  {
+    "id": "the-yulong",
+    "longevity": 6,
+    "sillage": 5,
+    "dayNight": { "day": 80, "night": 20 },
+    "seasons": { "winter": 20, "spring": 80, "summer": 100, "autumn": 40 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#f8ff44" },
+      { "name": "Green", "value": 90, "color": "#178229" },
+      { "name": "White Floral", "value": 85, "color": "#eff1fe" },
+      { "name": "Aromatic", "value": 80, "color": "#339d7f" },
+      { "name": "Woody", "value": 70, "color": "#7b4820" }
+    ],
+    "topNotes": [{ "name": "Mandarin Orange" }, { "name": "Petitgrain" }],
+    "middleNotes": [{ "name": "Tea" }, { "name": "Orange Blossom" }],
+    "baseNotes": [{ "name": "Vetiver" }, { "name": "Jasmine" }]
+  },
+  {
+    "id": "musk-kashmir",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 65, "night": 35 },
+    "seasons": { "winter": 80, "spring": 95, "summer": 60, "autumn": 90 },
+    "accords": [
+      { "name": "Musky", "value": 100, "color": "#e2ceec" },
+      { "name": "Powdery", "value": 85, "color": "#eed0b1" },
+      { "name": "Warm Spicy", "value": 80, "color": "#c63911" },
+      { "name": "Fresh Spicy", "value": 75, "color": "#81bd26" },
+      { "name": "Woody", "value": 70, "color": "#7c471f" }
+    ],
+    "topNotes": [{ "name": "Gardenia" }, { "name": "Cloves" }],
+    "middleNotes": [{ "name": "Pepper" }, { "name": "Musk" }],
+    "baseNotes": [{ "name": "Sandalwood" }]
+  },
+  {
+    "id": "azzaro-the-most-wanted-parfum",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 30, "night": 70 },
+    "seasons": { "winter": 95, "spring": 30, "summer": 10, "autumn": 85 },
+    "accords": [
+      { "name": "Vanilla", "value": 100, "color": "#fcffb8" },
+      { "name": "Woody", "value": 85, "color": "#7b471f" },
+      { "name": "Fresh Spicy", "value": 75, "color": "#80bd26" },
+      { "name": "Fresh", "value": 70, "color": "#9be5ec" },
+      { "name": "Powdery", "value": 65, "color": "#ecd2b0" }
+    ],
+    "topNotes": [{ "name": "Ginger" }],
+    "middleNotes": [{ "name": "Woody Notes" }],
+    "baseNotes": [{ "name": "Vanilla" }]
+  },
+  {
+    "id": "gris-charnel-extrait",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 35, "night": 65 },
+    "seasons": { "winter": 90, "spring": 55, "summer": 20, "autumn": 95 },
+    "accords": [
+      { "name": "Woody", "value": 100, "color": "#7b461f" },
+      { "name": "Warm Spicy", "value": 85, "color": "#c83911" },
+      { "name": "Vanilla", "value": 80, "color": "#fdffb8" },
+      { "name": "Powdery", "value": 75, "color": "#edd1b0" },
+      { "name": "Aromatic", "value": 70, "color": "#339d7d" }
+    ],
+    "topNotes": [{ "name": "Cardamom" }, { "name": "Fig" }, { "name": "Tea" }],
+    "middleNotes": [{ "name": "Iris" }, { "name": "Bourbon Vetiver" }],
+    "baseNotes": [{ "name": "Sandalwood" }, { "name": "Vanilla" }, { "name": "Tonka Bean" }]
+  },
+  {
+    "id": "burberry-her",
+    "longevity": 6,
+    "sillage": 8,
+    "dayNight": { "day": 75, "night": 25 },
+    "seasons": { "winter": 35, "spring": 100, "summer": 40, "autumn": 50 },
+    "accords": [
+      { "name": "Fruity", "value": 100, "color": "#f85338" },
+      { "name": "Sweet", "value": 75, "color": "#ec3948" },
+      { "name": "Woody", "value": 50, "color": "#7b461e" },
+      { "name": "Powdery", "value": 45, "color": "#edd1b3" },
+      { "name": "Musky", "value": 40, "color": "#e2cdef" }
+    ],
+    "topNotes": [{ "name": "Strawberry" }, { "name": "Raspberry" }, { "name": "Blackberry" }, { "name": "Sour Cherry" }],
+    "middleNotes": [{ "name": "Violet" }, { "name": "Jasmine" }],
+    "baseNotes": [{ "name": "Musk" }, { "name": "Vanilla" }, { "name": "Amber" }]
+  },
+  {
+    "id": "man-in-black",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 25, "night": 75 },
+    "seasons": { "winter": 95, "spring": 20, "summer": 10, "autumn": 85 },
+    "accords": [
+      { "name": "Warm Spicy", "value": 100, "color": "#c63911" },
+      { "name": "Woody", "value": 85, "color": "#7a461e" },
+      { "name": "Leather", "value": 80, "color": "#764835" },
+      { "name": "Rum", "value": 75, "color": "#bc2605" },
+      { "name": "Amber", "value": 70, "color": "#c54f11" }
+    ],
+    "topNotes": [{ "name": "Spicy Notes" }, { "name": "Rum" }, { "name": "Tobacco" }],
+    "middleNotes": [{ "name": "Leather" }, { "name": "Iris" }, { "name": "Tuberose" }],
+    "baseNotes": [{ "name": "Tonka Bean" }, { "name": "Guaiac Wood" }, { "name": "Benzoin" }]
+  },
+  {
+    "id": "bal-dafrique",
+    "longevity": 6,
+    "sillage": 8,
+    "dayNight": { "day": 70, "night": 30 },
+    "seasons": { "winter": 40, "spring": 80, "summer": 85, "autumn": 70 },
+    "accords": [
+      { "name": "Woody", "value": 100, "color": "#7b471f" },
+      { "name": "Aromatic", "value": 85, "color": "#339d7d" },
+      { "name": "Earthy", "value": 75, "color": "#5b5141" },
+      { "name": "Violet", "value": 65, "color": "#a819ff" },
+      { "name": "Floral", "value": 60, "color": "#ff72a0" }
+    ],
+    "topNotes": [{ "name": "Lemon" }, { "name": "Bergamot" }, { "name": "African Marigold" }],
+    "middleNotes": [{ "name": "Violet" }, { "name": "Cyclamen" }],
+    "baseNotes": [{ "name": "Vetiver" }, { "name": "Cedar" }, { "name": "Musk" }]
+  },
+  {
+    "id": "obsession-edt",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 30, "night": 70 },
+    "seasons": { "winter": 80, "spring": 30, "summer": 10, "autumn": 75 },
+    "accords": [
+      { "name": "Warm Spicy", "value": 100, "color": "#c63911" },
+      { "name": "Woody", "value": 85, "color": "#7b461f" },
+      { "name": "Amber", "value": 80, "color": "#bf5119" },
+      { "name": "Aromatic", "value": 75, "color": "#339d7d" },
+      { "name": "Cinnamon", "value": 70, "color": "#cd7f32" }
+    ],
+    "topNotes": [{ "name": "Cinnamon" }, { "name": "Nutmeg" }, { "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Myrrh" }, { "name": "Pine Tree" }, { "name": "Jasmine" }],
+    "baseNotes": [{ "name": "Amber" }, { "name": "Sandalwood" }, { "name": "Vanilla" }]
+  }
+]

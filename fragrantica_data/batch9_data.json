@@ -1,0 +1,172 @@
+[
+  {
+    "id": "homme-intense",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 30, "night": 70 },
+    "seasons": { "winter": 100, "spring": 30, "summer": 15, "autumn": 85 },
+    "accords": [
+      { "name": "Iris", "value": 100, "color": "#bca3d6" },
+      { "name": "Woody", "value": 85, "color": "#7a461e" },
+      { "name": "Powdery", "value": 80, "color": "#edd1b3" },
+      { "name": "Earthy", "value": 75, "color": "#5b5141" },
+      { "name": "Aromatic", "value": 70, "color": "#339d7d" }
+    ],
+    "topNotes": [{ "name": "Lavender" }],
+    "middleNotes": [{ "name": "Iris" }, { "name": "Ambrette (Musk Mallow)" }, { "name": "Pear" }],
+    "baseNotes": [{ "name": "Cedar" }, { "name": "Vetiver" }]
+  },
+  {
+    "id": "hypnotic-poison",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 35, "night": 65 },
+    "seasons": { "winter": 100, "spring": 25, "summer": 15, "autumn": 85 },
+    "accords": [
+      { "name": "Vanilla", "value": 100, "color": "#faf2b5" },
+      { "name": "Sweet", "value": 80, "color": "#ec3948" },
+      { "name": "Almond", "value": 75, "color": "#ddb885" },
+      { "name": "Fruity", "value": 65, "color": "#f85227" },
+      { "name": "Nutty", "value": 60, "color": "#bb8e46" }
+    ],
+    "topNotes": [{ "name": "Coconut" }, { "name": "Plum" }, { "name": "Apricot" }],
+    "middleNotes": [{ "name": "Brazilian Rosewood" }, { "name": "Jasmine" }, { "name": "Caraway" }, { "name": "Tuberose" }, { "name": "Rose" }, { "name": "Lily-of-the-Valley" }],
+    "baseNotes": [{ "name": "Vanilla" }, { "name": "Almond" }, { "name": "Sandalwood" }, { "name": "Musk" }]
+  },
+  {
+    "id": "jadore-edp",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 75, "night": 25 },
+    "seasons": { "winter": 40, "spring": 100, "summer": 50, "autumn": 45 },
+    "accords": [
+      { "name": "White Floral", "value": 100, "color": "#f0f2ff" },
+      { "name": "Floral", "value": 85, "color": "#ff628f" },
+      { "name": "Fruity", "value": 80, "color": "#f85227" },
+      { "name": "Sweet", "value": 65, "color": "#ec3948" },
+      { "name": "Fresh", "value": 65, "color": "#8ce1e4" }
+    ],
+    "topNotes": [{ "name": "Pear" }, { "name": "Melon" }, { "name": "Magnolia" }, { "name": "Peach" }, { "name": "Mandarin Orange" }, { "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Jasmine" }, { "name": "Lily-of-the-Valley" }, { "name": "Tuberose" }, { "name": "Freesia" }, { "name": "Rose" }, { "name": "Orchid" }, { "name": "Plum" }, { "name": "Violet" }],
+    "baseNotes": [{ "name": "Musk" }, { "name": "Vanilla" }, { "name": "Blackberry" }, { "name": "Cedar" }]
+  },
+  {
+    "id": "midnight-poison",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 35, "night": 65 },
+    "seasons": { "winter": 100, "spring": 20, "summer": 15, "autumn": 85 },
+    "accords": [
+      { "name": "Patchouli", "value": 100, "color": "#536423" },
+      { "name": "Citrus", "value": 90, "color": "#f9ff43" },
+      { "name": "Rose", "value": 85, "color": "#fc0f7e" },
+      { "name": "Woody", "value": 80, "color": "#7a461e" },
+      { "name": "Amber", "value": 75, "color": "#bf5119" }
+    ],
+    "topNotes": [{ "name": "Bergamot" }, { "name": "Mandarin Orange" }],
+    "middleNotes": [{ "name": "Rose" }],
+    "baseNotes": [{ "name": "Patchouli" }, { "name": "Amber" }, { "name": "Vanilla" }]
+  },
+  {
+    "id": "miss-dior-blooming-bouquet",
+    "longevity": 5,
+    "sillage": 6,
+    "dayNight": { "day": 85, "night": 15 },
+    "seasons": { "winter": 15, "spring": 100, "summer": 60, "autumn": 20 },
+    "accords": [
+      { "name": "Floral", "value": 100, "color": "#ff628f" },
+      { "name": "Rose", "value": 80, "color": "#fc0f7e" },
+      { "name": "Fresh", "value": 65, "color": "#8ce1e4" },
+      { "name": "Musky", "value": 60, "color": "#d8bbdc" },
+      { "name": "Citrus", "value": 60, "color": "#f9ff43" }
+    ],
+    "topNotes": [{ "name": "Bergamot" }, { "name": "Sweet Pea" }],
+    "middleNotes": [{ "name": "Peony" }, { "name": "Rose" }],
+    "baseNotes": [{ "name": "Musk" }]
+  },
+  {
+    "id": "miss-dior-cherie",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 65, "night": 35 },
+    "seasons": { "winter": 40, "spring": 85, "summer": 50, "autumn": 85 },
+    "accords": [
+      { "name": "Fruity", "value": 100, "color": "#f85227" },
+      { "name": "Woody", "value": 85, "color": "#7a461e" },
+      { "name": "Sweet", "value": 80, "color": "#ec3948" },
+      { "name": "Patchouli", "value": 70, "color": "#536423" },
+      { "name": "Citrus", "value": 65, "color": "#f9ff43" }
+    ],
+    "topNotes": [{ "name": "Strawberry" }, { "name": "Mandarin Orange" }, { "name": "Pineapple" }, { "name": "Cherry" }],
+    "middleNotes": [{ "name": "Caramel" }, { "name": "Popcorn" }, { "name": "Violet" }, { "name": "Rose" }, { "name": "Jasmine" }],
+    "baseNotes": [{ "name": "Patchouli" }, { "name": "Musk" }, { "name": "Amber" }]
+  },
+  {
+    "id": "poison",
+    "longevity": 8,
+    "sillage": 9,
+    "dayNight": { "day": 25, "night": 75 },
+    "seasons": { "winter": 100, "spring": 15, "summer": 5, "autumn": 85 },
+    "accords": [
+      { "name": "Fruity", "value": 100, "color": "#f85227" },
+      { "name": "Sweet", "value": 95, "color": "#ec3948" },
+      { "name": "Amber", "value": 90, "color": "#bf5119" },
+      { "name": "White Floral", "value": 80, "color": "#f0f2ff" },
+      { "name": "Woody", "value": 75, "color": "#7a461e" }
+    ],
+    "topNotes": [{ "name": "Plum" }, { "name": "Wild Berries" }, { "name": "Coriander" }, { "name": "Anise" }, { "name": "Brazilian Rosewood" }],
+    "middleNotes": [{ "name": "Tuberose" }, { "name": "Incense" }, { "name": "White Honey" }, { "name": "Cinnamon" }, { "name": "Opoponax" }, { "name": "Carnation" }, { "name": "Jasmine" }, { "name": "African Orange Flower" }, { "name": "Rose" }],
+    "baseNotes": [{ "name": "Vanille" }, { "name": "Amber" }, { "name": "Sandalwood" }, { "name": "Musk" }, { "name": "Heliotrope" }, { "name": "Vetiver" }, { "name": "Virginia Cedar" }]
+  },
+  {
+    "id": "pure-poison",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 60, "night": 40 },
+    "seasons": { "winter": 50, "spring": 100, "summer": 40, "autumn": 60 },
+    "accords": [
+      { "name": "White Floral", "value": 100, "color": "#f0f2ff" },
+      { "name": "Citrus", "value": 75, "color": "#f9ff43" },
+      { "name": "Woody", "value": 65, "color": "#7a461e" },
+      { "name": "Powdery", "value": 60, "color": "#edd1b3" },
+      { "name": "Animalic", "value": 60, "color": "#81534b" }
+    ],
+    "topNotes": [{ "name": "Jasmine" }, { "name": "Orange" }, { "name": "Bergamot" }, { "name": "Sicilian Mandarin" }],
+    "middleNotes": [{ "name": "Gardenia" }, { "name": "Orange Blossom" }],
+    "baseNotes": [{ "name": "Sandalwood" }, { "name": "White Amber" }, { "name": "Cedar" }]
+  },
+  {
+    "id": "sauvage-edp",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 65, "night": 35 },
+    "seasons": { "winter": 40, "spring": 80, "summer": 75, "autumn": 80 },
+    "accords": [
+      { "name": "Fresh Spicy", "value": 100, "color": "#81bd26" },
+      { "name": "Citrus", "value": 80, "color": "#f9ff43" },
+      { "name": "Amber", "value": 70, "color": "#bf5119" },
+      { "name": "Lavender", "value": 60, "color": "#a182be" },
+      { "name": "Musky", "value": 50, "color": "#d8bbdc" }
+    ],
+    "topNotes": [{ "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Sichuan Pepper" }, { "name": "Lavender" }, { "name": "Star Anise" }, { "name": "Nutmeg" }],
+    "baseNotes": [{ "name": "Ambroxan" }, { "name": "Vanilla" }]
+  },
+  {
+    "id": "sauvage-elixir",
+    "longevity": 9,
+    "sillage": 9,
+    "dayNight": { "day": 35, "night": 65 },
+    "seasons": { "winter": 100, "spring": 25, "summer": 10, "autumn": 85 },
+    "accords": [
+      { "name": "Warm Spicy", "value": 100, "color": "#c63901" },
+      { "name": "Fresh Spicy", "value": 75, "color": "#81bd26" },
+      { "name": "Woody", "value": 70, "color": "#7a461e" },
+      { "name": "Aromatic", "value": 70, "color": "#339d7d" },
+      { "name": "Lavender", "value": 65, "color": "#a182be" }
+    ],
+    "topNotes": [{ "name": "Nutmeg" }, { "name": "Cinnamon" }, { "name": "Cardamom" }, { "name": "Grapefruit" }],
+    "middleNotes": [{ "name": "Lavender" }],
+    "baseNotes": [{ "name": "Licorice" }, { "name": "Sandalwood" }, { "name": "Amber" }, { "name": "Patchouli" }, { "name": "Haitian Vetiver" }]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "good-girl",
+    "brand": "Carolina Herrera",
+    "name": "Good Girl EDP",
+    "notes": {
+      "top": ["Hạnh nhân", "Cà phê đen", "Vỏ chanh vàng", "Cam Bergamot"],
+      "mid": ["Hoa huệ mượt (Tuberose)", "Hoa nhài Sambac phủ", "Hoa cam", "Rễ hoa diên vĩ", "Hồng Bulgaria"],
+      "base": ["Đậu Tonka nghiền", "Bột Cacao", "Vani rêu", "Kẹo Praline sữa", "Gỗ đàn hương", "Xạ hương phấn", "Hổ phách hổ", "Gỗ Cashmere", "Gỗ tuyết tùng trầm", "Quế cờ", "Hoắc hương đen"]
+    },
+    "verdict": "Vũ khí sát thương tiệc đêm của các quý cô. Sự hòa quyện béo ngậy của Cacao và Hạnh Nhân phủ lên hoa Huệ và Diên Vĩ, ngọt lịm gục ngã."
+  },
+  {
+    "id": "allure-edp",
+    "brand": "CHANEL",
+    "name": "Allure EDP",
+    "notes": {
+      "top": ["Quả đào", "Cam quýt quả", "Trái chanh dây", "Chanh vàng chát", "Cam Bergamot"],
+      "mid": ["Hoa kim ngân", "Hoa nhài", "Hoa mộc lan", "Hoa súng", "Lan Nam Phi", "Phấn hoa hồng", "Hoa mẫu đơn"],
+      "base": ["Đại hồi Vani nguyên chất", "Gỗ đàn hương", "Hổ phách ngậm sương", "Hoắc hương non", "Cỏ vetiver xám"]
+    },
+    "verdict": "Khúc hát của mùa Xuân và các loài hoa trắng. Tươi vui, rạng rỡ với ngập tràn trái đào thanh mát, phù hợp với nét tiểu thư đài các."
+  },
+  {
+    "id": "allure-homme-edition-blanche",
+    "brand": "CHANEL",
+    "name": "Allure Homme Edition Blanche EDP",
+    "notes": {
+      "top": ["Chanh vàng dập đá", "Cam Bergamot", "Tiêu đen", "Tiêu hồng phấn"],
+      "mid": ["Gỗ đàn hương mượt", "Gỗ tuyết tùng xám nhạt"],
+      "base": ["Đậu Tonka trắng", "Xạ hương tơ", "Cỏ Vetiver rễ hầm", "Vani xốp"]
+    },
+    "verdict": "Mùi hương bánh chanh Lemon Tart nổi tiếng. Sự chát ngọt mọng nước của chanh mix cùng lớp phấn Vanilla bông xốp quyến rũ cực đỉnh."
+  },
+  {
+    "id": "allure-homme-edt",
+    "brand": "CHANEL",
+    "name": "Allure Homme EDT",
+    "notes": {
+      "top": ["Chanh vàng", "Quả đào tươi", "Gừng thơm", "Cam Mandarin", "Hoa oải hương hoang", "Cam Bergamot"],
+      "mid": ["Tiêu nhát", "Tuyết tùng", "Hoa dành dành", "Hoắc hương nồng", "Hoa hồng", "Hoa nhài khô", "Gỗ Anise", "Cỏ Vetiver", "Lan Nam Phi"],
+      "base": ["Hương Vanilla béo", "Đậu Tonka nghiền", "Dừa sáp", "Hổ phách tươi", "Gỗ đàn hương mùỗi", "Xạ hương trắng", "Rêu sồi già", "Da thuộc cằn"]
+    },
+    "verdict": "Tượng đài gỗ cay nồng 1999 trường tồn. Một sự pha trộn khổng lồ tạo nên chân dung một quý ông trầm tĩnh và ấm áp tột độ."
+  },
+  {
+    "id": "allure-homme-sport-eau-extreme",
+    "brand": "CHANEL",
+    "name": "Allure Homme Sport Eau Extreme",
+    "notes": {
+      "top": ["Cam quýt tươi", "Lá bạc hà dập lạnh", "Cây bách xù", "Xô thơm chát"],
+      "mid": ["Tiêu đen ngậm sương"],
+      "base": ["Đậu tonka nghiền", "Gỗ đàn hương", "Gỗ tuyết tùng nhạt", "Xạ hương tơ"]
+    },
+    "verdict": "Vị chua mát của Cam quýt bọc trong sự the lạnh của Bạc hà trước khi chìm sâu vào Tonka và Đàn hương ngọt bám rịt. Chàng trai phòng gym mang khí chất vương tôn."
+  },
+  {
+    "id": "allure-homme-sport",
+    "brand": "CHANEL",
+    "name": "Allure Homme Sport EDT",
+    "notes": {
+      "top": ["Cam tươi đỏ", "Orange thơm", "Hương nước biển Marine", "Hương An-đê-hít"],
+      "mid": ["Hương Tiêu", "Hoa súng", "Gỗ tuyết tùng trầm"],
+      "base": ["Hương Vani xốp", "Đậu tonka nhạt", "Xạ hương trắng", "Hổ phách bào", "Elemi resin", "Cỏ Vetiver mộc"]
+    },
+    "verdict": "Bản phối đỉnh cao của Marine và Cam chát. Tươi mới đỉnh điểm, đập tan rào cản nắng hè nhờ sức hút mạnh mẽ từ hương nước biển mặn mòi."
+  },
+  {
+    "id": "antaeus",
+    "brand": "CHANEL",
+    "name": "Antaeus EDT",
+    "notes": {
+      "top": ["Nhựa thơm Myrrh", "Xô thơm mốc", "Ngò rai chua", "Cam Bergamot", "Amalfi Lemon", "Chanh xanh vắt"],
+      "mid": ["Hương Hoa trà đỏ (Rose)", "Thảo dược Thyme", "Trầm hương thảo", "Húng quế lục", "Hoa nhài hoang"],
+      "base": ["Chiết xuất Hải ly (Castoreum)", "Rêu sồi đen", "Gỗ đàn hương mùỗi", "Hoắc hương cỗi", "Labdanum dính", "Cỏ hương bài ma rốc"]
+    },
+    "verdict": "Tuyệt tác Woody Animalic cổ điển rúng động thập niên 80. Rất mạnh bạo, rêu phong và đầy nam tính cực đoan."
+  },
+  {
+    "id": "bleu-de-chanel-eau-de-parfum",
+    "brand": "CHANEL",
+    "name": "Bleu de Chanel Eau de Parfum",
+    "notes": {
+      "top": ["Bưởi chùm đắng", "Chanh vàng mọng", "Bạc hà lạnh", "Tiêu hồng chát", "Cam Bergamot non", "Hương An-đê-hít", "Ngò rai thơm"],
+      "mid": ["Gừng ấm", "Quả Dưa lưới melon", "Nhài sương tuyết", "Hương nhục đậu khấu"],
+      "base": ["Nhang khói Incense", "Hổ phách sâu", "Gỗ tuyết tùng trầm", "Gỗ đàn hương", "Xạ hương phấn", "Labdanum", "Nhựa Amberwood đen"]
+    },
+    "verdict": "Bản giao hưởng xanh kinh điển. Khởi điểm Citrus đắng the sau đó khô dần vào Incense và Amberwood trầm ấm cực kỳ nịnh phụ nữ."
+  },
+  {
+    "id": "bleu-de-chanel-parfum",
+    "brand": "CHANEL",
+    "name": "Bleu de Chanel Parfum",
+    "notes": {
+      "top": ["Vỏ chanh vàng sần", "Cam Bergamot mọng lợt", "Bạc hà the xanh", "Ngải cứu thâm (Artemisia)"],
+      "mid": ["Hoa oải hương hoang", "Phong lữ", "Dứa chua", "Hương hoa lục mộc"],
+      "base": ["Hương gỗ Đàn hương cỗi", "Tuyết tùng khô", "Keo Amberwood", "Gỗ Iso E Super lốm đốm", "Đậu Tonka nghiền"]
+    },
+    "verdict": "Bản trưởng thành nhất của vương triều Bleu de Chanel. Ít the mát mà sâu sắc hơn, mượt và ám ảnh hơn bởi gỗ đàn hương."
+  }
+]

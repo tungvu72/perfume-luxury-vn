@@ -1,0 +1,170 @@
+[
+  {
+    "id": "no-19-poudre",
+    "longevity": 6,
+    "sillage": 8,
+    "dayNight": { "day": 75, "night": 25 },
+    "seasons": { "winter": 25, "spring": 100, "summer": 40, "autumn": 60 },
+    "accords": [
+      { "name": "Iris", "value": 100, "color": "#c4aedc" },
+      { "name": "Green", "value": 95, "color": "#188217" },
+      { "name": "Powdery", "value": 85, "color": "#eed1b1" },
+      { "name": "Aromatic", "value": 85, "color": "#339d7d" },
+      { "name": "Earthy", "value": 80, "color": "#5a5140" }
+    ],
+    "topNotes": [{ "name": "Galbanum" }, { "name": "Neroli" }, { "name": "Mandarin Orange" }],
+    "middleNotes": [{ "name": "Iris" }, { "name": "Jasmine" }],
+    "baseNotes": [{ "name": "Vetiver" }, { "name": "Musk" }, { "name": "Tonka Bean" }]
+  },
+  {
+    "id": "no-5-eau-de-parfum",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 50, "night": 50 },
+    "seasons": { "winter": 85, "spring": 40, "summer": 25, "autumn": 85 },
+    "accords": [
+      { "name": "Woody", "value": 100, "color": "#7b471f" },
+      { "name": "Aldehydic", "value": 85, "color": "#d3ecf9" },
+      { "name": "Fresh", "value": 80, "color": "#8be1e4" },
+      { "name": "White Floral", "value": 75, "color": "#f0f2ff" },
+      { "name": "Powdery", "value": 65, "color": "#edd1b3" }
+    ],
+    "topNotes": [{ "name": "Aldehydes" }, { "name": "Ylang-Ylang" }, { "name": "Neroli" }, { "name": "Bergamot" }, { "name": "Peach" }],
+    "middleNotes": [{ "name": "Iris" }, { "name": "Jasmine" }, { "name": "Rose" }, { "name": "Lily-of-the-Valley" }],
+    "baseNotes": [{ "name": "Sandalwood" }, { "name": "Vanilla" }, { "name": "Oakmoss" }, { "name": "Patchouli" }, { "name": "Vetiver" }]
+  },
+  {
+    "id": "no-5-eau-de-toilette",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 50, "night": 50 },
+    "seasons": { "winter": 85, "spring": 40, "summer": 25, "autumn": 85 },
+    "accords": [
+      { "name": "Woody", "value": 100, "color": "#7b471f" },
+      { "name": "Powdery", "value": 95, "color": "#edd1b3" },
+      { "name": "Aldehydic", "value": 90, "color": "#d3ecf9" },
+      { "name": "Fresh", "value": 85, "color": "#8be1e4" },
+      { "name": "Iris", "value": 85, "color": "#c4aedc" }
+    ],
+    "topNotes": [{ "name": "Aldehydes" }, { "name": "Ylang-Ylang" }, { "name": "Neroli" }, { "name": "Lemon" }, { "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Iris" }, { "name": "Jasmine" }, { "name": "Rose" }, { "name": "Orris Root" }, { "name": "Lily-of-the-Valley" }],
+    "baseNotes": [{ "name": "Civet" }, { "name": "Musk" }, { "name": "Sandalwood" }, { "name": "Oakmoss" }, { "name": "Vanilla" }, { "name": "Amber" }, { "name": "Patchouli" }, { "name": "Vetiver" }]
+  },
+  {
+    "id": "no-5-parfum",
+    "longevity": 8,
+    "sillage": 8,
+    "dayNight": { "day": 40, "night": 60 },
+    "seasons": { "winter": 95, "spring": 30, "summer": 15, "autumn": 85 },
+    "accords": [
+      { "name": "Powdery", "value": 100, "color": "#ebd0b0" },
+      { "name": "Woody", "value": 95, "color": "#7a461e" },
+      { "name": "Aldehydic", "value": 85, "color": "#d3ecf9" },
+      { "name": "Iris", "value": 80, "color": "#bca3d6" },
+      { "name": "Fresh", "value": 80, "color": "#8be1e4" }
+    ],
+    "topNotes": [{ "name": "Aldehydes" }, { "name": "Ylang-Ylang" }, { "name": "Neroli" }, { "name": "Bergamot" }, { "name": "Lemon" }],
+    "middleNotes": [{ "name": "Iris" }, { "name": "Jasmine" }, { "name": "Rose" }, { "name": "Orris Root" }, { "name": "Lily-of-the-Valley" }],
+    "baseNotes": [{ "name": "Civet" }, { "name": "Sandalwood" }, { "name": "Musk" }, { "name": "Oakmoss" }, { "name": "Vetiver" }, { "name": "Vanilla" }, { "name": "Amber" }, { "name": "Patchouli" }]
+  },
+  {
+    "id": "chloe-atelier-des-fleurs-rosa-damascena",
+    "longevity": 6,
+    "sillage": 8,
+    "dayNight": { "day": 80, "night": 20 },
+    "seasons": { "winter": 15, "spring": 100, "summer": 60, "autumn": 40 },
+    "accords": [
+      { "name": "Rose", "value": 100, "color": "#ef0c6e" },
+      { "name": "Floral", "value": 60, "color": "#ff628f" },
+      { "name": "Citrus", "value": 45, "color": "#f9ff43" }
+    ],
+    "topNotes": [{ "name": "Bergamot" }],
+    "middleNotes": [{ "name": "Rose" }],
+    "baseNotes": [{ "name": "Musk" }]
+  },
+  {
+    "id": "chloe-atelier-des-fleurs-santalum",
+    "longevity": 6,
+    "sillage": 6,
+    "dayNight": { "day": 75, "night": 25 },
+    "seasons": { "winter": 25, "spring": 15, "summer": 20, "autumn": 85 },
+    "accords": [
+      { "name": "Woody", "value": 100, "color": "#7a461e" },
+      { "name": "Lactonic", "value": 65, "color": "#fbf2e9" },
+      { "name": "Powdery", "value": 60, "color": "#ebd0b0" },
+      { "name": "Warm Spicy", "value": 55, "color": "#c63901" },
+      { "name": "Balsamic", "value": 45, "color": "#b48662" }
+    ],
+    "topNotes": [{ "name": "Milk" }],
+    "middleNotes": [{ "name": "Woody Notes" }],
+    "baseNotes": [{ "name": "Sandalwood" }]
+  },
+  {
+    "id": "eau-de-parfum",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 75, "night": 25 },
+    "seasons": { "winter": 20, "spring": 100, "summer": 60, "autumn": 40 },
+    "accords": [
+      { "name": "Floral", "value": 100, "color": "#ff628f" },
+      { "name": "Rose", "value": 85, "color": "#ef0c6e" },
+      { "name": "Fresh", "value": 75, "color": "#8be0e4" },
+      { "name": "Fruity", "value": 60, "color": "#f85227" },
+      { "name": "White Floral", "value": 55, "color": "#eff1ff" }
+    ],
+    "topNotes": [{ "name": "Peony" }, { "name": "Litchi" }, { "name": "Freesia" }],
+    "middleNotes": [{ "name": "Rose" }, { "name": "Lily-of-the-Valley" }, { "name": "Magnolia" }],
+    "baseNotes": [{ "name": "Virginia Cedar" }, { "name": "Amber" }]
+  },
+  {
+    "id": "nomade-edp",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 75, "night": 25 },
+    "seasons": { "winter": 30, "spring": 85, "summer": 50, "autumn": 85 },
+    "accords": [
+      { "name": "Woody", "value": 100, "color": "#7a461e" },
+      { "name": "Citrus", "value": 95, "color": "#f9ff43" },
+      { "name": "Fruity", "value": 85, "color": "#f85227" },
+      { "name": "Mossy", "value": 85, "color": "#5b6831" },
+      { "name": "Earthy", "value": 80, "color": "#5b5141" }
+    ],
+    "topNotes": [{ "name": "Mirabelle" }, { "name": "Bergamot" }, { "name": "Lemon" }, { "name": "Orange" }],
+    "middleNotes": [{ "name": "Freesia" }, { "name": "Peach" }, { "name": "Jasmine" }, { "name": "Rose" }],
+    "baseNotes": [{ "name": "Oakmoss" }, { "name": "Amberwood" }, { "name": "Patchouli" }, { "name": "White Musk" }, { "name": "Sandalwood" }]
+  },
+  {
+    "id": "for-men",
+    "longevity": 6,
+    "sillage": 6,
+    "dayNight": { "day": 70, "night": 30 },
+    "seasons": { "winter": 20, "spring": 80, "summer": 80, "autumn": 45 },
+    "accords": [
+      { "name": "Citrus", "value": 100, "color": "#f9ff43" },
+      { "name": "Aromatic", "value": 100, "color": "#339d7d" },
+      { "name": "Amber", "value": 85, "color": "#bf5119" },
+      { "name": "Fresh Spicy", "value": 75, "color": "#81bd26" },
+      { "name": "Fruity", "value": 70, "color": "#f85227" }
+    ],
+    "topNotes": [{ "name": "Pear" }, { "name": "Kumquat" }, { "name": "Bergamot" }, { "name": "Lavender" }, { "name": "Grapefruit" }],
+    "middleNotes": [{ "name": "Cardamom" }, { "name": "Geranium" }, { "name": "Coriander" }],
+    "baseNotes": [{ "name": "Ambergris" }, { "name": "Suede" }, { "name": "Amberwood" }, { "name": "Haitian Vetiver" }]
+  },
+  {
+    "id": "creed-aventus",
+    "longevity": 7,
+    "sillage": 8,
+    "dayNight": { "day": 60, "night": 40 },
+    "seasons": { "winter": 30, "spring": 80, "summer": 80, "autumn": 40 },
+    "accords": [
+      { "name": "Fruity", "value": 100, "color": "#f85227" },
+      { "name": "Sweet", "value": 75, "color": "#eb3a33" },
+      { "name": "Woody", "value": 70, "color": "#7a461e" },
+      { "name": "Leather", "value": 65, "color": "#81534b" },
+      { "name": "Citrus", "value": 65, "color": "#f9ff43" }
+    ],
+    "topNotes": [{ "name": "Pineapple" }, { "name": "Bergamot" }, { "name": "Black Currant" }, { "name": "Apple" }],
+    "middleNotes": [{ "name": "Birch" }, { "name": "Patchouli" }, { "name": "Moroccan Jasmine" }, { "name": "Rose" }],
+    "baseNotes": [{ "name": "Musk" }, { "name": "Oakmoss" }, { "name": "Ambergris" }, { "name": "Vanille" }]
+  }
+]

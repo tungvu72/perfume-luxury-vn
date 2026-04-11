@@ -1,0 +1,90 @@
+[
+  {
+    "id": "rmni-prive-the-yulong",
+    "brand": "Armani Prive",
+    "name": "The Yulong",
+    "notes": {
+      "top": ["Quả quýt hồng Madagascar", "Tiêu hồng", "Bạch đậu khấu"],
+      "mid": ["Trà xanh ngọc bích", "Trà đen", "Hoa sơn chi", "Hoa nhài"],
+      "base": ["Hương gỗ trắng", "Cỏ hương bài", "Hoa diên vĩ (Iris)"]
+    },
+    "verdict": "Một tách trà thanh tịnh sớm sương mù. Trà xanh tươi mát quấn quyện với trà đen hun khói chát nhẹ, tỏa ra phong thái thư thái, ung dung và cực kỳ vương giả."
+  },
+  {
+    "id": "musk-kashmir",
+    "brand": "Attar Collection",
+    "name": "Musk Kashmir",
+    "notes": {
+      "top": ["Xạ hương trắng", "Tiêu trắng"],
+      "mid": ["Hoa sơn chi đinh hương"],
+      "base": ["Gỗ đàn hương đắp bột", "Hương gỗ ngậm sương"]
+    },
+    "verdict": "Hương thơm sát thủ phòng the chốn Ả Rập lụa là. Xạ hương trắng sạch sẽ tột độ bám chat trên lớp da thịt khơi gợi."
+  },
+  {
+    "id": "the-most-wanted-parfum",
+    "brand": "Azzaro",
+    "name": "The Most Wanted Parfum",
+    "notes": {
+      "top": ["Gừng đỏ nướng"],
+      "mid": ["Hương gỗ tổng hợp bốc khói"],
+      "base": ["Vani Bourbon nguyên chất mọng nước"]
+    },
+    "verdict": "Ngọt lịm, ấm áp và cực dính nách. Mùi hương vũ khí tối thượng cho những buổi hẹn hò chớp nhoáng mùa đông với Vani bủa vây mọi khứu giác."
+  },
+  {
+    "id": "gris-charnel-extrait",
+    "brand": "BDK PARFUMS",
+    "name": "Gris Charnel Extrait",
+    "notes": {
+      "top": ["Trà đen Tích Lan", "Lá sung", "Bạch đậu khấu đặc"],
+      "mid": ["Hoa diên vĩ Moroc", "Hoắc hương ấn độ ngọt", "Hương gỗ mộc"],
+      "base": ["Gỗ đàn hương Tân caledonia", "Nhựa thơm Tonka", "Extrait Vanilla"]
+    },
+    "verdict": "Bản giao hưởng trà đen, quả sung và đàn hương đậm đặc cực điểm. Trầm ấm, có chiều sâu của học thức và sự giàu có không thích phô trương."
+  },
+  {
+    "id": "her-edp",
+    "brand": "BURBERRY",
+    "name": "Her EDP",
+    "notes": {
+      "top": ["Dâu tây dầm đỏ", "Quả mâm xôi", "Chanh dây", "Chanh vàng"],
+      "mid": ["Hoa violet", "Hoa nhài sương mai"],
+      "base": ["Rêu sồi đen", "Xạ hương phấn lợt", "Cây hoắc hương nhạt"]
+    },
+    "verdict": "Ly dâu tây sữa mâm xôi trong veo, ngọt ngào và năng động. Baccarat 540 phiên bản fruity, dễ xài và nịnh mũi mọi anh em văn phòng."
+  },
+  {
+    "id": "man-in-black",
+    "brand": "BVLGARI",
+    "name": "Man In Black EDP",
+    "notes": {
+      "top": ["Gia vị cay nồng", "Rượu Rum đen", "Cây thuốc lá sấy khô"],
+      "mid": ["Da thuộc mộc", "Hoa diên vĩ đen", "Hoa huệ nồng"],
+      "base": ["Đậu tonka nghiền", "Gỗ Guaiac hun khói", "Nhựa Benzoin"]
+    },
+    "verdict": "Quý ông tiệc đêm lạnh lùng khoác áo da sặc mùi Rượu Rum. Trầm tĩnh, trưởng thành, và vô cùng lấn át người đối diện."
+  },
+  {
+    "id": "bal-dafrique",
+    "brand": "Byredo",
+    "name": "Bal d'Afrique EDP",
+    "notes": {
+      "top": ["Quả chanh vàng Amalfi", "Hoa cúc vạn thọ ngậm chua", "Nho đen"],
+      "mid": ["Hoa tím lục bình (Cyclamen)", "Hoa cam Châu Phi", "Hoa nhài vỡ"],
+      "base": ["Hổ phách tươi", "Cỏ hương bài ma rốc", "Gỗ tuyết tùng xám"]
+    },
+    "verdict": "Lễ hội trái cây tưng bừng ở đất Phi Châu. Một làn ranh chua ngọt cực nịnh mũi với nền cỏ hương bài lấp lánh như bụi vàng óng ả."
+  },
+  {
+    "id": "ck-obsession",
+    "brand": "CALVIN KLEIN",
+    "name": "Obsession EDT",
+    "notes": {
+      "top": ["Quế cờ", "Hoa oải hương hoang đỏ", "Ngo gai", "Cam chát"],
+      "mid": ["Nhựa thơm mộc dược", "Gỗ hồng mộc brazil", "Gỗ thông", "Hoa nhài"],
+      "base": ["Hổ phách nén", "Gỗ đàn hương mùỗi", "Vani rêu sồi chát"]
+    },
+    "verdict": "Sự ám ảnh quyến rũ mang màu sắc thảo mộc hoài niệm của những thập niên trước. Siêu ấm áp và mang hơi hướng badboy phong trần cổ điển."
+  }
+]
