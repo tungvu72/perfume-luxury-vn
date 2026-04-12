@@ -7806,25 +7806,63 @@ Sự kiện đặc biệt, đêm mùa đông, hoặc khi muốn STATEMENT. Xịt
     brand: "Dolce & Gabbana",
     brandSlug: "dolce-gabbana",
     name: "Light Blue Eau Intense",
+    subName: "EDP",
+    perfumer: "Alberto Morillas",
+    year: 2017,
     gender: "nam",
+    longevity: 7,
+    sillage: 8,
+    seasons: {"spring":25,"summer":65,"fall":8,"winter":2},
+    dayNight: {"day":80,"night":20},
+    seoTitle: "Nước hoa Dolce & Gabbana Light Blue Eau Intense Nam",
+    metaDescription: "Review D&G Light Blue Eau Intense Pour Homme: Hương thơm của vùng biển Capri xanh ngắt. Nốt hương bưởi, quýt tươi mát quyện cùng nước biển sảng khoái tột độ mùa oi bức.",
+    description: "Vũ khí diệt hơi nóng mùa hè chuẩn mực nhất dành cho nam! Cú vớt hương hoàn hảo từ bậc thầy Alberto Morillas giúp bản Intense giữ nguyên vị the mát sảng khoái của Bưởi (Grapefruit) và Quýt ngậm nước, nhưng nhân đôi nồng độ của Nước biển (Sea Water) mặn mòi. Kết hợp cùng Gỗ bách xù (Juniper) nam tính và Xạ hương ngà, nó tạo nên một mùi hương mát lạnh vô song nhưng lại bám tỏa trâu bò hiếm thấy trong thế giới nước hoa fresh (tươi mát). Tuyệt phẩm cho dân chơi gym hoặc đi biển.",
+    score: {"scent":9,"uniqueness":7.5,"compliments":9.5,"value":9,"total":8.8},
+    topNotes: [
+      {"name": "Quả Bưởi chín (Grapefruit)"},
+      {"name": "Cam Mandarin"}
+    ],
+    middleNotes: [
+      {"name": "Nước biển mặn (Sea Water)"},
+      {"name": "Gỗ bách xù (Juniper)"}
+    ],
+    baseNotes: [
+      {"name": "Xạ hương ngà (Musk)"},
+      {"name": "Nhựa Gỗ hổ phách (Amberwood)"}
+    ],
+    accords: [
+      {"name": "Cam chanh tươi bay", "value": 100, "color": "#ffff00"},
+      {"name": "Thảo mộc thanh", "value": 95, "color": "#2e8b57"},
+      {"name": "Nước biển xanh", "value": 85, "color": "#00bfff"},
+      {"name": "Gia vị mát", "value": 60, "color": "#7cb342"},
+      {"name": "Gỗ mộc", "value": 55, "color": "#8b4513"}
+    ],
+    vibes: [
+      { label: "Biển Capri", icon: "🌊" },
+      { label: "Giải nhiệt", icon: "🧊" }
+    ],
+    article: `### Ai không nên mua?
+
+Nếu bạn làm việc phòng lạnh 100% không bao giờ ra ngoài rước mồ hôi, bản Intense có thể hơi mặn mùi biển. Những ai ghét nốt hương biển học (Marine/Aquatic) nên tránh.
+
+### Có đáng tiền không?
+
+Cực kỳ đáng tiền cho mùa hè. Bạn sẽ khó tìm được chai Fresh nào có độ lưu hương bám tỏa vượt qua 7 tiếng trên da như con quái vật mát lạnh này.
+
+### Nên dùng khi nào?
+
+Mùa hè, ngày oi bức, đi biển, đi gym, dạo phố ban ngày.`,
+    verdict: "Ông hoàng nước hoa mùa đông gục ngã trước ông vua mùa hè. Vị chua mặn bám cực tốt.",
+    verdictShort: "ÔNG VUA TƯƠI MÁT MÙA HÈ",
+    tags: ["Mùa hè","Phóng khoáng","Thể thao","Đi biển"],
+    sizes: ["10ml Chiết","50ml Fullbox","100ml Fullbox"],
+    basePrice: 2000000,
+    shopeeOffers: [],
+    isPublished: true,
     image: "/images/products/dg-light-blue-intense-homme-main.jpg",
     images: [
       { url: "/images/products/dg-light-blue-intense-homme-main.jpg", source: "studio", caption: "Dolce & Gabbana Light Blue Eau Intense Pour Homme chính hãng", verified: true }
     ],
-    description: "Làn nước biển trong vắt tại Capri, mát lạnh và mặn mòi. Bản Intense làm đậm thêm độ bám tỏa, là vũ khí mùa hè hủy diệt cái nóng với bưởi và hương biển mơn man.",
-    verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
-    verdictShort: "Đang cập nhật",
-    score: { scent: Math.floor(Math.random()*2)+8, uniqueness: 8, compliments: 8, value: 8, total: 8.5 },
-    vibes: [{"label":"Sảng khoái","icon":"🌊"},{"label":"Giải nhiệt","icon":"🧊"}],
-    topNotes: [{"name":"Bưởi chùm"},{"name":"Cam Mandarin"}],
-    middleNotes: [{"name":"Nước biển"},{"name":"Quả bách xù"}],
-    baseNotes: [{"name":"Xạ hương"},{"name":"Amberwood"}],
-    accords: [{"name":"Biển cả","value":100,"color":"#00bfff"},{"name":"Tươi mặn","value":85,"color":"#87cefa"}],
-    tags: ["Thơm lâu", "Hương tinh chọn"],
-    sizes: ["100ml"],
-    basePrice: 0,
-    shopeeOffers: [],
-    isPublished: true
 },
   {
     id: "light-blue-pour-femme",
