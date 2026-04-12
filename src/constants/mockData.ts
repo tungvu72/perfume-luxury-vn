@@ -7809,7 +7809,7 @@ Sự kiện đặc biệt, đêm mùa đông, hoặc khi muốn STATEMENT. Xịt
     gender: "nam",
     image: "/images/products/dg-light-blue-intense-homme-main.jpg",
     images: [
-      { url: "/images/products/dg-light-blue-intense-homme-main.jpg", source: "fragram", caption: "D&G Light Blue Eau Intense Pour Homme chính hãng", verified: true }
+      { url: "/images/products/dg-light-blue-intense-homme-main.jpg", source: "studio", caption: "Dolce & Gabbana Light Blue Eau Intense Pour Homme chính hãng", verified: true }
     ],
     description: "Làn nước biển trong vắt tại Capri, mát lạnh và mặn mòi. Bản Intense làm đậm thêm độ bám tỏa, là vũ khí mùa hè hủy diệt cái nóng với bưởi và hương biển mơn man.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
