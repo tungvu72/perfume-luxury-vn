@@ -10703,8 +10703,8 @@ Thiền, yoga, sự kiện tối, hoặc khi muốn inner peace mùi hương. X�
       { label: "Best seller", icon: "🥇" },
       { label: "Nam tính", icon: "💪" }
     ],
-    image: "/images/products/077-sauvage-edp-main.jpg",
-    images: [{ url: "/images/products/077-sauvage-edp-main.jpg", source: "fragram", caption: "Dior Sauvage Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/077-sauvage-edp-main.webp",
+    images: [{ url: "/images/products/077-sauvage-edp-main.webp", source: "fragram", caption: "Dior Sauvage Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét đụng hàng thì Sauvage EDP là chai đụng nhiều nhất — vì nó quá phổ biến. Ai thích mùi độc lạ, cá tính riêng hoặc niche sẽ thấy Sauvage quá an toàn và quá mainstream. Ngoài ra, nếu bạn đã có Sauvage EDT thì EDP khá gần — sâu hơn, ấm hơn nhưng DNA giống. Cân nhắc trước khi mua thêm.
@@ -12717,7 +12717,7 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       {"name": "Phấn", "value": 75, "color": "#f5deb3"},
       {"name": "Hương hoa", "value": 75, "color": "#ff69b4"}
     ],
-    image: "/images/products/018-byredo-blanche-edp-main.jpg",
+    image: "/images/products/018-byredo-blanche-edp-main.webp",
     images: [
       { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Byredo Blanche EDP chính hãng", verified: true },
       { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-chinh-hang-1.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 2", verified: true },
@@ -12829,7 +12829,7 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       { label: "Trong trẻo", icon: "🪷" },
       { label: "Thuần khiết", icon: "💧" }
     ],
-    image: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena-main.jpg",
+    image: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena-main.webp",
     images: [
       { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-chai-nuoc-hoa-5.webp", source: "owner", caption: "Chloé Rosa Damascena chính hãng", verified: true },
       { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-chinh-hang-1.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 2", verified: true },
@@ -13487,7 +13487,7 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Xa xỉ", icon: "💎" },
       { label: "Cuốn hút", icon: "💫" }
     ],
-    image: "/images/products/090-ex-nihilo-blue-talisman-main.jpg",
+    image: "/images/products/090-ex-nihilo-blue-talisman-main.webp",
     images: [
       { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-chai-nuoc-hoa-5.webp", source: "owner", caption: "Ex Nihilo Blue Talisman chính hãng", verified: true },
       { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-chinh-hang-1.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 2", verified: true },
@@ -13749,7 +13749,7 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Sâu lắng", icon: "🥀" },
       { label: "Thanh lịch", icon: "🎻" }
     ],
-    image: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-main.jpg",
+    image: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-main.webp",
     images: [
       { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP chính hãng", verified: true },
       { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-chinh-hang-1.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 2", verified: true },
@@ -14894,7 +14894,7 @@ BR540 thuộc phân khúc niche cao cấp — đắt hơn đáng kể so với d
       { label: "Tiểu thư", icon: "🎀" },
       { label: "Trưởng thành", icon: "💃" }
     ],
-    image: "/images/products/073-miss-dior-essence-new-2025-main.jpg",
+    image: "/images/products/073-miss-dior-essence-new-2025-main.webp",
     images: [
       { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-chai-nuoc-hoa-5.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum chính hãng", verified: true },
       { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-chinh-hang-1.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 2", verified: true },
@@ -16864,7 +16864,7 @@ Mùa thu đông, buổi tối, hẹn hò, đi chơi. Xịt 2-3 nhát: cổ, ng�
       { label: "Quý tộc Ý", icon: "🥂" },
       { label: "Sang xịn", icon: "💎" }
     ],
-    image: "/images/products/249-xerjoff-casamorati-mefisto-main.jpg",
+    image: "/images/products/249-xerjoff-casamorati-mefisto-main.webp",
     images: [
       { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-chai-nuoc-hoa-5.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto chính hãng", verified: true },
       { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-chinh-hang-1.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 2", verified: true },
