@@ -42,8 +42,8 @@ export const MASTER_PERFUMES: Perfume[] = [
       { label: "Sữa Vani", icon: "🥛" },
       { label: "Thanh lịch", icon: "🦢" }
     ],
-    image: "/images/products/montblanc-signature-main.jpg",
-    images: [{ url: "/images/products/montblanc-signature-main.jpg", source: "fragram", caption: "Montblanc Signature EDP chính hãng", verified: true }],
+    image: "/images/products/192-montblanc-signature-edp-main.jpg",
+    images: [{ url: "/images/products/192-montblanc-signature-edp-main.jpg", source: "fragram", caption: "Montblanc Signature EDP chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn tìm kiếm một mùi hương cá tính mạnh, phá cách hay sexy mời gọi thì Signature không dành cho bạn. Đây là mùi hương siêu "an toàn", nữ tính nhẹ nhàng kiểu clean girl. Ai ghét nốt vani sữa ngọt kem cũng có thể thấy nó hơi ngậy lúc ban đầu.
@@ -103,8 +103,8 @@ Hoàn hảo cho môi trường văn phòng, đi làm hằng ngày, dạo phố c
       { label: "Xa xỉ", icon: "👑" },
       { label: "Rực rỡ", icon: "✨" }
     ],
-    image: "/images/products/hermes-24-faubourg-main.jpg",
-    images: [{ url: "/images/products/hermes-24-faubourg-main.jpg", source: "fragram", caption: "Hermès 24 Faubourg Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/134-24-faubourg-main.jpg",
+    images: [{ url: "/images/products/134-24-faubourg-main.jpg", source: "fragram", caption: "Hermès 24 Faubourg Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn dưới 30 và thích mùi trẻ trung trendy kiểu Cloud hay Mon Paris — thì 24 Faubourg sẽ khiến bạn nghĩ "mùi này mature quá". Và đúng: đây là chai nữ QUÁI PHÁI kiểu thật sự — iris, gardenia, hổ phách vàng, không có gì ngọt teensy cả. Tên chai lấy từ địa chỉ 24 Rue du Faubourg Saint-Honoré, trụ sở Hermès ở Paris — và mùi cũng sang đúng như địa chỉ đó.
@@ -150,8 +150,8 @@ Sự kiện sang trọng, ăn tối, tiệc cưới, hoặc bất cứ dịp nà
       {"name": "Trái cây", "value": 50, "color": "#ff4500"},
       {"name": "Ngọt ngào", "value": 45, "color": "#ff3333"}
     ],
-    image: "/images/products/afnan-9pm-main.jpg",
-    images: [{ url: "/images/products/afnan-9pm-main.jpg", source: "fragram", caption: "Afnan 9PM Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/002-9pm-main.jpg",
+    images: [{ url: "/images/products/002-9pm-main.jpg", source: "fragram", caption: "Afnan 9PM Eau de Parfum chính hãng", verified: true }],
     description: "Chai nam ngọt nổi tiếng nhất ở tầm giá dễ tiếp cận — vani, quế, trái cây rất vui và dễ gây chú ý. Hợp đi tối, đi chơi hoặc người trẻ thích mùi party.",
     article: `### Ai không nên mua?
 
@@ -216,9 +216,9 @@ Nếu bạn ghét mùi ngọt đậm thì 9PM sẽ quá nhiều. Đây là kiể
       { label: "Vương giả", icon: "👑" },
       { label: "Giới hạn", icon: "🎫" }
     ],
-    image: "/images/products/creed-absolu-aventus-main.jpg",
+    image: "/images/products/049-absolu-aventus-main.jpg",
     images: [
-      { url: "/images/products/creed-absolu-aventus-main.jpg", source: "fragram", caption: "Creed Absolu Aventus Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/049-absolu-aventus-main.jpg", source: "fragram", caption: "Creed Absolu Aventus Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -283,8 +283,8 @@ Gặp khách VIP, sự kiện, tiệc tối, dịp quan trọng. Xịt 2 nhát: 
       { label: "Kinh điển", icon: "🏛️" },
       { label: "Biển cả", icon: "🌊" }
     ],
-    image: "/images/products/giorgio-armani-acqua-di-gio-main.jpg",
-    images: [{ url: "/images/products/giorgio-armani-acqua-di-gio-main.jpg", source: "fragram", caption: "Acqua di Giò Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/095-acqua-di-gio-main.jpg",
+    images: [{ url: "/images/products/095-acqua-di-gio-main.jpg", source: "fragram", caption: "Acqua di Giò Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn muốn chai ĐỘC ĐÁO — thì Acqua di Gio là lựa chọn tệ nhất có thể. Đây là chai nam bán chạy nhất LỊCH SỬ nước hoa — từ năm 1996 đến giờ, gần 30 năm, vẫn top mọi bảng xếp hạng. Điều đó nghĩa là: AI CŨNG BIẾT mùi này. Xịt ra ngoài, người ta sẽ nói "à Acqua di Gio" chứ không hỏi "mùi gì thế". Ngoài ra, EDT nên bám ngắn: 4-5 giờ rồi biến mất.
@@ -345,8 +345,8 @@ Mùa hè, ban ngày, đi biển, đi làm, dạo phố, thể thao — mọi lú
       { label: "Nam tính", icon: "👔" },
       { label: "Rắn rỏi", icon: "⛰️" }
     ],
-    image: "/images/products/armani-acqua-di-gio-parfum-main.jpg",
-    images: [{ url: "/images/products/armani-acqua-di-gio-parfum-main.jpg", source: "fragram", caption: "Acqua di Giò Parfum chính hãng", verified: true }],
+    image: "/images/products/096-acqua-di-gio-parfum-main.jpg",
+    images: [{ url: "/images/products/096-acqua-di-gio-parfum-main.jpg", source: "fragram", caption: "Acqua di Giò Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn đã có Profondo hoặc Profumo thì AdG Parfum sẽ trùng vị trí — cả ba đều là "AdG nhưng đậm hơn gốc". Sự khác biệt giữa Parfum và Profondo rất tinh tế: Parfum nhiều thảo mộc (xô thơm, oải hương) hơn, Profondo nhiều aquatic khoáng hơn. Ai không phân biệt nổi thì chỉ cần chọn một. Ngoài ra, nếu bạn muốn chai 100% aquatic tươi sáng như gốc 1996, Parfum sẽ tối hơn và nặng hơn mong đợi.
@@ -410,13 +410,13 @@ Nồng độ Parfum — cao nhất, bám 10+ giờ, tỏa tốt. Alberto Morilla
       { label: "Biển sâu thẳm", icon: "🌊" },
       { label: "Phấn khích", icon: "⚡" }
     ],
-    image: "/images/products/007-acqua-di-gio-profondo-main.jpg",
+    image: "/images/products/098-acqua-di-gio-profondo-main.jpg",
     images: [
-      { url: "/images/products/007-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-edp-chai-nuoc-hoa-5.jpg", source: "owner", caption: "GIORGIO ARMANI Acqua di Giò Profondo EDP chính hãng", verified: true },
-      { url: "/images/products/007-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-edp-chinh-hang-1.jpg", source: "owner", caption: "GIORGIO ARMANI Acqua di Giò Profondo EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/007-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-edp-review-2.jpg", source: "owner", caption: "GIORGIO ARMANI Acqua di Giò Profondo EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/007-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-edp-thuc-te-3.jpg", source: "owner", caption: "GIORGIO ARMANI Acqua di Giò Profondo EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/007-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-edp-unboxing-4.jpg", source: "owner", caption: "GIORGIO ARMANI Acqua di Giò Profondo EDP ảnh thực tế 5", verified: true }
+      { url: "/images/products/098-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-edp-chai-nuoc-hoa-5.jpg", source: "owner", caption: "GIORGIO ARMANI Acqua di Giò Profondo EDP chính hãng", verified: true },
+      { url: "/images/products/098-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-edp-chinh-hang-1.jpg", source: "owner", caption: "GIORGIO ARMANI Acqua di Giò Profondo EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/098-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-edp-review-2.jpg", source: "owner", caption: "GIORGIO ARMANI Acqua di Giò Profondo EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/098-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-edp-thuc-te-3.jpg", source: "owner", caption: "GIORGIO ARMANI Acqua di Giò Profondo EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/098-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-edp-unboxing-4.jpg", source: "owner", caption: "GIORGIO ARMANI Acqua di Giò Profondo EDP ảnh thực tế 5", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -478,9 +478,9 @@ Giá Armani tầm trung — và Alberto Morillas (cùng perfumer tạo Acqua di 
       { label: "Phong trần", icon: "🌪️" },
       { label: "Lịch lãm", icon: "🤵" }
     ],
-    image: "/images/products/008-acqua-di-gio-profumo-main.jpg",
+    image: "/images/products/099-acqua-di-gio-profumo-main.jpg",
     images: [
-      { url: "/images/products/008-acqua-di-gio-profumo-main.jpg", source: "fragram", caption: "Giorgio Armani Acqua di Giò Profumo chính hãng", verified: true }
+      { url: "/images/products/099-acqua-di-gio-profumo-main.jpg", source: "fragram", caption: "Giorgio Armani Acqua di Giò Profumo chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -538,8 +538,8 @@ Dùng được quanh năm — đi làm, đi chơi, du lịch, hẹn hò nhẹ. �
       { label: "Gây nghiện", icon: "☠️" },
       { label: "Sát trai", icon: "🖤" }
     ],
-    image: "/images/products/dior-addict-edp-main.jpg",
-    images: [{ url: "/images/products/dior-addict-edp-main.jpg", source: "fragram", caption: "Dior Addict Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/056-addict-edp-main.jpg",
+    images: [{ url: "/images/products/056-addict-edp-main.jpg", source: "fragram", caption: "Dior Addict Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi tươi sáng nhẹ nhàng kiểu Miss Dior Blooming Bouquet hay Light Blue thì Addict quá đậm, ngọt và hoa trắng cho gu đó. Ai ghét vani đậm hoặc hoa cam nặng cũng nên tránh. Dùng ban ngày trời nóng sẽ hơi ngọp.
@@ -602,9 +602,9 @@ Hẹn hò, tiệc, buổi tối, dịp đặc biệt. Xịt 2 nhát: cổ, cổ 
       { label: "Safari", icon: "🐆" },
       { label: "Bụi bặm", icon: "🏜️" }
     ],
-    image: "/images/products/memo-african-leather-main.jpg",
+    image: "/images/products/190-african-leather-main.jpg",
     images: [
-      { url: "/images/products/memo-african-leather-main.jpg", source: "fragram", caption: "Memo Paris African Leather Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/190-african-leather-main.jpg", source: "fragram", caption: "Memo Paris African Leather Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -668,9 +668,9 @@ Mùa đông, dịp đặc biệt, buổi tối, sự kiện VIP. Xịt 1 nhát D
       { label: "Đế vương", icon: "🏰" },
       { label: "Vàng ròng", icon: "💰" }
     ],
-    image: "/images/products/xerjoff-alexandria-ii-main.jpg",
+    image: "/images/products/248-alexandria-ii-main.jpg",
     images: [
-      { url: "/images/products/xerjoff-alexandria-ii-main.jpg", source: "fragram", caption: "Xerjoff Alexandria II Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/248-alexandria-ii-main.jpg", source: "fragram", caption: "Xerjoff Alexandria II Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -728,8 +728,8 @@ Dịp đặc biệt nhất, sự kiện VIP, mùa đông. Xịt 1-2 nhát — t�
       { label: "Nữ chúa", icon: "👑" },
       { label: "Vũ trụ", icon: "👽" }
     ],
-    image: "/images/products/mugler-alien-edp-main.jpg",
-    images: [{ url: "/images/products/mugler-alien-edp-main.jpg", source: "fragram", caption: "Mugler Alien EDP chính hãng", verified: true }],
+    image: "/images/products/194-alien-edp-main.jpg",
+    images: [{ url: "/images/products/194-alien-edp-main.jpg", source: "fragram", caption: "Mugler Alien EDP chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi nhẹ kín đáo — Alien TỎA RẤT MẠNH. Dominique Ropion (Portrait of a Lady, Carnal Flower) + Laurent Bruyere tạo ra nhài Sambac ở nồng độ SOLAR: sáng rực, gần như phát sáng. Chai hình UFO tím — and the scent lives up to the name. Ai muốn subtle skin scent sẽ thấy Alien quá loud.
@@ -785,8 +785,8 @@ Giá Mugler — tầm trung, rẻ hơn Dior/Chanel. Và Alien bám KHỎE: 8-10 
       {"name": "Vanilla", "value": 70, "color": "#ffffcc"},
       {"name": "Trái cây", "value": 65, "color": "#ff4500"}
     ],
-    image: "/images/products/chanel-allure-edp-main.jpg",
-    images: [{ url: "/images/products/chanel-allure-edp-main.jpg", source: "fragram", caption: "Chanel Allure Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/022-allure-edp-main.jpg",
+    images: [{ url: "/images/products/022-allure-edp-main.jpg", source: "fragram", caption: "Chanel Allure Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi ngọt cá tính rõ ràng kiểu Good Girl hay Black Opium thì Allure EDP sẽ quá hiền và quá an toàn cho gu đó. Đây là mùi hoa-trái-vani cân bằng — rất đẹp nhưng thiếu drama. Ai dưới 22 tuổi thích mùi trẻ trung vui vẻ cũng có thể thấy Allure hơi mature.
@@ -843,9 +843,9 @@ Dùng quanh năm — đi làm, đi ăn tối nhẹ, gặp gỡ, tiệc nhỏ. X�
       {"name": "Gỗ", "value": 80, "color": "#8b4513"},
       {"name": "Phấn", "value": 70, "color": "#e6ccb2"}
     ],
-    image: "/images/products/014-allure-homme-edition-blanche-main.jpg",
+    image: "/images/products/023-allure-homme-edition-blanche-main.jpg",
     images: [
-      { url: "/images/products/014-allure-homme-edition-blanche-main.jpg", source: "fragram", caption: "Chanel Allure Homme Édition Blanche chính hãng", verified: true }
+      { url: "/images/products/023-allure-homme-edition-blanche-main.jpg", source: "fragram", caption: "Chanel Allure Homme Édition Blanche chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -903,9 +903,9 @@ Giá Chanel nhưng EDP nên bám lâu: 8-9 giờ. So với Allure Homme Sport �
       {"name": "Cay tươi", "value": 75, "color": "#7cb342"},
       {"name": "Ngọt", "value": 70, "color": "#ff3333"}
     ],
-    image: "/images/products/chanel-allure-homme-edt-main.jpg",
+    image: "/images/products/024-allure-homme-edt-main.jpg",
     images: [
-      { url: "/images/products/chanel-allure-homme-edt-main.jpg", source: "fragram", caption: "Chanel Allure Homme Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/024-allure-homme-edt-main.jpg", source: "fragram", caption: "Chanel Allure Homme Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -965,9 +965,9 @@ Allure Homme EDT thuộc phân khúc Chanel — đắt hơn Boss Bottled EDP nh�
       {"name": "Aldehydes", "value": 70, "color": "#e0f7fa"},
       {"name": "Biển", "value": 65, "color": "#0066cc"}
     ],
-    image: "/images/products/chanel-allure-homme-sport-main.jpg",
+    image: "/images/products/026-allure-homme-sport-main.jpg",
     images: [
-      { url: "/images/products/chanel-allure-homme-sport-main.jpg", source: "fragram", caption: "Chanel Allure Homme Sport Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/026-allure-homme-sport-main.jpg", source: "fragram", caption: "Chanel Allure Homme Sport Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -1025,9 +1025,9 @@ Giá Chanel nhưng EDT nên nhẹ — bám ngắn, tỏa yếu. So với bản E
       {"name": "Cam chanh", "value": 75, "color": "#ffff66"},
       {"name": "Xanh lá", "value": 75, "color": "#228b22"}
     ],
-    image: "/images/products/chanel-allure-homme-sport-eau-extreme-main.jpg",
+    image: "/images/products/025-allure-homme-sport-eau-extreme-main.jpg",
     images: [
-      { url: "/images/products/chanel-allure-homme-sport-eau-extreme-main.jpg", source: "fragram", caption: "Chanel Allure Homme Sport Eau Extrême chính hãng", verified: true }
+      { url: "/images/products/025-allure-homme-sport-eau-extreme-main.jpg", source: "fragram", caption: "Chanel Allure Homme Sport Eau Extrême chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -1092,9 +1092,9 @@ Mọi lúc: đi làm, đi gym, đi chơi, hẹn hò casual. Xịt 3-4 nhát: c�
       { label: "Ngot sang chảnh", icon: "🍡" },
       { label: "Quý tộc Pháp", icon: "🇫🇷" }
     ],
-    image: "/images/products/parfums-de-marly-althair-main.jpg",
+    image: "/images/products/210-althair-main.jpg",
     images: [
-      { url: "/images/products/parfums-de-marly-althair-main.jpg", source: "fragram", caption: "Parfums de Marly Althaïr Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/210-althair-main.jpg", source: "fragram", caption: "Parfums de Marly Althaïr Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -1159,8 +1159,8 @@ Mùa thu đông, buổi tối, hẹn hò, dịp đặc biệt. Xịt 2 nhát: c�
       { label: "Quái vật Gourmand", icon: "🍫" },
       { label: "Bạo chúa", icon: "😈" }
     ],
-    image: "/images/products/mugler-angel-main.jpg",
-    images: [{ url: "/images/products/mugler-angel-main.jpg", source: "fragram", caption: "Mugler Angel Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/195-angel-main.jpg",
+    images: [{ url: "/images/products/195-angel-main.jpg", source: "fragram", caption: "Mugler Angel Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét mùi ngọt thì Angel là ÁC MỘNG — đây là chai ngọt nhất mọi thời đại. Ai thích mùi sạch tươi nhẹ nhàng cũng nên tránh xa. Dùng ban ngày mùa hè sẽ buồn nôn. Chai này polarizing cực kỳ — người yêu thì nghiện, người ghét thì muốn bỏ chạy.
@@ -1219,8 +1219,8 @@ Mùa đông, buổi tối. Xịt 1 nhát — tỏa cả phòng. Đẹp nhất kh
       { label: "Mứt Nutella", icon: "🍯" },
       { label: "Vũ tiệc đêm", icon: "🌃" }
     ],
-    image: "/images/products/mugler-angel-muse-main.jpg",
-    images: [{ url: "/images/products/mugler-angel-muse-main.jpg", source: "fragram", caption: "Mugler Angel Muse Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/196-angel-muse-main.jpg",
+    images: [{ url: "/images/products/196-angel-muse-main.jpg", source: "fragram", caption: "Mugler Angel Muse Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn kỳ vọng Angel Muse giống Angel gốc (patchouli-chocolate nặng) — thì Muse khác hẳn: nhẹ hơn, tươi hơn, có bưởi hồng và vetiver thay vì praline đặc. Ai ghét mùi ngọt-kem cũng vẫn nên cân nhắc vì nốt kem hạt dẻ (hazelnut cocoa spread — đúng là Nutella) rất rõ. Chai này discontinued rồi nên khó tìm.
@@ -1282,9 +1282,9 @@ Mugler giá tầm trung — nhưng Angel Muse discontinued nên thị trường 
       { label: "Xa hoa", icon: "💎" },
       { label: "Mâu thuẫn", icon: "☯️" }
     ],
-    image: "/images/products/guerlain-angelique-noire-main.jpg",
+    image: "/images/products/111-angelique-noire-main.jpg",
     images: [
-      { url: "/images/products/guerlain-angelique-noire-main.jpg", source: "fragram", caption: "Guerlain Angélique Noire Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/111-angelique-noire-main.jpg", source: "fragram", caption: "Guerlain Angélique Noire Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -1346,9 +1346,9 @@ Dòng L'Art et la Matière — exclusive line cao nhất Guerlain. Daniela Andri
       { label: "Thượng lưu", icon: "🥃" },
       { label: "Say đắm", icon: "✨" }
     ],
-    image: "/images/products/kilian-angels-share-main.jpg",
+    image: "/images/products/157-angels-share-main.jpg",
     images: [
-      { url: "/images/products/kilian-angels-share-main.jpg", source: "fragram", caption: "Kilian Angels' Share Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/157-angels-share-main.jpg", source: "fragram", caption: "Kilian Angels' Share Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -1414,8 +1414,8 @@ Nếu bạn không uống rượu và ghét mùi rượu thì Angels' Share sẽ
       { label: "Vua Vani", icon: "👑" },
       { label: "Vương giả phương Đông", icon: "🕌" }
     ],
-    image: "/images/products/nishane-ani-main.jpg",
-    images: [{ url: "/images/products/nishane-ani-main.jpg", source: "fragram", caption: "Nishane Ani Extrait de Parfum chính hãng", verified: true }],
+    image: "/images/products/206-ani-main.jpg",
+    images: [{ url: "/images/products/206-ani-main.jpg", source: "fragram", caption: "Nishane Ani Extrait de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét mùi ngọt vani thì Ani sẽ quá ngọt cho gu đó — vani ở đây rất rõ và chủ đạo. Ai thích mùi sạch thoáng hoặc mùi tối khô cũng sẽ thấy chai này hơi ngọt mainstream. Ngoài ra, giá niche cao.
@@ -1473,8 +1473,8 @@ Mùa thu đông, buổi tối, hẹn hò, dịp đặc biệt. Xịt 1-2 nhát �
       {"name": "Rêu", "value": 75, "color": "#556b2f"},
       {"name": "Đất", "value": 75, "color": "#6b4226"}
     ],
-    image: "/images/products/chanel-antaeus-main.jpg",
-    images: [{ url: "/images/products/chanel-antaeus-main.jpg", source: "fragram", caption: "Chanel Antaeus Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/027-antaeus-main.jpg",
+    images: [{ url: "/images/products/027-antaeus-main.jpg", source: "fragram", caption: "Chanel Antaeus Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn sinh sau 2000 — thì Antaeus sẽ giống mùi rượu cổ trong tủ gỗ của ông ngoại. Và... đúng. Đây là powerhouse 1981: castoreum (tuyến hải ly), rêu sồi dày, labdanum nhựa — những nguyên liệu mà EU đã hạn chế khiến nước hoa hiện đại không dám dùng. Ai thích Sauvage, Eros, hay bất cứ thứ gì sau 2005 sẽ bị culture shock.
@@ -1535,8 +1535,8 @@ Mùa đông, buổi tối, khi muốn cảm giác AUY QUYỀN. Xịt 2-3 nhát c
       { label: "Nữ tính", icon: "💄" },
       { label: "Sang trọng", icon: "🍷" }
     ],
-    image: "/images/products/025-armani-si-edp-main.jpg",
-    images: [{ url: "/images/products/025-armani-si-edp-main.jpg", source: "fragram", caption: "Giorgio Armani Sì Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/102-armani-si-edp-main.jpg",
+    images: [{ url: "/images/products/102-armani-si-edp-main.jpg", source: "fragram", caption: "Giorgio Armani Sì Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi ngọt đậm sexy kiểu Good Girl hay Black Opium thì Armani Sì sẽ quá nhẹ và quá lịch sự cho gu đó. Đây là mùi thanh lịch, cân bằng — không quá ngọt, không quá nổi. Ai thích mùi trẻ trung vui vẻ kiểu trái cây ngọt cũng sẽ thấy Sì hơi mature. Ngoài ra, nếu bạn muốn mùi beast mode tỏa xa thì Sì EDP không thuộc nhóm đó.
@@ -1582,9 +1582,9 @@ Dùng được quanh năm — đi làm, gặp khách, đi ăn tối nhẹ. Xịt
       {"name": "Hoa Violet", "value": 75, "color": "#8a2be2"},
       {"name": "Hương hoa", "value": 70, "color": "#ff69b4"}
     ],
-    image: "/images/products/byredo-bal-dafrique-main.jpg",
+    image: "/images/products/017-bal-dafrique-main.jpg",
     images: [
-      { url: "/images/products/byredo-bal-dafrique-main.jpg", source: "fragram", caption: "Byredo Bal d'Afrique Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/017-bal-dafrique-main.jpg", source: "fragram", caption: "Byredo Bal d'Afrique Eau de Parfum chính hãng", verified: true }
     ],
     description: "Chai niche hoa-gỗ-citrus sang nhất Byredo — cam bergamot, cúc vạn thọ Phi, neroli, hoa tím, nhài, cỏ hương bài, gỗ tuyết tùng và xạ hương. Sáng, thanh lịch và rất artistic.",
     article: `### Ai không nên mua?
@@ -1646,9 +1646,9 @@ Quanh năm — đi làm, gặp gỡ, cà phê, du lịch, dạo phố. Xịt 3-4
       { label: "Ngon ngọt", icon: "🧁" },
       { label: "Gây nghiện", icon: "🤤" }
     ],
-    image: "/images/products/giardini-di-toscana-bianco-latte-main.jpg",
+    image: "/images/products/094-bianco-latte-main.jpg",
     images: [
-      { url: "/images/products/giardini-di-toscana-bianco-latte-main.jpg", source: "fragram", caption: "Giardini Di Toscana Bianco Latte chính hãng", verified: true }
+      { url: "/images/products/094-bianco-latte-main.jpg", source: "fragram", caption: "Giardini Di Toscana Bianco Latte chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -1712,8 +1712,8 @@ Mùa đông, ở nhà cuối tuần, đi cafe, hoặc khi muốn comfort zone. X
       { label: "Nữ hoàng tiệc", icon: "🍸" },
       { label: "Cà phê Vani", icon: "☕" }
     ],
-    image: "/images/products/ysl-black-opium-main.jpg",
-    images: [{ url: "/images/products/ysl-black-opium-main.jpg", source: "fragram", caption: "YSL Black Opium Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/258-black-opium-main.jpg",
+    images: [{ url: "/images/products/258-black-opium-main.jpg", source: "fragram", caption: "YSL Black Opium Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi nhẹ nhàng, trong trẻo kiểu Miss Dior Blooming Bouquet hay Chance Eau Tendre thì Black Opium sẽ quá đậm, quá ngọt. Đây là mùi buổi tối — cà phê, vani, hoa trắng rất nồng. Ai dùng ban ngày đi văn phòng sẽ thấy hơi nhiều, đặc biệt khi trời nóng. Ngoài ra, Black Opium cực kỳ phổ biến nên khả năng đụng hàng rất cao.
@@ -1776,8 +1776,8 @@ Black Opium thuộc phân khúc designer cao cấp — giá tương đương Goo
       { label: "Xốp Vani", icon: "🍦" },
       { label: "Đậm mịn", icon: "💫" }
     ],
-    image: "/images/products/ysl-black-opium-le-parfum-main.jpg",
-    images: [{ url: "/images/products/ysl-black-opium-le-parfum-main.jpg", source: "fragram", caption: "YSL Black Opium Le Parfum chính hãng", verified: true }],
+    image: "/images/products/259-black-opium-le-parfum-main.jpg",
+    images: [{ url: "/images/products/259-black-opium-le-parfum-main.jpg", source: "fragram", caption: "YSL Black Opium Le Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi tươi sáng nhẹ nhàng kiểu Chloé hay My Way thì Black Opium Le Parfum quá tối và quá ngọt. Ai đã chán Black Opium EDP gốc cũng sẽ thấy Le Parfum cùng DNA nhưng đậm hơn. Dùng ban ngày nóng sẽ quá ngọp — chai này sinh ra cho buổi tối.
@@ -1835,9 +1835,9 @@ Hẹn hò, tiệc, buổi tối, sự kiện. Xịt 1-2 nhát: cổ, cổ tay �
       {"name": "Cay tươi", "value": 75, "color": "#7cb342"},
       {"name": "Thảo mộc", "value": 70, "color": "#2e8b57"}
     ],
-    image: "/images/products/bleu-chanel-edp-main.jpg",
+    image: "/images/products/028-bleu-de-chanel-eau-de-parfum-main.jpg",
     images: [
-      { url: "/images/products/bleu-chanel-edp-main.jpg", source: "fragram", caption: "Bleu de Chanel Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/028-bleu-de-chanel-eau-de-parfum-main.jpg", source: "fragram", caption: "Bleu de Chanel Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -1897,8 +1897,8 @@ Thuộc tầm designer cao cấp, Bleu de Chanel EDP không rẻ nhưng lại l�
       {"name": "Hổ phách", "value": 60, "color": "#d2691e"},
       {"name": "Cay tươi", "value": 60, "color": "#7cb342"}
     ],
-    image: "/images/products/031-bleu-de-chanel-parfum-main.jpg",
-    images: [{ url: "/images/products/031-bleu-de-chanel-parfum-main.jpg", source: "fragram", caption: "Chanel Bleu de Chanel Parfum chính hãng", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-4.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-5.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
+    image: "/images/products/029-bleu-de-chanel-parfum-main.jpg",
+    images: [{ url: "/images/products/029-bleu-de-chanel-parfum-main.jpg", source: "fragram", caption: "Chanel Bleu de Chanel Parfum chính hãng", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-4.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/black-orchid/nuoc-hoa-unisex-tom-ford-black-orchid-thuc-te-5.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích cảm giác tươi sáng, bùng nổ của Bleu de Chanel EDT hay EDP thì bản Parfum sẽ hơi kín và thiếu năng lượng so với kỳ vọng. Đây là bản trưởng thành nhất — ít citrus hơn, ít "blue" hơn. Ai dưới 25 tuổi thích mùi trẻ trung, dynamic cũng sẽ thấy Parfum hơi già so với mình. Ngoài ra, hiệu năng tỏa vừa phải — không thuộc nhóm beast mode.
@@ -1956,24 +1956,24 @@ Dùng được quanh năm nhưng đẹp nhất mùa thu đông và trời mát. 
       { label: "Hoa cỏ", icon: "💐" },
       { label: "Thanh lịch", icon: "👒" }
     ],
-    image: "/images/products/032-bloom-edp-main.jpg",
+    image: "/images/products/109-bloom-edp-main.jpg",
     images: [
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "GUCCI Bloom EDP chính hãng", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-chinh-hang-1.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-danh-gia-10.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-fullbox-6.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-gia-tot-7.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-mua-o-dau-12.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-mui-huong-9.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-review-2.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-sang-trong-16.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-so-sanh-8.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 11", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-that-hay-gia-13.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 12", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-thuc-te-3.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 13", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-top-nuoc-hoa-14.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 14", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-trai-nghiem-11.jpg", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 15", verified: true },
-      { url: "/images/products/032-bloom-edp/nuoc-hoa-gucci-bloom-edp-unboxing-4.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 16", verified: true }
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "GUCCI Bloom EDP chính hãng", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-chinh-hang-1.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-danh-gia-10.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-fullbox-6.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-gia-tot-7.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-mua-o-dau-12.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-mui-huong-9.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-review-2.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-sang-trong-16.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-so-sanh-8.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 11", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-that-hay-gia-13.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 12", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-thuc-te-3.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 13", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-top-nuoc-hoa-14.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 14", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-trai-nghiem-11.jpg", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 15", verified: true },
+      { url: "/images/products/109-bloom-edp/nuoc-hoa-gucci-bloom-edp-unboxing-4.webp", source: "owner", caption: "GUCCI Bloom EDP ảnh thực tế 16", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -2035,9 +2035,9 @@ Bloom giá tầm trung Gucci — không rẻ nhưng cũng không quá đắt cho
       { label: "Thời thượng", icon: "😎" },
       { label: "Nam châm", icon: "🧲" }
     ],
-    image: "/images/products/essential-parfums-bois-imperial-main.jpg",
+    image: "/images/products/089-bois-imperial-main.jpg",
     images: [
-      { url: "/images/products/essential-parfums-bois-imperial-main.jpg", source: "fragram", caption: "Essential Parfums Bois Impérial Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/089-bois-imperial-main.jpg", source: "fragram", caption: "Essential Parfums Bois Impérial Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -2098,9 +2098,9 @@ Quanh năm — đi làm, gặp gỡ, dạo phố. Xịt 2-3 nhát: cổ, ngực.
       { label: "Nữ hoàng tiệc", icon: "💃" },
       { label: "Vani quyến rũ", icon: "🍮" }
     ],
-    image: "/images/products/valentino-born-in-roma-intense-main.jpg",
+    image: "/images/products/237-born-in-roma-intense-main.jpg",
     images: [
-      { url: "/images/products/valentino-born-in-roma-intense-main.jpg", source: "fragram", caption: "Valentino Donna Born in Roma Intense Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/237-born-in-roma-intense-main.jpg", source: "fragram", caption: "Valentino Donna Born in Roma Intense Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -2163,9 +2163,9 @@ Mùa thu đông, buổi tối, hẹn hò, dịp ấm cúng. Xịt 2-3 nhát: c�
       { label: "Lịch thiệp", icon: "👔" },
       { label: "An toàn", icon: "🍏" }
     ],
-    image: "/images/products/035-boss-bottled-edp-main.jpg",
+    image: "/images/products/142-boss-bottled-edp-main.jpg",
     images: [
-      { url: "/images/products/035-boss-bottled-edp-main.jpg", source: "fragram", caption: "Hugo Boss Boss Bottled Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/142-boss-bottled-edp-main.jpg", source: "fragram", caption: "Hugo Boss Boss Bottled Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -2226,9 +2226,9 @@ Boss Bottled EDP thuộc phân khúc designer tầm trung — rẻ hơn Sauvage 
       { label: "Quyền lực", icon: "🥃" },
       { label: "Bóng tối", icon: "🌑" }
     ],
-    image: "/images/products/boss-bottled-absolu-main.jpg",
+    image: "/images/products/143-bottled-absolu-main.jpg",
     images: [
-      { url: "/images/products/boss-bottled-absolu-main.jpg", source: "fragram", caption: "Hugo Boss Bottled Absolu Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/143-bottled-absolu-main.jpg", source: "fragram", caption: "Hugo Boss Bottled Absolu Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -2289,9 +2289,9 @@ Giá Boss tầm trung — thuộc nhóm rẻ nhất designer. Annick Ménardo (p
       { label: "Hắc mã", icon: "🐎" },
       { label: "Dark Lord", icon: "🦇" }
     ],
-    image: "/images/products/parfums-de-marly-carlisle-main.jpg",
+    image: "/images/products/211-carlisle-main.jpg",
     images: [
-      { url: "/images/products/parfums-de-marly-carlisle-main.jpg", source: "fragram", caption: "Parfums de Marly Carlisle Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/211-carlisle-main.jpg", source: "fragram", caption: "Parfums de Marly Carlisle Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -2355,9 +2355,9 @@ Mùa thu đông, buổi tối, dịp đặc biệt, tiệc sang. Xịt 2 nhát: 
       { label: "Tuyệt tác hoa", icon: "🪷" },
       { label: "Da thịt", icon: "🌿" }
     ],
-    image: "/images/products/frederic-malle-carnal-flower-main.jpg",
+    image: "/images/products/091-carnal-flower-main.jpg",
     images: [
-      { url: "/images/products/frederic-malle-carnal-flower-main.jpg", source: "fragram", caption: "Frederic Malle Carnal Flower chính hãng", verified: true }
+      { url: "/images/products/091-carnal-flower-main.jpg", source: "fragram", caption: "Frederic Malle Carnal Flower chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -2418,9 +2418,9 @@ Sự kiện quan trọng, opera, triển lãm, hoặc khi muốn mùi hương l�
       { label: "Hoài niệm", icon: "🇫🇷" },
       { label: "Lãng mạn", icon: "💛" }
     ],
-    image: "/images/products/guerlain-champs-elysees-edp-main.jpg",
+    image: "/images/products/115-champs-elysees-edp-main.jpg",
     images: [
-      { url: "/images/products/guerlain-champs-elysees-edp-main.jpg", source: "fragram", caption: "Guerlain Champs-Élysées Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/115-champs-elysees-edp-main.jpg", source: "fragram", caption: "Guerlain Champs-Élysées Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -2479,9 +2479,9 @@ Giá Guerlain tầm trung — và Champs-Élysées là một trong những chai 
       { label: "Tiểu thư", icon: "🌸" },
       { label: "Thanh tao", icon: "✨" }
     ],
-    image: "/images/products/chanel-chance-eau-tendre-main.jpg",
+    image: "/images/products/030-chance-eau-tendre-main.jpg",
     images: [
-      { url: "/images/products/chanel-chance-eau-tendre-main.jpg", source: "fragram", caption: "Chanel Chance Eau Tendre Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/030-chance-eau-tendre-main.jpg", source: "fragram", caption: "Chanel Chance Eau Tendre Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -2545,8 +2545,8 @@ Dùng được quanh năm — đi làm, đi học, đi cà phê, gặp gỡ. X�
       { label: "Thảm đỏ sao", icon: "🌟" },
       { label: "Đài các", icon: "💃" }
     ],
-    image: "/images/products/ysl-cinema-main.jpg",
-    images: [{ url: "/images/products/ysl-cinema-main.jpg", source: "fragram", caption: "YSL Cinéma Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/260-cinema-main.jpg",
+    images: [{ url: "/images/products/260-cinema-main.jpg", source: "fragram", caption: "YSL Cinéma Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi nhẹ nhàng tối giản — thì Cinéma quá DRAMA. Jacques Cavallier (hiện tại là Master Perfumer tại Louis Vuitton) tạo ra chai này kiểu Hollywood premiere: hoa hạnh nhân ngọt mở ra, rồi nhài-mẫu đơn tỏa sáng, cuối cùng vani-hổ phách giữ ấm cả đêm. Ai thích mùi sạch, mùi tươi mát cũng sẽ thấy nó quá ngọt.
@@ -2592,8 +2592,8 @@ Giá YSL tầm trung — và Cinéma là chai bị "quên" trong lineup YSL hi�
       {"name": "Thảo mộc", "value": 80, "color": "#2e8b57"},
       {"name": "Quế", "value": 75, "color": "#d2691e"}
     ],
-    image: "/images/products/042-ck-obsession-main.jpg",
-    images: [{ url: "/images/products/042-ck-obsession-main.jpg", source: "fragram", caption: "Calvin Klein Obsession for Men EDT chính hãng", verified: true }],
+    image: "/images/products/020-ck-obsession-main.jpg",
+    images: [{ url: "/images/products/020-ck-obsession-main.jpg", source: "fragram", caption: "Calvin Klein Obsession for Men EDT chính hãng", verified: true }],
     description: "Chai nam quế-nhựa dược-hổ phách kiểu 80s powerhouse — quế, oải hương, rau mùi, cam quýt, chanh, cam bergamot, nhựa dược, nhục đậu khấu, cẩm chướng, hổ phách, vani, gỗ đàn hương, xạ hương, hoắc hương và cỏ hương bài. Ấm, cay và rất intense.",
     article: `### Ai không nên mua?
 
@@ -2641,9 +2641,9 @@ Mùa đông, buổi tối, khi muốn tạo ấn tượng MẠNH. Xịt 1-2 nhá
       {"name": "Gỗ", "value": 65, "color": "#8b5a2b"},
       {"name": "Khói", "value": 60, "color": "#7a6a7c"}
     ],
-    image: "/images/products/armaf-club-de-nuit-intense-man-main.jpg",
+    image: "/images/products/007-club-de-nuit-intense-man-main.jpg",
     images: [
-      { url: "/images/products/armaf-club-de-nuit-intense-man-main.jpg", source: "fragram", caption: "Armaf Club de Nuit Intense Man chính hãng", verified: true }
+      { url: "/images/products/007-club-de-nuit-intense-man-main.jpg", source: "fragram", caption: "Armaf Club de Nuit Intense Man chính hãng", verified: true }
     ],
     description: "Clone Creed Aventus nổi tiếng nhất — citrus, trái cây, khói và da thuộc. Giá mềm nhưng hiệu năng rất mạnh. Hợp người muốn mùi Aventus mà không tốn quá nhiều.",
     article: `### Ai không nên mua?
@@ -2714,8 +2714,8 @@ Dùng được quanh năm — đi làm, đi chơi, gặp gỡ. Đẹp nhất ban
       { label: "Quyền lực", icon: "👑" },
       { label: "Cổ điển (Classic)", icon: "🎞️" }
     ],
-    image: "/images/products/chanel-coco-eau-de-parfum-main.jpg",
-    images: [{ url: "/images/products/chanel-coco-eau-de-parfum-main.jpg", source: "fragram", caption: "Chanel Coco Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/031-coco-eau-de-parfum-main.jpg",
+    images: [{ url: "/images/products/031-coco-eau-de-parfum-main.jpg", source: "fragram", caption: "Chanel Coco Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn nghĩ Chanel = No.5 nhẹ nhàng thì Coco EDP sẽ là surprise: đây là chai Chanel NỮ NẶNG NHẤT — gia vị (đinh hương, rau mùi), hoa đậm (hồng, nhài), và base hổ phách-vani-labdanum dày. Chai lấy cảm hứng từ bộ sưu tập nghệ thuật Á Đông của Gabrielle Chanel. Ai thích mùi trẻ trung, nhẹ nhàng, tươi mát sẽ thấy Coco quá "bà".
@@ -2781,9 +2781,9 @@ Sự kiện trang trọng, opera, tiệc tối, hoặc khi muốn MÙI HƯƠNG C
       { label: "Hoài niệm", icon: "🕰️" },
       { label: "Quý phái", icon: "💃" }
     ],
-    image: "/images/products/chanel-coco-eau-de-toilette-main.jpg",
+    image: "/images/products/032-coco-eau-de-toilette-main.jpg",
     images: [
-      { url: "/images/products/chanel-coco-eau-de-toilette-main.jpg", source: "fragram", caption: "Chanel Coco Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/032-coco-eau-de-toilette-main.jpg", source: "fragram", caption: "Chanel Coco Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -2850,9 +2850,9 @@ Ban ngày thu nhẹ, đi ăn trưa, hoặc khi muốn Coco mà không quá nặn
       { label: "Thành đạt", icon: "💼" },
       { label: "Sắc sảo", icon: "⚡" }
     ],
-    image: "/images/products/chanel-coco-mademoiselle-edp-main.jpg",
+    image: "/images/products/033-coco-mademoiselle-edp-main.jpg",
     images: [
-      { url: "/images/products/chanel-coco-mademoiselle-edp-main.jpg", source: "fragram", caption: "Chanel Coco Mademoiselle Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/033-coco-mademoiselle-edp-main.jpg", source: "fragram", caption: "Chanel Coco Mademoiselle Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -2918,8 +2918,8 @@ Coco Mademoiselle thuộc phân khúc designer cao cấp của Chanel — tức 
       { label: "Bí ẩn (Dark)", icon: "🌑" },
       { label: "Quyến rũ", icon: "🫦" }
     ],
-    image: "/images/products/chanel-coco-noir-main.jpg",
-    images: [{ url: "/images/products/chanel-coco-noir-main.jpg", source: "fragram", caption: "Chanel Coco Noir Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/034-coco-noir-main.jpg",
+    images: [{ url: "/images/products/034-coco-noir-main.jpg", source: "fragram", caption: "Chanel Coco Noir Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn quen với Chanel No.5 hoặc Chance — nhẹ, sáng, phấn — thì Coco Noir sẽ hoàn toàn là một Chanel khác. Đây là chai TỐI nhất trong collection: hoắc hương, trầm hương và vani đè lên hoa hồng-nhài, tạo ra mùi "nguy hiểm" thay vì "dễ thương". Nếu bạn mua chai Chanel để mặc đi brunch Chủ nhật, thì không phải chai này. Coco Noir là chai bạn dùng khi muốn khiến ai đó không thể quên mình.
@@ -2981,8 +2981,8 @@ Giá Chanel — không rẻ, nhưng Coco Noir ít khi giảm giá vì Chanel kh�
       { label: "Đĩnh đạc", icon: "💼" },
       { label: "Tự tin", icon: "✨" }
     ],
-    image: "/images/products/armani-code-parfum-main.jpg",
-    images: [{ url: "/images/products/armani-code-parfum-main.jpg", source: "fragram", caption: "Giorgio Armani Code Parfum chính hãng", verified: true }],
+    image: "/images/products/100-code-parfum-main.jpg",
+    images: [{ url: "/images/products/100-code-parfum-main.jpg", source: "fragram", caption: "Giorgio Armani Code Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi ngọt đậm kiểu party hoặc mùi tối sexy như Armani Code Absolu thì bản Parfum sẽ hơi nhẹ và an toàn so với kỳ vọng. Đây là kiểu iris-gỗ sạch, lịch sự — không phải kiểu gây ấn tượng mạnh. Ai cần mùi beast mode tỏa xa cũng sẽ hơi thất vọng vì hiệu năng ở mức vừa phải.
@@ -3028,9 +3028,9 @@ Dùng được quanh năm — đi làm, gặp khách, đi ăn tối nhẹ. Đẹ
       {"name": "Gỗ", "value": 60, "color": "#8B4513"},
       {"name": "Oải hương", "value": 55, "color": "#9370DB"}
     ],
-    image: "/images/products/acqua-di-parma-colonia-main.jpg",
+    image: "/images/products/001-colonia-main.jpg",
     images: [
-      { url: "/images/products/acqua-di-parma-colonia-main.jpg", source: "fragram", caption: "Acqua di Parma Colonia Eau de Cologne chính hãng", verified: true }
+      { url: "/images/products/001-colonia-main.jpg", source: "fragram", caption: "Acqua di Parma Colonia Eau de Cologne chính hãng", verified: true }
     ],
     description: "Chai citrus kinh điển nhất nước Ý từ 1916 — cam Sicily, oải hương, cỏ roi ngựa chanh, hương thảo, hoa hồng Bulgaria, nhài, hổ phách, gỗ đàn hương và cỏ hương bài. Sáng, sạch và vượt thời gian.",
     article: `### Ai không nên mua?
@@ -3099,9 +3099,9 @@ Mùa hè, ban ngày, đi brunch, dạo phố kiểu gentleman Ý. Xịt 4-5 nhá
       { label: "Sát gái", icon: "💦" },
       { label: "Tươi mát", icon: "🌊" }
     ],
-    image: "/images/products/davidoff-cool-water-main.jpg",
+    image: "/images/products/055-cool-water-main.jpg",
     images: [
-      { url: "/images/products/davidoff-cool-water-main.jpg", source: "fragram", caption: "Davidoff Cool Water Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/055-cool-water-main.jpg", source: "fragram", caption: "Davidoff Cool Water Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -3167,9 +3167,9 @@ Ban ngày mùa nóng — đi làm, đi học, đi biển, tập gym nhẹ. Xịt
       { label: "Quý tộc", icon: "⚜️" },
       { label: "Vương giả", icon: "🍷" }
     ],
-    image: "/images/products/chanel-coromandel-eau-de-parfum-main.jpg",
+    image: "/images/products/035-coromandel-eau-de-parfum-main.jpg",
     images: [
-      { url: "/images/products/chanel-coromandel-eau-de-parfum-main.jpg", source: "fragram", caption: "Chanel Coromandel Les Exclusifs Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/035-coromandel-eau-de-parfum-main.jpg", source: "fragram", caption: "Chanel Coromandel Les Exclusifs Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -3234,9 +3234,9 @@ Dịp đặc biệt, sự kiện sang, hoặc khi muốn mùi Chanel mà 99% ng�
       { label: "Bóng tối", icon: "🌑" },
       { label: "Sữa dừa béo", icon: "🥥" }
     ],
-    image: "/images/products/versace-crystal-noir-eau-de-toilette-main.jpg",
+    image: "/images/products/240-crystal-noir-eau-de-toilette-main.jpg",
     images: [
-      { url: "/images/products/versace-crystal-noir-eau-de-toilette-main.jpg", source: "fragram", caption: "Versace Crystal Noir Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/240-crystal-noir-eau-de-toilette-main.jpg", source: "fragram", caption: "Versace Crystal Noir Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -3299,9 +3299,9 @@ Hẹn hò, tiệc, buổi tối, sự kiện. Xịt 2-3 nhát: cổ, cổ tay. �
       { label: "Bạch hậu", icon: "🦢" },
       { label: "Mỏng manh", icon: "❄️" }
     ],
-    image: "/images/products/xerjoff-dama-bianca-main.jpg",
+    image: "/images/products/250-dama-bianca-main.jpg",
     images: [
-      { url: "/images/products/xerjoff-dama-bianca-main.jpg", source: "fragram", caption: "Xerjoff Dama Bianca Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/250-dama-bianca-main.jpg", source: "fragram", caption: "Xerjoff Dama Bianca Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -3366,9 +3366,9 @@ Quanh năm — đi làm, gặp gỡ, cà phê, dịp thanh lịch. Xịt 2-3 nh�
       { label: "Tiểu thư", icon: "👑" },
       { label: "Hoa hồng đắt", icon: "🌹" }
     ],
-    image: "/images/products/parfums-de-marly-delina-main.jpg",
+    image: "/images/products/212-delina-main.jpg",
     images: [
-      { url: "/images/products/parfums-de-marly-delina-main.jpg", source: "fragram", caption: "Parfums de Marly Delina Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/212-delina-main.jpg", source: "fragram", caption: "Parfums de Marly Delina Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -3431,8 +3431,8 @@ Hẹn hò, tiệc, ăn tối, gặp gỡ quan trọng hoặc bất cứ lúc nà
       { label: "Hoa Linh Lan", icon: "🌱" },
       { label: "Ngây thơ", icon: "🕊️" }
     ],
-    image: "/images/products/dior-diorissimo-main.jpg",
-    images: [{ url: "/images/products/dior-diorissimo-main.jpg", source: "fragram", caption: "Dior Diorissimo Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/060-diorissimo-main.jpg",
+    images: [{ url: "/images/products/060-diorissimo-main.jpg", source: "fragram", caption: "Dior Diorissimo Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi mạnh, ngọt, hay sexy — thì Diorissimo sẽ quá nhẹ, quá "trắng", quá innocent. Đây là hoa linh lan (lily of the valley) — loài hoa mà Dior yêu nhất — được Edmond Roudnitska, một trong những perfumer VĨ ĐẠI NHẤT lịch sử, tái hiện trên da. Mùi như WI sáng đầu xuân — sạch, xanh, tươi — không có gì nặng nề.
@@ -3501,8 +3501,8 @@ Mùa xuân, ban ngày, đi dạo, dự lễ, hoặc khi muốn mùi hương thu�
       { label: "Cổ điển", icon: "🍂" },
       { label: "Rực rỡ", icon: "☀️" }
     ],
-    image: "/images/products/dior-dolce-vita-main.jpg",
-    images: [{ url: "/images/products/dior-dolce-vita-main.jpg", source: "fragram", caption: "Dior Dolce Vita Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/061-dolce-vita-main.jpg",
+    images: [{ url: "/images/products/061-dolce-vita-main.jpg", source: "fragram", caption: "Dior Dolce Vita Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn muốn mùi hiện đại trendy — thì Dolce Vita sẽ quá thập niên 90. Chai ra đời 1995, tên lấy từ bộ phim "La Dolce Vita" của Fellini — và mùi cũng đúng kiểu Italian golden life: đào, magnolia, gỗ đàn hương, vani. Ai thích sharp, fresh, cool sẽ thấy nó quá mềm, quá ấm. Ngoài ra, chai đã discontinued nên khó tìm.
@@ -3562,9 +3562,9 @@ Ban ngày, đi dạo, café, du lịch, hoặc khi muốn cảm giác "cuộc s�
       { label: "Ngang tàng", icon: "🎸" },
       { label: "Phong trần", icon: "😎" }
     ],
-    image: "/images/products/guy-laroche-drakkar-noir-main.jpg",
+    image: "/images/products/133-drakkar-noir-main.jpg",
     images: [
-      { url: "/images/products/guy-laroche-drakkar-noir-main.jpg", source: "fragram", caption: "Guy Laroche Drakkar Noir Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/133-drakkar-noir-main.jpg", source: "fragram", caption: "Guy Laroche Drakkar Noir Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -3634,8 +3634,8 @@ Mùa đông, buổi tối, hoặc khi muốn thử trải nghiệm "mùi của m
       { label: "Tĩnh lặng", icon: "🏜️" },
       { label: "Hoài cổ", icon: "📻" }
     ],
-    image: "/images/products/dior-dune-edt-main.jpg",
-    images: [{ url: "/images/products/dior-dune-edt-main.jpg", source: "fragram", caption: "Dior Dune Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/062-dune-edt-main.jpg",
+    images: [{ url: "/images/products/062-dune-edt-main.jpg", source: "fragram", caption: "Dior Dune Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn muốn mùi hoa rõ ràng kiểu rose hay jasmine — thì Dune sẽ khiến bạn bối rối vì nó ABSTRACT. Đây là mùi CÁT — không phải cát biển tươi mát, mà cát sa mạc ấm dưới nắng chiều, có hơi biển bay vào. Rất khó mô tả = rất khó bán. Nhưng ai đã hiểu thì sẽ yêu. Dominique Ropion tham gia nhóm perfumer — cùng người tạo Carnal Flower.
@@ -3698,13 +3698,13 @@ Cuối tuần thư giãn, đi biển, dạo hoàng hôn, hoặc khi muốn mùi 
       { label: "Đa dụng", icon: "🔄" },
       { label: "Đại dương cạn", icon: "🌊" }
     ],
-    image: "/images/products/pour-homme-dylan-blue-main.jpg",
+    image: "/images/products/246-dylan-blue-main.jpg",
     images: [
-      { url: "/images/products/059-dylan-blue/nuoc-hoa-versace-pour-homme-dylan-blue-edt-chai-nuoc-hoa-5.jpg", source: "owner", caption: "VERSACE Pour Homme Dylan Blue EDT chính hãng", verified: true },
-      { url: "/images/products/059-dylan-blue/nuoc-hoa-versace-pour-homme-dylan-blue-edt-chinh-hang-1.jpg", source: "owner", caption: "VERSACE Pour Homme Dylan Blue EDT ảnh thực tế 2", verified: true },
-      { url: "/images/products/059-dylan-blue/nuoc-hoa-versace-pour-homme-dylan-blue-edt-review-2.jpg", source: "owner", caption: "VERSACE Pour Homme Dylan Blue EDT ảnh thực tế 3", verified: true },
-      { url: "/images/products/059-dylan-blue/nuoc-hoa-versace-pour-homme-dylan-blue-edt-thuc-te-3.jpg", source: "owner", caption: "VERSACE Pour Homme Dylan Blue EDT ảnh thực tế 4", verified: true },
-      { url: "/images/products/059-dylan-blue/nuoc-hoa-versace-pour-homme-dylan-blue-edt-unboxing-4.jpg", source: "owner", caption: "VERSACE Pour Homme Dylan Blue EDT ảnh thực tế 5", verified: true }
+      { url: "/images/products/246-dylan-blue/nuoc-hoa-versace-pour-homme-dylan-blue-edt-chai-nuoc-hoa-5.jpg", source: "owner", caption: "VERSACE Pour Homme Dylan Blue EDT chính hãng", verified: true },
+      { url: "/images/products/246-dylan-blue/nuoc-hoa-versace-pour-homme-dylan-blue-edt-chinh-hang-1.jpg", source: "owner", caption: "VERSACE Pour Homme Dylan Blue EDT ảnh thực tế 2", verified: true },
+      { url: "/images/products/246-dylan-blue/nuoc-hoa-versace-pour-homme-dylan-blue-edt-review-2.jpg", source: "owner", caption: "VERSACE Pour Homme Dylan Blue EDT ảnh thực tế 3", verified: true },
+      { url: "/images/products/246-dylan-blue/nuoc-hoa-versace-pour-homme-dylan-blue-edt-thuc-te-3.jpg", source: "owner", caption: "VERSACE Pour Homme Dylan Blue EDT ảnh thực tế 4", verified: true },
+      { url: "/images/products/246-dylan-blue/nuoc-hoa-versace-pour-homme-dylan-blue-edt-unboxing-4.jpg", source: "owner", caption: "VERSACE Pour Homme Dylan Blue EDT ảnh thực tế 5", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -3765,8 +3765,8 @@ Quanh năm — đi làm, đi học, gặp gỡ, gym, dạo phố. Xịt 2-3 nhá
       { label: "Nữ tính", icon: "🎀" },
       { label: "Điệu đà", icon: "💃" }
     ],
-    image: "/images/products/chloe-eau-de-parfum-main.jpg",
-    images: [{ url: "/images/products/chloe-eau-de-parfum-main.jpg", source: "fragram", caption: "Chloé Eau de Parfum chính hãng", verified: true }, { url: "/images/products/059-dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/059-dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/059-dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/059-dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-4.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/059-dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-5.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
+    image: "/images/products/044-eau-de-parfum-main.jpg",
+    images: [{ url: "/images/products/044-eau-de-parfum-main.jpg", source: "fragram", caption: "Chloé Eau de Parfum chính hãng", verified: true }, { url: "/images/products/246-dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-1.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/246-dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-2.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/246-dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-3.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/246-dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-4.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }, { url: "/images/products/246-dylan-blue/nuoc-hoa-nam-versace-dylan-blue-thuc-te-5.jpg", source: "owner", caption: "Ảnh thực tế sản phẩm", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi ngọt đậm, sexy hoặc gourmand thì Chloé EDP sẽ quá nhẹ và quá thanh lịch cho gu đó. Đây là mùi hoa hồng phấn clean — rất elegant nhưng thiếu drama. Ai cần mùi tạo dấu ấn mạnh, tỏa xa cũng sẽ thấy Chloé hơi kín đáo. Ngoài ra, nam giới muốn mua tặng bạn gái nên chú ý: Chloé EDP khá mature — phù hợp phụ nữ 25+ hơn là teen.
@@ -3833,8 +3833,8 @@ Dùng được quanh năm — đi làm, đi cà phê, gặp gỡ, đi tiệc nh�
       { label: "Vintage", icon: "🎞️" },
       { label: "Chín chắn", icon: "🍸" }
     ],
-    image: "/images/products/dior-eau-sauvage-main.jpg",
-    images: [{ url: "/images/products/dior-eau-sauvage-main.jpg", source: "fragram", caption: "Dior Eau Sauvage Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/063-eau-sauvage-main.jpg",
+    images: [{ url: "/images/products/063-eau-sauvage-main.jpg", source: "fragram", caption: "Dior Eau Sauvage Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi ngọt ấm hiện đại kiểu Sauvage EDP (cái tên giống nhau nhưng hoàn toàn khác) thì Eau Sauvage quá citrus-thảo mộc và quá cổ điển. Ai cần beast mode bám cả ngày cũng sẽ thất vọng — đây là EDT 1966, bám 4-5 giờ. Người dưới 30 có thể thấy nó "bố".
@@ -3891,8 +3891,8 @@ Mùa hè, ban ngày, đi làm, dạo phố kiểu gentleman. Xịt 3-4 nhát vì
       { label: "Trang trọng", icon: "♟️" },
       { label: "Quy củ", icon: "💼" }
     ],
-    image: "/images/products/dior-eau-sauvage-parfum-main.jpg",
-    images: [{ url: "/images/products/dior-eau-sauvage-parfum-main.jpg", source: "fragram", caption: "Dior Eau Sauvage Parfum chính hãng", verified: true }],
+    image: "/images/products/064-eau-sauvage-parfum-main.jpg",
+    images: [{ url: "/images/products/064-eau-sauvage-parfum-main.jpg", source: "fragram", caption: "Dior Eau Sauvage Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn biết Eau Sauvage gốc 1966 (citrus-nhẹ-sạch) và kỳ vọng Parfum giống thế — thì KHÔNG. François Demachy rewrite hoàn toàn: Parfum tối, khoáng, vetiver-nhựa dược, gần như không còn citrus. Đây là chai cho ai muốn Eau Sauvage TRƯỞNG THÀNH — từ chàng trai thành quý ông. Ai thích tươi sáng nên quay về EDT gốc.
@@ -3957,8 +3957,8 @@ Giá Dior nhưng Parfum concentration — bám 10+ giờ. DNA vetiver-myrrh ở 
       { label: "Phong trần", icon: "🥃" },
       { label: "Hào hoa", icon: "🎩" }
     ],
-    image: "/images/products/chanel-egoiste-main.jpg",
-    images: [{ url: "/images/products/chanel-egoiste-main.jpg", source: "fragram", caption: "Chanel Égoïste Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/036-egoiste-main.jpg",
+    images: [{ url: "/images/products/036-egoiste-main.jpg", source: "fragram", caption: "Chanel Égoïste Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích compliment getter — thì Égoïste đúng như tên: ÍCH KỶ. Chai này xịt cho MÌNH thích chứ không phải cho ai khen. Gỗ hồng (rosewood) ấm, khô, phấn — mùi rất "nội tâm" và không crowd-pleasing. Quảng cáo gốc cũng iconic: phụ nữ la hét "Égoïste!" từ trên ban công. Đây không phải chai cho casual.
@@ -4024,9 +4024,9 @@ Giá Chanel — EDT nên reasonable. Égoïste ra đời 1990, dùng gỗ hồng
       { label: "Lịch lãm", icon: "👔" },
       { label: "Sạch sẽ", icon: "💈" }
     ],
-    image: "/images/products/chanel-egoiste-platinum-main.jpg",
+    image: "/images/products/037-egoiste-platinum-main.jpg",
     images: [
-      { url: "/images/products/chanel-egoiste-platinum-main.jpg", source: "fragram", caption: "Chanel Platinum Égoïste Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/037-egoiste-platinum-main.jpg", source: "fragram", caption: "Chanel Platinum Égoïste Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -4087,9 +4087,9 @@ Platinum Égoïste thuộc phân khúc Chanel — đắt hơn Prada L'Homme như
       { label: "Ma thuật", icon: "🧙" },
       { label: "Ngọt đắng", icon: "🍯" }
     ],
-    image: "/images/products/065-elixir-des-merveilles-main.jpg",
+    image: "/images/products/136-elixir-des-merveilles-main.jpg",
     images: [
-      { url: "/images/products/065-elixir-des-merveilles-main.jpg", source: "fragram", caption: "Hermès Elixir des Merveilles chính hãng", verified: true }
+      { url: "/images/products/136-elixir-des-merveilles-main.jpg", source: "fragram", caption: "Hermès Elixir des Merveilles chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -4151,8 +4151,8 @@ Buổi tối, ăn tối, hoặc cuối tuần thư giãn. Xịt 2-3 nhát: cổ 
       { label: "Ăn chơi xả láng", icon: "🍹" },
       { label: "Quái vật xé mũi", icon: "💣" }
     ],
-    image: "/images/products/xerjoff-erba-pura-main.jpg",
-    images: [{ url: "/images/products/xerjoff-erba-pura-main.jpg", source: "fragram", caption: "Xerjoff Erba Pura EDP chính hãng", verified: true }],
+    image: "/images/products/251-erba-pura-main.jpg",
+    images: [{ url: "/images/products/251-erba-pura-main.jpg", source: "fragram", caption: "Xerjoff Erba Pura EDP chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi kín đáo — Erba Pura LẤP ĐẦY CĂN PHÒNG. Christian Carbonnel tạo ra trái cây ở nồng độ niche: cam-xoài-chanh sáng rực, rồi xạ hương trắng giữ lại mượt. "Erba Pura" = thảo mộc thuần khiết (tiếng Ý) — nhưng thực tế đây là TRÁI CÂY BOMB. Ai muốn subtle sẽ ngộp.
@@ -4217,8 +4217,8 @@ Giá Xerjoff — top niche nhưng Erba Pura bám 10+ giờ và tỏa CẢ NGÀY.
       { label: "Thần tình yêu", icon: "🏹" },
       { label: "Clubbing", icon: "🪩" }
     ],
-    image: "/images/products/versace-eros-edp-main.jpg",
-    images: [{ url: "/images/products/versace-eros-edp-main.jpg", source: "fragram", caption: "Versace Eros Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/241-eros-edp-main.jpg",
+    images: [{ url: "/images/products/241-eros-edp-main.jpg", source: "fragram", caption: "Versace Eros Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn cần chai đi làm kín đáo thì Eros EDP không hợp. Mùi ngọt mát khá nổi, xịt trong văn phòng nhỏ dễ bị chê là quá ồn. Những bạn trên 35 tuổi thích phong cách trưởng thành, lịch lãm kiểu Bleu de Chanel hay Terre d'Hermes sẽ thấy Eros hơi trẻ và hơi phô. Ngoài ra, ở Sài Gòn nắng nóng, xịt ban ngày dễ bị ngọt gắt.
@@ -4280,8 +4280,8 @@ Thuộc tầm designer trung, Eros EDP là một trong những chai party scent 
       { label: "All rounder", icon: "💯" },
       { label: "Đa dụng", icon: "🏢" }
     ],
-    image: "/images/products/montblanc-explorer-main.jpg",
-    images: [{ url: "/images/products/montblanc-explorer-main.jpg", source: "fragram", caption: "Montblanc Explorer Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/191-explorer-main.jpg",
+    images: [{ url: "/images/products/191-explorer-main.jpg", source: "fragram", caption: "Montblanc Explorer Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn cần chai có cá tính riêng biệt, thì Explorer sẽ làm thất vọng. Nó bị so sánh với Creed Aventus liên tục vì chia sẻ DNA tương tự — bergamot, ambroxan, akigalawood — nhưng ở mức giá rẻ hơn 5-6 lần. Ai đã có Aventus sẽ thấy Explorer nhạt hơn và thiếu smokiness đặc trưng. Ngoài ra, chai này không gây ấn tượng mạnh lần đầu — kiểu xịt lên người bên cạnh gật đầu nhưng không quay lại hỏi.
@@ -4355,8 +4355,8 @@ Gần như mọi lúc: đi làm, đi cafe, dạo phố, du lịch. Xịt 3 nhát
       { label: "Gai góc", icon: "🏍️" },
       { label: "Chơi bời", icon: "🔥" }
     ],
-    image: "/images/products/dior-fahrenheit-main.jpg",
-    images: [{ url: "/images/products/dior-fahrenheit-main.jpg", source: "fragram", caption: "Dior Fahrenheit Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/065-fahrenheit-main.jpg",
+    images: [{ url: "/images/products/065-fahrenheit-main.jpg", source: "fragram", caption: "Dior Fahrenheit Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn quen mùi Sauvage EDP hay Bleu de Chanel — các chai tươi sạch, dễ chịu, ai xịt cũng khen — thì Fahrenheit sẽ gây sốc. Mùi xăng, da và hoa tím phả vào mặt ngay phút đầu, nhiều người sẽ hỏi "anh vừa đổ xăng à?". Không nên xịt đi phỏng vấn, họp khách hàng, hoặc bất cứ chỗ nào cần gây thiện cảm lần đầu. Anh em dưới 25 tuổi phần lớn sẽ thấy nó già, vì thật ra Fahrenheit ra đời năm 1988 và thuộc về thế hệ cha chú.
@@ -4417,8 +4417,8 @@ Fahrenheit giá chỉ bằng nửa Tom Ford Tuscan Leather — mà mùi da khôn
       { label: "Nhiệt huyết", icon: "🥃" },
       { label: "Lưu hương khủng", icon: "💥" }
     ],
-    image: "/images/products/dior-fahrenheit-le-parfum-main.jpg",
-    images: [{ url: "/images/products/dior-fahrenheit-le-parfum-main.jpg", source: "fragram", caption: "Dior Fahrenheit Le Parfum chính hãng", verified: true }],
+    image: "/images/products/066-fahrenheit-le-parfum-main.jpg",
+    images: [{ url: "/images/products/066-fahrenheit-le-parfum-main.jpg", source: "fragram", caption: "Dior Fahrenheit Le Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn yêu Fahrenheit EDT gốc (xăng-hoa tím-da) và muốn bản đậm hơn — thì Le Parfum khác HOÀN TOÀN. Demachy bỏ gần hết nốt xăng-violet, thay bằng da hun-nghệ tây-oải hương nặng. Đây không phải upgrade mà là REBOOT. Ai thích EDT nên giữ EDT. Le Parfum cho ai muốn DNA da-leather without the gasoline.
@@ -4480,8 +4480,8 @@ Mùa đông, buổi tối, khi muốn mùi DA mà không cần xăng. Xịt 1-2 
       { label: "Năng động", icon: "🧢" },
       { label: "Dễ gần", icon: "🤝" }
     ],
-    image: "/images/products/coach-for-men-main.jpg",
-    images: [{ url: "/images/products/coach-for-men-main.jpg", source: "fragram", caption: "Coach For Men Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/048-for-men-main.jpg",
+    images: [{ url: "/images/products/048-for-men-main.jpg", source: "fragram", caption: "Coach For Men Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn muốn mùi đậm, có chiều sâu hay beast mode thì Coach For Men quá nhẹ — đây là EDT tỏa gần, bám vừa. Ai thích mùi nổi bật kiểu Sauvage hay Most Wanted cũng sẽ thấy chai này quá hiền. Ngoài ra, mùi khá đơn giản nên không hợp người tìm sự phức tạp.
@@ -4541,9 +4541,9 @@ Dùng hằng ngày — đi làm, đi học, đi cà phê, đi chơi. Xịt 3-4 n
       { label: "Đá khoáng", icon: "🪨" },
       { label: "Vũ trụ", icon: "🛰️" }
     ],
-    image: "/images/products/marc-antoine-barrois-ganymede-main.jpg",
+    image: "/images/products/188-ganymede-main.jpg",
     images: [
-      { url: "/images/products/marc-antoine-barrois-ganymede-main.jpg", source: "fragram", caption: "Marc-Antoine Barrois Ganymede Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/188-ganymede-main.jpg", source: "fragram", caption: "Marc-Antoine Barrois Ganymede Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -4604,9 +4604,9 @@ Quanh năm — đi làm, gặp gỡ, sự kiện. Xịt 2-3 nhát: cổ, ngực.
       { label: "Ánh vàng", icon: "✨" },
       { label: "Sành điệu", icon: "🥂" }
     ],
-    image: "/images/products/maison-francis-kurkdjian-gentle-fluidity-gold-main.jpg",
+    image: "/images/products/179-gentle-fluidity-gold-main.jpg",
     images: [
-      { url: "/images/products/maison-francis-kurkdjian-gentle-fluidity-gold-main.jpg", source: "fragram", caption: "MFK Gentle Fluidity Gold chính hãng", verified: true }
+      { url: "/images/products/179-gentle-fluidity-gold-main.jpg", source: "fragram", caption: "MFK Gentle Fluidity Gold chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -4667,9 +4667,9 @@ Mọi lúc — đi làm, gặp khách, cuối tuần, ngủ. Xịt 3-4 nhát c�
       { label: "Lịch lãm", icon: "🎩" },
       { label: "Say đắm", icon: "🥃" }
     ],
-    image: "/images/products/givenchy-gentleman-reserve-privee-main.jpg",
+    image: "/images/products/104-gentleman-reserve-privee-main.jpg",
     images: [
-      { url: "/images/products/givenchy-gentleman-reserve-privee-main.jpg", source: "fragram", caption: "Givenchy Gentleman Réserve Privée chính hãng", verified: true }
+      { url: "/images/products/104-gentleman-reserve-privee-main.jpg", source: "fragram", caption: "Givenchy Gentleman Réserve Privée chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -4726,20 +4726,20 @@ Giá Givenchy — affordable hơn Dior/Chanel. So với Gentleman EDP gốc — 
       {"name": "Vanilla", "value": 75, "color": "#ffffcc"},
       {"name": "Hổ phách", "value": 70, "color": "#d2691e"}
     ],
-    image: "/images/products/carolina-herrera-good-girl-main.jpg",
+    image: "/images/products/021-good-girl-main.jpg",
     images: [
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-chai-nuoc-hoa-5.jpg", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP chính hãng", verified: true },
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-chinh-hang-1.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-danh-gia-10.jpg", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-fullbox-6.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-gia-tot-7.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-mua-o-dau-12.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-mui-huong-9.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-review-2.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-so-sanh-8.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-thuc-te-3.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-trai-nghiem-11.jpg", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 11", verified: true },
-      { url: "/images/products/075-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-unboxing-4.jpg", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 12", verified: true }
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-chai-nuoc-hoa-5.jpg", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP chính hãng", verified: true },
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-chinh-hang-1.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-danh-gia-10.jpg", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-fullbox-6.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-gia-tot-7.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-mua-o-dau-12.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-mui-huong-9.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-review-2.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-so-sanh-8.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-thuc-te-3.webp", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-trai-nghiem-11.jpg", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 11", verified: true },
+      { url: "/images/products/021-good-girl/nuoc-hoa-carolina-herrera-good-girl-edp-unboxing-4.jpg", source: "owner", caption: "CAROLINA HERRERA Good Girl EDP ảnh thực tế 12", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -4801,9 +4801,9 @@ Hẹn hò buổi tối, đi bar, đi ăn nhà hàng, dự tiệc. Xịt 1-2 nhá
       { label: "Dạ tiệc", icon: "🍾" },
       { label: "Giàu sụ", icon: "💰" }
     ],
-    image: "/images/products/mfk-grand-soir-main.jpg",
+    image: "/images/products/180-grand-soir-main.jpg",
     images: [
-      { url: "/images/products/mfk-grand-soir-main.jpg", source: "fragram", caption: "Maison Francis Kurkdjian Grand Soir Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/180-grand-soir-main.jpg", source: "fragram", caption: "Maison Francis Kurkdjian Grand Soir Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -4861,8 +4861,8 @@ Mùa thu đông, buổi tối, dịp đặc biệt, tiệc sang. Xịt 2 nhát: 
       { label: "Lịch lãm", icon: "🤵" },
       { label: "Cổ điển", icon: "🌿" }
     ],
-    image: "/images/products/creed-green-irish-tweed-main.jpg",
-    images: [{ url: "/images/products/creed-green-irish-tweed-main.jpg", source: "fragram", caption: "Creed Green Irish Tweed chính hãng", verified: true }],
+    image: "/images/products/052-green-irish-tweed-main.jpg",
+    images: [{ url: "/images/products/052-green-irish-tweed-main.jpg", source: "fragram", caption: "Creed Green Irish Tweed chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi ngọt ấm trendy kiểu Born In Roma hay Azzaro Most Wanted thì Green Irish Tweed hoàn toàn khác hướng — đây là mùi xanh, phấn, sạch và rất old money. Người muốn mùi nổi bật, tỏa xa cũng sẽ thấy GIT quá kín đáo. Giá rất cao cho một mùi khá đơn giản — nếu bạn chưa sẵn sàng chi cho niche, nên thử clone Cool Water trước.
@@ -4924,9 +4924,9 @@ GIT thuộc phân khúc niche cao cấp Creed — đắt nhất nhóm fresh xanh
       { label: "Tài phiệt", icon: "✒️" },
       { label: "Tinh tế", icon: "👔" }
     ],
-    image: "/images/products/tom-ford-grey-vetiver-main.jpg",
+    image: "/images/products/229-grey-vetiver-main.jpg",
     images: [
-      { url: "/images/products/tom-ford-grey-vetiver-main.jpg", source: "fragram", caption: "Tom Ford Grey Vetiver Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/229-grey-vetiver-main.jpg", source: "fragram", caption: "Tom Ford Grey Vetiver Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -4990,9 +4990,9 @@ Văn phòng, meeting, gặp khách, hoặc BẤT CỨ KHI NÀO cần mùi hươn
       { label: "Cổ điển", icon: "🏇" },
       { label: "Kiêu hãnh", icon: "🛡️" }
     ],
-    image: "/images/products/guerlain-habit-rouge-edt-main.jpg",
+    image: "/images/products/116-habit-rouge-eau-de-toilette-main.jpg",
     images: [
-      { url: "/images/products/guerlain-habit-rouge-edt-main.jpg", source: "fragram", caption: "Guerlain Habit Rouge Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/116-habit-rouge-eau-de-toilette-main.jpg", source: "fragram", caption: "Guerlain Habit Rouge Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -5051,9 +5051,9 @@ Giá Guerlain EDT — rất hợp lý. Và đây là chai KHAI SINH oriental nam
       { label: "Say đắm", icon: "🥃" },
       { label: "Uy quyền", icon: "👑" }
     ],
-    image: "/images/products/080-habit-rouge-parfum-main.jpg",
+    image: "/images/products/117-habit-rouge-parfum-main.jpg",
     images: [
-      { url: "/images/products/080-habit-rouge-parfum-main.jpg", source: "fragram", caption: "Guerlain Habit Rouge Parfum chính hãng", verified: true }
+      { url: "/images/products/117-habit-rouge-parfum-main.jpg", source: "fragram", caption: "Guerlain Habit Rouge Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -5116,8 +5116,8 @@ Mùa đông, buổi tối, dịp đặc biệt, tiệc sang. Xịt 1-2 nhát —
       { label: "Dứa vương", icon: "🍍" },
       { label: "Chiến thần", icon: "⚔️" }
     ],
-    image: "/images/products/nishane-hacivat-main.jpg",
-    images: [{ url: "/images/products/nishane-hacivat-main.jpg", source: "fragram", caption: "Nishane Hacivat Extrait de Parfum chính hãng", verified: true }],
+    image: "/images/products/207-hacivat-main.jpg",
+    images: [{ url: "/images/products/207-hacivat-main.jpg", source: "fragram", caption: "Nishane Hacivat Extrait de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi ngọt ấm mềm kiểu Valentino BIRI hay Angels' Share thì Hacivat hoàn toàn ngược — đây là mùi sáng, sắc và hơi lạnh. Ai thích mùi tình cảm, ôm da cũng sẽ thấy Hacivat hơi xa cách. Ngoài ra, rêu sồi ở base khá mạnh — kén người ghét mùi xanh khoáng.
@@ -5181,9 +5181,9 @@ Hacivat thuộc phân khúc niche cao cấp Nishane — đắt hơn Mancera như
       { label: "Hoa hồng đen", icon: "🥀" },
       { label: "Bá tước", icon: "🦇" }
     ],
-    image: "/images/products/penhaligons-halfeti-main.jpg",
+    image: "/images/products/219-halfeti-main.jpg",
     images: [
-      { url: "/images/products/penhaligons-halfeti-main.jpg", source: "fragram", caption: "Penhaligon's Halfeti Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/219-halfeti-main.jpg", source: "fragram", caption: "Penhaligon's Halfeti Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -5230,8 +5230,8 @@ Mùa thu đông, buổi tối, dịp đặc biệt, sự kiện VIP. Xịt 2 nh�
       {"name": "Phấn", "value": 55, "color": "#e6ccb2"},
       {"name": "Xạ hương", "value": 50, "color": "#e6e6fa"}
     ],
-    image: "/images/products/burberry-her-edp-main.jpg",
-    images: [{ url: "/images/products/burberry-her-edp-main.jpg", source: "fragram", caption: "Burberry Her Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/015-her-edp-main.jpg",
+    images: [{ url: "/images/products/015-her-edp-main.jpg", source: "fragram", caption: "Burberry Her Eau de Parfum chính hãng", verified: true }],
     description: "Chai nữ berry đỏ-vani kiểu London hiện đại — dâu tây, phúc bồn tử, blackberry, anh đào chua, lý chua đen, cam quýt, hoa tím, nhài, xạ hương, vani, cashmeran và hoắc hương. Ngọt berry, ấm và rất dễ thương.",
     article: `### Ai không nên mua?
 
@@ -5296,9 +5296,9 @@ Bất ngờ: người đứng sau Burberry Her là Francis Kurkdjian — perfume
       { label: "Trưởng giả", icon: "🤵" },
       { label: "Xì Gà Vani", icon: "🚬" }
     ],
-    image: "/images/products/parfums-de-marly-herod-main.jpg",
+    image: "/images/products/213-herod-main.jpg",
     images: [
-      { url: "/images/products/parfums-de-marly-herod-main.jpg", source: "fragram", caption: "Parfums de Marly Herod Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/213-herod-main.jpg", source: "fragram", caption: "Parfums de Marly Herod Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -5354,8 +5354,8 @@ Mùa thu đông, buổi tối, hẹn hò, tiệc, dịp đặc biệt. Xịt 2 n
       { label: "Sạch sẽ", icon: "🍋" },
       { label: "Sảng khoái", icon: "🧊" }
     ],
-    image: "/images/products/dior-homme-cologne-main.jpg",
-    images: [{ url: "/images/products/dior-homme-cologne-main.jpg", source: "fragram", caption: "Dior Homme Cologne chính hãng", verified: true }],
+    image: "/images/products/057-homme-cologne-main.jpg",
+    images: [{ url: "/images/products/057-homme-cologne-main.jpg", source: "fragram", caption: "Dior Homme Cologne chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn muốn mùi bám lâu tỏa xa — thì Homme Cologne BÁM 2-3 GIỜ rồi biến mất. Đây là cologne nồng độ thấp nhất: citrus-xạ hương sạch kiểu vừa tắm xong, da sạch, không hương liệu nặng. Ai quen Sauvage hay Eros sẽ hỏi "tao xịt gì rồi nhỉ?" sau 2 giờ. Đây là chai "feel clean" chứ không phải "smell good".
@@ -5415,8 +5415,8 @@ Mùa hè, sau khi tắm, trước khi ra ngoài dạo phố, đi cafe ban ngày.
       { label: "Lịch lãm", icon: "🕴️" },
       { label: "Diên vĩ", icon: "💜" }
     ],
-    image: "/images/products/dior-homme-intense-main.jpg",
-    images: [{ url: "/images/products/dior-homme-intense-main.jpg", source: "fragram", caption: "Dior Homme Intense Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/067-homme-intense-main.jpg",
+    images: [{ url: "/images/products/067-homme-intense-main.jpg", source: "fragram", caption: "Dior Homme Intense Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Chai này không dành cho ai muốn xịt lên rồi cả phòng quay lại nhìn. Dior Homme Intense kén người — iris nặng phấn, mềm mại, gần như đi ngược lại mọi thứ mà Sauvage đại diện. Nhiều anh em ngửi lần đầu sẽ nói "mùi son phấn" hoặc "mùi nữ", và thật ra cũng không sai. Nếu bạn thích kiểu nam tính rõ ràng, tươi mát, mạnh mẽ — thì đây không phải chai cho bạn. Cũng không hợp đi gym, đi team building hay những dịp cần sự thoải mái.
@@ -5477,8 +5477,8 @@ Giá tầm designer bình thường — rẻ hơn nhiều so với Prada L'Homme
       { label: "Quyền uy", icon: "🕴️" },
       { label: "Diên vĩ", icon: "💜" }
     ],
-    image: "/images/products/dior-homme-parfum-main.jpg",
-    images: [{ url: "/images/products/dior-homme-parfum-main.jpg", source: "fragram", caption: "Dior Homme Parfum chính hãng", verified: true }],
+    image: "/images/products/058-homme-parfum-main.jpg",
+    images: [{ url: "/images/products/058-homme-parfum-main.jpg", source: "fragram", caption: "Dior Homme Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn đã thử Dior Homme EDT/EDP và thấy iris phấn nhẹ dễ thương — thì Parfum sẽ SHOCK: iris ở đây tối, dày, khô, phủ da thuộc nặng. Đây là chai Dior Homme tối nhất, discontinued, và trở thành CULT CLASSIC — giá secondhand đang tăng mỗi năm. Ai thích mùi sáng tươi đừng đến gần.
@@ -5538,8 +5538,8 @@ Discontinued — nên giá thị trường cao hơn giá gốc. Nhưng với nh�
       { label: "Thể thao", icon: "🥊" },
       { label: "Năng lượng", icon: "⚡" }
     ],
-    image: "/images/products/dior-homme-sport-2021-main.jpg",
-    images: [{ url: "/images/products/dior-homme-sport-2021-main.jpg", source: "fragram", caption: "Dior Homme Sport 2021 chính hãng", verified: true }],
+    image: "/images/products/059-homme-sport-2021-main.jpg",
+    images: [{ url: "/images/products/059-homme-sport-2021-main.jpg", source: "fragram", caption: "Dior Homme Sport 2021 chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn muốn iris phấn kiểu Dior Homme gốc — thì Sport 2021 KHÔNG CÓ IRIS. Demachy lúc này đã bỏ iris khỏi Sport, thay bằng cam huyết-gừng-elemi = citrus sporty thuần. Ai thích DNA Homme cổ điển sẽ hỏi "đây còn là Homme không?". Answer: về tên thì có, về DNA thì gần như khác hãng.
@@ -5602,9 +5602,9 @@ Giá Dior EDT — và Homme Sport 2021 là bản reformulate thứ 3 (sau 2008, 
       { label: "Lẳng lơ", icon: "🌸" },
       { label: "Kẹo trái cây", icon: "🍬" }
     ],
-    image: "/images/products/nishane-hundred-silent-ways-main.jpg",
+    image: "/images/products/208-hundred-silent-ways-main.jpg",
     images: [
-      { url: "/images/products/nishane-hundred-silent-ways-main.jpg", source: "fragram", caption: "Nishane Hundred Silent Ways Extrait de Parfum chính hãng", verified: true }
+      { url: "/images/products/208-hundred-silent-ways-main.jpg", source: "fragram", caption: "Nishane Hundred Silent Ways Extrait de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -5667,9 +5667,9 @@ Những ngày muốn tự thưởng cho mình — đi cà phê một mình, đ�
       { label: "Mê hoặc", icon: "🍷" },
       { label: "Bí ẩn", icon: "🔮" }
     ],
-    image: "/images/products/dior-hypnotic-poison-main.jpg",
+    image: "/images/products/068-hypnotic-poison-main.jpg",
     images: [
-      { url: "/images/products/dior-hypnotic-poison-main.jpg", source: "fragram", caption: "Dior Hypnotic Poison Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/068-hypnotic-poison-main.jpg", source: "fragram", caption: "Dior Hypnotic Poison Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -5733,9 +5733,9 @@ Hẹn hò, đi ăn tối, tiệc, buổi tối. Xịt 1-2 nhát: cổ, cổ tay 
       { label: "Trà chiều", icon: "🍵" },
       { label: "Thượng lưu", icon: "🛥️" }
     ],
-    image: "/images/products/louis-vuitton-imagination-main.jpg",
+    image: "/images/products/172-imagination-main.jpg",
     images: [
-      { url: "/images/products/louis-vuitton-imagination-main.jpg", source: "fragram", caption: "Louis Vuitton Imagination Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/172-imagination-main.jpg", source: "fragram", caption: "Louis Vuitton Imagination Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -5798,9 +5798,9 @@ Quanh năm — đi làm, gặp khách VIP, sự kiện, dạo phố. Xịt 2-3 n
       { label: "Xà phòng VIP", icon: "🧼" },
       { label: "Trí thức", icon: "📖" }
     ],
-    image: "/images/products/prada-infusion-diris-main.jpg",
+    image: "/images/products/220-infusion-diris-main.jpg",
     images: [
-      { url: "/images/products/prada-infusion-diris-main.jpg", source: "fragram", caption: "Prada Infusion d'Iris Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/220-infusion-diris-main.jpg", source: "fragram", caption: "Prada Infusion d'Iris Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -5862,9 +5862,9 @@ Giá Prada tầm trung-cao — và Infusion d'Iris là chai Prada nữ KINH ĐI�
       { label: "Ngỗ ngược", icon: "💅" },
       { label: "Điệu đà", icon: "👛" }
     ],
-    image: "/images/products/guerlain-insolence-edp-main.jpg",
+    image: "/images/products/118-insolence-edp-main.jpg",
     images: [
-      { url: "/images/products/guerlain-insolence-edp-main.jpg", source: "fragram", caption: "Guerlain Insolence Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/118-insolence-edp-main.jpg", source: "fragram", caption: "Guerlain Insolence Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -5928,9 +5928,9 @@ Giá Guerlain tầm trung — và Insolence EDP đậm hơn EDT đáng kể: nhi
       { label: "Spotlight", icon: "🌟" },
       { label: "Sét đánh", icon: "⚡" }
     ],
-    image: "/images/products/mancera-instant-crush-main.jpg",
+    image: "/images/products/186-instant-crush-main.jpg",
     images: [
-      { url: "/images/products/mancera-instant-crush-main.jpg", source: "fragram", caption: "Mancera Instant Crush Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/186-instant-crush-main.jpg", source: "fragram", caption: "Mancera Instant Crush Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -5977,9 +5977,9 @@ Buổi tối, hẹn hò, tiệc, trời mát hoặc phòng máy lạnh. Xịt 2 
       {"name": "Khói", "value": 60, "color": "#746b7d"},
       {"name": "Cay ấm", "value": 55, "color": "#cc3300"}
     ],
-    image: "/images/products/amouage-interlude-man-main.jpg",
+    image: "/images/products/003-interlude-man-main.jpg",
     images: [
-      { url: "/images/products/amouage-interlude-man-main.jpg", source: "fragram", caption: "Amouage Interlude Man Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/003-interlude-man-main.jpg", source: "fragram", caption: "Amouage Interlude Man Eau de Parfum chính hãng", verified: true }
     ],
     description: "Chai niche nam mạnh nhất — nhựa thơm, oregano, da thuộc, trầm hương và khói. Quyền lực, tối và không giống bất kỳ chai nào khác.",
     article: `### Ai không nên mua?
@@ -6045,8 +6045,8 @@ Dịp đặc biệt — tiệc tối, sự kiện, mùa đông lạnh. Xịt 1 n
       { label: "Nữ tính", icon: "✨" },
       { label: "Sang trọng", icon: "💛" }
     ],
-    image: "/images/products/dior-jadore-edp-main.jpg",
-    images: [{ url: "/images/products/dior-jadore-edp-main.jpg", source: "fragram", caption: "Dior J'adore Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/069-jadore-edp-main.jpg",
+    images: [{ url: "/images/products/069-jadore-edp-main.jpg", source: "fragram", caption: "Dior J'adore Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi tối, ngọt đậm kiểu Black Opium hay Dior Addict thì J'adore quá sáng và quá thanh cho gu đó. Ai thích mùi cá tính mạnh, khác biệt kiểu niche cũng sẽ thấy J'adore hơi "an toàn" và đại trà. Ngoài ra, người dưới 22 tuổi thích mùi vui vẻ trẻ trung kiểu Burberry Her có thể thấy J'adore hơi mature.
@@ -6107,9 +6107,9 @@ Dùng quanh năm — đi làm, gặp gỡ, tiệc, hẹn hò nhẹ. Xịt 2-3 nh
       { label: "Bad boy", icon: "🥃" },
       { label: "Xì gà", icon: "🚬" }
     ],
-    image: "/images/products/maison-margiela-jazz-club-main.jpg",
+    image: "/images/products/182-jazz-club-main.jpg",
     images: [
-      { url: "/images/products/maison-margiela-jazz-club-main.jpg", source: "fragram", caption: "Maison Margiela Replica Jazz Club Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/182-jazz-club-main.jpg", source: "fragram", caption: "Maison Margiela Replica Jazz Club Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -6171,8 +6171,8 @@ Giá Margiela Replica tầm trung — và concept "replicate a memory" (tái hi�
       { label: "Lả lơi", icon: "💋" },
       { label: "Cổ điển", icon: "🪞" }
     ],
-    image: "/images/products/098-jpg-classique-edt-main.jpg",
-    images: [{ url: "/images/products/098-jpg-classique-edt-main.jpg", source: "fragram", caption: "Jean Paul Gaultier Classique EDT chính hãng", verified: true }],
+    image: "/images/products/147-jpg-classique-edt-main.jpg",
+    images: [{ url: "/images/products/147-jpg-classique-edt-main.jpg", source: "fragram", caption: "Jean Paul Gaultier Classique EDT chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi sạch hiện đại — thì Classique quá RETRO. Chai hình corset thân phụ nữ — iconic nhất lịch sử nước hoa về mặt thiết kế. Mùi cũng vậy: hoa cam-gừng-vani ngọt ấm, kiểu sexy 90s. Jacques Cavallier (giờ ở Louis Vuitton) tạo ra chai này trước khi thành Master Perfumer. Ai thích clean-fresh sẽ thấy nó quá ngọt.
@@ -6232,9 +6232,9 @@ Giá tầm trung — rẻ hơn Dior, Chanel. Và bản EDT đã discontinued (th
       { label: "Hấp dẫn", icon: "🍐" },
       { label: "Ngọt lịm", icon: "🍰" }
     ],
-    image: "/images/products/099-jpg-la-belle-edp-main.jpg",
+    image: "/images/products/148-jpg-la-belle-edp-main.jpg",
     images: [
-      { url: "/images/products/099-jpg-la-belle-edp-main.jpg", source: "fragram", caption: "Jean Paul Gaultier La Belle Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/148-jpg-la-belle-edp-main.jpg", source: "fragram", caption: "Jean Paul Gaultier La Belle Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -6293,9 +6293,9 @@ Hẹn hò, đi chơi tối, tiệc, dịp đặc biệt. Xịt 2 nhát: cổ, c�
       { label: "Ma mị", icon: "🥀" },
       { label: "Clubbing", icon: "💃" }
     ],
-    image: "/images/products/100-jpg-la-belle-le-parfum-main.jpg",
+    image: "/images/products/149-jpg-la-belle-le-parfum-main.jpg",
     images: [
-      { url: "/images/products/100-jpg-la-belle-le-parfum-main.jpg", source: "fragram", caption: "Jean Paul Gaultier La Belle Le Parfum chính hãng", verified: true }
+      { url: "/images/products/149-jpg-la-belle-le-parfum-main.jpg", source: "fragram", caption: "Jean Paul Gaultier La Belle Le Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -6356,9 +6356,9 @@ Giá JPG tầm trung — rẻ hơn Dior/Chanel nhiều. So với La Belle EDP g�
       { label: "Lãng tử", icon: "🥥" },
       { label: "Quyến rũ", icon: "🏖️" }
     ],
-    image: "/images/products/101-jpg-le-beau-le-parfum-main.jpg",
+    image: "/images/products/150-jpg-le-beau-le-parfum-main.jpg",
     images: [
-      { url: "/images/products/101-jpg-le-beau-le-parfum-main.jpg", source: "fragram", caption: "Jean Paul Gaultier Le Beau Le Parfum chính hãng", verified: true }
+      { url: "/images/products/150-jpg-le-beau-le-parfum-main.jpg", source: "fragram", caption: "Jean Paul Gaultier Le Beau Le Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -6420,8 +6420,8 @@ Giá JPG thuộc phân khúc designer cao — rẻ hơn niche nhưng đắt hơn
       { label: "Bad boy", icon: "⚓" },
       { label: "Clubbing", icon: "🔥" }
     ],
-    image: "/images/products/102-jpg-le-male-edt-main.jpg",
-    images: [{ url: "/images/products/102-jpg-le-male-edt-main.jpg", source: "fragram", caption: "JPG Le Male Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/151-jpg-le-male-edt-main.jpg",
+    images: [{ url: "/images/products/151-jpg-le-male-edt-main.jpg", source: "fragram", caption: "JPG Le Male Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi sạch hiện đại kiểu Bleu de Chanel hay Sauvage thì Le Male will feel old-school — đây là mùi barbershop ngọt kiểu 90s. Ai ghét vanilla-lavender ngọt cũng nên tránh. Ngoài ra, người chơi lâu năm sẽ thấy mùi này rất quen — mỗi hiệu cắt tóc đều có một chai clone Le Male đâu đó.
@@ -6482,8 +6482,8 @@ Le Male thuộc phân khúc designer tầm trung — rẻ hơn Chanel và Dior. 
       { label: "Clubbing", icon: "🥃" },
       { label: "Xập xình", icon: "✨" }
     ],
-    image: "/images/products/103-jpg-le-male-elixir-main.jpg",
-    images: [{ url: "/images/products/103-jpg-le-male-elixir-main.jpg", source: "studio", caption: "JPG Le Male Elixir chính hãng", verified: true }],
+    image: "/images/products/152-jpg-le-male-elixir-main.jpg",
+    images: [{ url: "/images/products/152-jpg-le-male-elixir-main.jpg", source: "studio", caption: "JPG Le Male Elixir chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét ngọt — Elixir NGỌT. Rất ngọt. Vani-mật ong-đậu Tonka phủ lên oải hương Le Male quen thuộc, tạo ra bom ngọt mà ai đứng gần đều ngửi thấy. Đây là phiên bản Le Male ĐẬM NHẤT, tối nhất, gần gourmand nhất. Ai thích mùi sạch, sporty hay office sẽ thấy Elixir quá much. Trời nóng Sài Gòn mà xịt nhiều = ngộp.
@@ -6543,9 +6543,9 @@ Date night, đi bar, đi club, hoặc bất cứ tối nào muốn được KHEN
       { label: "Bí ẩn", icon: "♟️" },
       { label: "Lịch lãm", icon: "🕴️" }
     ],
-    image: "/images/products/104-jpg-le-male-le-parfum-main.jpg",
+    image: "/images/products/153-jpg-le-male-le-parfum-main.jpg",
     images: [
-      { url: "/images/products/104-jpg-le-male-le-parfum-main.jpg", source: "fragram", caption: "Jean Paul Gaultier Le Male Le Parfum chính hãng", verified: true }
+      { url: "/images/products/153-jpg-le-male-le-parfum-main.jpg", source: "fragram", caption: "Jean Paul Gaultier Le Male Le Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -6608,25 +6608,25 @@ Hẹn hò, đi chơi tối, tiệc, sự kiện. Xịt 2-3 nhát: cổ, sau tai,
       { label: "Quẩy nát", icon: "🍾" },
       { label: "Sát gái", icon: "😈" }
     ],
-    image: "/images/products/105-jpg-ultra-male-main.jpg",
+    image: "/images/products/154-jpg-ultra-male-main.jpg",
     images: [
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-chai-nuoc-hoa-5.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male chính hãng", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-chinh-hang-1.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 2", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-danh-gia-10.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 3", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-fullbox-6.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 4", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-gia-tot-7.jpg", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 5", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-mua-o-dau-12.jpg", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 6", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-mui-huong-9.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 7", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 8", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-phong-cach-17.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 9", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-review-2.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 10", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-sang-trong-16.jpg", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 11", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-so-sanh-8.jpg", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 12", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-that-hay-gia-13.jpg", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 13", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-thuc-te-3.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 14", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-top-nuoc-hoa-14.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 15", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-trai-nghiem-11.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 16", verified: true },
-      { url: "/images/products/105-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-unboxing-4.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 17", verified: true }
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-chai-nuoc-hoa-5.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male chính hãng", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-chinh-hang-1.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 2", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-danh-gia-10.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 3", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-fullbox-6.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 4", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-gia-tot-7.jpg", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 5", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-mua-o-dau-12.jpg", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 6", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-mui-huong-9.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 7", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 8", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-phong-cach-17.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 9", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-review-2.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 10", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-sang-trong-16.jpg", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 11", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-so-sanh-8.jpg", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 12", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-that-hay-gia-13.jpg", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 13", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-thuc-te-3.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 14", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-top-nuoc-hoa-14.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 15", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-trai-nghiem-11.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 16", verified: true },
+      { url: "/images/products/154-jpg-ultra-male/nuoc-hoa-jean-paul-gaultier-ultra-male-unboxing-4.webp", source: "owner", caption: "JEAN PAUL GAULTIER Ultra Male ảnh thực tế 17", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -6688,8 +6688,8 @@ Giá JPG rất tốt so với mặt bằng designer — rẻ hơn Dior và Chane
       { label: "Ngon miệng", icon: "🥧" },
       { label: "Bám trâu", icon: "🔥" }
     ],
-    image: "/images/products/lattafa-khamrah-main.jpg",
-    images: [{ url: "/images/products/lattafa-khamrah-main.jpg", source: "fragram", caption: "Lattafa Khamrah Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/166-khamrah-main.jpg",
+    images: [{ url: "/images/products/166-khamrah-main.jpg", source: "fragram", caption: "Lattafa Khamrah Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét mùi ngọt dày thì bỏ qua Khamrah luôn — nó ngọt rõ và đậm từ đầu đến cuối. Ở Sài Gòn nắng 35°C, xịt ban ngày dễ bị ngấy và áp lực. Những bạn thích kiểu sạch sẽ, thoáng mát như Acqua di Giò hay Bleu de Chanel sẽ thấy chai này quá nặng tay. Văn phòng nhỏ kín cũng không nên dùng vì mùi tỏa khá mạnh, chỉ cần 1-2 nhát là đã phủ cả phòng.
@@ -6752,9 +6752,9 @@ Nếu bạn ghét mùi ngọt dày thì bỏ qua Khamrah luôn — nó ngọt r�
       { label: "Hư hỏng", icon: "😈" },
       { label: "Quyến rũ", icon: "💼" }
     ],
-    image: "/images/products/guerlain-l-homme-ideal-eau-de-parfum-main.jpg",
+    image: "/images/products/121-l-homme-ideal-eau-de-parfum-main.jpg",
     images: [
-      { url: "/images/products/guerlain-l-homme-ideal-eau-de-parfum-main.jpg", source: "fragram", caption: "Guerlain L'Homme Idéal EDP chính hãng", verified: true }
+      { url: "/images/products/121-l-homme-ideal-eau-de-parfum-main.jpg", source: "fragram", caption: "Guerlain L'Homme Idéal EDP chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -6818,9 +6818,9 @@ Hẹn hò, ăn tối, Valentine's, hoặc định xin lỗi ai. Xịt 2-3 nhát:
       { label: "Phá cách", icon: "🤫" },
       { label: "Quyến rũ", icon: "💃" }
     ],
-    image: "/images/products/givenchy-l-interdit-eau-de-parfum-main.jpg",
+    image: "/images/products/105-l-interdit-eau-de-parfum-main.jpg",
     images: [
-      { url: "/images/products/givenchy-l-interdit-eau-de-parfum-main.jpg", source: "fragram", caption: "Givenchy L'Interdit Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/105-l-interdit-eau-de-parfum-main.jpg", source: "fragram", caption: "Givenchy L'Interdit Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -6883,9 +6883,9 @@ Hẹn hò, tiệc, buổi tối, dịp đặc biệt. Xịt 2 nhát: cổ, cổ 
       { label: "Nóng bỏng", icon: "👠" },
       { label: "Mị lực", icon: "🌶️" }
     ],
-    image: "/images/products/givenchy-l-interdit-eau-de-parfum-rouge-main.jpg",
+    image: "/images/products/106-l-interdit-eau-de-parfum-rouge-main.jpg",
     images: [
-      { url: "/images/products/givenchy-l-interdit-eau-de-parfum-rouge-main.jpg", source: "fragram", caption: "Givenchy L'Interdit Rouge EDP chính hãng", verified: true }
+      { url: "/images/products/106-l-interdit-eau-de-parfum-rouge-main.jpg", source: "fragram", caption: "Givenchy L'Interdit Rouge EDP chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -6946,9 +6946,9 @@ Giá Givenchy affordable — rẻ hơn Dior/Chanel. So với L'Interdit EDP gố
       { label: "Hẹn hò", icon: "🍷" },
       { label: "Lãng tử", icon: "✨" }
     ],
-    image: "/images/products/110-la-nuit-de-lhomme-main.jpg",
+    image: "/images/products/262-la-nuit-de-lhomme-main.jpg",
     images: [
-      { url: "/images/products/110-la-nuit-de-lhomme-main.jpg", source: "fragram", caption: "YSL La Nuit de L'Homme Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/262-la-nuit-de-lhomme-main.jpg", source: "fragram", caption: "YSL La Nuit de L'Homme Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -7010,9 +7010,9 @@ Hẹn hò buổi tối, ăn tối lãng mạn. Xịt 4-5 nhát vì rất nhanh t
       { label: "Neon xanh", icon: "⚡" },
       { label: "First-date 100%", icon: "💋" }
     ],
-    image: "/images/products/ysl-la-nuit-de-lhomme-bleu-electrique-main.jpg",
+    image: "/images/products/261-la-nuit-de-lhomme-bleu-electrique-main.jpg",
     images: [
-      { url: "/images/products/ysl-la-nuit-de-lhomme-bleu-electrique-main.jpg", source: "fragram", caption: "YSL La Nuit de L'Homme Bleu Électrique chính hãng", verified: true }
+      { url: "/images/products/261-la-nuit-de-lhomme-bleu-electrique-main.jpg", source: "fragram", caption: "YSL La Nuit de L'Homme Bleu Électrique chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -7076,9 +7076,9 @@ Giá YSL tầm trung — rẻ hơn Dior Sauvage. Điểm cộng lớn nhất: b�
       { label: "Quyền tỷ", icon: "👑" },
       { label: "Siêu tỏa", icon: "💥" }
     ],
-    image: "/images/products/lancome-la-vie-est-belle-main.jpg",
+    image: "/images/products/164-la-vie-est-belle-main.jpg",
     images: [
-      { url: "/images/products/lancome-la-vie-est-belle-main.jpg", source: "fragram", caption: "Lancôme La Vie Est Belle Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/164-la-vie-est-belle-main.jpg", source: "fragram", caption: "Lancôme La Vie Est Belle Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -7144,9 +7144,9 @@ Gần như mọi lúc ngoài đi biển: đi làm, đi chơi, gặp bạn, ăn t
       { label: "Sát gái", icon: "😈" },
       { label: "Vani Táo nướng", icon: "🍏" }
     ],
-    image: "/images/products/parfums-de-marly-layton-main.jpg",
+    image: "/images/products/214-layton-main.jpg",
     images: [
-      { url: "/images/products/parfums-de-marly-layton-main.jpg", source: "fragram", caption: "Parfums de Marly Layton Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/214-layton-main.jpg", source: "fragram", caption: "Parfums de Marly Layton Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -7207,9 +7207,9 @@ Quanh năm — đi làm, hẹn hò, gặp gỡ, dạo phố. Xịt 2 nhát — t
       { label: "Nữ hoàng", icon: "👑" },
       { label: "Lấp lánh", icon: "✨" }
     ],
-    image: "/images/products/elie-saab-le-parfum-main.jpg",
+    image: "/images/products/086-le-parfum-elie-saab-main.jpg",
     images: [
-      { url: "/images/products/elie-saab-le-parfum-main.jpg", source: "fragram", caption: "Elie Saab Le Parfum Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/086-le-parfum-elie-saab-main.jpg", source: "fragram", caption: "Elie Saab Le Parfum Eau de Parfum chính hãng", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -7261,8 +7261,8 @@ Quanh năm — đi làm, hẹn hò, gặp gỡ, dạo phố. Xịt 2 nhát — t
       { label: "Phù thủy", icon: "🧙‍♀️" },
       { label: "Quả táo độc", icon: "🍎" }
     ],
-    image: "/images/products/lolita-lempicka-le-parfum-main.jpg",
-    images: [{ url: "/images/products/lolita-lempicka-le-parfum-main.jpg", source: "fragram", caption: "Lolita Lempicka Le Parfum chính hãng", verified: true }],
+    image: "/images/products/171-le-parfum-lolita-main.jpg",
+    images: [{ url: "/images/products/171-le-parfum-lolita-main.jpg", source: "fragram", caption: "Lolita Lempicka Le Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét cam thảo (licorice) — dừng lại. Lolita Lempicka là chai KHAI SINH mùi cam thảo trong nước hoa nữ — và Le Parfum (phiên bản 2017) tiếp nối di sản đó: hồi + cam thảo đen tạo ra vị kẹo tối mà không ai khác dám copy. Annick Ménardo (cũng tạo Balenciaga Paris) giữ DNA gothic fairy của Lolita.
@@ -7323,9 +7323,9 @@ Thu đông, buổi tối, khi muốn mùi BÍ ẨN. Xịt 2-3 nhát: cổ và c�
       { label: "Thiền tịnh", icon: "⛩️" },
       { label: "Sắc lạnh", icon: "🍋" }
     ],
-    image: "/images/products/issey-miyake-leau-dissey-pour-homme-main.jpg",
+    image: "/images/products/146-leau-dissey-pour-homme-main.jpg",
     images: [
-      { url: "/images/products/issey-miyake-leau-dissey-pour-homme-main.jpg", source: "fragram", caption: "Issey Miyake L'Eau d'Issey Pour Homme chính hãng", verified: true }
+      { url: "/images/products/146-leau-dissey-pour-homme-main.jpg", source: "fragram", caption: "Issey Miyake L'Eau d'Issey Pour Homme chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -7388,8 +7388,8 @@ L'Eau d'Issey thuộc phân khúc entry-level — rẻ nhất nhóm cùng Cool W
       { label: "Lãng mạn", icon: "🌃" },
       { label: "Cổ điển", icon: "🎭" }
     ],
-    image: "/images/products/guerlain-lheure-bleue-edp-main.jpg",
-    images: [{ url: "/images/products/guerlain-lheure-bleue-edp-main.jpg", source: "fragram", caption: "Guerlain L'Heure Bleue EDP chính hãng", verified: true }],
+    image: "/images/products/119-l-heure-bleue-eau-de-parfum-main.jpg",
+    images: [{ url: "/images/products/119-l-heure-bleue-eau-de-parfum-main.jpg", source: "fragram", caption: "Guerlain L'Heure Bleue EDP chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn sinh sau 1990 — thì L'Heure Bleue có thể quá "cổ" để hiểu ngay lần đầu. Jacques Guerlain tạo ra chai này năm 1912 — HƠN 110 NĂM TRƯỚC — lấy cảm hứng từ khoảnh khắc "giờ xanh" trước khi mặt trời hoàn toàn lặn. Hoa tím-vani-anise phấn — mùi của một thế giới đã mất. Ai muốn mùi hiện đại sẽ không hiểu nó.
@@ -7449,8 +7449,8 @@ Hoàng hôn (theo đúng tên), ăn tối nhẹ, thời gian riêng, hoặc khi 
       { label: "Hoài cổ", icon: "🎞️" },
       { label: "Tnh tế", icon: "🕊️" }
     ],
-    image: "/images/products/guerlain-lheure-bleue-edt-main.jpg",
-    images: [{ url: "/images/products/guerlain-lheure-bleue-edt-main.jpg", source: "fragram", caption: "Guerlain L'Heure Bleue EDT chính hãng", verified: true }],
+    image: "/images/products/120-l-heure-bleue-eau-de-toilette-main.jpg",
+    images: [{ url: "/images/products/120-l-heure-bleue-eau-de-toilette-main.jpg", source: "fragram", caption: "Guerlain L'Heure Bleue EDT chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn đã có L'Heure Bleue EDP — EDT nhẹ hơn HẲN: bám ngắn hơn (4-5 giờ), tỏa gần hơn, ít vani hơn. Cùng Jacques Guerlain 1912, cùng concept "giờ xanh", nhưng EDT mỏng và dễ bay. Ai muốn full experience nên chọn EDP.
@@ -7513,8 +7513,8 @@ Ban ngày xuân nhẹ, đi dạo, uống trà, khi muốn L'Heure Bleue mà khô
       { label: "Sơ mi trắng", icon: "👔" },
       { label: "Văn phòng VIP", icon: "💼" }
     ],
-    image: "/images/products/prada-lhomme-main.jpg",
-    images: [{ url: "/images/products/prada-lhomme-main.jpg", source: "fragram", caption: "Prada L'Homme Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/221-lhomme-main.jpg",
+    images: [{ url: "/images/products/221-lhomme-main.jpg", source: "fragram", caption: "Prada L'Homme Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi ngọt ấm gây ấn tượng mạnh kiểu Sauvage Elixir hay Most Wanted thì Prada L'Homme hoàn toàn ngược — đây là mùi sạch, phấn, kín đáo và rất hiền. Ai đi tối muốn mùi sexy, cuốn cũng sẽ thất vọng vì L'Homme quá Clean cho mục đích đó. Nghe như xà phòng sang — nếu bạn ghét cảm giác đó thì nên tránh.
@@ -7572,9 +7572,9 @@ Prada L'Homme thuộc phân khúc designer tầm trung-cao. So với Luna Rossa 
       { label: "Lịch thiệp", icon: "🎩" },
       { label: "Sâu thẳm", icon: "🥃" }
     ],
-    image: "/images/products/guerlain-lhomme-ideal-parfum-main.jpg",
+    image: "/images/products/122-lhomme-ideal-parfum-main.jpg",
     images: [
-      { url: "/images/products/guerlain-lhomme-ideal-parfum-main.jpg", source: "fragram", caption: "Guerlain L'Homme Idéal Parfum chính hãng", verified: true }
+      { url: "/images/products/122-lhomme-ideal-parfum-main.jpg", source: "fragram", caption: "Guerlain L'Homme Idéal Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -7635,9 +7635,9 @@ Giá Guerlain Parfum — đắt hơn EDP nhưng bám 10+ giờ. So với EDP —
       { label: "Vest đen", icon: "🕴️" },
       { label: "Bí ẩn", icon: "🌒" }
     ],
-    image: "/images/products/prada-lhomme-intense-main.jpg",
+    image: "/images/products/222-lhomme-intense-main.jpg",
     images: [
-      { url: "/images/products/prada-lhomme-intense-main.jpg", source: "fragram", caption: "Prada L'Homme Intense Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/222-lhomme-intense-main.jpg", source: "fragram", caption: "Prada L'Homme Intense Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -7701,8 +7701,8 @@ Hẹn hò, ăn tối, buổi tối, gặp gỡ thân mật. Xịt 2-3 nhát: c�
       { label: "Nữ cường", icon: "👑" },
       { label: "Quyền lực", icon: "👠" }
     ],
-    image: "/images/products/ysl-libre-edp-main.jpg",
-    images: [{ url: "/images/products/ysl-libre-edp-main.jpg", source: "fragram", caption: "YSL Libre Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/263-libre-edp-main.jpg",
+    images: [{ url: "/images/products/263-libre-edp-main.jpg", source: "fragram", caption: "YSL Libre Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi nữ truyền thống — hoa hồng nhẹ, phấn thanh, ngọt dịu dàng — thì Libre sẽ gây hoang mang. Chai này có lavender rõ rệt, một thành phần thường chỉ xuất hiện trong nước hoa nam. Nhiều phụ nữ xịt lần đầu sẽ nói "mùi nước hoa con trai mà". Nếu bạn ngại mùi unisex-thiên-nam thì nên thử trước. Ngược lại, nếu bạn TÌM mùi phá cách khác biệt — thì đây là đúng chai.
@@ -7765,13 +7765,13 @@ Giá tầm trung YSL — tương đương Dior và Chanel. Libre đặc biệt �
       { label: "Bốc lửa", icon: "🔥" },
       { label: "Sắc sảo", icon: "😎" }
     ],
-    image: "/images/products/ysl-libre-intense-main.jpg",
+    image: "/images/products/264-libre-intense-main.jpg",
     images: [
-      { url: "/images/products/123-libre-intense/nuoc-hoa-ysl-libre-intense-chai-nuoc-hoa-5.jpg", source: "owner", caption: "YVES SAINT LAURENT Libre Intense chính hãng", verified: true },
-      { url: "/images/products/123-libre-intense/nuoc-hoa-ysl-libre-intense-chinh-hang-1.jpg", source: "owner", caption: "YVES SAINT LAURENT Libre Intense ảnh thực tế 2", verified: true },
-      { url: "/images/products/123-libre-intense/nuoc-hoa-ysl-libre-intense-review-2.jpg", source: "owner", caption: "YVES SAINT LAURENT Libre Intense ảnh thực tế 3", verified: true },
-      { url: "/images/products/123-libre-intense/nuoc-hoa-ysl-libre-intense-thuc-te-3.jpg", source: "owner", caption: "YVES SAINT LAURENT Libre Intense ảnh thực tế 4", verified: true },
-      { url: "/images/products/123-libre-intense/nuoc-hoa-ysl-libre-intense-unboxing-4.jpg", source: "owner", caption: "YVES SAINT LAURENT Libre Intense ảnh thực tế 5", verified: true }
+      { url: "/images/products/264-libre-intense/nuoc-hoa-ysl-libre-intense-chai-nuoc-hoa-5.jpg", source: "owner", caption: "YVES SAINT LAURENT Libre Intense chính hãng", verified: true },
+      { url: "/images/products/264-libre-intense/nuoc-hoa-ysl-libre-intense-chinh-hang-1.jpg", source: "owner", caption: "YVES SAINT LAURENT Libre Intense ảnh thực tế 2", verified: true },
+      { url: "/images/products/264-libre-intense/nuoc-hoa-ysl-libre-intense-review-2.jpg", source: "owner", caption: "YVES SAINT LAURENT Libre Intense ảnh thực tế 3", verified: true },
+      { url: "/images/products/264-libre-intense/nuoc-hoa-ysl-libre-intense-thuc-te-3.jpg", source: "owner", caption: "YVES SAINT LAURENT Libre Intense ảnh thực tế 4", verified: true },
+      { url: "/images/products/264-libre-intense/nuoc-hoa-ysl-libre-intense-unboxing-4.jpg", source: "owner", caption: "YVES SAINT LAURENT Libre Intense ảnh thực tế 5", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -7836,8 +7836,8 @@ Giá YSL — cùng tier Libre gốc. Flipo + Benaïm giữ DNA oải hương-hoa
       { label: "Quyền lực đỉnh", icon: "👑" },
       { label: "Mật đắt tiền", icon: "🍯" }
     ],
-    image: "/images/products/ysl-libre-le-parfum-main.jpg",
-    images: [{ url: "/images/products/ysl-libre-le-parfum-main.jpg", source: "fragram", caption: "YSL Libre Le Parfum chính hãng", verified: true }],
+    image: "/images/products/266-libre-le-parfum-main.jpg",
+    images: [{ url: "/images/products/266-libre-le-parfum-main.jpg", source: "fragram", caption: "YSL Libre Le Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thấy Libre gốc đã đủ — thì Le Parfum quá nặng. Đây là Libre MAX: Anne Flipo đẩy vani và amber lên nồng độ Parfum, tạo ra phiên bản NỮ MẠNH nhất lineup. Oải hương vẫn có nhưng bị vani phủ nặng. Ai thích Libre vì tươi sáng sẽ thất vọng.
@@ -7915,9 +7915,9 @@ Mùa hè, ngày oi bức, đi biển, đi gym, dạo phố ban ngày.`,
     basePrice: 2000000,
     shopeeOffers: [],
     isPublished: true,
-    image: "/images/products/dg-light-blue-intense-homme-main.jpg",
+    image: "/images/products/082-light-blue-intense-homme-main.jpg",
     images: [
-      { url: "/images/products/dg-light-blue-intense-homme-main.jpg", source: "studio", caption: "Dolce & Gabbana Light Blue Eau Intense Pour Homme chính hãng", verified: true }
+      { url: "/images/products/082-light-blue-intense-homme-main.jpg", source: "studio", caption: "Dolce & Gabbana Light Blue Eau Intense Pour Homme chính hãng", verified: true }
     ],
 },
   {
@@ -7964,9 +7964,9 @@ Mùa hè, ngày oi bức, đi biển, đi gym, dạo phố ban ngày.`,
       { label: "Kinh điển", icon: "🌞" },
       { label: "Sạch sẽ", icon: "🍃" }
     ],
-    image: "/images/products/dolce-gabbana-light-blue-pour-femme-main.jpg",
+    image: "/images/products/083-light-blue-pour-femme-main.jpg",
     images: [
-      { url: "/images/products/dolce-gabbana-light-blue-pour-femme-main.jpg", source: "fragram", caption: "Dolce & Gabbana Light Blue Pour Femme chính hãng", verified: true }
+      { url: "/images/products/083-light-blue-pour-femme-main.jpg", source: "fragram", caption: "Dolce & Gabbana Light Blue Pour Femme chính hãng", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -8020,9 +8020,9 @@ Mùa hè, ngày oi bức, đi biển, đi gym, dạo phố ban ngày.`,
       { label: "Soái ca", icon: "🤵🏻‍♂️" },
       { label: "Phong trần", icon: "🌊" }
     ],
-    image: "/images/products/louis-vuitton-limmensite-main.jpg",
+    image: "/images/products/173-limmensite-main.jpg",
     images: [
-      { url: "/images/products/louis-vuitton-limmensite-main.jpg", source: "fragram", caption: "Louis Vuitton L'Immensité Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/173-limmensite-main.jpg", source: "fragram", caption: "Louis Vuitton L'Immensité Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -8083,9 +8083,9 @@ Quanh năm — đi làm, gặp khách, du lịch, dạo phố. Xịt 2-3 nhát: 
       { label: "Rực rỡ", icon: "🌞" },
       { label: "Dịu dàng", icon: "🍯" }
     ],
-    image: "/images/products/guerlain-linstant-de-guerlain-femme-main.jpg",
+    image: "/images/products/123-linstant-de-guerlain-femme-main.jpg",
     images: [
-      { url: "/images/products/guerlain-linstant-de-guerlain-femme-main.jpg", source: "fragram", caption: "Guerlain L'Instant Femme EDP chính hãng", verified: true }
+      { url: "/images/products/123-linstant-de-guerlain-femme-main.jpg", source: "fragram", caption: "Guerlain L'Instant Femme EDP chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -8146,9 +8146,9 @@ Ban ngày, đi cafe, cuối tuần, hoặc khi muốn comfort. Xịt 3 nhát c�
       { label: "Trí thức", icon: "📚" },
       { label: "Bí ẩn", icon: "🤎" }
     ],
-    image: "/images/products/linstant-de-guerlain-pour-homme-main.jpg",
+    image: "/images/products/124-linstant-homme-edp-main.jpg",
     images: [
-      { url: "/images/products/linstant-de-guerlain-pour-homme-main.jpg", source: "fragram", caption: "Guerlain L'Instant Homme EDP chính hãng", verified: true }
+      { url: "/images/products/124-linstant-homme-edp-main.jpg", source: "fragram", caption: "Guerlain L'Instant Homme EDP chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -8212,8 +8212,8 @@ Giá Guerlain tầm trung — và EDP bám 8+ giờ. So với L'Homme Idéal EDP
       { label: "Bánh ngọt", icon: "🍰" },
       { label: "Muốn cắn", icon: "🤤" }
     ],
-    image: "/images/products/xerjoff-lira-main.jpg",
-    images: [{ url: "/images/products/xerjoff-lira-main.jpg", source: "fragram", caption: "Xerjoff Lira Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/252-lira-main.jpg",
+    images: [{ url: "/images/products/252-lira-main.jpg", source: "fragram", caption: "Xerjoff Lira Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét mùi ngọt thì Lira quá ngọt — caramel, vani và cam đỏ tạo nên gourmand rất rõ. Ai thích mùi sạch tươi hoặc mùi hoa thanh cũng sẽ thấy chai này quá đậm. Dùng ban ngày nóng sẽ hơi ngọp.
@@ -8277,9 +8277,9 @@ Mùa thu đông, buổi tối, dịp đặc biệt, hẹn hò. Xịt 1-2 nhát �
       { label: "Hư hỏng", icon: "🍒" },
       { label: "Rượu anh đào", icon: "🍷" }
     ],
-    image: "/images/products/tom-ford-lost-cherry-main.jpg",
+    image: "/images/products/230-lost-cherry-main.jpg",
     images: [
-      { url: "/images/products/tom-ford-lost-cherry-main.jpg", source: "fragram", caption: "Tom Ford Lost Cherry Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/230-lost-cherry-main.jpg", source: "fragram", caption: "Tom Ford Lost Cherry Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -8343,9 +8343,9 @@ Mùa thu đông, buổi tối, hẹn hò, dịp đặc biệt. Xịt 1-2 nhát �
       { label: "Ngọt gắt", icon: "🧁" },
       { label: "Đắm chìm", icon: "💕" }
     ],
-    image: "/images/products/kilian-love-dont-be-shy-main.jpg",
+    image: "/images/products/160-love-dont-be-shy-main.jpg",
     images: [
-      { url: "/images/products/kilian-love-dont-be-shy-main.jpg", source: "fragram", caption: "Kilian Love, don't be shy Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/160-love-dont-be-shy-main.jpg", source: "fragram", caption: "Kilian Love, don't be shy Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -8406,9 +8406,9 @@ Hẹn hò, sinh nhật, Giáng sinh, Valentine — những dịp ngọt ngào. X
       { label: "Bad Boy", icon: "🏍️" },
       { label: "Áo khoác da", icon: "🧥" }
     ],
-    image: "/images/products/prada-luna-rossa-black-main.jpg",
+    image: "/images/products/223-luna-rossa-black-main.jpg",
     images: [
-      { url: "/images/products/prada-luna-rossa-black-main.jpg", source: "fragram", caption: "Prada Luna Rossa Black Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/223-luna-rossa-black-main.jpg", source: "fragram", caption: "Prada Luna Rossa Black Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -8471,9 +8471,9 @@ Mùa thu đông, buổi tối, hẹn hò, gặp gỡ. Xịt 2-3 nhát: cổ, ng�
       { label: "Siêu xe đua", icon: "🏎️" },
       { label: "Lạnh lùng", icon: "🧊" }
     ],
-    image: "/images/products/prada-luna-rossa-carbon-main.jpg",
+    image: "/images/products/224-luna-rossa-carbon-main.jpg",
     images: [
-      { url: "/images/products/prada-luna-rossa-carbon-main.jpg", source: "fragram", caption: "Prada Luna Rossa Carbon Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/224-luna-rossa-carbon-main.jpg", source: "fragram", caption: "Prada Luna Rossa Carbon Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -8520,9 +8520,9 @@ Luna Rossa Carbon rẻ hơn Sauvage khoảng 20-30%, và đó là lý do nó t�
       {"name": "Rượu", "value": 80, "color": "#a0522d"},
       {"name": "Hổ phách", "value": 75, "color": "#d2691e"}
     ],
-    image: "/images/products/bvlgari-man-in-black-main.jpg",
+    image: "/images/products/016-man-in-black-main.jpg",
     images: [
-      { url: "/images/products/bvlgari-man-in-black-main.jpg", source: "fragram", caption: "Bvlgari Man In Black Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/016-man-in-black-main.jpg", source: "fragram", caption: "Bvlgari Man In Black Eau de Parfum chính hãng", verified: true }
     ],
     description: "Chai nam tối, ấm và khá sang — rum, gia vị, da thuộc, iris và đậu Tonka. Rất trưởng thành và có khí chất. Hợp đi tối, hẹn hò hoặc dịp lịch sự.",
     article: `### Ai không nên mua?
@@ -8585,8 +8585,8 @@ Man In Black thuộc phân khúc designer tầm trung — rẻ hơn D&G The One 
       { label: "Huyền thoại", icon: "🌙" },
       { label: "Quyến rũ", icon: "🫦" }
     ],
-    image: "/images/products/dior-midnight-poison-main.jpg",
-    images: [{ url: "/images/products/dior-midnight-poison-main.jpg", source: "fragram", caption: "Dior Midnight Poison chính hãng", verified: true }],
+    image: "/images/products/070-midnight-poison-main.jpg",
+    images: [{ url: "/images/products/070-midnight-poison-main.jpg", source: "fragram", caption: "Dior Midnight Poison chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn muốn mua dễ — thì Midnight Poison DISCONTINUED. Dior ngừng sản xuất từ lâu và giá secondhand tăng liên tục. Chai nổi tiếng vì Eva Green quảng cáo — tóc đen, áo đen, nửa đêm. Mùi cũng vậy: hồng tối, hổ phách nặng, hoắc hương black. Ai thích mùi nhẹ sẽ thấy nó quá "midnight".
@@ -8645,9 +8645,9 @@ Discontinued = giá collector. Demachy tạo DNA hồng-hổ phách mà Poison g
       { label: "Ngọt ngào", icon: "🌷" },
       { label: "Tinh tế", icon: "🎀" }
     ],
-    image: "/images/products/137-miss-dior-blooming-bouquet-main.jpg",
+    image: "/images/products/071-miss-dior-blooming-bouquet-main.jpg",
     images: [
-      { url: "/images/products/137-miss-dior-blooming-bouquet-main.jpg", source: "fragram", caption: "Miss Dior Blooming Bouquet Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/071-miss-dior-blooming-bouquet-main.jpg", source: "fragram", caption: "Miss Dior Blooming Bouquet Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -8710,8 +8710,8 @@ Blooming Bouquet thuộc phân khúc designer cao cấp Dior — giá tương đ
       { label: "Huyền thoại", icon: "🍓" },
       { label: "Cá tính", icon: "⚡" }
     ],
-    image: "/images/products/dior-miss-dior-cherie-main.jpg",
-    images: [{ url: "/images/products/dior-miss-dior-cherie-main.jpg", source: "fragram", caption: "Dior Miss Dior Chérie chính hãng", verified: true }],
+    image: "/images/products/072-miss-dior-cherie-main.jpg",
+    images: [{ url: "/images/products/072-miss-dior-cherie-main.jpg", source: "fragram", caption: "Dior Miss Dior Chérie chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Không thể mua mới — Miss Dior Chérie DISCONTINUED từ lâu. Chai này nổi tiếng vì nốt POPCORN — bắp rang bơ — cực kỳ vui và khác biệt. Christine Nagel (giờ ở Hermès) tạo ra combo dâu tây-popcorn-hoắc hương mà không ai dám lặp lại. Ai tìm được vintage bottle nên giữ chặt.
@@ -8772,8 +8772,8 @@ Ban ngày, đi chơi, picnic, hoặc khi nào muốn VUI. Chai này = nụ cư�
       { label: "Bất diệt", icon: "🖼️" },
       { label: "Vương giả", icon: "👑" }
     ],
-    image: "/images/products/mitsouko-main.jpg",
-    images: [{ url: "/images/products/mitsouko-main.jpg", source: "fragram", caption: "Guerlain Mitsouko EDP chính hãng", verified: true }],
+    image: "/images/products/125-mitsouko-edp-main.jpg",
+    images: [{ url: "/images/products/125-mitsouko-edp-main.jpg", source: "fragram", caption: "Guerlain Mitsouko EDP chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn chưa bao giờ ngửi chypre — thì Mitsouko sẽ khó hiểu lần đầu. Jacques Guerlain tạo chai này năm 1919, lấy cảm hứng từ tiểu thuyết "La Bataille" — câu chuyện tình của cô gái Nhật Bản tên Mitsouko. Chypre = bergamot + rêu sồi + labdanum — kiểu mùi mà phải ngửi 3 lần mới thấy đẹp. Ai muốn sweet-easy sẽ không hiểu.
@@ -8833,9 +8833,9 @@ Sự kiện trang trọng, opera, triển lãm nghệ thuật. Xịt 2 nhát c�
       { label: "Nữ tính", icon: "👗" },
       { label: "Lôi cuốn", icon: "✨" }
     ],
-    image: "/images/products/guerlain-mon-guerlain-main.jpg",
+    image: "/images/products/126-mon-guerlain-main.jpg",
     images: [
-      { url: "/images/products/guerlain-mon-guerlain-main.jpg", source: "fragram", caption: "Guerlain Mon Guerlain Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/126-mon-guerlain-main.jpg", source: "fragram", caption: "Guerlain Mon Guerlain Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -8897,9 +8897,9 @@ Dùng quanh năm — đi làm, gặp gỡ, cà phê, hẹn hò nhẹ. Xịt 2-3 
       { label: "Gây nghiện", icon: "💋" },
       { label: "Sâu sắc", icon: "🍷" }
     ],
-    image: "/images/products/guerlain-mon-guerlain-intense-main.jpg",
+    image: "/images/products/127-mon-guerlain-intense-main.jpg",
     images: [
-      { url: "/images/products/guerlain-mon-guerlain-intense-main.jpg", source: "fragram", caption: "Guerlain Mon Guerlain Intense chính hãng", verified: true }
+      { url: "/images/products/127-mon-guerlain-intense-main.jpg", source: "fragram", caption: "Guerlain Mon Guerlain Intense chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -8963,8 +8963,8 @@ Giá Guerlain Intense — hơi đắt hơn gốc. So với Mon Guerlain EDP — 
       { label: "Nụ hôn Pháp", icon: "💋" },
       { label: "Berry đỏ", icon: "🍓" }
     ],
-    image: "/images/products/ysl-mon-paris-edp-main.jpg",
-    images: [{ url: "/images/products/ysl-mon-paris-edp-main.jpg", source: "fragram", caption: "YSL Mon Paris EDP chính hãng", verified: true }],
+    image: "/images/products/267-mon-paris-edp-main.jpg",
+    images: [{ url: "/images/products/267-mon-paris-edp-main.jpg", source: "fragram", caption: "YSL Mon Paris EDP chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét mùi ngọt trái cây — Mon Paris NGỌT: dâu tây-mẫu đơn-hoắc hương kiểu yêu điên cuồng. Tên = Paris CỦA TÔI. YSL tạo ra chai dành cho "tình yêu điên" — not gentle love. Harry Fremont + Dora Baghriche mix chypre modern + gourmand = kết quả là trái cây hoa TỐI hơn bạn tưởng.
@@ -9024,9 +9024,9 @@ Giá YSL — affordable. So với La Vie Est Belle — cùng nhóm nữ best-sel
       { label: "Xác thịt", icon: "💋" },
       { label: "Khiêu gợi", icon: "💃" }
     ],
-    image: "/images/products/narciso-rodriguez-musc-noir-rose-for-her-main.jpg",
+    image: "/images/products/202-musc-noir-rose-for-her-main.jpg",
     images: [
-      { url: "/images/products/narciso-rodriguez-musc-noir-rose-for-her-main.jpg", source: "fragram", caption: "NR Musc Noir Rose For Her chính hãng", verified: true }
+      { url: "/images/products/202-musc-noir-rose-for-her-main.jpg", source: "fragram", caption: "NR Musc Noir Rose For Her chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -9088,9 +9088,9 @@ Giá NR tầm trung — và For Her line bám cực tốt (7-8 giờ) nhờ xạ
       { label: "Xác thịt", icon: "💋" },
       { label: "Vương giả", icon: "👑" }
     ],
-    image: "/images/products/frederic-malle-musc-ravageur-main.jpg",
+    image: "/images/products/092-musc-ravageur-main.jpg",
     images: [
-      { url: "/images/products/frederic-malle-musc-ravageur-main.jpg", source: "fragram", caption: "Frederic Malle Musc Ravageur chính hãng", verified: true }
+      { url: "/images/products/092-musc-ravageur-main.jpg", source: "fragram", caption: "Frederic Malle Musc Ravageur chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -9151,8 +9151,8 @@ Giá Frederic Malle — đắt top niche. Nhưng DNA ở đây không ai copy đ
       { label: "Chữa lành", icon: "☁️" },
       { label: "Trắng muốt", icon: "🕊️" }
     ],
-    image: "/images/products/initio-musk-therapy-main.jpg",
-    images: [{ url: "/images/products/initio-musk-therapy-main.jpg", source: "fragram", caption: "Initio Musk Therapy chính hãng", verified: true }],
+    image: "/images/products/144-musk-therapy-main.jpg",
+    images: [{ url: "/images/products/144-musk-therapy-main.jpg", source: "fragram", caption: "Initio Musk Therapy chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn muốn mùi tỏa xa — Musk Therapy GẦN DA. Alberto Morillas (CK One, Acqua di Gio Profumo) tạo chai này kiểu liệu pháp xạ hương: ấm, mượt, trùm lên da rồi ngồi yên. Initio gọi đây là nước hoa "chữa lành" — và đúng vậy: nó relax, không aggressive. Ai thích mùi mạnh sẽ thấy nó quá nhẹ.
@@ -9219,8 +9219,8 @@ Mọi lúc — đi làm, cuối tuần, ngủ, hoặc khi cần bình yên. Xị
       { label: "Cổ điển", icon: "⏳" },
       { label: "Khoảng cách", icon: "❄️" }
     ],
-    image: "/images/products/146-no-19-eau-de-toilette-main.jpg",
-    images: [{ url: "/images/products/146-no-19-eau-de-toilette-main.jpg", source: "studio", caption: "N°19 Eau de Toilette chính hãng", verified: true }],
+    image: "/images/products/039-no-19-eau-de-toilette-main.jpg",
+    images: [{ url: "/images/products/039-no-19-eau-de-toilette-main.jpg", source: "studio", caption: "N°19 Eau de Toilette chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn đã có N°19 EDP — EDT mỏng hơn nhiều: bám 3-4 giờ, tỏa ít, galbanum xanh bay nhanh. Cùng Henri Robert 1970, cùng DNA, nhưng EDT chỉ giữ lại khung xương mà thiếu thịt. Ai muốn full experience chọn EDP.
@@ -9283,8 +9283,8 @@ Ban ngày mùa hè, đi dạo, khi muốn N°19 mà trời nóng. Xịt 4-5 nhá
       { label: "Giới siêu giàu", icon: "💰" },
       { label: "Xì gà mật", icon: "🍯" }
     ],
-    image: "/images/products/xerjoff-naxos-main.jpg",
-    images: [{ url: "/images/products/xerjoff-naxos-main.jpg", source: "fragram", caption: "Xerjoff Naxos Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/253-naxos-main.jpg",
+    images: [{ url: "/images/products/253-naxos-main.jpg", source: "fragram", caption: "Xerjoff Naxos Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi sạch tươi nhẹ nhàng thì Naxos quá ngọt, quá ấm và quá gourmand cho gu đó. Ai ghét mùi thuốc lá hoặc mật ong cũng nên tránh. Đây là chai mùa đông — dùng hè sẽ ngọp.
@@ -9349,8 +9349,8 @@ Mùa thu đông, buổi tối, hẹn hò, dịp đặc biệt. Xịt 1-2 nhát �
       { label: "Kiêu kỳ", icon: "👸" },
       { label: "Lạnh lùng", icon: "🧊" }
     ],
-    image: "/images/products/chanel-no-19-eau-de-parfum-main.jpg",
-    images: [{ url: "/images/products/chanel-no-19-eau-de-parfum-main.jpg", source: "fragram", caption: "Chanel N°19 EDP chính hãng", verified: true }],
+    image: "/images/products/038-no-19-eau-de-parfum-main.jpg",
+    images: [{ url: "/images/products/038-no-19-eau-de-parfum-main.jpg", source: "fragram", caption: "Chanel N°19 EDP chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích ngọt — N°19 là ANTONYM của ngọt. Henri Robert tạo năm 1970 (ngày sinh Coco Chanel 19/8): galbanum xanh sắc, iris bột, gỗ khô — không một chút đường nào. Đây là Chanel XHI ẲN nhất và XANH nhất. Ai quen Coco Mademoiselle ngọt sẽ shock.
@@ -9412,8 +9412,8 @@ Giá Chanel — và N°19 thuộc heritage, 50+ năm. EDP đậm hơn EDT. So v�
       { label: "Nữ tính", icon: "💅" },
       { label: "Thanh tú", icon: "🦢" }
     ],
-    image: "/images/products/chanel-no-19-poudre-main.jpg",
-    images: [{ url: "/images/products/chanel-no-19-poudre-main.jpg", source: "fragram", caption: "Chanel N°19 Poudré chính hãng", verified: true }],
+    image: "/images/products/040-no-19-poudre-main.jpg",
+    images: [{ url: "/images/products/040-no-19-poudre-main.jpg", source: "fragram", caption: "Chanel N°19 Poudré chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích N°19 gốc vì SẮC — thì Poudré bớt sắc đi, thêm MỀM vào. Jacques Polge thêm lớp iris bột phấn phủ lên galbanum xanh, giảm sharp. Kết quả: N°19 nhẹ nhàng hơn, feminine hơn, dễ tiếp cận hơn — nhưng mất đi "vũ khí" xanh sắc gốc.
@@ -9478,8 +9478,8 @@ Giá Chanel — cùng tier N°19 gốc. So với N°19 EDP — Poudré mềm hơ
       { label: "Kinh điển", icon: "🥇" },
       { label: "Quyền uy", icon: "👑" }
     ],
-    image: "/images/products/chanel-no-5-eau-de-parfum-main.jpg",
-    images: [{ url: "/images/products/chanel-no-5-eau-de-parfum-main.jpg", source: "fragram", caption: "Chanel N°5 Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/041-no-5-eau-de-parfum-main.jpg",
+    images: [{ url: "/images/products/041-no-5-eau-de-parfum-main.jpg", source: "fragram", caption: "Chanel N°5 Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi trẻ trung, ngọt dễ thương kiểu Victoria's Secret hay Ariana Grande thì N°5 EDP sẽ quá "bà" cho gu của bạn. Đây là mùi aldehyde hoa cổ điển — phấn, xà phòng và hoa trắng rất rõ. Người dưới 25 tuổi thường thấy N°5 quá mature. Ngoài ra, ai ghét cảm giác phấn bột hoặc mùi xà phòng sang nên tránh.
@@ -9544,9 +9544,9 @@ Chanel N°5 thuộc phân khúc designer cao cấp nhất — bạn không chỉ
       { label: "Thanh lịch", icon: "🦢" },
       { label: "Hoài cổ", icon: "🎞️" }
     ],
-    image: "/images/products/chanel-no-5-eau-de-toilette-main.jpg",
+    image: "/images/products/042-no-5-eau-de-toilette-main.jpg",
     images: [
-      { url: "/images/products/chanel-no-5-eau-de-toilette-main.jpg", source: "fragram", caption: "Chanel N°5 Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/042-no-5-eau-de-toilette-main.jpg", source: "fragram", caption: "Chanel N°5 Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -9609,8 +9609,8 @@ Dùng hằng ngày — đi làm, đi cà phê, gặp gỡ. Xịt 2-3 nhát: cổ
       { label: "Đắt tiền", icon: "💎" },
       { label: "Xúc giác", icon: "🧴" }
     ],
-    image: "/images/products/chanel-no-5-parfum-main.jpg",
-    images: [{ url: "/images/products/chanel-no-5-parfum-main.jpg", source: "fragram", caption: "Chanel N°5 Parfum chính hãng", verified: true }],
+    image: "/images/products/043-no-5-parfum-main.jpg",
+    images: [{ url: "/images/products/043-no-5-parfum-main.jpg", source: "fragram", caption: "Chanel N°5 Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn muốn mùi hiện đại trendy — N°5 là MẸ CỦA MỌI NƯỚC HOA. Ernest Beaux tạo năm 1921 — hơn 100 năm trước — và nó VẪN bán chạy nhất thế giới. Aldehyde tạo hiệu ứng "bong bóng xà phòng sang" mà trước 1921 chưa ai dùng. Marilyn Monroe ngủ với nó. Ai muốn unique-underground sẽ thấy N°5 quá mainstream.
@@ -9674,9 +9674,9 @@ Dịp đặc biệt, sự kiện, khi muốn mùi hương QUYỀN LỰC. Dabbing
       { label: "Lãng tử", icon: "🌹" },
       { label: "Hẹn hò đêm", icon: "🕯️" }
     ],
-    image: "/images/products/153-noir-extreme-main.jpg",
+    image: "/images/products/231-noir-extreme-main.jpg",
     images: [
-      { url: "/images/products/153-noir-extreme-main.jpg", source: "ebay", caption: "Tom Ford Noir Extreme Eau de Parfum chai và hộp", verified: true },
+      { url: "/images/products/231-noir-extreme-main.jpg", source: "ebay", caption: "Tom Ford Noir Extreme Eau de Parfum chai và hộp", verified: true },
 
     ],
     article: `### Ai không nên mua?
@@ -9743,8 +9743,8 @@ Buổi tối, hẹn hò, tiệc, sự kiện hoặc trời mát. Xịt 2 nhát: 
       { label: "Tự do", icon: "🦅" },
       { label: "Cá tính", icon: "🔥" }
     ],
-    image: "/images/products/chloe-nomade-edp-main.jpg",
-    images: [{ url: "/images/products/chloe-nomade-edp-main.jpg", source: "fragram", caption: "Chloé Nomade Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/045-nomade-edp-main.jpg",
+    images: [{ url: "/images/products/045-nomade-edp-main.jpg", source: "fragram", caption: "Chloé Nomade Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi ngọt đậm sexy kiểu Good Girl hay Black Opium thì Nomade sẽ quá thanh và quá chypre cho gu đó. Đây là mùi trái cây-hoa-rêu — thanh lịch nhưng thiếu drama. Ai thích mùi nữ cổ điển ngọt ôm cũng sẽ thấy Nomade hơi khô và hơi hiện đại quá.
@@ -9804,21 +9804,21 @@ Nomade thuộc phân khúc Chloé — rẻ hơn Chanel nhưng tương đương A
       { label: "Bụi bặm", icon: "🏍️" },
       { label: "Áo khoác da", icon: "🧥" }
     ],
-    image: "/images/products/tom-ford-ombre-leather-main.jpg",
+    image: "/images/products/232-ombre-leather-main.jpg",
     video: "/videos/tom-ford-ombre-leather.mp4",
     images: [
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP chính hãng", verified: true },
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-chinh-hang-1.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-danh-gia-10.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-fullbox-6.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-gia-tot-7.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-mua-o-dau-12.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-mui-huong-9.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-review-2.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-so-sanh-8.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-thuc-te-3.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-trai-nghiem-11.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 11", verified: true },
-      { url: "/images/products/155-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-unboxing-4.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 12", verified: true }
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP chính hãng", verified: true },
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-chinh-hang-1.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-danh-gia-10.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-fullbox-6.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-gia-tot-7.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-mua-o-dau-12.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-mui-huong-9.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-review-2.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-so-sanh-8.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-thuc-te-3.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-trai-nghiem-11.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 11", verified: true },
+      { url: "/images/products/232-ombre-leather/nuoc-hoa-tom-ford-ombre-leather-edp-unboxing-4.webp", source: "owner", caption: "TOM FORD Ombré Leather EDP ảnh thực tế 12", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -9881,9 +9881,9 @@ Mùa thu đông, buổi tối, sự kiện, áo da jacket. Xịt 2 nhát: cổ, 
       { label: "Chủ tịch", icon: "💎" },
       { label: "Bạo chúa", icon: "🌋" }
     ],
-    image: "/images/products/louis-vuitton-ombre-nomade-main.jpg",
+    image: "/images/products/174-ombre-nomade-main.jpg",
     images: [
-      { url: "/images/products/louis-vuitton-ombre-nomade-main.jpg", source: "fragram", caption: "Louis Vuitton Ombre Nomade chính hãng", verified: true }
+      { url: "/images/products/174-ombre-nomade-main.jpg", source: "fragram", caption: "Louis Vuitton Ombre Nomade chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -9947,8 +9947,8 @@ Sự kiện VIP, gala, hoặc khi muốn LUXURY level max. Xịt 1-2 nhát cổ.
       { label: "Hoài cổ", icon: "🕰️" },
       { label: "Ả đào cay", icon: "🔥" }
     ],
-    image: "/images/products/ysl-opium-edt-main.jpg",
-    images: [{ url: "/images/products/ysl-opium-edt-main.jpg", source: "fragram", caption: "YSL Opium EDT chính hãng", verified: true }],
+    image: "/images/products/268-opium-edt-main.jpg",
+    images: [{ url: "/images/products/268-opium-edt-main.jpg", source: "fragram", caption: "YSL Opium EDT chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn dưới 30 — Opium có thể quá "mẹ". Ra đời 1977, gây BÊ BỐI vì tên (thuốc phiện!) và mùi: gia vị nặng (đinh hương, quế, nhục đậu khấu) trên nền hổ phách-vani dày. Đây là POWERHOUSE nữ gốc — kiểu mùi mà cả phòng biết bạn đến. YSL thời Yves Saint Laurent còn sống — bold, provocative, không xin phép ai.
@@ -10014,8 +10014,8 @@ Sự kiện tối, opera, hoặc khi muốn PRESENCE. Xịt 2-3 nhát cổ. Thu 
       { label: "Quyền quý", icon: "👑" },
       { label: "Hoài niệm", icon: "⏳" }
     ],
-    image: "/images/products/givenchy-organza-main.jpg",
-    images: [{ url: "/images/products/givenchy-organza-main.jpg", source: "fragram", caption: "Givenchy Organza EDP chính hãng", verified: true }],
+    image: "/images/products/107-organza-main.jpg",
+    images: [{ url: "/images/products/107-organza-main.jpg", source: "fragram", caption: "Givenchy Organza EDP chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi nhẹ tươi — Organza quá nhiều hoa, quá kem, quá vải lụa. Sophie Labbé tạo ra chai tên lấy từ vải organza — lụa mỏng nhẹ nhưng sang. Gardenia + tuberose + vani = hoa kem vàng dày. Đây là Givenchy nữ cổ điển 1996. Ai thích modern-clean sẽ thấy nó cũ.
@@ -10076,9 +10076,9 @@ Giá Givenchy affordable — rẻ hơn Dior/Chanel. So với Amarige Givenchy �
       { label: "Càn quét", icon: "🌪️" },
       { label: "Mê mị", icon: "🥀" }
     ],
-    image: "/images/products/mfk-oud-satin-mood-main.jpg",
+    image: "/images/products/181-oud-satin-mood-main.jpg",
     images: [
-      { url: "/images/products/mfk-oud-satin-mood-main.jpg", source: "fragram", caption: "Maison Francis Kurkdjian Oud Satin Mood Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/181-oud-satin-mood-main.jpg", source: "fragram", caption: "Maison Francis Kurkdjian Oud Satin Mood Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -10142,8 +10142,8 @@ Nếu bạn nghe "oud" và tưởng tượng mùi thú vật gắt kiểu Trung 
       { label: "Hoàng quyền", icon: "👑" },
       { label: "Trầm lịch xưng", icon: "🪵" }
     ],
-    image: "/images/products/tom-ford-oud-wood-main.jpg",
-    images: [{ url: "/images/products/tom-ford-oud-wood-main.jpg", source: "fragram", caption: "Tom Ford Oud Wood Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/233-oud-wood-main.jpg",
+    images: [{ url: "/images/products/233-oud-wood-main.jpg", source: "fragram", caption: "Tom Ford Oud Wood Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn tìm chai oud "Trung Đông" — nặng, ngọt, nhựa, phả vào mặt — thì Oud Wood sẽ làm thất vọng. Đây là oud "phương Tây hóa": khô, sạch, thanh, gần như minimalist. Nhiều người xịt lần đầu sẽ hỏi "oud đâu?" vì nó nằm sâu bên trong thay vì nhảy ra ngoài mặt. Ngoài ra, giá Tom Ford rất cao — và với mùi nhẹ nhàng này, nhiều người cảm thấy không "xứng" với số tiền bỏ ra vì kỳ vọng gì đó mạnh hơn.
@@ -10169,8 +10169,8 @@ Nếu bạn tìm chai oud "Trung Đông" — nặng, ngọt, nhựa, phả vào 
     brandSlug: "diptyque",
     name: "Philosykos EDP",
     gender: "unisex",
-    image: "/images/products/diptyque-philosykos-edp-main.jpg",
-    images: [{ url: "/images/products/diptyque-philosykos-edp-main.jpg", source: "fragram", caption: "Diptyque Philosykos EDP chính hãng", verified: true }],
+    image: "/images/products/081-philosykos-edp-main.jpg",
+    images: [{ url: "/images/products/081-philosykos-edp-main.jpg", source: "fragram", caption: "Diptyque Philosykos EDP chính hãng", verified: true }],
     description: "Trái sung Hy Lạp rực rỡ và chân thật nhất. Philosykos mang trọn vẹn cả lá sung xanh ngát, vỏ sung đắng nhẹ, nhựa sung sữa và gỗ sung khô ấm áp.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -10230,8 +10230,8 @@ Nếu bạn tìm chai oud "Trung Đông" — nặng, ngọt, nhựa, phả vào 
       { label: "Chất độc", icon: "☠️" },
       { label: "Quyền lực tối", icon: "🖤" }
     ],
-    image: "/images/products/dior-poison-main.jpg",
-    images: [{ url: "/images/products/dior-poison-main.jpg", source: "fragram", caption: "Dior Poison chính hãng", verified: true }],
+    image: "/images/products/075-poison-main.jpg",
+    images: [{ url: "/images/products/075-poison-main.jpg", source: "fragram", caption: "Dior Poison chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn chưa sẵn sàng cho mùi MẠNH — Poison là chai nữ gây SỢ nhất thập niên 80. Tuberose-coriander-opoponax phả ra như sóng, tối, nặng và kiểu "tao đến rồi, không cần xin phép". Từng bị CẤM ở một số nhà hàng vì quá mạnh. Edouard Fléchier tạo ra monster.
@@ -10291,9 +10291,9 @@ Giá Dior EDT — hợp lý. Và Poison 40+ năm vẫn bán. So với Angel Mugl
       { label: "Kiêu hãnh", icon: "💃" },
       { label: "Quyền lực", icon: "🍷" }
     ],
-    image: "/images/products/frederic-malle-portrait-of-a-lady-main.jpg",
+    image: "/images/products/093-portrait-of-a-lady-main.jpg",
     images: [
-      { url: "/images/products/frederic-malle-portrait-of-a-lady-main.jpg", source: "fragram", caption: "Frederic Malle Portrait of a Lady Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/093-portrait-of-a-lady-main.jpg", source: "fragram", caption: "Frederic Malle Portrait of a Lady Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -10351,9 +10351,9 @@ Mùa thu đông, buổi tối, dịp đặc biệt, sự kiện VIP. Xịt 1-2 n
       { label: "Sơ mi trắng", icon: "👔" },
       { label: "Thanh thuần", icon: "🦢" }
     ],
-    image: "/images/products/narciso-rodriguez-pure-musc-for-her-main.jpg",
+    image: "/images/products/205-pure-musc-for-her-main.jpg",
     images: [
-      { url: "/images/products/narciso-rodriguez-pure-musc-for-her-main.jpg", source: "fragram", caption: "NR Pure Musc For Her chính hãng", verified: true }
+      { url: "/images/products/205-pure-musc-for-her-main.jpg", source: "fragram", caption: "NR Pure Musc For Her chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -10416,8 +10416,8 @@ Mọi lúc — đi làm, cuối tuần, ngủ. Xịt 3-4 nhát. Quanh năm. Chai
       { label: "Thuần khiết", icon: "🤍" },
       { label: "Thanh tao", icon: "🕊️" }
     ],
-    image: "/images/products/dior-pure-poison-main.jpg",
-    images: [{ url: "/images/products/dior-pure-poison-main.jpg", source: "fragram", caption: "Dior Pure Poison chính hãng", verified: true }],
+    image: "/images/products/076-pure-poison-main.jpg",
+    images: [{ url: "/images/products/076-pure-poison-main.jpg", source: "fragram", caption: "Dior Pure Poison chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn muốn Poison gốc (tuberose-gia vị nặng) — Pure Poison hoàn toàn KHÁC. 3 perfumer (Benaïm + Ropion + Polge) tạo ra chất độc "thuần" = nhài-gardenia sạch trên nền amber trắng. Không nặng, không tối, không bị cấm ở đâu cả. Nếu ghét hoa trắng thì sẽ thấy nhài quá mạnh.
@@ -10463,8 +10463,8 @@ Giá Dior — và bám 7-8 giờ. 3 perfumer top thế giới cùng ký tên hi�
       {"name": "Cay ấm", "value": 75, "color": "#cd3300"},
       {"name": "Phấn", "value": 60, "color": "#f5deb3"}
     ],
-    image: "/images/products/amouage-reflection-45-man-main.jpg",
-    images: [{ url: "/images/products/amouage-reflection-45-man-main.jpg", source: "fragram", caption: "Amouage Reflection 45 Man chính hãng", verified: true }],
+    image: "/images/products/004-reflection-45-man-main.jpg",
+    images: [{ url: "/images/products/004-reflection-45-man-main.jpg", source: "fragram", caption: "Amouage Reflection 45 Man chính hãng", verified: true }],
     description: "Chai nam hoa nhài-gỗ đàn hương-iris kiểu quý ông Oman sang nhất — nhài Sambac, hồng, iris, gỗ đàn hương, hoắc hương, vani, hổ phách và xạ hương. Hoa nam sang nhất niche. 45% concentration.",
     article: `### Ai không nên mua?
 
@@ -10512,9 +10512,9 @@ Sự kiện VIP, gala, hoặc khi muốn mùi SANG NHẤT. Xịt 1-2 nhát sau c
       {"name": "Phấn", "value": 65, "color": "#e6ccb2"},
       {"name": "Cay tươi", "value": 60, "color": "#7cb342"}
     ],
-    image: "/images/products/amouage-reflection-man-main.jpg",
+    image: "/images/products/005-reflection-man-main.jpg",
     images: [
-      { url: "/images/products/amouage-reflection-man-main.jpg", source: "fragram", caption: "Amouage Reflection Man Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/005-reflection-man-main.jpg", source: "fragram", caption: "Amouage Reflection Man Eau de Parfum chính hãng", verified: true }
     ],
     description: "Chai nam nhài-neroli-iris sạch sang nhất — hương thảo, tiêu hồng, petitgrain, nhài, neroli, iris, gỗ đàn hương, gỗ tuyết tùng, cỏ hương bài và hoắc hương. Sạch, trắng và rất gentlemanly.",
     article: `### Ai không nên mua?
@@ -10580,8 +10580,8 @@ Amouage thuộc niche Oman — đắt hơn designer nhưng rẻ hơn MFK và Cre
       { label: "Xà phòng thơm", icon: "🛀" },
       { label: "Paris 1970", icon: "🎞️" }
     ],
-    image: "/images/products/ysl-rive-gauche-main.jpg",
-    images: [{ url: "/images/products/ysl-rive-gauche-main.jpg", source: "fragram", caption: "YSL Rive Gauche chính hãng", verified: true }],
+    image: "/images/products/269-rive-gauche-main.jpg",
+    images: [{ url: "/images/products/269-rive-gauche-main.jpg", source: "fragram", caption: "YSL Rive Gauche chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét aldehyde (mùi xà phòng kim loại) — Rive Gauche FULL ALDEHYDE. Michel Hy tạo năm 1971 cho YSL — lấy tên từ bờ tả ngạn sông Seine, nơi bohemian-intellectual Paris sống. Mùi sạch, phấn, metallic — kiểu nữ nghệ sĩ Paris thập niên 70. Chai vỏ lon kim loại sọc xanh-trắng-đỏ = ICONIC.
@@ -10641,8 +10641,8 @@ Ban ngày, đi dạo, galerie, hoặc khi muốn mùi Paris student art. Xịt 3
       { label: "Thần thánh", icon: "🪷" },
       { label: "Tĩnh tại", icon: "🧘" }
     ],
-    image: "/images/products/guerlain-samsara-edp-main.jpg",
-    images: [{ url: "/images/products/guerlain-samsara-edp-main.jpg", source: "fragram", caption: "Guerlain Samsara EDP chính hãng", verified: true }],
+    image: "/images/products/128-samsara-edp-main.jpg",
+    images: [{ url: "/images/products/128-samsara-edp-main.jpg", source: "fragram", caption: "Guerlain Samsara EDP chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét gỗ đàn hương — Samsara = GỖ ĐÀN HƯƠNG ở nồng độ CAO NHẤT mà Guerlain từng dùng. Jean-Paul Guerlain tạo năm 1989, lấy tên từ Phật giáo (Samsara = luân hồi). Gỗ đàn hương Mysore ấm, kem, dày — phủ lên nhài tạo combo oriental nặng. Ai thích nhẹ fresh sẽ thấy nó ngộp.
@@ -10703,8 +10703,8 @@ Thiền, yoga, sự kiện tối, hoặc khi muốn inner peace mùi hương. X�
       { label: "Best seller", icon: "🥇" },
       { label: "Nam tính", icon: "💪" }
     ],
-    image: "/images/products/dior-sauvage-edp-main.jpg",
-    images: [{ url: "/images/products/dior-sauvage-edp-main.jpg", source: "fragram", caption: "Dior Sauvage Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/077-sauvage-edp-main.jpg",
+    images: [{ url: "/images/products/077-sauvage-edp-main.jpg", source: "fragram", caption: "Dior Sauvage Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét đụng hàng thì Sauvage EDP là chai đụng nhiều nhất — vì nó quá phổ biến. Ai thích mùi độc lạ, cá tính riêng hoặc niche sẽ thấy Sauvage quá an toàn và quá mainstream. Ngoài ra, nếu bạn đã có Sauvage EDT thì EDP khá gần — sâu hơn, ấm hơn nhưng DNA giống. Cân nhắc trước khi mua thêm.
@@ -10766,8 +10766,8 @@ Dùng được quanh năm — đi làm, đi chơi, hẹn hò, gặp gỡ. Xịt 
       { label: "Tối thượng", icon: "⚔️" },
       { label: "Đậm đặc", icon: "🔥" }
     ],
-    image: "/images/products/171-sauvage-elixir-main.jpg",
-    images: [{ url: "/images/products/171-sauvage-elixir-main.jpg", source: "fragram", caption: "Dior Sauvage Elixir chính hãng", verified: true }],
+    image: "/images/products/078-sauvage-elixir-main.jpg",
+    images: [{ url: "/images/products/078-sauvage-elixir-main.jpg", source: "fragram", caption: "Dior Sauvage Elixir chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn hay dùng nước hoa đi làm ban ngày, nhất là ở Sài Gòn hay những nơi nóng, thì Elixir không hợp. Mùi cay nồng kết hợp cam thảo sẽ gây ngộp trong phòng máy lạnh nhỏ. Những bạn thích kiểu sạch sẽ, nhẹ nhàng như Bleu de Chanel hay Acqua di Giò cũng sẽ thấy chai này quá nặng tay. Lưu ý thêm: chỉ cần 2 nhát là đủ, xịt nhiều hơn dễ khiến người xung quanh khó chịu thay vì khen.
@@ -10831,9 +10831,9 @@ Elixir thuộc tầm cao nhất trong dòng Sauvage và đắt hơn đáng kể 
       { label: "Giải nhiệt", icon: "🧊" },
       { label: "Tỷ phú mùa Hè", icon: "🛥️" }
     ],
-    image: "/images/products/parfums-de-marly-sedley-main.jpg",
+    image: "/images/products/216-sedley-main.jpg",
     images: [
-      { url: "/images/products/parfums-de-marly-sedley-main.jpg", source: "fragram", caption: "Parfums de Marly Sedley Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/216-sedley-main.jpg", source: "fragram", caption: "Parfums de Marly Sedley Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -10894,9 +10894,9 @@ Quanh năm — đi làm, gặp khách, dạo phố, du lịch. Xịt 2-3 nhát: 
       { label: "Hoàng gia", icon: "🕌" },
       { label: "Quyền uy", icon: "🦚" }
     ],
-    image: "/images/products/guerlain-shalimar-edp-main.jpg",
+    image: "/images/products/129-shalimar-eau-de-parfum-main.jpg",
     images: [
-      { url: "/images/products/guerlain-shalimar-edp-main.jpg", source: "fragram", caption: "Guerlain Shalimar Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/129-shalimar-eau-de-parfum-main.jpg", source: "fragram", caption: "Guerlain Shalimar Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -10958,9 +10958,9 @@ Mùa đông, dịp đặc biệt, tiệc sang, buổi tối. Xịt 2 nhát: cổ
       { label: "Mượt mà", icon: "🧶" },
       { label: "Hiện đại", icon: "🥂" }
     ],
-    image: "/images/products/guerlain-shalimar-lessence-main.jpg",
+    image: "/images/products/130-shalimar-lessence-main.jpg",
     images: [
-      { url: "/images/products/guerlain-shalimar-lessence-main.jpg", source: "fragram", caption: "Guerlain Shalimar L'Essence chính hãng", verified: true }
+      { url: "/images/products/130-shalimar-lessence-main.jpg", source: "fragram", caption: "Guerlain Shalimar L'Essence chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -11021,8 +11021,8 @@ Giá Guerlain — và L'Essence bám 7-8 giờ. So với Shalimar EDP gốc — 
       { label: "Nhung lụa", icon: "🧣" },
       { label: "Tối thượng", icon: "💎" }
     ],
-    image: "/images/products/guerlain-shalimar-parfum-main.jpg",
-    images: [{ url: "/images/products/guerlain-shalimar-parfum-main.jpg", source: "fragram", caption: "Guerlain Shalimar Parfum chính hãng", verified: true }],
+    image: "/images/products/131-shalimar-parfum-main.jpg",
+    images: [{ url: "/images/products/131-shalimar-parfum-main.jpg", source: "fragram", caption: "Guerlain Shalimar Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thấy Shalimar EDT/EDP đã nặng — thì Parfum nặng GẤP ĐÔI. Jacques Guerlain tạo Shalimar 1925 — lấy cảm hứng từ vườn Shalimar Ấn Độ ("Temple of Love"). Parfum = nồng độ cao nhất: vani-civette-opoponax tối, animalic, smoky. Nặng nhất Guerlain.
@@ -11081,8 +11081,8 @@ Sự kiện đặc biệt, opera, gala. Dabbing 1-2 giọt sau tai. Mùa đông 
       { label: "Hư hỏng", icon: "🍸" },
       { label: "Cám dỗ", icon: "🔥" }
     ],
-    image: "/images/products/initio-side-effect-main.jpg",
-    images: [{ url: "/images/products/initio-side-effect-main.jpg", source: "fragram", caption: "Initio Side Effect Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/145-side-effect-main.jpg",
+    images: [{ url: "/images/products/145-side-effect-main.jpg", source: "fragram", caption: "Initio Side Effect Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi sạch tươi nhẹ nhàng thì Side Effect ở cực đối lập — đây là rượu rum-thuốc lá đậm đặc, ngọt và ấm. Ai ghét mùi thuốc lá hoặc rượu cũng nên tránh. Dùng ban ngày nóng sẽ ngọp.
@@ -11143,25 +11143,25 @@ Mùa thu đông, buổi tối, hẹn hò, tiệc. Xịt 1-2 nhát — tỏa cự
       { label: "Quả bom ấm", icon: "💣" },
       { label: "Thuốc lá rượu", icon: "🥃" }
     ],
-    image: "/images/products/viktor-rolf-spicebomb-extreme-main.jpg",
+    image: "/images/products/247-spicebomb-extreme-main.jpg",
     images: [
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-chai-nuoc-hoa-5.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme chính hãng", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-chinh-hang-1.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 2", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-danh-gia-10.jpg", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 3", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-fullbox-6.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 4", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-gia-tot-7.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 5", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-mua-o-dau-12.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 6", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-mui-huong-9.jpg", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 7", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-nuoc-hoa-cao-cap-15.jpg", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 8", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-phong-cach-17.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 9", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-review-2.jpg", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 10", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-sang-trong-16.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 11", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-so-sanh-8.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 12", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-that-hay-gia-13.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 13", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-thuc-te-3.jpg", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 14", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-top-nuoc-hoa-14.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 15", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-trai-nghiem-11.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 16", verified: true },
-      { url: "/images/products/177-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-unboxing-4.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 17", verified: true }
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-chai-nuoc-hoa-5.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme chính hãng", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-chinh-hang-1.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 2", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-danh-gia-10.jpg", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 3", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-fullbox-6.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 4", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-gia-tot-7.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 5", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-mua-o-dau-12.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 6", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-mui-huong-9.jpg", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 7", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-nuoc-hoa-cao-cap-15.jpg", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 8", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-phong-cach-17.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 9", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-review-2.jpg", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 10", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-sang-trong-16.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 11", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-so-sanh-8.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 12", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-that-hay-gia-13.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 13", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-thuc-te-3.jpg", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 14", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-top-nuoc-hoa-14.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 15", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-trai-nghiem-11.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 16", verified: true },
+      { url: "/images/products/247-spicebomb-extreme/nuoc-hoa-viktor-rolf-spicebomb-extreme-unboxing-4.webp", source: "owner", caption: "VIKTOR & ROLF Spicebomb Extreme ảnh thực tế 17", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -11225,9 +11225,9 @@ Mùa đông, buổi tối, hẹn hò, đi bar. Xịt 1-2 nhát SAU CỔ — ch�
       { label: "Gọi mời", icon: "🔥" },
       { label: "Ngọt ngào", icon: "🍮" }
     ],
-    image: "/images/products/armani-stronger-with-you-intensely-main.jpg",
+    image: "/images/products/103-stronger-with-you-intensely-main.jpg",
     images: [
-      { url: "/images/products/armani-stronger-with-you-intensely-main.jpg", source: "fragram", caption: "Giorgio Armani Stronger With You Intensely chính hãng", verified: true }
+      { url: "/images/products/103-stronger-with-you-intensely-main.jpg", source: "fragram", caption: "Giorgio Armani Stronger With You Intensely chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -11287,9 +11287,9 @@ Thuộc tầm designer cao cấp, SWYI không rẻ nhưng xứng đáng nếu gu
       { label: "Băng giá", icon: "🧊" },
       { label: "Sắc sảo", icon: "👔" }
     ],
-    image: "/images/products/hermes-terre-dhermes-eau-givree-main.jpg",
+    image: "/images/products/138-terre-dhermes-eau-givree-main.jpg",
     images: [
-      { url: "/images/products/hermes-terre-dhermes-eau-givree-main.jpg", source: "fragram", caption: "Hermès Terre Eau Givrée chính hãng", verified: true }
+      { url: "/images/products/138-terre-dhermes-eau-givree-main.jpg", source: "fragram", caption: "Hermès Terre Eau Givrée chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -11350,9 +11350,9 @@ Ban ngày, đi làm mùa hè, khi muốn Terre mà trời nóng. Xịt 3 nhát c
       { label: "Trầm ổn", icon: "⛰️" },
       { label: "Quyền lực", icon: "💼" }
     ],
-    image: "/images/products/terre-dhermes-edt-main.jpg",
+    image: "/images/products/137-terre-dhermes-eau-de-toilette-main.jpg",
     images: [
-      { url: "/images/products/terre-dhermes-edt-main.jpg", source: "fragram", caption: "Hermès Terre d'Hermès Eau de Toilette chính hãng", verified: true }
+      { url: "/images/products/137-terre-dhermes-eau-de-toilette-main.jpg", source: "fragram", caption: "Hermès Terre d'Hermès Eau de Toilette chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -11413,9 +11413,9 @@ Giá Hermès thuộc phân khúc designer cao nhưng Terre d'Hermès EDT là cha
       { label: "Sâu thẳm", icon: "🪵" },
       { label: "Đẳng cấp", icon: "🥃" }
     ],
-    image: "/images/products/hermes-terre-dhermes-parfum-main.jpg",
+    image: "/images/products/139-terre-dhermes-parfum-main.jpg",
     images: [
-      { url: "/images/products/hermes-terre-dhermes-parfum-main.jpg", source: "fragram", caption: "Hermès Terre d'Hermès Parfum chính hãng", verified: true }
+      { url: "/images/products/139-terre-dhermes-parfum-main.jpg", source: "fragram", caption: "Hermès Terre d'Hermès Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -11462,9 +11462,9 @@ Dùng quanh năm — đi làm, gặp khách VIP, sự kiện, dạo phố. Xịt
       {"name": "Tươi mát", "value": 60, "color": "#80deea"},
       {"name": "Phấn", "value": 55, "color": "#e6ccb2"}
     ],
-    image: "/images/products/azzaro-the-most-wanted-parfum-main.jpg",
+    image: "/images/products/013-the-most-wanted-parfum-main.jpg",
     images: [
-      { url: "/images/products/azzaro-the-most-wanted-parfum-main.jpg", source: "fragram", caption: "Azzaro The Most Wanted Parfum chính hãng", verified: true }
+      { url: "/images/products/013-the-most-wanted-parfum-main.jpg", source: "fragram", caption: "Azzaro The Most Wanted Parfum chính hãng", verified: true }
     ],
     description: "Chai nam ngọt ấm sexy nhất dòng Wanted — gừng, vanilla bourbon và gỗ rất cuốn. Hợp hẹn hò buổi tối, đi chơi hoặc dịp muốn gây ấn tượng mạnh.",
     article: `### Ai không nên mua?
@@ -11533,9 +11533,9 @@ Hẹn hò buổi tối, đi bar, đi ăn nhà hàng hoặc những dịp muốn 
       { label: "Quyến rũ", icon: "💃" },
       { label: "Quý phái", icon: "✨" }
     ],
-    image: "/images/products/dolce-gabbana-the-one-edp-main.jpg",
+    image: "/images/products/084-the-one-edp-main.jpg",
     images: [
-      { url: "/images/products/dolce-gabbana-the-one-edp-main.jpg", source: "fragram", caption: "Dolce & Gabbana The One EDP chính hãng", verified: true }
+      { url: "/images/products/084-the-one-edp-main.jpg", source: "fragram", caption: "Dolce & Gabbana The One EDP chính hãng", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -11588,9 +11588,9 @@ Hẹn hò buổi tối, đi bar, đi ăn nhà hàng hoặc những dịp muốn 
       { label: "Quý ông", icon: "🥃" },
       { label: "Ấm áp", icon: "🧥" }
     ],
-    image: "/images/products/dg-the-one-for-men-eau-de-parfum-main.jpg",
+    image: "/images/products/085-the-one-for-men-eau-de-parfum-main.jpg",
     images: [
-      { url: "/images/products/dg-the-one-for-men-eau-de-parfum-main.jpg", source: "fragram", caption: "Dolce & Gabbana The One for Men Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/085-the-one-for-men-eau-de-parfum-main.jpg", source: "fragram", caption: "Dolce & Gabbana The One for Men Eau de Parfum chính hãng", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -11642,9 +11642,9 @@ Hẹn hò buổi tối, đi bar, đi ăn nhà hàng hoặc những dịp muốn 
       { label: "Áo len len", icon: "👕" },
       { label: "Sữa hạt dẻ", icon: "🥛" }
     ],
-    image: "/images/products/zadig-voltaire-this-is-her-main.jpg",
+    image: "/images/products/271-this-is-her-main.jpg",
     images: [
-      { url: "/images/products/zadig-voltaire-this-is-her-main.jpg", source: "fragram", caption: "Zadig & Voltaire This Is Her! chính hãng", verified: true }
+      { url: "/images/products/271-this-is-her-main.jpg", source: "fragram", caption: "Zadig & Voltaire This Is Her! chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -11707,9 +11707,9 @@ Giá Z&V — RẺ tầm designer entry. Cashmeran — nguyên liệu synthetic c
       { label: "Xì gà", icon: "🚬" },
       { label: "Xa hoa", icon: "💎" }
     ],
-    image: "/images/products/tom-ford-tobacco-vanille-main.jpg",
+    image: "/images/products/234-tobacco-vanille-main.jpg",
     images: [
-      { url: "/images/products/tom-ford-tobacco-vanille-main.jpg", source: "fragram", caption: "Tom Ford Tobacco Vanille Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/234-tobacco-vanille-main.jpg", source: "fragram", caption: "Tom Ford Tobacco Vanille Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -11773,8 +11773,8 @@ Mùa đông, trời rét, buổi tối. Đi bar upscale, sự kiện Giáng sinh
       { label: "Nostalgia", icon: "🎞️" },
       { label: "Phu nhân", icon: "💃" }
     ],
-    image: "/images/products/lancome-tresor-main.jpg",
-    images: [{ url: "/images/products/lancome-tresor-main.jpg", source: "fragram", caption: "Lancôme Trésor Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/165-tresor-main.jpg",
+    images: [{ url: "/images/products/165-tresor-main.jpg", source: "fragram", caption: "Lancôme Trésor Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi tươi trẻ trung kiểu Burberry Her hay My Way thì Trésor quá ấm, quá phấn và quá mature cho gu đó. Người dưới 25 tuổi thường thấy chai này "già" quá. Ai thích mùi sạch citrus hoặc gourmand hiện đại cũng sẽ thấy Trésor quá cổ điển.
@@ -11837,9 +11837,9 @@ Mùa thu đông, buổi tối, tiệc, sự kiện, dịp lãng mạn. Xịt 2-3
       { label: "Da xa xỉ", icon: "💼" },
       { label: "Chất chơi", icon: "♠️" }
     ],
-    image: "/images/products/tom-ford-tuscan-leather-main.jpg",
+    image: "/images/products/235-tuscan-leather-main.jpg",
     images: [
-      { url: "/images/products/tom-ford-tuscan-leather-main.jpg", source: "fragram", caption: "Tom Ford Tuscan Leather Eau de Parfum chính hãng", verified: true }
+      { url: "/images/products/235-tuscan-leather-main.jpg", source: "fragram", caption: "Tom Ford Tuscan Leather Eau de Parfum chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -11903,8 +11903,8 @@ Mùa đông, buổi tối, sự kiện, áo da. Xịt 1-2 nhát — tỏa cực 
       { label: "Vest đen", icon: "🕴️" },
       { label: "Giới thượng lưu", icon: "✨" }
     ],
-    image: "/images/products/ysl-tuxedo-main.jpg",
-    images: [{ url: "/images/products/ysl-tuxedo-main.jpg", source: "fragram", caption: "YSL Tuxedo Le Vestiaire chính hãng", verified: true }],
+    image: "/images/products/270-tuxedo-main.jpg",
+    images: [{ url: "/images/products/270-tuxedo-main.jpg", source: "fragram", caption: "YSL Tuxedo Le Vestiaire chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thấy hoắc hương boring — Tuxedo TOÀN HOẮC HƯƠNG. Lấy tên từ "Le Smoking" — bộ tuxedo cho nữ mà Yves Saint Laurent cách mạng hóa thời trang 1966. Mùi = hoắc hương + tiêu đen trên nền hổ phách. Đen, sharp, không fancy. Ai muốn hoa hay ngọt sẽ thất vọng.
@@ -11966,9 +11966,9 @@ Sự kiện tối, khi mặc suit, gala. Xịt 2 nhát cổ. Thu đông. Chai ch
       { label: "Thiền định", icon: "🪷" },
       { label: "Thanh mát", icon: "🥭" }
     ],
-    image: "/images/products/hermes-un-jardin-sur-le-nil-main.jpg",
+    image: "/images/products/141-un-jardin-sur-le-nil-main.jpg",
     images: [
-      { url: "/images/products/hermes-un-jardin-sur-le-nil-main.jpg", source: "fragram", caption: "Hermès Un Jardin sur le Nil chính hãng", verified: true }
+      { url: "/images/products/141-un-jardin-sur-le-nil-main.jpg", source: "fragram", caption: "Hermès Un Jardin sur le Nil chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -12029,9 +12029,9 @@ Mùa hè, đi dạo, du lịch, khi muốn mùi TƯƠI KHÁC BIỆT. Xịt 4-5 n
       { label: "Gã thợ săn", icon: "🎯" },
       { label: "Xập xình", icon: "🎧" }
     ],
-    image: "/images/products/valentino-uomo-born-in-roma-intense-main.jpg",
+    image: "/images/products/238-uomo-born-in-roma-intense-main.jpg",
     images: [
-      { url: "/images/products/valentino-uomo-born-in-roma-intense-main.jpg", source: "fragram", caption: "Valentino Uomo Born in Roma Intense chính hãng", verified: true }
+      { url: "/images/products/238-uomo-born-in-roma-intense-main.jpg", source: "fragram", caption: "Valentino Uomo Born in Roma Intense chính hãng", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -12094,8 +12094,8 @@ Hẹn hò, đi chơi tối, tụ tập cuối tuần, bar. Xịt 2 nhát: 1 sau 
       { label: "Kem Vani", icon: "🍦" },
       { label: "Nhục dục mềm", icon: "🛌" }
     ],
-    image: "/images/products/192-vanilla-main.jpg",
-    images: [{ url: "/images/products/192-vanilla-main.jpg", source: "studio", caption: "Vanilla Sex EDP chính hãng", verified: true }],
+    image: "/images/products/236-vanilla-main.jpg",
+    images: [{ url: "/images/products/236-vanilla-main.jpg", source: "studio", caption: "Vanilla Sex EDP chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn ghét vani ngọt — Vanilla Sex là VANI THUẦN + rum + nghệ tây. Rodrigo Flores-Roux tạo ra chai Private Blend mà TÊN đã nói hết: Vanilla SEX. Dày, nóng, boozy — không subtle, không kín đáo. Ai muốn sạch-sáng-office đừng mua.
@@ -12156,8 +12156,8 @@ Hẹn hò, đêm đặc biệt, phòng ngủ. Xịt 1-2 nhát cổ. Mùa đông 
       { label: "Ngon miệng", icon: "🍮" },
       { label: "Ấm áp", icon: "🍂" }
     ],
-    image: "/images/products/kayali-vanilla-28-main.jpg",
-    images: [{ url: "/images/products/kayali-vanilla-28-main.jpg", source: "fragram", caption: "Kayali Vanilla 28 Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/156-vanilla-28-main.jpg",
+    images: [{ url: "/images/products/156-vanilla-28-main.jpg", source: "fragram", caption: "Kayali Vanilla 28 Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn hoàn toàn không thích mùi ngọt thì Vanilla 28 sẽ quá vani cho gu đó — tên chai đã nói rõ. Ai muốn mùi thoáng, sạch, citrus cũng nên tránh. Dùng riêng lâu ngày có thể hơi nhàm vì chai này thiên về mềm mại hơn là phức tạp — điểm mạnh của nó lại là phối với mùi khác.
@@ -12216,8 +12216,8 @@ Hằng ngày, hẹn hò nhẹ, cuối tuần, trời mát hoặc phòng máy l�
       { label: "Trưởng thành", icon: "🗞️" },
       { label: "Cổ điển", icon: "🎩" }
     ],
-    image: "/images/products/guerlain-vetiver-main.jpg",
-    images: [{ url: "/images/products/guerlain-vetiver-main.jpg", source: "fragram", caption: "Guerlain Vetiver EDT chính hãng", verified: true }],
+    image: "/images/products/132-vetiver-main.jpg",
+    images: [{ url: "/images/products/132-vetiver-main.jpg", source: "fragram", caption: "Guerlain Vetiver EDT chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn đã dùng Grey Vetiver (Tom Ford) hay Terre d'Hermès — thì Guerlain Vetiver là ÔNG TỔ: tất cả vetiver sau đều ảnh hưởng từ chai 1959 này. Jean-Paul Guerlain tạo nốt thuốc lá-citrus-vetiver mà giờ thành blueprint. Nhưng vì là gốc 1959 nên hơi vintage — ai muốn clean modern nên chọn Grey Vetiver.
@@ -12280,8 +12280,8 @@ Giá Guerlain EDT — rất hợp lý. Blueprint vetiver — pioneer của cả 
       { label: "Hoàng quyền", icon: "👑" },
       { label: "Bưởi bọt", icon: "🍹" }
     ],
-    image: "/images/products/sospiro-vibrato-main.jpg",
-    images: [{ url: "/images/products/sospiro-vibrato-main.jpg", source: "fragram", caption: "Sospiro Vibrato Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/226-vibrato-main.jpg",
+    images: [{ url: "/images/products/226-vibrato-main.jpg", source: "fragram", caption: "Sospiro Vibrato Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi đậm nặng kiểu oud hoặc mùi ngọt gourmand thì Vibrato quá nhẹ và quá thanh cho gu đó. Ai cần beast mode projection mạnh cũng sẽ thấy chai này vừa phải.
@@ -12344,16 +12344,16 @@ Quanh năm — đi làm, gặp gỡ, cà phê, dạo phố. Xịt 2-3 nhát: c�
       { label: "Tinh khôi", icon: "🌸" },
       { label: "Trà ban mai", icon: "🍵" }
     ],
-    image: "/images/products/ysl-libre-leau-nue-main.jpg",
+    image: "/images/products/265-libre-leau-nue-main.jpg",
     images: [
-      { url: "/images/products/196-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-chai-nuoc-hoa-5.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT chính hãng", verified: true },
-      { url: "/images/products/196-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-chinh-hang-1.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 2", verified: true },
-      { url: "/images/products/196-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-fullbox-6.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 3", verified: true },
-      { url: "/images/products/196-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-gia-tot-7.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 4", verified: true },
-      { url: "/images/products/196-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-review-2.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 5", verified: true },
-      { url: "/images/products/196-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-so-sanh-8.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 6", verified: true },
-      { url: "/images/products/196-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-thuc-te-3.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 7", verified: true },
-      { url: "/images/products/196-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-unboxing-4.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 8", verified: true }
+      { url: "/images/products/265-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-chai-nuoc-hoa-5.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT chính hãng", verified: true },
+      { url: "/images/products/265-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-chinh-hang-1.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 2", verified: true },
+      { url: "/images/products/265-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-fullbox-6.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 3", verified: true },
+      { url: "/images/products/265-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-gia-tot-7.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 4", verified: true },
+      { url: "/images/products/265-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-review-2.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 5", verified: true },
+      { url: "/images/products/265-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-so-sanh-8.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 6", verified: true },
+      { url: "/images/products/265-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-thuc-te-3.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 7", verified: true },
+      { url: "/images/products/265-libre-leau-nue/nuoc-hoa-ysl-libre-l-eau-nue-edt-unboxing-4.webp", source: "owner", caption: "YVES SAINT LAURENT Libre L'Eau Nue EDT ảnh thực tế 8", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -12417,16 +12417,16 @@ Văn phòng, ban ngày, mùa hè. Xịt 3 nhát: cổ và cổ tay. Đẹp nhấ
       { label: "Ăn chơi", icon: "🥃" },
       { label: "Sát gái", icon: "🤤" }
     ],
-    image: "/images/products/197-versace-eros-edt-main.jpg",
+    image: "/images/products/242-versace-eros-edt-main.jpg",
     images: [
-      { url: "/images/products/197-versace-eros-edt/nuoc-hoa-versace-eros-edt-chai-nuoc-hoa-5.webp", source: "owner", caption: "VERSACE Eros EDT chính hãng", verified: true },
-      { url: "/images/products/197-versace-eros-edt/nuoc-hoa-versace-eros-edt-chinh-hang-1.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 2", verified: true },
-      { url: "/images/products/197-versace-eros-edt/nuoc-hoa-versace-eros-edt-fullbox-6.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 3", verified: true },
-      { url: "/images/products/197-versace-eros-edt/nuoc-hoa-versace-eros-edt-gia-tot-7.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 4", verified: true },
-      { url: "/images/products/197-versace-eros-edt/nuoc-hoa-versace-eros-edt-review-2.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 5", verified: true },
-      { url: "/images/products/197-versace-eros-edt/nuoc-hoa-versace-eros-edt-so-sanh-8.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 6", verified: true },
-      { url: "/images/products/197-versace-eros-edt/nuoc-hoa-versace-eros-edt-thuc-te-3.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 7", verified: true },
-      { url: "/images/products/197-versace-eros-edt/nuoc-hoa-versace-eros-edt-unboxing-4.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 8", verified: true }
+      { url: "/images/products/242-versace-eros-edt/nuoc-hoa-versace-eros-edt-chai-nuoc-hoa-5.webp", source: "owner", caption: "VERSACE Eros EDT chính hãng", verified: true },
+      { url: "/images/products/242-versace-eros-edt/nuoc-hoa-versace-eros-edt-chinh-hang-1.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 2", verified: true },
+      { url: "/images/products/242-versace-eros-edt/nuoc-hoa-versace-eros-edt-fullbox-6.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 3", verified: true },
+      { url: "/images/products/242-versace-eros-edt/nuoc-hoa-versace-eros-edt-gia-tot-7.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 4", verified: true },
+      { url: "/images/products/242-versace-eros-edt/nuoc-hoa-versace-eros-edt-review-2.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 5", verified: true },
+      { url: "/images/products/242-versace-eros-edt/nuoc-hoa-versace-eros-edt-so-sanh-8.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 6", verified: true },
+      { url: "/images/products/242-versace-eros-edt/nuoc-hoa-versace-eros-edt-thuc-te-3.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 7", verified: true },
+      { url: "/images/products/242-versace-eros-edt/nuoc-hoa-versace-eros-edt-unboxing-4.webp", source: "owner", caption: "VERSACE Eros EDT ảnh thực tế 8", verified: true }
     ],
     article: `### Ai không nên mua?
 
@@ -12473,22 +12473,22 @@ Giá Versace designer — rất phải chăng cho hiệu năng beast mode. So v�
       {"name": "Phấn", "value": 70, "color": "#e6ccb2"},
       {"name": "Thảo mộc", "value": 65, "color": "#2e8b57"}
     ],
-    image: "/images/products/bdk-gris-charnel-extrait-main.webp",
+    image: "/images/products/014-gris-charnel-extrait-main.webp",
     images: [
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-chai-nuoc-hoa-5.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait chính hãng", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-chinh-hang-1.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 2", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-danh-gia-10.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 3", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-fullbox-6.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 4", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-gia-tot-7.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 5", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-mua-o-dau-12.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 6", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-mui-huong-9.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 7", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-review-2.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 8", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-so-sanh-8.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 9", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-that-hay-gia-13.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 10", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-thuc-te-3.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 11", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-top-nuoc-hoa-14.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 12", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-trai-nghiem-11.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 13", verified: true },
-      { url: "/images/products/198-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-unboxing-4.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 14", verified: true }
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-chai-nuoc-hoa-5.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait chính hãng", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-chinh-hang-1.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 2", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-danh-gia-10.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 3", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-fullbox-6.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 4", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-gia-tot-7.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 5", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-mua-o-dau-12.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 6", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-mui-huong-9.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 7", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-review-2.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 8", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-so-sanh-8.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 9", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-that-hay-gia-13.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 10", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-thuc-te-3.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 11", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-top-nuoc-hoa-14.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 12", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-trai-nghiem-11.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 13", verified: true },
+      { url: "/images/products/014-gris-charnel-extrait/nuoc-hoa-bdk-parfums-gris-charnel-extrait-unboxing-4.webp", source: "owner", caption: "BDK PARFUMS Gris Charnel Extrait ảnh thực tế 14", verified: true }
     ],
     description: "Chai niche xám-xạ hương-hoa nhài-gỗ đàn hương kiểu Pháp — hoa nhài Sambac, hoa iris, gỗ đàn hương, đậu tonka, xạ hương, hổ phách. Xám, ấm, gợi cảm và tinh tế.",
     article: `### Ai không nên mua?
@@ -12537,21 +12537,21 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       {"name": "Cà phê", "value": 80, "color": "#493829"},
       {"name": "Caramel", "value": 75, "color": "#cf9a5b"}
     ],
-    image: "/images/products/199-armaf-effects-of-uniq-main.jpg",
+    image: "/images/products/008-armaf-effects-of-uniq-main.jpg",
     images: [
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-chai-nuoc-hoa-5.webp", source: "owner", caption: "ARMAF Effects of Uniq chính hãng", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-chinh-hang-1.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 2", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-danh-gia-10.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 3", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-fullbox-6.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 4", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-gia-tot-7.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 5", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-mua-o-dau-12.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 6", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-mui-huong-9.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 7", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-review-2.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 8", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-so-sanh-8.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 9", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-that-hay-gia-13.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 10", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-thuc-te-3.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 11", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-trai-nghiem-11.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 12", verified: true },
-      { url: "/images/products/199-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-unboxing-4.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 13", verified: true }
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-chai-nuoc-hoa-5.webp", source: "owner", caption: "ARMAF Effects of Uniq chính hãng", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-chinh-hang-1.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 2", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-danh-gia-10.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 3", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-fullbox-6.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 4", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-gia-tot-7.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 5", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-mua-o-dau-12.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 6", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-mui-huong-9.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 7", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-review-2.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 8", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-so-sanh-8.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 9", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-that-hay-gia-13.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 10", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-thuc-te-3.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 11", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-trai-nghiem-11.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 12", verified: true },
+      { url: "/images/products/008-armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-unboxing-4.webp", source: "owner", caption: "ARMAF Effects of Uniq ảnh thực tế 13", verified: true }
     ],
     description: "Effects of Uniq là sự pha trộn tinh tế giữa những nốt hương trái cây mọng nước và rêu sồi nam tính. Mùi hương mang lại hiệu ứng bùng nổ sảng khoái và độ lưu tỏa cực kỳ ấn tượng dành cho những anh chàng thích sự hiện đại.",
     verdict: "Hương trái cây tươi mát, đa dụng, lưu tỏa rất tốt.",
@@ -12605,18 +12605,18 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       { label: "Hắc ám", icon: "🏴‍☠️" },
       { label: "Hiểm độc", icon: "☕" }
     ],
-    image: "/images/products/200-black-phantom-by-kilian-main.jpg",
+    image: "/images/products/158-black-phantom-by-kilian-main.jpg",
     images: [
-      { url: "/images/products/200-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-chai-nuoc-hoa-5.webp", source: "owner", caption: "Kilian Black Phantom chính hãng", verified: true },
-      { url: "/images/products/200-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-chinh-hang-1.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 2", verified: true },
-      { url: "/images/products/200-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-danh-gia-10.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 3", verified: true },
-      { url: "/images/products/200-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-fullbox-6.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 4", verified: true },
-      { url: "/images/products/200-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-gia-tot-7.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 5", verified: true },
-      { url: "/images/products/200-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-mui-huong-9.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 6", verified: true },
-      { url: "/images/products/200-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-review-2.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 7", verified: true },
-      { url: "/images/products/200-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-so-sanh-8.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 8", verified: true },
-      { url: "/images/products/200-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-thuc-te-3.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 9", verified: true },
-      { url: "/images/products/200-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-unboxing-4.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 10", verified: true }
+      { url: "/images/products/158-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-chai-nuoc-hoa-5.webp", source: "owner", caption: "Kilian Black Phantom chính hãng", verified: true },
+      { url: "/images/products/158-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-chinh-hang-1.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 2", verified: true },
+      { url: "/images/products/158-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-danh-gia-10.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 3", verified: true },
+      { url: "/images/products/158-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-fullbox-6.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 4", verified: true },
+      { url: "/images/products/158-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-gia-tot-7.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 5", verified: true },
+      { url: "/images/products/158-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-mui-huong-9.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 6", verified: true },
+      { url: "/images/products/158-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-review-2.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 7", verified: true },
+      { url: "/images/products/158-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-so-sanh-8.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 8", verified: true },
+      { url: "/images/products/158-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-thuc-te-3.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 9", verified: true },
+      { url: "/images/products/158-black-phantom-by-kilian/nuoc-hoa-kilian-black-phantom-unboxing-4.webp", source: "owner", caption: "Kilian Black Phantom ảnh thực tế 10", verified: true }
     ],
     verdict: "Mùi hương ngọt ngào, say đắm và cực kì nịnh mũi cho mùa đông.",
     verdictShort: "Rượu Rum, Cà phê đen",
@@ -12668,20 +12668,20 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       { label: "Quyến rũ", icon: "🦄" },
       { label: "Sữa tắm", icon: "🛁" }
     ],
-    image: "/images/products/201-blanche-bete-main.jpg",
+    image: "/images/products/170-blanche-bete-main.jpg",
     images: [
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-chai-nuoc-hoa-5.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête chính hãng", verified: true },
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-chinh-hang-1.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 2", verified: true },
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-danh-gia-10.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 3", verified: true },
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-fullbox-6.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 4", verified: true },
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-gia-tot-7.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 5", verified: true },
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-mua-o-dau-12.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 6", verified: true },
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-mui-huong-9.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 7", verified: true },
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-review-2.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 8", verified: true },
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-so-sanh-8.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 9", verified: true },
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-thuc-te-3.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 10", verified: true },
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-trai-nghiem-11.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 11", verified: true },
-      { url: "/images/products/201-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-unboxing-4.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 12", verified: true }
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-chai-nuoc-hoa-5.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête chính hãng", verified: true },
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-chinh-hang-1.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 2", verified: true },
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-danh-gia-10.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 3", verified: true },
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-fullbox-6.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 4", verified: true },
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-gia-tot-7.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 5", verified: true },
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-mua-o-dau-12.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 6", verified: true },
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-mui-huong-9.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 7", verified: true },
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-review-2.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 8", verified: true },
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-so-sanh-8.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 9", verified: true },
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-thuc-te-3.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 10", verified: true },
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-trai-nghiem-11.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 11", verified: true },
+      { url: "/images/products/170-blanche-bete/nuoc-hoa-liquides-imaginaires-blanche-bete-unboxing-4.webp", source: "owner", caption: "Liquides Imaginaires Blanche Bête ảnh thực tế 12", verified: true }
     ],
     verdict: "Ly sữa ấm rắc phấn thơm bám dính cực lâu trên da phái nữ.",
     verdictShort: "Sữa ngọt, Xạ hương",
@@ -12717,20 +12717,20 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       {"name": "Phấn", "value": 75, "color": "#f5deb3"},
       {"name": "Hương hoa", "value": 75, "color": "#ff69b4"}
     ],
-    image: "/images/products/202-byredo-blanche-edp-main.jpg",
+    image: "/images/products/018-byredo-blanche-edp-main.jpg",
     images: [
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Byredo Blanche EDP chính hãng", verified: true },
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-chinh-hang-1.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-danh-gia-10.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-fullbox-6.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-gia-tot-7.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-mua-o-dau-12.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-mui-huong-9.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-review-2.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-so-sanh-8.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-thuc-te-3.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-trai-nghiem-11.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 11", verified: true },
-      { url: "/images/products/202-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-unboxing-4.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 12", verified: true }
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Byredo Blanche EDP chính hãng", verified: true },
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-chinh-hang-1.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-danh-gia-10.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-fullbox-6.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-gia-tot-7.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-mua-o-dau-12.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-mui-huong-9.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-review-2.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-so-sanh-8.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-thuc-te-3.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-trai-nghiem-11.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 11", verified: true },
+      { url: "/images/products/018-byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-unboxing-4.webp", source: "owner", caption: "Byredo Blanche EDP ảnh thực tế 12", verified: true }
     ],
     description: "Mùi hương tối giản, tinh khiết như một chiếc áo sơ mi trắng tinh sương vừa được giặt sạch phơi dưới ánh nắng sớm. Sự kết hợp của Aldehydes, hoa hồng trắng và hoa mẫu đơn mang tới nét thanh tao, sạch sẽ khó tả.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
@@ -12768,22 +12768,22 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       {"name": "Trái cây", "value": 60, "color": "#ff4500"},
       {"name": "Thảo mộc", "value": 60, "color": "#2e8b57"}
     ],
-    image: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-thuc-te-1.webp",
+    image: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-thuc-te-1.webp",
     images: [
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-chai-nuoc-hoa-5.webp", source: "owner", caption: "Byredo La Tulipe chính hãng", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-chinh-hang-1.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 2", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-danh-gia-10.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 3", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-fullbox-6.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 4", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-gia-tot-7.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 5", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-mua-o-dau-12.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 6", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-mui-huong-9.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 7", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-review-2.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 8", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-so-sanh-8.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 9", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-that-hay-gia-13.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 10", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-thuc-te-3.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 11", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-top-nuoc-hoa-14.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 12", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-trai-nghiem-11.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 13", verified: true },
-      { url: "/images/products/203-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-unboxing-4.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 14", verified: true }
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-chai-nuoc-hoa-5.webp", source: "owner", caption: "Byredo La Tulipe chính hãng", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-chinh-hang-1.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 2", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-danh-gia-10.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 3", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-fullbox-6.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 4", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-gia-tot-7.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 5", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-mua-o-dau-12.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 6", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-mui-huong-9.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 7", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-review-2.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 8", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-so-sanh-8.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 9", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-that-hay-gia-13.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 10", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-thuc-te-3.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 11", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-top-nuoc-hoa-14.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 12", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-trai-nghiem-11.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 13", verified: true },
+      { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-unboxing-4.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 14", verified: true }
     ],
     description: "Đóa tulip tươi thắm vào khoảnh khắc đầu tiên của thanh xuân rực sáng. Hương xanh mướt của lá cây hòa quyện cùng cánh hoa ngậm sương tạo nên một tác phẩm hoa tươi hiện đại và thanh lịch cực độ.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
@@ -12829,19 +12829,19 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       { label: "Trong trẻo", icon: "🪷" },
       { label: "Thuần khiết", icon: "💧" }
     ],
-    image: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena-main.jpg",
+    image: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena-main.jpg",
     images: [
-      { url: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-chai-nuoc-hoa-5.webp", source: "owner", caption: "Chloé Rosa Damascena chính hãng", verified: true },
-      { url: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-chinh-hang-1.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 2", verified: true },
-      { url: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-danh-gia-10.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 3", verified: true },
-      { url: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-fullbox-6.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 4", verified: true },
-      { url: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-gia-tot-7.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 5", verified: true },
-      { url: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-mui-huong-9.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 6", verified: true },
-      { url: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-review-2.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 7", verified: true },
-      { url: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-so-sanh-8.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 8", verified: true },
-      { url: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-thuc-te-3.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 9", verified: true },
-      { url: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-trai-nghiem-11.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 10", verified: true },
-      { url: "/images/products/204-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-unboxing-4.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 11", verified: true }
+      { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-chai-nuoc-hoa-5.webp", source: "owner", caption: "Chloé Rosa Damascena chính hãng", verified: true },
+      { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-chinh-hang-1.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 2", verified: true },
+      { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-danh-gia-10.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 3", verified: true },
+      { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-fullbox-6.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 4", verified: true },
+      { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-gia-tot-7.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 5", verified: true },
+      { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-mui-huong-9.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 6", verified: true },
+      { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-review-2.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 7", verified: true },
+      { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-so-sanh-8.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 8", verified: true },
+      { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-thuc-te-3.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 9", verified: true },
+      { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-trai-nghiem-11.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 10", verified: true },
+      { url: "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-rosa-damascena-unboxing-4.webp", source: "owner", caption: "Chloé Rosa Damascena ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -12885,25 +12885,25 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       { label: "Thiền định", icon: "🧘‍♀️" },
       { label: "Bình yên", icon: "🕯️" }
     ],
-    image: "/images/products/205-chloe-atelier-des-fleurs-santalum-main.jpg",
+    image: "/images/products/047-chloe-atelier-des-fleurs-santalum-main.jpg",
     images: [
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-chai-nuoc-hoa-5.webp", source: "owner", caption: "Chloé Santalum chính hãng", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-chinh-hang-1.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 2", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-danh-gia-10.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 3", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-fullbox-6.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 4", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-gia-tot-7.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 5", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-mua-o-dau-12.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 6", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-mui-huong-9.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 7", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 8", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-phong-cach-17.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 9", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-review-2.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 10", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-sang-trong-16.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 11", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-so-sanh-8.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 12", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-that-hay-gia-13.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 13", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-thuc-te-3.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 14", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-top-nuoc-hoa-14.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 15", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-trai-nghiem-11.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 16", verified: true },
-      { url: "/images/products/205-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-unboxing-4.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 17", verified: true }
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-chai-nuoc-hoa-5.webp", source: "owner", caption: "Chloé Santalum chính hãng", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-chinh-hang-1.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 2", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-danh-gia-10.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 3", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-fullbox-6.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 4", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-gia-tot-7.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 5", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-mua-o-dau-12.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 6", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-mui-huong-9.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 7", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 8", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-phong-cach-17.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 9", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-review-2.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 10", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-sang-trong-16.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 11", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-so-sanh-8.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 12", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-that-hay-gia-13.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 13", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-thuc-te-3.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 14", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-top-nuoc-hoa-14.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 15", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-trai-nghiem-11.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 16", verified: true },
+      { url: "/images/products/047-chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-santalum-unboxing-4.webp", source: "owner", caption: "Chloé Santalum ảnh thực tế 17", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -12968,20 +12968,20 @@ Nếu bạn cần chai nước hoa để "âm thầm mà hiệu quả" thì Aven
 ### Nên dùng khi nào?
 
 Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp đối tác, hẹn hò. Xịt 2-3 nhát cổ và ngực. Aventus tỏa rất mạnh 2 giờ đầu rồi lắng xuống thành skin scent gỗ-rêu sồi. Dùng quanh năm — Sài Gòn thì dứa-cam mở ra tươi, Hà Nội mùa đông thì bạch dương-rêu sồi ấm. Chai mà mặc vest hay jeans đều hợp.`,
-    image: "/images/products/206-creed-aventus-main.jpg",
+    image: "/images/products/050-creed-aventus-main.jpg",
     images: [
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-chai-nuoc-hoa-5.webp", source: "owner", caption: "Creed Aventus chính hãng", verified: true },
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-chinh-hang-1.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 2", verified: true },
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-danh-gia-10.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 3", verified: true },
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-fullbox-6.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 4", verified: true },
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-gia-tot-7.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 5", verified: true },
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-mua-o-dau-12.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 6", verified: true },
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-mui-huong-9.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 7", verified: true },
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-review-2.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 8", verified: true },
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-so-sanh-8.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 9", verified: true },
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-thuc-te-3.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 10", verified: true },
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-trai-nghiem-11.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 11", verified: true },
-      { url: "/images/products/206-creed-aventus/nuoc-hoa-creed-aventus-unboxing-4.jpg", source: "owner", caption: "Creed Aventus ảnh thực tế 12", verified: true }
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-chai-nuoc-hoa-5.webp", source: "owner", caption: "Creed Aventus chính hãng", verified: true },
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-chinh-hang-1.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 2", verified: true },
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-danh-gia-10.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 3", verified: true },
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-fullbox-6.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 4", verified: true },
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-gia-tot-7.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 5", verified: true },
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-mua-o-dau-12.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 6", verified: true },
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-mui-huong-9.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 7", verified: true },
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-review-2.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 8", verified: true },
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-so-sanh-8.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 9", verified: true },
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-thuc-te-3.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 10", verified: true },
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-trai-nghiem-11.webp", source: "owner", caption: "Creed Aventus ảnh thực tế 11", verified: true },
+      { url: "/images/products/050-creed-aventus/nuoc-hoa-creed-aventus-unboxing-4.jpg", source: "owner", caption: "Creed Aventus ảnh thực tế 12", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13034,21 +13034,21 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Tinh khôi", icon: "🕊️" },
       { label: "Lãng mạn", icon: "🌸" }
     ],
-    image: "/images/products/207-creed-love-in-white-main.jpg",
+    image: "/images/products/053-creed-love-in-white-main.jpg",
     images: [
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-chai-nuoc-hoa-5.webp", source: "owner", caption: "Creed Love In White chính hãng", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-chinh-hang-1.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 2", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-danh-gia-10.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 3", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-fullbox-6.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 4", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-gia-tot-7.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 5", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-mua-o-dau-12.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 6", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-mui-huong-9.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 7", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-review-2.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 8", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-so-sanh-8.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 9", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-that-hay-gia-13.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 10", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-thuc-te-3.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 11", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-trai-nghiem-11.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 12", verified: true },
-      { url: "/images/products/207-creed-love-in-white/nuoc-hoa-creed-love-in-white-unboxing-4.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 13", verified: true }
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-chai-nuoc-hoa-5.webp", source: "owner", caption: "Creed Love In White chính hãng", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-chinh-hang-1.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 2", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-danh-gia-10.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 3", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-fullbox-6.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 4", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-gia-tot-7.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 5", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-mua-o-dau-12.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 6", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-mui-huong-9.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 7", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-review-2.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 8", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-so-sanh-8.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 9", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-that-hay-gia-13.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 10", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-thuc-te-3.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 11", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-trai-nghiem-11.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 12", verified: true },
+      { url: "/images/products/053-creed-love-in-white/nuoc-hoa-creed-love-in-white-unboxing-4.webp", source: "owner", caption: "Creed Love In White ảnh thực tế 13", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13099,26 +13099,26 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Trong veo", icon: "🏔️" },
       { label: "Mát lạnh", icon: "🧊" }
     ],
-    image: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-moutain-water-thuc-te-1.webp",
+    image: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-moutain-water-thuc-te-1.webp",
     images: [
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-chai-nuoc-hoa-5.webp", source: "owner", caption: "Creed Silver Mountain Water chính hãng", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-chinh-hang-1.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 2", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-danh-gia-10.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 3", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-fullbox-6.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 4", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-gia-tot-7.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 5", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-mua-o-dau-12.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 6", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-mui-huong-9.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 7", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 8", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-phong-cach-17.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 9", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-qua-tang-18.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 10", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-review-2.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 11", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-sang-trong-16.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 12", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-so-sanh-8.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 13", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-that-hay-gia-13.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 14", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-thuc-te-3.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 15", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-top-nuoc-hoa-14.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 16", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-trai-nghiem-11.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 17", verified: true },
-      { url: "/images/products/208-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-unboxing-4.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 18", verified: true }
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-chai-nuoc-hoa-5.webp", source: "owner", caption: "Creed Silver Mountain Water chính hãng", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-chinh-hang-1.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 2", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-danh-gia-10.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 3", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-fullbox-6.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 4", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-gia-tot-7.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 5", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-mua-o-dau-12.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 6", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-mui-huong-9.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 7", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 8", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-phong-cach-17.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 9", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-qua-tang-18.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 10", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-review-2.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 11", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-sang-trong-16.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 12", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-so-sanh-8.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 13", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-that-hay-gia-13.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 14", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-thuc-te-3.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 15", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-top-nuoc-hoa-14.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 16", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-trai-nghiem-11.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 17", verified: true },
+      { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-unboxing-4.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 18", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13171,21 +13171,21 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Tiểu thư", icon: "🎀" },
       { label: "Ngọt ngào", icon: "🍬" }
     ],
-    image: "/images/products/209-deliah-blanc/nuoc-hoa-deliah-blanc-thuc-te-1.webp",
+    image: "/images/products/175-deliah-blanc/nuoc-hoa-deliah-blanc-thuc-te-1.webp",
     images: [
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc chính hãng", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-chinh-hang-1.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 2", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-danh-gia-10.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 3", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-fullbox-6.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 4", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-gia-tot-7.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 5", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-mua-o-dau-12.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 6", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-mui-huong-9.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 7", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-review-2.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 8", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-so-sanh-8.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 9", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-that-hay-gia-13.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 10", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-thuc-te-3.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 11", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-trai-nghiem-11.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 12", verified: true },
-      { url: "/images/products/209-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-unboxing-4.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 13", verified: true }
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc chính hãng", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-chinh-hang-1.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 2", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-danh-gia-10.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 3", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-fullbox-6.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 4", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-gia-tot-7.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 5", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-mua-o-dau-12.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 6", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-mui-huong-9.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 7", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-review-2.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 8", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-so-sanh-8.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 9", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-that-hay-gia-13.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 10", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-thuc-te-3.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 11", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-trai-nghiem-11.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 12", verified: true },
+      { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-unboxing-4.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 13", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13204,21 +13204,21 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
     perfumer: "Fabrice Pellegrin",
     gender: "unisex",
     year: 2013,
-    image: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-thuc-te-1.webp",
+    image: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-thuc-te-1.webp",
     images: [
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Diptyque Doson EDP chính hãng", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-chinh-hang-1.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-danh-gia-10.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-fullbox-6.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-gia-tot-7.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-mua-o-dau-12.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-mui-huong-9.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-review-2.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-so-sanh-8.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-that-hay-gia-13.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-thuc-te-3.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 11", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-trai-nghiem-11.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 12", verified: true },
-      { url: "/images/products/210-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-unboxing-4.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 13", verified: true }
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Diptyque Doson EDP chính hãng", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-chinh-hang-1.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-danh-gia-10.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-fullbox-6.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-gia-tot-7.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-mua-o-dau-12.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-mui-huong-9.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-review-2.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-so-sanh-8.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-that-hay-gia-13.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-thuc-te-3.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 11", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-trai-nghiem-11.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 12", verified: true },
+      { url: "/images/products/079-diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-unboxing-4.webp", source: "owner", caption: "Diptyque Doson EDP ảnh thực tế 13", verified: true }
     ],
     description: "Ký ức tuổi thơ tại Đồ Sơn dưới làn gió biển. Do Son EDP mang nét gợi cảm tự nhiên của hoa huệ, xanh ngát và quyến luyến hoang dã.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
@@ -13247,24 +13247,24 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
     brandSlug: "diptyque",
     name: "Fleur de Peau",
     gender: "unisex",
-    image: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-thuc-te-1.webp",
+    image: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-thuc-te-1.webp",
     images: [
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-chai-nuoc-hoa-5.webp", source: "owner", caption: "Diptyque Fleur de Peau chính hãng", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-chinh-hang-1.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 2", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-danh-gia-10.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 3", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-fullbox-6.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 4", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-gia-tot-7.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 5", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-mua-o-dau-12.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 6", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-mui-huong-9.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 7", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 8", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-review-2.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 9", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-sang-trong-16.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 10", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-so-sanh-8.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 11", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-that-hay-gia-13.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 12", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-thuc-te-3.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 13", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-top-nuoc-hoa-14.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 14", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-trai-nghiem-11.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 15", verified: true },
-      { url: "/images/products/211-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-unboxing-4.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 16", verified: true }
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-chai-nuoc-hoa-5.webp", source: "owner", caption: "Diptyque Fleur de Peau chính hãng", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-chinh-hang-1.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 2", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-danh-gia-10.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 3", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-fullbox-6.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 4", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-gia-tot-7.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 5", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-mua-o-dau-12.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 6", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-mui-huong-9.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 7", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 8", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-review-2.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 9", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-sang-trong-16.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 10", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-so-sanh-8.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 11", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-that-hay-gia-13.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 12", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-thuc-te-3.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 13", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-top-nuoc-hoa-14.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 14", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-trai-nghiem-11.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 15", verified: true },
+      { url: "/images/products/080-diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-unboxing-4.webp", source: "owner", caption: "Diptyque Fleur de Peau ảnh thực tế 16", verified: true }
     ],
     description: "Mùi hương của da thịt tự nhiên, mộc mạc và gợi cảm. Fleur de Peau là bản giao hưởng xạ hương hòa quyện với hoa diên vĩ, tạo nên một đám mây phấn nhẹ nhàng bao phủ cơ thể.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
@@ -13287,18 +13287,18 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
     brandSlug: "arabian-oud",
     name: "Dubai Musk",
     gender: "nam",
-    image: "/images/products/212-dubai-musk/nuoc-hoa-dubai-musk-thuc-te-1.webp",
+    image: "/images/products/006-dubai-musk/nuoc-hoa-dubai-musk-thuc-te-1.webp",
     images: [
-      { url: "/images/products/212-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-chai-nuoc-hoa-5.webp", source: "owner", caption: "Arabian Oud Dubai Musk chính hãng", verified: true },
-      { url: "/images/products/212-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-chinh-hang-1.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 2", verified: true },
-      { url: "/images/products/212-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-danh-gia-10.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 3", verified: true },
-      { url: "/images/products/212-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-fullbox-6.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 4", verified: true },
-      { url: "/images/products/212-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-gia-tot-7.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 5", verified: true },
-      { url: "/images/products/212-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-mui-huong-9.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 6", verified: true },
-      { url: "/images/products/212-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-review-2.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 7", verified: true },
-      { url: "/images/products/212-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-so-sanh-8.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 8", verified: true },
-      { url: "/images/products/212-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-thuc-te-3.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 9", verified: true },
-      { url: "/images/products/212-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-unboxing-4.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 10", verified: true }
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-chai-nuoc-hoa-5.webp", source: "owner", caption: "Arabian Oud Dubai Musk chính hãng", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-chinh-hang-1.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 2", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-danh-gia-10.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 3", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-fullbox-6.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 4", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-gia-tot-7.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 5", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-mui-huong-9.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 6", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-review-2.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 7", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-so-sanh-8.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 8", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-thuc-te-3.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 9", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-unboxing-4.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 10", verified: true }
     ],
     description: "Xạ hương mang đậm tinh thần hoang mạc Trung Đông, dày dặn, huyền bí và cực kì bí ẩn. Sức mạnh bám tỏa của Dubai Musk là một vũ khí hạng nặng dành cho phái mạnh.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
@@ -13360,19 +13360,19 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Thư giãn", icon: "🍵" },
       { label: "Bình yên", icon: "🌿" }
     ],
-    image: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-thuc-te-1.webp",
+    image: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-thuc-te-1.webp",
     images: [
-      { url: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-chai-nuoc-hoa-5.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT chính hãng", verified: true },
-      { url: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-chinh-hang-1.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 2", verified: true },
-      { url: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-danh-gia-10.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 3", verified: true },
-      { url: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-fullbox-6.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 4", verified: true },
-      { url: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-gia-tot-7.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 5", verified: true },
-      { url: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-mui-huong-9.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 6", verified: true },
-      { url: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-review-2.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 7", verified: true },
-      { url: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-so-sanh-8.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 8", verified: true },
-      { url: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-thuc-te-3.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 9", verified: true },
-      { url: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-trai-nghiem-11.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 10", verified: true },
-      { url: "/images/products/213-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-unboxing-4.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 11", verified: true }
+      { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-chai-nuoc-hoa-5.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT chính hãng", verified: true },
+      { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-chinh-hang-1.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 2", verified: true },
+      { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-danh-gia-10.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 3", verified: true },
+      { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-fullbox-6.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 4", verified: true },
+      { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-gia-tot-7.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 5", verified: true },
+      { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-mui-huong-9.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 6", verified: true },
+      { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-review-2.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 7", verified: true },
+      { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-so-sanh-8.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 8", verified: true },
+      { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-thuc-te-3.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 9", verified: true },
+      { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-trai-nghiem-11.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 10", verified: true },
+      { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-unboxing-4.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13425,22 +13425,22 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Thủy mặc", icon: "🏞️" },
       { label: "Mưa nhiệt đới", icon: "🌧️" }
     ],
-    image: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-1.webp",
+    image: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-1.webp",
     images: [
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-chai-nuoc-hoa-5.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long chính hãng", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-chinh-hang-1.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 2", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-danh-gia-10.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 3", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-fullbox-6.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 4", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-gia-tot-7.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 5", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-mua-o-dau-12.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 6", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-mui-huong-9.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 7", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-review-2.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 8", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-so-sanh-8.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 9", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-that-hay-gia-13.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 10", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-3.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 11", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-top-nuoc-hoa-14.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 12", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-trai-nghiem-11.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 13", verified: true },
-      { url: "/images/products/214-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-unboxing-4.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 14", verified: true }
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-chai-nuoc-hoa-5.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long chính hãng", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-chinh-hang-1.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 2", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-danh-gia-10.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 3", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-fullbox-6.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 4", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-gia-tot-7.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 5", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-mua-o-dau-12.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 6", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-mui-huong-9.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 7", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-review-2.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 8", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-so-sanh-8.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 9", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-that-hay-gia-13.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 10", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-3.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 11", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-top-nuoc-hoa-14.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 12", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-trai-nghiem-11.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 13", verified: true },
+      { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-unboxing-4.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 14", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13492,20 +13492,20 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Xa xỉ", icon: "💎" },
       { label: "Cuốn hút", icon: "💫" }
     ],
-    image: "/images/products/215-ex-nihilo-blue-talisman-main.jpg",
+    image: "/images/products/090-ex-nihilo-blue-talisman-main.jpg",
     images: [
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-chai-nuoc-hoa-5.webp", source: "owner", caption: "Ex Nihilo Blue Talisman chính hãng", verified: true },
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-chinh-hang-1.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 2", verified: true },
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-danh-gia-10.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 3", verified: true },
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-fullbox-6.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 4", verified: true },
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-gia-tot-7.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 5", verified: true },
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-mua-o-dau-12.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 6", verified: true },
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-mui-huong-9.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 7", verified: true },
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-review-2.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 8", verified: true },
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-so-sanh-8.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 9", verified: true },
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-thuc-te-3.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 10", verified: true },
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-trai-nghiem-11.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 11", verified: true },
-      { url: "/images/products/215-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-unboxing-4.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 12", verified: true }
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-chai-nuoc-hoa-5.webp", source: "owner", caption: "Ex Nihilo Blue Talisman chính hãng", verified: true },
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-chinh-hang-1.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 2", verified: true },
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-danh-gia-10.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 3", verified: true },
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-fullbox-6.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 4", verified: true },
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-gia-tot-7.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 5", verified: true },
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-mua-o-dau-12.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 6", verified: true },
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-mui-huong-9.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 7", verified: true },
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-review-2.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 8", verified: true },
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-so-sanh-8.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 9", verified: true },
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-thuc-te-3.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 10", verified: true },
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-trai-nghiem-11.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 11", verified: true },
+      { url: "/images/products/090-ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-unboxing-4.webp", source: "owner", caption: "Ex Nihilo Blue Talisman ảnh thực tế 12", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13555,19 +13555,19 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Sáng chói", icon: "☀" },
       { label: "Thư thái", icon: "🏄" }
     ],
-    image: "/images/products/giorgio-armani-007-acqua-di-gio-profondo-main.jpg",
+    image: "/images/products/giorgio-armani-098-acqua-di-gio-profondo-main.jpg",
     images: [
-      { url: "/images/products/216-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-chai-nuoc-hoa-5.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo chính hãng", verified: true },
-      { url: "/images/products/216-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-chinh-hang-1.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 2", verified: true },
-      { url: "/images/products/216-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-danh-gia-10.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 3", verified: true },
-      { url: "/images/products/216-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-fullbox-6.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 4", verified: true },
-      { url: "/images/products/216-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-gia-tot-7.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 5", verified: true },
-      { url: "/images/products/216-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-mui-huong-9.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 6", verified: true },
-      { url: "/images/products/216-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-review-2.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 7", verified: true },
-      { url: "/images/products/216-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-so-sanh-8.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 8", verified: true },
-      { url: "/images/products/216-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-thuc-te-3.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 9", verified: true },
-      { url: "/images/products/216-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-trai-nghiem-11.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 10", verified: true },
-      { url: "/images/products/216-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-unboxing-4.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 11", verified: true }
+      { url: "/images/products/097-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-chai-nuoc-hoa-5.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo chính hãng", verified: true },
+      { url: "/images/products/097-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-chinh-hang-1.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 2", verified: true },
+      { url: "/images/products/097-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-danh-gia-10.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 3", verified: true },
+      { url: "/images/products/097-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-fullbox-6.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 4", verified: true },
+      { url: "/images/products/097-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-gia-tot-7.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 5", verified: true },
+      { url: "/images/products/097-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-mui-huong-9.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 6", verified: true },
+      { url: "/images/products/097-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-review-2.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 7", verified: true },
+      { url: "/images/products/097-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-so-sanh-8.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 8", verified: true },
+      { url: "/images/products/097-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-thuc-te-3.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 9", verified: true },
+      { url: "/images/products/097-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-trai-nghiem-11.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 10", verified: true },
+      { url: "/images/products/097-giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-unboxing-4.webp", source: "owner", caption: "Giorgio Armani Acqua di Gio Profondo ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13622,23 +13622,23 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Tiểu thư", icon: "🎀" },
       { label: "Bồng bềnh", icon: "☁️" }
     ],
-    image: "/images/products/217-gritti-tutu-extrait-main.jpg",
+    image: "/images/products/108-gritti-tutu-extrait-main.jpg",
     images: [
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-chai-nuoc-hoa-5.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum chính hãng", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-chinh-hang-1.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 2", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-danh-gia-10.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 3", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-fullbox-6.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 4", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-gia-tot-7.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 5", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-mua-o-dau-12.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 6", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-mui-huong-9.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 7", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 8", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-review-2.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 9", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-so-sanh-8.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 10", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-that-hay-gia-13.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 11", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-thuc-te-3.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 12", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-top-nuoc-hoa-14.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 13", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-trai-nghiem-11.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 14", verified: true },
-      { url: "/images/products/217-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-unboxing-4.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 15", verified: true }
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-chai-nuoc-hoa-5.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum chính hãng", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-chinh-hang-1.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 2", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-danh-gia-10.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 3", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-fullbox-6.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 4", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-gia-tot-7.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 5", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-mua-o-dau-12.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 6", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-mui-huong-9.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 7", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 8", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-review-2.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 9", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-so-sanh-8.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 10", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-that-hay-gia-13.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 11", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-thuc-te-3.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 12", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-top-nuoc-hoa-14.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 13", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-trai-nghiem-11.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 14", verified: true },
+      { url: "/images/products/108-gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-de-parfum-unboxing-4.webp", source: "owner", caption: "Gritti TuTu Extrait de Parfum ảnh thực tế 15", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13691,20 +13691,20 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Dễ thương", icon: "🧸" },
       { label: "Xinh xắn", icon: "🧚" }
     ],
-    image: "/images/products/218-gucci-flora-gorgeous-gardenia-main.jpg",
+    image: "/images/products/110-gucci-flora-gorgeous-gardenia-main.jpg",
     images: [
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-chai-nuoc-hoa-5.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia chính hãng", verified: true },
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-chinh-hang-1.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 2", verified: true },
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-danh-gia-10.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 3", verified: true },
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-fullbox-6.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 4", verified: true },
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-gia-tot-7.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 5", verified: true },
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-mua-o-dau-12.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 6", verified: true },
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-mui-huong-9.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 7", verified: true },
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-review-2.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 8", verified: true },
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-so-sanh-8.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 9", verified: true },
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-thuc-te-3.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 10", verified: true },
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-trai-nghiem-11.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 11", verified: true },
-      { url: "/images/products/218-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-unboxing-4.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 12", verified: true }
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-chai-nuoc-hoa-5.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia chính hãng", verified: true },
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-chinh-hang-1.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 2", verified: true },
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-danh-gia-10.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 3", verified: true },
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-fullbox-6.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 4", verified: true },
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-gia-tot-7.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 5", verified: true },
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-mua-o-dau-12.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 6", verified: true },
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-mui-huong-9.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 7", verified: true },
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-review-2.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 8", verified: true },
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-so-sanh-8.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 9", verified: true },
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-thuc-te-3.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 10", verified: true },
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-trai-nghiem-11.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 11", verified: true },
+      { url: "/images/products/110-gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-unboxing-4.webp", source: "owner", caption: "Gucci Flora Gorgeous Gardenia ảnh thực tế 12", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13754,21 +13754,21 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Sâu lắng", icon: "🥀" },
       { label: "Thanh lịch", icon: "🎻" }
     ],
-    image: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-main.jpg",
+    image: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-main.jpg",
     images: [
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP chính hãng", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-chinh-hang-1.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-danh-gia-10.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-fullbox-6.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-gia-tot-7.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-mua-o-dau-12.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-mui-huong-9.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-review-2.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-so-sanh-8.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-that-hay-gia-13.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-thuc-te-3.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 11", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-trai-nghiem-11.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 12", verified: true },
-      { url: "/images/products/219-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-unboxing-4.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 13", verified: true }
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP chính hãng", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-chinh-hang-1.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-danh-gia-10.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-fullbox-6.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-gia-tot-7.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-mua-o-dau-12.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-mui-huong-9.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-review-2.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-so-sanh-8.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-that-hay-gia-13.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-thuc-te-3.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 11", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-trai-nghiem-11.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 12", verified: true },
+      { url: "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-unboxing-4.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Rosa Palissandro EDP ảnh thực tế 13", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13818,25 +13818,25 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Xanh mướt", icon: "🍃" },
       { label: "Sạch sẽ", icon: "🛁" }
     ],
-    image: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp-main.jpg",
+    image: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp-main.jpg",
     images: [
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-chai-nuoc-hoa-5.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver chính hãng", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-chinh-hang-1.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 2", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-danh-gia-10.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 3", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-fullbox-6.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 4", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-gia-tot-7.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 5", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-mua-o-dau-12.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 6", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-mui-huong-9.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 7", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 8", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-phong-cach-17.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 9", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-review-2.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 10", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-sang-trong-16.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 11", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-so-sanh-8.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 12", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-that-hay-gia-13.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 13", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-thuc-te-3.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 14", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-top-nuoc-hoa-14.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 15", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-trai-nghiem-11.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 16", verified: true },
-      { url: "/images/products/220-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-unboxing-4.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 17", verified: true }
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-chai-nuoc-hoa-5.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver chính hãng", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-chinh-hang-1.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 2", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-danh-gia-10.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 3", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-fullbox-6.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 4", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-gia-tot-7.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 5", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-mua-o-dau-12.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 6", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-mui-huong-9.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 7", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 8", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-phong-cach-17.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 9", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-review-2.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 10", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-sang-trong-16.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 11", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-so-sanh-8.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 12", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-that-hay-gia-13.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 13", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-thuc-te-3.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 14", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-top-nuoc-hoa-14.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 15", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-trai-nghiem-11.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 16", verified: true },
+      { url: "/images/products/112-guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-nerolia-vetiver-unboxing-4.webp", source: "owner", caption: "Guerlain Aqua Allegoria Forte Nerolia Vetiver ảnh thực tế 17", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13887,21 +13887,21 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Êm ái", icon: "🍯" },
       { label: "Rạng rỡ", icon: "☀️" }
     ],
-    image: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole-main.jpg",
+    image: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole-main.jpg",
     images: [
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-chai-nuoc-hoa-5.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole chính hãng", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-chinh-hang-1.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 2", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-danh-gia-10.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 3", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-fullbox-6.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 4", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-gia-tot-7.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 5", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-mua-o-dau-12.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 6", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-mui-huong-9.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 7", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-review-2.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 8", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-so-sanh-8.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 9", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-that-hay-gia-13.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 10", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-thuc-te-3.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 11", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-trai-nghiem-11.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 12", verified: true },
-      { url: "/images/products/221-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-unboxing-4.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 13", verified: true }
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-chai-nuoc-hoa-5.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole chính hãng", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-chinh-hang-1.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 2", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-danh-gia-10.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 3", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-fullbox-6.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 4", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-gia-tot-7.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 5", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-mua-o-dau-12.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 6", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-mui-huong-9.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 7", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-review-2.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 8", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-so-sanh-8.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 9", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-that-hay-gia-13.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 10", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-thuc-te-3.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 11", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-trai-nghiem-11.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 12", verified: true },
+      { url: "/images/products/114-guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-unboxing-4.webp", source: "owner", caption: "Guerlain Aqua Allegoria Nettare Di Sole ảnh thực tế 13", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -13948,21 +13948,21 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Nước biển", icon: "🌊" },
       { label: "Phóng khoáng", icon: "🐬" }
     ],
-    image: "/images/products/222-hermes-bleue-main.jpg",
+    image: "/images/products/135-hermes-bleue-main.jpg",
     images: [
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-chai-nuoc-hoa-5.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue chính hãng", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-chinh-hang-1.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 2", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-danh-gia-10.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 3", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-fullbox-6.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 4", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-gia-tot-7.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 5", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-mua-o-dau-12.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 6", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-mui-huong-9.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 7", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-review-2.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 8", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-so-sanh-8.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 9", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-that-hay-gia-13.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 10", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-thuc-te-3.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 11", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-trai-nghiem-11.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 12", verified: true },
-      { url: "/images/products/222-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-unboxing-4.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 13", verified: true }
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-chai-nuoc-hoa-5.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue chính hãng", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-chinh-hang-1.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 2", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-danh-gia-10.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 3", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-fullbox-6.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 4", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-gia-tot-7.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 5", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-mua-o-dau-12.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 6", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-mui-huong-9.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 7", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-review-2.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 8", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-so-sanh-8.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 9", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-that-hay-gia-13.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 10", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-thuc-te-3.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 11", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-trai-nghiem-11.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 12", verified: true },
+      { url: "/images/products/135-hermes-bleue/nuoc-hoa-hermes-eau-des-merveilles-bleue-unboxing-4.webp", source: "owner", caption: "Hermès Eau des Merveilles Bleue ảnh thực tế 13", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14009,31 +14009,31 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Kiêu kỳ", icon: "🎀" },
       { label: "Hiện đại", icon: "🌶️" }
     ],
-    image: "/images/products/223-hermes-twilly-eau-poivree-main.jpg",
+    image: "/images/products/140-hermes-twilly-eau-poivree-main.jpg",
     images: [
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-chai-nuoc-hoa-5.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée chính hãng", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-chinh-hang-1.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 2", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-chinh-hang-20.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 3", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-danh-gia-10.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 4", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-fullbox-6.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 5", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-gia-tot-7.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 6", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-mua-o-dau-12.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 7", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-mui-huong-9.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 8", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-nam-2026-19.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 9", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 10", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-phong-cach-17.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 11", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-qua-tang-18.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 12", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-review-2.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 13", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-review-21.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 14", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-sang-trong-16.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 15", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-so-sanh-8.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 16", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-that-hay-gia-13.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 17", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-thuc-te-22.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 18", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-thuc-te-3.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 19", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-top-nuoc-hoa-14.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 20", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-trai-nghiem-11.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 21", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-unboxing-23.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 22", verified: true },
-      { url: "/images/products/223-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-unboxing-4.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 23", verified: true }
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-chai-nuoc-hoa-5.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée chính hãng", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-chinh-hang-1.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 2", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-chinh-hang-20.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 3", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-danh-gia-10.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 4", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-fullbox-6.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 5", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-gia-tot-7.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 6", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-mua-o-dau-12.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 7", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-mui-huong-9.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 8", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-nam-2026-19.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 9", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 10", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-phong-cach-17.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 11", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-qua-tang-18.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 12", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-review-2.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 13", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-review-21.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 14", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-sang-trong-16.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 15", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-so-sanh-8.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 16", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-that-hay-gia-13.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 17", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-thuc-te-22.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 18", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-thuc-te-3.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 19", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-top-nuoc-hoa-14.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 20", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-trai-nghiem-11.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 21", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-unboxing-23.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 22", verified: true },
+      { url: "/images/products/140-hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-d-hermes-eau-poivree-unboxing-4.webp", source: "owner", caption: "Hermès Twilly d'Hermès Eau Poivrée ảnh thực tế 23", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14082,26 +14082,26 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Tiểu thư", icon: "👠" },
       { label: "Sành điệu", icon: "💅" }
     ],
-    image: "/images/products/224-jimmy-choo-i-want-choo-main.jpg",
+    image: "/images/products/155-jimmy-choo-i-want-choo-main.jpg",
     images: [
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP chính hãng", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-chinh-hang-1.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-danh-gia-10.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-fullbox-6.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-gia-tot-7.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-mua-o-dau-12.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-mui-huong-9.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-phong-cach-17.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-qua-tang-18.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-review-2.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 11", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-sang-trong-16.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 12", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-so-sanh-8.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 13", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-that-hay-gia-13.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 14", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-thuc-te-3.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 15", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-top-nuoc-hoa-14.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 16", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-trai-nghiem-11.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 17", verified: true },
-      { url: "/images/products/224-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-unboxing-4.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 18", verified: true }
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP chính hãng", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-chinh-hang-1.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-danh-gia-10.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-fullbox-6.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-gia-tot-7.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-mua-o-dau-12.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-mui-huong-9.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-phong-cach-17.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-qua-tang-18.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-review-2.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 11", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-sang-trong-16.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 12", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-so-sanh-8.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 13", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-that-hay-gia-13.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 14", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-thuc-te-3.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 15", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-top-nuoc-hoa-14.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 16", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-trai-nghiem-11.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 17", verified: true },
+      { url: "/images/products/155-jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-edp-unboxing-4.webp", source: "owner", caption: "Jimmy Choo I Want Choo EDP ảnh thực tế 18", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14152,24 +14152,24 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Nửa kín nửa hở", icon: "🐍" },
       { label: "Câu dẫn", icon: "🍑" }
     ],
-    image: "/images/products/225-kilan-good-girl-gone-bad-main.jpg",
+    image: "/images/products/159-kilan-good-girl-gone-bad-main.jpg",
     images: [
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-chai-nuoc-hoa-5.webp", source: "owner", caption: "Kilian Good Girl Gone Bad chính hãng", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-chinh-hang-1.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 2", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-danh-gia-10.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 3", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-fullbox-6.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 4", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-gia-tot-7.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 5", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-mua-o-dau-12.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 6", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-mui-huong-9.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 7", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 8", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-review-2.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 9", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-sang-trong-16.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 10", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-so-sanh-8.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 11", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-that-hay-gia-13.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 12", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-thuc-te-3.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 13", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-top-nuoc-hoa-14.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 14", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-trai-nghiem-11.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 15", verified: true },
-      { url: "/images/products/225-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-unboxing-4.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 16", verified: true }
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-chai-nuoc-hoa-5.webp", source: "owner", caption: "Kilian Good Girl Gone Bad chính hãng", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-chinh-hang-1.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 2", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-danh-gia-10.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 3", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-fullbox-6.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 4", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-gia-tot-7.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 5", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-mua-o-dau-12.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 6", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-mui-huong-9.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 7", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 8", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-review-2.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 9", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-sang-trong-16.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 10", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-so-sanh-8.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 11", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-that-hay-gia-13.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 12", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-thuc-te-3.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 13", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-top-nuoc-hoa-14.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 14", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-trai-nghiem-11.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 15", verified: true },
+      { url: "/images/products/159-kilan-good-girl-gone-bad/nuoc-hoa-kilian-good-girl-gone-bad-unboxing-4.webp", source: "owner", caption: "Kilian Good Girl Gone Bad ảnh thực tế 16", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14220,19 +14220,19 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Gần gũi", icon: "🥛" },
       { label: "Da thịt", icon: "💋" }
     ],
-    image: "/images/products/226-kilian-rolling-in-love-main.jpg",
+    image: "/images/products/161-kilian-rolling-in-love-main.jpg",
     images: [
-      { url: "/images/products/226-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-chai-nuoc-hoa-5.webp", source: "owner", caption: "Kilian Rolling In Love chính hãng", verified: true },
-      { url: "/images/products/226-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-chinh-hang-1.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 2", verified: true },
-      { url: "/images/products/226-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-danh-gia-10.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 3", verified: true },
-      { url: "/images/products/226-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-fullbox-6.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 4", verified: true },
-      { url: "/images/products/226-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-gia-tot-7.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 5", verified: true },
-      { url: "/images/products/226-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-mui-huong-9.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 6", verified: true },
-      { url: "/images/products/226-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-review-2.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 7", verified: true },
-      { url: "/images/products/226-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-so-sanh-8.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 8", verified: true },
-      { url: "/images/products/226-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-thuc-te-3.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 9", verified: true },
-      { url: "/images/products/226-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-trai-nghiem-11.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 10", verified: true },
-      { url: "/images/products/226-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-unboxing-4.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 11", verified: true }
+      { url: "/images/products/161-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-chai-nuoc-hoa-5.webp", source: "owner", caption: "Kilian Rolling In Love chính hãng", verified: true },
+      { url: "/images/products/161-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-chinh-hang-1.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 2", verified: true },
+      { url: "/images/products/161-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-danh-gia-10.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 3", verified: true },
+      { url: "/images/products/161-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-fullbox-6.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 4", verified: true },
+      { url: "/images/products/161-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-gia-tot-7.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 5", verified: true },
+      { url: "/images/products/161-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-mui-huong-9.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 6", verified: true },
+      { url: "/images/products/161-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-review-2.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 7", verified: true },
+      { url: "/images/products/161-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-so-sanh-8.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 8", verified: true },
+      { url: "/images/products/161-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-thuc-te-3.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 9", verified: true },
+      { url: "/images/products/161-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-trai-nghiem-11.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 10", verified: true },
+      { url: "/images/products/161-kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-unboxing-4.webp", source: "owner", caption: "Kilian Rolling In Love ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14282,26 +14282,26 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Êm đềm", icon: "🎹" },
       { label: "Sữa nhạt", icon: "🥛" }
     ],
-    image: "/images/products/227-lorchestre-piano-santal-main.jpg",
+    image: "/images/products/162-lorchestre-piano-santal-main.jpg",
     images: [
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-chai-nuoc-hoa-5.webp", source: "owner", caption: "L'Orchestre Piano Santal chính hãng", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-chinh-hang-1.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 2", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-danh-gia-10.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 3", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-fullbox-6.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 4", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-gia-tot-7.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 5", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-mua-o-dau-12.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 6", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-mui-huong-9.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 7", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 8", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-phong-cach-17.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 9", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-qua-tang-18.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 10", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-review-2.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 11", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-sang-trong-16.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 12", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-so-sanh-8.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 13", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-that-hay-gia-13.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 14", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-thuc-te-3.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 15", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-top-nuoc-hoa-14.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 16", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-trai-nghiem-11.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 17", verified: true },
-      { url: "/images/products/227-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-unboxing-4.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 18", verified: true }
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-chai-nuoc-hoa-5.webp", source: "owner", caption: "L'Orchestre Piano Santal chính hãng", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-chinh-hang-1.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 2", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-danh-gia-10.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 3", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-fullbox-6.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 4", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-gia-tot-7.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 5", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-mua-o-dau-12.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 6", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-mui-huong-9.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 7", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 8", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-phong-cach-17.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 9", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-qua-tang-18.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 10", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-review-2.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 11", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-sang-trong-16.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 12", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-so-sanh-8.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 13", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-that-hay-gia-13.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 14", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-thuc-te-3.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 15", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-top-nuoc-hoa-14.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 16", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-trai-nghiem-11.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 17", verified: true },
+      { url: "/images/products/162-lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-unboxing-4.webp", source: "owner", caption: "L'Orchestre Piano Santal ảnh thực tế 18", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14360,18 +14360,18 @@ Encre Noire thuộc phân khúc entry — RẺ NHẤT trong mọi chai có cá t
 ### Nên dùng khi nào?
 
 Chiều tối, mùa mưa, trời mát, ngày xám, mood introvert. Xịt 2 nhát: cổ, ngực. Đẹp nhất mùa thu đông hoặc ngày mưa Sài Gòn. Đừng dùng đi tiệc hay hẹn hò lần đầu — quá tối.`,
-    image: "/images/products/228-lalique-encre-noir-edt-main.jpg",
+    image: "/images/products/163-lalique-encre-noir-edt-main.jpg",
     images: [
-      { url: "/images/products/228-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-chai-nuoc-hoa-5.webp", source: "owner", caption: "Lalique Encre Noire EDT chính hãng", verified: true },
-      { url: "/images/products/228-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-chinh-hang-1.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 2", verified: true },
-      { url: "/images/products/228-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-danh-gia-10.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 3", verified: true },
-      { url: "/images/products/228-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-fullbox-6.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 4", verified: true },
-      { url: "/images/products/228-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-gia-tot-7.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 5", verified: true },
-      { url: "/images/products/228-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-mui-huong-9.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 6", verified: true },
-      { url: "/images/products/228-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-review-2.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 7", verified: true },
-      { url: "/images/products/228-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-so-sanh-8.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 8", verified: true },
-      { url: "/images/products/228-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-thuc-te-3.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 9", verified: true },
-      { url: "/images/products/228-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-unboxing-4.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 10", verified: true }
+      { url: "/images/products/163-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-chai-nuoc-hoa-5.webp", source: "owner", caption: "Lalique Encre Noire EDT chính hãng", verified: true },
+      { url: "/images/products/163-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-chinh-hang-1.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 2", verified: true },
+      { url: "/images/products/163-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-danh-gia-10.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 3", verified: true },
+      { url: "/images/products/163-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-fullbox-6.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 4", verified: true },
+      { url: "/images/products/163-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-gia-tot-7.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 5", verified: true },
+      { url: "/images/products/163-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-mui-huong-9.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 6", verified: true },
+      { url: "/images/products/163-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-review-2.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 7", verified: true },
+      { url: "/images/products/163-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-so-sanh-8.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 8", verified: true },
+      { url: "/images/products/163-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-thuc-te-3.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 9", verified: true },
+      { url: "/images/products/163-lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noire-edt-unboxing-4.webp", source: "owner", caption: "Lalique Encre Noire EDT ảnh thực tế 10", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14422,26 +14422,26 @@ Chiều tối, mùa mưa, trời mát, ngày xám, mood introvert. Xịt 2 nhát
       { label: "Xưởng mộc", icon: "🪵" },
       { label: "Hipster", icon: "🎩" }
     ],
-    image: "/images/products/229-le-labo-santal-main.jpg",
+    image: "/images/products/168-le-labo-santal-main.jpg",
     images: [
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-chai-nuoc-hoa-5.webp", source: "owner", caption: "Le Labo Santal 33 chính hãng", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-chinh-hang-1.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 2", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-danh-gia-10.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 3", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-fullbox-6.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 4", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-gia-tot-7.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 5", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-mua-o-dau-12.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 6", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-mui-huong-9.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 7", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 8", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-phong-cach-17.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 9", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-qua-tang-18.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 10", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-review-2.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 11", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-sang-trong-16.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 12", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-so-sanh-8.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 13", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-that-hay-gia-13.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 14", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-thuc-te-3.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 15", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-top-nuoc-hoa-14.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 16", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-trai-nghiem-11.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 17", verified: true },
-      { url: "/images/products/229-le-labo-santal/nuoc-hoa-le-labo-santal-33-unboxing-4.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 18", verified: true }
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-chai-nuoc-hoa-5.webp", source: "owner", caption: "Le Labo Santal 33 chính hãng", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-chinh-hang-1.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 2", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-danh-gia-10.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 3", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-fullbox-6.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 4", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-gia-tot-7.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 5", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-mua-o-dau-12.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 6", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-mui-huong-9.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 7", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 8", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-phong-cach-17.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 9", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-qua-tang-18.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 10", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-review-2.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 11", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-sang-trong-16.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 12", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-so-sanh-8.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 13", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-that-hay-gia-13.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 14", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-thuc-te-3.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 15", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-top-nuoc-hoa-14.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 16", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-trai-nghiem-11.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 17", verified: true },
+      { url: "/images/products/168-le-labo-santal/nuoc-hoa-le-labo-santal-33-unboxing-4.webp", source: "owner", caption: "Le Labo Santal 33 ảnh thực tế 18", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14492,24 +14492,24 @@ Chiều tối, mùa mưa, trời mát, ngày xám, mood introvert. Xịt 2 nhát
       { label: "Backpack", icon: "🎒" },
       { label: "Đáng yêu", icon: "🍑" }
     ],
-    image: "/images/products/230-mcm-zen-elephant-main.jpg",
+    image: "/images/products/189-mcm-zen-elephant-main.jpg",
     images: [
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-chai-nuoc-hoa-5.webp", source: "owner", caption: "MCM Eau de Parfum chính hãng", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-chinh-hang-1.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 2", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-danh-gia-10.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 3", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-fullbox-6.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 4", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-gia-tot-7.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 5", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-mua-o-dau-12.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 6", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-mui-huong-9.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 7", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 8", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-review-2.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 9", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-sang-trong-16.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 10", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-so-sanh-8.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 11", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-that-hay-gia-13.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 12", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-thuc-te-3.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 13", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-top-nuoc-hoa-14.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 14", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-trai-nghiem-11.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 15", verified: true },
-      { url: "/images/products/230-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-unboxing-4.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 16", verified: true }
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-chai-nuoc-hoa-5.webp", source: "owner", caption: "MCM Eau de Parfum chính hãng", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-chinh-hang-1.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 2", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-danh-gia-10.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 3", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-fullbox-6.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 4", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-gia-tot-7.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 5", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-mua-o-dau-12.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 6", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-mui-huong-9.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 7", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 8", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-review-2.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 9", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-sang-trong-16.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 10", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-so-sanh-8.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 11", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-that-hay-gia-13.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 12", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-thuc-te-3.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 13", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-top-nuoc-hoa-14.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 14", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-trai-nghiem-11.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 15", verified: true },
+      { url: "/images/products/189-mcm-zen-elephant/nuoc-hoa-mcm-eau-de-parfum-unboxing-4.webp", source: "owner", caption: "MCM Eau de Parfum ảnh thực tế 16", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14559,22 +14559,22 @@ Chiều tối, mùa mưa, trời mát, ngày xám, mood introvert. Xịt 2 nhát
       { label: "Sạch sẽ", icon: "🧼" },
       { label: "Hồi sinh", icon: "💦" }
     ],
-    image: "/images/products/231-maison-francis-kurkdjian-kurky-main.jpg",
+    image: "/images/products/177-maison-francis-kurkdjian-kurky-main.jpg",
     images: [
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis chính hãng", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-chinh-hang-1.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 2", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-danh-gia-10.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 3", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-fullbox-6.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 4", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-gia-tot-7.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 5", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-mua-o-dau-12.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 6", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-mui-huong-9.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 7", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-review-2.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 8", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-so-sanh-8.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 9", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-that-hay-gia-13.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 10", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-thuc-te-3.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 11", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-top-nuoc-hoa-14.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 12", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-trai-nghiem-11.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 13", verified: true },
-      { url: "/images/products/231-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-unboxing-4.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 14", verified: true }
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis chính hãng", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-chinh-hang-1.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 2", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-danh-gia-10.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 3", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-fullbox-6.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 4", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-gia-tot-7.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 5", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-mua-o-dau-12.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 6", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-mui-huong-9.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 7", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-review-2.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 8", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-so-sanh-8.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 9", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-that-hay-gia-13.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 10", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-thuc-te-3.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 11", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-top-nuoc-hoa-14.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 12", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-trai-nghiem-11.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 13", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-unboxing-4.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 14", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14626,19 +14626,19 @@ Chiều tối, mùa mưa, trời mát, ngày xám, mood introvert. Xịt 2 nhát
       { label: "Giỏ trái cây", icon: "🍍" },
       { label: "Giải nhiệt", icon: "🧊" }
     ],
-    image: "/images/products/232-mancera-sicily-main.jpg",
+    image: "/images/products/187-mancera-sicily-main.jpg",
     images: [
-      { url: "/images/products/232-mancera-sicily/nuoc-hoa-mancera-sicily-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Mancera Sicily EDP chính hãng", verified: true },
-      { url: "/images/products/232-mancera-sicily/nuoc-hoa-mancera-sicily-edp-chinh-hang-1.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/232-mancera-sicily/nuoc-hoa-mancera-sicily-edp-danh-gia-10.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/232-mancera-sicily/nuoc-hoa-mancera-sicily-edp-fullbox-6.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/232-mancera-sicily/nuoc-hoa-mancera-sicily-edp-gia-tot-7.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/232-mancera-sicily/nuoc-hoa-mancera-sicily-edp-mui-huong-9.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/232-mancera-sicily/nuoc-hoa-mancera-sicily-edp-review-2.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/232-mancera-sicily/nuoc-hoa-mancera-sicily-edp-so-sanh-8.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/232-mancera-sicily/nuoc-hoa-mancera-sicily-edp-thuc-te-3.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/232-mancera-sicily/nuoc-hoa-mancera-sicily-edp-trai-nghiem-11.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/232-mancera-sicily/nuoc-hoa-mancera-sicily-edp-unboxing-4.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 11", verified: true }
+      { url: "/images/products/187-mancera-sicily/nuoc-hoa-mancera-sicily-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Mancera Sicily EDP chính hãng", verified: true },
+      { url: "/images/products/187-mancera-sicily/nuoc-hoa-mancera-sicily-edp-chinh-hang-1.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/187-mancera-sicily/nuoc-hoa-mancera-sicily-edp-danh-gia-10.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/187-mancera-sicily/nuoc-hoa-mancera-sicily-edp-fullbox-6.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/187-mancera-sicily/nuoc-hoa-mancera-sicily-edp-gia-tot-7.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/187-mancera-sicily/nuoc-hoa-mancera-sicily-edp-mui-huong-9.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/187-mancera-sicily/nuoc-hoa-mancera-sicily-edp-review-2.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/187-mancera-sicily/nuoc-hoa-mancera-sicily-edp-so-sanh-8.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/187-mancera-sicily/nuoc-hoa-mancera-sicily-edp-thuc-te-3.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/187-mancera-sicily/nuoc-hoa-mancera-sicily-edp-trai-nghiem-11.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/187-mancera-sicily/nuoc-hoa-mancera-sicily-edp-unboxing-4.webp", source: "owner", caption: "Mancera Sicily EDP ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14702,20 +14702,20 @@ Cedrat Boisé thuộc phân khúc niche dễ tiếp cận — rẻ hơn Creed Av
 ### Nên dùng khi nào?
 
 Dùng quanh năm — đi làm, gặp khách, đi chơi, cà phê. Xịt 2-3 nhát: cổ, ngực, cổ tay. Đẹp nhất xuân hè. Ở Sài Gòn dùng quanh năm rất thoải mái.`,
-    image: "/images/products/233-mancera-cedrat-boise-main.jpg",
+    image: "/images/products/185-mancera-cedrat-boise-main.jpg",
     images: [
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-chai-nuoc-hoa-5.webp", source: "owner", caption: "Mancera Cedrat Boise chính hãng", verified: true },
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-chinh-hang-1.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 2", verified: true },
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-danh-gia-10.jpg", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 3", verified: true },
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-fullbox-6.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 4", verified: true },
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-gia-tot-7.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 5", verified: true },
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-mua-o-dau-12.jpg", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 6", verified: true },
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-mui-huong-9.jpg", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 7", verified: true },
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-review-2.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 8", verified: true },
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-so-sanh-8.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 9", verified: true },
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-thuc-te-3.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 10", verified: true },
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-trai-nghiem-11.jpg", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 11", verified: true },
-      { url: "/images/products/233-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-unboxing-4.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 12", verified: true }
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-chai-nuoc-hoa-5.webp", source: "owner", caption: "Mancera Cedrat Boise chính hãng", verified: true },
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-chinh-hang-1.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 2", verified: true },
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-danh-gia-10.jpg", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 3", verified: true },
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-fullbox-6.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 4", verified: true },
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-gia-tot-7.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 5", verified: true },
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-mua-o-dau-12.jpg", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 6", verified: true },
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-mui-huong-9.jpg", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 7", verified: true },
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-review-2.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 8", verified: true },
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-so-sanh-8.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 9", verified: true },
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-thuc-te-3.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 10", verified: true },
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-trai-nghiem-11.jpg", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 11", verified: true },
+      { url: "/images/products/185-mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-unboxing-4.webp", source: "owner", caption: "Mancera Cedrat Boise ảnh thực tế 12", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14776,21 +14776,21 @@ BR540 thuộc phân khúc niche cao cấp — đắt hơn đáng kể so với d
 ### Nên dùng khi nào?
 
 Đẹp nhất khi trời mát — mùa đông Hà Nội hoặc mùa mưa Sài Gòn. Hợp đi ăn tối, dự tiệc hoặc những dịp muốn tạo dấu ấn. Xịt 1 nhát sau gáy và 1 nhát cổ tay là đủ — đừng xịt quá 2 nhát vì mùi rất tỏa. Dùng ban ngày trong phòng máy lạnh cũng đẹp. Đừng dùng ngày nóng 35°C ngoài trời vì sẽ hơi ngọp.`,
-    image: "/images/products/baccarat-rouge-540-main.jpg",
+    image: "/images/products/178-mfk-baccarat-54-edp-main.jpg",
     images: [
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP chính hãng", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-chinh-hang-1.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-danh-gia-10.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-fullbox-6.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-gia-tot-7.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-mua-o-dau-12.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-mui-huong-9.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-review-2.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-so-sanh-8.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-that-hay-gia-13.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-thuc-te-3.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 11", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-trai-nghiem-11.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 12", verified: true },
-      { url: "/images/products/234-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-unboxing-4.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 13", verified: true }
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP chính hãng", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-chinh-hang-1.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-danh-gia-10.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-fullbox-6.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-gia-tot-7.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-mua-o-dau-12.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-mui-huong-9.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-review-2.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-so-sanh-8.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-that-hay-gia-13.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-thuc-te-3.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 11", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-trai-nghiem-11.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 12", verified: true },
+      { url: "/images/products/178-mfk-baccarat-54-edp/nuoc-hoa-maison-francis-kurkdjian-baccarat-rouge-540-edp-unboxing-4.webp", source: "owner", caption: "Maison Francis Kurkdjian Baccarat Rouge 540 EDP ảnh thực tế 13", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14841,18 +14841,18 @@ BR540 thuộc phân khúc niche cao cấp — đắt hơn đáng kể so với d
       { label: "Tinh khiết", icon: "🕊️" },
       { label: "Nàng thơ", icon: "💐" }
     ],
-    image: "/images/products/235-mfk-a-la-rose/nuoc-hoa-mfk-a-la-rose-thuc-te-1.webp",
+    image: "/images/products/176-mfk-a-la-rose/nuoc-hoa-mfk-a-la-rose-thuc-te-1.webp",
     images: [
-      { url: "/images/products/235-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose chính hãng", verified: true },
-      { url: "/images/products/235-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-chinh-hang-1.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 2", verified: true },
-      { url: "/images/products/235-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-danh-gia-10.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 3", verified: true },
-      { url: "/images/products/235-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-fullbox-6.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 4", verified: true },
-      { url: "/images/products/235-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-gia-tot-7.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 5", verified: true },
-      { url: "/images/products/235-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-mui-huong-9.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 6", verified: true },
-      { url: "/images/products/235-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-review-2.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 7", verified: true },
-      { url: "/images/products/235-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-so-sanh-8.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 8", verified: true },
-      { url: "/images/products/235-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-thuc-te-3.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 9", verified: true },
-      { url: "/images/products/235-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-unboxing-4.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 10", verified: true }
+      { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose chính hãng", verified: true },
+      { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-chinh-hang-1.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 2", verified: true },
+      { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-danh-gia-10.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 3", verified: true },
+      { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-fullbox-6.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 4", verified: true },
+      { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-gia-tot-7.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 5", verified: true },
+      { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-mui-huong-9.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 6", verified: true },
+      { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-review-2.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 7", verified: true },
+      { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-so-sanh-8.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 8", verified: true },
+      { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-thuc-te-3.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 9", verified: true },
+      { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-unboxing-4.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 10", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14899,19 +14899,19 @@ BR540 thuộc phân khúc niche cao cấp — đắt hơn đáng kể so với d
       { label: "Tiểu thư", icon: "🎀" },
       { label: "Trưởng thành", icon: "💃" }
     ],
-    image: "/images/products/236-miss-dior-essence-new-2025-main.jpg",
+    image: "/images/products/073-miss-dior-essence-new-2025-main.jpg",
     images: [
-      { url: "/images/products/236-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-chai-nuoc-hoa-5.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum chính hãng", verified: true },
-      { url: "/images/products/236-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-chinh-hang-1.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 2", verified: true },
-      { url: "/images/products/236-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-danh-gia-10.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 3", verified: true },
-      { url: "/images/products/236-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-fullbox-6.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 4", verified: true },
-      { url: "/images/products/236-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-gia-tot-7.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 5", verified: true },
-      { url: "/images/products/236-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-mui-huong-9.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 6", verified: true },
-      { url: "/images/products/236-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-review-2.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 7", verified: true },
-      { url: "/images/products/236-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-so-sanh-8.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 8", verified: true },
-      { url: "/images/products/236-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-thuc-te-3.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 9", verified: true },
-      { url: "/images/products/236-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-trai-nghiem-11.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 10", verified: true },
-      { url: "/images/products/236-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-unboxing-4.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 11", verified: true }
+      { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-chai-nuoc-hoa-5.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum chính hãng", verified: true },
+      { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-chinh-hang-1.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 2", verified: true },
+      { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-danh-gia-10.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 3", verified: true },
+      { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-fullbox-6.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 4", verified: true },
+      { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-gia-tot-7.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 5", verified: true },
+      { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-mui-huong-9.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 6", verified: true },
+      { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-review-2.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 7", verified: true },
+      { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-so-sanh-8.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 8", verified: true },
+      { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-thuc-te-3.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 9", verified: true },
+      { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-trai-nghiem-11.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 10", verified: true },
+      { url: "/images/products/073-miss-dior-essence-new-2025/nuoc-hoa-dior-miss-dior-essence-parfum-unboxing-4.webp", source: "owner", caption: "Dior Miss Dior Essence Parfum ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -14964,20 +14964,20 @@ BR540 thuộc phân khúc niche cao cấp — đắt hơn đáng kể so với d
       { label: "Cổ điển", icon: "🤎" },
       { label: "Quyến rũ", icon: "💋" }
     ],
-    image: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-miss-dior-parfum-new-2024-thuc-te-1.webp",
+    image: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-miss-dior-parfum-new-2024-thuc-te-1.webp",
     images: [
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-chai-nuoc-hoa-5.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 chính hãng", verified: true },
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-chinh-hang-1.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 2", verified: true },
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-danh-gia-10.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 3", verified: true },
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-fullbox-6.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 4", verified: true },
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-gia-tot-7.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 5", verified: true },
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-mua-o-dau-12.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 6", verified: true },
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-mui-huong-9.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 7", verified: true },
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-review-2.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 8", verified: true },
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-so-sanh-8.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 9", verified: true },
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-thuc-te-3.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 10", verified: true },
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-trai-nghiem-11.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 11", verified: true },
-      { url: "/images/products/237-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-unboxing-4.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 12", verified: true }
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-chai-nuoc-hoa-5.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 chính hãng", verified: true },
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-chinh-hang-1.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 2", verified: true },
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-danh-gia-10.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 3", verified: true },
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-fullbox-6.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 4", verified: true },
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-gia-tot-7.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 5", verified: true },
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-mua-o-dau-12.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 6", verified: true },
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-mui-huong-9.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 7", verified: true },
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-review-2.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 8", verified: true },
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-so-sanh-8.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 9", verified: true },
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-thuc-te-3.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 10", verified: true },
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-trai-nghiem-11.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 11", verified: true },
+      { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-unboxing-4.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 12", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15043,17 +15043,17 @@ Giá Moschino — CỰC RẺ. Rẻ nhất list cho một chai nam EDP có cá t�
 ### Nên dùng khi nào?
 
 Đi chơi, hẹn hò, party, hoặc khi muốn fun + unique. Xịt 3 nhát cổ. Quanh năm — hồng tươi mùa hè, nhũ hương ấm mùa đông. Chai để phá lệ.`,
-    image: "/images/products/238-moschino-toy-boy-main.jpg",
+    image: "/images/products/193-moschino-toy-boy-main.jpg",
     images: [
-      { url: "/images/products/238-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-chai-nuoc-hoa-5.webp", source: "owner", caption: "Moschino Toy Boy chính hãng", verified: true },
-      { url: "/images/products/238-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-chinh-hang-1.jpg", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 2", verified: true },
-      { url: "/images/products/238-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-fullbox-6.webp", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 3", verified: true },
-      { url: "/images/products/238-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-gia-tot-7.webp", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 4", verified: true },
-      { url: "/images/products/238-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-mui-huong-9.jpg", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 5", verified: true },
-      { url: "/images/products/238-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-review-2.webp", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 6", verified: true },
-      { url: "/images/products/238-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-so-sanh-8.webp", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 7", verified: true },
-      { url: "/images/products/238-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-thuc-te-3.webp", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 8", verified: true },
-      { url: "/images/products/238-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-unboxing-4.jpg", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 9", verified: true }
+      { url: "/images/products/193-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-chai-nuoc-hoa-5.webp", source: "owner", caption: "Moschino Toy Boy chính hãng", verified: true },
+      { url: "/images/products/193-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-chinh-hang-1.jpg", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 2", verified: true },
+      { url: "/images/products/193-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-fullbox-6.webp", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 3", verified: true },
+      { url: "/images/products/193-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-gia-tot-7.webp", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 4", verified: true },
+      { url: "/images/products/193-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-mui-huong-9.jpg", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 5", verified: true },
+      { url: "/images/products/193-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-review-2.webp", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 6", verified: true },
+      { url: "/images/products/193-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-so-sanh-8.webp", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 7", verified: true },
+      { url: "/images/products/193-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-thuc-te-3.webp", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 8", verified: true },
+      { url: "/images/products/193-moschino-toy-boy/nuoc-hoa-moschino-toy-boy-unboxing-4.jpg", source: "owner", caption: "Moschino Toy Boy ảnh thực tế 9", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15089,25 +15089,25 @@ Giá Moschino — CỰC RẺ. Rẻ nhất list cho một chai nam EDP có cá t�
       {"name": "Cay tươi", "value": 75, "color": "#7cb342"},
       {"name": "Gỗ", "value": 65, "color": "#8b4513"}
     ],
-    image: "/images/products/239-musk-kashmir-main.jpg",
+    image: "/images/products/012-musk-kashmir-main.jpg",
     images: [
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-chai-nuoc-hoa-5.webp", source: "owner", caption: "Attar Collection Musk Kashmir chính hãng", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-chinh-hang-1.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 2", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-danh-gia-10.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 3", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-fullbox-6.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 4", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-gia-tot-7.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 5", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-mua-o-dau-12.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 6", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-mui-huong-9.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 7", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 8", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-phong-cach-17.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 9", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-review-2.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 10", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-sang-trong-16.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 11", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-so-sanh-8.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 12", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-that-hay-gia-13.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 13", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-thuc-te-3.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 14", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-top-nuoc-hoa-14.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 15", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-trai-nghiem-11.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 16", verified: true },
-      { url: "/images/products/239-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-unboxing-4.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 17", verified: true }
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-chai-nuoc-hoa-5.webp", source: "owner", caption: "Attar Collection Musk Kashmir chính hãng", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-chinh-hang-1.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 2", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-danh-gia-10.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 3", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-fullbox-6.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 4", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-gia-tot-7.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 5", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-mua-o-dau-12.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 6", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-mui-huong-9.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 7", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 8", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-phong-cach-17.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 9", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-review-2.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 10", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-sang-trong-16.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 11", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-so-sanh-8.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 12", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-that-hay-gia-13.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 13", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-thuc-te-3.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 14", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-top-nuoc-hoa-14.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 15", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-trai-nghiem-11.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 16", verified: true },
+      { url: "/images/products/012-musk-kashmir/nuoc-hoa-attar-collection-musk-kashmir-unboxing-4.webp", source: "owner", caption: "Attar Collection Musk Kashmir ảnh thực tế 17", verified: true }
     ],
     description: "Chiếc chăn len cashmere mịn màng nhất thế giới Ả Rập. Giọt xạ hương trắng bồng bềnh cuộn lấy tiêu trắng và hổ phách, mang đến thứ cảm xúc da thịt cực kì mượt mà.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
@@ -15171,19 +15171,19 @@ My Way thuộc phân khúc Armani — giá tương đương Sì EDP. So với S�
 ### Nên dùng khi nào?
 
 Dùng hằng ngày — đi làm, đi học, đi cà phê, gặp gỡ. Xịt 2-3 nhát: cổ, cổ tay. Dùng quanh năm nhưng đẹp nhất xuân hè. Ở Sài Gòn dùng rất thoải mái.`,
-    image: "/images/products/240-my-way-edp-main.jpg",
+    image: "/images/products/101-my-way-edp-main.jpg",
     images: [
-      { url: "/images/products/240-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Giorgio Armani My Way EDP chính hãng", verified: true },
-      { url: "/images/products/240-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-chinh-hang-1.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/240-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-danh-gia-10.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/240-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-fullbox-6.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/240-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-gia-tot-7.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/240-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-mui-huong-9.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/240-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-review-2.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/240-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-so-sanh-8.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/240-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-thuc-te-3.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/240-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-trai-nghiem-11.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/240-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-unboxing-4.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 11", verified: true }
+      { url: "/images/products/101-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Giorgio Armani My Way EDP chính hãng", verified: true },
+      { url: "/images/products/101-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-chinh-hang-1.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/101-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-danh-gia-10.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/101-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-fullbox-6.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/101-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-gia-tot-7.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/101-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-mui-huong-9.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/101-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-review-2.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/101-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-so-sanh-8.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/101-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-thuc-te-3.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/101-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-trai-nghiem-11.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/101-my-way-edp/nuoc-hoa-giorgio-armani-my-way-edp-unboxing-4.webp", source: "owner", caption: "Giorgio Armani My Way EDP ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15236,23 +15236,23 @@ Dùng hằng ngày — đi làm, đi học, đi cà phê, gặp gỡ. Xịt 2-3 
       { label: "Pha lê", icon: "💎" },
       { label: "Tinh khôi", icon: "🕊️" }
     ],
-    image: "/images/products/241-nar-cristal-edp-main.jpg",
+    image: "/images/products/199-nar-cristal-edp-main.jpg",
     images: [
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP chính hãng", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-mua-o-dau-12.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-review-2.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-that-hay-gia-13.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 11", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 12", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-top-nuoc-hoa-14.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 13", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 14", verified: true },
-      { url: "/images/products/241-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 15", verified: true }
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP chính hãng", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-mua-o-dau-12.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-review-2.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-that-hay-gia-13.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 11", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 12", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-top-nuoc-hoa-14.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 13", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 14", verified: true },
+      { url: "/images/products/199-nar-cristal-edp/nuoc-hoa-narciso-rodriguez-cristal-edp-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez Cristal EDP ảnh thực tế 15", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15304,19 +15304,19 @@ Dùng hằng ngày — đi làm, đi học, đi cà phê, gặp gỡ. Xịt 2-3 
       { label: "Phấn thơm đài các", icon: "💅" },
       { label: "Quý bà lụa là", icon: "👗" }
     ],
-    image: "/images/products/242-nar-poudree-main.jpg",
+    image: "/images/products/204-nar-poudree-main.jpg",
     images: [
-      { url: "/images/products/242-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez Poudrée chính hãng", verified: true },
-      { url: "/images/products/242-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 2", verified: true },
-      { url: "/images/products/242-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 3", verified: true },
-      { url: "/images/products/242-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 4", verified: true },
-      { url: "/images/products/242-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 5", verified: true },
-      { url: "/images/products/242-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 6", verified: true },
-      { url: "/images/products/242-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-review-2.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 7", verified: true },
-      { url: "/images/products/242-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 8", verified: true },
-      { url: "/images/products/242-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 9", verified: true },
-      { url: "/images/products/242-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 10", verified: true },
-      { url: "/images/products/242-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 11", verified: true }
+      { url: "/images/products/204-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez Poudrée chính hãng", verified: true },
+      { url: "/images/products/204-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 2", verified: true },
+      { url: "/images/products/204-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 3", verified: true },
+      { url: "/images/products/204-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 4", verified: true },
+      { url: "/images/products/204-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 5", verified: true },
+      { url: "/images/products/204-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 6", verified: true },
+      { url: "/images/products/204-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-review-2.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 7", verified: true },
+      { url: "/images/products/204-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 8", verified: true },
+      { url: "/images/products/204-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 9", verified: true },
+      { url: "/images/products/204-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 10", verified: true },
+      { url: "/images/products/204-nar-poudree/nuoc-hoa-narciso-rodriguez-poudree-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez Poudrée ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15368,26 +15368,26 @@ Dùng hằng ngày — đi làm, đi học, đi cà phê, gặp gỡ. Xịt 2-3 
       { label: "Nắng hè", icon: "☀️" },
       { label: "Kem chống nắng", icon: "🌴" }
     ],
-    image: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-ambree-thuc-te-1.webp",
+    image: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-ambree-thuc-te-1.webp",
     images: [
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez Ambrée chính hãng", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 2", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 3", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 4", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 5", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-mua-o-dau-12.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 6", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 7", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 8", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-phong-cach-17.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 9", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-qua-tang-18.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 10", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-review-2.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 11", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-sang-trong-16.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 12", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 13", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-that-hay-gia-13.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 14", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 15", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-top-nuoc-hoa-14.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 16", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 17", verified: true },
-      { url: "/images/products/243-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 18", verified: true }
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez Ambrée chính hãng", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 2", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 3", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 4", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 5", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-mua-o-dau-12.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 6", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 7", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 8", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-phong-cach-17.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 9", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-qua-tang-18.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 10", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-review-2.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 11", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-sang-trong-16.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 12", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 13", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-that-hay-gia-13.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 14", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 15", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-top-nuoc-hoa-14.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 16", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 17", verified: true },
+      { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 18", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15438,24 +15438,24 @@ Dùng hằng ngày — đi làm, đi học, đi cà phê, gặp gỡ. Xịt 2-3 
       { label: "Quyền lực", icon: "⚜️" },
       { label: "Chị đại", icon: "👠" }
     ],
-    image: "/images/products/244-narciso-for-her-edp-intense-new-2025-main.jpg",
+    image: "/images/products/201-narciso-for-her-edp-intense-new-2025-main.jpg",
     images: [
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense chính hãng", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 2", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 3", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 4", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 5", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-mua-o-dau-12.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 6", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 7", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 8", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-review-2.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 9", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-sang-trong-16.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 10", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 11", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-that-hay-gia-13.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 12", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 13", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-top-nuoc-hoa-14.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 14", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 15", verified: true },
-      { url: "/images/products/244-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 16", verified: true }
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense chính hãng", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 2", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 3", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 4", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 5", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-mua-o-dau-12.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 6", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 7", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 8", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-review-2.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 9", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-sang-trong-16.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 10", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 11", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-that-hay-gia-13.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 12", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 13", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-top-nuoc-hoa-14.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 14", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 15", verified: true },
+      { url: "/images/products/201-narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-rodriguez-for-her-edp-intense-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP Intense ảnh thực tế 16", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15508,25 +15508,25 @@ Dùng hằng ngày — đi làm, đi học, đi cà phê, gặp gỡ. Xịt 2-3 
       { label: "Nàng thơ", icon: "🕊️" },
       { label: "Da thịt Nude", icon: "🤍" }
     ],
-    image: "/images/products/245-narciso-musc-nude-main.jpg",
+    image: "/images/products/203-narciso-musc-nude-main.jpg",
     images: [
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude chính hãng", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 2", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 3", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 4", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 5", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-mua-o-dau-12.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 6", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 7", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 8", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-phong-cach-17.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 9", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-review-2.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 10", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-sang-trong-16.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 11", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 12", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-that-hay-gia-13.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 13", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 14", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-top-nuoc-hoa-14.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 15", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 16", verified: true },
-      { url: "/images/products/245-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 17", verified: true }
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude chính hãng", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 2", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 3", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 4", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 5", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-mua-o-dau-12.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 6", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 7", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 8", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-phong-cach-17.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 9", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-review-2.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 10", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-sang-trong-16.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 11", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 12", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-that-hay-gia-13.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 13", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 14", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-top-nuoc-hoa-14.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 15", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 16", verified: true },
+      { url: "/images/products/203-narciso-musc-nude/nuoc-hoa-narciso-rodriguez-musc-nude-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez Musc Nude ảnh thực tế 17", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15575,16 +15575,16 @@ Dùng hằng ngày — đi làm, đi học, đi cà phê, gặp gỡ. Xịt 2-3 
       { label: "Độc bản", icon: "✨" },
       { label: "Hồng Xạ", icon: "💐" }
     ],
-    image: "/images/products/246-narciso-rodriguez-all-of-me-floral-main.jpg",
+    image: "/images/products/197-narciso-rodriguez-all-of-me-floral-main.jpg",
     images: [
-      { url: "/images/products/246-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral chính hãng", verified: true },
-      { url: "/images/products/246-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 2", verified: true },
-      { url: "/images/products/246-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 3", verified: true },
-      { url: "/images/products/246-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 4", verified: true },
-      { url: "/images/products/246-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-review-2.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 5", verified: true },
-      { url: "/images/products/246-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 6", verified: true },
-      { url: "/images/products/246-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 7", verified: true },
-      { url: "/images/products/246-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 8", verified: true }
+      { url: "/images/products/197-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral chính hãng", verified: true },
+      { url: "/images/products/197-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 2", verified: true },
+      { url: "/images/products/197-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 3", verified: true },
+      { url: "/images/products/197-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 4", verified: true },
+      { url: "/images/products/197-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-review-2.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 5", verified: true },
+      { url: "/images/products/197-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 6", verified: true },
+      { url: "/images/products/197-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 7", verified: true },
+      { url: "/images/products/197-narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez All of Me Floral ảnh thực tế 8", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15645,19 +15645,19 @@ For Her EDP thuộc phân khúc Narciso Rodriguez — giá tốt. So với bản
 ### Nên dùng khi nào?
 
 Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. Đẹp quanh năm. Ở Sài Gòn dùng thoải mái.`,
-    image: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum-main.jpg",
+    image: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum-main.jpg",
     images: [
-      { url: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP chính hãng", verified: true },
-      { url: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-review-2.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/247-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 11", verified: true }
+      { url: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP chính hãng", verified: true },
+      { url: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-danh-gia-10.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-fullbox-6.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-gia-tot-7.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-mui-huong-9.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-review-2.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-so-sanh-8.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-thuc-te-3.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-trai-nghiem-11.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/200-narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-edp-unboxing-4.webp", source: "owner", caption: "Narciso Rodriguez For Her EDP ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15693,18 +15693,18 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       {"name": "Tươi mát", "value": 60, "color": "#80deea"},
       {"name": "Xanh lá", "value": 55, "color": "#228b22"}
     ],
-    image: "/images/products/248-odyssey-limoni/nuoc-hoa-odyssey-limoni-thuc-te-1.webp",
+    image: "/images/products/009-odyssey-limoni/nuoc-hoa-odyssey-limoni-thuc-te-1.webp",
     images: [
-      { url: "/images/products/248-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-chai-nuoc-hoa-5.webp", source: "owner", caption: "Armaf Odyssey Limoni chính hãng", verified: true },
-      { url: "/images/products/248-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-chinh-hang-1.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 2", verified: true },
-      { url: "/images/products/248-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-danh-gia-10.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 3", verified: true },
-      { url: "/images/products/248-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-fullbox-6.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 4", verified: true },
-      { url: "/images/products/248-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-gia-tot-7.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 5", verified: true },
-      { url: "/images/products/248-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-mui-huong-9.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 6", verified: true },
-      { url: "/images/products/248-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-review-2.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 7", verified: true },
-      { url: "/images/products/248-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-so-sanh-8.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 8", verified: true },
-      { url: "/images/products/248-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-thuc-te-3.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 9", verified: true },
-      { url: "/images/products/248-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-unboxing-4.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 10", verified: true }
+      { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-chai-nuoc-hoa-5.webp", source: "owner", caption: "Armaf Odyssey Limoni chính hãng", verified: true },
+      { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-chinh-hang-1.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 2", verified: true },
+      { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-danh-gia-10.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 3", verified: true },
+      { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-fullbox-6.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 4", verified: true },
+      { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-gia-tot-7.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 5", verified: true },
+      { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-mui-huong-9.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 6", verified: true },
+      { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-review-2.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 7", verified: true },
+      { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-so-sanh-8.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 8", verified: true },
+      { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-thuc-te-3.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 9", verified: true },
+      { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-unboxing-4.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 10", verified: true }
     ],
     description: "Bản sao tươi mát của những ly chanh Ý hảo hạng. Vị chua sảng khoái và cực kì nổ bọt, độ bám tỏa xuất sắc đến từ nhà Armaf cho mùa hè rực lửa.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
@@ -15742,22 +15742,22 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       {"name": "Hổ phách", "value": 70, "color": "#b84d00"},
       {"name": "Thảo mộc", "value": 65, "color": "#368b6b"}
     ],
-    image: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-odyssey-mandarin-sky-thuc-te-1.webp",
+    image: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-odyssey-mandarin-sky-thuc-te-1.webp",
     images: [
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-chai-nuoc-hoa-5.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky chính hãng", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-chinh-hang-1.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 2", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-danh-gia-10.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 3", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-fullbox-6.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 4", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-gia-tot-7.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 5", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-mua-o-dau-12.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 6", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-mui-huong-9.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 7", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-review-2.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 8", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-so-sanh-8.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 9", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-that-hay-gia-13.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 10", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-thuc-te-3.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 11", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-top-nuoc-hoa-14.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 12", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-trai-nghiem-11.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 13", verified: true },
-      { url: "/images/products/249-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-unboxing-4.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 14", verified: true }
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-chai-nuoc-hoa-5.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky chính hãng", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-chinh-hang-1.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 2", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-danh-gia-10.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 3", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-fullbox-6.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 4", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-gia-tot-7.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 5", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-mua-o-dau-12.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 6", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-mui-huong-9.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 7", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-review-2.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 8", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-so-sanh-8.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 9", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-that-hay-gia-13.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 10", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-thuc-te-3.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 11", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-top-nuoc-hoa-14.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 12", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-trai-nghiem-11.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 13", verified: true },
+      { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-unboxing-4.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 14", verified: true }
     ],
     description: "Được mệnh danh là JPG Scandal nam phiên bản clone. Vị cam caramel cháy đậm đặc, ngọt ngào, siêu bám tỏa gây sự chú ý mạnh mẽ và ăn chơi.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
@@ -15810,23 +15810,23 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       { label: "Ngầu lòi", icon: "🧥" },
       { label: "Trung đông", icon: "👳‍♂️" }
     ],
-    image: "/images/products/250-oud-forever-main.jpg",
+    image: "/images/products/167-oud-forever-main.jpg",
     images: [
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-chai-nuoc-hoa-5.webp", source: "owner", caption: "Lattafa Oud Forever chính hãng", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-chinh-hang-1.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 2", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-danh-gia-10.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 3", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-fullbox-6.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 4", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-gia-tot-7.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 5", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-mua-o-dau-12.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 6", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-mui-huong-9.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 7", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 8", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-review-2.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 9", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-so-sanh-8.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 10", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-that-hay-gia-13.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 11", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-thuc-te-3.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 12", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-top-nuoc-hoa-14.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 13", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-trai-nghiem-11.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 14", verified: true },
-      { url: "/images/products/250-oud-forever/nuoc-hoa-lattafa-oud-forever-unboxing-4.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 15", verified: true }
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-chai-nuoc-hoa-5.webp", source: "owner", caption: "Lattafa Oud Forever chính hãng", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-chinh-hang-1.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 2", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-danh-gia-10.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 3", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-fullbox-6.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 4", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-gia-tot-7.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 5", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-mua-o-dau-12.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 6", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-mui-huong-9.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 7", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 8", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-review-2.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 9", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-so-sanh-8.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 10", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-that-hay-gia-13.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 11", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-thuc-te-3.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 12", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-top-nuoc-hoa-14.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 13", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-trai-nghiem-11.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 14", verified: true },
+      { url: "/images/products/167-oud-forever/nuoc-hoa-lattafa-oud-forever-unboxing-4.webp", source: "owner", caption: "Lattafa Oud Forever ảnh thực tế 15", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15881,27 +15881,27 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       { label: "Tay chơi Club", icon: "🥃" },
       { label: "Ác quỷ", icon: "🦇" }
     ],
-    image: "/images/products/251-paco-pure-xs-main.jpg",
+    image: "/images/products/209-paco-pure-xs-main.jpg",
     images: [
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-chai-nuoc-hoa-5.webp", source: "owner", caption: "Paco Rabanne Pure XS chính hãng", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-chinh-hang-1.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 2", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-danh-gia-10.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 3", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-fullbox-6.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 4", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-gia-tot-7.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 5", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-mua-o-dau-12.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 6", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-mui-huong-9.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 7", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-nam-2026-19.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 8", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 9", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-phong-cach-17.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 10", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-qua-tang-18.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 11", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-review-2.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 12", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-sang-trong-16.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 13", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-so-sanh-8.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 14", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-that-hay-gia-13.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 15", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-thuc-te-3.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 16", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-top-nuoc-hoa-14.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 17", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-trai-nghiem-11.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 18", verified: true },
-      { url: "/images/products/251-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-unboxing-4.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 19", verified: true }
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-chai-nuoc-hoa-5.webp", source: "owner", caption: "Paco Rabanne Pure XS chính hãng", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-chinh-hang-1.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 2", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-danh-gia-10.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 3", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-fullbox-6.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 4", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-gia-tot-7.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 5", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-mua-o-dau-12.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 6", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-mui-huong-9.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 7", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-nam-2026-19.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 8", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 9", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-phong-cach-17.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 10", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-qua-tang-18.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 11", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-review-2.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 12", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-sang-trong-16.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 13", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-so-sanh-8.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 14", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-that-hay-gia-13.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 15", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-thuc-te-3.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 16", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-top-nuoc-hoa-14.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 17", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-trai-nghiem-11.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 18", verified: true },
+      { url: "/images/products/209-paco-pure-xs/nuoc-hoa-paco-rabanne-pure-xs-unboxing-4.webp", source: "owner", caption: "Paco Rabanne Pure XS ảnh thực tế 19", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -15954,23 +15954,23 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       { label: "Quý cô Tím", icon: "👗" },
       { label: "Hoa Phấn", icon: "💅" }
     ],
-    image: "/images/products/252-parfums-de-marly-palatine-main.jpg",
+    image: "/images/products/215-parfums-de-marly-palatine-main.jpg",
     images: [
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-chai-nuoc-hoa-5.webp", source: "owner", caption: "Parfums de Marly Palatine chính hãng", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-chinh-hang-1.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 2", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-danh-gia-10.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 3", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-fullbox-6.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 4", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-gia-tot-7.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 5", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-mua-o-dau-12.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 6", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-mui-huong-9.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 7", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 8", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-review-2.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 9", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-so-sanh-8.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 10", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-that-hay-gia-13.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 11", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-thuc-te-3.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 12", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-top-nuoc-hoa-14.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 13", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-trai-nghiem-11.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 14", verified: true },
-      { url: "/images/products/252-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-unboxing-4.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 15", verified: true }
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-chai-nuoc-hoa-5.webp", source: "owner", caption: "Parfums de Marly Palatine chính hãng", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-chinh-hang-1.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 2", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-danh-gia-10.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 3", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-fullbox-6.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 4", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-gia-tot-7.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 5", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-mua-o-dau-12.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 6", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-mui-huong-9.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 7", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 8", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-review-2.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 9", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-so-sanh-8.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 10", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-that-hay-gia-13.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 11", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-thuc-te-3.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 12", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-top-nuoc-hoa-14.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 13", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-trai-nghiem-11.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 14", verified: true },
+      { url: "/images/products/215-parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-unboxing-4.webp", source: "owner", caption: "Parfums de Marly Palatine ảnh thực tế 15", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16025,19 +16025,19 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       { label: "Váy Lụa Voan", icon: "👗" },
       { label: "Tinh khôi", icon: "✨" }
     ],
-    image: "/images/products/253-parfums-de-marly-valaya-main.jpg",
+    image: "/images/products/217-parfums-de-marly-valaya-main.jpg",
     images: [
-      { url: "/images/products/253-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-chai-nuoc-hoa-5.webp", source: "owner", caption: "Parfums de Marly Valaya chính hãng", verified: true },
-      { url: "/images/products/253-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-chinh-hang-1.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 2", verified: true },
-      { url: "/images/products/253-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-danh-gia-10.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 3", verified: true },
-      { url: "/images/products/253-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-fullbox-6.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 4", verified: true },
-      { url: "/images/products/253-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-gia-tot-7.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 5", verified: true },
-      { url: "/images/products/253-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-mui-huong-9.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 6", verified: true },
-      { url: "/images/products/253-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-review-2.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 7", verified: true },
-      { url: "/images/products/253-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-so-sanh-8.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 8", verified: true },
-      { url: "/images/products/253-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-thuc-te-3.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 9", verified: true },
-      { url: "/images/products/253-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-trai-nghiem-11.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 10", verified: true },
-      { url: "/images/products/253-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-unboxing-4.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 11", verified: true }
+      { url: "/images/products/217-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-chai-nuoc-hoa-5.webp", source: "owner", caption: "Parfums de Marly Valaya chính hãng", verified: true },
+      { url: "/images/products/217-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-chinh-hang-1.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 2", verified: true },
+      { url: "/images/products/217-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-danh-gia-10.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 3", verified: true },
+      { url: "/images/products/217-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-fullbox-6.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 4", verified: true },
+      { url: "/images/products/217-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-gia-tot-7.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 5", verified: true },
+      { url: "/images/products/217-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-mui-huong-9.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 6", verified: true },
+      { url: "/images/products/217-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-review-2.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 7", verified: true },
+      { url: "/images/products/217-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-so-sanh-8.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 8", verified: true },
+      { url: "/images/products/217-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-thuc-te-3.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 9", verified: true },
+      { url: "/images/products/217-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-trai-nghiem-11.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 10", verified: true },
+      { url: "/images/products/217-parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-unboxing-4.webp", source: "owner", caption: "Parfums de Marly Valaya ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16091,22 +16091,22 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       { label: "Kim cương", icon: "💎" },
       { label: "Vương giả", icon: "👑" }
     ],
-    image: "/images/products/254-parfums-de-marly-valaya-exclusif-main.jpg",
+    image: "/images/products/218-parfums-de-marly-valaya-exclusif-main.jpg",
     images: [
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-chai-nuoc-hoa-5.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif chính hãng", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-chinh-hang-1.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 2", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-danh-gia-10.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 3", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-fullbox-6.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 4", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-gia-tot-7.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 5", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-mua-o-dau-12.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 6", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-mui-huong-9.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 7", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-review-2.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 8", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-so-sanh-8.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 9", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-that-hay-gia-13.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 10", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-thuc-te-3.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 11", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-top-nuoc-hoa-14.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 12", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-trai-nghiem-11.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 13", verified: true },
-      { url: "/images/products/254-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-unboxing-4.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 14", verified: true }
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-chai-nuoc-hoa-5.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif chính hãng", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-chinh-hang-1.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 2", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-danh-gia-10.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 3", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-fullbox-6.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 4", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-gia-tot-7.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 5", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-mua-o-dau-12.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 6", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-mui-huong-9.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 7", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-review-2.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 8", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-so-sanh-8.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 9", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-that-hay-gia-13.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 10", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-thuc-te-3.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 11", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-top-nuoc-hoa-14.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 12", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-trai-nghiem-11.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 13", verified: true },
+      { url: "/images/products/218-parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-unboxing-4.webp", source: "owner", caption: "Parfums de Marly Valaya Exclusif ảnh thực tế 14", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16161,21 +16161,21 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       { label: "Triệu phú Yacht", icon: "🛥️" },
       { label: "Citrus xa xỉ", icon: "🍋" }
     ],
-    image: "/images/products/255-rj-burlington-1819-main.jpg",
+    image: "/images/products/225-rj-burlington-1819-main.jpg",
     images: [
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-chai-nuoc-hoa-5.webp", source: "owner", caption: "Roja Dove Burlington 1819 chính hãng", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-chinh-hang-1.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 2", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-danh-gia-10.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 3", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-fullbox-6.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 4", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-gia-tot-7.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 5", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-mua-o-dau-12.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 6", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-mui-huong-9.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 7", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-review-2.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 8", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-so-sanh-8.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 9", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-that-hay-gia-13.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 10", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-thuc-te-3.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 11", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-trai-nghiem-11.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 12", verified: true },
-      { url: "/images/products/255-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-unboxing-4.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 13", verified: true }
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-chai-nuoc-hoa-5.webp", source: "owner", caption: "Roja Dove Burlington 1819 chính hãng", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-chinh-hang-1.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 2", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-danh-gia-10.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 3", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-fullbox-6.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 4", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-gia-tot-7.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 5", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-mua-o-dau-12.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 6", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-mui-huong-9.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 7", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-review-2.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 8", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-so-sanh-8.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 9", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-that-hay-gia-13.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 10", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-thuc-te-3.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 11", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-trai-nghiem-11.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 12", verified: true },
+      { url: "/images/products/225-rj-burlington-1819/nuoc-hoa-roja-burlington-1819-unboxing-4.webp", source: "owner", caption: "Roja Dove Burlington 1819 ảnh thực tế 13", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16227,20 +16227,20 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       { label: "Lò sưởi ấm", icon: "🔥" },
       { label: "Hạt dẻ bùi", icon: "🌰" }
     ],
-    image: "/images/products/256-replica-by-the-fireplace-main.jpg",
+    image: "/images/products/183-replica-by-the-fireplace-main.jpg",
     images: [
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace chính hãng", verified: true },
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-chinh-hang-1.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 2", verified: true },
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-danh-gia-10.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 3", verified: true },
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-fullbox-6.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 4", verified: true },
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-gia-tot-7.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 5", verified: true },
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-mua-o-dau-12.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 6", verified: true },
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-mui-huong-9.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 7", verified: true },
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-review-2.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 8", verified: true },
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-so-sanh-8.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 9", verified: true },
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-thuc-te-3.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 10", verified: true },
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-trai-nghiem-11.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 11", verified: true },
-      { url: "/images/products/256-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-unboxing-4.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 12", verified: true }
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace chính hãng", verified: true },
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-chinh-hang-1.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 2", verified: true },
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-danh-gia-10.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 3", verified: true },
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-fullbox-6.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 4", verified: true },
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-gia-tot-7.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 5", verified: true },
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-mua-o-dau-12.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 6", verified: true },
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-mui-huong-9.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 7", verified: true },
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-review-2.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 8", verified: true },
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-so-sanh-8.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 9", verified: true },
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-thuc-te-3.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 10", verified: true },
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-trai-nghiem-11.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 11", verified: true },
+      { url: "/images/products/183-replica-by-the-fireplace/nuoc-hoa-maison-margiela-by-the-fireplace-unboxing-4.webp", source: "owner", caption: "Maison Margiela Replica By The Fireplace ảnh thực tế 12", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16291,23 +16291,23 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       { label: "Lười biếng", icon: "🛏️" },
       { label: "Chăn gối", icon: "🧼" }
     ],
-    image: "/images/products/257-replica-lazy-sunday-morning-main.jpg",
+    image: "/images/products/184-replica-lazy-sunday-morning-main.jpg",
     images: [
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning chính hãng", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-chinh-hang-1.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 2", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-danh-gia-10.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 3", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-fullbox-6.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 4", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-gia-tot-7.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 5", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-mua-o-dau-12.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 6", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-mui-huong-9.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 7", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 8", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-review-2.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 9", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-so-sanh-8.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 10", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-that-hay-gia-13.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 11", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-thuc-te-3.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 12", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-top-nuoc-hoa-14.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 13", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-trai-nghiem-11.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 14", verified: true },
-      { url: "/images/products/257-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-unboxing-4.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 15", verified: true }
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning chính hãng", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-chinh-hang-1.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 2", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-danh-gia-10.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 3", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-fullbox-6.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 4", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-gia-tot-7.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 5", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-mua-o-dau-12.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 6", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-mui-huong-9.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 7", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 8", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-review-2.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 9", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-so-sanh-8.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 10", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-that-hay-gia-13.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 11", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-thuc-te-3.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 12", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-top-nuoc-hoa-14.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 13", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-trai-nghiem-11.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 14", verified: true },
+      { url: "/images/products/184-replica-lazy-sunday-morning/nuoc-hoa-maison-margiela-lazy-sunday-morning-unboxing-4.webp", source: "owner", caption: "Maison Margiela Replica Lazy Sunday Morning ảnh thực tế 15", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16358,20 +16358,20 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       { label: "Thư phòng", icon: "📖" },
       { label: "Trà sậm", icon: "☕" }
     ],
-    image: "/images/products/258-the-noir-main.jpg",
+    image: "/images/products/169-the-noir-main.jpg",
     images: [
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-chai-nuoc-hoa-5.webp", source: "owner", caption: "Le Labo Thé Noir 29 chính hãng", verified: true },
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-chinh-hang-1.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 2", verified: true },
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-danh-gia-10.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 3", verified: true },
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-fullbox-6.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 4", verified: true },
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-gia-tot-7.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 5", verified: true },
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-mua-o-dau-12.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 6", verified: true },
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-mui-huong-9.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 7", verified: true },
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-review-2.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 8", verified: true },
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-so-sanh-8.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 9", verified: true },
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-thuc-te-3.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 10", verified: true },
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-trai-nghiem-11.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 11", verified: true },
-      { url: "/images/products/258-the-noir/nuoc-hoa-le-labo-the-noir-29-unboxing-4.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 12", verified: true }
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-chai-nuoc-hoa-5.webp", source: "owner", caption: "Le Labo Thé Noir 29 chính hãng", verified: true },
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-chinh-hang-1.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 2", verified: true },
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-danh-gia-10.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 3", verified: true },
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-fullbox-6.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 4", verified: true },
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-gia-tot-7.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 5", verified: true },
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-mua-o-dau-12.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 6", verified: true },
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-mui-huong-9.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 7", verified: true },
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-review-2.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 8", verified: true },
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-so-sanh-8.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 9", verified: true },
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-thuc-te-3.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 10", verified: true },
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-trai-nghiem-11.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 11", verified: true },
+      { url: "/images/products/169-the-noir/nuoc-hoa-le-labo-the-noir-29-unboxing-4.webp", source: "owner", caption: "Le Labo Thé Noir 29 ảnh thực tế 12", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16421,20 +16421,20 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       { label: "Quái vật tỏa", icon: "🦖" },
       { label: "Bền bỉ", icon: "🔋" }
     ],
-    image: "/images/products/259-thomas-kosmala-no-main.jpg",
+    image: "/images/products/227-thomas-kosmala-no-main.jpg",
     images: [
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-chai-nuoc-hoa-5.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour chính hãng", verified: true },
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-chinh-hang-1.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 2", verified: true },
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-danh-gia-10.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 3", verified: true },
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-fullbox-6.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 4", verified: true },
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-gia-tot-7.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 5", verified: true },
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-mua-o-dau-12.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 6", verified: true },
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-mui-huong-9.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 7", verified: true },
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-review-2.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 8", verified: true },
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-so-sanh-8.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 9", verified: true },
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-thuc-te-3.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 10", verified: true },
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-trai-nghiem-11.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 11", verified: true },
-      { url: "/images/products/259-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-unboxing-4.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 12", verified: true }
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-chai-nuoc-hoa-5.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour chính hãng", verified: true },
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-chinh-hang-1.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 2", verified: true },
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-danh-gia-10.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 3", verified: true },
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-fullbox-6.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 4", verified: true },
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-gia-tot-7.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 5", verified: true },
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-mua-o-dau-12.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 6", verified: true },
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-mui-huong-9.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 7", verified: true },
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-review-2.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 8", verified: true },
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-so-sanh-8.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 9", verified: true },
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-thuc-te-3.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 10", verified: true },
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-trai-nghiem-11.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 11", verified: true },
+      { url: "/images/products/227-thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-4-apres-l-amour-unboxing-4.webp", source: "owner", caption: "Thomas Kosmala No 4 Apres l'Amour ảnh thực tế 12", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16500,28 +16500,28 @@ Black Orchid thuộc phân khúc Tom Ford — đắt hơn Dior và Chanel. So v�
 ### Nên dùng khi nào?
 
 Mùa đông, buổi tối, tiệc, sự kiện, dịp đặc biệt. Xịt 1-2 nhát DUY NHẤT — tỏa cực mạnh. Đẹp nhất khi dưới 22°C. Ở Sài Gòn chỉ dùng buổi tối phòng máy lạnh.`,
-    image: "/images/products/260-tom-ford-black-orchid-main.jpg",
+    image: "/images/products/228-tom-ford-black-orchid-main.jpg",
     images: [
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-chai-nuoc-hoa-5.webp", source: "owner", caption: "Tom Ford Black Orchid chính hãng", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-chinh-hang-1.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 2", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-chinh-hang-20.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 3", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-danh-gia-10.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 4", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-fullbox-6.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 5", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-gia-tot-7.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 6", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-mua-o-dau-12.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 7", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-mui-huong-9.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 8", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-nam-2026-19.jpg", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 9", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-nuoc-hoa-cao-cap-15.jpg", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 10", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-phong-cach-17.jpg", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 11", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-qua-tang-18.jpg", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 12", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-review-2.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 13", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-sang-trong-16.jpg", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 14", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-so-sanh-8.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 15", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-that-hay-gia-13.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 16", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-thuc-te-3.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 17", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-top-nuoc-hoa-14.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 18", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-trai-nghiem-11.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 19", verified: true },
-      { url: "/images/products/260-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-unboxing-4.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 20", verified: true }
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-chai-nuoc-hoa-5.webp", source: "owner", caption: "Tom Ford Black Orchid chính hãng", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-chinh-hang-1.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 2", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-chinh-hang-20.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 3", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-danh-gia-10.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 4", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-fullbox-6.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 5", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-gia-tot-7.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 6", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-mua-o-dau-12.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 7", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-mui-huong-9.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 8", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-nam-2026-19.jpg", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 9", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-nuoc-hoa-cao-cap-15.jpg", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 10", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-phong-cach-17.jpg", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 11", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-qua-tang-18.jpg", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 12", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-review-2.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 13", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-sang-trong-16.jpg", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 14", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-so-sanh-8.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 15", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-that-hay-gia-13.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 16", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-thuc-te-3.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 17", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-top-nuoc-hoa-14.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 18", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-trai-nghiem-11.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 19", verified: true },
+      { url: "/images/products/228-tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-unboxing-4.webp", source: "owner", caption: "Tom Ford Black Orchid ảnh thực tế 20", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16585,27 +16585,27 @@ Giá Versace — RẺ nhất trong các designer nữ nổi tiếng. Và chai n�
 ### Nên dùng khi nào?
 
 Mọi lúc — đi làm, đi học, đi chơi, đi biển. Xịt 4-5 nhát vì EDT nhẹ. Sài Gòn quanh năm. Hà Nội tháng 3-11. Chai MỌI PHỤ NỮ nên có 1.`,
-    image: "/images/products/261-versace-bright-crystal-main.jpg",
+    image: "/images/products/239-versace-bright-crystal-main.jpg",
     images: [
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-chai-nuoc-hoa-5.jpg", source: "owner", caption: "Versace Bright Crystal chính hãng", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-chinh-hang-1.jpg", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 2", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-danh-gia-10.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 3", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-fullbox-6.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 4", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-gia-tot-7.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 5", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-mua-o-dau-12.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 6", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-mui-huong-9.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 7", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-nam-2026-19.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 8", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 9", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-phong-cach-17.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 10", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-qua-tang-18.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 11", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-review-2.jpg", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 12", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-sang-trong-16.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 13", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-so-sanh-8.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 14", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-that-hay-gia-13.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 15", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-thuc-te-3.jpg", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 16", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-top-nuoc-hoa-14.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 17", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-trai-nghiem-11.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 18", verified: true },
-      { url: "/images/products/261-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-unboxing-4.jpg", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 19", verified: true }
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-chai-nuoc-hoa-5.jpg", source: "owner", caption: "Versace Bright Crystal chính hãng", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-chinh-hang-1.jpg", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 2", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-danh-gia-10.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 3", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-fullbox-6.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 4", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-gia-tot-7.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 5", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-mua-o-dau-12.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 6", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-mui-huong-9.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 7", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-nam-2026-19.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 8", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 9", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-phong-cach-17.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 10", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-qua-tang-18.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 11", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-review-2.jpg", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 12", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-sang-trong-16.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 13", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-so-sanh-8.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 14", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-that-hay-gia-13.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 15", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-thuc-te-3.jpg", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 16", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-top-nuoc-hoa-14.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 17", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-trai-nghiem-11.webp", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 18", verified: true },
+      { url: "/images/products/239-versace-bright-crystal/nuoc-hoa-versace-bright-crystal-unboxing-4.jpg", source: "owner", caption: "Versace Bright Crystal ảnh thực tế 19", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16658,23 +16658,23 @@ Mọi lúc — đi làm, đi học, đi chơi, đi biển. Xịt 4-5 nhát vì E
       { label: "Nắng chói", icon: "☀️" },
       { label: "Cam chanh vắt", icon: "🍋" }
     ],
-    image: "/images/products/262-versace-eros-energy-edp-main.jpg",
+    image: "/images/products/243-versace-eros-energy-edp-main.jpg",
     images: [
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-chai-nuoc-hoa-5.webp", source: "owner", caption: "Versace Eros Energy chính hãng", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-chinh-hang-1.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 2", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-danh-gia-10.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 3", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-fullbox-6.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 4", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-gia-tot-7.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 5", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-mua-o-dau-12.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 6", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-mui-huong-9.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 7", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 8", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-review-2.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 9", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-so-sanh-8.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 10", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-that-hay-gia-13.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 11", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-thuc-te-3.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 12", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-top-nuoc-hoa-14.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 13", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-trai-nghiem-11.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 14", verified: true },
-      { url: "/images/products/262-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-unboxing-4.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 15", verified: true }
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-chai-nuoc-hoa-5.webp", source: "owner", caption: "Versace Eros Energy chính hãng", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-chinh-hang-1.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 2", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-danh-gia-10.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 3", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-fullbox-6.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 4", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-gia-tot-7.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 5", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-mua-o-dau-12.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 6", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-mui-huong-9.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 7", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 8", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-review-2.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 9", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-so-sanh-8.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 10", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-that-hay-gia-13.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 11", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-thuc-te-3.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 12", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-top-nuoc-hoa-14.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 13", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-trai-nghiem-11.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 14", verified: true },
+      { url: "/images/products/243-versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-unboxing-4.webp", source: "owner", caption: "Versace Eros Energy ảnh thực tế 15", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16738,25 +16738,25 @@ Eros Flame thuộc phân khúc designer entry — rẻ nhất nhóm. So với Er
 ### Nên dùng khi nào?
 
 Mùa thu đông, buổi tối, hẹn hò, đi chơi. Xịt 2-3 nhát: cổ, ngực. Đẹp nhất khi trời mát. Ở Sài Gòn dùng buổi tối hoặc phòng máy lạnh.`,
-    image: "/images/products/263-versace-eros-flame-main.jpg",
+    image: "/images/products/244-versace-eros-flame-main.jpg",
     images: [
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-chai-nuoc-hoa-5.jpg", source: "owner", caption: "Versace Eros Flame chính hãng", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-chinh-hang-1.jpg", source: "owner", caption: "Versace Eros Flame ảnh thực tế 2", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-danh-gia-10.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 3", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-fullbox-6.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 4", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-gia-tot-7.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 5", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-mua-o-dau-12.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 6", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-mui-huong-9.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 7", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 8", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-phong-cach-17.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 9", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-review-2.jpg", source: "owner", caption: "Versace Eros Flame ảnh thực tế 10", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-sang-trong-16.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 11", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-so-sanh-8.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 12", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-that-hay-gia-13.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 13", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-thuc-te-3.jpg", source: "owner", caption: "Versace Eros Flame ảnh thực tế 14", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-top-nuoc-hoa-14.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 15", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-trai-nghiem-11.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 16", verified: true },
-      { url: "/images/products/263-versace-eros-flame/nuoc-hoa-versace-eros-flame-unboxing-4.jpg", source: "owner", caption: "Versace Eros Flame ảnh thực tế 17", verified: true }
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-chai-nuoc-hoa-5.jpg", source: "owner", caption: "Versace Eros Flame chính hãng", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-chinh-hang-1.jpg", source: "owner", caption: "Versace Eros Flame ảnh thực tế 2", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-danh-gia-10.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 3", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-fullbox-6.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 4", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-gia-tot-7.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 5", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-mua-o-dau-12.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 6", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-mui-huong-9.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 7", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 8", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-phong-cach-17.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 9", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-review-2.jpg", source: "owner", caption: "Versace Eros Flame ảnh thực tế 10", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-sang-trong-16.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 11", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-so-sanh-8.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 12", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-that-hay-gia-13.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 13", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-thuc-te-3.jpg", source: "owner", caption: "Versace Eros Flame ảnh thực tế 14", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-top-nuoc-hoa-14.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 15", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-trai-nghiem-11.webp", source: "owner", caption: "Versace Eros Flame ảnh thực tế 16", verified: true },
+      { url: "/images/products/244-versace-eros-flame/nuoc-hoa-versace-eros-flame-unboxing-4.jpg", source: "owner", caption: "Versace Eros Flame ảnh thực tế 17", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16809,19 +16809,19 @@ Mùa thu đông, buổi tối, hẹn hò, đi chơi. Xịt 2-3 nhát: cổ, ng�
       { label: "Sơ mi trắng", icon: "👔" },
       { label: "Sạch sẽ", icon: "🧼" }
     ],
-    image: "/images/products/264-versce-pour-homme-main.jpg",
+    image: "/images/products/245-versce-pour-homme-main.jpg",
     images: [
-      { url: "/images/products/264-versce-pour-homme/nuoc-hoa-versace-pour-homme-chai-nuoc-hoa-5.webp", source: "owner", caption: "Versace Pour Homme chính hãng", verified: true },
-      { url: "/images/products/264-versce-pour-homme/nuoc-hoa-versace-pour-homme-chinh-hang-1.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 2", verified: true },
-      { url: "/images/products/264-versce-pour-homme/nuoc-hoa-versace-pour-homme-danh-gia-10.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 3", verified: true },
-      { url: "/images/products/264-versce-pour-homme/nuoc-hoa-versace-pour-homme-fullbox-6.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 4", verified: true },
-      { url: "/images/products/264-versce-pour-homme/nuoc-hoa-versace-pour-homme-gia-tot-7.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 5", verified: true },
-      { url: "/images/products/264-versce-pour-homme/nuoc-hoa-versace-pour-homme-mui-huong-9.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 6", verified: true },
-      { url: "/images/products/264-versce-pour-homme/nuoc-hoa-versace-pour-homme-review-2.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 7", verified: true },
-      { url: "/images/products/264-versce-pour-homme/nuoc-hoa-versace-pour-homme-so-sanh-8.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 8", verified: true },
-      { url: "/images/products/264-versce-pour-homme/nuoc-hoa-versace-pour-homme-thuc-te-3.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 9", verified: true },
-      { url: "/images/products/264-versce-pour-homme/nuoc-hoa-versace-pour-homme-trai-nghiem-11.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 10", verified: true },
-      { url: "/images/products/264-versce-pour-homme/nuoc-hoa-versace-pour-homme-unboxing-4.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 11", verified: true }
+      { url: "/images/products/245-versce-pour-homme/nuoc-hoa-versace-pour-homme-chai-nuoc-hoa-5.webp", source: "owner", caption: "Versace Pour Homme chính hãng", verified: true },
+      { url: "/images/products/245-versce-pour-homme/nuoc-hoa-versace-pour-homme-chinh-hang-1.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 2", verified: true },
+      { url: "/images/products/245-versce-pour-homme/nuoc-hoa-versace-pour-homme-danh-gia-10.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 3", verified: true },
+      { url: "/images/products/245-versce-pour-homme/nuoc-hoa-versace-pour-homme-fullbox-6.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 4", verified: true },
+      { url: "/images/products/245-versce-pour-homme/nuoc-hoa-versace-pour-homme-gia-tot-7.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 5", verified: true },
+      { url: "/images/products/245-versce-pour-homme/nuoc-hoa-versace-pour-homme-mui-huong-9.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 6", verified: true },
+      { url: "/images/products/245-versce-pour-homme/nuoc-hoa-versace-pour-homme-review-2.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 7", verified: true },
+      { url: "/images/products/245-versce-pour-homme/nuoc-hoa-versace-pour-homme-so-sanh-8.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 8", verified: true },
+      { url: "/images/products/245-versce-pour-homme/nuoc-hoa-versace-pour-homme-thuc-te-3.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 9", verified: true },
+      { url: "/images/products/245-versce-pour-homme/nuoc-hoa-versace-pour-homme-trai-nghiem-11.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 10", verified: true },
+      { url: "/images/products/245-versce-pour-homme/nuoc-hoa-versace-pour-homme-unboxing-4.webp", source: "owner", caption: "Versace Pour Homme ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16874,25 +16874,25 @@ Mùa thu đông, buổi tối, hẹn hò, đi chơi. Xịt 2-3 nhát: cổ, ng�
       { label: "Quý tộc Ý", icon: "🥂" },
       { label: "Sang xịn", icon: "💎" }
     ],
-    image: "/images/products/265-xerjoff-casamorati-mefisto-main.jpg",
+    image: "/images/products/249-xerjoff-casamorati-mefisto-main.jpg",
     images: [
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-chai-nuoc-hoa-5.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto chính hãng", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-chinh-hang-1.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 2", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-danh-gia-10.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 3", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-fullbox-6.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 4", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-gia-tot-7.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 5", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-mua-o-dau-12.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 6", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-mui-huong-9.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 7", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 8", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-phong-cach-17.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 9", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-review-2.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 10", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-sang-trong-16.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 11", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-so-sanh-8.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 12", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-that-hay-gia-13.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 13", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-thuc-te-3.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 14", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-top-nuoc-hoa-14.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 15", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-trai-nghiem-11.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 16", verified: true },
-      { url: "/images/products/265-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-unboxing-4.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 17", verified: true }
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-chai-nuoc-hoa-5.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto chính hãng", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-chinh-hang-1.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 2", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-danh-gia-10.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 3", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-fullbox-6.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 4", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-gia-tot-7.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 5", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-mua-o-dau-12.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 6", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-mui-huong-9.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 7", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 8", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-phong-cach-17.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 9", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-review-2.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 10", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-sang-trong-16.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 11", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-so-sanh-8.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 12", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-that-hay-gia-13.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 13", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-thuc-te-3.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 14", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-top-nuoc-hoa-14.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 15", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-trai-nghiem-11.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 16", verified: true },
+      { url: "/images/products/249-xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-unboxing-4.webp", source: "owner", caption: "Xerjoff Casamorati Mefisto ảnh thực tế 17", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -16955,20 +16955,20 @@ Torino21 thuộc phân khúc Xerjoff — đắt. So với Versace Pour Homme (c�
 ### Nên dùng khi nào?
 
 Xuân hè, ban ngày, đi làm, thể thao nhẹ, dạo phố. Xịt 3-4 nhát. Đẹp nhất khi trời nóng. Ở Sài Gòn dùng quanh năm.`,
-    image: "/images/products/266-xerjoff-torino-main.jpg",
+    image: "/images/products/254-xerjoff-torino-main.jpg",
     images: [
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-chai-nuoc-hoa-5.webp", source: "owner", caption: "Xerjoff Torino 21 chính hãng", verified: true },
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-chinh-hang-1.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 2", verified: true },
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-danh-gia-10.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 3", verified: true },
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-fullbox-6.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 4", verified: true },
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-gia-tot-7.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 5", verified: true },
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-mua-o-dau-12.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 6", verified: true },
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-mui-huong-9.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 7", verified: true },
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-review-2.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 8", verified: true },
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-so-sanh-8.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 9", verified: true },
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-thuc-te-3.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 10", verified: true },
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-trai-nghiem-11.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 11", verified: true },
-      { url: "/images/products/266-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-unboxing-4.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 12", verified: true }
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-chai-nuoc-hoa-5.webp", source: "owner", caption: "Xerjoff Torino 21 chính hãng", verified: true },
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-chinh-hang-1.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 2", verified: true },
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-danh-gia-10.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 3", verified: true },
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-fullbox-6.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 4", verified: true },
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-gia-tot-7.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 5", verified: true },
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-mua-o-dau-12.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 6", verified: true },
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-mui-huong-9.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 7", verified: true },
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-review-2.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 8", verified: true },
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-so-sanh-8.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 9", verified: true },
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-thuc-te-3.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 10", verified: true },
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-trai-nghiem-11.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 11", verified: true },
+      { url: "/images/products/254-xerjoff-torino/nuoc-hoa-xerjoff-torino-21-unboxing-4.webp", source: "owner", caption: "Xerjoff Torino 21 ảnh thực tế 12", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -17020,19 +17020,19 @@ Xuân hè, ban ngày, đi làm, thể thao nhẹ, dạo phố. Xịt 3-4 nhát. 
       { label: "Kim tuyến", icon: "✨" },
       { label: "Sát trai", icon: "👠" }
     ],
-    image: "/images/products/267-ysl-black-opium-glitter-edp-main.jpg",
+    image: "/images/products/255-ysl-black-opium-glitter-edp-main.jpg",
     images: [
-      { url: "/images/products/267-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-chai-nuoc-hoa-5.webp", source: "owner", caption: "YSL Black Opium Glitter chính hãng", verified: true },
-      { url: "/images/products/267-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-chinh-hang-1.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 2", verified: true },
-      { url: "/images/products/267-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-danh-gia-10.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 3", verified: true },
-      { url: "/images/products/267-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-fullbox-6.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 4", verified: true },
-      { url: "/images/products/267-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-gia-tot-7.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 5", verified: true },
-      { url: "/images/products/267-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-mui-huong-9.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 6", verified: true },
-      { url: "/images/products/267-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-review-2.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 7", verified: true },
-      { url: "/images/products/267-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-so-sanh-8.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 8", verified: true },
-      { url: "/images/products/267-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-thuc-te-3.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 9", verified: true },
-      { url: "/images/products/267-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-trai-nghiem-11.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 10", verified: true },
-      { url: "/images/products/267-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-unboxing-4.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 11", verified: true }
+      { url: "/images/products/255-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-chai-nuoc-hoa-5.webp", source: "owner", caption: "YSL Black Opium Glitter chính hãng", verified: true },
+      { url: "/images/products/255-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-chinh-hang-1.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 2", verified: true },
+      { url: "/images/products/255-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-danh-gia-10.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 3", verified: true },
+      { url: "/images/products/255-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-fullbox-6.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 4", verified: true },
+      { url: "/images/products/255-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-gia-tot-7.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 5", verified: true },
+      { url: "/images/products/255-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-mui-huong-9.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 6", verified: true },
+      { url: "/images/products/255-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-review-2.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 7", verified: true },
+      { url: "/images/products/255-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-so-sanh-8.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 8", verified: true },
+      { url: "/images/products/255-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-thuc-te-3.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 9", verified: true },
+      { url: "/images/products/255-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-trai-nghiem-11.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 10", verified: true },
+      { url: "/images/products/255-ysl-black-opium-glitter-edp/nuoc-hoa-yves-saint-laurent-black-opium-glitter-unboxing-4.webp", source: "owner", caption: "YSL Black Opium Glitter ảnh thực tế 11", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -17085,22 +17085,22 @@ Xuân hè, ban ngày, đi làm, thể thao nhẹ, dạo phố. Xịt 3-4 nhát. 
       { label: "Nữ quyền vương", icon: "🔥" },
       { label: "Sắc sảo", icon: "😎" }
     ],
-    image: "/images/products/268-ysl-libre-intense-edp-main.jpg",
+    image: "/images/products/256-ysl-libre-intense-edp-main.jpg",
     images: [
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "YSL Libre Intense EDP chính hãng", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-chinh-hang-1.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-danh-gia-10.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-fullbox-6.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-gia-tot-7.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-mua-o-dau-12.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-mui-huong-9.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-review-2.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-so-sanh-8.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-that-hay-gia-13.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-thuc-te-3.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 11", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-top-nuoc-hoa-14.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 12", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-trai-nghiem-11.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 13", verified: true },
-      { url: "/images/products/268-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-unboxing-4.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 14", verified: true }
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-chai-nuoc-hoa-5.webp", source: "owner", caption: "YSL Libre Intense EDP chính hãng", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-chinh-hang-1.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-danh-gia-10.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-fullbox-6.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-gia-tot-7.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-mua-o-dau-12.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-mui-huong-9.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-review-2.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-so-sanh-8.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-that-hay-gia-13.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-thuc-te-3.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 11", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-top-nuoc-hoa-14.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 12", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-trai-nghiem-11.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 13", verified: true },
+      { url: "/images/products/256-ysl-libre-intense-edp/nuoc-hoa-yves-saint-laurent-libre-intense-edp-unboxing-4.webp", source: "owner", caption: "YSL Libre Intense EDP ảnh thực tế 14", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -17165,30 +17165,30 @@ Y EDP thuộc phân khúc designer tầm trung — giá mềm hơn Bleu de Chane
 ### Nên dùng khi nào?
 
 Dùng được quanh năm — đi làm, đi học, đi chơi, hẹn hò nhẹ. Xịt 2-3 nhát: 1 sau gáy, 1 trước ngực, 1 cổ tay. Đẹp nhất vào mùa xuân và thu khi trời mát (22-28°C). Ở Sài Gòn dùng tốt trong phòng máy lạnh. Đây là kiểu chai xịt xong đi luôn, không cần nghĩ nhiều. Đừng dùng cho dịp quan trọng cần gây ấn tượng mạnh — Y EDP là mùi dễ chịu hơn là mùi ấn tượng.`,
-    image: "/images/products/269-ysl-y-eau-de-parfum-main.jpg",
+    image: "/images/products/257-ysl-y-eau-de-parfum-main.jpg",
     images: [
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-chai-nuoc-hoa-5.jpg", source: "owner", caption: "YSL Y EDP chính hãng", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-chinh-hang-1.jpg", source: "owner", caption: "YSL Y EDP ảnh thực tế 2", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-chinh-hang-20.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 3", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-danh-gia-10.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 4", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-fullbox-6.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 5", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-gia-tot-7.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 6", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-mua-o-dau-12.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 7", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-mui-huong-9.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 8", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-nam-2026-19.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 9", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 10", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-phong-cach-17.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 11", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-qua-tang-18.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 12", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-review-2.jpg", source: "owner", caption: "YSL Y EDP ảnh thực tế 13", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-review-21.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 14", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-sang-trong-16.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 15", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-so-sanh-8.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 16", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-that-hay-gia-13.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 17", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-thuc-te-22.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 18", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-thuc-te-3.jpg", source: "owner", caption: "YSL Y EDP ảnh thực tế 19", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-top-nuoc-hoa-14.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 20", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-trai-nghiem-11.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 21", verified: true },
-      { url: "/images/products/269-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-unboxing-4.jpg", source: "owner", caption: "YSL Y EDP ảnh thực tế 22", verified: true }
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-chai-nuoc-hoa-5.jpg", source: "owner", caption: "YSL Y EDP chính hãng", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-chinh-hang-1.jpg", source: "owner", caption: "YSL Y EDP ảnh thực tế 2", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-chinh-hang-20.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 3", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-danh-gia-10.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 4", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-fullbox-6.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 5", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-gia-tot-7.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 6", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-mua-o-dau-12.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 7", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-mui-huong-9.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 8", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-nam-2026-19.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 9", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-nuoc-hoa-cao-cap-15.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 10", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-phong-cach-17.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 11", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-qua-tang-18.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 12", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-review-2.jpg", source: "owner", caption: "YSL Y EDP ảnh thực tế 13", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-review-21.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 14", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-sang-trong-16.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 15", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-so-sanh-8.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 16", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-that-hay-gia-13.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 17", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-thuc-te-22.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 18", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-thuc-te-3.jpg", source: "owner", caption: "YSL Y EDP ảnh thực tế 19", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-top-nuoc-hoa-14.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 20", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-trai-nghiem-11.webp", source: "owner", caption: "YSL Y EDP ảnh thực tế 21", verified: true },
+      { url: "/images/products/257-ysl-y-eau-de-parfum/nuoc-hoa-yves-saint-laurent-y-edp-unboxing-4.jpg", source: "owner", caption: "YSL Y EDP ảnh thực tế 22", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
@@ -17224,20 +17224,20 @@ Dùng được quanh năm — đi làm, đi học, đi chơi, hẹn hò nhẹ. X
       {"name": "Thảo mộc", "value": 75, "color": "#7cb342"},
       {"name": "Gỗ", "value": 60, "color": "#8b4513"}
     ],
-    image: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-rmni-prive-the-yulong-thuc-te-1.webp",
+    image: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-rmni-prive-the-yulong-thuc-te-1.webp",
     images: [
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-chai-nuoc-hoa-5.webp", source: "owner", caption: "Armani Prive The Yulong chính hãng", verified: true },
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-chinh-hang-1.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 2", verified: true },
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-danh-gia-10.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 3", verified: true },
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-fullbox-6.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 4", verified: true },
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-gia-tot-7.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 5", verified: true },
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-mua-o-dau-12.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 6", verified: true },
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-mui-huong-9.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 7", verified: true },
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-review-2.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 8", verified: true },
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-so-sanh-8.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 9", verified: true },
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-thuc-te-3.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 10", verified: true },
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-trai-nghiem-11.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 11", verified: true },
-      { url: "/images/products/270-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-unboxing-4.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 12", verified: true }
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-chai-nuoc-hoa-5.webp", source: "owner", caption: "Armani Prive The Yulong chính hãng", verified: true },
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-chinh-hang-1.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 2", verified: true },
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-danh-gia-10.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 3", verified: true },
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-fullbox-6.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 4", verified: true },
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-gia-tot-7.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 5", verified: true },
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-mua-o-dau-12.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 6", verified: true },
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-mui-huong-9.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 7", verified: true },
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-review-2.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 8", verified: true },
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-so-sanh-8.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 9", verified: true },
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-thuc-te-3.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 10", verified: true },
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-trai-nghiem-11.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 11", verified: true },
+      { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-unboxing-4.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 12", verified: true }
     ],
     description: "Chén trà thượng hạng ngâm trên núi tuyết sương khói của Armani Prive. Sự cân bằng tuyệt sắc giữa trà đen mộc mạc và trà xanh thanh mảnh, tinh tế tột bậc.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
@@ -17298,18 +17298,18 @@ Dùng được quanh năm — đi làm, đi học, đi chơi, hẹn hò nhẹ. X
       { label: "Nữ quyền", icon: "👑" },
       { label: "Vương giả", icon: "💎" }
     ],
-    image: "/images/products/271-ventus-for-her-main.jpg",
+    image: "/images/products/051-ventus-for-her-main.jpg",
     images: [
-      { url: "/images/products/271-ventus-for-her/nuoc-hoa-creed-aventus-for-her-chai-nuoc-hoa-5.webp", source: "owner", caption: "Creed Aventus For Her chính hãng", verified: true },
-      { url: "/images/products/271-ventus-for-her/nuoc-hoa-creed-aventus-for-her-chinh-hang-1.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 2", verified: true },
-      { url: "/images/products/271-ventus-for-her/nuoc-hoa-creed-aventus-for-her-danh-gia-10.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 3", verified: true },
-      { url: "/images/products/271-ventus-for-her/nuoc-hoa-creed-aventus-for-her-fullbox-6.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 4", verified: true },
-      { url: "/images/products/271-ventus-for-her/nuoc-hoa-creed-aventus-for-her-gia-tot-7.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 5", verified: true },
-      { url: "/images/products/271-ventus-for-her/nuoc-hoa-creed-aventus-for-her-mui-huong-9.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 6", verified: true },
-      { url: "/images/products/271-ventus-for-her/nuoc-hoa-creed-aventus-for-her-review-2.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 7", verified: true },
-      { url: "/images/products/271-ventus-for-her/nuoc-hoa-creed-aventus-for-her-so-sanh-8.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 8", verified: true },
-      { url: "/images/products/271-ventus-for-her/nuoc-hoa-creed-aventus-for-her-thuc-te-3.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 9", verified: true },
-      { url: "/images/products/271-ventus-for-her/nuoc-hoa-creed-aventus-for-her-unboxing-4.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 10", verified: true }
+      { url: "/images/products/051-ventus-for-her/nuoc-hoa-creed-aventus-for-her-chai-nuoc-hoa-5.webp", source: "owner", caption: "Creed Aventus For Her chính hãng", verified: true },
+      { url: "/images/products/051-ventus-for-her/nuoc-hoa-creed-aventus-for-her-chinh-hang-1.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 2", verified: true },
+      { url: "/images/products/051-ventus-for-her/nuoc-hoa-creed-aventus-for-her-danh-gia-10.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 3", verified: true },
+      { url: "/images/products/051-ventus-for-her/nuoc-hoa-creed-aventus-for-her-fullbox-6.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 4", verified: true },
+      { url: "/images/products/051-ventus-for-her/nuoc-hoa-creed-aventus-for-her-gia-tot-7.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 5", verified: true },
+      { url: "/images/products/051-ventus-for-her/nuoc-hoa-creed-aventus-for-her-mui-huong-9.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 6", verified: true },
+      { url: "/images/products/051-ventus-for-her/nuoc-hoa-creed-aventus-for-her-review-2.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 7", verified: true },
+      { url: "/images/products/051-ventus-for-her/nuoc-hoa-creed-aventus-for-her-so-sanh-8.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 8", verified: true },
+      { url: "/images/products/051-ventus-for-her/nuoc-hoa-creed-aventus-for-her-thuc-te-3.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 9", verified: true },
+      { url: "/images/products/051-ventus-for-her/nuoc-hoa-creed-aventus-for-her-unboxing-4.webp", source: "owner", caption: "Creed Aventus For Her ảnh thực tế 10", verified: true }
     ],
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
     verdictShort: "Đang cập nhật",
