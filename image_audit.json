@@ -1,0 +1,1631 @@
+{
+  "missingOrWrongImages": [
+    {
+      "id": "montblanc-signature-edp",
+      "name": "Signature EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/montblanc-signature-main.jpg"
+    },
+    {
+      "id": "24-faubourg",
+      "name": "24 Faubourg EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/hermes-24-faubourg-main.jpg"
+    },
+    {
+      "id": "9pm",
+      "name": "9PM EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/afnan-9pm-main.jpg"
+    },
+    {
+      "id": "absolu-aventus",
+      "name": "Absolu Aventus EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/creed-absolu-aventus-main.jpg"
+    },
+    {
+      "id": "acqua-di-gio",
+      "name": "Acqua di Giò EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/giorgio-armani-acqua-di-gio-main.jpg"
+    },
+    {
+      "id": "acqua-di-gio-parfum",
+      "name": "Acqua di Giò Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/armani-acqua-di-gio-parfum-main.jpg"
+    },
+    {
+      "id": "acqua-di-gio-profondo",
+      "name": "Acqua di Giò Profondo EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/acqua-di-gio-profondo-main.jpg"
+    },
+    {
+      "id": "acqua-di-gio-profumo",
+      "name": "Acqua di Giò Profumo Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/acqua-di-gio-profumo-main.jpg"
+    },
+    {
+      "id": "addict-edp",
+      "name": "Addict EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-addict-edp-main.jpg"
+    },
+    {
+      "id": "african-leather",
+      "name": "African Leather EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/memo-african-leather-main.jpg"
+    },
+    {
+      "id": "alexandria-ii",
+      "name": "Alexandria II EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/xerjoff-alexandria-ii-main.jpg"
+    },
+    {
+      "id": "alien-edp",
+      "name": "Alien EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/mugler-alien-edp-main.jpg"
+    },
+    {
+      "id": "allure-edp",
+      "name": "Allure EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-allure-edp-main.jpg"
+    },
+    {
+      "id": "allure-homme-edition-blanche",
+      "name": "Allure Homme Édition Blanche EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/allure-homme-edition-blanche-main.jpg"
+    },
+    {
+      "id": "allure-homme-edt",
+      "name": "Allure Homme EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-allure-homme-edt-main.jpg"
+    },
+    {
+      "id": "allure-homme-sport",
+      "name": "Allure Homme Sport EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-allure-homme-sport-main.jpg"
+    },
+    {
+      "id": "allure-homme-sport-eau-extreme",
+      "name": "Allure Homme Sport Eau Extrême",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-allure-homme-sport-eau-extreme-main.jpg"
+    },
+    {
+      "id": "althair",
+      "name": "Althaïr EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/parfums-de-marly-althair-main.jpg"
+    },
+    {
+      "id": "angel",
+      "name": "Angel EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/mugler-angel-main.jpg"
+    },
+    {
+      "id": "angel-muse",
+      "name": "Angel Muse EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/mugler-angel-muse-main.jpg"
+    },
+    {
+      "id": "angelique-noire",
+      "name": "Angélique Noire EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-angelique-noire-main.jpg"
+    },
+    {
+      "id": "angels-share",
+      "name": "Angels' Share EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/kilian-angels-share-main.jpg"
+    },
+    {
+      "id": "ani",
+      "name": "Ani Extrait",
+      "reason": "Error reading size",
+      "path": "/images/products/nishane-ani-main.jpg"
+    },
+    {
+      "id": "antaeus",
+      "name": "Antaeus EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-antaeus-main.jpg"
+    },
+    {
+      "id": "armani-si-edp",
+      "name": "Sì EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/armani-si-edp-main.jpg"
+    },
+    {
+      "id": "bal-dafrique",
+      "name": "Bal d'Afrique EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/byredo-bal-dafrique-main.jpg"
+    },
+    {
+      "id": "bianco-latte",
+      "name": "Bianco Latte EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/giardini-di-toscana-bianco-latte-main.jpg"
+    },
+    {
+      "id": "black-opium",
+      "name": "Black Opium EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-black-opium-main.jpg"
+    },
+    {
+      "id": "black-opium-le-parfum",
+      "name": "Black Opium Le Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-black-opium-le-parfum-main.jpg"
+    },
+    {
+      "id": "bleu-de-chanel-eau-de-parfum",
+      "name": "Bleu de Chanel Eau de Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/bleu-chanel-edp-main.jpg"
+    },
+    {
+      "id": "bleu-de-chanel-parfum",
+      "name": "Bleu de Chanel Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/bleu-de-chanel-parfum-main.jpg"
+    },
+    {
+      "id": "bloom-edp",
+      "name": "Bloom EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/gucci-bloom-edp/nuoc-hoa-gucci-bloom-edp-thuc-te-1.webp"
+    },
+    {
+      "id": "bois-imperial",
+      "name": "Bois Impérial EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/essential-parfums-bois-imperial-main.jpg"
+    },
+    {
+      "id": "born-in-roma-intense",
+      "name": "Donna Born in Roma Intense",
+      "reason": "Error reading size",
+      "path": "/images/products/valentino-born-in-roma-intense-main.jpg"
+    },
+    {
+      "id": "boss-bottled-edp",
+      "name": "Boss Bottled EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/boss-bottled-edp-main.jpg"
+    },
+    {
+      "id": "bottled-absolu",
+      "name": "Bottled Absolu EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/boss-bottled-absolu-main.jpg"
+    },
+    {
+      "id": "carlisle",
+      "name": "Carlisle EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/parfums-de-marly-carlisle-main.jpg"
+    },
+    {
+      "id": "carnal-flower",
+      "name": "Carnal Flower EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/frederic-malle-carnal-flower-main.jpg"
+    },
+    {
+      "id": "champs-elysees-edp",
+      "name": "Champs-Élysées EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-champs-elysees-edp-main.jpg"
+    },
+    {
+      "id": "chance-eau-tendre",
+      "name": "Chance Eau Tendre EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-chance-eau-tendre-main.jpg"
+    },
+    {
+      "id": "cinema",
+      "name": "Cinéma EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-cinema-main.jpg"
+    },
+    {
+      "id": "ck-obsession",
+      "name": "Obsession EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/ck-obsession-main.jpg"
+    },
+    {
+      "id": "club-de-nuit-intense-man",
+      "name": "Club de Nuit Intense Man",
+      "reason": "Error reading size",
+      "path": "/images/products/armaf-club-de-nuit-intense-man-main.jpg"
+    },
+    {
+      "id": "coco-eau-de-parfum",
+      "name": "Coco Eau de Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-coco-eau-de-parfum-main.jpg"
+    },
+    {
+      "id": "coco-eau-de-toilette",
+      "name": "Coco Eau de Toilette",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-coco-eau-de-toilette-main.jpg"
+    },
+    {
+      "id": "coco-mademoiselle-edp",
+      "name": "Coco Mademoiselle EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-coco-mademoiselle-edp-main.jpg"
+    },
+    {
+      "id": "coco-noir",
+      "name": "Coco Noir EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-coco-noir-main.jpg"
+    },
+    {
+      "id": "code-parfum",
+      "name": "Armani Code Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/armani-code-parfum-main.jpg"
+    },
+    {
+      "id": "colonia",
+      "name": "Colonia EDC",
+      "reason": "Error reading size",
+      "path": "/images/products/acqua-di-parma-colonia-main.jpg"
+    },
+    {
+      "id": "cool-water",
+      "name": "Cool Water EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/davidoff-cool-water-main.jpg"
+    },
+    {
+      "id": "coromandel-eau-de-parfum",
+      "name": "Coromandel",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-coromandel-eau-de-parfum-main.jpg"
+    },
+    {
+      "id": "crystal-noir-eau-de-toilette",
+      "name": "Crystal Noir EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/versace-crystal-noir-eau-de-toilette-main.jpg"
+    },
+    {
+      "id": "dama-bianca",
+      "name": "Dama Bianca EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/xerjoff-dama-bianca-main.jpg"
+    },
+    {
+      "id": "delina",
+      "name": "Delina EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/parfums-de-marly-delina-main.jpg"
+    },
+    {
+      "id": "diorissimo",
+      "name": "Diorissimo EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-diorissimo-main.jpg"
+    },
+    {
+      "id": "dolce-vita",
+      "name": "Dolce Vita EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-dolce-vita-main.jpg"
+    },
+    {
+      "id": "drakkar-noir",
+      "name": "Drakkar Noir EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/guy-laroche-drakkar-noir-main.jpg"
+    },
+    {
+      "id": "dune-edt",
+      "name": "Dune EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-dune-edt-main.jpg"
+    },
+    {
+      "id": "dylan-blue",
+      "name": "Pour Homme Dylan Blue EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/pour-homme-dylan-blue-main.jpg"
+    },
+    {
+      "id": "eau-de-parfum",
+      "name": "Chloé EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/chloe-eau-de-parfum-main.jpg"
+    },
+    {
+      "id": "eau-sauvage",
+      "name": "Eau Sauvage EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-eau-sauvage-main.jpg"
+    },
+    {
+      "id": "eau-sauvage-parfum",
+      "name": "Eau Sauvage Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-eau-sauvage-parfum-main.jpg"
+    },
+    {
+      "id": "egoiste",
+      "name": "Égoïste EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-egoiste-main.jpg"
+    },
+    {
+      "id": "egoiste-platinum",
+      "name": "Égoïste Platinum EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-egoiste-platinum-main.jpg"
+    },
+    {
+      "id": "elixir-des-merveilles",
+      "name": "Elixir des Merveilles EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/elixir-des-merveilles-main.jpg"
+    },
+    {
+      "id": "erba-pura",
+      "name": "Erba Pura EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/xerjoff-erba-pura-main.jpg"
+    },
+    {
+      "id": "eros-edp",
+      "name": "Eros EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/versace-eros-edp-main.jpg"
+    },
+    {
+      "id": "explorer",
+      "name": "Explorer EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/montblanc-explorer-main.jpg"
+    },
+    {
+      "id": "fahrenheit",
+      "name": "Fahrenheit EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-fahrenheit-main.jpg"
+    },
+    {
+      "id": "fahrenheit-le-parfum",
+      "name": "Fahrenheit Le Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-fahrenheit-le-parfum-main.jpg"
+    },
+    {
+      "id": "for-men",
+      "name": "Coach For Men EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/coach-for-men-main.jpg"
+    },
+    {
+      "id": "ganymede",
+      "name": "Ganymede EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/marc-antoine-barrois-ganymede-main.jpg"
+    },
+    {
+      "id": "gentle-fluidity-gold",
+      "name": "Gentle Fluidity Gold EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/maison-francis-kurkdjian-gentle-fluidity-gold-main.jpg"
+    },
+    {
+      "id": "gentleman-reserve-privee",
+      "name": "Gentleman Réserve Privée EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/givenchy-gentleman-reserve-privee-main.jpg"
+    },
+    {
+      "id": "good-girl",
+      "name": "Good Girl EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/carolina-herrera-good-girl-main.jpg"
+    },
+    {
+      "id": "grand-soir",
+      "name": "Grand Soir EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/mfk-grand-soir-main.jpg"
+    },
+    {
+      "id": "green-irish-tweed",
+      "name": "Green Irish Tweed EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/creed-green-irish-tweed-main.jpg"
+    },
+    {
+      "id": "grey-vetiver",
+      "name": "Grey Vetiver EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/tom-ford-grey-vetiver-main.jpg"
+    },
+    {
+      "id": "habit-rouge-eau-de-toilette",
+      "name": "Habit Rouge Eau de Toilette",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-habit-rouge-edt-main.jpg"
+    },
+    {
+      "id": "habit-rouge-parfum",
+      "name": "Habit Rouge Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/habit-rouge-parfum-main.jpg"
+    },
+    {
+      "id": "hacivat",
+      "name": "Hacivat Extrait",
+      "reason": "Error reading size",
+      "path": "/images/products/nishane-hacivat-main.jpg"
+    },
+    {
+      "id": "halfeti",
+      "name": "Halfeti EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/penhaligons-halfeti-main.jpg"
+    },
+    {
+      "id": "her-edp",
+      "name": "Her EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/burberry-her-edp-main.jpg"
+    },
+    {
+      "id": "herod",
+      "name": "Herod EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/parfums-de-marly-herod-main.jpg"
+    },
+    {
+      "id": "homme-cologne",
+      "name": "Dior Homme Cologne",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-homme-cologne-main.jpg"
+    },
+    {
+      "id": "homme-intense",
+      "name": "Homme Intense",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-homme-intense-main.jpg"
+    },
+    {
+      "id": "homme-parfum",
+      "name": "Dior Homme Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-homme-parfum-main.jpg"
+    },
+    {
+      "id": "homme-sport-2021",
+      "name": "Dior Homme Sport (2021) EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-homme-sport-2021-main.jpg"
+    },
+    {
+      "id": "hundred-silent-ways",
+      "name": "Hundred Silent Ways Extrait",
+      "reason": "Error reading size",
+      "path": "/images/products/nishane-hundred-silent-ways-main.jpg"
+    },
+    {
+      "id": "hypnotic-poison",
+      "name": "Hypnotic Poison EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-hypnotic-poison-main.jpg"
+    },
+    {
+      "id": "imagination",
+      "name": "Imagination EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/louis-vuitton-imagination-main.jpg"
+    },
+    {
+      "id": "infusion-diris",
+      "name": "Infusion d'Iris EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/prada-infusion-diris-main.jpg"
+    },
+    {
+      "id": "insolence-edp",
+      "name": "Insolence EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-insolence-edp-main.jpg"
+    },
+    {
+      "id": "instant-crush",
+      "name": "Instant Crush EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/mancera-instant-crush-main.jpg"
+    },
+    {
+      "id": "interlude-man",
+      "name": "Interlude Man EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/amouage-interlude-man-main.jpg"
+    },
+    {
+      "id": "jadore-edp",
+      "name": "J'adore EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-jadore-edp-main.jpg"
+    },
+    {
+      "id": "jazz-club",
+      "name": "Replica Jazz Club EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/maison-margiela-jazz-club-main.jpg"
+    },
+    {
+      "id": "jpg-classique-edt",
+      "name": "Classique EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/jpg-classique-edt-main.jpg"
+    },
+    {
+      "id": "jpg-la-belle-edp",
+      "name": "La Belle EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/jpg-la-belle-edp-main.jpg"
+    },
+    {
+      "id": "jpg-la-belle-le-parfum",
+      "name": "La Belle Le Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/jpg-la-belle-le-parfum-main.jpg"
+    },
+    {
+      "id": "jpg-le-beau-le-parfum",
+      "name": "Le Beau Le Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/jpg-le-beau-le-parfum-main.jpg"
+    },
+    {
+      "id": "jpg-le-male-edt",
+      "name": "Le Male EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/jpg-le-male-edt-main.jpg"
+    },
+    {
+      "id": "jpg-le-male-elixir",
+      "name": "Le Male Elixir Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/jpg-le-male-elixir-main.jpg"
+    },
+    {
+      "id": "jpg-le-male-le-parfum",
+      "name": "Le Male Le Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/jpg-le-male-le-parfum-main.jpg"
+    },
+    {
+      "id": "jpg-ultra-male",
+      "name": "Ultra Male",
+      "reason": "Error reading size",
+      "path": "/images/products/jpg-ultra-male-main.jpg"
+    },
+    {
+      "id": "khamrah",
+      "name": "Khamrah EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/lattafa-khamrah-main.jpg"
+    },
+    {
+      "id": "l-homme-ideal-eau-de-parfum",
+      "name": "L'Homme Idéal Eau de Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-l-homme-ideal-eau-de-parfum-main.jpg"
+    },
+    {
+      "id": "l-interdit-eau-de-parfum",
+      "name": "L'Interdit EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/givenchy-l-interdit-eau-de-parfum-main.jpg"
+    },
+    {
+      "id": "l-interdit-eau-de-parfum-rouge",
+      "name": "L'Interdit Rouge EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/givenchy-l-interdit-eau-de-parfum-rouge-main.jpg"
+    },
+    {
+      "id": "la-nuit-de-lhomme",
+      "name": "La Nuit de L'Homme EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/la-nuit-de-lhomme-main.jpg"
+    },
+    {
+      "id": "la-nuit-de-lhomme-bleu-electrique",
+      "name": "La Nuit de L'Homme Bleu Électrique EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-la-nuit-de-lhomme-bleu-electrique-main.jpg"
+    },
+    {
+      "id": "la-vie-est-belle",
+      "name": "La Vie Est Belle EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/lancome-la-vie-est-belle-main.jpg"
+    },
+    {
+      "id": "layton",
+      "name": "Layton EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/parfums-de-marly-layton-main.jpg"
+    },
+    {
+      "id": "le-parfum-elie-saab",
+      "name": "Le Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/elie-saab-le-parfum-main.jpg"
+    },
+    {
+      "id": "le-parfum-lolita",
+      "name": "Le Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/lolita-lempicka-le-parfum-main.jpg"
+    },
+    {
+      "id": "leau-dissey-pour-homme",
+      "name": "L'Eau d'Issey Pour Homme EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/issey-miyake-leau-dissey-pour-homme-main.jpg"
+    },
+    {
+      "id": "l-heure-bleue-eau-de-parfum",
+      "name": "L'Heure Bleue Eau de Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-lheure-bleue-edp-main.jpg"
+    },
+    {
+      "id": "l-heure-bleue-eau-de-toilette",
+      "name": "L'Heure Bleue Eau de Toilette",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-lheure-bleue-edt-main.jpg"
+    },
+    {
+      "id": "lhomme",
+      "name": "L'Homme EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/prada-lhomme-main.jpg"
+    },
+    {
+      "id": "lhomme-ideal-parfum",
+      "name": "L'Homme Idéal Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-lhomme-ideal-parfum-main.jpg"
+    },
+    {
+      "id": "lhomme-intense",
+      "name": "L'Homme Intense",
+      "reason": "Error reading size",
+      "path": "/images/products/prada-lhomme-intense-main.jpg"
+    },
+    {
+      "id": "libre-edp",
+      "name": "Libre EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-libre-edp-main.jpg"
+    },
+    {
+      "id": "libre-intense",
+      "name": "Libre Intense",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-libre-intense-main.jpg"
+    },
+    {
+      "id": "libre-le-parfum",
+      "name": "Libre Le Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-libre-le-parfum-main.jpg"
+    },
+    {
+      "id": "light-blue-intense-homme",
+      "name": "Light Blue Eau Intense",
+      "reason": "Error reading size",
+      "path": "/images/products/dg-light-blue-intense-homme-main.jpg"
+    },
+    {
+      "id": "light-blue-pour-femme",
+      "name": "Light Blue Pour Femme EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/dolce-gabbana-light-blue-pour-femme-main.jpg"
+    },
+    {
+      "id": "limmensite",
+      "name": "L'Immensité EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/louis-vuitton-limmensite-main.jpg"
+    },
+    {
+      "id": "linstant-de-guerlain-femme",
+      "name": "L'Instant de Guerlain EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-linstant-de-guerlain-femme-main.jpg"
+    },
+    {
+      "id": "linstant-homme-edp",
+      "name": "L'Instant de Guerlain Pour Homme EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/linstant-de-guerlain-pour-homme-main.jpg"
+    },
+    {
+      "id": "lira",
+      "name": "Lira EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/xerjoff-lira-main.jpg"
+    },
+    {
+      "id": "lost-cherry",
+      "name": "Lost Cherry EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/tom-ford-lost-cherry-main.jpg"
+    },
+    {
+      "id": "love-dont-be-shy",
+      "name": "Love, don't be shy EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/kilian-love-dont-be-shy-main.jpg"
+    },
+    {
+      "id": "luna-rossa-black",
+      "name": "Luna Rossa Black EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/prada-luna-rossa-black-main.jpg"
+    },
+    {
+      "id": "luna-rossa-carbon",
+      "name": "Luna Rossa Carbon EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/prada-luna-rossa-carbon-main.jpg"
+    },
+    {
+      "id": "man-in-black",
+      "name": "Man In Black EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/bvlgari-man-in-black-main.jpg"
+    },
+    {
+      "id": "midnight-poison",
+      "name": "Midnight Poison EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-midnight-poison-main.jpg"
+    },
+    {
+      "id": "miss-dior-blooming-bouquet",
+      "name": "Miss Dior",
+      "reason": "Error reading size",
+      "path": "/images/products/miss-dior-blooming-bouquet-main.jpg"
+    },
+    {
+      "id": "miss-dior-cherie",
+      "name": "Miss Dior Chérie EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-miss-dior-cherie-main.jpg"
+    },
+    {
+      "id": "mitsouko-edp",
+      "name": "Mitsouko EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/mitsouko-main.jpg"
+    },
+    {
+      "id": "mon-guerlain",
+      "name": "Mon Guerlain EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-mon-guerlain-main.jpg"
+    },
+    {
+      "id": "mon-guerlain-intense",
+      "name": "Mon Guerlain Intense",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-mon-guerlain-intense-main.jpg"
+    },
+    {
+      "id": "mon-paris-edp",
+      "name": "Mon Paris EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-mon-paris-edp-main.jpg"
+    },
+    {
+      "id": "musc-noir-rose-for-her",
+      "name": "Musc Noir Rose For Her EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/narciso-rodriguez-musc-noir-rose-for-her-main.jpg"
+    },
+    {
+      "id": "musc-ravageur",
+      "name": "Musc Ravageur EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/frederic-malle-musc-ravageur-main.jpg"
+    },
+    {
+      "id": "musk-therapy",
+      "name": "Musk Therapy EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/initio-musk-therapy-main.jpg"
+    },
+    {
+      "id": "no-19-eau-de-toilette",
+      "name": "N°19 Eau de Toilette",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-n019-main.jpg"
+    },
+    {
+      "id": "naxos",
+      "name": "Naxos EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/xerjoff-naxos-main.jpg"
+    },
+    {
+      "id": "no-19-eau-de-parfum",
+      "name": "N°19 Eau de Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-no-19-eau-de-parfum-main.jpg"
+    },
+    {
+      "id": "no-19-poudre",
+      "name": "N°19 Poudré EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-no-19-poudre-main.jpg"
+    },
+    {
+      "id": "no-5-eau-de-parfum",
+      "name": "N°5 Eau de Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-no-5-eau-de-parfum-main.jpg"
+    },
+    {
+      "id": "no-5-eau-de-toilette",
+      "name": "N°5 Eau de Toilette",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-no-5-eau-de-toilette-main.jpg"
+    },
+    {
+      "id": "no-5-parfum",
+      "name": "N°5 Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/chanel-no-5-parfum-main.jpg"
+    },
+    {
+      "id": "noir-extreme",
+      "name": "Noir Extreme",
+      "reason": "Error reading size",
+      "path": "/images/products/noir-extreme-main.jpg"
+    },
+    {
+      "id": "nomade-edp",
+      "name": "Nomade EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/chloe-nomade-edp-main.jpg"
+    },
+    {
+      "id": "ombre-leather",
+      "name": "Ombré Leather EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/tom-ford-ombre-leather-main.jpg"
+    },
+    {
+      "id": "ombre-nomade",
+      "name": "Ombre Nomade EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/louis-vuitton-ombre-nomade-main.jpg"
+    },
+    {
+      "id": "opium-edt",
+      "name": "Opium EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-opium-edt-main.jpg"
+    },
+    {
+      "id": "organza",
+      "name": "Organza EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/givenchy-organza-main.jpg"
+    },
+    {
+      "id": "oud-satin-mood",
+      "name": "Oud Satin Mood EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/mfk-oud-satin-mood-main.jpg"
+    },
+    {
+      "id": "oud-wood",
+      "name": "Oud Wood EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/tom-ford-oud-wood-main.jpg"
+    },
+    {
+      "id": "philosykos-edp",
+      "name": "Philosykos EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/diptyque-philosykos-edp-main.jpg"
+    },
+    {
+      "id": "poison",
+      "name": "Poison EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-poison-main.jpg"
+    },
+    {
+      "id": "portrait-of-a-lady",
+      "name": "Portrait of a Lady EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/frederic-malle-portrait-of-a-lady-main.jpg"
+    },
+    {
+      "id": "pure-musc-for-her",
+      "name": "Pure Musc For Her EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/narciso-rodriguez-pure-musc-for-her-main.jpg"
+    },
+    {
+      "id": "pure-poison",
+      "name": "Pure Poison EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-pure-poison-main.jpg"
+    },
+    {
+      "id": "reflection-45-man",
+      "name": "Reflection 45 Man Extrait",
+      "reason": "Error reading size",
+      "path": "/images/products/amouage-reflection-45-man-main.jpg"
+    },
+    {
+      "id": "reflection-man",
+      "name": "Reflection Man EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/amouage-reflection-man-main.jpg"
+    },
+    {
+      "id": "rive-gauche",
+      "name": "Rive Gauche EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-rive-gauche-main.jpg"
+    },
+    {
+      "id": "samsara-edp",
+      "name": "Samsara EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-samsara-edp-main.jpg"
+    },
+    {
+      "id": "sauvage-edp",
+      "name": "Sauvage EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/dior-sauvage-edp-main.jpg"
+    },
+    {
+      "id": "sauvage-elixir",
+      "name": "Sauvage Elixir",
+      "reason": "Error reading size",
+      "path": "/images/products/sauvage-elixir-main.jpg"
+    },
+    {
+      "id": "sedley",
+      "name": "Sedley EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/parfums-de-marly-sedley-main.jpg"
+    },
+    {
+      "id": "shalimar-eau-de-parfum",
+      "name": "Shalimar Eau de Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-shalimar-edp-main.jpg"
+    },
+    {
+      "id": "shalimar-lessence",
+      "name": "Shalimar L'Essence EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-shalimar-lessence-main.jpg"
+    },
+    {
+      "id": "shalimar-parfum",
+      "name": "Shalimar Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-shalimar-parfum-main.jpg"
+    },
+    {
+      "id": "side-effect",
+      "name": "Side Effect EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/initio-side-effect-main.jpg"
+    },
+    {
+      "id": "spicebomb-extreme",
+      "name": "Spicebomb Extreme",
+      "reason": "Error reading size",
+      "path": "/images/products/viktor-rolf-spicebomb-extreme-main.jpg"
+    },
+    {
+      "id": "stronger-with-you-intensely",
+      "name": "Stronger With You Intensely",
+      "reason": "Error reading size",
+      "path": "/images/products/armani-stronger-with-you-intensely-main.jpg"
+    },
+    {
+      "id": "terre-dhermes-eau-givree",
+      "name": "Terre d'Hermès Eau Givrée EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/hermes-terre-dhermes-eau-givree-main.jpg"
+    },
+    {
+      "id": "terre-dhermes-eau-de-toilette",
+      "name": "Terre d'Hermès Eau de Toilette",
+      "reason": "Error reading size",
+      "path": "/images/products/terre-dhermes-edt-main.jpg"
+    },
+    {
+      "id": "terre-dhermes-parfum",
+      "name": "Terre d'Hermès Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/hermes-terre-dhermes-parfum-main.jpg"
+    },
+    {
+      "id": "the-most-wanted-parfum",
+      "name": "The Most Wanted Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/azzaro-the-most-wanted-parfum-main.jpg"
+    },
+    {
+      "id": "the-one-edp",
+      "name": "The One EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/dolce-gabbana-the-one-edp-main.jpg"
+    },
+    {
+      "id": "the-one-for-men-eau-de-parfum",
+      "name": "The One for Men EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/dg-the-one-for-men-eau-de-parfum-main.jpg"
+    },
+    {
+      "id": "this-is-her",
+      "name": "This Is Her! EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/zadig-voltaire-this-is-her-main.jpg"
+    },
+    {
+      "id": "tobacco-vanille",
+      "name": "Tobacco Vanille EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/tom-ford-tobacco-vanille-main.jpg"
+    },
+    {
+      "id": "tresor",
+      "name": "Trésor EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/lancome-tresor-main.jpg"
+    },
+    {
+      "id": "tuscan-leather",
+      "name": "Tuscan Leather EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/tom-ford-tuscan-leather-main.jpg"
+    },
+    {
+      "id": "tuxedo",
+      "name": "Tuxedo",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-tuxedo-main.jpg"
+    },
+    {
+      "id": "un-jardin-sur-le-nil",
+      "name": "Un Jardin sur le Nil EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/hermes-un-jardin-sur-le-nil-main.jpg"
+    },
+    {
+      "id": "uomo-born-in-roma-intense",
+      "name": "Uomo Born In Roma Intense",
+      "reason": "Error reading size",
+      "path": "/images/products/valentino-uomo-born-in-roma-intense-main.jpg"
+    },
+    {
+      "id": "vanilla",
+      "name": "Vanilla Sex EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/tom-ford-tobacco-vanille-main.jpg"
+    },
+    {
+      "id": "vanilla-28",
+      "name": "Vanilla 28 EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/kayali-vanilla-28-main.jpg"
+    },
+    {
+      "id": "vetiver",
+      "name": "Vetiver EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-vetiver-main.jpg"
+    },
+    {
+      "id": "vibrato",
+      "name": "Vibrato EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/sospiro-vibrato-main.jpg"
+    },
+    {
+      "id": "libre-leau-nue",
+      "name": "Libre L'Eau Nue EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-libre-edp-main.jpg"
+    },
+    {
+      "id": "versace-eros-edt",
+      "name": "Eros EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/versace-eros-edp-main.jpg"
+    },
+    {
+      "id": "gris-charnel-extrait",
+      "name": "Gris Charnel Extrait",
+      "reason": "Error reading size",
+      "path": "/images/products/bdk-gris-charnel-extrait-main.webp"
+    },
+    {
+      "id": "armaf-effects-of-uniq",
+      "name": "Effects of Uniq",
+      "reason": "Error reading size",
+      "path": "/images/products/armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-thuc-te-1.webp"
+    },
+    {
+      "id": "black-phantom-by-kilian",
+      "name": "Black Phantom",
+      "reason": "Error reading size",
+      "path": "/images/products/black-phantom-by-kilian/nuoc-hoa-black-phantom-by-kilian-thuc-te-1.webp"
+    },
+    {
+      "id": "blanche-bete",
+      "name": "Blanche Bête",
+      "reason": "Error reading size",
+      "path": "/images/products/blanche-bete/nuoc-hoa-blanche-bete-thuc-te-1.webp"
+    },
+    {
+      "id": "byredo-blanche-edp",
+      "name": "Blanche EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-thuc-te-1.webp"
+    },
+    {
+      "id": "byredo-la-tulipe",
+      "name": "La Tulipe",
+      "reason": "Error reading size",
+      "path": "/images/products/byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-thuc-te-1.webp"
+    },
+    {
+      "id": "chloe-atelier-des-fleurs-rosa-damascena",
+      "name": "Rosa Damascena",
+      "reason": "Error reading size",
+      "path": "/images/products/chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-atelier-des-fleurs-rosa-damascena-thuc-te-1.webp"
+    },
+    {
+      "id": "chloe-atelier-des-fleurs-santalum",
+      "name": "Santalum",
+      "reason": "Error reading size",
+      "path": "/images/products/chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-atelier-des-fleurs-santalum-thuc-te-1.webp"
+    },
+    {
+      "id": "creed-aventus",
+      "name": "Aventus",
+      "reason": "Error reading size",
+      "path": "/images/products/creed-aventus/nuoc-hoa-creed-aventus-thuc-te-1.webp"
+    },
+    {
+      "id": "creed-love-in-white",
+      "name": "Love In White",
+      "reason": "Error reading size",
+      "path": "/images/products/creed-love-in-white/nuoc-hoa-creed-love-in-white-thuc-te-1.webp"
+    },
+    {
+      "id": "creed-silver-moutain-water",
+      "name": "Silver Mountain Water",
+      "reason": "Error reading size",
+      "path": "/images/products/creed-silver-moutain-water/nuoc-hoa-creed-silver-moutain-water-thuc-te-1.webp"
+    },
+    {
+      "id": "deliah-blanc",
+      "name": "Deliah Blanc",
+      "reason": "Error reading size",
+      "path": "/images/products/deliah-blanc/nuoc-hoa-deliah-blanc-thuc-te-1.webp"
+    },
+    {
+      "id": "diptyque-doson-edp",
+      "name": "Doson EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-thuc-te-1.webp"
+    },
+    {
+      "id": "diptyque-fleur-de-peau",
+      "name": "Fleur de Peau",
+      "reason": "Error reading size",
+      "path": "/images/products/diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-thuc-te-1.webp"
+    },
+    {
+      "id": "dubai-musk",
+      "name": "Dubai Musk",
+      "reason": "Error reading size",
+      "path": "/images/products/dubai-musk/nuoc-hoa-dubai-musk-thuc-te-1.webp"
+    },
+    {
+      "id": "elizabeth-arden-white-tea-edt",
+      "name": "White Tea EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-thuc-te-1.webp"
+    },
+    {
+      "id": "ella-k-pluie-sur-ha-long",
+      "name": "Pluie Sur Ha Long",
+      "reason": "Error reading size",
+      "path": "/images/products/ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-1.webp"
+    },
+    {
+      "id": "ex-nihilo-blue-talisman",
+      "name": "Blue Talisman",
+      "reason": "Error reading size",
+      "path": "/images/products/ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-thuc-te-1.webp"
+    },
+    {
+      "id": "giorgio-armani-acqua-di-gio-profondo",
+      "name": "Acqua di Gio Profondo",
+      "reason": "Error reading size",
+      "path": "/images/products/giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-thuc-te-1.webp"
+    },
+    {
+      "id": "gritti-tutu-extrait",
+      "name": "TuTu Extrait de Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-thuc-te-1.webp"
+    },
+    {
+      "id": "gucci-flora-gorgeous-gardenia",
+      "name": "Flora Gorgeous Gardenia",
+      "reason": "Error reading size",
+      "path": "/images/products/gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-thuc-te-1.webp"
+    },
+    {
+      "id": "guerlain-aqua-allegoria-forte-rosa-palissandro-edp",
+      "name": "Aqua Allegoria Forte Rosa Palissandro EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-thuc-te-1.webp"
+    },
+    {
+      "id": "guerlain-aqua-allegoria-nerolia-vetiver-edp",
+      "name": "Aqua Allegoria Forte Nerolia Vetiver",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-nerolia-vetiver-edp-thuc-te-1.webp"
+    },
+    {
+      "id": "guerlain-aqua-allegoria-nettare-di-sole",
+      "name": "Aqua Allegoria Nettare Di Sole",
+      "reason": "Error reading size",
+      "path": "/images/products/guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-thuc-te-1.webp"
+    },
+    {
+      "id": "hermes-bleue",
+      "name": "Eau des Merveilles Bleue",
+      "reason": "Error reading size",
+      "path": "/images/products/hermes-bleue/nuoc-hoa-hermes-bleue-thuc-te-1.webp"
+    },
+    {
+      "id": "hermes-twilly-eau-poivree",
+      "name": "Twilly d'Hermès Eau Poivrée",
+      "reason": "Error reading size",
+      "path": "/images/products/hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-eau-poivree-thuc-te-1.webp"
+    },
+    {
+      "id": "jimmy-choo-i-want-choo",
+      "name": "I Want Choo EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-thuc-te-1.webp"
+    },
+    {
+      "id": "kilan-good-girl-gone-bad",
+      "name": "Good Girl Gone Bad",
+      "reason": "Error reading size",
+      "path": "/images/products/kilan-good-girl-gone-bad/nuoc-hoa-kilan-good-girl-gone-bad-thuc-te-1.webp"
+    },
+    {
+      "id": "kilian-rolling-in-love",
+      "name": "Rolling In Love",
+      "reason": "Error reading size",
+      "path": "/images/products/kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-thuc-te-1.webp"
+    },
+    {
+      "id": "lorchestre-piano-santal",
+      "name": "Piano Santal",
+      "reason": "Error reading size",
+      "path": "/images/products/lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-thuc-te-1.webp"
+    },
+    {
+      "id": "lalique-encre-noir-edt",
+      "name": "Encre Noire EDT",
+      "reason": "Error reading size",
+      "path": "/images/products/lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noir-edt-thuc-te-1.webp"
+    },
+    {
+      "id": "le-labo-santal",
+      "name": "Santal 33",
+      "reason": "Error reading size",
+      "path": "/images/products/le-labo-santal/nuoc-hoa-le-labo-santal-thuc-te-1.webp"
+    },
+    {
+      "id": "mcm-zen-elephant",
+      "name": "Eau de Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/mcm-zen-elephant/nuoc-hoa-mcm-zen-elephant-thuc-te-1.webp"
+    },
+    {
+      "id": "maison-francis-kurkdjian-kurky",
+      "name": "Aqua Universalis",
+      "reason": "Error reading size",
+      "path": "/images/products/maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-kurky-thuc-te-1.webp"
+    },
+    {
+      "id": "mancera-sicily",
+      "name": "Sicily EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/mancera-sicily/nuoc-hoa-mancera-sicily-thuc-te-1.webp"
+    },
+    {
+      "id": "mancera-cedrat-boise",
+      "name": "Cedrat Boise",
+      "reason": "Error reading size",
+      "path": "/images/products/mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-thuc-te-1.webp"
+    },
+    {
+      "id": "mfk-baccarat-54-edp",
+      "name": "Baccarat Rouge 540 EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/mfk-baccarat-54-edp/nuoc-hoa-mfk-baccarat-54-edp-thuc-te-1.webp"
+    },
+    {
+      "id": "mfk-a-la-rose",
+      "name": "À la rose",
+      "reason": "Error reading size",
+      "path": "/images/products/mfk-a-la-rose/nuoc-hoa-mfk-a-la-rose-thuc-te-1.webp"
+    },
+    {
+      "id": "miss-dior-essence-new-2025",
+      "name": "Miss Dior Essence Parfum",
+      "reason": "Error reading size",
+      "path": "/images/products/miss-dior-essence-new-2025/nuoc-hoa-miss-dior-essence-new-2025-thuc-te-1.webp"
+    },
+    {
+      "id": "miss-dior-parfum-new-2024",
+      "name": "Miss Dior Parfum 2024",
+      "reason": "Error reading size",
+      "path": "/images/products/miss-dior-parfum-new-2024/nuoc-hoa-miss-dior-parfum-new-2024-thuc-te-1.webp"
+    },
+    {
+      "id": "moschino-toy-boy",
+      "name": "Toy Boy",
+      "reason": "Error reading size",
+      "path": "/images/products/moschino-toy-boy/nuoc-hoa-moschino-toy-boy-thuc-te-1.webp"
+    },
+    {
+      "id": "musk-kashmir",
+      "name": "Musk Kashmir",
+      "reason": "Error reading size",
+      "path": "/images/products/musk-kashmir/nuoc-hoa-musk-kashmir-thuc-te-1.webp"
+    },
+    {
+      "id": "my-way-edp",
+      "name": "My Way EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/my-way-edp/nuoc-hoa-my-way-edp-thuc-te-1.webp"
+    },
+    {
+      "id": "nar-cristal-edp",
+      "name": "Cristal EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/nar-cristal-edp/nuoc-hoa-nar-cristal-edp-thuc-te-1.webp"
+    },
+    {
+      "id": "nar-poudree",
+      "name": "Poudrée",
+      "reason": "Error reading size",
+      "path": "/images/products/nar-poudree/nuoc-hoa-nar-poudree-thuc-te-1.webp"
+    },
+    {
+      "id": "narciso-ambree",
+      "name": "Ambrée",
+      "reason": "Error reading size",
+      "path": "/images/products/narciso-ambree/nuoc-hoa-narciso-ambree-thuc-te-1.webp"
+    },
+    {
+      "id": "narciso-for-her-edp-intense-new-2025",
+      "name": "For Her EDP Intense",
+      "reason": "Error reading size",
+      "path": "/images/products/narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-for-her-edp-intense-new-2025-thuc-te-1.webp"
+    },
+    {
+      "id": "narciso-musc-nude",
+      "name": "Musc Nude",
+      "reason": "Error reading size",
+      "path": "/images/products/narciso-musc-nude/nuoc-hoa-narciso-musc-nude-thuc-te-1.webp"
+    },
+    {
+      "id": "narciso-rodriguez-all-of-me-floral",
+      "name": "All of Me Floral",
+      "reason": "Error reading size",
+      "path": "/images/products/narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-thuc-te-1.webp"
+    },
+    {
+      "id": "narciso-rodriguez-for-her-eau-de-parfum",
+      "name": "For Her EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-eau-de-parfum-thuc-te-1.webp"
+    },
+    {
+      "id": "odyssey-limoni",
+      "name": "Odyssey Limoni",
+      "reason": "Error reading size",
+      "path": "/images/products/odyssey-limoni/nuoc-hoa-odyssey-limoni-thuc-te-1.webp"
+    },
+    {
+      "id": "odyssey-mandarin-sky",
+      "name": "Odyssey Mandarin Sky",
+      "reason": "Error reading size",
+      "path": "/images/products/odyssey-mandarin-sky/nuoc-hoa-odyssey-mandarin-sky-thuc-te-1.webp"
+    },
+    {
+      "id": "oud-forever",
+      "name": "Oud Forever",
+      "reason": "Error reading size",
+      "path": "/images/products/oud-forever/nuoc-hoa-oud-forever-thuc-te-1.webp"
+    },
+    {
+      "id": "paco-pure-xs",
+      "name": "Pure XS",
+      "reason": "Error reading size",
+      "path": "/images/products/paco-pure-xs/nuoc-hoa-paco-pure-xs-thuc-te-1.webp"
+    },
+    {
+      "id": "parfums-de-marly-palatine",
+      "name": "Palatine",
+      "reason": "Error reading size",
+      "path": "/images/products/parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-thuc-te-1.webp"
+    },
+    {
+      "id": "parfums-de-marly-valaya",
+      "name": "Valaya",
+      "reason": "Error reading size",
+      "path": "/images/products/parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-thuc-te-1.webp"
+    },
+    {
+      "id": "parfums-de-marly-valaya-exclusif",
+      "name": "Valaya Exclusif",
+      "reason": "Error reading size",
+      "path": "/images/products/parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-thuc-te-1.webp"
+    },
+    {
+      "id": "rj-burlington-1819",
+      "name": "Burlington 1819",
+      "reason": "Error reading size",
+      "path": "/images/products/rj-burlington-1819/nuoc-hoa-rj-burlington-1819-thuc-te-1.webp"
+    },
+    {
+      "id": "replica-by-the-fireplace",
+      "name": "By The Fireplace",
+      "reason": "Error reading size",
+      "path": "/images/products/replica-by-the-fireplace/nuoc-hoa-replica-by-the-fireplace-thuc-te-1.webp"
+    },
+    {
+      "id": "replica-lazy-sunday-morning",
+      "name": "Lazy Sunday Morning",
+      "reason": "Error reading size",
+      "path": "/images/products/replica-lazy-sunday-morning/nuoc-hoa-replica-lazy-sunday-morning-thuc-te-1.webp"
+    },
+    {
+      "id": "the-noir",
+      "name": "Thé Noir 29",
+      "reason": "Error reading size",
+      "path": "/images/products/the-noir/nuoc-hoa-the-noir-thuc-te-1.webp"
+    },
+    {
+      "id": "thomas-kosmala-no",
+      "name": "No 4 Apres l'Amour",
+      "reason": "Error reading size",
+      "path": "/images/products/thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-thuc-te-1.webp"
+    },
+    {
+      "id": "tom-ford-black-orchid",
+      "name": "Black Orchid",
+      "reason": "Error reading size",
+      "path": "/images/products/tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-thuc-te-1.webp"
+    },
+    {
+      "id": "versace-bright-crystal",
+      "name": "Bright Crystal",
+      "reason": "Error reading size",
+      "path": "/images/products/versace-bright-crystal/nuoc-hoa-versace-bright-crystal-thuc-te-1.webp"
+    },
+    {
+      "id": "versace-eros-energy-edp",
+      "name": "Eros Energy",
+      "reason": "Error reading size",
+      "path": "/images/products/versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-edp-thuc-te-1.webp"
+    },
+    {
+      "id": "versace-eros-flame",
+      "name": "Eros Flame",
+      "reason": "Error reading size",
+      "path": "/images/products/versace-eros-flame/nuoc-hoa-versace-eros-flame-thuc-te-1.webp"
+    },
+    {
+      "id": "versce-pour-homme",
+      "name": "Pour Homme",
+      "reason": "Error reading size",
+      "path": "/images/products/versce-pour-homme/nuoc-hoa-versce-pour-homme-thuc-te-1.webp"
+    },
+    {
+      "id": "xerjoff-casamorati-mefisto",
+      "name": "Casamorati Mefisto",
+      "reason": "Error reading size",
+      "path": "/images/products/xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-thuc-te-1.webp"
+    },
+    {
+      "id": "xerjoff-torino",
+      "name": "Torino 21",
+      "reason": "Error reading size",
+      "path": "/images/products/xerjoff-torino/nuoc-hoa-xerjoff-torino-thuc-te-1.webp"
+    },
+    {
+      "id": "ysl-black-opium-glitter-edp",
+      "name": "Black Opium Glitter",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-black-opium-glitter-edp/nuoc-hoa-ysl-black-opium-glitter-edp-thuc-te-1.webp"
+    },
+    {
+      "id": "ysl-libre-intense-edp",
+      "name": "Libre Intense EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-libre-intense-edp/nuoc-hoa-ysl-libre-intense-edp-thuc-te-1.webp"
+    },
+    {
+      "id": "ysl-y-eau-de-parfum",
+      "name": "Y EDP",
+      "reason": "Error reading size",
+      "path": "/images/products/ysl-y-eau-de-parfum/nuoc-hoa-ysl-y-eau-de-parfum-thuc-te-1.webp"
+    },
+    {
+      "id": "rmni-prive-the-yulong",
+      "name": "The Yulong",
+      "reason": "Error reading size",
+      "path": "/images/products/rmni-prive-the-yulong/nuoc-hoa-rmni-prive-the-yulong-thuc-te-1.webp"
+    },
+    {
+      "id": "ventus-for-her",
+      "name": "Aventus For Her",
+      "reason": "Error reading size",
+      "path": "/images/products/ventus-for-her/nuoc-hoa-ventus-for-her-thuc-te-1.webp"
+    }
+  ],
+  "notFragranticaFormat": []
+}

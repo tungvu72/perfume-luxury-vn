@@ -189,25 +189,36 @@
 
 ---
 
-## 🛠️ SESSION LOG & PENDING TASKS (Cập nhật 2026-04-04)
+## Image & Folder Standard — STT-Based (CHỐT 2026-04-13)
+- **Quy tắc Folder:** Toàn bộ folder ảnh sản phẩm trong `public/images/products/` phải có tiền tố STT 3 chữ số (ví dụ: `001-montblanc-signature-edp`).
+- **Quy tắc Ảnh Main:** Ảnh main nằm trong `public/images/products/` phải trùng STT với folder (ví dụ: `001-montblanc-signature-edp-main.jpg`).
+- **Thứ tự sắp xếp:** Danh sách sản phẩm trong `mockData.ts` được sắp xếp theo **Brand (A-Z)**. STT được gán dựa trên thứ tự này.
+- **Quy trình Add Ảnh:**
+  1. Tìm folder theo STT trong list (ví dụ: `206`).
+  2. Copy ảnh gốc vào folder `public/images/products/206-creed-aventus/`.
+  3. AI sẽ tự động: Convert sang `.webp` -> Rename SEO -> Update `mockData.ts`.
+- **Nghiêm cấm:** Không tự ý tạo folder không có STT hoặc đặt tên folder/ảnh main sai lệch so với STT trong `mockData.ts`.
+
+---
+
+## 🛠️ SESSION LOG & PENDING TASKS (Cập nhật 2026-04-13)
 
 ### ✅ ĐÃ HOÀN THÀNH
-1. **Fix Search Vietnamese (BLOCKING):** 
-   - Đã cài đặt `fuse.js`, triển khai `removeVietnameseTones` (NFD normalization).
-   - Đã verify trên Production: gõ "nuoc hoa nam", "sauavge" (typo) đều trả kết quả đúng.
-   - UI Search: User đã chỉnh `object-contain p-0.5` cho thumbnail trong dropdown.
-2. **Product Image Pipeline (Phase 1):** 
-   - Hoàn thành dump 13 chai "High Confidence" (bao gồm YSL Y EDP với 5 ảnh thực tế).
-   - Đã verify ảnh thực tế hiển thị đúng label và gallery trên Production.
+1. **Chuẩn hóa STT toàn bộ Catalog (271 sản phẩm):**
+   - Đã gán STT 3 chữ số cho toàn bộ folder và ảnh main.
+   - Hợp nhất folder rác, rename SEO 1,079 ảnh subfolder.
+   - Đồng bộ `mockData.ts` và `searchIndex.ts` (Build OK, Pushed `ba73f32`).
+2. **Setup Folder Sẵn:** Đã tạo đủ 271 folder STT-prefixed để User chỉ việc ném ảnh vào.
 
 ### ⏳ ĐANG DỞ / PENDING (Cần làm sau reset)
-1. **Phase 2 — Tạo Page & Inject Ảnh mới:** Cho 4 sản phẩm chưa có trong `mockData.ts`:
-   - [ ] **Libre L'Eau Nue** (YSL)
-   - [ ] **Oud Forever** (Chưa rõ brand, cần check folder `D:\anti\ảnh nước hoa`)
-   - [ ] **Versace Eros EDT** (Tránh trùng bản EDP/Parfum)
-   - [ ] **Gris Charnel Extrait** (BDK Parfums)
-2. **Audit & Cleanup:** Rà soát lại các folder ảnh còn sót trong `D:\anti\ảnh nước hoa` để đảm bảo 100% sản phẩm có ảnh thực tế.
+1. **Xử lý file lẻ (Orphans):**
+   - Di chuyển `nuoc-hoa--thuc-te-*.webp` và `tom-ford-ombre-leather-real-*.jpg` vào đúng folder STT.
+2. **Workflow Auto-Processing:**
+   - Xây dựng script `scripts/process-image-uploads.js` để tự động dọn dẹp, convert WebP và rename SEO khi có ảnh mới.
+3. **Tiếp tục Batch Standardization (Data):**
+   - Hiện đã dọn xong hạ tầng ảnh, cần quay lại tiêm data cho các Batch tiếp theo từ #92 trở đi (hoặc hoàn thiện nốt Batch 9).
+4. **Fix nốt ~10 ảnh main:** Check và gán STT chuẩn cho các ảnh main bị sót đo tên file lệch slug.
 
-### 📋 Hướng dẫn Reset
-- Coder/Anti mới: Đọc lại `docs/tasks/fix-search-vietnamese.md` để xem bối cảnh search.
-- Tiếp tục Phase 2 bằng cách tạo object mới trong `src/constants/mockData.ts` cho 4 chai trên trước khi chạy script inject.
+### 📚 IDENTIFIED SKILLS (Workflows found)
+- `d:\anti\.agents\workflows\skills\product-data-entry.md`: Quy trình 5 bước nhập liệu chuẩn SON 100%.
+- `d:\anti\resort_stt.js`: Script re-sort và re-number STT theo Brand.

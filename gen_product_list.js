@@ -15,28 +15,23 @@ while (i < lines.length) {
     const name = (block.find(l => l.trim().startsWith('name:')) || '').match(/"([^"]+)"/)?.[1] || '';
     const gender = (block.find(l => l.trim().startsWith('gender:')) || '').match(/"([^"]+)"/)?.[1] || '';
     
-    // H1 format: "Nước Hoa {Gender} {BRAND} {Name}"
     const genderLabel = gender === 'nam' ? 'Nam' : gender === 'nu' ? 'Nữ' : 'Unisex';
     const h1 = `Nước Hoa ${genderLabel} ${brand.toUpperCase()} ${name}`;
     const url = `https://www.maisondeson.com/nuoc-hoa-${gender}-${brandSlug}-${id}`;
     
-    products.push({ brand: brand.toUpperCase(), brandSlug, name, gender, id, h1, url });
+    products.push({ brand: brand.toUpperCase(), name, h1, url });
   }
   i++;
 }
 
-// Sort by brand name then by product name
 products.sort((a, b) => {
   if (a.brand < b.brand) return -1;
   if (a.brand > b.brand) return 1;
   return a.name.localeCompare(b.name);
 });
 
-// Build markdown
-let md = `# DANH SÁCH SẢN PHẨM MAISON DE SON\n`;
-md += `> Cập nhật: ${new Date().toISOString().split('T')[0]} | Tổng: **${products.length}** sản phẩm\n\n`;
-md += `| # | H1 | URL |\n`;
-md += `|---|------|-----|\n`;
+let md = `# DANH SÁCH TỔNG SẢN PHẨM — MAISON DE SON\n\n`;
+md += `Cập nhật: ${new Date().toISOString().split('T')[0]} | Tổng: **${products.length}** sản phẩm\n\n`;
 
 let currentBrand = '';
 let num = 0;
@@ -45,10 +40,10 @@ products.forEach(p => {
   num++;
   if (p.brand !== currentBrand) {
     currentBrand = p.brand;
-    md += `| | **${currentBrand}** | |\n`;
+    md += `\n### ${currentBrand}\n`;
   }
-  md += `| ${num} | ${p.h1} | ${p.url} |\n`;
+  md += `**${num}.** ${p.h1}\n${p.url}\n\n`;
 });
 
-fs.writeFileSync('danh_sach_sp_full.md', md, 'utf8');
-console.log(`Generated danh_sach_sp_full.md with ${products.length} products.`);
+fs.writeFileSync('danh_sach_sp.md', md, 'utf8');
+console.log(`Done: ${products.length} sản phẩm.`);

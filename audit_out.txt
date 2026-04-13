@@ -1,0 +1,79 @@
+WRONG MAPPINGS:
+- N°19 Eau de Toilette [ID: no-19-eau-de-toilette] -> Image: /images/products/chanel-n019-main.jpg
+- Vanilla Sex EDP [ID: vanilla] -> Image: /images/products/tom-ford-tobacco-vanille-main.jpg
+
+NO WHITE BG:
+- Bloom EDP [ID: bloom-edp] -> Image: /images/products/gucci-bloom-edp/nuoc-hoa-gucci-bloom-edp-thuc-te-1.webp
+- Effects of Uniq [ID: armaf-effects-of-uniq] -> Image: /images/products/armaf-effects-of-uniq/nuoc-hoa-armaf-effects-of-uniq-thuc-te-1.webp
+- Black Phantom [ID: black-phantom-by-kilian] -> Image: /images/products/black-phantom-by-kilian/nuoc-hoa-black-phantom-by-kilian-thuc-te-1.webp
+- Blanche Bête [ID: blanche-bete] -> Image: /images/products/blanche-bete/nuoc-hoa-blanche-bete-thuc-te-1.webp
+- Blanche EDP [ID: byredo-blanche-edp] -> Image: /images/products/byredo-blanche-edp/nuoc-hoa-byredo-blanche-edp-thuc-te-1.webp
+- La Tulipe [ID: byredo-la-tulipe] -> Image: /images/products/byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-thuc-te-1.webp
+- Rosa Damascena [ID: chloe-atelier-des-fleurs-rosa-damascena] -> Image: /images/products/chloe-atelier-des-fleurs-rosa-damascena/nuoc-hoa-chloe-atelier-des-fleurs-rosa-damascena-thuc-te-1.webp
+- Santalum [ID: chloe-atelier-des-fleurs-santalum] -> Image: /images/products/chloe-atelier-des-fleurs-santalum/nuoc-hoa-chloe-atelier-des-fleurs-santalum-thuc-te-1.webp
+- Aventus [ID: creed-aventus] -> Image: /images/products/creed-aventus/nuoc-hoa-creed-aventus-thuc-te-1.webp
+- Love In White [ID: creed-love-in-white] -> Image: /images/products/creed-love-in-white/nuoc-hoa-creed-love-in-white-thuc-te-1.webp
+- Silver Mountain Water [ID: creed-silver-moutain-water] -> Image: /images/products/creed-silver-moutain-water/nuoc-hoa-creed-silver-moutain-water-thuc-te-1.webp
+- Deliah Blanc [ID: deliah-blanc] -> Image: /images/products/deliah-blanc/nuoc-hoa-deliah-blanc-thuc-te-1.webp
+- Doson EDP [ID: diptyque-doson-edp] -> Image: /images/products/diptyque-doson-edp/nuoc-hoa-diptyque-doson-edp-thuc-te-1.webp
+- Fleur de Peau [ID: diptyque-fleur-de-peau] -> Image: /images/products/diptyque-fleur-de-peau/nuoc-hoa-diptyque-fleur-de-peau-thuc-te-1.webp
+- Dubai Musk [ID: dubai-musk] -> Image: /images/products/dubai-musk/nuoc-hoa-dubai-musk-thuc-te-1.webp
+- White Tea EDT [ID: elizabeth-arden-white-tea-edt] -> Image: /images/products/elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-thuc-te-1.webp
+- Pluie Sur Ha Long [ID: ella-k-pluie-sur-ha-long] -> Image: /images/products/ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-1.webp
+- Blue Talisman [ID: ex-nihilo-blue-talisman] -> Image: /images/products/ex-nihilo-blue-talisman/nuoc-hoa-ex-nihilo-blue-talisman-thuc-te-1.webp
+- Acqua di Gio Profondo [ID: giorgio-armani-acqua-di-gio-profondo] -> Image: /images/products/giorgio-armani-acqua-di-gio-profondo/nuoc-hoa-giorgio-armani-acqua-di-gio-profondo-thuc-te-1.webp
+- TuTu Extrait de Parfum [ID: gritti-tutu-extrait] -> Image: /images/products/gritti-tutu-extrait/nuoc-hoa-gritti-tutu-extrait-thuc-te-1.webp
+- Flora Gorgeous Gardenia [ID: gucci-flora-gorgeous-gardenia] -> Image: /images/products/gucci-flora-gorgeous-gardenia/nuoc-hoa-gucci-flora-gorgeous-gardenia-thuc-te-1.webp
+- Aqua Allegoria Forte Rosa Palissandro EDP [ID: guerlain-aqua-allegoria-forte-rosa-palissandro-edp] -> Image: /images/products/guerlain-aqua-allegoria-forte-rosa-palissandro-edp/nuoc-hoa-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-thuc-te-1.webp
+- Aqua Allegoria Forte Nerolia Vetiver [ID: guerlain-aqua-allegoria-nerolia-vetiver-edp] -> Image: /images/products/guerlain-aqua-allegoria-nerolia-vetiver-edp/nuoc-hoa-guerlain-aqua-allegoria-nerolia-vetiver-edp-thuc-te-1.webp
+- Aqua Allegoria Nettare Di Sole [ID: guerlain-aqua-allegoria-nettare-di-sole] -> Image: /images/products/guerlain-aqua-allegoria-nettare-di-sole/nuoc-hoa-guerlain-aqua-allegoria-nettare-di-sole-thuc-te-1.webp
+- Eau des Merveilles Bleue [ID: hermes-bleue] -> Image: /images/products/hermes-bleue/nuoc-hoa-hermes-bleue-thuc-te-1.webp
+- Twilly d'Hermès Eau Poivrée [ID: hermes-twilly-eau-poivree] -> Image: /images/products/hermes-twilly-eau-poivree/nuoc-hoa-hermes-twilly-eau-poivree-thuc-te-1.webp
+- I Want Choo EDP [ID: jimmy-choo-i-want-choo] -> Image: /images/products/jimmy-choo-i-want-choo/nuoc-hoa-jimmy-choo-i-want-choo-thuc-te-1.webp
+- Good Girl Gone Bad [ID: kilan-good-girl-gone-bad] -> Image: /images/products/kilan-good-girl-gone-bad/nuoc-hoa-kilan-good-girl-gone-bad-thuc-te-1.webp
+- Rolling In Love [ID: kilian-rolling-in-love] -> Image: /images/products/kilian-rolling-in-love/nuoc-hoa-kilian-rolling-in-love-thuc-te-1.webp
+- Piano Santal [ID: lorchestre-piano-santal] -> Image: /images/products/lorchestre-piano-santal/nuoc-hoa-lorchestre-piano-santal-thuc-te-1.webp
+- Encre Noire EDT [ID: lalique-encre-noir-edt] -> Image: /images/products/lalique-encre-noir-edt/nuoc-hoa-lalique-encre-noir-edt-thuc-te-1.webp
+- Santal 33 [ID: le-labo-santal] -> Image: /images/products/le-labo-santal/nuoc-hoa-le-labo-santal-thuc-te-1.webp
+- Eau de Parfum [ID: mcm-zen-elephant] -> Image: /images/products/mcm-zen-elephant/nuoc-hoa-mcm-zen-elephant-thuc-te-1.webp
+- Aqua Universalis [ID: maison-francis-kurkdjian-kurky] -> Image: /images/products/maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-kurky-thuc-te-1.webp
+- Sicily EDP [ID: mancera-sicily] -> Image: /images/products/mancera-sicily/nuoc-hoa-mancera-sicily-thuc-te-1.webp
+- Cedrat Boise [ID: mancera-cedrat-boise] -> Image: /images/products/mancera-cedrat-boise/nuoc-hoa-mancera-cedrat-boise-thuc-te-1.webp
+- Baccarat Rouge 540 EDP [ID: mfk-baccarat-54-edp] -> Image: /images/products/mfk-baccarat-54-edp/nuoc-hoa-mfk-baccarat-54-edp-thuc-te-1.webp
+- À la rose [ID: mfk-a-la-rose] -> Image: /images/products/mfk-a-la-rose/nuoc-hoa-mfk-a-la-rose-thuc-te-1.webp
+- Miss Dior Essence Parfum [ID: miss-dior-essence-new-2025] -> Image: /images/products/miss-dior-essence-new-2025/nuoc-hoa-miss-dior-essence-new-2025-thuc-te-1.webp
+- Miss Dior Parfum 2024 [ID: miss-dior-parfum-new-2024] -> Image: /images/products/miss-dior-parfum-new-2024/nuoc-hoa-miss-dior-parfum-new-2024-thuc-te-1.webp
+- Toy Boy [ID: moschino-toy-boy] -> Image: /images/products/moschino-toy-boy/nuoc-hoa-moschino-toy-boy-thuc-te-1.webp
+- Musk Kashmir [ID: musk-kashmir] -> Image: /images/products/musk-kashmir/nuoc-hoa-musk-kashmir-thuc-te-1.webp
+- My Way EDP [ID: my-way-edp] -> Image: /images/products/my-way-edp/nuoc-hoa-my-way-edp-thuc-te-1.webp
+- Cristal EDP [ID: nar-cristal-edp] -> Image: /images/products/nar-cristal-edp/nuoc-hoa-nar-cristal-edp-thuc-te-1.webp
+- Poudrée [ID: nar-poudree] -> Image: /images/products/nar-poudree/nuoc-hoa-nar-poudree-thuc-te-1.webp
+- Ambrée [ID: narciso-ambree] -> Image: /images/products/narciso-ambree/nuoc-hoa-narciso-ambree-thuc-te-1.webp
+- For Her EDP Intense [ID: narciso-for-her-edp-intense-new-2025] -> Image: /images/products/narciso-for-her-edp-intense-new-2025/nuoc-hoa-narciso-for-her-edp-intense-new-2025-thuc-te-1.webp
+- Musc Nude [ID: narciso-musc-nude] -> Image: /images/products/narciso-musc-nude/nuoc-hoa-narciso-musc-nude-thuc-te-1.webp
+- All of Me Floral [ID: narciso-rodriguez-all-of-me-floral] -> Image: /images/products/narciso-rodriguez-all-of-me-floral/nuoc-hoa-narciso-rodriguez-all-of-me-floral-thuc-te-1.webp
+- For Her EDP [ID: narciso-rodriguez-for-her-eau-de-parfum] -> Image: /images/products/narciso-rodriguez-for-her-eau-de-parfum/nuoc-hoa-narciso-rodriguez-for-her-eau-de-parfum-thuc-te-1.webp
+- Odyssey Limoni [ID: odyssey-limoni] -> Image: /images/products/odyssey-limoni/nuoc-hoa-odyssey-limoni-thuc-te-1.webp
+- Odyssey Mandarin Sky [ID: odyssey-mandarin-sky] -> Image: /images/products/odyssey-mandarin-sky/nuoc-hoa-odyssey-mandarin-sky-thuc-te-1.webp
+- Oud Forever [ID: oud-forever] -> Image: /images/products/oud-forever/nuoc-hoa-oud-forever-thuc-te-1.webp
+- Pure XS [ID: paco-pure-xs] -> Image: /images/products/paco-pure-xs/nuoc-hoa-paco-pure-xs-thuc-te-1.webp
+- Palatine [ID: parfums-de-marly-palatine] -> Image: /images/products/parfums-de-marly-palatine/nuoc-hoa-parfums-de-marly-palatine-thuc-te-1.webp
+- Valaya [ID: parfums-de-marly-valaya] -> Image: /images/products/parfums-de-marly-valaya/nuoc-hoa-parfums-de-marly-valaya-thuc-te-1.webp
+- Valaya Exclusif [ID: parfums-de-marly-valaya-exclusif] -> Image: /images/products/parfums-de-marly-valaya-exclusif/nuoc-hoa-parfums-de-marly-valaya-exclusif-thuc-te-1.webp
+- Burlington 1819 [ID: rj-burlington-1819] -> Image: /images/products/rj-burlington-1819/nuoc-hoa-rj-burlington-1819-thuc-te-1.webp
+- By The Fireplace [ID: replica-by-the-fireplace] -> Image: /images/products/replica-by-the-fireplace/nuoc-hoa-replica-by-the-fireplace-thuc-te-1.webp
+- Lazy Sunday Morning [ID: replica-lazy-sunday-morning] -> Image: /images/products/replica-lazy-sunday-morning/nuoc-hoa-replica-lazy-sunday-morning-thuc-te-1.webp
+- Thé Noir 29 [ID: the-noir] -> Image: /images/products/the-noir/nuoc-hoa-the-noir-thuc-te-1.webp
+- No 4 Apres l'Amour [ID: thomas-kosmala-no] -> Image: /images/products/thomas-kosmala-no/nuoc-hoa-thomas-kosmala-no-thuc-te-1.webp
+- Black Orchid [ID: tom-ford-black-orchid] -> Image: /images/products/tom-ford-black-orchid/nuoc-hoa-tom-ford-black-orchid-thuc-te-1.webp
+- Bright Crystal [ID: versace-bright-crystal] -> Image: /images/products/versace-bright-crystal/nuoc-hoa-versace-bright-crystal-thuc-te-1.webp
+- Eros Energy [ID: versace-eros-energy-edp] -> Image: /images/products/versace-eros-energy-edp/nuoc-hoa-versace-eros-energy-edp-thuc-te-1.webp
+- Eros Flame [ID: versace-eros-flame] -> Image: /images/products/versace-eros-flame/nuoc-hoa-versace-eros-flame-thuc-te-1.webp
+- Pour Homme [ID: versce-pour-homme] -> Image: /images/products/versce-pour-homme/nuoc-hoa-versce-pour-homme-thuc-te-1.webp
+- Casamorati Mefisto [ID: xerjoff-casamorati-mefisto] -> Image: /images/products/xerjoff-casamorati-mefisto/nuoc-hoa-xerjoff-casamorati-mefisto-thuc-te-1.webp
+- Torino 21 [ID: xerjoff-torino] -> Image: /images/products/xerjoff-torino/nuoc-hoa-xerjoff-torino-thuc-te-1.webp
+- Black Opium Glitter [ID: ysl-black-opium-glitter-edp] -> Image: /images/products/ysl-black-opium-glitter-edp/nuoc-hoa-ysl-black-opium-glitter-edp-thuc-te-1.webp
+- Libre Intense EDP [ID: ysl-libre-intense-edp] -> Image: /images/products/ysl-libre-intense-edp/nuoc-hoa-ysl-libre-intense-edp-thuc-te-1.webp
+- Y EDP [ID: ysl-y-eau-de-parfum] -> Image: /images/products/ysl-y-eau-de-parfum/nuoc-hoa-ysl-y-eau-de-parfum-thuc-te-1.webp
+- The Yulong [ID: rmni-prive-the-yulong] -> Image: /images/products/rmni-prive-the-yulong/nuoc-hoa-rmni-prive-the-yulong-thuc-te-1.webp
+- Aventus For Her [ID: ventus-for-her] -> Image: /images/products/ventus-for-her/nuoc-hoa-ventus-for-her-thuc-te-1.webp
