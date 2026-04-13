@@ -12768,7 +12768,7 @@ Hẹn hò, tối, dịp riêng tư. Xịt 1-2 nhát: cổ hoặc ngực. Đẹp 
       {"name": "Trái cây", "value": 60, "color": "#ff4500"},
       {"name": "Thảo mộc", "value": 60, "color": "#2e8b57"}
     ],
-    image: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-thuc-te-1.webp",
+    image: "/images/products/019-byredo-la-tulipe-main.webp",
     images: [
       { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-chai-nuoc-hoa-5.webp", source: "owner", caption: "Byredo La Tulipe chính hãng", verified: true },
       { url: "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-chinh-hang-1.webp", source: "owner", caption: "Byredo La Tulipe ảnh thực tế 2", verified: true },
@@ -13099,7 +13099,7 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Trong veo", icon: "🏔️" },
       { label: "Mát lạnh", icon: "🧊" }
     ],
-    image: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-moutain-water-thuc-te-1.webp",
+    image: "/images/products/054-creed-silver-moutain-water-main.webp",
     images: [
       { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-chai-nuoc-hoa-5.webp", source: "owner", caption: "Creed Silver Mountain Water chính hãng", verified: true },
       { url: "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-mountain-water-chinh-hang-1.webp", source: "owner", caption: "Creed Silver Mountain Water ảnh thực tế 2", verified: true },
@@ -13171,7 +13171,7 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Tiểu thư", icon: "🎀" },
       { label: "Ngọt ngào", icon: "🍬" }
     ],
-    image: "/images/products/175-deliah-blanc/nuoc-hoa-deliah-blanc-thuc-te-1.webp",
+    image: "/images/products/175-deliah-blanc-main.webp",
     images: [
       { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc chính hãng", verified: true },
       { url: "/images/products/175-deliah-blanc/nuoc-hoa-maison-alhambra-deliah-blanc-chinh-hang-1.webp", source: "owner", caption: "Maison Alhambra Deliah Blanc ảnh thực tế 2", verified: true },
@@ -13283,22 +13283,22 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
 },
   {
     id: "dubai-musk",
-    brand: "Arabian Oud",
-    brandSlug: "arabian-oud",
+    brand: "Al Ambra",
+    brandSlug: "al-ambra",
     name: "Dubai Musk",
     gender: "nam",
     image: "/images/products/006-dubai-musk-main.webp",
     images: [
-      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-chai-nuoc-hoa-5.webp", source: "owner", caption: "Arabian Oud Dubai Musk chính hãng", verified: true },
-      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-chinh-hang-1.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 2", verified: true },
-      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-danh-gia-10.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 3", verified: true },
-      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-fullbox-6.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 4", verified: true },
-      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-gia-tot-7.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 5", verified: true },
-      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-mui-huong-9.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 6", verified: true },
-      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-review-2.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 7", verified: true },
-      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-so-sanh-8.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 8", verified: true },
-      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-thuc-te-3.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 9", verified: true },
-      { url: "/images/products/006-dubai-musk/nuoc-hoa-arabian-oud-dubai-musk-unboxing-4.webp", source: "owner", caption: "Arabian Oud Dubai Musk ảnh thực tế 10", verified: true }
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-al-ambra-dubai-musk-chai-nuoc-hoa-5.webp", source: "owner", caption: "Al Ambra Dubai Musk chính hãng", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-al-ambra-dubai-musk-chinh-hang-1.webp", source: "owner", caption: "Al Ambra Dubai Musk ảnh thực tế 2", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-al-ambra-dubai-musk-danh-gia-10.webp", source: "owner", caption: "Al Ambra Dubai Musk ảnh thực tế 3", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-al-ambra-dubai-musk-fullbox-6.webp", source: "owner", caption: "Al Ambra Dubai Musk ảnh thực tế 4", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-al-ambra-dubai-musk-gia-tot-7.webp", source: "owner", caption: "Al Ambra Dubai Musk ảnh thực tế 5", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-al-ambra-dubai-musk-mui-huong-9.webp", source: "owner", caption: "Al Ambra Dubai Musk ảnh thực tế 6", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-al-ambra-dubai-musk-review-2.webp", source: "owner", caption: "Al Ambra Dubai Musk ảnh thực tế 7", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-al-ambra-dubai-musk-so-sanh-8.webp", source: "owner", caption: "Al Ambra Dubai Musk ảnh thực tế 8", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-al-ambra-dubai-musk-thuc-te-3.webp", source: "owner", caption: "Al Ambra Dubai Musk ảnh thực tế 9", verified: true },
+      { url: "/images/products/006-dubai-musk/nuoc-hoa-al-ambra-dubai-musk-unboxing-4.webp", source: "owner", caption: "Al Ambra Dubai Musk ảnh thực tế 10", verified: true }
     ],
     description: "Xạ hương mang đậm tinh thần hoang mạc Trung Đông, dày dặn, huyền bí và cực kì bí ẩn. Sức mạnh bám tỏa của Dubai Musk là một vũ khí hạng nặng dành cho phái mạnh.",
     verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
@@ -13360,7 +13360,7 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Thư giãn", icon: "🍵" },
       { label: "Bình yên", icon: "🌿" }
     ],
-    image: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-thuc-te-1.webp",
+    image: "/images/products/087-elizabeth-arden-white-tea-edt-main.webp",
     images: [
       { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-chai-nuoc-hoa-5.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT chính hãng", verified: true },
       { url: "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-chinh-hang-1.webp", source: "owner", caption: "Elizabeth Arden White Tea EDT ảnh thực tế 2", verified: true },
@@ -13425,7 +13425,7 @@ Gần như mọi nơi trừ chỗ cần kín đáo: đi làm, đi event, gặp �
       { label: "Thủy mặc", icon: "🏞️" },
       { label: "Mưa nhiệt đới", icon: "🌧️" }
     ],
-    image: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-1.webp",
+    image: "/images/products/088-ella-k-pluie-sur-ha-long-main.webp",
     images: [
       { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-chai-nuoc-hoa-5.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long chính hãng", verified: true },
       { url: "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-chinh-hang-1.webp", source: "owner", caption: "Ella K Pluie Sur Ha Long ảnh thực tế 2", verified: true },
@@ -14841,7 +14841,7 @@ BR540 thuộc phân khúc niche cao cấp — đắt hơn đáng kể so với d
       { label: "Tinh khiết", icon: "🕊️" },
       { label: "Nàng thơ", icon: "💐" }
     ],
-    image: "/images/products/176-mfk-a-la-rose/nuoc-hoa-mfk-a-la-rose-thuc-te-1.webp",
+    image: "/images/products/176-mfk-a-la-rose-main.webp",
     images: [
       { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose chính hãng", verified: true },
       { url: "/images/products/176-mfk-a-la-rose/nuoc-hoa-maison-francis-kurkdjian-a-la-rose-chinh-hang-1.webp", source: "owner", caption: "Maison Francis Kurkdjian À la rose ảnh thực tế 2", verified: true },
@@ -14964,7 +14964,7 @@ BR540 thuộc phân khúc niche cao cấp — đắt hơn đáng kể so với d
       { label: "Cổ điển", icon: "🤎" },
       { label: "Quyến rũ", icon: "💋" }
     ],
-    image: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-miss-dior-parfum-new-2024-thuc-te-1.webp",
+    image: "/images/products/074-miss-dior-parfum-new-2024-main.webp",
     images: [
       { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-chai-nuoc-hoa-5.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 chính hãng", verified: true },
       { url: "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-dior-miss-dior-parfum-2024-chinh-hang-1.webp", source: "owner", caption: "Dior Miss Dior Parfum 2024 ảnh thực tế 2", verified: true },
@@ -15368,7 +15368,7 @@ Dùng hằng ngày — đi làm, đi học, đi cà phê, gặp gỡ. Xịt 2-3 
       { label: "Nắng hè", icon: "☀️" },
       { label: "Kem chống nắng", icon: "🌴" }
     ],
-    image: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-ambree-thuc-te-1.webp",
+    image: "/images/products/198-narciso-ambree-main.webp",
     images: [
       { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-chai-nuoc-hoa-5.webp", source: "owner", caption: "Narciso Rodriguez Ambrée chính hãng", verified: true },
       { url: "/images/products/198-narciso-ambree/nuoc-hoa-narciso-rodriguez-ambree-chinh-hang-1.webp", source: "owner", caption: "Narciso Rodriguez Ambrée ảnh thực tế 2", verified: true },
@@ -15693,7 +15693,7 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       {"name": "Tươi mát", "value": 60, "color": "#80deea"},
       {"name": "Xanh lá", "value": 55, "color": "#228b22"}
     ],
-    image: "/images/products/009-odyssey-limoni/nuoc-hoa-odyssey-limoni-thuc-te-1.webp",
+    image: "/images/products/009-odyssey-limoni-main.webp",
     images: [
       { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-chai-nuoc-hoa-5.webp", source: "owner", caption: "Armaf Odyssey Limoni chính hãng", verified: true },
       { url: "/images/products/009-odyssey-limoni/nuoc-hoa-armaf-odyssey-limoni-chinh-hang-1.webp", source: "owner", caption: "Armaf Odyssey Limoni ảnh thực tế 2", verified: true },
@@ -15742,7 +15742,7 @@ Hằng ngày, đi làm, hẹn hò gần gũi. Xịt 3-4 nhát vì tỏa nhẹ. �
       {"name": "Hổ phách", "value": 70, "color": "#b84d00"},
       {"name": "Thảo mộc", "value": 65, "color": "#368b6b"}
     ],
-    image: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-odyssey-mandarin-sky-thuc-te-1.webp",
+    image: "/images/products/010-odyssey-mandarin-sky-main.webp",
     images: [
       { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-chai-nuoc-hoa-5.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky chính hãng", verified: true },
       { url: "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-armaf-odyssey-mandarin-sky-chinh-hang-1.webp", source: "owner", caption: "Armaf Odyssey Mandarin Sky ảnh thực tế 2", verified: true },
@@ -17224,7 +17224,7 @@ Dùng được quanh năm — đi làm, đi học, đi chơi, hẹn hò nhẹ. X
       {"name": "Thảo mộc", "value": 75, "color": "#7cb342"},
       {"name": "Gỗ", "value": 60, "color": "#8b4513"}
     ],
-    image: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-rmni-prive-the-yulong-thuc-te-1.webp",
+    image: "/images/products/011-rmni-prive-the-yulong-main.webp",
     images: [
       { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-chai-nuoc-hoa-5.webp", source: "owner", caption: "Armani Prive The Yulong chính hãng", verified: true },
       { url: "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-giorgio-armani-the-yulong-chinh-hang-1.webp", source: "owner", caption: "Armani Prive The Yulong ảnh thực tế 2", verified: true },
