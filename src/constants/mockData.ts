@@ -14651,7 +14651,22 @@ Chiều tối, mùa mưa, trời mát, ngày xám, mood introvert. Xịt 2 nhát
       { label: "Mềm mịn", icon: "☁️" }
     ],
     image: "/images/products/177-maison-francis-kurkdjian-kurky-main.jpg",
-    images: [{ url: "/images/products/177-maison-francis-kurkdjian-kurky-main.jpg", source: "fragram", caption: "Maison Francis Kurkdjian Kurky Eau de Parfum chính hãng", verified: true }],
+    images: [
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky chính hãng", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-chinh-hang-1.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 2", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-danh-gia-10.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 3", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-fullbox-6.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 4", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-gia-tot-7.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 5", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-mua-o-dau-12.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 6", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-mui-huong-9.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 7", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-review-2.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 8", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-so-sanh-8.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 9", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-that-hay-gia-13.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 10", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-thuc-te-3.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 11", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-top-nuoc-hoa-14.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 12", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-trai-nghiem-11.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 13", verified: true },
+      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-unboxing-4.webp", source: "owner", caption: "Maison Francis Kurkdjian Kurky ảnh thực tế 14", verified: true }
+    ],
     article: `### Ai không nên mua?
 
 Nếu bạn không thích mùi ngọt kiểu kẹo trái cây thì Kurky sẽ dễ gây cảm giác hơi \"kẹo\" trong 30-60 phút đầu. Đây không phải kiểu sạch xanh như Aqua Universalis hay trang trọng như Grand Soir.
