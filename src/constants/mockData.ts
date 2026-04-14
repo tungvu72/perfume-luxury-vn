@@ -14608,65 +14608,67 @@ Chiều tối, mùa mưa, trời mát, ngày xám, mood introvert. Xịt 2 nhát
     id: "maison-francis-kurkdjian-kurky",
     brand: "Maison Francis Kurkdjian",
     brandSlug: "maison-francis-kurkdjian",
-    name: "Aqua Universalis",
-    subName: "Aqua Universalis EDT",
+    name: "Kurky",
+    subName: "Eau de Parfum",
     perfumer: "Francis Kurkdjian",
-    year: 2009,
+    year: 2025,
     gender: "unisex",
-    longevity: 6,
-    sillage: 8,
-    seasons: {"spring":35,"summer":50,"fall":10,"winter":5},
-    dayNight: {"day":80,"night":20},
-    seoTitle: "Nước hoa MFK Aqua Universalis mảng nước hồi sinh",
-    metaDescription: "Review MFK Aqua Universalis: Mảng nước chanh tươi Lemon sắc lẹm và Hoa Linh Lan đanh lạnh. Mùi chiếc áo sơ mi lanh mới giặt xốp mềm. Tươi mát vô cực.",
-    description: "Tuyệt phẩm để rửa trôi mọi mệt mỏi! Aqua Universalis mang nghĩa 'Vùng nước cội nguồn', khởi sinh bằng rổ Chanh vàng (Lemon) vắt óng ánh, tưới đẫm lên một mảng Hoa Linh Lan Trắng (Lily-of-the-valley) cực kỳ thanh lãnh tột độ. Xạ hương làm nó bốc mùi sạch sẽ bong tróc như một bộ drap trải giường khách sạn 5 sao vừa được giặt phơi mím dưới nắng sớm. Mặc nó vào là tự gột rửa phiền muộn, mang ngập không khí mùa hè sảng khoái.",
-    score: {"scent":8.5,"uniqueness":8,"compliments":8,"value":7.5,"total":8},
+    longevity: 5,
+    sillage: 6,
+    seasons: {"spring":35,"summer":40,"fall":20,"winter":5},
+    dayNight: {"day":65,"night":35},
+    seoTitle: "Nước hoa Maison Francis Kurkdjian Kurky chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá MFK Kurky Eau de Parfum 2025: đào, mâm xôi, kẹo dẻo, xạ hương trắng và vanilla mềm mịn. Mùi ngọt trái cây vui tươi, dễ gây thương nhớ.",
+    description: "Kurky là một trong những bản phát hành mới nhất của Maison Francis Kurkdjian, đi theo hướng kẹo trái cây sáng và mềm mịn thay vì sang tối cổ điển. Đào và mâm xôi mở đầu ngọt mọng, lớp giữa gợi cảm giác gummy candy vui nhộn, rồi khép lại bằng xạ hương trắng - vanilla - cream êm như nhung. Mùi hương mang tinh thần trẻ trung, playful, hợp ai thích style ngọt sạch nhưng vẫn muốn giữ nét cao cấp.",
+    score: {"scent":6.8,"uniqueness":7.5,"compliments":7,"value":6.5,"total":6.9},
     topNotes: [
-      {"name": "Chanh vàng (Lemon)"},
-      {"name": "Cam Bergamot"}
+      {"name": "Đào (Peach)"},
+      {"name": "Mâm xôi (Raspberry)"}
     ],
     middleNotes: [
-      {"name": "Hoa Linh Lan Trắng (Lily-of-the-valley)"},
-      {"name": "Hoa Cam"}
+      {"name": "Kẹo dẻo (Gummy Candies)"},
+      {"name": "Nốt trái cây (Fruity Notes)"},
+      {"name": "Hoa hồng (Rose)"},
+      {"name": "Hedione"}
     ],
     baseNotes: [
-      {"name": "Xạ Hương (Musk)"},
-      {"name": "Hương Gỗ (Woody Notes)"}
+      {"name": "Xạ hương trắng (White Musk)"},
+      {"name": "Vanilla"},
+      {"name": "Kem sữa (Cream)"},
+      {"name": "Gạo (Rice)"},
+      {"name": "Gỗ đàn hương (Sandalwood)"},
+      {"name": "Bắp rang bơ (Popcorn)"}
     ],
     accords: [
-      {"name": "Cam chanh", "value": 100, "color": "#ffff00"},
-      {"name": "Hoa trắng", "value": 85, "color": "#f8f8ff"},
-      {"name": "Tươi mát", "value": 75, "color": "#add8e6"},
-      {"name": "Xạ hương", "value": 65, "color": "#e6e6fa"},
-      {"name": "Thảo mộc", "value": 60, "color": "#2e8b57"}
+      {"name": "Trái cây", "value": 100, "color": "#ff8c42"},
+      {"name": "Ngọt", "value": 88, "color": "#ff5ea8"},
+      {"name": "Xạ hương", "value": 76, "color": "#d8c8ff"},
+      {"name": "Phấn", "value": 64, "color": "#e8d8c6"},
+      {"name": "Vanilla", "value": 58, "color": "#f4e1b5"}
     ],
     vibes: [
-      { label: "Sạch sẽ", icon: "🧼" },
-      { label: "Hồi sinh", icon: "💦" }
+      { label: "Kẹo trái cây", icon: "🍬" },
+      { label: "Mềm mịn", icon: "☁️" }
     ],
     image: "/images/products/177-maison-francis-kurkdjian-kurky-main.jpg",
-    images: [
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-chai-nuoc-hoa-5.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis chính hãng", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-chinh-hang-1.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 2", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-danh-gia-10.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 3", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-fullbox-6.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 4", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-gia-tot-7.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 5", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-mua-o-dau-12.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 6", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-mui-huong-9.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 7", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-review-2.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 8", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-so-sanh-8.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 9", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-that-hay-gia-13.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 10", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-thuc-te-3.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 11", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-top-nuoc-hoa-14.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 12", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-trai-nghiem-11.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 13", verified: true },
-      { url: "/images/products/177-maison-francis-kurkdjian-kurky/nuoc-hoa-maison-francis-kurkdjian-aqua-universalis-unboxing-4.webp", source: "owner", caption: "Maison Francis Kurkdjian Aqua Universalis ảnh thực tế 14", verified: true }
-    ],
-    verdict: "Hương thơm xuất sắc, chuẩn bị cập nhật bài phân tích...",
-    verdictShort: "Đang cập nhật",
-    sizes: ["100ml"],
+    images: [{ url: "/images/products/177-maison-francis-kurkdjian-kurky-main.jpg", source: "fragram", caption: "Maison Francis Kurkdjian Kurky Eau de Parfum chính hãng", verified: true }],
+    article: `### Ai không nên mua?
+
+Nếu bạn không thích mùi ngọt kiểu kẹo trái cây thì Kurky sẽ dễ gây cảm giác hơi \"kẹo\" trong 30-60 phút đầu. Đây không phải kiểu sạch xanh như Aqua Universalis hay trang trọng như Grand Soir.
+
+### Có đáng tiền không?
+
+Kurky nằm trong phân khúc niche cao cấp, nhưng profile mùi lại rất dễ dùng và trẻ trung. Điểm mạnh là cảm giác vui tươi, thân thiện, dễ nhận lời khen; điểm yếu là độ bám/tỏa không phải kiểu quá khủng.
+
+### Nên dùng khi nào?
+
+Hợp đi chơi ban ngày, hẹn hò nhẹ, dạo phố hoặc môi trường cần mùi ngọt dễ gần. Xịt 2-3 nhát là đủ để mùi lên đẹp, tránh xịt dày trong thời tiết nóng gắt.`,
+    verdict: "Kurky là mùi kẹo trái cây - xạ hương trắng vui tươi và mềm mịn, dành cho ai thích vibe trẻ trung, ngọt sạch và dễ gần.",
+    verdictShort: "NGỌT TRÁI CÂY, MỀM MỊN, PLAYFUL",
+    sizes: ["10ml Chiết", "70ml Fullbox"],
     basePrice: 0,
     shopeeOffers: [],
-    tags: ["Nữ", "Designer"],
+    tags: ["Unisex", "Niche", "Ngọt trái cây"],
     isPublished: true
 },
   {
