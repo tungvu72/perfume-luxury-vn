@@ -1,7 +1,6 @@
 ﻿import CategoryLayout from "@/components/CategoryLayout";
 import { Metadata } from "next";
 import { getProductsByGender } from "@/lib/dataFetchers";
-import Breadcrumbs from "@/components/Breadcrumbs";
 import "../nuoc-hoa-theo-nhu-cau/nhucau.css";
 
 const now = new Date();
@@ -22,16 +21,12 @@ export const metadata: Metadata = {
 export default async function UnisexPage() {
     const products = await getProductsByGender("unisex");
     return (
-        <div className="pt-8">
-            <div className="max-w-[1200px] mx-auto px-5">
-                <Breadcrumbs items={[{ label: 'Unisex' }]} />
-            </div>
-            <CategoryLayout
-                title="Unisex"
-                description={`${products.length || 0} mẫu nước hoa Unisex - dành cho cả hai giới, từ những nhà sáng tạo hàng đầu thế giới.`}
-                products={products}
-            />
-        </div>
+        <CategoryLayout
+            title="Unisex"
+            description={`${products.length || 0} mẫu nước hoa Unisex - dành cho cả hai giới, từ những nhà sáng tạo hàng đầu thế giới.`}
+            products={products}
+            breadcrumbLabel="Nước Hoa Unisex"
+        />
     );
 }
 

@@ -3,7 +3,7 @@
 import Header from "@/components/Header";
 import Link from "next/link";
 import Image from "next/image";
-import { Search, Star } from "lucide-react";
+import { ChevronRight, Search, Star } from "lucide-react";
 import { useMemo, useState } from "react";
 import { Perfume } from "@/types";
 import { getProductUrl } from "@/lib/productUrl";
@@ -12,10 +12,12 @@ export default function CategoryLayout({
     title,
     description,
     products,
+    breadcrumbLabel,
 }: {
     title: string;
     description: string;
     products: Perfume[];
+    breadcrumbLabel: string;
 }) {
     const [searchQuery, setSearchQuery] = useState("");
 
@@ -34,6 +36,16 @@ export default function CategoryLayout({
     return (
         <main className="min-h-screen bg-white pb-20">
             <Header />
+
+            <div className="max-w-[1200px] mx-auto px-5 pt-6">
+                <nav className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-wider text-gray-400">
+                    <Link href="/" className="hover:text-primary transition-colors">
+                        Home
+                    </Link>
+                    <ChevronRight size={10} className="text-gray-300" />
+                    <span className="text-gray-600 cursor-default">{breadcrumbLabel}</span>
+                </nav>
+            </div>
 
             <section className="bg-[#F9F9F9] py-12 md:py-16 border-b border-[var(--border)]">
                 <div className="max-w-[1200px] mx-auto px-5">

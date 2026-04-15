@@ -1,7 +1,6 @@
 ﻿import CategoryLayout from "@/components/CategoryLayout";
 import { Metadata } from "next";
 import { getProductsByGender } from "@/lib/dataFetchers";
-import Breadcrumbs from "@/components/Breadcrumbs";
 import "../nuoc-hoa-theo-nhu-cau/nhucau.css";
 
 const now = new Date();
@@ -22,16 +21,12 @@ export const metadata: Metadata = {
 export default async function NuGioiPage() {
     const products = await getProductsByGender("nu");
     return (
-        <div className="pt-8">
-            <div className="max-w-[1200px] mx-auto px-5">
-                <Breadcrumbs items={[{ label: 'Nữ' }]} />
-            </div>
-            <CategoryLayout
-                title="Dành Cho Nữ"
-                description={`${products.length || 0} mẫu nước hoa nữ từ dòng kiến điển đến cao cấp, được đánh giá chi tiết.`}
-                products={products}
-            />
-        </div>
+        <CategoryLayout
+            title="Dành Cho Nữ"
+            description={`${products.length || 0} mẫu nước hoa nữ từ dòng kiến điển đến cao cấp, được đánh giá chi tiết.`}
+            products={products}
+            breadcrumbLabel="Nước Hoa Nữ"
+        />
     );
 }
 
