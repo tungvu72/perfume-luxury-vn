@@ -18,6 +18,9 @@ const nextConfig: NextConfig = {
 
       // ── /bang-xep-hang → /nuoc-hoa-theo-nhu-cau (page replacement) ──
       { source: '/bang-xep-hang', destination: '/nuoc-hoa-theo-nhu-cau', permanent: true },
+      { source: '/nam-gioi', destination: '/nuoc-hoa-nam-chinh-hang', permanent: true },
+      { source: '/nu-gioi', destination: '/nuoc-hoa-nu-chinh-hang', permanent: true },
+      { source: '/unisex', destination: '/nuoc-hoa-unisex-chinh-hang', permanent: true },
 
       // ── Indexed URL redirects (from GSC) ──
       // baccarat-rouge-540 is the only indexed product — redirect to new URL format
