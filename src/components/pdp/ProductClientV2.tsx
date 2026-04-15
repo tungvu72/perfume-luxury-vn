@@ -393,12 +393,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
           {product.verdict && (
             <section className="rounded-2xl bg-[#1A1D21] p-7 sm:p-8">
               <div className="text-[11px] font-bold uppercase tracking-[0.2em] text-teal-400 mb-3 font-sans">Kết luận của Maison de SON</div>
-              <blockquote className="text-base font-sans font-medium leading-[1.7] text-white sm:text-lg">&ldquo;{product.verdict}&rdquo;</blockquote>
-              {product.verdictShort && (
-                <div className="mt-4 inline-block rounded-full border border-white/20 px-4 py-1.5 text-[11px] font-bold uppercase tracking-wider text-white/70">
-                  {product.verdictShort}
-                </div>
-              )}
+              <blockquote className="line-clamp-2 text-base font-sans font-medium leading-[1.7] text-white sm:text-lg">&ldquo;{product.verdict}&rdquo;</blockquote>
             </section>
           )}
 
