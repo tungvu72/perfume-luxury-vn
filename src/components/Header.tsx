@@ -100,13 +100,23 @@ const TOP_BRANDS = [
     { name: 'Nishane', slug: 'nishane' },
 ];
 
-const ALL_SITE_BRANDS = Array.from(
-    new Set(
-        SEARCH_INDEX
-            .map((item) => item.brand?.trim())
-            .filter((brand): brand is string => Boolean(brand))
-    )
-).sort((a, b) => a.localeCompare(b, "vi"));
+const ALL_SITE_BRANDS = (() => {
+    const seen = new Set<string>();
+    const brands: string[] = [];
+
+    for (const item of SEARCH_INDEX) {
+        const brand = item.brand?.trim();
+        if (!brand) continue;
+
+        const key = removeVietnameseTones(brand);
+        if (!key || seen.has(key)) continue;
+
+        seen.add(key);
+        brands.push(brand);
+    }
+
+    return brands.sort((a, b) => a.localeCompare(b, "vi"));
+})();
 
 const ASSURANCE_LINE_1 = Array.from({ length: 12 }, () => "Cam kết hàng chính hãng 100% /");
 const ASSURANCE_LINE_2 = Array.from({ length: 10 }, () => "Có đủ chiết 10 - 20 - 30ml và Fullbox");
