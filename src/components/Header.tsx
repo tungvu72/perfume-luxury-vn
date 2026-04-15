@@ -100,6 +100,17 @@ const TOP_BRANDS = [
     { name: 'Nishane', slug: 'nishane' },
 ];
 
+const ALL_SITE_BRANDS = Array.from(
+    new Set(
+        SEARCH_INDEX
+            .map((item) => item.brand?.trim())
+            .filter((brand): brand is string => Boolean(brand))
+    )
+).sort((a, b) => a.localeCompare(b, "vi"));
+
+const ASSURANCE_LINE_1 = Array.from({ length: 12 }, () => "Cam kết hàng chính hãng 100% /");
+const ASSURANCE_LINE_2 = Array.from({ length: 10 }, () => "Có đủ chiết 10 - 20 - 30ml và Fullbox");
+
 const Header = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const [scrolled, setScrolled] = useState(false);
@@ -223,6 +234,9 @@ const Header = () => {
     }, []);
 
     const [isMobileBrandOpen, setIsMobileBrandOpen] = useState(false);
+    const brandMarqueeItems = ALL_SITE_BRANDS.length > 0
+        ? ALL_SITE_BRANDS
+        : TOP_BRANDS.map((brand) => brand.name);
 
     return (
         <>
@@ -504,6 +518,38 @@ const Header = () => {
                                     )}
                                 </div>
                             )}
+                        </div>
+                    </div>
+                </div>
+
+                <div className="border-b border-[var(--border)] bg-[#FCFBF8]">
+                    <div className="mds-marquee-row mds-marquee-row-outline">
+                        <div className="mds-marquee-track mds-marquee-speed-28">
+                            {[...ASSURANCE_LINE_1, ...ASSURANCE_LINE_1].map((item, idx) => (
+                                <span key={`line1-${idx}`} className="mds-marquee-item">
+                                    {item}
+                                </span>
+                            ))}
+                        </div>
+                    </div>
+
+                    <div className="mds-marquee-row mds-marquee-row-solid">
+                        <div className="mds-marquee-track mds-marquee-speed-34 mds-marquee-reverse">
+                            {[...ASSURANCE_LINE_2, ...ASSURANCE_LINE_2].map((item, idx) => (
+                                <span key={`line2-${idx}`} className="mds-marquee-item">
+                                    {item}
+                                </span>
+                            ))}
+                        </div>
+                    </div>
+
+                    <div className="mds-marquee-row mds-marquee-row-brand">
+                        <div className="mds-marquee-track mds-marquee-speed-56">
+                            {[...brandMarqueeItems, ...brandMarqueeItems].map((brand, idx) => (
+                                <span key={`brand-line-${idx}`} className="mds-marquee-item mds-marquee-brand-item">
+                                    {brand}
+                                </span>
+                            ))}
                         </div>
                     </div>
                 </div>
