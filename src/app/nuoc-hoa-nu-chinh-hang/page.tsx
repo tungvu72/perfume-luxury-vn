@@ -1,7 +1,8 @@
-import CategoryLayout from "@/components/CategoryLayout";
+﻿import CategoryLayout from "@/components/CategoryLayout";
 import { Metadata } from "next";
 import { getProductsByGender } from "@/lib/dataFetchers";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import "../nuoc-hoa-theo-nhu-cau/nhucau.css";
 
 const now = new Date();
 const currentMonthYear = `${(now.getMonth() + 1).toString().padStart(2, '0')}/${now.getFullYear()}`;
@@ -33,3 +34,4 @@ export default async function NuGioiPage() {
         </div>
     );
 }
+

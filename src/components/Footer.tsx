@@ -28,9 +28,9 @@ export default function Footer() {
                     <div>
                         <h4 className="text-[10px] font-bold uppercase tracking-[2px] mb-6">Khám phá</h4>
                         <ul className="space-y-4 text-xs font-semibold text-gray-500">
-                            <li><Link href="/nam-gioi" className="hover:text-primary transition-colors py-1 block">Nước hoa Nam</Link></li>
-                            <li><Link href="/nu-gioi" className="hover:text-primary transition-colors py-1 block">Nước hoa Nữ</Link></li>
-                            <li><Link href="/unisex" className="hover:text-primary transition-colors py-1 block">Nước hoa Unisex</Link></li>
+                            <li><Link href="/nuoc-hoa-nam-chinh-hang" className="hover:text-primary transition-colors py-1 block">Nước hoa Nam</Link></li>
+                            <li><Link href="/nuoc-hoa-nu-chinh-hang" className="hover:text-primary transition-colors py-1 block">Nước hoa Nữ</Link></li>
+                            <li><Link href="/nuoc-hoa-unisex-chinh-hang" className="hover:text-primary transition-colors py-1 block">Nước hoa Unisex</Link></li>
                             <li><Link href="/thuong-hieu" className="hover:text-primary transition-colors py-1 block">Thương hiệu A-Z</Link></li>
                             <li><Link href="/theo-nhu-cau" className="hover:text-primary transition-colors py-1 block">Theo nhu cầu</Link></li>
                             <li><Link href="/theo-not-huong" className="hover:text-primary transition-colors py-1 block">Theo nốt hương</Link></li>

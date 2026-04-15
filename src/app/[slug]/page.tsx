@@ -154,7 +154,7 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
         '@type': 'BreadcrumbList',
         itemListElement: [
             { '@type': 'ListItem', position: 1, name: 'Trang chủ', item: SITE_URL },
-            { '@type': 'ListItem', position: 2, name: product.gender === 'nam' ? 'Nam giới' : product.gender === 'nu' ? 'Nữ giới' : 'Unisex', item: `${SITE_URL}/${product.gender === 'nam' ? 'nam-gioi' : product.gender === 'nu' ? 'nu-gioi' : 'unisex'}` },
+            { '@type': 'ListItem', position: 2, name: product.gender === 'nam' ? 'Nam giới' : product.gender === 'nu' ? 'Nữ giới' : 'Unisex', item: `${SITE_URL}/${product.gender === 'nam' ? 'nuoc-hoa-nam-chinh-hang' : product.gender === 'nu' ? 'nuoc-hoa-nu-chinh-hang' : 'nuoc-hoa-unisex-chinh-hang'}` },
             { '@type': 'ListItem', position: 3, name: product.brand, item: `${SITE_URL}/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, '-')}` },
             { '@type': 'ListItem', position: 4, name: product.name, item: `${SITE_URL}${productUrl}` },
         ],

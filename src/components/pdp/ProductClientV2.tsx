@@ -200,7 +200,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               <Home size={12} className="text-gray-400" /> Trang chủ
             </Link>
             <span className="select-none text-gray-300">/</span>
-            <Link href={`/${product.gender === "nam" ? "nam-gioi" : product.gender === "nu" ? "nu-gioi" : "unisex"}`} className="inline-flex items-center text-gray-400 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
+            <Link href={`/${product.gender === "nam" ? "nuoc-hoa-nam-chinh-hang" : product.gender === "nu" ? "nuoc-hoa-nu-chinh-hang" : "nuoc-hoa-unisex-chinh-hang"}`} className="inline-flex items-center text-gray-400 hover:text-[var(--color-primary)] hover:underline transition-colors duration-200">
               Nước hoa {product.gender === "nam" ? "nam" : product.gender === "nu" ? "nữ" : "unisex"}
             </Link>
             <span className="select-none text-gray-300">/</span>

@@ -204,8 +204,8 @@ const Header = () => {
 
     const menuItems = [
         { name: "Nước hoa theo nhu cầu", href: "/nuoc-hoa-theo-nhu-cau" },
-        { name: "Nam", href: "/nam-gioi" },
-        { name: "Nữ", href: "/nu-gioi" },
+        { name: "Nam", href: "/nuoc-hoa-nam-chinh-hang" },
+        { name: "Nữ", href: "/nuoc-hoa-nu-chinh-hang" },
         { name: "Kiến thức", href: "/kien-thuc" },
     ];
 
@@ -295,10 +295,10 @@ const Header = () => {
                                 )}
                             </div>
 
-                            <Link href="/nam-gioi" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
+                            <Link href="/nuoc-hoa-nam-chinh-hang" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
                                 Nam
                             </Link>
-                            <Link href="/nu-gioi" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
+                            <Link href="/nuoc-hoa-nu-chinh-hang" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
                                 Nữ
                             </Link>
                             <Link href="/kien-thuc" className="relative hover:text-primary transition-colors py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-primary after:transition-all hover:after:w-full">
@@ -572,13 +572,13 @@ const Header = () => {
                             {/* Gender shortcuts */}
                             <div className="my-2 border-t border-gray-100" />
                             <p className="px-3 text-[10px] font-bold text-gray-400 uppercase tracking-[0.2em] mb-1">Theo giới tính</p>
-                            <Link href="/nam-gioi" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-semibold hover:bg-primary/5 hover:text-primary transition-colors">
+                            <Link href="/nuoc-hoa-nam-chinh-hang" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-semibold hover:bg-primary/5 hover:text-primary transition-colors">
                                 🤵 Nước hoa Nam
                             </Link>
-                            <Link href="/nu-gioi" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-semibold hover:bg-primary/5 hover:text-primary transition-colors">
+                            <Link href="/nuoc-hoa-nu-chinh-hang" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-semibold hover:bg-primary/5 hover:text-primary transition-colors">
                                 💃 Nước hoa Nữ
                             </Link>
-                            <Link href="/unisex" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-semibold hover:bg-primary/5 hover:text-primary transition-colors">
+                            <Link href="/nuoc-hoa-unisex-chinh-hang" onClick={() => setIsMenuOpen(false)} className="flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-semibold hover:bg-primary/5 hover:text-primary transition-colors">
                                 ✨ Nước hoa Unisex
                             </Link>
 
