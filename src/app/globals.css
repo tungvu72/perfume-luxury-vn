@@ -654,6 +654,8 @@ html {
 .mds-marquee-speed-28 { animation-duration: 28s; }
 .mds-marquee-speed-34 { animation-duration: 34s; }
 .mds-marquee-speed-56 { animation-duration: 56s; }
+.mds-marquee-speed-60 { animation-duration: 60s; }
+.mds-marquee-speed-200 { animation-duration: 200s; }
 .mds-marquee-reverse { animation-direction: reverse; }
 
 @media (max-width: 768px) {

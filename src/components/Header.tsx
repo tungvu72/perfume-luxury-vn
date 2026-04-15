@@ -230,7 +230,7 @@ const Header = () => {
         <>
             <header className={`sticky top-0 z-50 bg-white transition-all duration-300 ${scrolled ? 'shadow-md' : ''}`}>
                 <div className="mds-marquee-row mds-marquee-row-outline">
-                    <div className="mds-marquee-track mds-marquee-speed-56">
+                    <div className="mds-marquee-track mds-marquee-speed-60">
                         {[...ASSURANCE_LINE_1, ...ASSURANCE_LINE_1].map((item, idx) => (
                             <span key={`line1-${idx}`} className="mds-marquee-item">
                                 {item}
