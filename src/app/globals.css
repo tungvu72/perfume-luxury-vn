@@ -632,15 +632,29 @@ html {
   letter-spacing: 0.06em;
 }
 
+.mds-marquee-row-brand-home .mds-marquee-item {
+  font-size: 44px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1;
+  min-height: 74px;
+  color: #28303a;
+}
+
 .mds-marquee-brand-item::after {
   content: "\2022";
   margin-left: 20px;
   color: #b0b7c2;
 }
 
+.mds-marquee-brand-item-home::after {
+  margin-left: 28px;
+}
+
 .mds-marquee-speed-28 { animation-duration: 28s; }
 .mds-marquee-speed-34 { animation-duration: 34s; }
 .mds-marquee-speed-56 { animation-duration: 56s; }
+.mds-marquee-speed-112 { animation-duration: 112s; }
 .mds-marquee-reverse { animation-direction: reverse; }
 
 @media (max-width: 768px) {
@@ -654,6 +668,12 @@ html {
   .mds-marquee-row-brand .mds-marquee-item {
     font-size: 9px;
     letter-spacing: 0.05em;
+  }
+
+  .mds-marquee-row-brand-home .mds-marquee-item {
+    font-size: 36px;
+    min-height: 64px;
+    letter-spacing: 0.02em;
   }
 }
 

@@ -100,26 +100,7 @@ const TOP_BRANDS = [
     { name: 'Nishane', slug: 'nishane' },
 ];
 
-const ALL_SITE_BRANDS = (() => {
-    const seen = new Set<string>();
-    const brands: string[] = [];
-
-    for (const item of SEARCH_INDEX) {
-        const brand = item.brand?.trim();
-        if (!brand) continue;
-
-        const key = removeVietnameseTones(brand);
-        if (!key || seen.has(key)) continue;
-
-        seen.add(key);
-        brands.push(brand);
-    }
-
-    return brands.sort((a, b) => a.localeCompare(b, "vi"));
-})();
-
-const ASSURANCE_LINE_1 = Array.from({ length: 12 }, () => "Cam kết hàng chính hãng 100% /");
-const ASSURANCE_LINE_2 = Array.from({ length: 10 }, () => "Có đủ chiết 10 - 20 - 30ml và Fullbox");
+const ASSURANCE_LINE_1 = Array.from({ length: 12 }, () => "Cam kết chính hãng 100%");
 
 const Header = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -244,13 +225,20 @@ const Header = () => {
     }, []);
 
     const [isMobileBrandOpen, setIsMobileBrandOpen] = useState(false);
-    const brandMarqueeItems = ALL_SITE_BRANDS.length > 0
-        ? ALL_SITE_BRANDS
-        : TOP_BRANDS.map((brand) => brand.name);
 
     return (
         <>
             <header className={`sticky top-0 z-50 bg-white transition-all duration-300 ${scrolled ? 'shadow-md' : ''}`}>
+                <div className="mds-marquee-row mds-marquee-row-outline">
+                    <div className="mds-marquee-track mds-marquee-speed-56">
+                        {[...ASSURANCE_LINE_1, ...ASSURANCE_LINE_1].map((item, idx) => (
+                            <span key={`line1-${idx}`} className="mds-marquee-item">
+                                {item}
+                            </span>
+                        ))}
+                    </div>
+                </div>
+
                 {/* ROW 1: Logo + Nav + Icons */}
                 <div className="border-b border-[var(--border)]">
                     <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex justify-between items-center py-3 md:py-4">
@@ -528,38 +516,6 @@ const Header = () => {
                                     )}
                                 </div>
                             )}
-                        </div>
-                    </div>
-                </div>
-
-                <div className="border-b border-[var(--border)] bg-[#FCFBF8]">
-                    <div className="mds-marquee-row mds-marquee-row-outline">
-                        <div className="mds-marquee-track mds-marquee-speed-28">
-                            {[...ASSURANCE_LINE_1, ...ASSURANCE_LINE_1].map((item, idx) => (
-                                <span key={`line1-${idx}`} className="mds-marquee-item">
-                                    {item}
-                                </span>
-                            ))}
-                        </div>
-                    </div>
-
-                    <div className="mds-marquee-row mds-marquee-row-solid">
-                        <div className="mds-marquee-track mds-marquee-speed-34 mds-marquee-reverse">
-                            {[...ASSURANCE_LINE_2, ...ASSURANCE_LINE_2].map((item, idx) => (
-                                <span key={`line2-${idx}`} className="mds-marquee-item">
-                                    {item}
-                                </span>
-                            ))}
-                        </div>
-                    </div>
-
-                    <div className="mds-marquee-row mds-marquee-row-brand">
-                        <div className="mds-marquee-track mds-marquee-speed-56">
-                            {[...brandMarqueeItems, ...brandMarqueeItems].map((brand, idx) => (
-                                <span key={`brand-line-${idx}`} className="mds-marquee-item mds-marquee-brand-item">
-                                    {brand}
-                                </span>
-                            ))}
                         </div>
                     </div>
                 </div>

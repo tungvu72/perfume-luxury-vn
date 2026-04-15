@@ -197,6 +197,15 @@ const TRUST_POINTS = [
   },
 ];
 
+const normalizeBrandKey = (value: string) =>
+  value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/đ/g, "d")
+    .replace(/Đ/g, "D")
+    .trim()
+    .toLowerCase();
+
 export default async function Home() {
   const [allProducts, allPosts] = await Promise.all([
     getAllProducts(),
@@ -210,6 +219,18 @@ export default async function Home() {
   const topProducts = [...allProducts]
     .sort((a, b) => b.score.total - a.score.total)
     .slice(0, 8);
+
+  const seenBrandKeys = new Set<string>();
+  const allSiteBrands = allProducts
+    .map((product) => product.brand?.trim())
+    .filter((brand): brand is string => Boolean(brand))
+    .filter((brand) => {
+      const key = normalizeBrandKey(brand);
+      if (!key || seenBrandKeys.has(key)) return false;
+      seenBrandKeys.add(key);
+      return true;
+    })
+    .sort((a, b) => a.localeCompare(b, "vi"));
 
   const featuredProduct = topProducts[0];
   const gridProducts = topProducts.slice(1, 4);
@@ -356,6 +377,18 @@ export default async function Home() {
       </section>
 
       <div className="mx-auto max-w-[1280px] px-4 md:px-8"><hr className="border-t border-[var(--color-border-subtle)]" /></div>
+
+      <section className="mx-auto max-w-[1280px] px-0 md:px-8 py-4 md:py-6">
+        <div className="mds-marquee-row mds-marquee-row-brand mds-marquee-row-brand-home border-y border-[var(--color-border-subtle)] bg-[#FBFAF6]">
+          <div className="mds-marquee-track mds-marquee-speed-112">
+            {[...allSiteBrands, ...allSiteBrands].map((brand, idx) => (
+              <span key={`home-brand-line-${idx}`} className="mds-marquee-item mds-marquee-brand-item mds-marquee-brand-item-home">
+                {brand}
+              </span>
+            ))}
+          </div>
+        </div>
+      </section>
 
       {/* ══════ BLOCK 4 — HOME PRODUCT TABS ══════ */}
       <HomeProductTabs products={allProducts} />
