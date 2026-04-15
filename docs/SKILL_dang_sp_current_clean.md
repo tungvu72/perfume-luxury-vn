@@ -31,6 +31,19 @@ Nguồn gốc: tổng hợp lại từ:
 - Tên chai phải khớp 100% với sản phẩm đang xử lý.
 - Nồng độ phải khớp 100% (EDT/EDP/Parfum/Extrait).
 - Nếu chỉ lệch 1 phần (ví dụ nhầm `The One` với `The One for Men`) thì loại ngay, không dùng card đó.
+6. Checklist text card bắt buộc (không đủ là fail):
+- `Brand`: phải khớp 100% với brand mục tiêu.
+- `Tên sản phẩm`: phải khớp 100% (không dùng bản gần giống/flanker khác).
+- `Gender` (dòng text trên card): phải khớp đúng:
+  - Nam -> `for men`
+  - Nữ -> `for women`
+  - Unisex -> `for women and men`
+- `Nồng độ`: phải khớp đúng `EDT/EDP/Parfum/Extrait` theo task.
+- Nếu card không hiện rõ nồng độ ở text góc trái, bắt buộc đối chiếu thêm title + URL của trang Fragrantica trước khi chốt.
+- Sai 1 trường bất kỳ -> loại card, tìm card khác.
+7. Bằng chứng bắt buộc trước khi dùng card:
+- Lưu ảnh proof vùng góc trái (thấy rõ Name + Brand + Gender) vào `docs/reports/card-check/`.
+- Tên file proof: `[STT]-[slug]-card-proof.png`.
 
 ### Bước 2: Bóc dữ liệu từ card
 - longevity
@@ -62,6 +75,8 @@ Nguồn gốc: tổng hợp lại từ:
 ## 4) Gate bắt buộc
 - Đúng chai/đúng nồng độ.
 - Ảnh card là đúng social card.
+- Pass đủ 4 trường text card: Brand + Name + Gender + Nồng độ.
+- Có ảnh proof check text card trong `docs/reports/card-check/`.
 - Tên file card đúng format.
 - Đủ trường dữ liệu.
 - Build pass.
@@ -69,6 +84,7 @@ Nguồn gốc: tổng hợp lại từ:
 ## 5) Lỗi thường gặp
 - Nhầm EDT/EDP.
 - Nhầm chai cùng dòng flankers.
+- Đọc thiếu dòng `gender` trên card nên lấy sai bản nam/nữ/unisex.
 - Gắn sai ảnh card.
 - Đặt tên file card không theo chuẩn.
 

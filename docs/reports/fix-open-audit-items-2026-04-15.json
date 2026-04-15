@@ -1,0 +1,123 @@
+{
+  "generatedAt": "2026-04-15T03:25:30.181Z",
+  "before": {
+    "missing_article": 64,
+    "missing_article_sections": 0,
+    "missing_gallery_files": 0,
+    "duplicate_gallery_urls": 1,
+    "missing_card_file_by_stt": 3
+  },
+  "after": {
+    "missing_article": 0,
+    "missing_article_sections": 0,
+    "missing_gallery_files": 0,
+    "duplicate_gallery_urls": 0,
+    "missing_card_file_by_stt": 0
+  },
+  "updatedProducts": 64,
+  "updatedProductIds": [
+    "armaf-effects-of-uniq",
+    "black-phantom-by-kilian",
+    "blanche-bete",
+    "byredo-blanche-edp",
+    "byredo-la-tulipe",
+    "chloe-atelier-des-fleurs-rosa-damascena",
+    "chloe-atelier-des-fleurs-santalum",
+    "creed-love-in-white",
+    "creed-silver-moutain-water",
+    "deliah-blanc",
+    "diptyque-doson-edp",
+    "diptyque-fleur-de-peau",
+    "dubai-musk",
+    "elizabeth-arden-white-tea-edt",
+    "ella-k-pluie-sur-ha-long",
+    "ex-nihilo-blue-talisman",
+    "giorgio-armani-acqua-di-gio-profondo",
+    "gritti-tutu-extrait",
+    "gucci-flora-gorgeous-gardenia",
+    "guerlain-aqua-allegoria-forte-rosa-palissandro-edp",
+    "guerlain-aqua-allegoria-nerolia-vetiver-edp",
+    "guerlain-aqua-allegoria-nettare-di-sole",
+    "hermes-bleue",
+    "hermes-twilly-eau-poivree",
+    "jimmy-choo-i-want-choo",
+    "kilan-good-girl-gone-bad",
+    "kilian-rolling-in-love",
+    "le-labo-santal",
+    "le-parfum-elie-saab",
+    "light-blue-pour-femme",
+    "lorchestre-piano-santal",
+    "mancera-sicily",
+    "mcm-zen-elephant",
+    "mfk-a-la-rose",
+    "miss-dior-essence-new-2025",
+    "miss-dior-parfum-new-2024",
+    "musk-kashmir",
+    "nar-cristal-edp",
+    "nar-poudree",
+    "narciso-ambree",
+    "narciso-for-her-edp-intense-new-2025",
+    "narciso-musc-nude",
+    "narciso-rodriguez-all-of-me-floral",
+    "odyssey-limoni",
+    "odyssey-mandarin-sky",
+    "oud-forever",
+    "paco-pure-xs",
+    "parfums-de-marly-palatine",
+    "parfums-de-marly-valaya",
+    "philosykos-edp",
+    "replica-by-the-fireplace",
+    "replica-lazy-sunday-morning",
+    "rj-burlington-1819",
+    "rmni-prive-the-yulong",
+    "the-noir",
+    "the-one-edp",
+    "the-one-for-men-eau-de-parfum",
+    "thomas-kosmala-no",
+    "ventus-for-her",
+    "versace-eros-energy-edp",
+    "versce-pour-homme",
+    "xerjoff-casamorati-mefisto",
+    "ysl-black-opium-glitter-edp",
+    "ysl-libre-intense-edp"
+  ],
+  "cards": {
+    "missingBefore": [
+      {
+        "id": "allure-edp",
+        "stt": "022",
+        "name": "Allure EDP",
+        "brand": "CHANEL"
+      },
+      {
+        "id": "bal-dafrique",
+        "stt": "017",
+        "name": "Bal d'Afrique EDP",
+        "brand": "BYREDO"
+      },
+      {
+        "id": "byredo-blanche-edp",
+        "stt": "018",
+        "name": "Blanche EDP",
+        "brand": "Byredo"
+      }
+    ],
+    "copied": [
+      {
+        "stt": "017",
+        "from": "19. BYREDO Bal d'Afrique EDP.jpeg",
+        "to": "017. BYREDO Bal d'Afrique EDP.jpeg"
+      },
+      {
+        "stt": "018",
+        "from": "11. Byredo Blanche EDP.jpeg",
+        "to": "018. BYREDO Blanche EDP.jpeg"
+      },
+      {
+        "stt": "022",
+        "from": "23. CHANEL Allure EDP.jpeg",
+        "to": "022. CHANEL Allure EDP.jpeg"
+      }
+    ]
+  }
+}
