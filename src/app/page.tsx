@@ -380,7 +380,7 @@ export default async function Home() {
 
       <section className="mx-auto max-w-[1280px] px-0 md:px-8 py-4 md:py-6">
         <div className="mds-marquee-row mds-marquee-row-brand mds-marquee-row-brand-home border-y border-[var(--color-border-subtle)] bg-[#FBFAF6]">
-          <div className="mds-marquee-track mds-marquee-speed-112">
+          <div className="mds-marquee-track mds-marquee-speed-56">
             {[...allSiteBrands, ...allSiteBrands].map((brand, idx) => (
               <span key={`home-brand-line-${idx}`} className="mds-marquee-item mds-marquee-brand-item mds-marquee-brand-item-home">
                 {brand}
