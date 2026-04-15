@@ -100,7 +100,6 @@ const TOP_BRANDS = [
     { name: 'Nishane', slug: 'nishane' },
 ];
 
-const ASSURANCE_LINE_1 = Array.from({ length: 12 }, () => "Cam kết chính hãng 100%");
 
 const Header = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -229,16 +228,6 @@ const Header = () => {
     return (
         <>
             <header className={`sticky top-0 z-50 bg-white transition-all duration-300 ${scrolled ? 'shadow-md' : ''}`}>
-                <div className="mds-marquee-row mds-marquee-row-outline">
-                    <div className="mds-marquee-track mds-marquee-speed-60">
-                        {[...ASSURANCE_LINE_1, ...ASSURANCE_LINE_1].map((item, idx) => (
-                            <span key={`line1-${idx}`} className="mds-marquee-item">
-                                {item}
-                            </span>
-                        ))}
-                    </div>
-                </div>
-
                 {/* ROW 1: Logo + Nav + Icons */}
                 <div className="border-b border-[var(--border)]">
                     <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex justify-between items-center py-3 md:py-4">
