@@ -35,6 +35,10 @@ const nextConfig: NextConfig = {
       { source: '/kien-thuc/:slug', destination: '/:slug', permanent: true },
 
       // ── Old slug renames ──
+      // Content consolidation (option B): keep 1 summer-office pillar article
+      { source: '/top-7-nuoc-hoa-nam-di-lam-mua-he-2026', destination: '/nuoc-hoa-nam-di-lam-mua-he', permanent: true },
+      { source: '/top-7-nuoc-hoa-nam-van-phong-lich-lam-2026', destination: '/nuoc-hoa-nam-di-lam-mua-he', permanent: true },
+
       { source: '/bleu-de-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-chanel-edp', permanent: true },
       { source: '/san-pham/bleu-de-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-chanel-edp', permanent: true },
       { source: '/bleu-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-chanel-edp', permanent: true },
