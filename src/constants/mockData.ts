@@ -1712,8 +1712,8 @@ Mùa đông, ở nhà cuối tuần, đi cafe, hoặc khi muốn comfort zone. X
       { label: "Nữ hoàng tiệc", icon: "🍸" },
       { label: "Cà phê Vani", icon: "☕" }
     ],
-    image: "/images/products/258-black-opium-main.jpg",
-    images: [{ url: "/images/products/258-black-opium-main.jpg", source: "fragram", caption: "YSL Black Opium Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/278-black-opium-edp-main.jpg",
+    images: [{ url: "/images/products/278-black-opium-edp-main.jpg", source: "fragram", caption: "YSL Black Opium Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi nhẹ nhàng, trong trẻo kiểu Miss Dior Blooming Bouquet hay Chance Eau Tendre thì Black Opium sẽ quá đậm, quá ngọt. Đây là mùi buổi tối — cà phê, vani, hoa trắng rất nồng. Ai dùng ban ngày đi văn phòng sẽ thấy hơi nhiều, đặc biệt khi trời nóng. Ngoài ra, Black Opium cực kỳ phổ biến nên khả năng đụng hàng rất cao.
@@ -7701,8 +7701,8 @@ Hẹn hò, ăn tối, buổi tối, gặp gỡ thân mật. Xịt 2-3 nhát: c�
       { label: "Nữ cường", icon: "👑" },
       { label: "Quyền lực", icon: "👠" }
     ],
-    image: "/images/products/263-libre-edp-main.jpg",
-    images: [{ url: "/images/products/263-libre-edp-main.jpg", source: "fragram", caption: "YSL Libre Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/276-libre-edp-main.jpg",
+    images: [{ url: "/images/products/276-libre-edp-main.jpg", source: "fragram", caption: "YSL Libre Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi nữ truyền thống — hoa hồng nhẹ, phấn thanh, ngọt dịu dàng — thì Libre sẽ gây hoang mang. Chai này có lavender rõ rệt, một thành phần thường chỉ xuất hiện trong nước hoa nam. Nhiều phụ nữ xịt lần đầu sẽ nói "mùi nước hoa con trai mà". Nếu bạn ngại mùi unisex-thiên-nam thì nên thử trước. Ngược lại, nếu bạn TÌM mùi phá cách khác biệt — thì đây là đúng chai.
@@ -7836,8 +7836,8 @@ Giá YSL — cùng tier Libre gốc. Flipo + Benaïm giữ DNA oải hương-hoa
       { label: "Quyền lực đỉnh", icon: "👑" },
       { label: "Mật đắt tiền", icon: "🍯" }
     ],
-    image: "/images/products/266-libre-le-parfum-main.jpg",
-    images: [{ url: "/images/products/266-libre-le-parfum-main.jpg", source: "fragram", caption: "YSL Libre Le Parfum chính hãng", verified: true }],
+    image: "/images/products/277-libre-le-parfum-main.jpg",
+    images: [{ url: "/images/products/277-libre-le-parfum-main.jpg", source: "fragram", caption: "YSL Libre Le Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thấy Libre gốc đã đủ — thì Le Parfum quá nặng. Đây là Libre MAX: Anne Flipo đẩy vani và amber lên nồng độ Parfum, tạo ra phiên bản NỮ MẠNH nhất lineup. Oải hương vẫn có nhưng bị vani phủ nặng. Ai thích Libre vì tươi sáng sẽ thất vọng.
@@ -9492,8 +9492,8 @@ Giá Chanel — cùng tier N°19 gốc. So với N°19 EDP — Poudré mềm hơ
       { label: "Kinh điển", icon: "🥇" },
       { label: "Quyền uy", icon: "👑" }
     ],
-    image: "/images/products/041-no-5-eau-de-parfum-main.jpg",
-    images: [{ url: "/images/products/041-no-5-eau-de-parfum-main.jpg", source: "fragram", caption: "Chanel N°5 Eau de Parfum chính hãng", verified: true }],
+    image: "/images/products/273-no-5-edp-main.jpg",
+    images: [{ url: "/images/products/273-no-5-edp-main.jpg", source: "fragram", caption: "Chanel N°5 Eau de Parfum chính hãng", verified: true }],
     article: `### Ai không nên mua?
 
 Nếu bạn thích mùi trẻ trung, ngọt dễ thương kiểu Victoria's Secret hay Ariana Grande thì N°5 EDP sẽ quá "bà" cho gu của bạn. Đây là mùi aldehyde hoa cổ điển — phấn, xà phòng và hoa trắng rất rõ. Người dưới 25 tuổi thường thấy N°5 quá mature. Ngoài ra, ai ghét cảm giác phấn bột hoặc mùi xà phòng sang nên tránh.
@@ -17778,6 +17778,399 @@ Chai này dùng đẹp nhất vào mùa xuân và mùa hè, phù hợp ban ngày
     tags: ["Nữ", "Designer"],
     isPublished: true
 },
+  {
+    id: "chance-eau-fraiche-edt",
+    brandSlug: "chanel",
+    brand: "CHANEL",
+    name: "Chance Eau Fraiche EDT",
+    subName: "EDT",
+    perfumer: "Jacques Polge",
+    year: 2007,
+    gender: "nu",
+    longevity: 7,
+    sillage: 7,
+    seasons: {"spring":39,"summer":42,"fall":11,"winter":8},
+    dayNight: {"day":85,"night":15},
+    seoTitle: "Chanel Chance Eau Fraiche EDT chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Chanel Chance Eau Fraiche EDT chính hãng: citrus gỗ sáng, sạch, dễ dùng mùa nóng và đi làm mỗi ngày.",
+    description: "Chance Eau Fraiche EDT là bản Chance tươi nhất: chanh sáng, gỗ sạch và nét aromatic mát. Vibe tổng thể gọn, thanh và rất dễ dùng ban ngày.",
+    score: {"scent":8.2,"uniqueness":6,"compliments":7,"value":8.2,"total":7.5},
+    topNotes: [
+      {"name": "Lemon"},
+      {"name": "Cedar"},
+      {"name": "Citron"}
+    ],
+    middleNotes: [
+      {"name": "Water Hyacinth"},
+      {"name": "Pink Pepper"},
+      {"name": "Jasmine"}
+    ],
+    baseNotes: [
+      {"name": "White Musk"},
+      {"name": "Patchouli"},
+      {"name": "Vetiver"},
+      {"name": "Teak Wood"},
+      {"name": "Iris"},
+      {"name": "Amber"}
+    ],
+    accords: [
+      {"name": "woody", "value": 100, "color": "#774414"},
+      {"name": "citrus", "value": 97, "color": "#F9FF52"},
+      {"name": "aromatic", "value": 62, "color": "#37a089"},
+      {"name": "floral", "value": 55, "color": "#FF5F8D"},
+      {"name": "musky", "value": 53, "color": "#E7D8EA"}
+    ],
+    vibes: [
+      { label: "Sạch mát", icon: "🍋" },
+      { label: "Đi làm", icon: "💼" }
+    ],
+    image: "/images/products/272-chance-eau-fraiche-edt-main.jpg",
+    images: [{ url: "/images/products/272-chance-eau-fraiche-edt-main.jpg", source: "fragram", caption: "Chanel Chance Eau Fraiche EDT chính hãng", verified: true }],
+    article: `### Ai không nên mua?
+
+Nếu bạn thích mùi ngọt đậm hoặc phong cách tối nồng đi tiệc, Chance Eau Fraiche EDT sẽ hơi nhẹ. Đây là kiểu mùi tươi và sạch, thiên về dùng hằng ngày.
+
+### Có đáng tiền không?
+
+Ở nhóm Chanel designer, chai này đáng tiền nếu bạn cần một mùi mát, an toàn và dễ khen. Hiệu năng thực tế ở mức khá với độ lưu hương khoảng 6-7/10.
+
+### Nên dùng khi nào?
+
+Hợp nhất cho ban ngày, đi làm, đi học, gặp gỡ nhẹ nhàng. Đẹp nhất trong thời tiết nóng hoặc ẩm, đặc biệt mùa xuân hè.`,
+    verdict: "Mùi citrus gỗ sạch, gọn và dễ dùng nhất nhì nhà Chanel cho ban ngày.",
+    verdictShort: "TƯƠI, SẠCH, DỄ DÙNG",
+    tags: ["Nữ", "Ban ngày", "Mùa nóng", "Văn phòng"],
+    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 3650000,
+    shopeeOffers: [],
+    isPublished: true
+  },
+  {
+    id: "no-5-l-eau",
+    brandSlug: "chanel",
+    brand: "CHANEL",
+    name: "N°5 L'Eau EDT",
+    subName: "EDT",
+    perfumer: "Olivier Polge",
+    year: 2016,
+    gender: "nu",
+    longevity: 6,
+    sillage: 6,
+    seasons: {"spring":36,"summer":29,"fall":20,"winter":15},
+    dayNight: {"day":77,"night":23},
+    seoTitle: "Chanel N°5 L'Eau EDT chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Chanel N°5 L'Eau EDT chính hãng: bản N°5 trẻ hơn, sáng hơn, citrus-aldehydic thanh và sạch cho đi làm.",
+    description: "N°5 L'Eau EDT giữ DNA N°5 nhưng làm sáng và trẻ hơn: citrus, aldehydic, sạch phấn vừa phải. Đây là phiên bản dễ tiếp cận hơn bản No.5 EDP cổ điển.",
+    score: {"scent":8.2,"uniqueness":6,"compliments":7,"value":8.2,"total":7.6},
+    topNotes: [
+      {"name": "Aldehydes"},
+      {"name": "Lemon"},
+      {"name": "Neroli"},
+      {"name": "Bergamot"},
+      {"name": "Mandarin Orange"},
+      {"name": "Lime"},
+      {"name": "Orange"}
+    ],
+    middleNotes: [
+      {"name": "Ylang-Ylang"},
+      {"name": "Jasmine"},
+      {"name": "May Rose"}
+    ],
+    baseNotes: [
+      {"name": "White Musk"},
+      {"name": "Orris Root"},
+      {"name": "Cedar"},
+      {"name": "Vanilla"}
+    ],
+    accords: [
+      {"name": "citrus", "value": 100, "color": "#F9FF52"},
+      {"name": "aldehydic", "value": 61, "color": "#d8e9f6"},
+      {"name": "fresh", "value": 56, "color": "#9be5ed"},
+      {"name": "woody", "value": 49, "color": "#774414"},
+      {"name": "powdery", "value": 48, "color": "#EEDDCC"}
+    ],
+    vibes: [
+      { label: "Thanh lịch", icon: "🧴" },
+      { label: "Sáng sạch", icon: "✨" }
+    ],
+    image: "/images/products/274-no-5-l-eau-main.jpg",
+    images: [{ url: "/images/products/274-no-5-l-eau-main.jpg", source: "fragram", caption: "Chanel N°5 L'Eau EDT chính hãng", verified: true }],
+    article: `### Ai không nên mua?
+
+Nếu bạn muốn một chai nữ ngọt dày và nổi khối ngay từ đầu, N°5 L'Eau có thể quá nhẹ. Chai này thiên clean và thanh, không đi theo hướng gourmand.
+
+### Có đáng tiền không?
+
+Đây là lựa chọn tốt nếu bạn thích nhà Chanel nhưng ngại N°5 EDP quá cổ điển. Bản L'Eau cân bằng dễ dùng hơn, hợp nhịp sống hằng ngày.
+
+### Nên dùng khi nào?
+
+Hợp nhất cho đi làm, gặp gỡ ban ngày, không gian kín. Mùa xuân hè dùng đẹp, mùa thu vẫn ổn khi xịt vừa tay.`,
+    verdict: "Bản N°5 sáng và trẻ hơn, dễ dùng hơn, hợp đi làm và dùng hằng ngày.",
+    verdictShort: "SÁNG, THANH, DỄ TIẾP CẬN",
+    tags: ["Nữ", "Thanh lịch", "Đi làm", "Hằng ngày"],
+    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 3550000,
+    shopeeOffers: [],
+    isPublished: true
+  },
+  {
+    id: "y-le-parfum",
+    brandSlug: "ysl",
+    brand: "YVES SAINT LAURENT",
+    name: "Y Le Parfum",
+    subName: "Parfum",
+    perfumer: "Dominique Ropion",
+    year: 2021,
+    gender: "nam",
+    longevity: 7,
+    sillage: 7,
+    seasons: {"spring":27,"summer":23,"fall":27,"winter":23},
+    dayNight: {"day":49,"night":51},
+    seoTitle: "YSL Y Le Parfum chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá YSL Y Le Parfum chính hãng: aromatic-fresh spicy nam tính, cân bằng giữa độ sạch ban ngày và chiều sâu dùng tối.",
+    description: "Y Le Parfum là bản Y chín và dày hơn: aromatic rõ, fresh spicy sáng, trái cây vừa phải. Tổng thể nam tính hiện đại, dễ mặc nhiều bối cảnh.",
+    score: {"scent":8.8,"uniqueness":6,"compliments":7,"value":8.8,"total":7.9},
+    topNotes: [
+      {"name": "Apple"},
+      {"name": "Aldehydes"},
+      {"name": "Grapefruit"},
+      {"name": "Ginger"}
+    ],
+    middleNotes: [
+      {"name": "Lavender"},
+      {"name": "Sage"},
+      {"name": "Geranium"}
+    ],
+    baseNotes: [
+      {"name": "Tonka Bean"},
+      {"name": "Cedar"},
+      {"name": "Olibanum"},
+      {"name": "Patchouli"}
+    ],
+    accords: [
+      {"name": "aromatic", "value": 100, "color": "#37a089"},
+      {"name": "fresh spicy", "value": 98, "color": "#83C928"},
+      {"name": "fresh", "value": 81, "color": "#9be5ed"},
+      {"name": "fruity", "value": 68, "color": "#FC4B29"},
+      {"name": "herbal", "value": 67, "color": "#6CA47F"}
+    ],
+    vibes: [
+      { label: "Nam tính", icon: "🧊" },
+      { label: "Đa dụng", icon: "🎯" }
+    ],
+    image: "/images/products/275-y-le-parfum-main.jpg",
+    images: [{ url: "/images/products/275-y-le-parfum-main.jpg", source: "fragram", caption: "YSL Y Le Parfum chính hãng", verified: true }],
+    article: `### Ai không nên mua?
+
+Nếu bạn thích mùi quá ngọt hoặc phong cách cổ điển nặng đô, Y Le Parfum có thể chưa hợp. DNA của chai này hiện đại, sạch và thiên ứng dụng.
+
+### Có đáng tiền không?
+
+Trong nhóm designer nam dễ dùng, Y Le Parfum có chất lượng ổn định và độ bám tốt. Đây là lựa chọn an toàn nếu bạn cần một chai đi làm lẫn đi tối.
+
+### Nên dùng khi nào?
+
+Dùng tốt cả ngày và đêm, đặc biệt trong môi trường văn phòng, gặp khách, hẹn hò. Xịt 2-4 nhát tùy không gian và nhiệt độ.`,
+    verdict: "Aromatic hiện đại, sạch và nam tính; một chai YSL nam đa dụng rất dễ lên đồ.",
+    verdictShort: "NAM TÍNH, SẠCH, ĐA DỤNG",
+    tags: ["Nam", "Đa dụng", "Đi làm", "Hẹn hò"],
+    sizes: ["10ml Chiết", "60ml Fullbox", "100ml Fullbox"],
+    basePrice: 3150000,
+    shopeeOffers: [],
+    isPublished: true
+  },
+  {
+    id: "si-passione-edp",
+    brandSlug: "giorgio-armani",
+    brand: "GIORGIO ARMANI",
+    name: "Si Passione EDP",
+    subName: "EDP",
+    perfumer: "Julie Masse",
+    year: 2018,
+    gender: "nu",
+    longevity: 6,
+    sillage: 6,
+    seasons: {"spring":33,"summer":22,"fall":28,"winter":17},
+    dayNight: {"day":61,"night":39},
+    seoTitle: "Giorgio Armani Si Passione EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Giorgio Armani Si Passione EDP chính hãng: fruity-rose nữ tính, mềm và dễ dùng cho cả đi làm lẫn hẹn hò.",
+    description: "Si Passione EDP đi theo hướng fruity floral dễ cảm: trái cây đỏ, chút ngọt vanilla và hoa hồng mềm. Vibe nữ tính, sáng và thân thiện.",
+    score: {"scent":7.7,"uniqueness":6,"compliments":7,"value":7.7,"total":7.2},
+    topNotes: [
+      {"name": "Pear"},
+      {"name": "Black Currant"},
+      {"name": "Pink Pepper"},
+      {"name": "Grapefruit"}
+    ],
+    middleNotes: [
+      {"name": "Pineapple"},
+      {"name": "Rose"},
+      {"name": "Jasmine"},
+      {"name": "Heliotrope"}
+    ],
+    baseNotes: [
+      {"name": "Vanilla"},
+      {"name": "Cedar"},
+      {"name": "Patchouli"},
+      {"name": "Amberwood"}
+    ],
+    accords: [
+      {"name": "fruity", "value": 100, "color": "#FC4B29"},
+      {"name": "sweet", "value": 71, "color": "#ee363b"},
+      {"name": "woody", "value": 58, "color": "#774414"},
+      {"name": "vanilla", "value": 55, "color": "#FFFEC0"},
+      {"name": "rose", "value": 54, "color": "#FE016B"}
+    ],
+    vibes: [
+      { label: "Nữ tính", icon: "🌹" },
+      { label: "Dễ dùng", icon: "🧡" }
+    ],
+    image: "/images/products/279-si-passione-edp-main.jpg",
+    images: [{ url: "/images/products/279-si-passione-edp-main.jpg", source: "fragram", caption: "Giorgio Armani Si Passione EDP chính hãng", verified: true }],
+    article: `### Ai không nên mua?
+
+Nếu bạn muốn một mùi quá sắc hoặc quá niche, Si Passione có thể hơi hiền. Chai này tập trung vào độ dễ dùng và độ thân thiện.
+
+### Có đáng tiền không?
+
+Với nhóm designer nữ phổ thông cao cấp, Si Passione là lựa chọn hợp lý khi bạn cần mùi dễ mặc, không quá kén hoàn cảnh. Độ bám và tỏa ở mức khá.
+
+### Nên dùng khi nào?
+
+Hợp đi làm, gặp gỡ ban ngày, đi ăn tối nhẹ. Dùng tốt quanh năm, ưu tiên xuân và đầu thu.`,
+    verdict: "Fruity floral nữ tính, mềm và dễ mặc, hợp người thích mùi lịch sự dễ gần.",
+    verdictShort: "NỮ TÍNH, MỀM, DỄ MẶC",
+    tags: ["Nữ", "Dễ dùng", "Hẹn hò", "Văn phòng"],
+    sizes: ["10ml Chiết", "50ml Fullbox", "100ml Fullbox"],
+    basePrice: 2850000,
+    shopeeOffers: [],
+    isPublished: true
+  },
+  {
+    id: "acqua-di-gio-edp",
+    brandSlug: "giorgio-armani",
+    brand: "GIORGIO ARMANI",
+    name: "Acqua di Giò EDP",
+    subName: "EDP",
+    perfumer: "Alberto Morillas",
+    year: 2022,
+    gender: "nam",
+    longevity: 7,
+    sillage: 6,
+    seasons: {"spring":37,"summer":43,"fall":15,"winter":5},
+    dayNight: {"day":75,"night":25},
+    seoTitle: "Acqua di Giò EDP chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Acqua di Giò EDP chính hãng: aromatic marine khoáng sạch, hợp mùa nóng và nhu cầu đi làm hằng ngày.",
+    description: "Acqua di Giò EDP giữ tinh thần biển sạch của dòng Giò nhưng hiện đại hơn: marine-khoáng-aromatic rõ nét, dễ dùng và phù hợp thời tiết nóng.",
+    score: {"scent":8.1,"uniqueness":7,"compliments":7,"value":8.1,"total":7.6},
+    topNotes: [
+      {"name": "Sea Notes"},
+      {"name": "Green Mandarin"}
+    ],
+    middleNotes: [
+      {"name": "Clary Sage"},
+      {"name": "Lavender"},
+      {"name": "Geranium"}
+    ],
+    baseNotes: [
+      {"name": "Mineral notes"},
+      {"name": "Vetiver"},
+      {"name": "Patchouli"}
+    ],
+    accords: [
+      {"name": "aromatic", "value": 100, "color": "#37a089"},
+      {"name": "marine", "value": 70, "color": "#0E529B"},
+      {"name": "mineral", "value": 62, "color": "#71BBBF"},
+      {"name": "citrus", "value": 59, "color": "#F9FF52"},
+      {"name": "fresh spicy", "value": 49, "color": "#83C928"}
+    ],
+    vibes: [
+      { label: "Biển sạch", icon: "🌊" },
+      { label: "Công sở", icon: "🧾" }
+    ],
+    image: "/images/products/280-acqua-di-gio-edp-main.jpg",
+    images: [{ url: "/images/products/280-acqua-di-gio-edp-main.jpg", source: "fragram", caption: "Giorgio Armani Acqua di Giò EDP chính hãng", verified: true }],
+    article: `### Ai không nên mua?
+
+Nếu bạn thích mùi quá ngọt hoặc quá tối dùng đêm, Acqua di Giò EDP có thể hơi sáng và gọn. Chai này đi theo hướng sạch, mát, dễ chịu.
+
+### Có đáng tiền không?
+
+Đây là lựa chọn đáng tiền cho nhu cầu một chai nam mùa nóng, mặc hằng ngày. So với EDT cổ điển, bản EDP có chiều sâu tốt hơn nhưng vẫn dễ dùng.
+
+### Nên dùng khi nào?
+
+Hợp nhất cho ban ngày, đi làm, di chuyển ngoài trời và thời tiết nóng ẩm. Xịt 3-5 nhát cho độ hiện diện vừa đẹp.`,
+    verdict: "Marine-khoáng sạch và hiện đại, một trong những lựa chọn nam an toàn cho mùa nóng.",
+    verdictShort: "MARINE SẠCH, KHOÁNG, AN TOÀN",
+    tags: ["Nam", "Mùa hè", "Đi làm", "Dễ dùng"],
+    sizes: ["10ml Chiết", "40ml Fullbox", "75ml Fullbox", "125ml Fullbox"],
+    basePrice: 2750000,
+    shopeeOffers: [],
+    isPublished: true
+  },
+  {
+    id: "my-way-intense",
+    brandSlug: "giorgio-armani",
+    brand: "GIORGIO ARMANI",
+    name: "My Way Intense",
+    subName: "EDP",
+    perfumer: "Carlos Benaim, Bruno Jovanovic",
+    year: 2021,
+    gender: "nu",
+    longevity: 7,
+    sillage: 7,
+    seasons: {"spring":32,"summer":21,"fall":27,"winter":20},
+    dayNight: {"day":57,"night":43},
+    seoTitle: "Giorgio Armani My Way Intense chính hãng mua ở đâu? Review 2026",
+    metaDescription: "Đánh giá Giorgio Armani My Way Intense chính hãng: white floral-tuberose ngọt ấm, nữ tính rõ nét và bám tốt.",
+    description: "My Way Intense đậm hơn bản gốc với white floral và tuberose nổi bật, nền vanilla ấm. Mùi hương nữ tính, tròn đầy và có độ ôm tốt trên da.",
+    score: {"scent":7.9,"uniqueness":7,"compliments":7,"value":7.9,"total":7.5},
+    topNotes: [
+      {"name": "Orange Blossom"},
+      {"name": "Bitter Orange"}
+    ],
+    middleNotes: [
+      {"name": "Indian Tuberose"},
+      {"name": "Tuberose"}
+    ],
+    baseNotes: [
+      {"name": "Madagascar Vanilla"},
+      {"name": "Sandalwood"}
+    ],
+    accords: [
+      {"name": "white floral", "value": 100, "color": "#edf2fb"},
+      {"name": "tuberose", "value": 79, "color": "#ebfaf3"},
+      {"name": "citrus", "value": 68, "color": "#F9FF52"},
+      {"name": "vanilla", "value": 57, "color": "#FFFEC0"},
+      {"name": "animalic", "value": 51, "color": "#8E4B13"}
+    ],
+    vibes: [
+      { label: "Nữ tính", icon: "🤍" },
+      { label: "Mềm ấm", icon: "🌼" }
+    ],
+    image: "/images/products/281-my-way-intense-main.jpg",
+    images: [{ url: "/images/products/281-my-way-intense-main.jpg", source: "fragram", caption: "Giorgio Armani My Way Intense chính hãng", verified: true }],
+    article: `### Ai không nên mua?
+
+Nếu bạn không hợp white floral dày hoặc tuberose nổi, My Way Intense sẽ hơi nhiều. Đây là mùi nữ tính rõ, có độ ngọt và độ ôm tương đối.
+
+### Có đáng tiền không?
+
+My Way Intense phù hợp người thích nhóm hoa trắng hiện đại, bám tốt hơn bản nhẹ. Trong tầm designer cao cấp nữ, đây là một lựa chọn ổn định và dễ phối dịp.
+
+### Nên dùng khi nào?
+
+Hợp đi làm, gặp gỡ, hẹn hò nhẹ vào chiều tối. Dùng tốt quanh năm, đẹp nhất khi thời tiết mát hoặc không gian điều hòa.`,
+    verdict: "White floral đậm và mềm ấm, hợp người thích hoa trắng nữ tính có độ bám ổn.",
+    verdictShort: "HOA TRẮNG, MỀM ẤM, NỮ TÍNH",
+    tags: ["Nữ", "Hoa trắng", "Hẹn hò", "Đi làm"],
+    sizes: ["10ml Chiết", "50ml Fullbox", "90ml Fullbox"],
+    basePrice: 3050000,
+    shopeeOffers: [],
+    isPublished: true
+  },
 
 ];
 

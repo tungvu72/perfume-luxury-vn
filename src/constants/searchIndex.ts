@@ -453,7 +453,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Black Opium EDP",
     "brand": "YVES SAINT LAURENT",
     "subName": "EDP",
-    "image": "/images/products/258-black-opium-main.jpg",
+    "image": "/images/products/278-black-opium-edp-main.jpg",
     "gender": "nu",
     "brandSlug": "ysl",
     "isPublished": true,
@@ -1955,7 +1955,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Libre EDP",
     "brand": "YVES SAINT LAURENT",
     "subName": "EDP",
-    "image": "/images/products/263-libre-edp-main.jpg",
+    "image": "/images/products/276-libre-edp-main.jpg",
     "gender": "nu",
     "brandSlug": "ysl",
     "isPublished": true,
@@ -1987,7 +1987,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Libre Le Parfum",
     "brand": "YVES SAINT LAURENT",
     "subName": "Parfum",
-    "image": "/images/products/266-libre-le-parfum-main.jpg",
+    "image": "/images/products/277-libre-le-parfum-main.jpg",
     "gender": "nu",
     "brandSlug": "ysl",
     "isPublished": true,
@@ -2399,7 +2399,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "N°5 Eau de Parfum",
     "brand": "CHANEL",
     "subName": "EDP",
-    "image": "/images/products/041-no-5-eau-de-parfum-main.jpg",
+    "image": "/images/products/273-no-5-edp-main.jpg",
     "gender": "nu",
     "brandSlug": "chanel",
     "isPublished": true,
@@ -2574,14 +2574,12 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "id": "philosykos-edp",
     "name": "Philosykos EDP",
     "brand": "Diptyque",
+    "subName": "EDP",
     "image": "/images/products/081-philosykos-edp-main.jpg",
     "gender": "unisex",
     "brandSlug": "diptyque",
     "isPublished": true,
-    "tags": [
-      "Thơm lâu",
-      "Hương tinh chọn"
-    ]
+    "tags": []
   },
   {
     "id": "poison",
@@ -2714,7 +2712,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Sauvage EDP",
     "brand": "DIOR",
     "subName": "EDP",
-    "image": "/images/products/077-sauvage-edp-main.jpg",
+    "image": "/images/products/077-sauvage-edp-main.webp",
     "gender": "nam",
     "brandSlug": "dior",
     "isPublished": true,
@@ -3222,7 +3220,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Blanche EDP",
     "brand": "Byredo",
     "subName": "EDP",
-    "image": "/images/products/018-byredo-blanche-edp-main.jpg",
+    "image": "/images/products/018-byredo-blanche-edp-main.webp",
     "gender": "nu",
     "brandSlug": "byredo",
     "isPublished": true,
@@ -3237,7 +3235,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "La Tulipe",
     "brand": "Byredo",
     "subName": "EDP",
-    "image": "/images/products/019-byredo-la-tulipe/nuoc-hoa-byredo-la-tulipe-thuc-te-1.webp",
+    "image": "/images/products/019-byredo-la-tulipe-main.webp",
     "gender": "nu",
     "brandSlug": "byredo",
     "isPublished": true,
@@ -3252,7 +3250,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Rosa Damascena",
     "brand": "Chloé",
     "subName": "EDP",
-    "image": "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena-main.jpg",
+    "image": "/images/products/046-chloe-atelier-des-fleurs-rosa-damascena-main.webp",
     "gender": "nu",
     "brandSlug": "chloe",
     "isPublished": true,
@@ -3308,7 +3306,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Silver Mountain Water",
     "brand": "Creed",
     "subName": "EDP",
-    "image": "/images/products/054-creed-silver-moutain-water/nuoc-hoa-creed-silver-moutain-water-thuc-te-1.webp",
+    "image": "/images/products/054-creed-silver-moutain-water-main.webp",
     "gender": "unisex",
     "brandSlug": "creed",
     "isPublished": true,
@@ -3322,7 +3320,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Deliah Blanc",
     "brand": "Maison Alhambra",
     "subName": "Delilah Pour Femme EDP",
-    "image": "/images/products/175-deliah-blanc/nuoc-hoa-deliah-blanc-thuc-te-1.webp",
+    "image": "/images/products/175-deliah-blanc-main.webp",
     "gender": "nu",
     "brandSlug": "maison-alhambra",
     "isPublished": true,
@@ -3351,35 +3349,30 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "id": "diptyque-fleur-de-peau",
     "name": "Fleur de Peau",
     "brand": "Diptyque",
+    "subName": "EDP",
     "image": "/images/products/080-diptyque-fleur-de-peau-main.webp",
     "gender": "unisex",
     "brandSlug": "diptyque",
     "isPublished": true,
-    "tags": [
-      "Thơm lâu",
-      "Hương tinh chọn"
-    ]
+    "tags": []
   },
   {
     "id": "dubai-musk",
     "name": "Dubai Musk",
-    "brand": "Arabian Oud",
+    "brand": "Al Ambra",
+    "subName": "Extrait",
     "image": "/images/products/006-dubai-musk-main.webp",
-    "gender": "nam",
-    "brandSlug": "arabian-oud",
+    "gender": "unisex",
+    "brandSlug": "al-ambra",
     "isPublished": true,
-    "tags": [
-      "Thơm lâu",
-      "Tôn lên vẻ đẹp",
-      "Theo dòng xu hướng"
-    ]
+    "tags": []
   },
   {
     "id": "elizabeth-arden-white-tea-edt",
     "name": "White Tea EDT",
     "brand": "Elizabeth Arden",
     "subName": "EDT",
-    "image": "/images/products/087-elizabeth-arden-white-tea-edt/nuoc-hoa-elizabeth-arden-white-tea-edt-thuc-te-1.webp",
+    "image": "/images/products/087-elizabeth-arden-white-tea-edt-main.webp",
     "gender": "nu",
     "brandSlug": "elizabeth-arden",
     "isPublished": true,
@@ -3393,7 +3386,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Pluie Sur Ha Long",
     "brand": "Ella K",
     "subName": "EDP",
-    "image": "/images/products/088-ella-k-pluie-sur-ha-long/nuoc-hoa-ella-k-pluie-sur-ha-long-thuc-te-1.webp",
+    "image": "/images/products/088-ella-k-pluie-sur-ha-long-main.webp",
     "gender": "unisex",
     "brandSlug": "ella-k",
     "isPublished": true,
@@ -3407,7 +3400,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Blue Talisman",
     "brand": "Ex Nihilo",
     "subName": "EDP",
-    "image": "/images/products/090-ex-nihilo-blue-talisman-main.jpg",
+    "image": "/images/products/090-ex-nihilo-blue-talisman-main.webp",
     "gender": "unisex",
     "brandSlug": "ex-nihilo",
     "isPublished": true,
@@ -3421,7 +3414,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Acqua di Gio Profondo",
     "brand": "Giorgio Armani",
     "subName": "EDP (2024)",
-    "image": "/images/products/giorgio-armani-098-acqua-di-gio-profondo-main.jpg",
+    "image": "/images/products/098-acqua-di-gio-profondo-main.jpg",
     "gender": "nam",
     "brandSlug": "giorgio-armani",
     "isPublished": true,
@@ -3463,7 +3456,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Aqua Allegoria Forte Rosa Palissandro EDP",
     "brand": "Guerlain",
     "subName": "Forte EDP",
-    "image": "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-main.jpg",
+    "image": "/images/products/113-guerlain-aqua-allegoria-forte-rosa-palissandro-edp-main.webp",
     "gender": "unisex",
     "brandSlug": "guerlain",
     "isPublished": true,
@@ -3628,16 +3621,17 @@ export const SEARCH_INDEX: SearchProduct[] = [
   },
   {
     "id": "maison-francis-kurkdjian-kurky",
-    "name": "Aqua Universalis",
+    "name": "Kurky",
     "brand": "Maison Francis Kurkdjian",
-    "subName": "Aqua Universalis EDT",
+    "subName": "Eau de Parfum",
     "image": "/images/products/177-maison-francis-kurkdjian-kurky-main.jpg",
     "gender": "unisex",
     "brandSlug": "maison-francis-kurkdjian",
     "isPublished": true,
     "tags": [
-      "Nữ",
-      "Designer"
+      "Unisex",
+      "Niche",
+      "Ngọt trái cây"
     ]
   },
   {
@@ -3687,7 +3681,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "À la rose",
     "brand": "Maison Francis Kurkdjian",
     "subName": "EDP",
-    "image": "/images/products/176-mfk-a-la-rose/nuoc-hoa-mfk-a-la-rose-thuc-te-1.webp",
+    "image": "/images/products/176-mfk-a-la-rose-main.webp",
     "gender": "nu",
     "brandSlug": "maison-francis-kurkdjian",
     "isPublished": true,
@@ -3701,7 +3695,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Miss Dior Essence Parfum",
     "brand": "Dior",
     "subName": "Esprit de Parfum",
-    "image": "/images/products/073-miss-dior-essence-new-2025-main.jpg",
+    "image": "/images/products/073-miss-dior-essence-new-2025-main.webp",
     "gender": "nu",
     "brandSlug": "dior",
     "isPublished": true,
@@ -3715,7 +3709,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Miss Dior Parfum 2024",
     "brand": "Dior",
     "subName": "Parfum",
-    "image": "/images/products/074-miss-dior-parfum-new-2024/nuoc-hoa-miss-dior-parfum-new-2024-thuc-te-1.webp",
+    "image": "/images/products/074-miss-dior-parfum-new-2024-main.webp",
     "gender": "nu",
     "brandSlug": "dior",
     "isPublished": true,
@@ -3799,7 +3793,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Ambrée",
     "brand": "Narciso Rodriguez",
     "subName": "EDP",
-    "image": "/images/products/198-narciso-ambree/nuoc-hoa-narciso-ambree-thuc-te-1.webp",
+    "image": "/images/products/198-narciso-ambree-main.webp",
     "gender": "nu",
     "brandSlug": "narciso-rodriguez",
     "isPublished": true,
@@ -3869,7 +3863,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Odyssey Limoni",
     "brand": "Armaf",
     "subName": "EDP",
-    "image": "/images/products/009-odyssey-limoni/nuoc-hoa-odyssey-limoni-thuc-te-1.webp",
+    "image": "/images/products/009-odyssey-limoni-main.webp",
     "gender": "unisex",
     "brandSlug": "armaf",
     "isPublished": true,
@@ -3883,7 +3877,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Odyssey Mandarin Sky",
     "brand": "Armaf",
     "subName": "EDP",
-    "image": "/images/products/010-odyssey-mandarin-sky/nuoc-hoa-odyssey-mandarin-sky-thuc-te-1.webp",
+    "image": "/images/products/010-odyssey-mandarin-sky-main.webp",
     "gender": "nam",
     "brandSlug": "armaf",
     "isPublished": true,
@@ -3951,16 +3945,12 @@ export const SEARCH_INDEX: SearchProduct[] = [
   {
     "id": "parfums-de-marly-valaya-exclusif",
     "name": "Valaya Exclusif",
-    "brand": "Parfums de Marly",
+    "brand": "PARFUMS DE MARLY",
     "subName": "Exclusif Extrait",
-    "image": "/images/products/218-parfums-de-marly-valaya-exclusif-main.jpg",
     "gender": "nu",
     "brandSlug": "parfums-de-marly",
     "isPublished": true,
-    "tags": [
-      "Nữ",
-      "Designer"
-    ]
+    "tags": []
   },
   {
     "id": "rj-burlington-1819",
@@ -4079,7 +4069,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Eros Flame",
     "brand": "Versace",
     "subName": "EDP",
-    "image": "/images/products/244-versace-244-versace-eros-flame-main.jpg",
+    "image": "/images/products/244-versace-eros-flame-main.jpg",
     "gender": "nam",
     "brandSlug": "versace",
     "isPublished": true,
@@ -4107,7 +4097,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Casamorati Mefisto",
     "brand": "Xerjoff",
     "subName": "EDP",
-    "image": "/images/products/249-xerjoff-casamorati-mefisto-main.jpg",
+    "image": "/images/products/249-xerjoff-casamorati-mefisto-main.webp",
     "gender": "nam",
     "brandSlug": "xerjoff",
     "isPublished": true,
@@ -4177,7 +4167,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "The Yulong",
     "brand": "Armani Prive",
     "subName": "EDT",
-    "image": "/images/products/011-rmni-prive-the-yulong/nuoc-hoa-rmni-prive-the-yulong-thuc-te-1.webp",
+    "image": "/images/products/011-rmni-prive-the-yulong-main.webp",
     "gender": "unisex",
     "brandSlug": "giorgio-armani",
     "isPublished": true,
@@ -4198,6 +4188,102 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "tags": [
       "Nữ",
       "Designer"
+    ]
+  },
+  {
+    "id": "chance-eau-fraiche-edt",
+    "name": "Chance Eau Fraiche EDT",
+    "brand": "CHANEL",
+    "subName": "EDT",
+    "image": "/images/products/272-chance-eau-fraiche-edt-main.jpg",
+    "gender": "nu",
+    "brandSlug": "chanel",
+    "isPublished": true,
+    "tags": [
+      "Nữ",
+      "Ban ngày",
+      "Mùa nóng",
+      "Văn phòng"
+    ]
+  },
+  {
+    "id": "no-5-l-eau",
+    "name": "N°5 L'Eau EDT",
+    "brand": "CHANEL",
+    "subName": "EDT",
+    "image": "/images/products/274-no-5-l-eau-main.jpg",
+    "gender": "nu",
+    "brandSlug": "chanel",
+    "isPublished": true,
+    "tags": [
+      "Nữ",
+      "Thanh lịch",
+      "Đi làm",
+      "Hằng ngày"
+    ]
+  },
+  {
+    "id": "y-le-parfum",
+    "name": "Y Le Parfum",
+    "brand": "YVES SAINT LAURENT",
+    "subName": "Parfum",
+    "image": "/images/products/275-y-le-parfum-main.jpg",
+    "gender": "nam",
+    "brandSlug": "ysl",
+    "isPublished": true,
+    "tags": [
+      "Nam",
+      "Đa dụng",
+      "Đi làm",
+      "Hẹn hò"
+    ]
+  },
+  {
+    "id": "si-passione-edp",
+    "name": "Si Passione EDP",
+    "brand": "GIORGIO ARMANI",
+    "subName": "EDP",
+    "image": "/images/products/279-si-passione-edp-main.jpg",
+    "gender": "nu",
+    "brandSlug": "giorgio-armani",
+    "isPublished": true,
+    "tags": [
+      "Nữ",
+      "Dễ dùng",
+      "Hẹn hò",
+      "Văn phòng"
+    ]
+  },
+  {
+    "id": "acqua-di-gio-edp",
+    "name": "Acqua di Giò EDP",
+    "brand": "GIORGIO ARMANI",
+    "subName": "EDP",
+    "image": "/images/products/280-acqua-di-gio-edp-main.jpg",
+    "gender": "nam",
+    "brandSlug": "giorgio-armani",
+    "isPublished": true,
+    "tags": [
+      "Nam",
+      "Mùa hè",
+      "Đi làm",
+      "Dễ dùng"
+    ]
+  },
+  {
+    "id": "my-way-intense",
+    "name": "My Way Intense",
+    "brand": "GIORGIO ARMANI",
+    "subName": "EDP",
+    "image": "/images/products/281-my-way-intense-main.jpg",
+    "gender": "nu",
+    "brandSlug": "giorgio-armani",
+    "isPublished": true,
+    "tags": [
+      "Nữ",
+      "Hoa trắng",
+      "Hẹn hò",
+      "Đi làm"
     ]
   }
 ];
