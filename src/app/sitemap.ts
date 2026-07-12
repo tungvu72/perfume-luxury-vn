@@ -47,12 +47,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       }));
   } catch { /* bỏ qua nếu lỗi */ }
 
-  // Dynamic brand pages — /thuong-hieu/[slug]
+  // Dynamic brand detail — root-level /[brandSlug] only (canonical)
+  // Hub /thuong-hieu is listed in staticPages; do not list nested /thuong-hieu/[slug]
   let brandPages: MetadataRoute.Sitemap = [];
   try {
     const brands = await getAllBrands();
     brandPages = brands.map((b: any) => ({
-      url: `${baseUrl}/thuong-hieu/${b.slug}`,
+      url: `${baseUrl}/${b.slug}`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.6,

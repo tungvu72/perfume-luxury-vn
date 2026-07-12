@@ -204,7 +204,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               Nước hoa {product.gender === "nam" ? "nam" : product.gender === "nu" ? "nữ" : "unisex"}
             </Link>
             <span className="select-none text-gray-300">/</span>
-            <Link href={`/thuong-hieu/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="inline-flex items-center text-gray-600 font-medium hover:text-[var(--color-primary)] hover:underline transition-colors duration-200 max-w-[160px] lg:max-w-none truncate">
+            <Link href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="inline-flex items-center text-gray-600 font-medium hover:text-[var(--color-primary)] hover:underline transition-colors duration-200 max-w-[160px] lg:max-w-none truncate">
               {product.brand}
             </Link>
           </nav>
@@ -436,7 +436,7 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
               <div className="space-y-2.5 text-sm">
                 <div className="flex justify-between">
                   <span className="text-[var(--color-text-muted)]">Thương hiệu</span>
-                  <Link href={`/thuong-hieu/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="font-semibold text-[var(--color-primary)] hover:underline">{product.brand}</Link>
+                  <Link href={`/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, "-")}`} className="font-semibold text-[var(--color-primary)] hover:underline">{product.brand}</Link>
                 </div>
                 <div className="flex justify-between">
                   <span className="text-[var(--color-text-muted)]">Giới tính</span>

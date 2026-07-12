@@ -1,4 +1,34 @@
 import type { NextConfig } from "next";
+import { readFileSync } from "fs";
+import { join } from "path";
+
+/**
+ * Brand detail canonical = /[brandSlug] (owner-approved shallow URLs).
+ * Nested /thuong-hieu/[brandSlug] is legacy only → permanent redirect.
+ * Built from mockData brandSlug fields so unknown nested paths are not redirected.
+ */
+function getKnownBrandSlugs(): string[] {
+  try {
+    const mock = readFileSync(join(__dirname, "src/constants/mockData.ts"), "utf8");
+    const slugs = new Set<string>();
+    // Only explicit brandSlug fields (same SoT used by getAllBrands / getBrandBySlug)
+    for (const m of mock.matchAll(/brandSlug:\s*"([^"]+)"/g)) {
+      const slug = m[1];
+      if (slug && /^[a-z0-9]+(?:-[a-z0-9]+)*$/i.test(slug)) {
+        slugs.add(slug.toLowerCase());
+      }
+    }
+    return Array.from(slugs);
+  } catch {
+    return [];
+  }
+}
+
+const brandLegacyRedirects = getKnownBrandSlugs().map((slug) => ({
+  source: `/thuong-hieu/${slug}`,
+  destination: `/${slug}`,
+  permanent: true as const,
+}));
 
 const nextConfig: NextConfig = {
   images: {
@@ -15,6 +45,9 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       // ── Bot blocking moved to middleware.ts (runs at Edge, no quota cost) ──
+
+      // ── Legacy nested brand detail → root-level canonical /[brandSlug] ──
+      ...brandLegacyRedirects,
 
       // ── /bang-xep-hang → /nuoc-hoa-theo-nhu-cau (page replacement) ──
       { source: '/bang-xep-hang', destination: '/nuoc-hoa-theo-nhu-cau', permanent: true },

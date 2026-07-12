@@ -5,6 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "check:encoding": "node scripts/check-text-encoding.mjs",
+    "generate:search-index": "node scripts/generate-search-index.mjs",
+    "check:search-index": "node scripts/generate-search-index.mjs --check",
     "build": "npm run check:encoding && next build",
     "start": "next start",
     "lint": "eslint"
@@ -30,7 +32,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "15.1.6",
+    "eslint-config-next": "^16.1.6",
     "jsdom": "^28.1.0",
     "puppeteer-core": "^24.39.1",
     "tailwindcss": "^4",

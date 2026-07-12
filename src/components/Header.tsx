@@ -274,7 +274,7 @@ const Header = () => {
                                             {TOP_BRANDS.map(brand => (
                                                 <Link
                                                     key={brand.slug}
-                                                    href={`/thuong-hieu/${brand.slug}`}
+                                                    href={`/${brand.slug}`}
                                                     onClick={() => setIsBrandOpen(false)}
                                                     className="flex items-center gap-2 px-3 py-2.5 rounded-xl text-[11px] font-semibold normal-case tracking-normal text-gray-700 hover:bg-primary/5 hover:text-primary transition-all"
                                                 >
@@ -403,7 +403,7 @@ const Header = () => {
                                                     {designerResults.map((brand, idx) => (
                                                         <Link
                                                             key={`brand-${brand.slug}`}
-                                                            href={`/thuong-hieu/${brand.slug}`}
+                                                            href={`/${brand.slug}`}
                                                             onClick={() => { setSearchQuery(""); setIsSearchFocused(false); }}
                                                             className="flex items-center gap-3 p-1.5 -mx-1.5 rounded hover:bg-gray-50 transition-colors"
                                                         >
@@ -552,7 +552,7 @@ const Header = () => {
                                     {TOP_BRANDS.slice(0, 8).map(brand => (
                                         <Link
                                             key={brand.slug}
-                                            href={`/thuong-hieu/${brand.slug}`}
+                                            href={`/${brand.slug}`}
                                             onClick={() => setIsMenuOpen(false)}
                                             className="px-3 py-2 rounded-lg text-xs font-medium text-gray-600 hover:bg-primary/5 hover:text-primary transition-colors"
                                         >

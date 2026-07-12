@@ -452,7 +452,7 @@ export default async function Home() {
           {BRAND_SPOTLIGHT.map((brand) => (
             <Link
               key={brand.slug}
-              href={`/thuong-hieu/${brand.slug}`}
+              href={`/${brand.slug}`}
               className="group flex items-center justify-center rounded-2xl border border-[var(--color-border)] bg-white aspect-[3/2] p-5 md:p-6 hover:border-[var(--color-primary)] hover:shadow-[var(--shadow-md)] hover:-translate-y-0.5 transition-all"
             >
               <img

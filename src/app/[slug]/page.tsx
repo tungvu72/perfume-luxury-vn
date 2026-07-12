@@ -10,7 +10,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Suspense } from 'react';
 import { getPostByUrlSlug, getAllPosts } from '@/lib/dataPosts';
-import { getProductBySlug, getAllProducts, getProductsByBrand, getPublishedProducts } from '@/lib/dataFetchers';
+import { getProductBySlug, getAllProducts, getPublishedProducts } from '@/lib/dataFetchers';
 import { getProductUrl, isProductSlug } from '@/lib/productUrl';
 import { getBrandBySlug, getAllBrands } from '@/lib/dataFetchers';
 import type { Perfume } from '@/types';
@@ -19,8 +19,12 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 import RelatedProducts from '@/components/RelatedProducts';
 import RelatedArticles from '@/components/RelatedArticles';
 import Footer from '@/components/Footer';
+import BrandDetailPage, { buildBrandDetail } from '@/components/brand/BrandDetailPage';
+import { getBrandEditorial } from '@/components/brand/brandContent';
 
-export const dynamicParams = true;
+// false = unknown slugs get a real HTTP 404 (not soft-404 200 under streaming/loading.tsx).
+// All valid product / article / brand paths are emitted by generateStaticParams at build.
+export const dynamicParams = false;
 export const revalidate = 86400; // ISR: re-generate sau 24 giờ (giảm edge requests, content ít thay đổi)
 
 
@@ -72,9 +76,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         };
     }
     if (brand) {
+        const editorial = getBrandEditorial(brand.slug);
         return {
-            title: `Nước hoa ${brand.name} chính hãng — Bộ sưu tập | Maison de SON`,
-            description: `Khám phá nước hoa ${brand.name} tại Maison de SON với review, trải nghiệm thực tế, giá tham khảo và gợi ý chọn mua chính hãng cho người Việt.`,
+            title: editorial?.intro
+                ? `Nước hoa ${brand.name} | Review & Gợi ý chọn mùi 2026 | Maison de SON`
+                : `Nước hoa ${brand.name} | Maison de SON`,
+            description:
+                editorial?.intro ||
+                `Khám phá nước hoa ${brand.name} tại Maison de SON với review và gợi ý chọn mùi phù hợp cho người Việt.`,
             keywords: [brand.name, `nước hoa ${brand.name}`, `${brand.name} chính hãng`, `mua ${brand.name}`],
             alternates: { canonical: `${CANONICAL_BASE}/${brand.slug}` },
         };
@@ -93,7 +102,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
             },
         };
     }
-    return { title: 'Không tìm thấy | Maison de SON' };
+    // Should be unreachable for unknown slugs when dynamicParams=false.
+    // Keep defensive not-found metadata without a self-canonical.
+    return {
+        title: 'Không tìm thấy | Maison de SON',
+        robots: { index: false, follow: false },
+    };
 }
 
 // ─── CONSTANTS ───────────────────────────────────────────────
@@ -122,6 +136,8 @@ const CATEGORY_LABELS: Record<string, string> = {
 // ─── PRODUCT PAGE (render khi slug là sản phẩm) ──────────────
 async function ProductPage({ product, slug }: { product: Perfume; slug: string }) {
     const productUrl = getProductUrl(product);
+    // Product JSON-LD: identity only. No aggregateRating / offers unless backed by
+    // a verified live commerce or review-count source of truth (Maisondeson is catalog/content SEO).
     const jsonLd = {
         '@context': 'https://schema.org/',
         '@type': 'Product',
@@ -130,22 +146,7 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
         description: product.description,
         brand: { '@type': 'Brand', name: product.brand },
         sku: product.id,
-        aggregateRating: {
-            '@type': 'AggregateRating',
-            ratingValue: product.score.total,
-            bestRating: '10',
-            worstRating: '1',
-            ratingCount: '1200',
-        },
-        offers: {
-            '@type': 'Offer',
-            url: `${SITE_URL}${productUrl}`,
-            priceCurrency: 'VND',
-            price: product.basePrice,
-            priceValidUntil: '2026-12-31',
-            itemCondition: 'https://schema.org/NewCondition',
-            availability: 'https://schema.org/InStock',
-        },
+        url: `${SITE_URL}${productUrl}`,
     };
 
     // Breadcrumb JSON-LD 4 tầng (cho Google), UI 3 tầng (cho người dùng)
@@ -187,128 +188,11 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
     );
 }
 
-// ─── BRAND PAGE (render khi slug là thương hiệu) ─────────────
-async function BrandPage({ brand, slug }: { brand: any; slug: string }) {
-    const products = await getProductsByBrand(slug);
-    const featuredProducts = products.slice(0, 4);
-    return (
-        <main className="min-h-screen bg-[#fcfaf7] pb-20">
-            <ScrollProgress />
-            <Header />
-            <div className="max-w-[1200px] mx-auto px-5 py-10">
-                <Breadcrumbs items={[
-                    { label: 'Thương hiệu', href: '/thuong-hieu' },
-                    { label: brand.name },
-                ]} />
-
-                <section className="mt-8 overflow-hidden rounded-[32px] border border-[#eadfce] bg-white shadow-[0_20px_60px_rgba(17,17,17,0.05)]">
-                    <div className="grid gap-6 px-6 py-7 md:grid-cols-[minmax(0,1.1fr)_320px] md:px-8 md:py-9">
-                        <div>
-                            <div className="text-[11px] font-bold uppercase tracking-[0.24em] text-primary">Thương hiệu nổi bật</div>
-                            <h1 className="mt-3 text-4xl font-serif leading-tight text-[#1b120d] md:text-6xl">Nước hoa {brand.name}</h1>
-                            <p className="mt-4 max-w-3xl text-sm leading-7 text-gray-600 md:text-base">
-                                Khám phá những lựa chọn nổi bật từ <strong>{brand.name}</strong> tại Maison de SON. Đây là nơi tổng hợp review, trải nghiệm thực tế và gợi ý chọn mùi phù hợp cho người Việt — dễ hiểu, gọn và đủ để ra quyết định.
-                            </p>
-
-                            <div className="mt-5 flex flex-wrap gap-3 text-sm">
-                                <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">{products.length} sản phẩm đang có</span>
-                                <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Review chọn lọc</span>
-                                <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Gợi ý mua chính hãng</span>
-                            </div>
-                        </div>
-
-                        <div className="grid gap-3 rounded-[24px] border border-[#eadfce] bg-[#fcfaf7] p-4">
-                            <div className="rounded-2xl bg-white p-4">
-                                <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Maison de SON đọc brand này như thế nào?</div>
-                                <p className="mt-2 text-sm leading-6 text-gray-600">Ưu tiên cảm nhận thực tế, độ dễ dùng, mức độ đáng tiền và hoàn cảnh sử dụng tại Việt Nam thay vì chỉ nhìn vào độ nổi tiếng.</p>
-                            </div>
-                            <div className="rounded-2xl bg-white p-4">
-                                <div className="text-[11px] font-bold uppercase tracking-[0.16em] text-gray-500">Phù hợp cho ai</div>
-                                <p className="mt-2 text-sm leading-6 text-gray-600">Người muốn bắt đầu từ thương hiệu trước, rồi mới chọn ra chai hợp gu, hợp túi tiền và hợp hoàn cảnh dùng.</p>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-
-                {featuredProducts.length > 0 && (
-                    <section className="mt-8 mb-10">
-                        <div className="mb-5 flex flex-col gap-2 md:flex-row md:items-end md:justify-between">
-                            <div>
-                                <div className="text-[11px] font-bold uppercase tracking-[0.22em] text-primary">Lựa chọn nổi bật</div>
-                                <h2 className="mt-2 text-2xl font-serif text-[#1b120d] md:text-3xl">Những chai nên xem trước</h2>
-                            </div>
-                            <p className="text-sm text-gray-500">Bắt đầu từ các lựa chọn dễ tham khảo nhất trước khi đi sâu hơn.</p>
-                        </div>
-                        <div className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-4">
-                            {featuredProducts.map((p: Perfume) => (
-                                <Link key={p.id} href={getProductUrl(p)} className="group overflow-hidden rounded-[24px] border border-[#eadfce] bg-white p-4 shadow-[0_16px_40px_rgba(27,18,13,0.04)] transition-all hover:-translate-y-1 hover:shadow-[0_20px_50px_rgba(27,18,13,0.08)]">
-                                    <div className="relative mb-4 aspect-square overflow-hidden rounded-2xl bg-[#f7f3ee]">
-                                        <Image src={p.image} alt={p.name} fill sizes="(max-width: 1280px) 50vw, 25vw" className="object-contain p-4 group-hover:scale-105 transition-transform duration-500" />
-                                    </div>
-                                    <div className="text-[10px] font-bold uppercase tracking-[0.18em] text-primary">{p.brand}</div>
-                                    <div className="mt-2 text-base font-semibold leading-tight text-[#1b120d] group-hover:text-primary transition-colors">{p.name}</div>
-                                    <div className="mt-1 text-xs text-gray-400">{p.subName}</div>
-                                    <p className="mt-3 line-clamp-2 text-sm leading-6 text-gray-600">{p.verdictShort || p.verdict}</p>
-                                    <div className="mt-4 flex items-center justify-between text-sm">
-                                        <span className="font-semibold text-primary">★ {p.score.total}/10</span>
-                                        <span className="text-gray-400">{p.basePrice > 0 ? `${p.basePrice.toLocaleString()}đ` : 'Liên hệ'}</span>
-                                    </div>
-                                </Link>
-                            ))}
-                        </div>
-                    </section>
-                )}
-
-                <section>
-                    <div className="mb-5 flex flex-col gap-2 md:flex-row md:items-end md:justify-between">
-                        <div>
-                            <div className="text-[11px] font-bold uppercase tracking-[0.22em] text-primary">Toàn bộ sản phẩm</div>
-                            <h2 className="mt-2 text-2xl font-serif text-[#1b120d] md:text-3xl">Khám phá theo chai cụ thể</h2>
-                        </div>
-                        <p className="text-sm text-gray-500">Danh sách hiện có từ {brand.name} trên Maison de SON.</p>
-                    </div>
-
-                    <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-                        {products.map((p: Perfume) => (
-                            <Link key={p.id} href={getProductUrl(p)} className="group rounded-[24px] border border-[#eadfce] bg-white p-3 shadow-[0_12px_35px_rgba(27,18,13,0.03)] transition-all hover:-translate-y-1 hover:shadow-[0_18px_45px_rgba(27,18,13,0.08)] sm:p-4">
-                                <div className="flex items-start gap-3 sm:block">
-                                    <div className="relative h-[92px] w-[92px] flex-shrink-0 overflow-hidden rounded-2xl bg-[#F7F7F7] sm:mb-3 sm:h-auto sm:w-full sm:aspect-square">
-                                        <Image src={p.image} alt={p.name} fill sizes="(max-width: 640px) 92px, 200px" className="object-contain p-3 group-hover:scale-105 transition-transform duration-500" />
-                                    </div>
-                                    <div className="min-w-0 flex-1">
-                                        <div className="flex items-start justify-between gap-3">
-                                            <div className="min-w-0 flex-1">
-                                                <div className="text-[10px] font-bold text-primary tracking-[0.18em] uppercase leading-4">{p.brand}</div>
-                                                <div className="mt-1 text-[17px] font-semibold leading-[1.25] text-[#1b120d] transition-colors group-hover:text-primary sm:text-sm">{p.name}</div>
-                                                <div className="mt-1 text-[11px] text-gray-400 sm:text-[10px]">{p.subName}</div>
-                                            </div>
-                                            <div className="shrink-0 rounded-2xl bg-[#faf6f1] px-3 py-2 text-right sm:px-2.5 sm:py-1.5">
-                                                <div className="text-sm font-bold leading-none text-primary sm:text-xs">{p.score.total}</div>
-                                                <div className="mt-1 text-[9px] font-bold uppercase tracking-[0.12em] text-gray-400">Điểm tổng</div>
-                                            </div>
-                                        </div>
-                                        <div className="mt-3 flex items-center justify-between gap-3 border-t border-[#f1e7da] pt-3">
-                                            <span className="rounded-full bg-[#f7f2eb] px-2.5 py-1 text-[10px] font-semibold text-[#6f5a47]">
-                                                {p.gender === 'nam' ? 'Nam' : p.gender === 'nu' ? 'Nữ' : 'Unisex'}
-                                            </span>
-                                            <span className="text-[11px] font-semibold text-gray-500 sm:text-[10px]">{p.basePrice > 0 ? `${p.basePrice.toLocaleString()}đ` : 'Liên hệ'}</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </Link>
-                        ))}
-                    </div>
-                </section>
-
-                {products.length === 0 && (
-                    <div className="text-center py-20 text-gray-400">
-                        <p>Chưa có sản phẩm {brand.name}. <Link href="https://zalo.me/0961226169" className="text-primary underline">Hỏi qua Zalo →</Link></p>
-                    </div>
-                )}
-            </div>
-            <Footer />
-        </main>
-    );
+// ─── BRAND PAGE (canonical /[brandSlug] — rich template ported from nested) ──
+async function BrandPage({ brand, slug }: { brand: { name: string; slug: string }; slug: string }) {
+    const detail = buildBrandDetail(slug) || buildBrandDetail(brand.slug);
+    if (!detail) notFound();
+    return <BrandDetailPage brand={detail} />;
 }
 
 // ─── ARTICLE PAGE (render khi slug là bài viết) ──────────────

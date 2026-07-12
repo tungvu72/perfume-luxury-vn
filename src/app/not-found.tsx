@@ -1,5 +1,18 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import Header from "@/components/Header";
+
+export const metadata: Metadata = {
+    title: "Không tìm thấy | Maison de SON",
+    robots: {
+        index: false,
+        follow: false,
+        googleBot: {
+            index: false,
+            follow: false,
+        },
+    },
+};
 
 export default function NotFound() {
     return (

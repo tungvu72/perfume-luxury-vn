@@ -1,7 +1,7 @@
 // AUTO-GENERATED — do not edit manually
 // Run: node scripts/generate-search-index.mjs to regenerate
-// Lightweight search index: ~30KB vs 687KB full mockData
-// Only contains fields needed for client-side search: id, name, brand, subName, image, gender, brandSlug, tags
+// Source of truth: src/constants/mockData.ts (published products only)
+// Fields: id, name, brand, subName, image, gender, brandSlug, isPublished, tags
 
 export type SearchProduct = {
   id: string;
@@ -2578,8 +2578,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "image": "/images/products/081-philosykos-edp-main.jpg",
     "gender": "unisex",
     "brandSlug": "diptyque",
-    "isPublished": true,
-    "tags": []
+    "isPublished": true
   },
   {
     "id": "poison",
@@ -3353,8 +3352,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "image": "/images/products/080-diptyque-fleur-de-peau-main.webp",
     "gender": "unisex",
     "brandSlug": "diptyque",
-    "isPublished": true,
-    "tags": []
+    "isPublished": true
   },
   {
     "id": "dubai-musk",
@@ -3364,8 +3362,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "image": "/images/products/006-dubai-musk-main.webp",
     "gender": "unisex",
     "brandSlug": "al-ambra",
-    "isPublished": true,
-    "tags": []
+    "isPublished": true
   },
   {
     "id": "elizabeth-arden-white-tea-edt",
@@ -3947,10 +3944,16 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "name": "Valaya Exclusif",
     "brand": "PARFUMS DE MARLY",
     "subName": "Exclusif Extrait",
+    "image": "/images/products/218-parfums-de-marly-valaya-exclusif-main.jpg",
     "gender": "nu",
     "brandSlug": "parfums-de-marly",
     "isPublished": true,
-    "tags": []
+    "tags": [
+      "Nữ",
+      "Sang trọng",
+      "Hẹn hò",
+      "Exclusif"
+    ]
   },
   {
     "id": "rj-burlington-1819",
