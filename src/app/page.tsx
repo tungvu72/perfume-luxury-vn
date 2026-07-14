@@ -8,33 +8,30 @@ import HomeProductTabs from "@/components/HomeProductTabs";
 import { getProductUrl } from "@/lib/productUrl";
 import { Metadata } from "next";
 
+const HOME_TITLE = "Nước hoa cho nam, nữ và unisex | Maison de SON";
+const HOME_DESCRIPTION =
+  "Khám phá nước hoa với review thực tế cho khí hậu Việt Nam. Duyệt theo nam, nữ, unisex, thương hiệu, nhu cầu hoặc nốt hương — chọn mùi dễ hơn trước khi mua.";
+const HOME_CANONICAL = "https://www.maisondeson.com";
+
 export const metadata: Metadata = {
-  title: "Maison de SON | Kiến Thức, Review Nước Hoa & Gợi Ý Mua Chính Hãng",
-  description:
-    "Trang web chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa cho người Việt. Tìm nước hoa theo nhu cầu, chọn mùi phù hợp và tham khảo nơi mua chính hãng giá tốt.",
+  title: HOME_TITLE,
+  description: HOME_DESCRIPTION,
   alternates: {
-    canonical: "https://www.maisondeson.com/",
+    canonical: HOME_CANONICAL,
   },
   openGraph: {
-    title: "Maison de SON | Kiến Thức & Review Nước Hoa #1 Việt Nam",
-    description: "Chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa cho người Việt.",
-    url: "https://www.maisondeson.com",
+    title: HOME_TITLE,
+    description: HOME_DESCRIPTION,
+    url: HOME_CANONICAL,
     siteName: "Maison de SON",
     locale: "vi_VN",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Maison de SON | Kiến Thức & Review Nước Hoa",
-    description: "Chia sẻ kiến thức, trải nghiệm thực tế và review nước hoa cho người Việt.",
+    title: HOME_TITLE,
+    description: HOME_DESCRIPTION,
   },
-  keywords: [
-    "review nước hoa",
-    "nước hoa chính hãng",
-    "giá nước hoa",
-    "maison de son",
-    "kinh nghiệm chọn nước hoa",
-  ],
 };
 
 export const revalidate = 86400; // ISR: re-generate sau 24 giờ (giảm edge requests)
@@ -174,6 +171,17 @@ const BRAND_SPOTLIGHT = [
   },
 ];
 
+/** Crawlable discovery destinations — gender categories + hubs (natural anchors). */
+const DISCOVERY_LINKS = [
+  { href: "/nuoc-hoa-nam-chinh-hang", label: "Nước hoa nam" },
+  { href: "/nuoc-hoa-nu-chinh-hang", label: "Nước hoa nữ" },
+  { href: "/nuoc-hoa-unisex-chinh-hang", label: "Nước hoa unisex" },
+  { href: "/thuong-hieu", label: "Thương hiệu" },
+  { href: "/theo-nhu-cau", label: "Theo nhu cầu" },
+  { href: "/theo-not-huong", label: "Theo nốt hương" },
+  { href: "/kien-thuc", label: "Kiến thức" },
+];
+
 const TRUST_POINTS = [
   {
     num: "01",
@@ -235,24 +243,38 @@ export default async function Home() {
   const featuredProduct = topProducts[0];
   const gridProducts = topProducts.slice(1, 4);
 
+  // Single WebSite + Organization + WebPage (no SearchAction: no dedicated site-search URL).
   const websiteJsonLd = {
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "Maison de SON",
-    url: "https://www.maisondeson.com",
-    description: "Trang web chia sẻ kiến thức, review nước hoa cho người Việt",
-    potentialAction: {
-      "@type": "SearchAction",
-      target: "https://www.maisondeson.com/?q={search_term_string}",
-      "query-input": "required name=search_term_string",
+    url: HOME_CANONICAL,
+    description: HOME_DESCRIPTION,
+  };
+
+  const webPageJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: HOME_TITLE,
+    description: HOME_DESCRIPTION,
+    url: HOME_CANONICAL,
+    isPartOf: {
+      "@type": "WebSite",
+      name: "Maison de SON",
+      url: HOME_CANONICAL,
     },
+    about: {
+      "@type": "Thing",
+      name: "Nước hoa",
+    },
+    inLanguage: "vi-VN",
   };
 
   const orgJsonLd = {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: "Maison de SON",
-    url: "https://www.maisondeson.com",
+    url: HOME_CANONICAL,
     logo: "https://www.maisondeson.com/favicon.svg",
     contactPoint: {
       "@type": "ContactPoint",
@@ -266,6 +288,7 @@ export default async function Home() {
   return (
     <main className="min-h-screen bg-[var(--color-bg)]">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageJsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }} />
       <Header />
 
@@ -280,11 +303,20 @@ export default async function Home() {
                 Review nước hoa thực tế — dành cho người Việt
               </p>
               <h1 className="font-serif text-[34px] md:text-[52px] leading-[1.06] tracking-tight mt-3 md:mt-3.5 mb-4 md:mb-5 text-[var(--color-text)]">
-                Hiểu mùi<br className="hidden md:block" /> trước khi mua
+                Nước hoa cho từng<br className="hidden md:block" /> phong cách và hoàn cảnh
               </h1>
-              <p className="text-base md:text-[17px] leading-[1.8] text-[var(--color-text-secondary)] max-w-[52ch]">
-                Maison de SON giúp bạn chọn nước hoa dễ hơn — xem top đáng mua, đọc review thật trong khí hậu Việt Nam và nhắn Zalo khi cần tư vấn nhanh.
-              </p>
+              <div className="space-y-3 text-base md:text-[17px] leading-[1.8] text-[var(--color-text-secondary)] max-w-[54ch]">
+                <p>
+                  Maison de SON là nơi khám phá nước hoa theo cách thực tế: đọc review trong khí hậu Việt Nam,
+                  so sánh mùi và chọn hướng phù hợp trước khi mua. Catalog gồm nước hoa nam, nước hoa nữ và
+                  nước hoa unisex — từ mùi sạch dễ dùng đến các hướng có cá tính hơn.
+                </p>
+                <p>
+                  Bạn có thể bắt đầu theo giới tính, theo thương hiệu, theo nhu cầu (đi làm, hẹn hò, mùa hè)
+                  hoặc theo nốt hương quen thuộc. Không cần thuộc hết thuật ngữ — chỉ cần biết bạn muốn mùi
+                  thế nào và dùng khi nào.
+                </p>
+              </div>
               <div className="flex flex-col sm:flex-row gap-3 mt-6">
                 <Link
                   href="/nuoc-hoa-theo-nhu-cau"
@@ -299,6 +331,17 @@ export default async function Home() {
                   Đọc kiến thức cho người mới
                 </Link>
               </div>
+              <nav aria-label="Duyệt catalog nước hoa" className="mt-5 flex flex-wrap gap-2">
+                {DISCOVERY_LINKS.map((link) => (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    className="inline-flex items-center rounded-full border border-[var(--color-border)] bg-white/80 px-3 py-1.5 text-[12px] font-semibold text-[var(--color-text)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-colors"
+                  >
+                    {link.label}
+                  </Link>
+                ))}
+              </nav>
             </div>
 
             {/* Trust pills */}
