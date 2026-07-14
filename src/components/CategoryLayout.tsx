@@ -4,18 +4,29 @@ import Header from "@/components/Header";
 import Link from "next/link";
 import Image from "next/image";
 import { ChevronRight, Search, Star } from "lucide-react";
-import { useMemo, useState } from "react";
+import { useMemo, useState, type ReactNode } from "react";
 import { Perfume } from "@/types";
 import { getProductUrl } from "@/lib/productUrl";
+
+export type CategoryRelatedLink = {
+    href: string;
+    label: string;
+};
 
 export default function CategoryLayout({
     title,
     description,
+    intro,
+    relatedLinks = [],
     products,
     breadcrumbLabel,
 }: {
     title: string;
+    /** Short lead under H1 (1–2 sentences). */
     description: string;
+    /** Longer category intro (paragraphs). Optional. */
+    intro?: ReactNode;
+    relatedLinks?: CategoryRelatedLink[];
     products: Perfume[];
     breadcrumbLabel: string;
 }) {
@@ -38,19 +49,44 @@ export default function CategoryLayout({
             <Header />
 
             <div className="max-w-[1200px] mx-auto px-5 pt-6">
-                <nav className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-wider text-gray-400">
+                <nav
+                    aria-label="Breadcrumb"
+                    className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-wider text-gray-400"
+                >
                     <Link href="/" className="hover:text-primary transition-colors">
-                        Home
+                        Trang chủ
                     </Link>
                     <ChevronRight size={10} className="text-gray-300" />
                     <span className="text-gray-600 cursor-default">{breadcrumbLabel}</span>
                 </nav>
             </div>
 
-            <section className="bg-[#F9F9F9] py-12 md:py-16 border-b border-[var(--border)]">
+            <section className="bg-[#F9F9F9] py-10 md:py-14 border-b border-[var(--border)]">
                 <div className="max-w-[1200px] mx-auto px-5">
-                    <h1 className="text-3xl md:text-5xl font-serif mb-3">{title}</h1>
-                    <p className="text-sm text-gray-500 max-w-lg">{description}</p>
+                    <h1 className="text-3xl md:text-5xl font-serif mb-3 text-[#1b120d]">{title}</h1>
+                    <p className="text-sm md:text-[15px] text-gray-600 max-w-2xl leading-relaxed">
+                        {description}
+                    </p>
+
+                    {intro ? (
+                        <div className="mt-5 max-w-2xl space-y-3 text-[14px] md:text-[15px] text-gray-600 leading-[1.8]">
+                            {intro}
+                        </div>
+                    ) : null}
+
+                    {relatedLinks.length > 0 ? (
+                        <div className="mt-6 flex flex-wrap gap-2">
+                            {relatedLinks.map((link) => (
+                                <Link
+                                    key={link.href + link.label}
+                                    href={link.href}
+                                    className="inline-flex items-center rounded-full border border-[#e8e0d4] bg-white px-3.5 py-1.5 text-[12px] font-semibold text-gray-700 hover:border-primary/40 hover:text-primary transition-colors"
+                                >
+                                    {link.label}
+                                </Link>
+                            ))}
+                        </div>
+                    ) : null}
                 </div>
             </section>
 
@@ -106,7 +142,9 @@ export default function CategoryLayout({
                                     </h3>
                                     <p className="nhucau-card-brand">{product.brand}</p>
                                     <div className="nhucau-card-meta">
-                                        <span className="nhucau-card-year">{(product as Perfume & { year?: number }).year || "—"}</span>
+                                        <span className="nhucau-card-year">
+                                            {(product as Perfume & { year?: number }).year || "—"}
+                                        </span>
                                         <span className="nhucau-card-score">
                                             <Star size={12} fill="#0D7377" stroke="#0D7377" />
                                             {product.score.total}
