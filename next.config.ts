@@ -93,7 +93,27 @@ const nextConfig: NextConfig = {
       { source: '/nuoc-hoa-nam-lalique-encre-noire', destination: '/nuoc-hoa-nam-lalique-lalique-encre-noir-edt', permanent: true },
       { source: '/nuoc-hoa-nu-narciso-rodriguez-for-her-edp', destination: '/nuoc-hoa-nu-narciso-rodriguez-narciso-rodriguez-for-her-eau-de-parfum', permanent: true },
       { source: '/nuoc-hoa-nu-giorgio-armani-my-way', destination: '/nuoc-hoa-nu-giorgio-armani-my-way-edp', permanent: true },
-      { source: '/nuoc-hoa-nam-ysl-y-edp', destination: '/nuoc-hoa-nam-yves-saint-laurent-ysl-y-eau-de-parfum', permanent: true },
+      // YSL brand entity: canonical /ysl (see brandCanonical.ts)
+      { source: '/yves-saint-laurent', destination: '/ysl', permanent: true },
+      { source: '/thuong-hieu/yves-saint-laurent', destination: '/ysl', permanent: true },
+      // Legacy product URLs that used brandSlug yves-saint-laurent → canonical ysl segment
+      {
+        source: '/nuoc-hoa-nu-yves-saint-laurent-ysl-black-opium-glitter-edp',
+        destination: '/nuoc-hoa-nu-ysl-ysl-black-opium-glitter-edp',
+        permanent: true,
+      },
+      {
+        source: '/nuoc-hoa-nu-yves-saint-laurent-ysl-libre-intense-edp',
+        destination: '/nuoc-hoa-nu-ysl-ysl-libre-intense-edp',
+        permanent: true,
+      },
+      {
+        source: '/nuoc-hoa-nam-yves-saint-laurent-ysl-y-eau-de-parfum',
+        destination: '/nuoc-hoa-nam-ysl-ysl-y-eau-de-parfum',
+        permanent: true,
+      },
+      // Short legacy Y EDP slug → canonical product URL under /ysl brand segment
+      { source: '/nuoc-hoa-nam-ysl-y-edp', destination: '/nuoc-hoa-nam-ysl-ysl-y-eau-de-parfum', permanent: true },
       { source: '/nuoc-hoa-nu-carolina-herrera-good-girl-carolina', destination: '/nuoc-hoa-nu-carolina-herrera-good-girl', permanent: true },
 
       // ── Duplicate merge redirects round 2 (2026-04-11) ──

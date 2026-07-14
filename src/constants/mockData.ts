@@ -17420,8 +17420,8 @@ Xuân hè, ban ngày, đi làm, thể thao nhẹ, dạo phố. Xịt 3-4 nhát. 
 },
   {
     id: "ysl-black-opium-glitter-edp",
-    brand: "YSL",
-    brandSlug: "yves-saint-laurent",
+    brand: "YVES SAINT LAURENT",
+    brandSlug: "ysl",
     name: "Black Opium Glitter",
     subName: "EDP",
     perfumer: "Marie Salamagne",
@@ -17490,8 +17490,8 @@ Chai này dùng đẹp nhất vào mùa đông và mùa thu, phù hợp buổi t
 },
   {
     id: "ysl-libre-intense-edp",
-    brand: "YSL",
-    brandSlug: "yves-saint-laurent",
+    brand: "YVES SAINT LAURENT",
+    brandSlug: "ysl",
     name: "Libre Intense EDP",
     subName: "EDP",
     perfumer: "Anne Flipo, Carlos Benaim",
@@ -17564,8 +17564,8 @@ Chai này dùng đẹp nhất vào mùa thu và mùa đông, phù hợp buổi t
 },
   {
     id: "ysl-y-eau-de-parfum",
-    brand: "YSL",
-    brandSlug: "yves-saint-laurent",
+    brand: "YVES SAINT LAURENT",
+    brandSlug: "ysl",
     name: "Y EDP",
     subName: "EDP",
     perfumer: "Dominique Ropion",

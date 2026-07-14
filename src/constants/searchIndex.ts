@@ -4126,11 +4126,11 @@ export const SEARCH_INDEX: SearchProduct[] = [
   {
     "id": "ysl-black-opium-glitter-edp",
     "name": "Black Opium Glitter",
-    "brand": "YSL",
+    "brand": "YVES SAINT LAURENT",
     "subName": "EDP",
     "image": "/images/products/255-ysl-black-opium-glitter-edp-main.jpg",
     "gender": "nu",
-    "brandSlug": "yves-saint-laurent",
+    "brandSlug": "ysl",
     "isPublished": true,
     "tags": [
       "Nữ",
@@ -4140,11 +4140,11 @@ export const SEARCH_INDEX: SearchProduct[] = [
   {
     "id": "ysl-libre-intense-edp",
     "name": "Libre Intense EDP",
-    "brand": "YSL",
+    "brand": "YVES SAINT LAURENT",
     "subName": "EDP",
     "image": "/images/products/256-ysl-libre-intense-edp-main.jpg",
     "gender": "nu",
-    "brandSlug": "yves-saint-laurent",
+    "brandSlug": "ysl",
     "isPublished": true,
     "tags": [
       "Nữ",
@@ -4154,11 +4154,11 @@ export const SEARCH_INDEX: SearchProduct[] = [
   {
     "id": "ysl-y-eau-de-parfum",
     "name": "Y EDP",
-    "brand": "YSL",
+    "brand": "YVES SAINT LAURENT",
     "subName": "EDP",
     "image": "/images/products/257-ysl-y-eau-de-parfum-main.jpg",
     "gender": "nam",
-    "brandSlug": "yves-saint-laurent",
+    "brandSlug": "ysl",
     "isPublished": true,
     "tags": [
       "Nam",

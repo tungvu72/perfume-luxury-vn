@@ -3,6 +3,12 @@ import type { Perfume } from '@/types'
 import { cache } from 'react'
 import { filterValidProducts } from '@/lib/productValidation'
 import { findProductByNewSlug, isProductSlug } from '@/lib/productUrl'
+import {
+    brandSlugsMatch,
+    getCanonicalBrandDisplayName,
+    getCanonicalBrandSlug,
+    resolveBrandSlug,
+} from '@/lib/brandCanonical'
 
 // ─── DATA LAYER ─────────────────────────────────────────────────────────────
 // Sanity CMS not configured — all functions return local mockData directly.
@@ -32,10 +38,11 @@ export const getProductsByGender = cache(async (gender: string): Promise<Perfume
 })
 
 export const getProductsByBrand = cache(async (brandSlug: string): Promise<Perfume[]> => {
+    const canonical = resolveBrandSlug(brandSlug);
     return filterValidProducts(
         MASTER_PERFUMES.filter(p =>
             p.isPublished === true &&
-            (p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-')) === brandSlug
+            brandSlugsMatch(getCanonicalBrandSlug(p), canonical)
         )
     );
 })
@@ -67,12 +74,13 @@ export const getRelatedProducts = cache(async (currentSlug: string, brandName: s
 export const getAllBrands = cache(async () => {
     const brandMap = new Map<string, any>();
     MASTER_PERFUMES.filter(p => p.isPublished === true).forEach(p => {
-        const slug = p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, '-');
+        const slug = getCanonicalBrandSlug(p);
+        const name = getCanonicalBrandDisplayName(p);
         const existing = brandMap.get(slug);
         if (existing) {
             existing.productCount += 1;
         } else {
-            brandMap.set(slug, { _id: slug, name: p.brand, slug, productCount: 1 });
+            brandMap.set(slug, { _id: slug, name, slug, productCount: 1 });
         }
     });
     return Array.from(brandMap.values());
@@ -80,5 +88,6 @@ export const getAllBrands = cache(async () => {
 
 export const getBrandBySlug = cache(async (slug: string) => {
     const brands = await getAllBrands();
-    return brands.find((b: any) => b.slug === slug) || null;
+    const canonical = resolveBrandSlug(slug);
+    return brands.find((b: any) => b.slug === canonical) || null;
 })
