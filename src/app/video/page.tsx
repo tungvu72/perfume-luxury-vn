@@ -5,17 +5,20 @@ import Link from "next/link";
 import Image from "next/image";
 import { Play } from "lucide-react";
 
+import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+
+const CORE = getCommercialCoreSeo("/video")!;
+
 export const metadata: Metadata = {
-  title: "Video nước hoa: unboxing, trải nghiệm và hướng dẫn",
-  description:
-    "Xem video unboxing, chi tiết chai và các nội dung hướng dẫn sử dụng nước hoa; phù hợp khi bạn muốn quan sát sản phẩm trước khi đọc sâu.",
+  title: CORE.title,
+  description: CORE.description,
   alternates: {
-    canonical: "https://www.maisondeson.com/video",
+    canonical: CORE.canonical,
   },
   openGraph: {
-    title: "Video nước hoa: unboxing, trải nghiệm và hướng dẫn",
-    description:
-      "Xem video unboxing, chi tiết chai và các nội dung hướng dẫn sử dụng nước hoa; phù hợp khi bạn muốn quan sát sản phẩm trước khi đọc sâu.",
+    title: CORE.title,
+    description: CORE.description,
+    url: CORE.canonical,
   },
 };
 
@@ -165,7 +168,7 @@ export default function VideoPage() {
       <section className="bg-[#0D0D0E] text-white">
         <div className="mx-auto max-w-[1200px] px-4 py-10 text-center sm:py-14">
           <h1 className="text-3xl font-serif sm:text-4xl md:text-5xl">
-            Video nước hoa
+            {CORE.h1}
           </h1>
           <p className="mx-auto mt-3 max-w-2xl text-sm leading-relaxed text-white/70 sm:text-base">
             Unboxing, chiết và review — xem thực tế trước khi chọn mùi.

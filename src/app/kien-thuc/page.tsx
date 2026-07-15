@@ -7,17 +7,20 @@ import Link from "next/link";
 import Image from "next/image";
 import { getProductUrl } from "@/lib/productUrl";
 
+import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+
+const CORE = getCommercialCoreSeo("/kien-thuc")!;
+
 export const metadata: Metadata = {
-  title: "Kiến thức nước hoa: chọn mùi, dùng đúng và tránh mua sai",
-  description:
-    "Tìm hướng dẫn về nồng độ, cách xịt, chọn mùi theo hoàn cảnh và phân tích từng sản phẩm để hiểu nước hoa trước khi đưa ra quyết định.",
+  title: CORE.title,
+  description: CORE.description,
   alternates: {
-    canonical: "https://www.maisondeson.com/kien-thuc",
+    canonical: CORE.canonical,
   },
   openGraph: {
-    title: "Kiến thức nước hoa: chọn mùi, dùng đúng và tránh mua sai",
-    description:
-      "Tìm hướng dẫn về nồng độ, cách xịt, chọn mùi theo hoàn cảnh và phân tích từng sản phẩm để hiểu nước hoa trước khi đưa ra quyết định.",
+    title: CORE.title,
+    description: CORE.description,
+    url: CORE.canonical,
   },
 };
 
@@ -66,7 +69,7 @@ export default async function KienThucPage() {
       {/* ═══════ HERO SECTION (Teal/Dark Background) ═══════ */}
       <section className="bg-[var(--color-primary)] text-white">
         <div className="mx-auto max-w-[1200px] px-4 py-10 text-center sm:py-14 md:py-16">
-          <h1 className="text-3xl font-serif sm:text-4xl md:text-5xl">Kiến thức nước hoa</h1>
+          <h1 className="text-3xl font-serif sm:text-4xl md:text-5xl">{CORE.h1}</h1>
           <p className="mx-auto mt-3 max-w-2xl text-sm leading-relaxed text-white/80 sm:text-base">
             Đọc trước khi mua — review thật, hướng dẫn rõ, viết cho người Việt phổ thông.
           </p>

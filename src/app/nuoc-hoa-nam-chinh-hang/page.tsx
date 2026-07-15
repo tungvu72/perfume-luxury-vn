@@ -2,14 +2,15 @@ import CategoryLayout from "@/components/CategoryLayout";
 import { Metadata } from "next";
 import { getProductsByGender } from "@/lib/dataFetchers";
 import { buildGenderCategoryJsonLd } from "@/lib/categorySeo";
+import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
 import "../nuoc-hoa-theo-nhu-cau/nhucau.css";
 
 const PATH = "/nuoc-hoa-nam-chinh-hang";
-const H1 = "Nước hoa nam";
-const PAGE_TITLE = "Nước hoa nam: chọn mùi theo gu và hoàn cảnh | Maison de Son";
-const META_DESCRIPTION =
-    "Khám phá nước hoa nam từ nhóm sạch, tươi dễ dùng đến gỗ–cay đậm hơn. Lọc theo nốt hương và hoàn cảnh để tìm chai hợp nhịp sống.";
-const CANONICAL = "https://www.maisondeson.com/nuoc-hoa-nam-chinh-hang";
+const CORE = getCommercialCoreSeo(PATH)!;
+const H1 = CORE.h1;
+const PAGE_TITLE = CORE.title;
+const META_DESCRIPTION = CORE.description;
+const CANONICAL = CORE.canonical;
 
 export const metadata: Metadata = {
     title: PAGE_TITLE,

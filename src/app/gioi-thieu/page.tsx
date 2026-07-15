@@ -5,16 +5,20 @@ import Link from "next/link";
 import { ShieldCheck, Star, Users, Database, Sparkles, Heart } from "lucide-react";
 import { Metadata } from "next";
 
+import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+
+const CORE = getCommercialCoreSeo("/gioi-thieu")!;
+
 export const metadata: Metadata = {
-    title: "Về Maison de Son: cách chúng tôi xây dựng nội dung nước hoa",
-    description: "Maison de Son là thư viện review và kiến thức nước hoa, giúp người đọc so sánh mùi, hiểu nhu cầu và thu hẹp lựa chọn trước khi mua.",
+    title: CORE.title,
+    description: CORE.description,
     alternates: {
-        canonical: "https://www.maisondeson.com/gioi-thieu",
+        canonical: CORE.canonical,
     },
     openGraph: {
-        title: "Về Maison de Son: cách chúng tôi xây dựng nội dung nước hoa",
-        description: "Maison de Son là thư viện review và kiến thức nước hoa, giúp người đọc so sánh mùi, hiểu nhu cầu và thu hẹp lựa chọn trước khi mua.",
-        url: "https://www.maisondeson.com/gioi-thieu",
+        title: CORE.title,
+        description: CORE.description,
+        url: CORE.canonical,
     },
 };
 
@@ -35,7 +39,7 @@ export default function AboutPage() {
                 <div className="relative z-10 text-center px-5 max-w-4xl">
                     <div className="text-primary font-bold tracking-[6px] uppercase text-xs mb-4">Since 2026</div>
                     <h1 className="text-4xl md:text-7xl font-serif text-white mb-6 leading-tight">
-                        Về Maison de Son
+                        {CORE.h1}
                     </h1>
                     <p className="text-gray-300 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
                         Maison de SON không chỉ là một website, đó là hành trình tìm kiếm sự thật đằng sau những nốt hương hoa mỹ.

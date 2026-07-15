@@ -3,17 +3,20 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import Link from "next/link";
 import { Metadata } from "next";
 
+import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+
+const CORE = getCommercialCoreSeo("/theo-nhu-cau")!;
+
 export const metadata: Metadata = {
-  title: "Chọn nước hoa theo hoàn cảnh: đi làm, hẹn hò, mùa hè",
-  description:
-    "Bắt đầu từ hoàn cảnh bạn thường dùng nước hoa — đi làm, hẹn hò, thời tiết nóng hay dùng hằng ngày — rồi thu hẹp theo phong cách mùi.",
+  title: CORE.title,
+  description: CORE.description,
   alternates: {
-    canonical: "https://www.maisondeson.com/theo-nhu-cau",
+    canonical: CORE.canonical,
   },
   openGraph: {
-    title: "Chọn nước hoa theo hoàn cảnh: đi làm, hẹn hò, mùa hè",
-    description:
-      "Bắt đầu từ hoàn cảnh bạn thường dùng nước hoa — đi làm, hẹn hò, thời tiết nóng hay dùng hằng ngày — rồi thu hẹp theo phong cách mùi.",
+    title: CORE.title,
+    description: CORE.description,
+    url: CORE.canonical,
   },
 };
 
@@ -66,7 +69,7 @@ export default function UseCaseFinderPage() {
           <div className="overflow-hidden rounded-[32px] border border-[#eadfce] bg-white px-6 py-8 shadow-[0_20px_60px_rgba(27,18,13,0.05)] md:px-8 md:py-10">
             <Breadcrumbs items={[{ label: "Theo nhu cầu" }]} />
             <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.28em] text-primary">Chọn theo nhu cầu</p>
-            <h1 className="text-3xl md:text-5xl font-serif mb-4 leading-tight">Chọn nước hoa theo nhu cầu thực tế</h1>
+            <h1 className="text-3xl md:text-5xl font-serif mb-4 leading-tight">{CORE.h1}</h1>
             <p className="max-w-3xl text-sm leading-7 text-gray-600 md:text-base">
               Nếu bạn chưa nhớ tên chai nào, cũng không chắc mình thích note nào, hãy bắt đầu từ hoàn cảnh dùng thật. Đây là cách Maison de SON Việt hóa tinh thần perfume finder để người xem chọn nhanh hơn và đỡ mơ hồ hơn.
             </p>

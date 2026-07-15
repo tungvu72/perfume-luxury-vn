@@ -7,11 +7,13 @@ import { getAllPosts } from "@/lib/dataPosts";
 import HomeProductTabs from "@/components/HomeProductTabs";
 import { getProductUrl } from "@/lib/productUrl";
 import { Metadata } from "next";
+import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
 
-const HOME_TITLE = "Nước hoa: review và cách chọn mùi hợp gu | Maison de Son";
-const HOME_DESCRIPTION =
-  "Khám phá review nước hoa nam, nữ và unisex; so sánh theo thương hiệu, nốt hương và hoàn cảnh để thu hẹp lựa chọn trước khi mua.";
-const HOME_CANONICAL = "https://www.maisondeson.com";
+const CORE = getCommercialCoreSeo("/")!;
+const HOME_TITLE = CORE.title;
+const HOME_DESCRIPTION = CORE.description;
+const HOME_CANONICAL = CORE.canonical;
+const HOME_H1 = CORE.h1;
 
 export const metadata: Metadata = {
   title: HOME_TITLE,
@@ -303,7 +305,7 @@ export default async function Home() {
                 Review nước hoa thực tế — dành cho người Việt
               </p>
               <h1 className="font-serif text-[34px] md:text-[52px] leading-[1.06] tracking-tight mt-3 md:mt-3.5 mb-4 md:mb-5 text-[var(--color-text)]">
-                Tìm nước hoa hợp gu, không mua theo cảm tính
+                {HOME_H1}
               </h1>
               <div className="space-y-3 text-base md:text-[17px] leading-[1.8] text-[var(--color-text-secondary)] max-w-[54ch]">
                 <p>
