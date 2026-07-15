@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
 
 import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+import { AuthorEditorialStandards } from "@/components/commercial/CommercialTrustSections";
 
 const CORE = getCommercialCoreSeo("/tac-gia")!;
 
@@ -27,8 +28,8 @@ const AUTHORS = [
         name: "Maison de SON Editorial",
         role: "Biên tập viên",
         avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200&h=200",
-        bio: "Đội ngũ biên tập Maison de SON — gồm những người đam mê nước hoa với kinh nghiệm test hàng trăm chai từ Designer đến Niche. Chúng tôi không nhận tài trợ từ nhãn hàng, mọi đánh giá đều độc lập và trung thực.",
-        expertise: ["Đánh giá sản phẩm", "Hướng dẫn mua", "Nước hoa niche", "Thị trường VN"],
+        bio: "Đội ngũ biên tập Maison de SON — tập trung review và hướng dẫn chọn nước hoa cho người Việt. Nội dung dựa trên nguồn đã kiểm chứng và phân tích biên tập; không tự nhận đã test cá nhân toàn bộ catalog.",
+        expertise: ["Review sản phẩm", "Hướng dẫn mua", "Giá tham khảo", "Minh bạch affiliate"],
         articleCount: 33,
         zalo: "https://zalo.me/0961226169",
         since: "2026",
@@ -103,28 +104,7 @@ export default function AuthorIndexPage() {
                 </div>
             </section>
 
-            {/* WHY TRUST US */}
-            <section className="bg-[#FAFAFA] border-t border-[var(--border)] py-14">
-                <div className="max-w-[800px] mx-auto px-5 text-center">
-                    <h2 className="text-2xl font-serif font-bold mb-4">Tại sao tin tưởng chúng tôi?</h2>
-                    <p className="text-sm text-gray-500 mb-8 leading-relaxed">
-                        Maison de SON hoạt động theo nguyên tắc độc lập — không nhận tài trợ từ hãng nước hoa,
-                        không mua review ảo. Mọi đánh giá đều dựa trên trải nghiệm thực tế và số liệu từ cộng đồng Fragrantica.
-                    </p>
-                    <div className="grid grid-cols-3 gap-6 text-center">
-                        {[
-                            { number: "33+", label: "Bài đánh giá\nđã đăng" },
-                            { number: "100%", label: "Độc lập,\nkhông nhận tài trợ" },
-                            { number: "2+", label: "Nguồn verify\nmỗi số liệu" },
-                        ].map(stat => (
-                            <div key={stat.label}>
-                                <div className="text-3xl font-serif font-bold text-primary mb-1">{stat.number}</div>
-                                <div className="text-[11px] text-gray-400 whitespace-pre-line">{stat.label}</div>
-                            </div>
-                        ))}
-                    </div>
-                </div>
-            </section>
+            <AuthorEditorialStandards />
         </main>
     );
 }

@@ -5,6 +5,7 @@ import Link from "next/link";
 
 import { Metadata } from "next";
 import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+import { DiscoveryHubCommercialNote } from "@/components/commercial/CommercialTrustSections";
 
 const CORE = getCommercialCoreSeo("/thuong-hieu")!;
 
@@ -84,6 +85,8 @@ export default async function BrandsIndexPage() {
                     </div>
                 </div>
             </section>
+
+            <DiscoveryHubCommercialNote role="brands" />
 
             {/* ALPHABET QUICK NAV */}
             <section className="sticky top-[72px] z-40 border-b border-[var(--border)] bg-white/90 backdrop-blur-md">

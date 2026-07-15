@@ -4,6 +4,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+import { DiscoveryHubCommercialNote } from "@/components/commercial/CommercialTrustSections";
 
 const CORE = getCommercialCoreSeo("/theo-not-huong")!;
 
@@ -66,6 +67,8 @@ export default function NotesPage() {
           </div>
         </div>
       </section>
+
+      <DiscoveryHubCommercialNote role="notes" />
 
       <section className="max-w-[1200px] mx-auto px-5 py-8 md:py-10">
         <div className="grid gap-5 md:grid-cols-2">

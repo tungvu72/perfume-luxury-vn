@@ -4,6 +4,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+import { DiscoveryHubCommercialNote } from "@/components/commercial/CommercialTrustSections";
 
 const CORE = getCommercialCoreSeo("/theo-nhu-cau")!;
 
@@ -53,9 +54,15 @@ const useCases = [
   },
   {
     title: "Theo tầm giá",
-    description: "Nếu ngân sách là thứ bạn cần chốt trước, hãy tìm nước hoa theo nhu cầu để lọc nhanh theo mức giá phù hợp.",
+    description: "Nếu ngân sách là thứ bạn cần chốt trước, hãy sang bộ lọc sản phẩm để thu hẹp theo tầm giá tham khảo trước khi đọc review.",
     href: "/nuoc-hoa-theo-nhu-cau",
     chips: ["Dưới 2.5tr", "2.5–5tr", "5tr+"],
+  },
+  {
+    title: "Sự kiện & dịp đặc biệt",
+    description: "Khi cần mùi có dấu ấn hơn cho tiệc, ra mắt hay dịp quan trọng — ưu tiên chiều sâu và khoảng cách gần, rồi kiểm tra nguồn mua cẩn thận.",
+    href: "/nuoc-hoa-theo-nhu-cau",
+    chips: ["Ấn tượng", "Buổi tối", "Chững chạc"],
   },
 ];
 
@@ -67,20 +74,23 @@ export default function UseCaseFinderPage() {
       <section className="border-b border-[var(--border)] bg-[#faf8f6] py-10 md:py-14">
         <div className="mx-auto max-w-[1200px] px-5">
           <div className="overflow-hidden rounded-[32px] border border-[#eadfce] bg-white px-6 py-8 shadow-[0_20px_60px_rgba(27,18,13,0.05)] md:px-8 md:py-10">
-            <Breadcrumbs items={[{ label: "Theo nhu cầu" }]} />
-            <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.28em] text-primary">Chọn theo nhu cầu</p>
+            <Breadcrumbs items={[{ label: "Theo hoàn cảnh" }]} />
+            <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.28em] text-primary">Hub biên tập theo hoàn cảnh</p>
             <h1 className="text-3xl md:text-5xl font-serif mb-4 leading-tight">{CORE.h1}</h1>
             <p className="max-w-3xl text-sm leading-7 text-gray-600 md:text-base">
-              Nếu bạn chưa nhớ tên chai nào, cũng không chắc mình thích note nào, hãy bắt đầu từ hoàn cảnh dùng thật. Đây là cách Maison de SON Việt hóa tinh thần perfume finder để người xem chọn nhanh hơn và đỡ mơ hồ hơn.
+              Bắt đầu từ tình huống dùng thật — đi làm, hẹn hò, mùa hè, dùng hằng ngày, sự kiện hoặc ngân sách —
+              rồi chuyển sang bộ lọc sản phẩm hoặc review chai. Trang này không thay thế công cụ lọc đa tiêu chí.
             </p>
             <div className="mt-5 flex flex-wrap gap-3 text-sm">
-              <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Đi từ nhu cầu thật</span>
-              <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Phù hợp người mới lẫn người đã biết gu</span>
-              <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Tìm nhanh theo hoàn cảnh</span>
+              <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Đi làm · hẹn hò · mùa hè</span>
+              <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Dùng hằng ngày · sự kiện</span>
+              <span className="rounded-full bg-[#f7f2eb] px-4 py-2 font-semibold text-[#4b3b30]">Ngân sách tham khảo</span>
             </div>
           </div>
         </div>
       </section>
+
+      <DiscoveryHubCommercialNote role="occasion" />
 
       <section className="mx-auto max-w-[1200px] px-5 py-8 md:py-10">
         <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">

@@ -8,6 +8,7 @@ import Image from "next/image";
 import { getProductUrl } from "@/lib/productUrl";
 
 import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+import { KnowledgeHubCommercialNav } from "@/components/commercial/CommercialTrustSections";
 
 const CORE = getCommercialCoreSeo("/kien-thuc")!;
 
@@ -75,6 +76,8 @@ export default async function KienThucPage() {
           </p>
         </div>
       </section>
+
+      <KnowledgeHubCommercialNav />
 
       {/* ═══════ FILTER TABS ═══════ */}
       <div className="border-b border-[var(--color-border)] bg-[var(--color-surface)]">

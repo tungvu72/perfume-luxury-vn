@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import { getProductsByGender } from "@/lib/dataFetchers";
 import { buildGenderCategoryJsonLd } from "@/lib/categorySeo";
 import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+import { CategoryCommercialGuide } from "@/components/commercial/CommercialTrustSections";
 import "../nuoc-hoa-theo-nhu-cau/nhucau.css";
 
 const PATH = "/nuoc-hoa-nu-chinh-hang";
@@ -67,10 +68,12 @@ export default async function NuGioiPage() {
                 }
                 relatedLinks={[
                     { href: "/theo-not-huong", label: "Theo nốt hương" },
-                    { href: "/theo-nhu-cau", label: "Chọn theo nhu cầu" },
+                    { href: "/theo-nhu-cau", label: "Theo hoàn cảnh" },
+                    { href: "/nuoc-hoa-theo-nhu-cau", label: "Lọc theo nhu cầu" },
                     { href: "/kien-thuc", label: "Kiến thức nước hoa" },
                     { href: "/nuoc-hoa-nam-chinh-hang", label: "Nước hoa nam" },
                 ]}
+                commercialSections={<CategoryCommercialGuide gender="nu" />}
                 products={products}
             />
         </>

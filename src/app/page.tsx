@@ -8,6 +8,7 @@ import HomeProductTabs from "@/components/HomeProductTabs";
 import { getProductUrl } from "@/lib/productUrl";
 import { Metadata } from "next";
 import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+import { HomepageCommercialTrust } from "@/components/commercial/CommercialTrustSections";
 
 const CORE = getCommercialCoreSeo("/")!;
 const HOME_TITLE = CORE.title;
@@ -179,7 +180,8 @@ const DISCOVERY_LINKS = [
   { href: "/nuoc-hoa-nu-chinh-hang", label: "Nước hoa nữ" },
   { href: "/nuoc-hoa-unisex-chinh-hang", label: "Nước hoa unisex" },
   { href: "/thuong-hieu", label: "Thương hiệu" },
-  { href: "/theo-nhu-cau", label: "Theo nhu cầu" },
+  { href: "/theo-nhu-cau", label: "Theo hoàn cảnh" },
+  { href: "/nuoc-hoa-theo-nhu-cau", label: "Lọc theo nhu cầu" },
   { href: "/theo-not-huong", label: "Theo nốt hương" },
   { href: "/kien-thuc", label: "Kiến thức" },
 ];
@@ -383,6 +385,8 @@ export default async function Home() {
 
         </div>
       </section>
+
+      <HomepageCommercialTrust />
 
       <div className="mx-auto max-w-[1280px] px-4 md:px-8"><hr className="border-t border-[var(--color-border-subtle)] mt-8" /></div>
 

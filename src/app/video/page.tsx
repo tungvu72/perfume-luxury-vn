@@ -6,6 +6,7 @@ import Image from "next/image";
 import { Play } from "lucide-react";
 
 import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+import { VideoMethodologyBlock } from "@/components/commercial/CommercialTrustSections";
 
 const CORE = getCommercialCoreSeo("/video")!;
 
@@ -225,6 +226,8 @@ export default function VideoPage() {
           </div>
         </section>
       )}
+
+      <VideoMethodologyBlock />
 
       <Footer />
     </main>

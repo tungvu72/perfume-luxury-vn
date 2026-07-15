@@ -6,6 +6,7 @@ import { ShieldCheck, Star, Users, Database, Sparkles, Heart } from "lucide-reac
 import { Metadata } from "next";
 
 import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+import { AboutPolicyAnchors } from "@/components/commercial/CommercialTrustSections";
 
 const CORE = getCommercialCoreSeo("/gioi-thieu")!;
 
@@ -131,24 +132,62 @@ export default function AboutPage() {
                 </div>
             </section>
 
+            {/* COMMERCIAL POLICY ANCHORS — visible without JS interaction */}
+            <section className="bg-[#F9F9F9] py-16 px-5">
+                <div className="max-w-[1200px] mx-auto">
+                    <div className="mb-8 max-w-3xl">
+                        <span className="text-primary font-bold tracking-[4px] uppercase text-[10px] block mb-3">
+                            Chính sách thương mại & biên tập
+                        </span>
+                        <h2 className="text-3xl md:text-4xl font-serif">
+                            Tiêu chuẩn, giá tham khảo, affiliate và chỉnh sửa
+                        </h2>
+                        <p className="mt-3 text-gray-500 leading-relaxed">
+                            Maison de Son không phải cửa hàng hay đại lý chính hãng. Các mục dưới đây giải thích
+                            cách chúng tôi viết review, nói về giá và công bố quan hệ đối tác — có neo liên kết ổn định để chia sẻ.
+                        </p>
+                        <nav className="mt-5 flex flex-wrap gap-2 text-sm" aria-label="Neo chính sách">
+                            <a href="#tieu-chuan-bien-tap" className="rounded-full border border-[#decfbd] bg-white px-3 py-1.5 font-semibold text-[#4b3b30] hover:border-primary/40">
+                                #tieu-chuan-bien-tap
+                            </a>
+                            <a href="#gia-tham-khao" className="rounded-full border border-[#decfbd] bg-white px-3 py-1.5 font-semibold text-[#4b3b30] hover:border-primary/40">
+                                #gia-tham-khao
+                            </a>
+                            <a href="#minh-bach-affiliate" className="rounded-full border border-[#decfbd] bg-white px-3 py-1.5 font-semibold text-[#4b3b30] hover:border-primary/40">
+                                #minh-bach-affiliate
+                            </a>
+                            <a href="#chinh-sach-chinh-sua" className="rounded-full border border-[#decfbd] bg-white px-3 py-1.5 font-semibold text-[#4b3b30] hover:border-primary/40">
+                                #chinh-sach-chinh-sua
+                            </a>
+                        </nav>
+                    </div>
+                    <AboutPolicyAnchors />
+                </div>
+            </section>
+
             {/* TRUST SECTION */}
-            <section className="py-32 px-5 text-center bg-[#F9F9F9]">
+            <section className="py-24 px-5 text-center bg-white">
                 <div className="max-w-2xl mx-auto">
                     <Sparkles className="mx-auto text-primary mb-8" size={48} />
-                    <h2 className="text-3xl md:text-5xl font-serif mb-8 italic">"Chúng tôi không bán nước hoa, <br /> chúng tôi bán sự thông thái khi chọn hương."</h2>
+                    <h2 className="text-3xl md:text-5xl font-serif mb-8 italic">"Chúng tôi không bán nước hoa, <br /> chúng tôi giúp bạn chọn sáng suốt hơn."</h2>
                     <p className="text-gray-500 text-lg mb-12">
-                        Đội ngũ Maison de SON tin rằng mỗi mùi hương là một chữ ký cá nhân. Hãy để chúng tôi giúp bạn tìm thấy dấu ấn riêng của mình bằng kiến thức rõ ràng và trải nghiệm thực tế dễ áp dụng.
+                        Đội ngũ Maison de SON tin rằng mỗi mùi hương là một chữ ký cá nhân. Hãy dùng review, tiêu chí nguồn mua
+                        và giá tham khảo để thu hẹp lựa chọn — rồi xác nhận giao dịch trên kênh bán bạn tin cậy.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
                         <Link href="/" className="bg-primary text-white px-10 py-4 rounded-xl font-bold hover:scale-105 transition-transform">
-                            Khám phá Tủ hương
+                            Về trang chủ
                         </Link>
                         <Link href="/nuoc-hoa-theo-nhu-cau" className="bg-white border border-[var(--border)] px-10 py-4 rounded-xl font-bold hover:bg-gray-50 transition-colors">
-                            Tìm nước hoa
+                            Lọc nước hoa
+                        </Link>
+                        <Link href="/tac-gia" className="bg-white border border-[var(--border)] px-10 py-4 rounded-xl font-bold hover:bg-gray-50 transition-colors">
+                            Tác giả & tiêu chuẩn
                         </Link>
                     </div>
                 </div>
             </section>
+            <Footer />
         </main>
     );
 }

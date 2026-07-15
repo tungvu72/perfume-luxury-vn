@@ -15,13 +15,13 @@ export type CoreSeoMetadata = {
 export const COMMERCIAL_CORE_SEO: Record<string, CoreSeoMetadata> = {
   "/": {
     title: `Nước hoa chính hãng: review, giá và nơi mua uy tín | Maison de Son`,
-    description: `Khám phá nước hoa nam, nữ và unisex qua review, giá tham khảo, cách nhận biết hàng chính hãng và gợi ý nơi mua uy tín trước khi quyết định.`,
+    description: `Khám phá nước hoa nam, nữ và unisex qua review, giá tham khảo, cách nhận biết hàng chính hãng và tiêu chí chọn nơi mua uy tín trước khi quyết định.`,
     h1: `Review nước hoa chính hãng trước khi mua`,
     canonical: `https://www.maisondeson.com`,
   },
   "/nuoc-hoa-theo-nhu-cau": {
     title: `Tìm nước hoa chính hãng theo nhu cầu, mùa và ngân sách`,
-    description: `Lọc nước hoa theo hoàn cảnh, mùa, nhóm mùi và ngân sách; xem review, giá tham khảo và gợi ý nơi mua chính hãng phù hợp.`,
+    description: `Lọc nước hoa theo hoàn cảnh, mùa, nhóm mùi và ngân sách; xem review, giá tham khảo và tiêu chí chọn nguồn mua chính hãng phù hợp.`,
     h1: `Tìm nước hoa theo nhu cầu và ngân sách`,
     canonical: `https://www.maisondeson.com/nuoc-hoa-theo-nhu-cau`,
   },
@@ -39,7 +39,7 @@ export const COMMERCIAL_CORE_SEO: Record<string, CoreSeoMetadata> = {
   },
   "/nuoc-hoa-nam-chinh-hang": {
     title: `Nước hoa nam chính hãng: review, giá và cách chọn`,
-    description: `Khám phá nước hoa nam theo mùi và hoàn cảnh; xem review, giá tham khảo, chai đáng mua và gợi ý nơi mua chính hãng uy tín.`,
+    description: `Khám phá nước hoa nam theo mùi và hoàn cảnh; xem review, giá tham khảo, chai đáng mua và tiêu chí chọn nguồn mua chính hãng.`,
     h1: `Nước hoa nam chính hãng`,
     canonical: `https://www.maisondeson.com/nuoc-hoa-nam-chinh-hang`,
   },
@@ -56,9 +56,9 @@ export const COMMERCIAL_CORE_SEO: Record<string, CoreSeoMetadata> = {
     canonical: `https://www.maisondeson.com/nuoc-hoa-unisex-chinh-hang`,
   },
   "/theo-nhu-cau": {
-    title: `Chọn nước hoa theo nhu cầu, ngân sách và nơi mua uy tín`,
-    description: `Tìm nước hoa cho đi làm, hẹn hò, mùa hè hoặc dùng hằng ngày; so sánh giá, review và lựa chọn chính hãng theo từng nhu cầu.`,
-    h1: `Chọn nước hoa theo nhu cầu thực tế`,
+    title: `Nước hoa theo hoàn cảnh: đi làm, hẹn hò và mùa hè`,
+    description: `Chọn nước hoa cho đi làm, hẹn hò, thời tiết nóng hoặc dùng hằng ngày; xem review, giá tham khảo và tiêu chí chọn nguồn mua chính hãng.`,
+    h1: `Chọn nước hoa theo hoàn cảnh sử dụng`,
     canonical: `https://www.maisondeson.com/theo-nhu-cau`,
   },
   "/theo-not-huong": {

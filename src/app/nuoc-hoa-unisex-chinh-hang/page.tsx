@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import { getProductsByGender } from "@/lib/dataFetchers";
 import { buildGenderCategoryJsonLd } from "@/lib/categorySeo";
 import { getCommercialCoreSeo } from "@/lib/commercialCoreMetadata";
+import { CategoryCommercialGuide } from "@/components/commercial/CommercialTrustSections";
 import "../nuoc-hoa-theo-nhu-cau/nhucau.css";
 
 const PATH = "/nuoc-hoa-unisex-chinh-hang";
@@ -68,9 +69,11 @@ export default async function UnisexPage() {
                 relatedLinks={[
                     { href: "/nuoc-hoa-unisex-la-gi", label: "Nước hoa unisex là gì?" },
                     { href: "/theo-not-huong", label: "Theo nốt hương" },
+                    { href: "/nuoc-hoa-theo-nhu-cau", label: "Lọc theo nhu cầu" },
                     { href: "/kien-thuc", label: "Kiến thức nước hoa" },
                     { href: "/nuoc-hoa-nu-chinh-hang", label: "Nước hoa nữ" },
                 ]}
+                commercialSections={<CategoryCommercialGuide gender="unisex" />}
                 products={products}
             />
         </>

@@ -17,6 +17,7 @@ export default function CategoryLayout({
     title,
     description,
     intro,
+    commercialSections,
     relatedLinks = [],
     products,
     breadcrumbLabel,
@@ -26,6 +27,8 @@ export default function CategoryLayout({
     description: string;
     /** Longer category intro (paragraphs). Optional. */
     intro?: ReactNode;
+    /** Commercial trust / price / authenticity blocks below hero. */
+    commercialSections?: ReactNode;
     relatedLinks?: CategoryRelatedLink[];
     products: Perfume[];
     breadcrumbLabel: string;
@@ -89,6 +92,12 @@ export default function CategoryLayout({
                     ) : null}
                 </div>
             </section>
+
+            {commercialSections ? (
+                <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-2">
+                    {commercialSections}
+                </section>
+            ) : null}
 
             <section className="max-w-[1200px] mx-auto px-5 py-10">
                 <div className="nhucau-main">
