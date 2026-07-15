@@ -3,6 +3,7 @@
  * Source: MaisonDeSon_SEO_All_Pages_READY_TO_APPLY.xlsx
  * Do NOT rewrite Final_* strings — copy-only implementation map.
  * BRAND_METADATA_EDITORIAL_HOTFIX_37: title+description only for 37 brands.
+ * COMMERCIAL_V5_BRANDS_A_19: first commercial brand metadata slice (19 brands).
  */
 
 import { resolveBrandSlug } from '@/lib/brandCanonical';
@@ -17,44 +18,44 @@ export type BrandSeoMetadata = {
 /** slug → approved metadata (canonical brand paths only) */
 export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
   "byredo": {
-    title: `Nước hoa Byredo: Bal d’Afrique, Blanche và La Tulipe`,
-    description: `Khám phá Byredo qua Bal d’Afrique, Blanche và La Tulipe; so sánh ba hướng mùi từ trái cây–gỗ đến sạch aldehyde và hoa tulip.`,
+    title: `Nước hoa Byredo chính hãng: giá Bal d’Afrique, Blanche`,
+    description: `So sánh Bal d’Afrique, Blanche và La Tulipe theo phong cách mùi, giá tham khảo và tiêu chí chọn nguồn mua nước hoa Byredo chính hãng.`,
     h1: `Nước hoa Byredo`,
     canonical: `https://www.maisondeson.com/byredo`,
   },
   "chanel": {
-    title: `Nước hoa Chanel: Bleu, Coco Mademoiselle hay N°5? | Maison de Son`,
-    description: `Khám phá nước hoa Chanel qua Bleu de Chanel, Coco Mademoiselle và N°5; so sánh phong cách từ sạch, lịch sự đến hoa–hổ phách cổ điển.`,
+    title: `Nước hoa Chanel chính hãng: giá Bleu, Coco, N°5 và mua ở đâu?`,
+    description: `Khám phá Bleu de Chanel, Coco Mademoiselle và N°5; xem review, giá tham khảo và tiêu chí chọn nơi mua nước hoa Chanel chính hãng.`,
     h1: `Nước hoa Chanel`,
     canonical: `https://www.maisondeson.com/chanel`,
   },
   "creed": {
-    title: `Nước hoa Creed: Aventus, Green Irish Tweed và Silver Mountain Water`,
-    description: `So sánh Aventus, Green Irish Tweed và Silver Mountain Water để thấy ba hướng mùi khác nhau của Creed: gỗ–trái cây, xanh và sạch.`,
+    title: `Nước hoa Creed chính hãng: giá Aventus, review và mua ở đâu?`,
+    description: `So sánh Aventus, Green Irish Tweed và Silver Mountain Water về phong cách, giá tham khảo và tiêu chí chọn nguồn mua Creed chính hãng.`,
     h1: `Nước hoa Creed`,
     canonical: `https://www.maisondeson.com/creed`,
   },
   "dior": {
-    title: `Nước hoa Dior: từ Sauvage, J’adore đến Dior Homme | Maison de Son`,
-    description: `Duyệt nước hoa Dior qua Sauvage, J’adore và Dior Homme; so sánh các hướng mùi nam, nữ từ tươi sáng đến hoa trắng và gỗ sâu.`,
+    title: `Nước hoa Dior chính hãng: giá Sauvage, J’adore và review`,
+    description: `So sánh Sauvage, J’adore và Dior Homme theo phong cách mùi, giá tham khảo và tiêu chí chọn nguồn mua nước hoa Dior chính hãng.`,
     h1: `Nước hoa Dior`,
     canonical: `https://www.maisondeson.com/dior`,
   },
   "giorgio-armani": {
-    title: `Nước hoa Giorgio Armani: Acqua di Giò, Sì hay My Way?`,
-    description: `Khám phá Giorgio Armani qua Acqua di Giò, Sì và My Way; so sánh các hướng mùi từ biển tươi, trái cây–hoa đến hoa trắng hiện đại.`,
+    title: `Nước hoa Giorgio Armani chính hãng: giá Acqua di Giò, Sì và My Way`,
+    description: `Khám phá Acqua di Giò, Sì và My Way; xem review, mức giá tham khảo cùng tiêu chí chọn nơi mua nước hoa Giorgio Armani chính hãng.`,
     h1: `Nước hoa Giorgio Armani`,
     canonical: `https://www.maisondeson.com/giorgio-armani`,
   },
   "guerlain": {
-    title: `Nước hoa Guerlain: Shalimar, L’Homme Idéal và di sản mùi hương`,
-    description: `Duyệt Guerlain qua Shalimar, L’Homme Idéal và Aqua Allegoria; từ vani–hổ phách cổ điển đến gỗ ngọt và citrus tươi.`,
+    title: `Nước hoa Guerlain chính hãng: giá Shalimar, L’Homme Idéal`,
+    description: `Khám phá Shalimar, L’Homme Idéal và Aqua Allegoria; so sánh phong cách, giá tham khảo và tiêu chí chọn nơi mua Guerlain chính hãng.`,
     h1: `Nước hoa Guerlain`,
     canonical: `https://www.maisondeson.com/guerlain`,
   },
   "hermes": {
-    title: `Nước hoa Hermès: Terre d’Hermès, Jardin và nét thanh lịch riêng`,
-    description: `Khám phá Hermès qua Terre d’Hermès, Un Jardin sur le Nil và 24 Faubourg; từ citrus–gỗ khô đến xanh mát và hoa cổ điển.`,
+    title: `Nước hoa Hermès chính hãng: giá Terre d’Hermès và review`,
+    description: `Khám phá Terre d’Hermès, Un Jardin sur le Nil và 24 Faubourg; so sánh phong cách, giá tham khảo và tiêu chí chọn nguồn mua Hermès chính hãng.`,
     h1: `Nước hoa Hermès`,
     canonical: `https://www.maisondeson.com/hermes`,
   },
@@ -65,8 +66,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/jean-paul-gaultier`,
   },
   "kilian": {
-    title: `Nước hoa Kilian: Angels' Share, Black Phantom và cách chọn theo gu`,
-    description: `Duyệt nước hoa Kilian qua Angels' Share, Black Phantom và Rolling In Love. So sánh các hướng mùi từ ngọt ấm đến ấm và mềm để tìm điểm bắt đầu hợp gu.`,
+    title: `Nước hoa Kilian chính hãng: giá Angels’ Share và review`,
+    description: `So sánh Angels’ Share, Black Phantom và Rolling in Love; xem phong cách, giá tham khảo và tiêu chí chọn nguồn mua Kilian chính hãng.`,
     h1: `Nước hoa Kilian`,
     canonical: `https://www.maisondeson.com/kilian`,
   },
@@ -77,8 +78,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/maison-francis-kurkdjian`,
   },
   "mugler": {
-    title: `Nước hoa Mugler: Angel, Alien hay Angel Muse? | Maison de Son`,
-    description: `So sánh Angel, Alien và Angel Muse để thấy ba cá tính của Mugler: gourmand đậm, hoa trắng–hổ phách và cacao–hoắc hương.`,
+    title: `Nước hoa Mugler chính hãng: giá Angel, Alien và review`,
+    description: `So sánh Angel, Alien và Angel Muse từ gourmand đến hoa trắng; xem giá tham khảo, review và tiêu chí chọn nguồn mua Mugler chính hãng.`,
     h1: `Nước hoa Mugler`,
     canonical: `https://www.maisondeson.com/mugler`,
   },
@@ -89,8 +90,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/narciso-rodriguez`,
   },
   "parfums-de-marly": {
-    title: `Nước hoa Parfums de Marly: Layton, Delina và Herod`,
-    description: `Khám phá Parfums de Marly qua Layton, Delina và Herod; so sánh các hướng mùi từ táo–vani, hoa hồng đến thuốc lá ấm.`,
+    title: `Parfums de Marly chính hãng: giá Layton, Delina và review`,
+    description: `So sánh Layton, Delina và Herod theo phong cách, giá tham khảo và ưu nhược điểm; xem tiêu chí chọn nguồn mua Parfums de Marly chính hãng.`,
     h1: `Nước hoa Parfums de Marly`,
     canonical: `https://www.maisondeson.com/parfums-de-marly`,
   },
@@ -113,27 +114,27 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/versace`,
   },
   "xerjoff": {
-    title: `Nước hoa Xerjoff: Naxos, Erba Pura và Alexandria II`,
-    description: `Duyệt Xerjoff qua Naxos, Erba Pura và Alexandria II; từ mật ong–thuốc lá đến trái cây–xạ hương và gỗ trầm sâu.`,
+    title: `Nước hoa Xerjoff chính hãng: giá Naxos, Erba Pura và review`,
+    description: `Khám phá Naxos, Erba Pura và Alexandria II; so sánh phong cách, giá tham khảo và tiêu chí chọn nơi mua nước hoa Xerjoff chính hãng.`,
     h1: `Nước hoa Xerjoff`,
     canonical: `https://www.maisondeson.com/xerjoff`,
   },
   "ysl": {
-    title: `Nước hoa YSL: từ Libre, Black Opium đến Y EDP | Maison de Son`,
-    description: `Khám phá nước hoa Yves Saint Laurent qua Libre, Black Opium, Y và La Nuit de L’Homme; so sánh phong cách từng dòng để chọn mùi hợp gu.`,
-    h1: `Nước hoa Yves Saint Laurent (YSL)`,
+    title: `Nước hoa YSL chính hãng: giá Libre, Black Opium và Y EDP`,
+    description: `Khám phá Libre, Black Opium, Y EDP và La Nuit de L’Homme; so sánh phong cách, giá tham khảo và tiêu chí chọn nơi mua YSL chính hãng.`,
+    h1: `Nước hoa Yves Saint Laurent`,
     canonical: `https://www.maisondeson.com/ysl`,
   },
   // --- BATCH_03A_BRANDS_P2 (20 brands) ---
   "montblanc": {
-    title: `Nước hoa Montblanc: so sánh Explorer với Signature | Maison de Son`,
-    description: `So sánh Explorer và Signature, hai cách thể hiện từ ấm và mềm đến khô và sâu của Montblanc. Chọn điểm bắt đầu hợp gu hơn.`,
+    title: `Nước hoa Montblanc chính hãng: giá, review Explorer và Signature`,
+    description: `So sánh Explorer và Signature theo phong cách mùi, độ dễ dùng và giá tham khảo; xem review từng chai cùng tiêu chí chọn nơi mua Montblanc chính hãng.`,
     h1: `Nước hoa Montblanc`,
     canonical: `https://www.maisondeson.com/montblanc`,
   },
   "gucci": {
-    title: `Nước hoa Gucci: Bloom hay Flora Gorgeous Gardenia? | Maison de Son`,
-    description: `So sánh Bloom và Flora Gorgeous Gardenia, hai cách thể hiện từ hoa thanh lịch đến tươi sáng của Gucci. Chọn điểm bắt đầu hợp gu hơn.`,
+    title: `Nước hoa Gucci chính hãng: giá Bloom, Flora và review`,
+    description: `So sánh Gucci Bloom và Flora Gorgeous Gardenia về phong cách hoa, giá tham khảo và tiêu chí chọn nguồn mua nước hoa Gucci chính hãng.`,
     h1: `Nước hoa Gucci`,
     canonical: `https://www.maisondeson.com/gucci`,
   },
@@ -247,32 +248,32 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
   },
   // --- BATCH_03B_BRANDS_P2 (20 brands) ---
   "afnan": {
-    title: `Nước hoa Afnan: bắt đầu với 9PM EDP | Maison de Son`,
-    description: `Khám phá Afnan 9PM EDP, một lựa chọn ngọt và bắt mũi cho người mới thích mùi nổi bật. Đọc ưu, nhược điểm trước khi quyết định.`,
+    title: `Nước hoa Afnan chính hãng: giá 9PM, review và mua ở đâu?`,
+    description: `Tìm hiểu Afnan 9PM EDP từ mùi ngọt nổi bật đến mức giá tham khảo; đọc review, ưu nhược điểm và tiêu chí chọn nơi mua hàng chính hãng.`,
     h1: `Nước hoa Afnan`,
     canonical: `https://www.maisondeson.com/afnan`,
   },
   "memo": {
-    title: `Nước hoa Memo Paris: African Leather và chất da thuộc khô ấm`,
-    description: `African Leather đặt da thuộc bên cạnh bạch đậu khấu và sắc cay khô, tạo cảm giác mạnh và rộng. Một điểm vào rõ cá tính của Memo Paris.`,
+    title: `Nước hoa Memo Paris chính hãng: giá African Leather và review`,
+    description: `African Leather nổi bật với da thuộc và bạch đậu khấu; xem review, giá tham khảo và tiêu chí chọn nơi mua nước hoa Memo Paris chính hãng.`,
     h1: `Nước hoa Memo Paris`,
     canonical: `https://www.maisondeson.com/memo`,
   },
   "nishane": {
-    title: `Nishane: bắt đầu từ Hundred Silent Ways Extrait hay Ani Extrait?`,
-    description: `Khám phá Nishane qua Hundred Silent Ways Extrait, Ani Extrait và Hacivat Extrait; từ gỗ–cay sâu đến khô và sâu. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    title: `Nước hoa Nishane chính hãng: giá Hacivat, Ani và review`,
+    description: `Khám phá Hacivat, Ani và Hundred Silent Ways ở nồng độ Extrait; xem review, giá tham khảo và tiêu chí chọn nơi mua Nishane chính hãng.`,
     h1: `Nước hoa Nishane`,
     canonical: `https://www.maisondeson.com/nishane`,
   },
   "giardini-di-toscana": {
-    title: `Nước hoa Giardini di Toscana: Bianco Latte cho gu vani ngọt`,
-    description: `Bianco Latte đi theo hướng vani, sữa và mật ong ngọt dày. Trang này giúp bạn cân nhắc độ ngọt ấy có hợp gu và hoàn cảnh sử dụng.`,
+    title: `Nước hoa Giardini di Toscana chính hãng: giá Bianco Latte`,
+    description: `Bianco Latte nổi bật với vani, sữa và mật ong; xem review, giá tham khảo và tiêu chí chọn nơi mua Giardini di Toscana chính hãng.`,
     h1: `Nước hoa Giardini Di Toscana`,
     canonical: `https://www.maisondeson.com/giardini-di-toscana`,
   },
   "essential-parfums": {
-    title: `Nước hoa Essential Parfums: bắt đầu với Bois Impérial | Maison de Son`,
-    description: `Bắt đầu với Bois Impérial để hiểu phong cách Essential Parfums: gỗ Akigalawood và cỏ hương bài. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    title: `Nước hoa Essential Parfums chính hãng: giá Bois Impérial`,
+    description: `Bois Impérial nổi bật với Akigalawood và nét gỗ cay hiện đại; xem review, giá tham khảo và tiêu chí chọn nơi mua Essential Parfums chính hãng.`,
     h1: `Nước hoa Essential Parfums`,
     canonical: `https://www.maisondeson.com/essential-parfums`,
   },

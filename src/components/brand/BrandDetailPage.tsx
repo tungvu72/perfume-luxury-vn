@@ -15,6 +15,7 @@ import {
   resolveBrandSlug,
 } from "@/lib/brandCanonical";
 import { getBrandSeoMetadata } from "@/lib/brandSeoMetadata";
+import BrandCommercialGuide from "@/components/brand/BrandCommercialGuide";
 
 export type BrandDetailModel = {
   name: string;
@@ -124,11 +125,17 @@ export default function BrandDetailPage({ brand }: { brand: BrandDetailModel }) 
                       </section>
                   )}
       
+                  <BrandCommercialGuide
+                      brandName={brand.name}
+                      brandSlug={brand.slug}
+                      products={brand.products}
+                  />
+
                   {/* PRODUCT GRID */}
-                  <section className="max-w-[1200px] mx-auto px-5 py-12">
+                  <section id="danh-sach-san-pham" className="max-w-[1200px] mx-auto px-5 py-12">
                       <div className="flex items-center justify-between mb-8">
                           <h2 className="text-2xl md:text-3xl font-serif">
-                              Nước hoa {brand.name} tại Maison de SON
+                              Review nước hoa {brand.name}
                           </h2>
                           <span className="text-xs font-bold text-gray-400 bg-gray-100 px-3 py-1.5 rounded-full">
                               {brand.productCount} sản phẩm
