@@ -4,6 +4,7 @@
  * Do NOT rewrite Final_* strings — copy-only implementation map.
  * BRAND_METADATA_EDITORIAL_HOTFIX_37: title+description only for 37 brands.
  * COMMERCIAL_V5_BRANDS_A_19: first commercial brand metadata slice (19 brands).
+ * COMMERCIAL_V6_BRANDS_B_19: second commercial brand metadata slice (19 brands).
  */
 
 import { resolveBrandSlug } from '@/lib/brandCanonical';
@@ -60,8 +61,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/hermes`,
   },
   "jean-paul-gaultier": {
-    title: `Nước hoa Jean Paul Gaultier: Le Male, La Belle và Ultra Male`,
-    description: `So sánh Le Male, La Belle và Ultra Male để thấy phong cách Jean Paul Gaultier từ thơm sạch đến vani ngọt và trái cây đậm.`,
+    title: `Nước hoa Jean Paul Gaultier chính hãng: giá Le Male, La Belle`,
+    description: `Khám phá Le Male, La Belle và Ultra Male theo các hướng thơm sạch, vani và trái cây; xem giá tham khảo và tiêu chí chọn nguồn mua chính hãng.`,
     h1: `Nước hoa Jean Paul Gaultier`,
     canonical: `https://www.maisondeson.com/jean-paul-gaultier`,
   },
@@ -72,9 +73,9 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/kilian`,
   },
   "maison-francis-kurkdjian": {
-    title: `Nước hoa MFK: Baccarat Rouge 540, Gentle Fluidity và Oud Satin Mood`,
-    description: `Khám phá Maison Francis Kurkdjian qua Baccarat Rouge 540, Gentle Fluidity Gold và Oud Satin Mood; từ hổ phách sáng đến vani và trầm hương.`,
-    h1: `Nước hoa Maison Francis Kurkdjian (MFK)`,
+    title: `Nước hoa MFK chính hãng: giá Baccarat Rouge 540 và review`,
+    description: `Khám phá Baccarat Rouge 540, Gentle Fluidity Gold và Oud Satin Mood; xem review, giá tham khảo và tiêu chí chọn nguồn mua MFK chính hãng.`,
+    h1: `Nước hoa Maison Francis Kurkdjian`,
     canonical: `https://www.maisondeson.com/maison-francis-kurkdjian`,
   },
   "mugler": {
@@ -84,8 +85,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/mugler`,
   },
   "narciso-rodriguez": {
-    title: `Nước hoa Narciso Rodriguez: For Her, Pure Musc và Musc Noir Rose`,
-    description: `Khám phá Narciso Rodriguez qua For Her, Pure Musc và Musc Noir Rose; từ xạ hương sạch đến hoa mềm và vani ấm.`,
+    title: `Nước hoa Narciso Rodriguez chính hãng: giá For Her và Pure Musc`,
+    description: `So sánh For Her, Pure Musc và Musc Noir Rose theo sắc thái xạ hương; xem review, giá tham khảo và tiêu chí chọn nguồn mua Narciso Rodriguez chính hãng.`,
     h1: `Nước hoa Narciso Rodriguez`,
     canonical: `https://www.maisondeson.com/narciso-rodriguez`,
   },
@@ -96,20 +97,20 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/parfums-de-marly`,
   },
   "prada": {
-    title: `Nước hoa Prada: L’Homme, Infusion d’Iris và Luna Rossa`,
-    description: `So sánh L’Homme, Infusion d’Iris và Luna Rossa để thấy phong cách Prada từ sạch, phấn nhẹ đến gỗ–cay hiện đại.`,
+    title: `Nước hoa Prada chính hãng: giá L’Homme, Luna Rossa và review`,
+    description: `So sánh L’Homme, Infusion d’Iris và Luna Rossa từ sạch, phấn nhẹ đến gỗ cay; xem review, giá tham khảo và tiêu chí chọn nơi mua Prada chính hãng.`,
     h1: `Nước hoa Prada`,
     canonical: `https://www.maisondeson.com/prada`,
   },
   "tom-ford": {
-    title: `Nước hoa Tom Ford: Oud Wood, Lost Cherry hay Tobacco Vanille?`,
-    description: `Khám phá Tom Ford qua Oud Wood, Lost Cherry, Tobacco Vanille và Ombré Leather; so sánh các hướng gỗ, trái cây, vani và da thuộc.`,
+    title: `Nước hoa Tom Ford chính hãng: giá Oud Wood và Lost Cherry`,
+    description: `Khám phá Oud Wood, Lost Cherry, Tobacco Vanille và Ombré Leather; so sánh phong cách, giá tham khảo và tiêu chí chọn nơi mua Tom Ford chính hãng.`,
     h1: `Nước hoa Tom Ford`,
     canonical: `https://www.maisondeson.com/tom-ford`,
   },
   "versace": {
-    title: `Nước hoa Versace: Eros, Dylan Blue và Bright Crystal`,
-    description: `Duyệt Versace qua Eros, Dylan Blue và Bright Crystal; từ ngọt nổi bật đến tươi sạch và hoa–trái cây sáng.`,
+    title: `Nước hoa Versace chính hãng: giá Eros, Dylan Blue và review`,
+    description: `So sánh Eros, Dylan Blue và Bright Crystal từ ngọt nổi bật đến tươi sạch; xem review, giá tham khảo và tiêu chí chọn nguồn mua Versace chính hãng.`,
     h1: `Nước hoa Versace`,
     canonical: `https://www.maisondeson.com/versace`,
   },
@@ -145,8 +146,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/valentino`,
   },
   "hugo-boss": {
-    title: `Nước hoa Hugo Boss: so sánh Boss Bottled với Bottled Absolu`,
-    description: `So sánh Boss Bottled và Bottled Absolu, hai cách thể hiện từ ấm và mềm đến khô và sâu của Hugo Boss. Chọn điểm bắt đầu hợp gu hơn.`,
+    title: `Nước hoa Hugo Boss chính hãng: giá Boss Bottled và review`,
+    description: `So sánh Boss Bottled EDP với Bottled Absolu theo độ ấm và chiều sâu; xem review, giá tham khảo và tiêu chí chọn nguồn mua Hugo Boss chính hãng.`,
     h1: `Nước hoa Hugo Boss`,
     canonical: `https://www.maisondeson.com/hugo-boss`,
   },
@@ -157,14 +158,14 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/calvin-klein`,
   },
   "armaf": {
-    title: `Armaf: bắt đầu từ Odyssey Limoni hay Effects of Uniq? | Maison de Son`,
-    description: `Khám phá Armaf qua Odyssey Limoni, Effects of Uniq và Odyssey Mandarin Sky; từ có cá tính riêng đến ngọt ấm. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    title: `Nước hoa Armaf chính hãng: giá Odyssey Limoni và review`,
+    description: `Khám phá Odyssey Limoni, Effects of Uniq và Odyssey Mandarin Sky; xem phong cách, giá tham khảo và tiêu chí chọn nguồn mua Armaf chính hãng.`,
     h1: `Nước hoa Armaf`,
     canonical: `https://www.maisondeson.com/armaf`,
   },
   "chloe": {
-    title: `Nước hoa Chloé: Chloé, Nomade và những hướng mùi khác biệt`,
-    description: `Khám phá Chloé qua Chloé, Nomade và Santalum; từ hoa rõ nét đến ấm và sâu. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    title: `Nước hoa Chloé chính hãng: giá Nomade, Chloé EDP và review`,
+    description: `So sánh Chloé EDP, Nomade và Santalum từ hoa sáng đến gỗ ấm; xem review, giá tham khảo và tiêu chí chọn nơi mua nước hoa Chloé chính hãng.`,
     h1: `Nước hoa Chloé`,
     canonical: `https://www.maisondeson.com/chloe`,
   },
@@ -175,8 +176,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/coach`,
   },
   "givenchy": {
-    title: `Givenchy: bắt đầu từ Gentleman Réserve Privée hay L'Interdit?`,
-    description: `Khám phá Givenchy qua Gentleman Réserve Privée, L'Interdit và Organza; từ ấm và mềm đến hoa rõ nét. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    title: `Nước hoa Givenchy chính hãng: giá Gentleman và L’Interdit`,
+    description: `So sánh Gentleman Réserve Privée, L’Interdit và Organza từ ấm sâu đến hoa trắng; xem giá tham khảo và tiêu chí chọn nơi mua Givenchy chính hãng.`,
     h1: `Nước hoa Givenchy`,
     canonical: `https://www.maisondeson.com/givenchy`,
   },
@@ -193,26 +194,26 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/burberry`,
   },
   "louis-vuitton": {
-    title: `Nước hoa Louis Vuitton: Ombre Nomade, Imagination và những hướng mùi khác biệt`,
-    description: `Khám phá Louis Vuitton qua Ombre Nomade, Imagination và L'Immensité; từ tươi sáng đến tươi khoáng. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    title: `Nước hoa Louis Vuitton chính hãng: giá Imagination, Ombre Nomade`,
+    description: `Khám phá Imagination, Ombre Nomade và L’Immensité từ citrus sáng đến gỗ trầm; xem giá tham khảo và tiêu chí chọn nguồn mua Louis Vuitton chính hãng.`,
     h1: `Nước hoa Louis Vuitton`,
     canonical: `https://www.maisondeson.com/louis-vuitton`,
   },
   "mancera": {
-    title: `Khám phá Mancera qua Instant Crush, Cedrat Boise và Sicily`,
-    description: `Khám phá Mancera qua Instant Crush, Cedrat Boise và Sicily; từ ngọt ấm đến tươi sáng. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    title: `Nước hoa Mancera chính hãng: giá Cedrat Boise, Instant Crush`,
+    description: `Khám phá Cedrat Boise, Instant Crush và Sicily từ citrus gỗ đến ngọt ấm; xem review, giá tham khảo và tiêu chí chọn nơi mua Mancera chính hãng.`,
     h1: `Nước hoa Mancera`,
     canonical: `https://www.maisondeson.com/mancera`,
   },
   "amouage": {
-    title: `Nước hoa Amouage: từ Interlude Man đến Reflection Man | Maison de Son`,
-    description: `Khám phá Amouage qua Interlude Man, Reflection Man và Reflection 45 Man Extrait; từ khô và sâu đến hoa thanh lịch. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    title: `Nước hoa Amouage chính hãng: giá Interlude và Reflection`,
+    description: `So sánh Interlude Man, Reflection Man và Reflection 45 theo độ đậm và phong cách; xem giá tham khảo và tiêu chí chọn nguồn mua Amouage chính hãng.`,
     h1: `Nước hoa Amouage`,
     canonical: `https://www.maisondeson.com/amouage`,
   },
   "maison-margiela": {
-    title: `Nước hoa Maison Margiela: từ Lazy Sunday Morning đến By The Fireplace`,
-    description: `Khám phá Maison Margiela qua Lazy Sunday Morning, By The Fireplace và Replica Jazz Club; từ ấm và sâu đến sạch và mềm. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    title: `Nước hoa Maison Margiela chính hãng: giá By the Fireplace`,
+    description: `So sánh Lazy Sunday Morning, By the Fireplace và Jazz Club từ sạch mềm đến khói ấm; xem giá tham khảo và tiêu chí chọn nguồn mua chính hãng.`,
     h1: `Nước hoa Maison Margiela`,
     canonical: `https://www.maisondeson.com/maison-margiela`,
   },
@@ -223,14 +224,14 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/lattafa`,
   },
   "lancome": {
-    title: `Lancôme: hai hướng mùi từ La Vie Est Belle đến Trésor | Maison de Son`,
-    description: `So sánh La Vie Est Belle và Trésor, hai cách thể hiện từ ấm và sâu đến ngọt ấm của Lancôme. Chọn điểm bắt đầu hợp gu hơn.`,
+    title: `Nước hoa Lancôme chính hãng: giá La Vie Est Belle và Trésor`,
+    description: `So sánh La Vie Est Belle và Trésor theo độ ngọt, sắc hoa và phong cách dùng; xem giá tham khảo và tiêu chí chọn nguồn mua Lancôme chính hãng.`,
     h1: `Nước hoa Lancôme`,
     canonical: `https://www.maisondeson.com/lancome`,
   },
   "dolce-gabbana": {
-    title: `Nước hoa Dolce & Gabbana: The One, Light Blue Pour Femme`,
-    description: `Khám phá Dolce & Gabbana qua The One, Light Blue Pour Femme và Light Blue Eau Intense; từ tươi khoáng đến tươi sáng. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    title: `Nước hoa Dolce & Gabbana chính hãng: giá The One, Light Blue`,
+    description: `Khám phá The One, Light Blue Pour Femme và Light Blue Eau Intense; so sánh phong cách, giá tham khảo và tiêu chí chọn nguồn mua chính hãng.`,
     h1: `Nước hoa Dolce & Gabbana`,
     canonical: `https://www.maisondeson.com/dolce-gabbana`,
   },
@@ -241,8 +242,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/bvlgari`,
   },
   "diptyque": {
-    title: `Nước hoa Diptyque: từ Doson đến Philosykos | Maison de Son`,
-    description: `Khám phá Diptyque qua Doson, Philosykos và Fleur de Peau; từ khô và sâu đến hoa thanh lịch. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    title: `Nước hoa Diptyque chính hãng: giá Do Son, Philosykos và review`,
+    description: `Khám phá Do Son, Philosykos và Fleur de Peau từ hoa trắng đến xanh gỗ và xạ hương; xem giá tham khảo cùng tiêu chí chọn nơi mua Diptyque chính hãng.`,
     h1: `Nước hoa Diptyque`,
     canonical: `https://www.maisondeson.com/diptyque`,
   },
@@ -278,8 +279,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/essential-parfums`,
   },
   "frederic-malle": {
-    title: `Nước hoa Frederic Malle: Portrait of a Lady, Carnal Flower`,
-    description: `Khám phá Frederic Malle qua Portrait of a Lady, Carnal Flower và Musc Ravageur; từ hoa thanh lịch đến ngọt ấm. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    title: `Nước hoa Frederic Malle chính hãng: giá Portrait of a Lady`,
+    description: `So sánh Portrait of a Lady, Carnal Flower và Musc Ravageur theo các hướng hoa và gia vị; xem giá tham khảo và tiêu chí chọn nguồn mua chính hãng.`,
     h1: `Nước hoa Frederic Malle`,
     canonical: `https://www.maisondeson.com/frederic-malle`,
   },
@@ -332,8 +333,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/issey-miyake`,
   },
   "initio": {
-    title: `Nước hoa Initio: Musk Therapy hay Side Effect? | Maison de Son`,
-    description: `So sánh Musk Therapy và Side Effect, hai cách thể hiện từ sạch và thanh đến ấm và sâu của Initio. Chọn điểm bắt đầu hợp gu hơn.`,
+    title: `Nước hoa Initio chính hãng: giá Side Effect và Musk Therapy`,
+    description: `So sánh Side Effect và Musk Therapy giữa hướng ấm sâu và xạ hương sạch; xem giá tham khảo cùng tiêu chí chọn nơi mua Initio chính hãng.`,
     h1: `Nước hoa Initio`,
     canonical: `https://www.maisondeson.com/initio`,
   },
