@@ -6,19 +6,21 @@ import "../nuoc-hoa-theo-nhu-cau/nhucau.css";
 
 const PATH = "/nuoc-hoa-nam-chinh-hang";
 const H1 = "Nước hoa nam";
+const PAGE_TITLE = "Nước hoa nam: chọn mùi theo gu và hoàn cảnh | Maison de Son";
 const META_DESCRIPTION =
-    "Khám phá nước hoa nam theo gu và hoàn cảnh dùng: đi làm, hẹn hò, mùa hè. Review thực tế, so sánh mùi hương — không phụ thuộc slogan thương hiệu.";
+    "Khám phá nước hoa nam từ nhóm sạch, tươi dễ dùng đến gỗ–cay đậm hơn. Lọc theo nốt hương và hoàn cảnh để tìm chai hợp nhịp sống.";
+const CANONICAL = "https://www.maisondeson.com/nuoc-hoa-nam-chinh-hang";
 
 export const metadata: Metadata = {
-    title: "Nước hoa nam | Maison de SON",
+    title: PAGE_TITLE,
     description: META_DESCRIPTION,
     alternates: {
-        canonical: `https://www.maisondeson.com${PATH}`,
+        canonical: CANONICAL,
     },
     openGraph: {
-        title: "Nước hoa nam | Maison de SON",
+        title: PAGE_TITLE,
         description: META_DESCRIPTION,
-        url: `https://www.maisondeson.com${PATH}`,
+        url: CANONICAL,
     },
 };
 

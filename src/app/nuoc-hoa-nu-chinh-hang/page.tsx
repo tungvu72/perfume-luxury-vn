@@ -6,19 +6,21 @@ import "../nuoc-hoa-theo-nhu-cau/nhucau.css";
 
 const PATH = "/nuoc-hoa-nu-chinh-hang";
 const H1 = "Nước hoa nữ";
+const PAGE_TITLE = "Nước hoa nữ: hoa nhẹ, vani ấm hay musk sạch? | Maison de Son";
 const META_DESCRIPTION =
-    "Khám phá nước hoa nữ theo phong cách và hoàn cảnh: hoa thanh lịch, ấm ngọt buổi tối, sạch dễ dùng hằng ngày. Review thực tế giúp chọn mùi hợp bạn.";
+    "So sánh nước hoa nữ theo cảm giác dùng: hoa thanh lịch, trái cây tươi, vani ấm hay musk sạch. Duyệt theo gu và lúc bạn thường xịt.";
+const CANONICAL = "https://www.maisondeson.com/nuoc-hoa-nu-chinh-hang";
 
 export const metadata: Metadata = {
-    title: "Nước hoa nữ | Maison de SON",
+    title: PAGE_TITLE,
     description: META_DESCRIPTION,
     alternates: {
-        canonical: `https://www.maisondeson.com${PATH}`,
+        canonical: CANONICAL,
     },
     openGraph: {
-        title: "Nước hoa nữ | Maison de SON",
+        title: PAGE_TITLE,
         description: META_DESCRIPTION,
-        url: `https://www.maisondeson.com${PATH}`,
+        url: CANONICAL,
     },
 };
 

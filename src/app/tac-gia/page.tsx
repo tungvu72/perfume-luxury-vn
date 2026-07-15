@@ -4,14 +4,14 @@ import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
-    title: "Về tác giả — Maison de SON | Đội ngũ chuyên gia nước hoa",
-    description: "Gặp gỡ đội ngũ chuyên gia đứng sau Maison de SON — những người đã test hàng trăm chai nước hoa để mang đến review thực tế và trung thực nhất.",
+    title: "Tác giả và đội ngũ biên tập | Maison de Son",
+    description: "Tìm hiểu người phụ trách nội dung, nguyên tắc biên tập và cách Maison de Son xây dựng các bài review, hướng dẫn chọn nước hoa.",
     alternates: {
         canonical: "https://www.maisondeson.com/tac-gia",
     },
     openGraph: {
-        title: "Đội Ngũ Chuyên Gia Nước Hoa | Maison de SON",
-        description: "Gặp gỡ đội ngũ đứng sau mỗi bài review thực tế tại Maison de SON.",
+        title: "Tác giả và đội ngũ biên tập | Maison de Son",
+        description: "Tìm hiểu người phụ trách nội dung, nguyên tắc biên tập và cách Maison de Son xây dựng các bài review, hướng dẫn chọn nước hoa.",
     },
 };
 
@@ -39,7 +39,7 @@ export default function AuthorIndexPage() {
             <section className="border-b border-[var(--border)] py-10 md:py-14">
                 <div className="max-w-[1200px] mx-auto px-5">
                     <Breadcrumbs items={[{ label: "Tác giả" }]} />
-                    <h1 className="text-3xl md:text-4xl font-serif mb-2">Đội ngũ chuyên gia</h1>
+                    <h1 className="text-3xl md:text-4xl font-serif mb-2">Tác giả và đội ngũ biên tập</h1>
                     <p className="text-sm text-gray-400">
                         Những người đứng sau mỗi bài review thực tế tại Maison de SON
                     </p>

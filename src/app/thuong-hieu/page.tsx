@@ -6,14 +6,14 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Thương hiệu nước hoa đáng xem | Maison de SON",
-    description: "Khám phá các thương hiệu nước hoa nổi bật tại Maison de SON. Xem review, lựa chọn đáng chú ý và định hướng chọn mùi phù hợp cho người Việt.",
+    title: "Thương hiệu nước hoa: tìm hãng theo phong cách mùi | Maison de Son",
+    description: "Duyệt các thương hiệu nước hoa từ designer quen thuộc đến niche cá tính; mở từng hãng để so sánh dòng mùi và sản phẩm đang được phân tích.",
     alternates: {
         canonical: "https://www.maisondeson.com/thuong-hieu",
     },
     openGraph: {
-        title: "Thương Hiệu Nước Hoa | Maison de SON",
-        description: "Khám phá các thương hiệu nước hoa nổi bật — review và gợi ý chọn mùi.",
+        title: "Thương hiệu nước hoa: tìm hãng theo phong cách mùi | Maison de Son",
+        description: "Duyệt các thương hiệu nước hoa từ designer quen thuộc đến niche cá tính; mở từng hãng để so sánh dòng mùi và sản phẩm đang được phân tích.",
     },
 };
 
@@ -68,7 +68,7 @@ export default async function BrandsIndexPage() {
                     <div className="overflow-hidden rounded-[32px] border border-[#eadfce] bg-white px-6 py-8 shadow-[0_20px_60px_rgba(27,18,13,0.05)] md:px-8 md:py-10">
                         <Breadcrumbs items={[{ label: 'Thương hiệu' }]} />
                         <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.28em] text-primary">Thương hiệu A-Z</p>
-                        <h1 className="text-3xl md:text-5xl font-serif mb-4 leading-tight">Thương hiệu nước hoa đáng khám phá</h1>
+                        <h1 className="text-3xl md:text-5xl font-serif mb-4 leading-tight">Thương hiệu nước hoa</h1>
                         <p className="max-w-3xl text-sm leading-7 text-gray-600 md:text-base">
                             Bắt đầu từ thương hiệu nếu bạn muốn hiểu rõ phong cách mùi và các lựa chọn nổi bật trước khi đi vào từng chai cụ thể. Maison de SON ưu tiên cách tiếp cận dễ hiểu, thực tế và hợp người dùng Việt.
                         </p>

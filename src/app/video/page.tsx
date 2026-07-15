@@ -6,15 +6,16 @@ import Image from "next/image";
 import { Play } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Video Unboxing & Review Nước Hoa | Maison de SON",
+  title: "Video nước hoa: unboxing, trải nghiệm và hướng dẫn",
   description:
-    "Xem video unboxing, chiết và review nước hoa chính hãng từ Maison de SON. Trải nghiệm thực tế trước khi mua.",
+    "Xem video unboxing, chi tiết chai và các nội dung hướng dẫn sử dụng nước hoa; phù hợp khi bạn muốn quan sát sản phẩm trước khi đọc sâu.",
   alternates: {
     canonical: "https://www.maisondeson.com/video",
   },
   openGraph: {
-    title: "Video Nước Hoa | Maison de SON",
-    description: "Unboxing, chiết và review nước hoa chính hãng — xem trước khi mua.",
+    title: "Video nước hoa: unboxing, trải nghiệm và hướng dẫn",
+    description:
+      "Xem video unboxing, chi tiết chai và các nội dung hướng dẫn sử dụng nước hoa; phù hợp khi bạn muốn quan sát sản phẩm trước khi đọc sâu.",
   },
 };
 
@@ -164,7 +165,7 @@ export default function VideoPage() {
       <section className="bg-[#0D0D0E] text-white">
         <div className="mx-auto max-w-[1200px] px-4 py-10 text-center sm:py-14">
           <h1 className="text-3xl font-serif sm:text-4xl md:text-5xl">
-            Video Nước Hoa
+            Video nước hoa
           </h1>
           <p className="mx-auto mt-3 max-w-2xl text-sm leading-relaxed text-white/70 sm:text-base">
             Unboxing, chiết và review — xem thực tế trước khi chọn mùi.

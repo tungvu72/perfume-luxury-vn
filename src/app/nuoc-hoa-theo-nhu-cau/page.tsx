@@ -6,14 +6,14 @@ import NhuCauClient from "./NhuCauClient";
 import { Suspense } from "react";
 
 export const metadata: Metadata = {
-    title: "Nước Hoa Theo Nhu Cầu — Tìm Chai Phù Hợp Nhất | Maison de SON",
-    description: "Lọc và tìm nước hoa theo thương hiệu, mùa, độ lưu hương, note hương và nhóm mùi. 218+ chai đánh giá chi tiết tại Maison de SON.",
+    title: "Tìm nước hoa theo nhu cầu, mùa và nhóm mùi | Maison de Son",
+    description: "Lọc nước hoa theo thương hiệu, mùa, nốt hương, độ đậm và hoàn cảnh sử dụng để rút gọn danh sách trước khi đọc review chi tiết.",
     alternates: {
         canonical: "https://www.maisondeson.com/nuoc-hoa-theo-nhu-cau",
     },
     openGraph: {
-        title: "Nước Hoa Theo Nhu Cầu | Maison de SON",
-        description: "Tìm chai nước hoa phù hợp nhất theo nhu cầu thực tế — lọc theo thương hiệu, mùa, note hương và nhiều tiêu chí khác.",
+        title: "Tìm nước hoa theo nhu cầu, mùa và nhóm mùi | Maison de Son",
+        description: "Lọc nước hoa theo thương hiệu, mùa, nốt hương, độ đậm và hoàn cảnh sử dụng để rút gọn danh sách trước khi đọc review chi tiết.",
     },
 };
 

@@ -6,19 +6,21 @@ import "../nuoc-hoa-theo-nhu-cau/nhucau.css";
 
 const PATH = "/nuoc-hoa-unisex-chinh-hang";
 const H1 = "Nước hoa unisex";
+const PAGE_TITLE = "Nước hoa unisex: chọn theo gu, không theo nhãn nam nữ | Maison de Son";
 const META_DESCRIPTION =
-    "Nước hoa unisex cho cả nam và nữ: gỗ, musk, hương sạch hay ngọt trung tính. Duyệt mùi theo gu thật sự, không bị gói trong nhãn giới tính.";
+    "Khám phá mùi unisex từ gỗ, trà và xạ hương đến hoa khô, da thuộc. Chọn theo nốt hương và hoàn cảnh thay vì giới tính trên nhãn.";
+const CANONICAL = "https://www.maisondeson.com/nuoc-hoa-unisex-chinh-hang";
 
 export const metadata: Metadata = {
-    title: "Nước hoa unisex | Maison de SON",
+    title: PAGE_TITLE,
     description: META_DESCRIPTION,
     alternates: {
-        canonical: `https://www.maisondeson.com${PATH}`,
+        canonical: CANONICAL,
     },
     openGraph: {
-        title: "Nước hoa unisex | Maison de SON",
+        title: PAGE_TITLE,
         description: META_DESCRIPTION,
-        url: `https://www.maisondeson.com${PATH}`,
+        url: CANONICAL,
     },
 };
 

@@ -4,15 +4,16 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Theo nốt hương | Maison de SON",
+  title: "Chọn nước hoa theo nốt hương: vani, gỗ, hoa hay cam chanh?",
   description:
-    "Khám phá nước hoa theo nốt hương tại Maison de SON. Bắt đầu từ vani, gỗ đàn hương, cam bergamot, hoa hồng, xạ hương và các nhóm mùi quen thuộc với người Việt.",
+    "Duyệt nước hoa từ nốt hương bạn đã biết mình thích, như vani, gỗ, hoa, xạ hương hay cam chanh; sau đó so sánh từng chai cụ thể.",
   alternates: {
     canonical: "https://www.maisondeson.com/theo-not-huong",
   },
   openGraph: {
-    title: "Chọn Nước Hoa Theo Nốt Hương | Maison de SON",
-    description: "Tìm nước hoa từ nốt hương bạn yêu thích — vani, gỗ, hoa, cam bergamot.",
+    title: "Chọn nước hoa theo nốt hương: vani, gỗ, hoa hay cam chanh?",
+    description:
+      "Duyệt nước hoa từ nốt hương bạn đã biết mình thích, như vani, gỗ, hoa, xạ hương hay cam chanh; sau đó so sánh từng chai cụ thể.",
   },
 };
 

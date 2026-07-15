@@ -8,15 +8,16 @@ import Image from "next/image";
 import { getProductUrl } from "@/lib/productUrl";
 
 export const metadata: Metadata = {
-  title: "Kiến Thức Nước Hoa - Review & Hướng Dẫn | Maison de SON",
+  title: "Kiến thức nước hoa: chọn mùi, dùng đúng và tránh mua sai",
   description:
-    "Cẩm nang từ Maison de SON: review nước hoa, hướng dẫn chọn mùi, phân biệt thật giả, top picks theo ngân sách.",
+    "Tìm hướng dẫn về nồng độ, cách xịt, chọn mùi theo hoàn cảnh và phân tích từng sản phẩm để hiểu nước hoa trước khi đưa ra quyết định.",
   alternates: {
     canonical: "https://www.maisondeson.com/kien-thuc",
   },
   openGraph: {
-    title: "Kiến Thức Nước Hoa | Maison de SON",
-    description: "Review và hướng dẫn chọn nước hoa chuyên sâu từ Maison de SON",
+    title: "Kiến thức nước hoa: chọn mùi, dùng đúng và tránh mua sai",
+    description:
+      "Tìm hướng dẫn về nồng độ, cách xịt, chọn mùi theo hoàn cảnh và phân tích từng sản phẩm để hiểu nước hoa trước khi đưa ra quyết định.",
   },
 };
 

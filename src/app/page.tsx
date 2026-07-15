@@ -8,9 +8,9 @@ import HomeProductTabs from "@/components/HomeProductTabs";
 import { getProductUrl } from "@/lib/productUrl";
 import { Metadata } from "next";
 
-const HOME_TITLE = "Nước hoa cho nam, nữ và unisex | Maison de SON";
+const HOME_TITLE = "Nước hoa: review và cách chọn mùi hợp gu | Maison de Son";
 const HOME_DESCRIPTION =
-  "Khám phá nước hoa với review thực tế cho khí hậu Việt Nam. Duyệt theo nam, nữ, unisex, thương hiệu, nhu cầu hoặc nốt hương — chọn mùi dễ hơn trước khi mua.";
+  "Khám phá review nước hoa nam, nữ và unisex; so sánh theo thương hiệu, nốt hương và hoàn cảnh để thu hẹp lựa chọn trước khi mua.";
 const HOME_CANONICAL = "https://www.maisondeson.com";
 
 export const metadata: Metadata = {
@@ -303,7 +303,7 @@ export default async function Home() {
                 Review nước hoa thực tế — dành cho người Việt
               </p>
               <h1 className="font-serif text-[34px] md:text-[52px] leading-[1.06] tracking-tight mt-3 md:mt-3.5 mb-4 md:mb-5 text-[var(--color-text)]">
-                Nước hoa cho từng<br className="hidden md:block" /> phong cách và hoàn cảnh
+                Tìm nước hoa hợp gu, không mua theo cảm tính
               </h1>
               <div className="space-y-3 text-base md:text-[17px] leading-[1.8] text-[var(--color-text-secondary)] max-w-[54ch]">
                 <p>

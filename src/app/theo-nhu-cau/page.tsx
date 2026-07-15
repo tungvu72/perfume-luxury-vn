@@ -4,15 +4,16 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Chọn nước hoa theo nhu cầu | Maison de SON",
+  title: "Chọn nước hoa theo hoàn cảnh: đi làm, hẹn hò, mùa hè",
   description:
-    "Tìm nước hoa theo nhu cầu thực tế tại Maison de SON: đi làm, hẹn hò, mùa hè nóng ẩm, sang trọng, dễ dùng hằng ngày và theo tầm giá phù hợp.",
+    "Bắt đầu từ hoàn cảnh bạn thường dùng nước hoa — đi làm, hẹn hò, thời tiết nóng hay dùng hằng ngày — rồi thu hẹp theo phong cách mùi.",
   alternates: {
     canonical: "https://www.maisondeson.com/theo-nhu-cau",
   },
   openGraph: {
-    title: "Chọn Nước Hoa Theo Nhu Cầu | Maison de SON",
-    description: "Đi làm, hẹn hò, mùa hè — tìm nước hoa theo nhu cầu thực tế.",
+    title: "Chọn nước hoa theo hoàn cảnh: đi làm, hẹn hò, mùa hè",
+    description:
+      "Bắt đầu từ hoàn cảnh bạn thường dùng nước hoa — đi làm, hẹn hò, thời tiết nóng hay dùng hằng ngày — rồi thu hẹp theo phong cách mùi.",
   },
 };
 
