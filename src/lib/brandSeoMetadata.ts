@@ -1,5 +1,5 @@
 /**
- * Owner-approved brand SEO metadata (BATCH_02_BRANDS_P1).
+ * Owner-approved brand SEO metadata (BATCH_02_BRANDS_P1 + BATCH_03A_BRANDS_P2).
  * Source: MaisonDeSon_SEO_All_Pages_READY_TO_APPLY.xlsx
  * Do NOT rewrite Final_* strings — copy-only implementation map.
  */
@@ -122,6 +122,127 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     description: `Khám phá nước hoa Yves Saint Laurent qua Libre, Black Opium, Y và La Nuit de L’Homme; so sánh phong cách từng dòng để chọn mùi hợp gu.`,
     h1: `Nước hoa Yves Saint Laurent (YSL)`,
     canonical: `https://www.maisondeson.com/ysl`,
+  },
+  // --- BATCH_03A_BRANDS_P2 (20 brands) ---
+  "montblanc": {
+    title: `Nước hoa Montblanc: so sánh Explorer với Signature | Maison de Son`,
+    description: `So sánh Explorer và Signature, hai cách thể hiện từ ấm và mềm đến khô và sâu của Montblanc. Chọn điểm bắt đầu hợp gu hơn.`,
+    h1: `Nước hoa Montblanc`,
+    canonical: `https://www.maisondeson.com/montblanc`,
+  },
+  "gucci": {
+    title: `Nước hoa Gucci: Bloom hay Flora Gorgeous Gardenia? | Maison de Son`,
+    description: `So sánh Bloom và Flora Gorgeous Gardenia, hai cách thể hiện từ hoa thanh lịch đến tươi sáng của Gucci. Chọn điểm bắt đầu hợp gu hơn.`,
+    h1: `Nước hoa Gucci`,
+    canonical: `https://www.maisondeson.com/gucci`,
+  },
+  "valentino": {
+    title: `Nước hoa Valentino: Uomo Born In Roma Intense, Donna Born in Roma Intense`,
+    description: `So sánh Uomo Born In Roma Intense và Donna Born in Roma Intense, hai cách thể hiện từ ngọt ấm đến ấm và sâu của Valentino. Chọn điểm bắt đầu hợp gu hơn.`,
+    h1: `Nước hoa Valentino`,
+    canonical: `https://www.maisondeson.com/valentino`,
+  },
+  "hugo-boss": {
+    title: `Nước hoa Hugo Boss: so sánh Boss Bottled với Bottled Absolu`,
+    description: `So sánh Boss Bottled và Bottled Absolu, hai cách thể hiện từ ấm và mềm đến khô và sâu của Hugo Boss. Chọn điểm bắt đầu hợp gu hơn.`,
+    h1: `Nước hoa Hugo Boss`,
+    canonical: `https://www.maisondeson.com/hugo-boss`,
+  },
+  "calvin-klein": {
+    title: `Nước hoa Calvin Klein: bắt đầu với Obsession | Maison de Son`,
+    description: `Bắt đầu với Obsession để hiểu phong cách Calvin Klein: nam tính. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Calvin Klein`,
+    canonical: `https://www.maisondeson.com/calvin-klein`,
+  },
+  "armaf": {
+    title: `Armaf: bắt đầu từ Odyssey Limoni hay Effects of Uniq? | Maison de Son`,
+    description: `Khám phá Armaf qua Odyssey Limoni, Effects of Uniq và Odyssey Mandarin Sky; từ có cá tính riêng đến ngọt ấm. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    h1: `Nước hoa Armaf`,
+    canonical: `https://www.maisondeson.com/armaf`,
+  },
+  "chloe": {
+    title: `Nước hoa Chloé: Chloé, Nomade và những hướng mùi khác biệt`,
+    description: `Khám phá Chloé qua Chloé, Nomade và Santalum; từ hoa rõ nét đến ấm và sâu. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    h1: `Nước hoa Chloé`,
+    canonical: `https://www.maisondeson.com/chloe`,
+  },
+  "coach": {
+    title: `Nước hoa Coach: bắt đầu với Coach For Men | Maison de Son`,
+    description: `Bắt đầu với Coach For Men để hiểu phong cách Coach: lê. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Coach`,
+    canonical: `https://www.maisondeson.com/coach`,
+  },
+  "givenchy": {
+    title: `Givenchy: bắt đầu từ Gentleman Réserve Privée hay L'Interdit?`,
+    description: `Khám phá Givenchy qua Gentleman Réserve Privée, L'Interdit và Organza; từ ấm và mềm đến hoa rõ nét. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    h1: `Nước hoa Givenchy`,
+    canonical: `https://www.maisondeson.com/givenchy`,
+  },
+  "carolina-herrera": {
+    title: `Nước hoa Carolina Herrera: bắt đầu với Good Girl | Maison de Son`,
+    description: `Bắt đầu với Good Girl để hiểu phong cách Carolina Herrera: cacao. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Carolina Herrera`,
+    canonical: `https://www.maisondeson.com/carolina-herrera`,
+  },
+  "burberry": {
+    title: `Nước hoa Burberry: bắt đầu với Her | Maison de Son`,
+    description: `Bắt đầu với Her để hiểu phong cách Burberry: dâu tây. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Burberry`,
+    canonical: `https://www.maisondeson.com/burberry`,
+  },
+  "louis-vuitton": {
+    title: `Nước hoa Louis Vuitton: Ombre Nomade, Imagination và những hướng mùi khác biệt`,
+    description: `Khám phá Louis Vuitton qua Ombre Nomade, Imagination và L'Immensité; từ tươi sáng đến tươi khoáng. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    h1: `Nước hoa Louis Vuitton`,
+    canonical: `https://www.maisondeson.com/louis-vuitton`,
+  },
+  "mancera": {
+    title: `Khám phá Mancera qua Instant Crush, Cedrat Boise và Sicily`,
+    description: `Khám phá Mancera qua Instant Crush, Cedrat Boise và Sicily; từ ngọt ấm đến tươi sáng. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    h1: `Nước hoa Mancera`,
+    canonical: `https://www.maisondeson.com/mancera`,
+  },
+  "amouage": {
+    title: `Nước hoa Amouage: từ Interlude Man đến Reflection Man | Maison de Son`,
+    description: `Khám phá Amouage qua Interlude Man, Reflection Man và Reflection 45 Man Extrait; từ khô và sâu đến hoa thanh lịch. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    h1: `Nước hoa Amouage`,
+    canonical: `https://www.maisondeson.com/amouage`,
+  },
+  "maison-margiela": {
+    title: `Nước hoa Maison Margiela: từ Lazy Sunday Morning đến By The Fireplace`,
+    description: `Khám phá Maison Margiela qua Lazy Sunday Morning, By The Fireplace và Replica Jazz Club; từ ấm và sâu đến sạch và mềm. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    h1: `Nước hoa Maison Margiela`,
+    canonical: `https://www.maisondeson.com/maison-margiela`,
+  },
+  "lattafa": {
+    title: `Lattafa: hai hướng mùi từ Khamrah đến Oud Forever | Maison de Son`,
+    description: `So sánh Khamrah và Oud Forever, hai cách thể hiện từ ngọt ấm đến gỗ–cay sâu của Lattafa. Chọn điểm bắt đầu hợp gu hơn.`,
+    h1: `Nước hoa Lattafa`,
+    canonical: `https://www.maisondeson.com/lattafa`,
+  },
+  "lancome": {
+    title: `Lancôme: hai hướng mùi từ La Vie Est Belle đến Trésor | Maison de Son`,
+    description: `So sánh La Vie Est Belle và Trésor, hai cách thể hiện từ ấm và sâu đến ngọt ấm của Lancôme. Chọn điểm bắt đầu hợp gu hơn.`,
+    h1: `Nước hoa Lancôme`,
+    canonical: `https://www.maisondeson.com/lancome`,
+  },
+  "dolce-gabbana": {
+    title: `Nước hoa Dolce & Gabbana: The One, Light Blue Pour Femme`,
+    description: `Khám phá Dolce & Gabbana qua The One, Light Blue Pour Femme và Light Blue Eau Intense; từ tươi khoáng đến tươi sáng. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    h1: `Nước hoa Dolce & Gabbana`,
+    canonical: `https://www.maisondeson.com/dolce-gabbana`,
+  },
+  "bvlgari": {
+    title: `Nước hoa Bvlgari: bắt đầu với Man In Black | Maison de Son`,
+    description: `Bắt đầu với Man In Black để hiểu phong cách Bvlgari: da thuộc và rượu rum. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Bvlgari`,
+    canonical: `https://www.maisondeson.com/bvlgari`,
+  },
+  "diptyque": {
+    title: `Nước hoa Diptyque: từ Doson đến Philosykos | Maison de Son`,
+    description: `Khám phá Diptyque qua Doson, Philosykos và Fleur de Peau; từ khô và sâu đến hoa thanh lịch. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    h1: `Nước hoa Diptyque`,
+    canonical: `https://www.maisondeson.com/diptyque`,
   },
 };
 
