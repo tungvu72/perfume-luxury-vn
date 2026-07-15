@@ -96,6 +96,50 @@ const nextConfig: NextConfig = {
       // YSL brand entity: canonical /ysl (see brandCanonical.ts)
       { source: '/yves-saint-laurent', destination: '/ysl', permanent: true },
       { source: '/thuong-hieu/yves-saint-laurent', destination: '/ysl', permanent: true },
+
+      // BATCH_00 entity redirects (workbook Entity_Redirects_3 / REDIRECT_308)
+      { source: '/armani', destination: '/giorgio-armani', permanent: true },
+      { source: '/thuong-hieu/armani', destination: '/giorgio-armani', permanent: true },
+      { source: '/mfk', destination: '/maison-francis-kurkdjian', permanent: true },
+      { source: '/thuong-hieu/mfk', destination: '/maison-francis-kurkdjian', permanent: true },
+      { source: '/jpg', destination: '/jean-paul-gaultier', permanent: true },
+      { source: '/thuong-hieu/jpg', destination: '/jean-paul-gaultier', permanent: true },
+      // Legacy product URL brand segments for deprecated alias slugs
+      {
+        source: '/nuoc-hoa-nam-armani-acqua-di-gio-profumo',
+        destination: '/nuoc-hoa-nam-giorgio-armani-acqua-di-gio-profumo',
+        permanent: true,
+      },
+      {
+        source: '/nuoc-hoa-nam-armani-code-parfum',
+        destination: '/nuoc-hoa-nam-giorgio-armani-code-parfum',
+        permanent: true,
+      },
+      {
+        source: '/nuoc-hoa-nam-armani-stronger-with-you-intensely',
+        destination: '/nuoc-hoa-nam-giorgio-armani-stronger-with-you-intensely',
+        permanent: true,
+      },
+      {
+        source: '/nuoc-hoa-unisex-mfk-grand-soir',
+        destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-grand-soir',
+        permanent: true,
+      },
+      {
+        source: '/nuoc-hoa-unisex-mfk-oud-satin-mood',
+        destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-oud-satin-mood',
+        permanent: true,
+      },
+      {
+        source: '/nuoc-hoa-nu-jpg-jpg-classique-edt',
+        destination: '/nuoc-hoa-nu-jean-paul-gaultier-jpg-classique-edt',
+        permanent: true,
+      },
+      {
+        source: '/nuoc-hoa-nu-jpg-jpg-la-belle-le-parfum',
+        destination: '/nuoc-hoa-nu-jean-paul-gaultier-jpg-la-belle-le-parfum',
+        permanent: true,
+      },
       // Legacy product URLs that used brandSlug yves-saint-laurent → canonical ysl segment
       {
         source: '/nuoc-hoa-nu-yves-saint-laurent-ysl-black-opium-glitter-edp',

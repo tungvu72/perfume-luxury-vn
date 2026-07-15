@@ -135,7 +135,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "subName": "Parfum",
     "image": "/images/products/099-acqua-di-gio-profumo-main.jpg",
     "gender": "nam",
-    "brandSlug": "armani",
+    "brandSlug": "giorgio-armani",
     "isPublished": true,
     "tags": [
       "Nam",
@@ -775,7 +775,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "subName": "Parfum",
     "image": "/images/products/100-code-parfum-main.jpg",
     "gender": "nam",
-    "brandSlug": "armani",
+    "brandSlug": "giorgio-armani",
     "isPublished": true,
     "tags": [
       "Nam",
@@ -1223,7 +1223,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "subName": "EDP",
     "image": "/images/products/180-grand-soir-main.jpg",
     "gender": "unisex",
-    "brandSlug": "mfk",
+    "brandSlug": "maison-francis-kurkdjian",
     "isPublished": true,
     "tags": [
       "Unisex",
@@ -1575,7 +1575,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "subName": "EDT",
     "image": "/images/products/147-jpg-classique-edt-main.jpg",
     "gender": "nu",
-    "brandSlug": "jpg",
+    "brandSlug": "jean-paul-gaultier",
     "isPublished": true,
     "tags": [
       "Nữ",
@@ -1607,7 +1607,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "subName": "Le Parfum",
     "image": "/images/products/149-jpg-la-belle-le-parfum-main.jpg",
     "gender": "nu",
-    "brandSlug": "jpg",
+    "brandSlug": "jean-paul-gaultier",
     "isPublished": true,
     "tags": [
       "Nữ",
@@ -2545,7 +2545,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "subName": "EDP",
     "image": "/images/products/181-oud-satin-mood-main.jpg",
     "gender": "unisex",
-    "brandSlug": "mfk",
+    "brandSlug": "maison-francis-kurkdjian",
     "isPublished": true,
     "tags": [
       "Unisex",
@@ -2841,7 +2841,7 @@ export const SEARCH_INDEX: SearchProduct[] = [
     "subName": "EDP",
     "image": "/images/products/103-stronger-with-you-intensely-main.jpg",
     "gender": "nam",
-    "brandSlug": "armani",
+    "brandSlug": "giorgio-armani",
     "isPublished": true,
     "tags": [
       "Hẹn hò",

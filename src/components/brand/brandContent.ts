@@ -55,7 +55,10 @@ export const BRAND_CONTENT: Record<string, {
 /** Map product brandSlug → editorial key when they differ (same brand, no new copy). */
 const EDITORIAL_SLUG_ALIASES: Record<string, string> = {
   "giorgio-armani": "armani",
+  armani: "armani", // deprecated brand path; editorial key stays armani
   "yves-saint-laurent": "ysl",
+  mfk: "maison-francis-kurkdjian",
+  jpg: "jean-paul-gaultier",
 };
 
 export function getBrandEditorial(slug: string): BrandEditorial | null {

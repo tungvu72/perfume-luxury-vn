@@ -5,20 +5,29 @@
  * Aliases permanently resolve to the canonical slug used in mockData brandSlug.
  *
  * YSL decision (2026-07-14 audit):
- * - Dominant brandSlug in catalog: "ysl" (14 products)
- * - Minority alias: "yves-saint-laurent" (3 products)
- * - Editorial profile key + header nav already use "ysl"
- * - Canonical URL: /ysl ; alias /yves-saint-laurent → permanent redirect
+ * - Dominant brandSlug in catalog: "ysl"
+ * - Minority alias: "yves-saint-laurent" → /ysl
+ *
+ * BATCH_00 entity redirects (workbook APPROVED_TECHNICAL_ACTION):
+ * - /armani → /giorgio-armani
+ * - /mfk → /maison-francis-kurkdjian
+ * - /jpg → /jean-paul-gaultier
  */
 
 /** alias slug → canonical slug */
 export const BRAND_SLUG_ALIASES: Record<string, string> = {
   "yves-saint-laurent": "ysl",
+  armani: "giorgio-armani",
+  mfk: "maison-francis-kurkdjian",
+  jpg: "jean-paul-gaultier",
 };
 
 /** Preferred display name when normalizing known aliases */
 export const BRAND_DISPLAY_CANONICAL: Record<string, string> = {
   ysl: "YVES SAINT LAURENT",
+  "giorgio-armani": "GIORGIO ARMANI",
+  "maison-francis-kurkdjian": "MAISON FRANCIS KURKDJIAN",
+  "jean-paul-gaultier": "JEAN PAUL GAULTIER",
 };
 
 export function resolveBrandSlug(slug: string | undefined | null): string {
