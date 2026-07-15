@@ -31,6 +31,8 @@ import { getBrandSeoMetadata } from '@/lib/brandSeoMetadata';
 import { getProductSeoMetadata } from '@/lib/productSeoMetadata';
 import ProductCommercialGuide from '@/components/pdp/ProductCommercialGuide';
 import { getCanonicalBrandSlug } from '@/lib/brandCanonical';
+import { getArticleSeoMetadata } from '@/lib/articleSeoMetadata';
+import ArticleIntentSupport from '@/components/article/ArticleIntentSupport';
 
 // false = unknown slugs get a real HTTP 404 (not soft-404 200 under streaming/loading.tsx).
 // All valid product / article / brand paths are emitted by generateStaticParams at build.
@@ -126,6 +128,22 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         };
     }
     if (post) {
+        const approved = getArticleSeoMetadata(slug);
+        if (approved) {
+            return {
+                title: approved.title,
+                description: approved.description,
+                alternates: { canonical: approved.canonical },
+                openGraph: {
+                    title: approved.title,
+                    description: approved.description,
+                    url: approved.canonical,
+                    images: post.mainImage ? [{ url: post.mainImage, width: 1200, height: 630 }] : [],
+                    type: 'article',
+                    publishedTime: post.publishedAt || undefined,
+                },
+            };
+        }
         return {
             title: `${post.title} | Maison de SON`,
             description: post.excerpt || `${post.title} — Maison de SON`,
@@ -271,7 +289,15 @@ function extractTOC(body: string): { id: string; text: string; level: number }[]
 }
 
 async function ArticlePage({ post, slug }: { post: any; slug: string }) {
-    const articleUrl = `${SITE_URL}/${slug}`;
+    const articleSeo = getArticleSeoMetadata(slug);
+    const articleUrl = articleSeo?.canonical || `${SITE_URL}/${slug}`;
+    const displayTitle = articleSeo?.h1 || post.title;
+    const displayDescription = articleSeo?.description || post.excerpt || '';
+    const isInformational = articleSeo?.moduleProfile === 'INFORMATIONAL_LIGHT';
+    const isCommercialArticle =
+        articleSeo?.moduleProfile === 'COMMERCIAL_FULL' ||
+        articleSeo?.moduleProfile === 'COMMERCIAL_FULL_PRICE_THRESHOLD';
+
     const [allPosts, allProducts] = await Promise.all([getAllPosts(), getAllProducts()]);
 
     const relatedPosts = allPosts
@@ -281,7 +307,32 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
         ))
         .slice(0, 3);
 
-    const relatedProducts: Perfume[] = allProducts.slice(0, 3);
+    // Contextual product chips for commercial investigation articles only
+    const articleHay = `${post.title} ${post.body || ''}`.toLowerCase();
+    const relatedProducts: Perfume[] = isCommercialArticle
+        ? allProducts
+            .filter((p) => {
+                const brand = p.brand.toLowerCase();
+                const name = p.name.toLowerCase();
+                return (
+                    articleHay.includes(p.id.toLowerCase()) ||
+                    (brand.length >= 4 && articleHay.includes(brand)) ||
+                    (name.length >= 5 && articleHay.includes(name))
+                );
+            })
+            .slice(0, 6)
+        : [];
+    // Fallback: a few published products if keyword filter yields nothing
+    const relatedProductsFinal =
+        relatedProducts.length > 0 ? relatedProducts : isCommercialArticle ? allProducts.slice(0, 4) : [];
+
+    const relatedReadings =
+        isInformational
+            ? relatedPosts.slice(0, 3).map((p: any) => ({
+                href: `/${p.urlSlug}`,
+                label: getArticleSeoMetadata(p.urlSlug)?.h1 || p.title,
+            }))
+            : [];
 
     const formattedDate = post.publishedAt
         ? new Date(post.publishedAt).toLocaleDateString('vi-VN', { year: 'numeric', month: 'long', day: 'numeric' })
@@ -296,8 +347,8 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
     const jsonLd = {
         '@context': 'https://schema.org',
         '@type': 'Article',
-        headline: post.title,
-        description: post.excerpt || '',
+        headline: displayTitle,
+        description: displayDescription,
         image: post.mainImage || PLACEHOLDER_IMAGE,
         url: articleUrl,
         datePublished: post.publishedAt || new Date().toISOString(),
@@ -341,7 +392,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 <span className="text-gray-300">/</span>
                                 <Link href="/kien-thuc" className="hover:text-primary transition-colors">Kiến thức</Link>
                                 <span className="text-gray-300">/</span>
-                                <span className="text-gray-500 line-clamp-1">{post.title}</span>
+                                <span className="text-gray-500 line-clamp-1">{displayTitle}</span>
                             </nav>
 
                             {/* Article Header Card */}
@@ -354,7 +405,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                         <span className="bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full text-[10px] font-bold border border-emerald-200">Mới cập nhật</span>
                                     )}
                                 </div>
-                                <h1 className="text-[26px] font-serif font-bold leading-[1.25] text-[#1a1a1a] sm:text-[34px] md:text-[40px]">{post.title}</h1>
+                                <h1 className="text-[26px] font-serif font-bold leading-[1.25] text-[#1a1a1a] sm:text-[34px] md:text-[40px]">{displayTitle}</h1>
                                 <div className="mt-6 flex flex-wrap items-center gap-4 text-[12px] text-gray-400 font-medium border-t border-gray-100 pt-5">
                                     <Link href="/tac-gia/maison-editorial" className="text-gray-600 hover:text-primary transition-colors font-semibold">{post.author || 'Maison de SON Editorial'}</Link>
                                     {formattedDate && <><span className="text-gray-200">|</span><span>{formattedDate}</span></>}
@@ -495,6 +546,15 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 </ReactMarkdown>
                             </article>
 
+                            {/* Shared commercial/informational intent support (SSR) */}
+                            {articleSeo ? (
+                                <ArticleIntentSupport
+                                    profile={articleSeo.moduleProfile}
+                                    relatedProducts={relatedProductsFinal}
+                                    relatedReadings={relatedReadings}
+                                />
+                            ) : null}
+
                             {/* Tags */}
                             <div className="mt-12 pt-6 border-t-2 border-[#f0ebe4]">
                                 <div className="flex flex-wrap gap-2">
@@ -509,7 +569,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
 
                             {/* Share */}
                             <div className="mt-6 pt-5 border-t border-[#f0ebe4]">
-                                <ArticleShare title={post.title} />
+                                <ArticleShare title={displayTitle} />
                             </div>
 
                             {/* Author Card */}
@@ -519,20 +579,26 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 </div>
                                 <div className="flex-1">
                                     <Link href="/tac-gia/maison-editorial" className="text-[15px] font-bold hover:text-primary transition-colors">{post.author || 'Maison de SON Editorial'}</Link>
-                                    <p className="text-[13px] text-gray-500 mt-1 leading-relaxed">Đội ngũ biên tập Maison de SON — review thực tế, không sponsored, verify số liệu từ ≥ 2 nguồn độc lập.</p>
+                                    <p className="text-[13px] text-gray-500 mt-1 leading-relaxed">
+                                        {isInformational
+                                            ? 'Đội ngũ biên tập Maison de SON — giải thích khái niệm và cách dùng, không bán hàng trên trang bài viết.'
+                                            : 'Đội ngũ biên tập Maison de SON — review độc lập, không sponsored; quan hệ thương mại không quyết định kết luận biên tập.'}
+                                    </p>
                                     <Link href="/tac-gia/maison-editorial" className="text-[11px] font-bold text-primary mt-2 inline-block hover:underline">Xem tất cả bài viết →</Link>
                                 </div>
                             </div>
 
-                            {/* CTA Box */}
-                            <section className="mt-8 rounded-2xl border border-[#e0d7ca] bg-gradient-to-br from-[#f7f2eb] to-[#faf8f5] p-6 sm:rounded-3xl sm:p-8">
-                                <h2 className="text-lg font-serif font-bold mb-2 text-[#1b120d]">Cần gợi ý mùi phù hợp sau khi đọc bài này?</h2>
-                                <p className="text-[14px] text-gray-600 mb-5 leading-[1.8]">Nếu bạn vẫn đang phân vân giữa vài lựa chọn, cứ nhắn Zalo. Maison de SON sẽ gợi ý theo gu mùi, ngân sách và hoàn cảnh dùng thực tế.</p>
-                                <div className="flex flex-col sm:flex-row gap-3">
-                                    <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 px-6 py-3.5 bg-[#0068FF] text-white text-sm font-bold rounded-full hover:bg-[#0055d4] transition-colors shadow-[0_4px_14px_rgba(0,104,255,0.3)]">💬 Hỏi qua Zalo</a>
-                                    <Link href="/nuoc-hoa-theo-nhu-cau" className="flex items-center justify-center gap-2 px-6 py-3.5 border border-[#d4c9b8] bg-white text-[#4b3b30] text-sm font-bold rounded-full hover:border-primary hover:text-primary transition-colors">Tìm nước hoa</Link>
-                                </div>
-                            </section>
+                            {/* CTA Box — commercial investigation only; no purchase CTA on informational */}
+                            {!isInformational ? (
+                                <section className="mt-8 rounded-2xl border border-[#e0d7ca] bg-gradient-to-br from-[#f7f2eb] to-[#faf8f5] p-6 sm:rounded-3xl sm:p-8">
+                                    <h2 className="text-lg font-serif font-bold mb-2 text-[#1b120d]">Cần gợi ý mùi phù hợp sau khi đọc bài này?</h2>
+                                    <p className="text-[14px] text-gray-600 mb-5 leading-[1.8]">Nếu bạn vẫn đang phân vân giữa vài lựa chọn, cứ nhắn Zalo. Maison de SON sẽ gợi ý theo gu mùi, ngân sách và hoàn cảnh dùng thực tế.</p>
+                                    <div className="flex flex-col sm:flex-row gap-3">
+                                        <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 px-6 py-3.5 bg-[#0068FF] text-white text-sm font-bold rounded-full hover:bg-[#0055d4] transition-colors shadow-[0_4px_14px_rgba(0,104,255,0.3)]">💬 Hỏi qua Zalo</a>
+                                        <Link href="/nuoc-hoa-theo-nhu-cau" className="flex items-center justify-center gap-2 px-6 py-3.5 border border-[#d4c9b8] bg-white text-[#4b3b30] text-sm font-bold rounded-full hover:border-primary hover:text-primary transition-colors">Tìm nước hoa</Link>
+                                    </div>
+                                </section>
+                            ) : null}
 
                             <div className="mt-8">
                                 <Link href="/kien-thuc" className="inline-flex items-center gap-2 text-sm text-gray-400 hover:text-primary font-semibold transition-colors">← Quay lại Kiến thức</Link>
@@ -575,24 +641,26 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     </nav>
                                 )}
 
-                                <div className="border border-[#e8e0d4] bg-white rounded-2xl p-5 shadow-[0_4px_20px_rgba(0,0,0,0.03)]">
-                                    <h3 className="text-[11px] font-bold tracking-[2px] uppercase text-gray-400 mb-4">🧴 Sản phẩm nên xem tiếp</h3>
-                                    <div className="space-y-4">
-                                        {relatedProducts.map(product => (
-                                            <Link key={product.id} href={getProductUrl(product)} className="flex items-center gap-3 group">
-                                                <div className="w-14 h-14 bg-[#f7f5f2] rounded-xl overflow-hidden flex-shrink-0 relative">
-                                                    <Image src={product.image} alt={product.name} fill sizes="56px" className="object-contain p-1 group-hover:scale-110 transition-transform" />
-                                                </div>
-                                                <div className="flex-1 min-w-0">
-                                                    <div className="text-[9px] font-bold text-primary tracking-wider uppercase">{product.brand}</div>
-                                                    <div className="text-[12px] font-semibold truncate group-hover:text-primary transition-colors">{product.name}</div>
-                                                    <div className="text-[10px] text-gray-400 mt-0.5">★ {product.score.total}/10</div>
-                                                </div>
-                                            </Link>
-                                        ))}
+                                {!isInformational && relatedProductsFinal.length > 0 ? (
+                                    <div className="border border-[#e8e0d4] bg-white rounded-2xl p-5 shadow-[0_4px_20px_rgba(0,0,0,0.03)]">
+                                        <h3 className="text-[11px] font-bold tracking-[2px] uppercase text-gray-400 mb-4">🧴 Sản phẩm nên xem tiếp</h3>
+                                        <div className="space-y-4">
+                                            {relatedProductsFinal.slice(0, 3).map(product => (
+                                                <Link key={product.id} href={getProductUrl(product)} className="flex items-center gap-3 group">
+                                                    <div className="w-14 h-14 bg-[#f7f5f2] rounded-xl overflow-hidden flex-shrink-0 relative">
+                                                        <Image src={product.image} alt={product.name} fill sizes="56px" className="object-contain p-1 group-hover:scale-110 transition-transform" />
+                                                    </div>
+                                                    <div className="flex-1 min-w-0">
+                                                        <div className="text-[9px] font-bold text-primary tracking-wider uppercase">{product.brand}</div>
+                                                        <div className="text-[12px] font-semibold truncate group-hover:text-primary transition-colors">{product.name}</div>
+                                                        <div className="text-[10px] text-gray-400 mt-0.5">★ {product.score.total}/10</div>
+                                                    </div>
+                                                </Link>
+                                            ))}
+                                        </div>
+                                        <Link href="/nuoc-hoa-theo-nhu-cau" className="block text-center text-[10px] font-bold text-primary hover:underline mt-4 pt-3 border-t border-gray-100">Xem tất cả →</Link>
                                     </div>
-                                    <Link href="/nuoc-hoa-theo-nhu-cau" className="block text-center text-[10px] font-bold text-primary hover:underline mt-4 pt-3 border-t border-gray-100">Xem tất cả →</Link>
-                                </div>
+                                ) : null}
 
                                 <div className="border border-[#e8e0d4] bg-white rounded-2xl p-5 shadow-[0_4px_20px_rgba(0,0,0,0.03)]">
                                     <h3 className="text-[11px] font-bold tracking-[2px] uppercase text-gray-400 mb-3">🏷️ Chủ đề</h3>
@@ -603,12 +671,20 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     </div>
                                 </div>
 
-                                <div className="rounded-2xl border border-[#e6d8c7] bg-[#1c130f] p-5 text-white shadow-[0_12px_40px_rgba(27,18,13,0.16)]">
-                                    <div className="text-lg mb-2">🎯</div>
-                                    <h3 className="text-[14px] font-bold mb-1.5">Tư vấn chọn nước hoa</h3>
-                                    <p className="text-[12px] opacity-80 mb-4 leading-[1.7]">Kể gu của bạn, ngân sách và hoàn cảnh dùng — Maison de SON sẽ gợi ý mùi phù hợp hơn.</p>
-                                    <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="block text-center text-[12px] font-bold bg-white text-[#1c130f] px-4 py-2.5 rounded-full hover:bg-gray-100 transition-colors">Nhắn Zalo ngay</a>
-                                </div>
+                                {!isInformational ? (
+                                    <div className="rounded-2xl border border-[#e6d8c7] bg-[#1c130f] p-5 text-white shadow-[0_12px_40px_rgba(27,18,13,0.16)]">
+                                        <div className="text-lg mb-2">🎯</div>
+                                        <h3 className="text-[14px] font-bold mb-1.5">Tư vấn chọn nước hoa</h3>
+                                        <p className="text-[12px] opacity-80 mb-4 leading-[1.7]">Kể gu của bạn, ngân sách và hoàn cảnh dùng — Maison de SON sẽ gợi ý mùi phù hợp hơn.</p>
+                                        <a href="https://zalo.me/0961226169" target="_blank" rel="noopener noreferrer" className="block text-center text-[12px] font-bold bg-white text-[#1c130f] px-4 py-2.5 rounded-full hover:bg-gray-100 transition-colors">Nhắn Zalo ngay</a>
+                                    </div>
+                                ) : (
+                                    <div className="rounded-2xl border border-[#e8e0d4] bg-white p-5 shadow-[0_4px_20px_rgba(0,0,0,0.03)]">
+                                        <h3 className="text-[11px] font-bold tracking-[2px] uppercase text-gray-400 mb-3">Minh bạch</h3>
+                                        <p className="text-[12px] text-gray-600 leading-[1.7] mb-3">Bài viết mang tính giải thích. Xem tiêu chuẩn biên tập và chính sách chỉnh sửa khi cần.</p>
+                                        <Link href="/gioi-thieu#tieu-chuan-bien-tap" className="block text-[12px] font-bold text-primary hover:underline">Tiêu chuẩn biên tập →</Link>
+                                    </div>
+                                )}
                             </div>
                         </aside>
                     </div>
