@@ -2,11 +2,10 @@
 
 import Header from "@/components/Header";
 import Link from "next/link";
-import Image from "next/image";
-import { ChevronRight, Search, Star } from "lucide-react";
+import { ChevronRight, Search } from "lucide-react";
 import { useMemo, useState, type ReactNode } from "react";
 import { Perfume } from "@/types";
-import { getProductUrl } from "@/lib/productUrl";
+import ProductListingGrid from "@/components/product/ProductListingGrid";
 
 export type CategoryRelatedLink = {
     href: string;
@@ -130,39 +129,7 @@ export default function CategoryLayout({
                         <span className="nhucau-results-count">{filteredProducts.length} sản phẩm</span>
                     </div>
 
-                    <div className="nhucau-grid">
-                        {filteredProducts.map((product) => (
-                            <Link key={product.id} href={getProductUrl(product)} className="nhucau-card">
-                                <div className="nhucau-card-img">
-                                    <div className="nhucau-card-bottle-stage">
-                                        <Image
-                                            src={product.image}
-                                            alt={product.name}
-                                            fill
-                                            sizes="(max-width: 768px) 30vw, 220px"
-                                            className="nhucau-card-bottle-image"
-                                        />
-                                    </div>
-                                </div>
-
-                                <div className="nhucau-card-info">
-                                    <h3 className="nhucau-card-name" title={product.name}>
-                                        {product.name}
-                                    </h3>
-                                    <p className="nhucau-card-brand">{product.brand}</p>
-                                    <div className="nhucau-card-meta">
-                                        <span className="nhucau-card-year">
-                                            {(product as Perfume & { year?: number }).year || "—"}
-                                        </span>
-                                        <span className="nhucau-card-score">
-                                            <Star size={12} fill="#0D7377" stroke="#0D7377" />
-                                            {product.score.total}
-                                        </span>
-                                    </div>
-                                </div>
-                            </Link>
-                        ))}
-                    </div>
+                    <ProductListingGrid products={filteredProducts} />
                 </div>
 
                 {filteredProducts.length === 0 && (

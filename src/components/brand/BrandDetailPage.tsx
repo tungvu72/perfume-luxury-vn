@@ -1,21 +1,17 @@
 import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Footer from "@/components/Footer";
-import Link from "next/link";
-import Image from "next/image";
-import { StarIcon, MapPin, Calendar, User, Sparkles } from "lucide-react";
-import { MASTER_PERFUMES } from "@/constants/mockData";
-import { filterValidProducts } from "@/lib/productValidation";
-import { getProductUrl } from "@/lib/productUrl";
+import { MapPin, Calendar, User, Sparkles } from "lucide-react";
 import type { Perfume } from "@/types";
 import { getBrandEditorial } from "@/components/brand/brandContent";
 import {
-  brandSlugsMatch,
   getCanonicalBrandDisplayName,
   resolveBrandSlug,
 } from "@/lib/brandCanonical";
 import { getBrandSeoMetadata } from "@/lib/brandSeoMetadata";
 import BrandCommercialGuide from "@/components/brand/BrandCommercialGuide";
+import ProductListingGrid from "@/components/product/ProductListingGrid";
+import { getProductsForCanonicalBrand } from "@/lib/brandMembership";
 
 export type BrandDetailModel = {
   name: string;
@@ -26,17 +22,10 @@ export type BrandDetailModel = {
   h1?: string;
 };
 
-/** Build brand detail from catalog SoT (mockData). */
+/** Build brand detail from canonical membership resolver. */
 export function buildBrandDetail(brandSlug: string): BrandDetailModel | null {
   const canonical = resolveBrandSlug(brandSlug);
-  const products = filterValidProducts(
-    MASTER_PERFUMES.filter((p) =>
-      brandSlugsMatch(
-        p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, "-"),
-        canonical
-      )
-    )
-  );
+  const products = getProductsForCanonicalBrand(canonical);
   if (products.length === 0) return null;
   const seo = getBrandSeoMetadata(canonical);
   return {
@@ -142,45 +131,8 @@ export default function BrandDetailPage({ brand }: { brand: BrandDetailModel }) 
                           </span>
                       </div>
       
-                      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-                          {brand.products.map((product, i) => (
-                              <Link
-                                  key={product.id}
-                                  href={getProductUrl(product)}
-                                  className="group rounded-2xl border border-[#eadfce] bg-white overflow-hidden hover:shadow-[0_12px_40px_rgba(27,18,13,0.08)] transition-all duration-300"
-                              >
-                                  <div className="aspect-[3/4] bg-[#faf8f6] relative overflow-hidden">
-                                      <Image
-                                          src={product.image}
-                                          alt={`${product.brand} ${product.name}`}
-                                          fill
-                                          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                                          className="object-contain p-6 group-hover:scale-105 transition-transform duration-500"
-                                      />
-                                      <div className="absolute top-4 right-4">
-                                          <div className="w-11 h-11 bg-white/90 backdrop-blur-sm rounded-full flex flex-col items-center justify-center border border-[#eadfce] shadow-sm">
-                                              <span className="text-xs font-bold text-amber-700 leading-none">{product.score.total}</span>
-                                              <span className="text-[6px] font-bold text-gray-400 uppercase mt-0.5">Score</span>
-                                          </div>
-                                      </div>
-                                  </div>
-                                  <div className="p-5">
-                                      <p className="text-[10px] font-bold text-gray-400 tracking-[0.2em] uppercase mb-1">{product.subName || 'Eau de Parfum'}</p>
-                                      <h3 className="text-lg font-semibold mb-2 group-hover:text-amber-700 transition-colors">{product.name}</h3>
-                                      <div className="flex items-center gap-1.5 mb-3">
-                                          <div className="flex text-amber-500">
-                                              {[...Array(5)].map((_, j) => <StarIcon key={j} size={10} fill="currentColor" />)}
-                                          </div>
-                                          <span className="text-[10px] text-gray-400 font-medium">{product.score.total}/10</span>
-                                      </div>
-                                      {product.verdictShort && (
-                                          <p className="text-[11px] text-gray-500 leading-relaxed mb-3">{product.verdictShort}</p>
-                                      )}
-                                      <p className="text-base font-serif font-medium">{product.basePrice?.toLocaleString('vi-VN')} ₫</p>
-                                  </div>
-                              </Link>
-                          ))}
-                      </div>
+                      {/* Shared canonical listing card/grid (same system as /nuoc-hoa-nam) */}
+                      <ProductListingGrid products={brand.products} />
                   </section>
       
                   {/* BRAND STORY */}

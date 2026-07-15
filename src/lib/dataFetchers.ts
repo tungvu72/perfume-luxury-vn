@@ -3,18 +3,15 @@ import type { Perfume } from '@/types'
 import { cache } from 'react'
 import { filterValidProducts } from '@/lib/productValidation'
 import { findProductByNewSlug, isProductSlug } from '@/lib/productUrl'
+import { resolveBrandSlug } from '@/lib/brandCanonical'
 import {
-    brandSlugsMatch,
-    getCanonicalBrandDisplayName,
-    getCanonicalBrandSlug,
-    resolveBrandSlug,
-} from '@/lib/brandCanonical'
+    getCanonicalBrandCatalog,
+    getProductsForCanonicalBrand,
+} from '@/lib/brandMembership'
 
 // ─── DATA LAYER ─────────────────────────────────────────────────────────────
 // Sanity CMS not configured — all functions return local mockData directly.
 // Zero-latency: no network calls, fully static-renderable.
-// To re-enable Sanity CMS: configure NEXT_PUBLIC_SANITY_PROJECT_ID in env
-// and restore the client.fetch() calls from git history.
 // ─────────────────────────────────────────────────────────────────────────────
 
 export const getAllProducts = cache(async (): Promise<Perfume[]> => {
@@ -38,13 +35,7 @@ export const getProductsByGender = cache(async (gender: string): Promise<Perfume
 })
 
 export const getProductsByBrand = cache(async (brandSlug: string): Promise<Perfume[]> => {
-    const canonical = resolveBrandSlug(brandSlug);
-    return filterValidProducts(
-        MASTER_PERFUMES.filter(p =>
-            p.isPublished === true &&
-            brandSlugsMatch(getCanonicalBrandSlug(p), canonical)
-        )
-    );
+    return getProductsForCanonicalBrand(brandSlug);
 })
 
 export const searchProducts = async (searchTerm: string): Promise<Perfume[]> => {
@@ -72,18 +63,12 @@ export const getRelatedProducts = cache(async (currentSlug: string, brandName: s
 })
 
 export const getAllBrands = cache(async () => {
-    const brandMap = new Map<string, any>();
-    MASTER_PERFUMES.filter(p => p.isPublished === true).forEach(p => {
-        const slug = getCanonicalBrandSlug(p);
-        const name = getCanonicalBrandDisplayName(p);
-        const existing = brandMap.get(slug);
-        if (existing) {
-            existing.productCount += 1;
-        } else {
-            brandMap.set(slug, { _id: slug, name, slug, productCount: 1 });
-        }
-    });
-    return Array.from(brandMap.values());
+    return getCanonicalBrandCatalog().map((b) => ({
+        _id: b.slug,
+        name: b.name,
+        slug: b.slug,
+        productCount: b.productCount,
+    }));
 })
 
 export const getBrandBySlug = cache(async (slug: string) => {
