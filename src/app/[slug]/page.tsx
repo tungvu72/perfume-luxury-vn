@@ -21,6 +21,7 @@ import RelatedArticles from '@/components/RelatedArticles';
 import Footer from '@/components/Footer';
 import BrandDetailPage, { buildBrandDetail } from '@/components/brand/BrandDetailPage';
 import { getBrandEditorial } from '@/components/brand/brandContent';
+import { getBrandSeoMetadata } from '@/lib/brandSeoMetadata';
 
 // false = unknown slugs get a real HTTP 404 (not soft-404 200 under streaming/loading.tsx).
 // All valid product / article / brand paths are emitted by generateStaticParams at build.
@@ -76,15 +77,27 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         };
     }
     if (brand) {
+        const approved = getBrandSeoMetadata(brand.slug);
+        if (approved) {
+            return {
+                title: approved.title,
+                description: approved.description,
+                alternates: { canonical: approved.canonical },
+                openGraph: {
+                    title: approved.title,
+                    description: approved.description,
+                    url: approved.canonical,
+                },
+            };
+        }
         const editorial = getBrandEditorial(brand.slug);
         return {
             title: editorial?.intro
-                ? `Nước hoa ${brand.name} | Review & Gợi ý chọn mùi 2026 | Maison de SON`
-                : `Nước hoa ${brand.name} | Maison de SON`,
+                ? `Nước hoa ${brand.name} | Review & Gợi ý chọn mùi | Maison de Son`
+                : `Nước hoa ${brand.name} | Maison de Son`,
             description:
                 editorial?.intro ||
-                `Khám phá nước hoa ${brand.name} tại Maison de SON với review và gợi ý chọn mùi phù hợp cho người Việt.`,
-            keywords: [brand.name, `nước hoa ${brand.name}`, `${brand.name} chính hãng`, `mua ${brand.name}`],
+                `Khám phá nước hoa ${brand.name} tại Maison de Son với review và gợi ý chọn mùi phù hợp.`,
             alternates: { canonical: `${CANONICAL_BASE}/${brand.slug}` },
         };
     }

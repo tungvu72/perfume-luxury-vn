@@ -9,28 +9,41 @@ import { filterValidProducts } from "@/lib/productValidation";
 import { getProductUrl } from "@/lib/productUrl";
 import type { Perfume } from "@/types";
 import { getBrandEditorial } from "@/components/brand/brandContent";
+import {
+  brandSlugsMatch,
+  getCanonicalBrandDisplayName,
+  resolveBrandSlug,
+} from "@/lib/brandCanonical";
+import { getBrandSeoMetadata } from "@/lib/brandSeoMetadata";
 
 export type BrandDetailModel = {
   name: string;
   slug: string;
   products: Perfume[];
   productCount: number;
+  /** Owner-approved visible H1 when present (BATCH_02+) */
+  h1?: string;
 };
 
 /** Build brand detail from catalog SoT (mockData). */
 export function buildBrandDetail(brandSlug: string): BrandDetailModel | null {
+  const canonical = resolveBrandSlug(brandSlug);
   const products = filterValidProducts(
-    MASTER_PERFUMES.filter(
-      (p) =>
-        (p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, "-")) === brandSlug
+    MASTER_PERFUMES.filter((p) =>
+      brandSlugsMatch(
+        p.brandSlug || p.brand.toLowerCase().replace(/\s+/g, "-"),
+        canonical
+      )
     )
   );
   if (products.length === 0) return null;
+  const seo = getBrandSeoMetadata(canonical);
   return {
-    name: products[0].brand,
-    slug: brandSlug,
+    name: getCanonicalBrandDisplayName(products[0]) || products[0].brand,
+    slug: canonical,
     products,
     productCount: products.length,
+    h1: seo?.h1,
   };
 }
 
@@ -53,7 +66,7 @@ export default function BrandDetailPage({ brand }: { brand: BrandDetailModel }) 
                           <Breadcrumbs items={[{ label: 'Thương hiệu', href: '/thuong-hieu' }, { label: brand.name }]} />
                           <div className="mt-8 max-w-3xl">
                               <p className="text-[11px] font-bold uppercase tracking-[0.3em] text-amber-400/80 mb-4">Hồ sơ thương hiệu</p>
-                              <h1 className="text-5xl md:text-7xl font-serif mb-6 leading-[1.1]">{brand.name}</h1>
+                              <h1 className="text-5xl md:text-7xl font-serif mb-6 leading-[1.1]">{brand.h1 || brand.name}</h1>
                               {hasContent && (
                                   <p className="text-gray-300 leading-relaxed text-base md:text-lg max-w-2xl">
                                       {content.intro}
