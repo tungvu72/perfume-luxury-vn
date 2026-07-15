@@ -1,5 +1,5 @@
 /**
- * Owner-approved brand SEO metadata (BATCH_02 + BATCH_03A + BATCH_03B).
+ * Owner-approved brand SEO metadata (BATCH_02 + BATCH_03A + BATCH_03B + BATCH_03C).
  * Source: MaisonDeSon_SEO_All_Pages_READY_TO_APPLY.xlsx
  * Do NOT rewrite Final_* strings — copy-only implementation map.
  */
@@ -364,6 +364,115 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     description: `Bắt đầu với Vibrato để hiểu phong cách Sospiro: bưởi và gừng. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
     h1: `Nước hoa Sospiro`,
     canonical: `https://www.maisondeson.com/sospiro`,
+  },
+  // --- BATCH_03C_BRANDS_P2 (18 brands — final slice) ---
+  "bdk-parfums": {
+    title: `Nước hoa BDK Parfums: bắt đầu với Gris Charnel Extrait | Maison de Son`,
+    description: `Bắt đầu với Gris Charnel Extrait để hiểu phong cách BDK Parfums: gỗ đàn hương và trà đen. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa BDK Parfums`,
+    canonical: `https://www.maisondeson.com/bdk-parfums`,
+  },
+  "liquides-imaginaires": {
+    title: `Nước hoa Liquides Imaginaires: bắt đầu với Blanche Bête | Maison de Son`,
+    description: `Bắt đầu với Blanche Bête để hiểu phong cách Liquides Imaginaires: vani và hoa nhài. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Liquides Imaginaires`,
+    canonical: `https://www.maisondeson.com/liquides-imaginaires`,
+  },
+  "maison-alhambra": {
+    title: `Nước hoa Maison Alhambra: bắt đầu với Deliah Blanc | Maison de Son`,
+    description: `Bắt đầu với Deliah Blanc để hiểu phong cách Maison Alhambra: hoa hồng và quả vải. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Maison Alhambra`,
+    canonical: `https://www.maisondeson.com/maison-alhambra`,
+  },
+  "al-ambra": {
+    title: `Nước hoa Al Ambra: bắt đầu với Dubai Musk | Maison de Son`,
+    description: `Bắt đầu với Dubai Musk để hiểu phong cách Al Ambra: xạ hương và quýt. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Al Ambra`,
+    canonical: `https://www.maisondeson.com/al-ambra`,
+  },
+  "elizabeth-arden": {
+    title: `Nước hoa Elizabeth Arden: bắt đầu với White Tea | Maison de Son`,
+    description: `Bắt đầu với White Tea để hiểu phong cách Elizabeth Arden: trà. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Elizabeth Arden`,
+    canonical: `https://www.maisondeson.com/elizabeth-arden`,
+  },
+  "ella-k": {
+    title: `Nước hoa Ella K: bắt đầu với Pluie Sur Ha Long | Maison de Son`,
+    description: `Bắt đầu với Pluie Sur Ha Long để hiểu phong cách Ella K: hoa sen và măng cụt. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Ella K`,
+    canonical: `https://www.maisondeson.com/ella-k`,
+  },
+  "ex-nihilo": {
+    title: `Nước hoa Ex Nihilo: bắt đầu với Blue Talisman | Maison de Son`,
+    description: `Bắt đầu với Blue Talisman để hiểu phong cách Ex Nihilo: lê và gỗ Akigalawood. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Ex Nihilo`,
+    canonical: `https://www.maisondeson.com/ex-nihilo`,
+  },
+  "gritti": {
+    title: `Nước hoa Gritti: bắt đầu với TuTu | Maison de Son`,
+    description: `Bắt đầu với TuTu để hiểu phong cách Gritti: dừa và táo. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Gritti`,
+    canonical: `https://www.maisondeson.com/gritti`,
+  },
+  "jimmy-choo": {
+    title: `Nước hoa Jimmy Choo: bắt đầu với I Want Choo | Maison de Son`,
+    description: `Bắt đầu với I Want Choo để hiểu phong cách Jimmy Choo: đào và hoa nhài. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Jimmy Choo`,
+    canonical: `https://www.maisondeson.com/jimmy-choo`,
+  },
+  "lorchestre": {
+    title: `Nước hoa L'Orchestre: bắt đầu với Piano Santal | Maison de Son`,
+    description: `Bắt đầu với Piano Santal để hiểu phong cách L'Orchestre: gỗ đàn hương. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa L'Orchestre`,
+    canonical: `https://www.maisondeson.com/lorchestre`,
+  },
+  "lalique": {
+    title: `Nước hoa Lalique: bắt đầu với Encre Noire | Maison de Son`,
+    description: `Bắt đầu với Encre Noire để hiểu phong cách Lalique: cỏ hương bài. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Lalique`,
+    canonical: `https://www.maisondeson.com/lalique`,
+  },
+  "le-labo": {
+    title: `Nước hoa Le Labo: so sánh Santal 33 với Thé Noir 29 | Maison de Son`,
+    description: `So sánh Santal 33 và Thé Noir 29, hai cách thể hiện hai cách thể hiện khác nhau trong cùng tinh thần khô và sâu của Le Labo. Chọn điểm bắt đầu hợp gu hơn.`,
+    h1: `Nước hoa Le Labo`,
+    canonical: `https://www.maisondeson.com/le-labo`,
+  },
+  "mcm": {
+    title: `Nước hoa MCM: bắt đầu với MCM Eau de Parfum | Maison de Son`,
+    description: `Bắt đầu với MCM Eau de Parfum để hiểu phong cách MCM: mơ và hoa mẫu đơn. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa MCM`,
+    canonical: `https://www.maisondeson.com/mcm`,
+  },
+  "moschino": {
+    title: `Nước hoa Moschino: bắt đầu với Toy Boy | Maison de Son`,
+    description: `Bắt đầu với Toy Boy để hiểu phong cách Moschino: hoa hồng và tiêu. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Moschino`,
+    canonical: `https://www.maisondeson.com/moschino`,
+  },
+  "attar-collection": {
+    title: `Nước hoa Attar Collection: bắt đầu với Musk Kashmir | Maison de Son`,
+    description: `Bắt đầu với Musk Kashmir để hiểu phong cách Attar Collection: xạ hương trắng. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Attar Collection`,
+    canonical: `https://www.maisondeson.com/attar-collection`,
+  },
+  "paco-rabanne": {
+    title: `Nước hoa Paco Rabanne: bắt đầu với Pure XS | Maison de Son`,
+    description: `Bắt đầu với Pure XS để hiểu phong cách Paco Rabanne: vani và gừng. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Paco Rabanne`,
+    canonical: `https://www.maisondeson.com/paco-rabanne`,
+  },
+  "roja": {
+    title: `Nước hoa Roja Dove: bắt đầu với Burlington 1819 | Maison de Son`,
+    description: `Bắt đầu với Burlington 1819 để hiểu phong cách Roja Dove: cam và chanh. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Roja Dove`,
+    canonical: `https://www.maisondeson.com/roja`,
+  },
+  "thomas-kosmala": {
+    title: `Nước hoa Thomas Kosmala: bắt đầu với No 4 Apres l'Amour | Maison de Son`,
+    description: `Bắt đầu với No 4 Apres l'Amour để hiểu phong cách Thomas Kosmala: ambroxan và chanh. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Thomas Kosmala`,
+    canonical: `https://www.maisondeson.com/thomas-kosmala`,
   },
 };
 
