@@ -190,11 +190,12 @@ export default function ProductClientV2({
   }, [lightboxOpen]);
 
   if (!product) return null;
-  if (!mounted) return <div className="min-h-screen bg-[var(--color-bg)]" />;
 
+  // Always SSR the product shell (H1, commercial guide, editorial) for SEO.
+  // Client-only widgets (lightbox, compare state) gate on `mounted` only.
   return (
     <>
-      {lightboxOpen && (
+      {mounted && lightboxOpen && (
         <Lightbox
           images={allImages}
           activeImage={activeImage}
