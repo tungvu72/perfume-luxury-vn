@@ -5,6 +5,7 @@
  * BRAND_METADATA_EDITORIAL_HOTFIX_37: title+description only for 37 brands.
  * COMMERCIAL_V5_BRANDS_A_19: first commercial brand metadata slice (19 brands).
  * COMMERCIAL_V6_BRANDS_B_19: second commercial brand metadata slice (19 brands).
+ * COMMERCIAL_V7_BRANDS_C_19: third commercial brand metadata slice (19 brands).
  */
 
 import { resolveBrandSlug } from '@/lib/brandCanonical';
@@ -140,8 +141,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/gucci`,
   },
   "valentino": {
-    title: `Nước hoa Valentino: Uomo Born In Roma Intense, Donna Born in Roma Intense`,
-    description: `So sánh Uomo Born In Roma Intense và Donna Born in Roma Intense, hai cách thể hiện từ ngọt ấm đến ấm và sâu của Valentino. Chọn điểm bắt đầu hợp gu hơn.`,
+    title: `Nước hoa Valentino chính hãng: giá Born in Roma Intense`,
+    description: `So sánh Uomo và Donna Born in Roma Intense theo độ ngọt, độ ấm và phong cách dùng; xem giá tham khảo và tiêu chí chọn nguồn mua chính hãng.`,
     h1: `Nước hoa Valentino`,
     canonical: `https://www.maisondeson.com/valentino`,
   },
@@ -152,8 +153,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/hugo-boss`,
   },
   "calvin-klein": {
-    title: `Nước hoa Calvin Klein: Obsession và nét ấm cổ điển`,
-    description: `Obsession đại diện cho một Calvin Klein ấm, đậm và nam tính hơn các dòng tối giản quen thuộc. Xem đây có phải phong cách bạn muốn theo đuổi.`,
+    title: `Nước hoa Calvin Klein chính hãng: giá Obsession và review`,
+    description: `Obsession thể hiện phong cách ấm, đậm và cổ điển của Calvin Klein; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua hàng chính hãng.`,
     h1: `Nước hoa Calvin Klein`,
     canonical: `https://www.maisondeson.com/calvin-klein`,
   },
@@ -170,8 +171,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/chloe`,
   },
   "coach": {
-    title: `Nước hoa Coach: Coach For Men với sắc lê tươi hiện đại`,
-    description: `Coach For Men mở bằng sắc lê tươi rồi chuyển sang cảm giác gọn gàng, hiện đại. Một lựa chọn đáng xem khi bạn thích mùi nam dễ tiếp cận.`,
+    title: `Nước hoa Coach chính hãng: giá Coach for Men và review`,
+    description: `Coach for Men mở bằng sắc lê tươi rồi chuyển sang cảm giác gọn gàng, hiện đại; xem giá tham khảo và tiêu chí chọn nguồn mua Coach chính hãng.`,
     h1: `Nước hoa Coach`,
     canonical: `https://www.maisondeson.com/coach`,
   },
@@ -182,14 +183,14 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/givenchy`,
   },
   "carolina-herrera": {
-    title: `Nước hoa Carolina Herrera: Good Girl với cacao tối, nữ tính`,
-    description: `Good Girl dùng sắc cacao tối để tạo tương phản với phần hoa nữ tính. Xem cấu trúc sáng–tối này có hợp phong cách và dịp bạn thường dùng.`,
+    title: `Nước hoa Carolina Herrera chính hãng: giá Good Girl`,
+    description: `Good Girl dùng cacao tối để tạo tương phản với phần hoa nữ tính; xem review, giá tham khảo cùng tiêu chí chọn nơi mua Carolina Herrera chính hãng.`,
     h1: `Nước hoa Carolina Herrera`,
     canonical: `https://www.maisondeson.com/carolina-herrera`,
   },
   "burberry": {
-    title: `Nước hoa Burberry: Her và sắc dâu ngọt trẻ trung`,
-    description: `Burberry Her xoay quanh sắc dâu ngọt, tươi và hiện đại. Đọc phân tích để biết nét trẻ trung này hợp dùng hằng ngày hay dễ trở nên quá ngọt.`,
+    title: `Nước hoa Burberry chính hãng: giá Burberry Her và review`,
+    description: `Burberry Her nổi bật với sắc dâu ngọt, tươi và trẻ trung; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua nước hoa Burberry chính hãng.`,
     h1: `Nước hoa Burberry`,
     canonical: `https://www.maisondeson.com/burberry`,
   },
@@ -218,8 +219,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/maison-margiela`,
   },
   "lattafa": {
-    title: `Lattafa: hai hướng mùi từ Khamrah đến Oud Forever | Maison de Son`,
-    description: `So sánh Khamrah và Oud Forever, hai cách thể hiện từ ngọt ấm đến gỗ–cay sâu của Lattafa. Chọn điểm bắt đầu hợp gu hơn.`,
+    title: `Nước hoa Lattafa chính hãng: giá Khamrah, Oud Forever và review`,
+    description: `So sánh Khamrah và Oud Forever từ ngọt ấm đến gỗ cay sâu; xem review, giá tham khảo và tiêu chí chọn nguồn mua nước hoa Lattafa chính hãng.`,
     h1: `Nước hoa Lattafa`,
     canonical: `https://www.maisondeson.com/lattafa`,
   },
@@ -236,8 +237,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/dolce-gabbana`,
   },
   "bvlgari": {
-    title: `Nước hoa Bvlgari: Man In Black, rum ấm và da thuộc`,
-    description: `Man In Black kết hợp sắc rum ấm với da thuộc, tạo phong cách tối và đậm. Xem mùi này hợp những dịp cần điểm nhấn hay sẽ quá nặng với bạn.`,
+    title: `Nước hoa Bvlgari chính hãng: giá Man in Black và review`,
+    description: `Man in Black kết hợp rum ấm với da thuộc theo hướng tối và đậm; xem review, giá tham khảo cùng tiêu chí chọn nơi mua Bvlgari chính hãng.`,
     h1: `Nước hoa Bvlgari`,
     canonical: `https://www.maisondeson.com/bvlgari`,
   },
@@ -285,14 +286,14 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/frederic-malle`,
   },
   "acqua-di-parma": {
-    title: `Nước hoa Acqua di Parma: Colonia và phong cách citrus Ý`,
-    description: `Colonia mở ra phong cách Acqua di Parma bằng cam chanh sáng, sạch và cổ điển. Phù hợp để khám phá chất thanh lịch không phô trương của hãng.`,
+    title: `Nước hoa Acqua di Parma chính hãng: giá Colonia và review`,
+    description: `Colonia thể hiện phong cách citrus Ý sáng, sạch và cổ điển; xem review, giá tham khảo cùng tiêu chí chọn nơi mua Acqua di Parma chính hãng.`,
     h1: `Nước hoa Acqua Di Parma`,
     canonical: `https://www.maisondeson.com/acqua-di-parma`,
   },
   "davidoff": {
-    title: `Nước hoa Davidoff: Cool Water cho gu biển xanh sạch`,
-    description: `Cool Water kết hợp cảm giác biển xanh với oải hương theo hướng mát và dễ nhận biết. Xem cấu trúc kinh điển này còn hợp gu hiện tại của bạn không.`,
+    title: `Nước hoa Davidoff chính hãng: giá Cool Water và review`,
+    description: `Cool Water kết hợp cảm giác biển xanh với oải hương theo hướng mát và dễ nhận biết; xem giá tham khảo và tiêu chí chọn nơi mua Davidoff chính hãng.`,
     h1: `Nước hoa Davidoff`,
     canonical: `https://www.maisondeson.com/davidoff`,
   },
@@ -315,8 +316,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/penhaligons`,
   },
   "elie-saab": {
-    title: `Nước hoa Elie Saab: Le Parfum, hoa cam phủ mật ong`,
-    description: `Le Parfum kết hợp hoa cam với mật ong theo hướng sáng, ấm và nữ tính. Một lựa chọn đáng cân nhắc khi bạn thích phong cách thanh lịch có độ ngọt.`,
+    title: `Nước hoa Elie Saab chính hãng: giá Le Parfum và review`,
+    description: `Le Parfum kết hợp hoa cam với mật ong theo hướng sáng, ấm và nữ tính; xem giá tham khảo cùng tiêu chí chọn nguồn mua Elie Saab chính hãng.`,
     h1: `Nước hoa Elie Saab`,
     canonical: `https://www.maisondeson.com/elie-saab`,
   },
@@ -345,8 +346,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/viktor-rolf`,
   },
   "azzaro": {
-    title: `Nước hoa Azzaro: The Most Wanted Parfum, gừng cay và vani`,
-    description: `The Most Wanted Parfum đặt gừng cay trên nền vani ấm, tạo cảm giác ngọt nhưng có độ sắc. Xem cấu trúc này hợp đi chơi hay dễ quá dày.`,
+    title: `Nước hoa Azzaro chính hãng: giá The Most Wanted Parfum`,
+    description: `The Most Wanted Parfum đặt gừng cay trên nền vani ấm và ngọt; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua nước hoa Azzaro chính hãng.`,
     h1: `Nước hoa Azzaro`,
     canonical: `https://www.maisondeson.com/azzaro`,
   },
@@ -370,8 +371,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
   },
   // --- BATCH_03C_BRANDS_P2 (18 brands — final slice) ---
   "bdk-parfums": {
-    title: `Nước hoa BDK Parfums: Gris Charnel Extrait đậm trà và gỗ`,
-    description: `Gris Charnel Extrait đẩy trà đen và gỗ đàn hương theo hướng đậm, tối hơn. Phù hợp để khám phá BDK Parfums qua một mùi giàu chiều sâu.`,
+    title: `Nước hoa BDK Parfums chính hãng: giá Gris Charnel Extrait`,
+    description: `Gris Charnel Extrait khai thác trà đen và gỗ đàn hương theo hướng đậm, tối; xem giá tham khảo và tiêu chí chọn nơi mua BDK Parfums chính hãng.`,
     h1: `Nước hoa BDK Parfums`,
     canonical: `https://www.maisondeson.com/bdk-parfums`,
   },
@@ -388,32 +389,32 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/maison-alhambra`,
   },
   "al-ambra": {
-    title: `Nước hoa Al Ambra: Dubai Musk với xạ hương và quýt`,
-    description: `Dubai Musk đặt xạ hương sạch cạnh sắc quýt sáng, tạo cảm giác nhẹ và dễ tiếp cận. Xem đây có phải kiểu musk hợp nhịp dùng của bạn.`,
+    title: `Nước hoa Al Ambra chính hãng: giá Dubai Musk và review`,
+    description: `Dubai Musk kết hợp xạ hương sạch với sắc quýt sáng, nhẹ và dễ tiếp cận; xem giá tham khảo cùng tiêu chí chọn nguồn mua Al Ambra chính hãng.`,
     h1: `Nước hoa Al Ambra`,
     canonical: `https://www.maisondeson.com/al-ambra`,
   },
   "elizabeth-arden": {
-    title: `Nước hoa Elizabeth Arden: White Tea thanh nhẹ, dễ gần`,
-    description: `White Tea tập trung vào cảm giác trà sạch, dịu và thư thái. Một điểm vào đơn giản của Elizabeth Arden cho người không thích mùi quá phô trương.`,
+    title: `Nước hoa Elizabeth Arden chính hãng: giá White Tea`,
+    description: `White Tea tập trung vào cảm giác trà sạch, dịu và thư thái; xem review, giá tham khảo cùng tiêu chí chọn nơi mua Elizabeth Arden chính hãng.`,
     h1: `Nước hoa Elizabeth Arden`,
     canonical: `https://www.maisondeson.com/elizabeth-arden`,
   },
   "ella-k": {
-    title: `Nước hoa Ella K: Pluie Sur Ha Long, sen xanh và măng cụt`,
-    description: `Pluie Sur Ha Long kết hợp hoa sen với sắc măng cụt, gợi cảm giác xanh và trong. Khám phá cách Ella K kể câu chuyện Hạ Long bằng mùi hương.`,
+    title: `Nước hoa Ella K chính hãng: giá Pluie Sur Ha Long và review`,
+    description: `Pluie Sur Ha Long kết hợp hoa sen với sắc măng cụt xanh và trong; xem giá tham khảo cùng tiêu chí chọn nguồn mua nước hoa Ella K chính hãng.`,
     h1: `Nước hoa Ella K`,
     canonical: `https://www.maisondeson.com/ella-k`,
   },
   "ex-nihilo": {
-    title: `Nước hoa Ex Nihilo: Blue Talisman, lê sáng và gỗ hiện đại`,
-    description: `Blue Talisman đưa sắc lê tươi lên nền gỗ Akigalawood hiện đại. Xem sự tương phản sáng–khô này có hợp gu thành thị của bạn.`,
+    title: `Nước hoa Ex Nihilo chính hãng: giá Blue Talisman và review`,
+    description: `Blue Talisman đưa sắc lê tươi lên nền gỗ Akigalawood hiện đại; xem review, giá tham khảo cùng tiêu chí chọn nơi mua Ex Nihilo chính hãng.`,
     h1: `Nước hoa Ex Nihilo`,
     canonical: `https://www.maisondeson.com/ex-nihilo`,
   },
   "gritti": {
-    title: `Nước hoa Gritti: TuTu, dừa mềm và táo tươi`,
-    description: `TuTu kết hợp dừa mềm với táo tươi, tạo cảm giác ngọt nhưng vẫn có độ sáng. Trang này giúp bạn cân nhắc chất gourmand trẻ trung ấy.`,
+    title: `Nước hoa Gritti chính hãng: giá TuTu và review`,
+    description: `TuTu kết hợp dừa mềm với táo tươi, tạo cảm giác gourmand ngọt nhưng vẫn sáng; xem giá tham khảo và tiêu chí chọn nguồn mua Gritti chính hãng.`,
     h1: `Nước hoa Gritti`,
     canonical: `https://www.maisondeson.com/gritti`,
   },
@@ -436,8 +437,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/lalique`,
   },
   "le-labo": {
-    title: `Nước hoa Le Labo: Santal 33 hay Thé Noir 29?`,
-    description: `So sánh Santal 33 với Thé Noir 29: một bên khô, gỗ và da thuộc; một bên tối hơn với trà đen. Chọn điểm bắt đầu hợp gu của bạn.`,
+    title: `Nước hoa Le Labo chính hãng: giá Santal 33, Thé Noir 29`,
+    description: `So sánh Santal 33 và Thé Noir 29 giữa gỗ khô, da thuộc và trà đen; xem giá tham khảo cùng tiêu chí chọn nơi mua Le Labo chính hãng.`,
     h1: `Nước hoa Le Labo`,
     canonical: `https://www.maisondeson.com/le-labo`,
   },
@@ -454,8 +455,8 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     canonical: `https://www.maisondeson.com/moschino`,
   },
   "attar-collection": {
-    title: `Nước hoa Attar Collection: Musk Kashmir, xạ hương trắng mềm`,
-    description: `Musk Kashmir tập trung vào xạ hương trắng mềm, sạch và gần da. Một lựa chọn để khám phá Attar Collection theo hướng tinh giản hơn.`,
+    title: `Nước hoa Attar Collection chính hãng: giá Musk Kashmir`,
+    description: `Musk Kashmir tập trung vào xạ hương trắng mềm, sạch và gần da; xem review, giá tham khảo cùng tiêu chí chọn nơi mua Attar Collection chính hãng.`,
     h1: `Nước hoa Attar Collection`,
     canonical: `https://www.maisondeson.com/attar-collection`,
   },
