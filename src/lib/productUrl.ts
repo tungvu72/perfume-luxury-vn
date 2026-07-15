@@ -1,5 +1,6 @@
 import type { Perfume } from '@/types';
 import { getCanonicalBrandSlug } from '@/lib/brandCanonical';
+import { resolveProductId } from '@/lib/productEntity';
 
 /**
  * Generate URL mới cho product: /nuoc-hoa-{gender}-{brand}-{product}
@@ -7,13 +8,15 @@ import { getCanonicalBrandSlug } from '@/lib/brandCanonical';
  *
  * Brand segment uses canonical brandSlug (alias-resolved) so split brand
  * entities like ysl / yves-saint-laurent do not generate dual product URL families.
+ * Product id uses canonical entity id so duplicate product records share one URL.
  */
 type ProductUrlInput = { id: string; gender?: string; brandSlug?: string; brand: string };
 
 export function getProductUrl(product: ProductUrlInput): string {
     const gender = product.gender || 'unisex';
     const brand = getCanonicalBrandSlug(product);
-    return `/nuoc-hoa-${gender}-${brand}-${product.id}`;
+    const id = resolveProductId(product.id);
+    return `/nuoc-hoa-${gender}-${brand}-${id}`;
 }
 
 /**

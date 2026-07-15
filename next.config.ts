@@ -146,9 +146,15 @@ const nextConfig: NextConfig = {
         destination: '/nuoc-hoa-nu-ysl-ysl-black-opium-glitter-edp',
         permanent: true,
       },
+      // COMMERCIAL_V4_ENTITY_FIX_01: duplicate YSL Libre Intense → single canonical
+      {
+        source: '/nuoc-hoa-nu-ysl-ysl-libre-intense-edp',
+        destination: '/nuoc-hoa-nu-ysl-libre-intense',
+        permanent: true,
+      },
       {
         source: '/nuoc-hoa-nu-yves-saint-laurent-ysl-libre-intense-edp',
-        destination: '/nuoc-hoa-nu-ysl-ysl-libre-intense-edp',
+        destination: '/nuoc-hoa-nu-ysl-libre-intense',
         permanent: true,
       },
       {

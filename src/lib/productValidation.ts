@@ -1,4 +1,5 @@
 import type { Perfume } from '@/types';
+import { isDeprecatedProductId } from '@/lib/productEntity';
 
 /**
  * Validates that a product has the minimum required data to be displayed on the site.
@@ -10,6 +11,8 @@ import type { Perfume } from '@/types';
 export function isValidProduct(product: Perfume | null | undefined): product is Perfume {
     if (!product) return false;
     if (!product.id || typeof product.id !== 'string' || product.id.trim() === '') return false;
+    // Deprecated duplicate entities stay in MASTER_PERFUMES for audit but are not listed/indexed
+    if (isDeprecatedProductId(product.id)) return false;
     if (!product.name || typeof product.name !== 'string' || product.name.trim() === '') return false;
     if (!product.brand || typeof product.brand !== 'string' || product.brand.trim() === '') return false;
     if (!product.score || typeof product.score.total !== 'number' || product.score.total <= 0) return false;

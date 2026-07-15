@@ -4138,20 +4138,6 @@ export const SEARCH_INDEX: SearchProduct[] = [
     ]
   },
   {
-    "id": "ysl-libre-intense-edp",
-    "name": "Libre Intense EDP",
-    "brand": "YVES SAINT LAURENT",
-    "subName": "EDP",
-    "image": "/images/products/256-ysl-libre-intense-edp-main.jpg",
-    "gender": "nu",
-    "brandSlug": "ysl",
-    "isPublished": true,
-    "tags": [
-      "Nữ",
-      "Designer"
-    ]
-  },
-  {
     "id": "ysl-y-eau-de-parfum",
     "name": "Y EDP",
     "brand": "YVES SAINT LAURENT",
