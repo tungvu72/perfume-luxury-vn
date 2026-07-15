@@ -42,8 +42,9 @@ async function main() {
       const url = BASE + p.path;
       const file = path.join(outDir, `${p.slug}-${vp.name}.png`);
       try {
-        await page.goto(url, { waitUntil: "networkidle", timeout: 90000 });
-        await page.waitForTimeout(1200);
+        await page.goto(url, { waitUntil: "domcontentloaded", timeout: 90000 });
+        await page.waitForLoadState("load").catch(() => {});
+        await page.waitForTimeout(2500);
         // scroll to product grid if present
         const grid = page.locator("#danh-sach-san-pham, .nhucau-grid, [data-product-grid-system]").first();
         if (await grid.count()) {
