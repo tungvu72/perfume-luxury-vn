@@ -138,9 +138,22 @@ type ProductClientV2Props = {
   product: Perfume;
   relatedProducts: React.ReactNode;
   relatedArticles?: React.ReactNode;
+  /** Approved Final_H1 from commercial product SEO map */
+  commercialH1?: string;
+  /** When true, neutralize unsupported direct-seller / authenticity guarantees */
+  commercialMode?: boolean;
+  /** Shared ProductCommercialGuide (server-rendered slot) */
+  commercialGuide?: React.ReactNode;
 };
 
-export default function ProductClientV2({ product, relatedProducts, relatedArticles }: ProductClientV2Props) {
+export default function ProductClientV2({
+  product,
+  relatedProducts,
+  relatedArticles,
+  commercialH1,
+  commercialMode = false,
+  commercialGuide,
+}: ProductClientV2Props) {
   const [mounted, setMounted] = useState(false);
   const [activeImage, setActiveImage] = useState(0);
   const [lightboxOpen, setLightboxOpen] = useState(false);
@@ -211,7 +224,8 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
           </nav>
 
           <h1 className="text-[18px] lg:text-[22px] font-serif leading-[1.3] text-[var(--color-text)]">
-            Nước Hoa {product.gender === 'nam' ? 'Nam' : product.gender === 'nu' ? 'Nữ' : 'Unisex'} {product.brand} {product.name}
+            {commercialH1 ||
+              `Nước Hoa ${product.gender === "nam" ? "Nam" : product.gender === "nu" ? "Nữ" : "Unisex"} ${product.brand} ${product.name}`}
           </h1>
         </div>
 
@@ -236,10 +250,10 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
                 <span className="text-[12px] lg:text-[14px] font-bold leading-none text-white">{product.score.total}</span>
                 <span className="text-[7px] lg:text-[8px] font-bold uppercase tracking-wider text-white/60">/ 10</span>
               </div>
-              {/* Trust badges overlaid on image */}
+              {/* Trust badges overlaid on image — commercial pages avoid false authenticity guarantee */}
               <div className="absolute top-4 left-4 flex flex-col gap-2">
                 <span className="w-fit rounded-full bg-[#1A1D21]/80 px-3 py-1.5 text-[10px] font-bold uppercase tracking-wider text-white backdrop-blur-sm border border-white/10 shadow-sm">
-                  ✓ Chính Hãng 100%
+                  {commercialMode ? "Review độc lập" : "✓ Chính Hãng 100%"}
                 </span>
               </div>
               {/* Zoom hint */}
@@ -390,6 +404,9 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
           {/* Affiliate Widget */}
           <AffiliateWidget productName={product.name} />
 
+          {/* Commercial product guide (Batch A+) — one reusable component, 23 approved pages */}
+          {commercialGuide}
+
           {/* Verdict Dark Block */}
           {product.verdict && (
             <section className="rounded-2xl bg-[#1A1D21] p-7 sm:p-8">
@@ -418,11 +435,18 @@ export default function ProductClientV2({ product, relatedProducts, relatedArtic
             <div className="rounded-[var(--radius-lg)] border border-[var(--color-border)] bg-[var(--color-surface)] p-5">
               <h3 className="text-[10px] font-bold uppercase tracking-[0.2em] text-[var(--color-primary)] mb-4">Cam kết của Maison de SON</h3>
               <ul className="space-y-3">
-                {[
-                  { icon: <Award size={16} className="text-[var(--color-primary)]" />, text: "Gợi ý nơi mua chính hãng, giá tốt nhất" },
-                  { icon: <ShieldCheck size={16} className="text-[var(--color-primary)]" />, text: "Cam kết chính hãng — sai hàng đền 20 triệu" },
-                  { icon: <Scale size={16} className="text-[var(--color-primary)]" />, text: "Không nhận tài trợ để review thiên vị" },
-                ].map((item) => (
+                {(commercialMode
+                  ? [
+                      { icon: <Award size={16} className="text-[var(--color-primary)]" />, text: "Gợi ý tiêu chí chọn nơi mua chính hãng" },
+                      { icon: <ShieldCheck size={16} className="text-[var(--color-primary)]" />, text: "Hướng dẫn nhận biết nguồn mua đáng tin cậy" },
+                      { icon: <Scale size={16} className="text-[var(--color-primary)]" />, text: "Không nhận tài trợ để review thiên vị" },
+                    ]
+                  : [
+                      { icon: <Award size={16} className="text-[var(--color-primary)]" />, text: "Gợi ý nơi mua chính hãng, giá tốt nhất" },
+                      { icon: <ShieldCheck size={16} className="text-[var(--color-primary)]" />, text: "Cam kết chính hãng — sai hàng đền 20 triệu" },
+                      { icon: <Scale size={16} className="text-[var(--color-primary)]" />, text: "Không nhận tài trợ để review thiên vị" },
+                    ]
+                ).map((item) => (
                   <li key={item.text} className="flex items-start gap-2.5 text-[12px] text-[var(--color-text-secondary)] leading-[1.6]">
                     <span className="flex-shrink-0 mt-0.5">{item.icon}</span>
                     {item.text}

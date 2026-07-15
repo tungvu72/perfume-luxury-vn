@@ -10,9 +10,15 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Suspense } from 'react';
 import { getPostByUrlSlug, getAllPosts } from '@/lib/dataPosts';
-import { getProductBySlug, getAllProducts, getPublishedProducts } from '@/lib/dataFetchers';
+import {
+    getProductBySlug,
+    getAllProducts,
+    getPublishedProducts,
+    getBrandBySlug,
+    getAllBrands,
+    getProductsByBrand,
+} from '@/lib/dataFetchers';
 import { getProductUrl, isProductSlug } from '@/lib/productUrl';
-import { getBrandBySlug, getAllBrands } from '@/lib/dataFetchers';
 import type { Perfume } from '@/types';
 import ProductClientV2 from '@/components/pdp/ProductClientV2';
 import Breadcrumbs from '@/components/Breadcrumbs';
@@ -22,6 +28,9 @@ import Footer from '@/components/Footer';
 import BrandDetailPage, { buildBrandDetail } from '@/components/brand/BrandDetailPage';
 import { getBrandEditorial } from '@/components/brand/brandContent';
 import { getBrandSeoMetadata } from '@/lib/brandSeoMetadata';
+import { getProductSeoMetadata } from '@/lib/productSeoMetadata';
+import ProductCommercialGuide from '@/components/pdp/ProductCommercialGuide';
+import { getCanonicalBrandSlug } from '@/lib/brandCanonical';
 
 // false = unknown slugs get a real HTTP 404 (not soft-404 200 under streaming/loading.tsx).
 // All valid product / article / brand paths are emitted by generateStaticParams at build.
@@ -64,6 +73,21 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
     if (product) {
         const productUrl = getProductUrl(product);
+        const approved = getProductSeoMetadata(product.id);
+        if (approved) {
+            return {
+                title: approved.title,
+                description: approved.description,
+                keywords: [product.name, product.brand, `mua ${product.name} chính hãng`, `${product.name} mua ở đâu`, `review ${product.name}`],
+                alternates: { canonical: approved.canonical },
+                openGraph: {
+                    title: approved.title,
+                    description: approved.description,
+                    url: approved.canonical,
+                    images: [product.image],
+                },
+            };
+        }
         return {
             title: product.seoTitle || `${product.brand} ${product.name} chính hãng mua ở đâu? Review 2026`,
             description: product.metaDescription || `Đánh giá ${product.brand} ${product.name} chính hãng: độ bám tỏa thực tế và tư vấn nơi mua uy tín 2026 tại Maison De Son.`,
@@ -149,6 +173,12 @@ const CATEGORY_LABELS: Record<string, string> = {
 // ─── PRODUCT PAGE (render khi slug là sản phẩm) ──────────────
 async function ProductPage({ product, slug }: { product: Perfume; slug: string }) {
     const productUrl = getProductUrl(product);
+    const commercial = getProductSeoMetadata(product.id);
+    const brandSlug = getCanonicalBrandSlug(product);
+    const sameBrand = commercial
+        ? (await getProductsByBrand(brandSlug)).filter((p) => p.id !== product.id)
+        : [];
+
     // Product JSON-LD: identity only. No aggregateRating / offers unless backed by
     // a verified live commerce or review-count source of truth (Maisondeson is catalog/content SEO).
     const jsonLd = {
@@ -159,7 +189,7 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
         description: product.description,
         brand: { '@type': 'Brand', name: product.brand },
         sku: product.id,
-        url: `${SITE_URL}${productUrl}`,
+        url: commercial?.canonical || `${SITE_URL}${productUrl}`,
     };
 
     // Breadcrumb JSON-LD 4 tầng (cho Google), UI 3 tầng (cho người dùng)
@@ -170,7 +200,7 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
             { '@type': 'ListItem', position: 1, name: 'Trang chủ', item: SITE_URL },
             { '@type': 'ListItem', position: 2, name: product.gender === 'nam' ? 'Nam giới' : product.gender === 'nu' ? 'Nữ giới' : 'Unisex', item: `${SITE_URL}/${product.gender === 'nam' ? 'nuoc-hoa-nam-chinh-hang' : product.gender === 'nu' ? 'nuoc-hoa-nu-chinh-hang' : 'nuoc-hoa-unisex-chinh-hang'}` },
             { '@type': 'ListItem', position: 3, name: product.brand, item: `${SITE_URL}/${product.brandSlug || product.brand.toLowerCase().replace(/\s+/g, '-')}` },
-            { '@type': 'ListItem', position: 4, name: product.name, item: `${SITE_URL}${productUrl}` },
+            { '@type': 'ListItem', position: 4, name: product.name, item: commercial?.canonical || `${SITE_URL}${productUrl}` },
         ],
     };
 
@@ -184,6 +214,16 @@ async function ProductPage({ product, slug }: { product: Perfume; slug: string }
                 {/* Breadcrumb UI removed — ProductClientV2 already shows category + brand inline */}
                 <ProductClientV2
                     product={product}
+                    commercialH1={commercial?.h1}
+                    commercialMode={!!commercial}
+                    commercialGuide={
+                        commercial ? (
+                            <ProductCommercialGuide
+                                product={product}
+                                sameBrandProducts={sameBrand}
+                            />
+                        ) : undefined
+                    }
                     relatedProducts={
                         <Suspense fallback={<div className="h-40 animate-pulse bg-gray-50 rounded-xl mt-10" />}>
                             <RelatedProducts current={product} />
