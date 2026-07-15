@@ -1,5 +1,5 @@
 /**
- * Owner-approved brand SEO metadata (BATCH_02_BRANDS_P1 + BATCH_03A_BRANDS_P2).
+ * Owner-approved brand SEO metadata (BATCH_02 + BATCH_03A + BATCH_03B).
  * Source: MaisonDeSon_SEO_All_Pages_READY_TO_APPLY.xlsx
  * Do NOT rewrite Final_* strings — copy-only implementation map.
  */
@@ -243,6 +243,127 @@ export const BRAND_SEO_METADATA: Record<string, BrandSeoMetadata> = {
     description: `Khám phá Diptyque qua Doson, Philosykos và Fleur de Peau; từ khô và sâu đến hoa thanh lịch. So sánh từng lựa chọn trước khi mở review chi tiết.`,
     h1: `Nước hoa Diptyque`,
     canonical: `https://www.maisondeson.com/diptyque`,
+  },
+  // --- BATCH_03B_BRANDS_P2 (20 brands) ---
+  "afnan": {
+    title: `Nước hoa Afnan: bắt đầu với 9PM EDP | Maison de Son`,
+    description: `Khám phá Afnan 9PM EDP, một lựa chọn ngọt và bắt mũi cho người mới thích mùi nổi bật. Đọc ưu, nhược điểm trước khi quyết định.`,
+    h1: `Nước hoa Afnan`,
+    canonical: `https://www.maisondeson.com/afnan`,
+  },
+  "memo": {
+    title: `Nước hoa Memo Paris: bắt đầu với African Leather | Maison de Son`,
+    description: `Bắt đầu với African Leather để hiểu phong cách Memo Paris: da thuộc và bạch đậu khấu. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Memo Paris`,
+    canonical: `https://www.maisondeson.com/memo`,
+  },
+  "nishane": {
+    title: `Nishane: bắt đầu từ Hundred Silent Ways Extrait hay Ani Extrait?`,
+    description: `Khám phá Nishane qua Hundred Silent Ways Extrait, Ani Extrait và Hacivat Extrait; từ gỗ–cay sâu đến khô và sâu. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    h1: `Nước hoa Nishane`,
+    canonical: `https://www.maisondeson.com/nishane`,
+  },
+  "giardini-di-toscana": {
+    title: `Nước hoa Giardini Di Toscana: bắt đầu với Bianco Latte | Maison de Son`,
+    description: `Bắt đầu với Bianco Latte để hiểu phong cách Giardini Di Toscana: vani và mật ong. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Giardini Di Toscana`,
+    canonical: `https://www.maisondeson.com/giardini-di-toscana`,
+  },
+  "essential-parfums": {
+    title: `Nước hoa Essential Parfums: bắt đầu với Bois Impérial | Maison de Son`,
+    description: `Bắt đầu với Bois Impérial để hiểu phong cách Essential Parfums: gỗ Akigalawood và cỏ hương bài. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Essential Parfums`,
+    canonical: `https://www.maisondeson.com/essential-parfums`,
+  },
+  "frederic-malle": {
+    title: `Nước hoa Frederic Malle: Portrait of a Lady, Carnal Flower`,
+    description: `Khám phá Frederic Malle qua Portrait of a Lady, Carnal Flower và Musc Ravageur; từ hoa thanh lịch đến ngọt ấm. So sánh từng lựa chọn trước khi mở review chi tiết.`,
+    h1: `Nước hoa Frederic Malle`,
+    canonical: `https://www.maisondeson.com/frederic-malle`,
+  },
+  "acqua-di-parma": {
+    title: `Nước hoa Acqua Di Parma: bắt đầu với Colonia | Maison de Son`,
+    description: `Bắt đầu với Colonia để hiểu phong cách Acqua Di Parma: cam và chanh. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Acqua Di Parma`,
+    canonical: `https://www.maisondeson.com/acqua-di-parma`,
+  },
+  "davidoff": {
+    title: `Nước hoa Davidoff: bắt đầu với Cool Water | Maison de Son`,
+    description: `Bắt đầu với Cool Water để hiểu phong cách Davidoff: hương biển và oải hương. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Davidoff`,
+    canonical: `https://www.maisondeson.com/davidoff`,
+  },
+  "guy-laroche": {
+    title: `Nước hoa Guy Laroche: bắt đầu với Drakkar Noir | Maison de Son`,
+    description: `Bắt đầu với Drakkar Noir để hiểu phong cách Guy Laroche: oải hương và rêu. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Guy Laroche`,
+    canonical: `https://www.maisondeson.com/guy-laroche`,
+  },
+  "marc-antoine-barrois": {
+    title: `Nước hoa Marc-Antoine Barrois: bắt đầu với Ganymede | Maison de Son`,
+    description: `Bắt đầu với Ganymede để hiểu phong cách Marc-Antoine Barrois: khoáng chất và da lộn. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Marc-Antoine Barrois`,
+    canonical: `https://www.maisondeson.com/marc-antoine-barrois`,
+  },
+  "penhaligons": {
+    title: `Nước hoa Penhaligon's: bắt đầu với Halfeti | Maison de Son`,
+    description: `Bắt đầu với Halfeti để hiểu phong cách Penhaligon's: trầm hương và hoa hồng. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Penhaligon's`,
+    canonical: `https://www.maisondeson.com/penhaligons`,
+  },
+  "elie-saab": {
+    title: `Nước hoa Elie Saab: bắt đầu với Le Parfum | Maison de Son`,
+    description: `Bắt đầu với Le Parfum để hiểu phong cách Elie Saab: mật ong và hoa cam. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Elie Saab`,
+    canonical: `https://www.maisondeson.com/elie-saab`,
+  },
+  "lolita-lempicka": {
+    title: `Nước hoa Lolita Lempicka: bắt đầu với Le Parfum | Maison de Son`,
+    description: `Bắt đầu với Le Parfum để hiểu phong cách Lolita Lempicka: táo và cam. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Lolita Lempicka`,
+    canonical: `https://www.maisondeson.com/lolita-lempicka`,
+  },
+  "issey-miyake": {
+    title: `Nước hoa Issey Miyake: bắt đầu với L'Eau d'Issey Pour Homme`,
+    description: `Bắt đầu với L'Eau d'Issey Pour Homme để hiểu phong cách Issey Miyake: yuzu và hoa sen. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Issey Miyake`,
+    canonical: `https://www.maisondeson.com/issey-miyake`,
+  },
+  "initio": {
+    title: `Nước hoa Initio: Musk Therapy hay Side Effect? | Maison de Son`,
+    description: `So sánh Musk Therapy và Side Effect, hai cách thể hiện từ sạch và thanh đến ấm và sâu của Initio. Chọn điểm bắt đầu hợp gu hơn.`,
+    h1: `Nước hoa Initio`,
+    canonical: `https://www.maisondeson.com/initio`,
+  },
+  "viktor-rolf": {
+    title: `Nước hoa Viktor & Rolf: bắt đầu với Spicebomb Extreme | Maison de Son`,
+    description: `Bắt đầu với Spicebomb Extreme để hiểu phong cách Viktor & Rolf: lựu và vani. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Viktor & Rolf`,
+    canonical: `https://www.maisondeson.com/viktor-rolf`,
+  },
+  "azzaro": {
+    title: `Nước hoa Azzaro: bắt đầu với The Most Wanted Parfum | Maison de Son`,
+    description: `Bắt đầu với The Most Wanted Parfum để hiểu phong cách Azzaro: gừng. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Azzaro`,
+    canonical: `https://www.maisondeson.com/azzaro`,
+  },
+  "zadig-voltaire": {
+    title: `Nước hoa Zadig & Voltaire: bắt đầu với This Is Her! | Maison de Son`,
+    description: `Bắt đầu với This Is Her! để hiểu phong cách Zadig & Voltaire: hạt dẻ và kem. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Zadig & Voltaire`,
+    canonical: `https://www.maisondeson.com/zadig-voltaire`,
+  },
+  "kayali": {
+    title: `Nước hoa Kayali: bắt đầu với Vanilla 28 | Maison de Son`,
+    description: `Bắt đầu với Vanilla 28 để hiểu phong cách Kayali: vani và hổ phách. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Kayali`,
+    canonical: `https://www.maisondeson.com/kayali`,
+  },
+  "sospiro": {
+    title: `Nước hoa Sospiro: bắt đầu với Vibrato | Maison de Son`,
+    description: `Bắt đầu với Vibrato để hiểu phong cách Sospiro: bưởi và gừng. Đọc phân tích trước khi quyết định đây có phải hướng mùi hợp bạn.`,
+    h1: `Nước hoa Sospiro`,
+    canonical: `https://www.maisondeson.com/sospiro`,
   },
 };
 
