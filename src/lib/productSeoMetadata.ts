@@ -1,9 +1,13 @@
 /**
- * Owner-approved product SEO metadata — COMMERCIAL_V9_PRODUCTS_A_23.
- * Source: MaisonDeSon_Commercial_Product_Batch_A_23.xlsx (sheet Product_Batch_A_23)
- * + MaisonDeSon_Commercial_SEO_Master_V9.xlsx
+ * Owner-approved product SEO metadata.
+ * COMMERCIAL_V9_PRODUCTS_A_23 + COMMERCIAL_V10_PRODUCTS_B_23.
+ * Sources:
+ *   MaisonDeSon_Commercial_Product_Batch_A_23.xlsx (Product_Batch_A_23)
+ *   MaisonDeSon_Commercial_Product_Batch_B_23.xlsx (Product_Batch_B_23)
+ *   MaisonDeSon_Commercial_SEO_Master_V9 / V10
  * Do NOT rewrite Final_* strings — copy-only implementation map.
  * Keyed by stable Product_ID (not URL position or display title).
+ * Extend this map for later batches; never replace completed entries.
  */
 
 import { resolveProductId } from '@/lib/productEntity';
@@ -21,8 +25,9 @@ export type ProductSeoMetadata = {
   scentDirection?: string;
 };
 
-/** Product_ID → approved commercial SEO metadata */
+/** Product_ID → approved commercial SEO metadata (Batch A + Batch B = 46) */
 export const PRODUCT_SEO_METADATA: Record<string, ProductSeoMetadata> = {
+  // ── COMMERCIAL_V9_PRODUCTS_A_23 ──────────────────────────────────────
   "montblanc-signature-edp": {
     title: `Montblanc Signature EDP chính hãng: giá, review và mua ở đâu?`,
     description: `Montblanc Signature EDP hòa vani mềm, xạ hương trắng và cam clementine; xem review, giá tham khảo và tiêu chí chọn nơi mua hàng chính hãng.`,
@@ -244,6 +249,229 @@ export const PRODUCT_SEO_METADATA: Record<string, ProductSeoMetadata> = {
     concentration: `Extrait de Parfum`,
     notesUsed: `vani, gừng, gỗ đàn hương`,
     scentDirection: `gỗ–cay sâu`,
+  },
+  // ── COMMERCIAL_V10_PRODUCTS_B_23 ──────────────────────────────────────
+  "antaeus": {
+    title: `Chanel Antaeus EDT chính hãng: giá, review và mua ở đâu?`,
+    description: `Chanel Antaeus EDT kết hợp da thuộc và xạ hương theo hướng khô, sâu và cổ điển; xem review, giá tham khảo cùng tiêu chí chọn nơi mua chính hãng.`,
+    h1: `Chanel Antaeus EDT`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nam-chanel-antaeus`,
+    urlPath: `/nuoc-hoa-nam-chanel-antaeus`,
+    concentration: `EDT`,
+    notesUsed: `da thuộc, xạ hương`,
+    scentDirection: `khô và sâu`,
+  },
+  "armani-si-edp": {
+    title: `Giorgio Armani Sì EDP chính hãng: giá và review`,
+    description: `Giorgio Armani Sì EDP hòa lý chua đen với vani theo hướng ấm, mềm và nữ tính; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua chính hãng.`,
+    h1: `Giorgio Armani Sì EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nu-giorgio-armani-armani-si-edp`,
+    urlPath: `/nuoc-hoa-nu-giorgio-armani-armani-si-edp`,
+    concentration: `EDP`,
+    notesUsed: `lý chua đen, vani`,
+    scentDirection: `ấm và mềm`,
+  },
+  "bal-dafrique": {
+    title: `Byredo Bal d’Afrique EDP chính hãng: giá và review`,
+    description: `Byredo Bal d’Afrique EDP theo phong cách trái cây sáng, phóng khoáng và hiện đại; xem review, giá tham khảo cùng tiêu chí chọn nơi mua chính hãng.`,
+    h1: `Byredo Bal d’Afrique EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-unisex-byredo-bal-dafrique`,
+    urlPath: `/nuoc-hoa-unisex-byredo-bal-dafrique`,
+    concentration: `EDP`,
+  },
+  "bianco-latte": {
+    title: `Giardini di Toscana Bianco Latte EDP chính hãng: giá và review`,
+    description: `Bianco Latte EDP kết hợp vani, mật ong và caramel theo hướng gourmand ngọt ấm; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua chính hãng.`,
+    h1: `Giardini Di Toscana Bianco Latte EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-unisex-giardini-di-toscana-bianco-latte`,
+    urlPath: `/nuoc-hoa-unisex-giardini-di-toscana-bianco-latte`,
+    concentration: `EDP`,
+    notesUsed: `vani, mật ong, caramel`,
+    scentDirection: `ngọt ấm`,
+  },
+  "black-opium": {
+    title: `YSL Black Opium EDP chính hãng: giá, review và mua ở đâu?`,
+    description: `YSL Black Opium EDP kết hợp cà phê và vani theo hướng ngọt ấm, nổi bật; xem review, giá tham khảo và tiêu chí chọn nơi mua chính hãng.`,
+    h1: `YSL Black Opium EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nu-ysl-black-opium`,
+    urlPath: `/nuoc-hoa-nu-ysl-black-opium`,
+    concentration: `EDP`,
+    notesUsed: `cà phê, vani`,
+    scentDirection: `ngọt ấm`,
+  },
+  "black-opium-le-parfum": {
+    title: `YSL Black Opium Le Parfum chính hãng: giá và review`,
+    description: `Black Opium Le Parfum tăng độ dày của vani bên cạnh cà phê và quế; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua YSL chính hãng.`,
+    h1: `YSL Black Opium Le Parfum`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nu-ysl-black-opium-le-parfum`,
+    urlPath: `/nuoc-hoa-nu-ysl-black-opium-le-parfum`,
+    concentration: `Parfum`,
+    notesUsed: `cà phê, vani, quế`,
+    scentDirection: `ngọt ấm`,
+  },
+  "bleu-de-chanel-eau-de-parfum": {
+    title: `Bleu de Chanel EDP chính hãng: giá, review và mua ở đâu?`,
+    description: `Bleu de Chanel EDP nổi bật với bưởi và trầm hương theo hướng khô, sâu và linh hoạt; xem review, giá tham khảo cùng tiêu chí chọn nơi mua chính hãng.`,
+    h1: `Chanel Bleu de Chanel Eau de Parfum`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nam-chanel-bleu-de-chanel-eau-de-parfum`,
+    urlPath: `/nuoc-hoa-nam-chanel-bleu-de-chanel-eau-de-parfum`,
+    concentration: `EDP`,
+    notesUsed: `bưởi, trầm hương`,
+    scentDirection: `khô và sâu`,
+  },
+  "bleu-de-chanel-parfum": {
+    title: `Bleu de Chanel Parfum chính hãng: giá và review`,
+    description: `Bleu de Chanel Parfum nhấn vào gỗ đàn hương theo hướng mượt, sâu và trưởng thành; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua chính hãng.`,
+    h1: `Chanel Bleu de Chanel Parfum`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nam-chanel-bleu-de-chanel-parfum`,
+    urlPath: `/nuoc-hoa-nam-chanel-bleu-de-chanel-parfum`,
+    concentration: `Parfum`,
+    notesUsed: `gỗ đàn hương`,
+    scentDirection: `khô và sâu`,
+  },
+  "bloom-edp": {
+    title: `Gucci Bloom EDP chính hãng: giá, review và mua ở đâu?`,
+    description: `Gucci Bloom EDP tập trung vào hoa huệ theo hướng hoa trắng thanh lịch và nữ tính; xem review, giá tham khảo cùng tiêu chí chọn nơi mua chính hãng.`,
+    h1: `Gucci Bloom EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nu-gucci-bloom-edp`,
+    urlPath: `/nuoc-hoa-nu-gucci-bloom-edp`,
+    concentration: `EDP`,
+    notesUsed: `hoa huệ`,
+    scentDirection: `hoa thanh lịch`,
+  },
+  "bois-imperial": {
+    title: `Essential Parfums Bois Impérial EDP chính hãng: giá và review`,
+    description: `Bois Impérial EDP kết hợp Akigalawood và cỏ hương bài theo hướng gỗ khô, hiện đại; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua chính hãng.`,
+    h1: `Essential Parfums Bois Impérial EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-unisex-essential-parfums-bois-imperial`,
+    urlPath: `/nuoc-hoa-unisex-essential-parfums-bois-imperial`,
+    concentration: `EDP`,
+    notesUsed: `gỗ Akigalawood, cỏ hương bài`,
+    scentDirection: `khô và sâu`,
+  },
+  "born-in-roma-intense": {
+    title: `Valentino Donna Born in Roma Intense EDP chính hãng: giá và review`,
+    description: `Donna Born in Roma Intense EDP phối vani, hoa nhài và hổ phách theo hướng ngọt ấm; xem review, giá tham khảo cùng tiêu chí chọn nơi mua chính hãng.`,
+    h1: `Valentino Donna Born in Roma Intense EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nu-valentino-born-in-roma-intense`,
+    urlPath: `/nuoc-hoa-nu-valentino-born-in-roma-intense`,
+    concentration: `EDP`,
+    notesUsed: `vani, hoa nhài, hổ phách`,
+    scentDirection: `ngọt ấm`,
+  },
+  "boss-bottled-edp": {
+    title: `Hugo Boss Boss Bottled EDP chính hãng: giá và review`,
+    description: `Boss Bottled EDP kết hợp táo và quế theo hướng ấm, mềm và dễ dùng; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua Hugo Boss chính hãng.`,
+    h1: `Hugo Boss Boss Bottled EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nam-hugo-boss-boss-bottled-edp`,
+    urlPath: `/nuoc-hoa-nam-hugo-boss-boss-bottled-edp`,
+    concentration: `EDP`,
+    notesUsed: `táo, quế`,
+    scentDirection: `ấm và mềm`,
+  },
+  "bottled-absolu": {
+    title: `Hugo Boss Bottled Absolu chính hãng: giá và review`,
+    description: `Bottled Absolu nhấn vào khói và da thuộc theo hướng khô, sâu và đậm; xem review, giá tham khảo cùng tiêu chí chọn nơi mua Hugo Boss chính hãng.`,
+    h1: `Hugo Boss Bottled Absolu EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nam-hugo-boss-bottled-absolu`,
+    urlPath: `/nuoc-hoa-nam-hugo-boss-bottled-absolu`,
+    concentration: `Parfum Intense`,
+    notesUsed: `khói, da thuộc`,
+    scentDirection: `khô và sâu`,
+  },
+  "carlisle": {
+    title: `Parfums de Marly Carlisle EDP chính hãng: giá và review`,
+    description: `Carlisle EDP kết hợp hoắc hương, táo, vani và nhục đậu khấu theo hướng gỗ cay sâu; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua chính hãng.`,
+    h1: `Parfums de Marly Carlisle EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-unisex-parfums-de-marly-carlisle`,
+    urlPath: `/nuoc-hoa-unisex-parfums-de-marly-carlisle`,
+    concentration: `EDP`,
+    notesUsed: `hoắc hương, táo, vani, nhục đậu khấu`,
+    scentDirection: `gỗ–cay sâu`,
+  },
+  "carnal-flower": {
+    title: `Frederic Malle Carnal Flower EDP chính hãng: giá và review`,
+    description: `Carnal Flower EDP tập trung vào hoa huệ trắng với sắc xanh mát của bạch đàn; xem review, giá tham khảo cùng tiêu chí chọn nơi mua Frederic Malle chính hãng.`,
+    h1: `Frederic Malle Carnal Flower EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-unisex-frederic-malle-carnal-flower`,
+    urlPath: `/nuoc-hoa-unisex-frederic-malle-carnal-flower`,
+    concentration: `EDP`,
+  },
+  "champs-elysees-edp": {
+    title: `Guerlain Champs-Élysées EDP chính hãng: giá và review`,
+    description: `Champs-Élysées EDP nổi bật với hoa mimosa theo hướng hoa thanh lịch, sáng và dịu; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua Guerlain chính hãng.`,
+    h1: `Guerlain Champs-Élysées EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nu-guerlain-champs-elysees-edp`,
+    urlPath: `/nuoc-hoa-nu-guerlain-champs-elysees-edp`,
+    concentration: `EDP`,
+    notesUsed: `hoa mimosa`,
+    scentDirection: `hoa thanh lịch`,
+  },
+  "chance-eau-tendre": {
+    title: `Chanel Chance Eau Tendre EDP chính hãng: giá và review`,
+    description: `Chance Eau Tendre EDP kết hợp bưởi và hoa nhài theo hướng hoa thanh lịch, tươi sáng; xem review, giá tham khảo cùng tiêu chí chọn nơi mua Chanel chính hãng.`,
+    h1: `Chanel Chance Eau Tendre EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nu-chanel-chance-eau-tendre`,
+    urlPath: `/nuoc-hoa-nu-chanel-chance-eau-tendre`,
+    concentration: `EDP`,
+    notesUsed: `bưởi, hoa nhài`,
+    scentDirection: `hoa thanh lịch`,
+  },
+  "cinema": {
+    title: `YSL Cinéma EDP chính hãng: giá, review và mua ở đâu?`,
+    description: `YSL Cinéma EDP hòa hạnh nhân, cam clementine, vani và mơ theo hướng ngọt ấm; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua chính hãng.`,
+    h1: `YSL Cinéma EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nu-ysl-cinema`,
+    urlPath: `/nuoc-hoa-nu-ysl-cinema`,
+    concentration: `EDP`,
+    notesUsed: `hạnh nhân, cam clementine, vani, mơ`,
+    scentDirection: `ngọt ấm`,
+  },
+  "ck-obsession": {
+    title: `Calvin Klein Obsession for Men EDT chính hãng: giá và review`,
+    description: `Calvin Klein Obsession for Men EDT theo phong cách ấm, đậm và cổ điển; xem review, giá tham khảo cùng tiêu chí chọn nơi mua hàng chính hãng.`,
+    h1: `Calvin Klein Obsession for Men EDT`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nam-calvin-klein-ck-obsession`,
+    urlPath: `/nuoc-hoa-nam-calvin-klein-ck-obsession`,
+    concentration: `EDT`,
+  },
+  "club-de-nuit-intense-man": {
+    title: `Armaf Club de Nuit Intense Man Parfum: giá và review chính hãng`,
+    description: `Club de Nuit Intense Man Parfum theo phong cách đậm, nam tính và dễ nhận biết; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua Armaf chính hãng.`,
+    h1: `Club de Nuit Intense Man`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nam-armaf-club-de-nuit-intense-man`,
+    urlPath: `/nuoc-hoa-nam-armaf-club-de-nuit-intense-man`,
+    concentration: `Parfum`,
+  },
+  "coco-eau-de-parfum": {
+    title: `Chanel Coco EDP chính hãng: giá, review và mua ở đâu?`,
+    description: `Chanel Coco EDP nhấn vào hổ phách theo hướng ấm, mềm và cổ điển; xem review, giá tham khảo cùng tiêu chí chọn nơi mua Chanel chính hãng.`,
+    h1: `Chanel Coco Eau de Parfum`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nu-chanel-coco-eau-de-parfum`,
+    urlPath: `/nuoc-hoa-nu-chanel-coco-eau-de-parfum`,
+    concentration: `Eau de Parfum`,
+    notesUsed: `hổ phách`,
+    scentDirection: `ấm và mềm`,
+  },
+  "coco-eau-de-toilette": {
+    title: `Chanel Coco EDT chính hãng: giá, review và mua ở đâu?`,
+    description: `Chanel Coco EDT phối hổ phách với trái cây theo hướng ngọt ấm và nhẹ hơn bản EDP; xem review, giá tham khảo cùng tiêu chí chọn nguồn mua chính hãng.`,
+    h1: `Chanel Coco Eau de Toilette`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nu-chanel-coco-eau-de-toilette`,
+    urlPath: `/nuoc-hoa-nu-chanel-coco-eau-de-toilette`,
+    concentration: `Eau de Toilette`,
+    notesUsed: `hổ phách, trái cây`,
+    scentDirection: `ngọt ấm`,
+  },
+  "coco-mademoiselle-edp": {
+    title: `Chanel Coco Mademoiselle EDP chính hãng: giá và review`,
+    description: `Coco Mademoiselle EDP nổi bật với hoắc hương theo hướng khô, sâu và thanh lịch; xem review, giá tham khảo cùng tiêu chí chọn nơi mua Chanel chính hãng.`,
+    h1: `Chanel Coco Mademoiselle EDP`,
+    canonical: `https://www.maisondeson.com/nuoc-hoa-nu-chanel-coco-mademoiselle-edp`,
+    urlPath: `/nuoc-hoa-nu-chanel-coco-mademoiselle-edp`,
+    concentration: `EDP`,
+    notesUsed: `hoắc hương`,
+    scentDirection: `khô và sâu`,
   },
 };
 
