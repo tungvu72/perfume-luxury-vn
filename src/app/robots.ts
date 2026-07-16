@@ -3,7 +3,8 @@ import { MetadataRoute } from 'next';
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
-      // ── Whitelist: chỉ Google & Bing được crawl toàn bộ ──
+      // ── Google & Bing: crawl allowed (including /so-sanh so noindex meta can be seen) ──
+      // Indexing of /so-sanh is controlled by page robots metadata (noindex,follow), not robots.txt alone.
       {
         userAgent: 'Googlebot',
         allow: ['/'],
@@ -45,7 +46,9 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/'],
       },
 
-      // ── Default: tất cả crawlers còn lại ──
+      // ── Default: other crawlers ──
+      // Allow /so-sanh crawl so well-behaved bots can honor noindex meta (policy B).
+      // Do not rely on robots.txt alone for deindexing.
       {
         userAgent: '*',
         allow: ['/'],
@@ -53,7 +56,6 @@ export default function robots(): MetadataRoute.Robots {
           '/api/',
           '/_next/',
           '/admin/',
-          '/so-sanh',
           '/*.json$',
         ],
       },

@@ -20,7 +20,7 @@ export default function ComparePage() {
                         <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.24em] text-primary">Công cụ so sánh</p>
                         <h1 className="text-3xl font-serif mb-4 leading-tight sm:text-4xl">So sánh nước hoa trước khi xuống tiền</h1>
                         <p className="mx-auto max-w-2xl text-sm leading-7 text-gray-500 mb-8 sm:text-base">
-                            Chọn ít nhất 2 chai từ trang tìm nước hoa hoặc trang chi tiết để đặt cạnh nhau về mùi hương, độ lưu, độ tỏa, mức giá và mức độ đáng tiền.
+                            Chọn ít nhất 2 chai từ trang tìm nước hoa hoặc trang chi tiết để đặt cạnh nhau về mùi hương, độ lưu, độ tỏa và mức độ phù hợp. Giá mua bán đối tác chỉ hiển thị khi đã được xác minh — hiện chưa có nguồn giá live.
                         </p>
                         <Link href="/nuoc-hoa-theo-nhu-cau" className="inline-flex items-center gap-2 rounded-full border border-[#decfbd] px-5 py-3 text-sm font-bold text-[#4b3b30] hover:border-primary hover:text-primary">
                             <ArrowLeft size={14} /> Tìm nước hoa
@@ -50,7 +50,16 @@ export default function ComparePage() {
         { label: "Hương đầu", icon: <Droplet size={14} className="text-amber-400" />, render: (p: typeof items[0]) => <span className="text-xs">{p.topNotes.map(n => n.name).join(", ")}</span> },
         { label: "Hương giữa", icon: <Droplet size={14} className="text-rose-400" />, render: (p: typeof items[0]) => <span className="text-xs">{p.middleNotes.map(n => n.name).join(", ")}</span> },
         { label: "Hương cuối", icon: <Droplet size={14} className="text-gray-500" />, render: (p: typeof items[0]) => <span className="text-xs">{p.baseNotes.map(n => n.name).join(", ")}</span> },
-        { label: "Giá tham khảo", icon: <DollarSign size={14} className="text-emerald-500" />, render: (p: typeof items[0]) => <span className="font-bold text-sm">{p.basePrice.toLocaleString()}đ</span> },
+        {
+            // Never render basePrice / 0 ₫ as a live purchase price (no verified merchant feed).
+            label: "Giá đối tác",
+            icon: <DollarSign size={14} className="text-emerald-500" />,
+            render: (_p: typeof items[0]) => (
+                <span className="text-xs font-medium text-gray-500 leading-snug">
+                    Chưa có giá đối tác được xác minh
+                </span>
+            ),
+        },
         {
             label: "Hành động",
             icon: null,

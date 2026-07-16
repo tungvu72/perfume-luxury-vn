@@ -6,6 +6,7 @@ import { Perfume } from "@/types";
 import Link from "next/link";
 import Image from "next/image";
 import { X, Scale } from "lucide-react";
+import { isDeprecatedProductId } from "@/lib/productEntity";
 
 // Simple comparison context
 interface CompareContextType {
@@ -21,7 +22,13 @@ const CompareContext = createContext<CompareContextType>({
 
 export function CompareProvider({ children }: { children: ReactNode }) {
     const [items, setItems] = useState<Perfume[]>([]);
-    const add = (p: Perfume) => setItems(prev => prev.length >= 3 || prev.find(x => x.id === p.id) ? prev : [...prev, p]);
+    const add = (p: Perfume) => {
+        // Never add deprecated catalog aliases (e.g. ysl-libre-intense-edp) to compare.
+        if (isDeprecatedProductId(p.id)) return;
+        setItems((prev) =>
+            prev.length >= 3 || prev.find((x) => x.id === p.id) ? prev : [...prev, p]
+        );
+    };
     const remove = (id: string) => setItems(prev => prev.filter(x => x.id !== id));
     const clear = () => setItems([]);
 
