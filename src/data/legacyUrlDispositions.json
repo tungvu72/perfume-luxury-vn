@@ -335,6 +335,30 @@
       "destination": "/nuoc-hoa-nam-giorgio-armani-stronger-with-you-intensely",
       "permanent": true,
       "disposition": "CHAIN_FIX"
+    },
+    {
+      "source": "/thuong-hieu/Aventus",
+      "destination": "/nuoc-hoa-nam-creed-creed-aventus",
+      "permanent": true,
+      "disposition": "UNICODE_NORMALIZE"
+    },
+    {
+      "source": "/thuong-hieu/aventus",
+      "destination": "/nuoc-hoa-nam-creed-creed-aventus",
+      "permanent": true,
+      "disposition": "UNICODE_NORMALIZE"
+    },
+    {
+      "source": "/thuong-hieu/versAce",
+      "destination": "/versace",
+      "permanent": true,
+      "disposition": "UNICODE_NORMALIZE"
+    },
+    {
+      "source": "/thuong-hieu/versace",
+      "destination": "/versace",
+      "permanent": true,
+      "disposition": "UNICODE_NORMALIZE"
     }
   ],
   "gone": [

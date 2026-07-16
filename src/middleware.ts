@@ -7,6 +7,31 @@ const GONE_PATHS = new Set(
     (dispositions.gone || []).map((g: { source: string }) => g.source)
 )
 
+/** Exact path → destination for GSC legacy redirects (also covers unicode edge cases). */
+const REDIRECT_MAP = new Map<string, string>(
+    (dispositions.redirects || []).map((r: { source: string; destination: string }) => [
+        r.source,
+        r.destination,
+    ])
+)
+
+/** Normalize mathematical/styled unicode letters to ASCII for mangled GSC paths. */
+function normalizeLookalikePath(pathname: string): string {
+    // Mathematical Alphanumeric Symbols: bold A-Z (U+1D400–U+1D419, U+1D468–U+1D481, etc.)
+    return pathname.replace(/[\u{1D400}-\u{1D7FF}]/gu, (ch) => {
+        const cp = ch.codePointAt(0)!
+        // Bold capital A-Z: 1D400-1D419
+        if (cp >= 0x1d400 && cp <= 0x1d419) return String.fromCharCode(65 + (cp - 0x1d400))
+        // Bold small a-z: 1D41A-1D433
+        if (cp >= 0x1d41a && cp <= 0x1d433) return String.fromCharCode(97 + (cp - 0x1d41a))
+        // Bold italic capital A-Z: 1D468-1D481
+        if (cp >= 0x1d468 && cp <= 0x1d481) return String.fromCharCode(65 + (cp - 0x1d468))
+        // Bold italic small a-z: 1D482-1D49B
+        if (cp >= 0x1d482 && cp <= 0x1d49b) return String.fromCharCode(97 + (cp - 0x1d482))
+        return ch
+    })
+}
+
 // ── Bot User-Agent patterns to block ──────────────────────────────────────
 const BLOCKED_BOTS = [
     'AhrefsBot', 'SemrushBot', 'DotBot', 'MJ12bot', 'PetalBot',
@@ -43,17 +68,17 @@ export function middleware(request: NextRequest) {
         || request.headers.get('x-real-ip')
         || 'unknown'
 
-    // ── 0. GSC disposition: permanent 410 for deleted/ambiguous legacy URLs ──
-    // Prefer real 410 over soft 200+noindex so Google drops invalid URLs.
+    // ── 0. GSC dispositions: 410 gone + exact-path 308 (incl. unicode mangled) ──
     const pathname = request.nextUrl.pathname
-    // Decode for unicode brand garbage paths; also match raw path
     let decoded = pathname
     try {
         decoded = decodeURIComponent(pathname)
     } catch {
         /* keep raw */
     }
-    if (GONE_PATHS.has(pathname) || GONE_PATHS.has(decoded)) {
+    const normalized = normalizeLookalikePath(decoded)
+
+    if (GONE_PATHS.has(pathname) || GONE_PATHS.has(decoded) || GONE_PATHS.has(normalized)) {
         return new NextResponse('Gone', {
             status: 410,
             headers: {
@@ -62,6 +87,26 @@ export function middleware(request: NextRequest) {
                 'X-Robots-Tag': 'noindex, nofollow',
             },
         })
+    }
+
+    // Middleware-level 308 for unicode/special paths that Next redirect tables may miss
+    const dest =
+        REDIRECT_MAP.get(pathname) ||
+        REDIRECT_MAP.get(decoded) ||
+        REDIRECT_MAP.get(normalized)
+    if (dest) {
+        const url = request.nextUrl.clone()
+        url.pathname = dest
+        url.search = ''
+        return NextResponse.redirect(url, 308)
+    }
+
+    // Normalized mangled brand fragments that map after lookalike fix
+    // e.g. /thuong-hieu/𝑨ventus → /thuong-hieu/Aventus → product aventus
+    if (normalized !== decoded && REDIRECT_MAP.has(normalized.toLowerCase())) {
+        const url = request.nextUrl.clone()
+        url.pathname = REDIRECT_MAP.get(normalized.toLowerCase())!
+        return NextResponse.redirect(url, 308)
     }
 
     // ── 1. Block known bad bots immediately ──
