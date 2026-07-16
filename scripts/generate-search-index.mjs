@@ -8,7 +8,10 @@
  *   node scripts/generate-search-index.mjs           # regenerate
  *   node scripts/generate-search-index.mjs --check   # validate only (exit 1 if drift)
  *
- * Policy: only isPublished !== false products are indexed.
+ * Policy:
+ * - only isPublished !== false products are indexed
+ * - exclude deprecated product entity aliases (see src/lib/productEntity.ts)
+ * - expected catalog search count: 276 (277 source - 1 deprecated)
  */
 import { readFileSync, writeFileSync, existsSync } from "fs";
 import { resolve } from "path";
@@ -17,6 +20,9 @@ const rootDir = resolve(process.cwd());
 const mockPath = resolve(rootDir, "src/constants/mockData.ts");
 const outPath = resolve(rootDir, "src/constants/searchIndex.ts");
 const checkOnly = process.argv.includes("--check");
+
+/** Keep in sync with src/lib/productEntity.ts PRODUCT_ID_ALIASES keys */
+const DEPRECATED_PRODUCT_IDS = new Set(["ysl-libre-intense-edp"]);
 
 const mockDataText = readFileSync(mockPath, "utf-8");
 
@@ -275,7 +281,9 @@ function compare(expected, actual) {
 
 // ── main ─────────────────────────────────────────────────────
 const all = parseProductsFromMock(mockDataText);
-const published = all.filter((p) => p.isPublished !== false);
+const published = all.filter(
+  (p) => p.isPublished !== false && !DEPRECATED_PRODUCT_IDS.has(p.id),
+);
 const searchItems = published.map(toSearchItem);
 const output = buildOutput(searchItems);
 
