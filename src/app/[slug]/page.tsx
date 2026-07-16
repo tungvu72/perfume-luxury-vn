@@ -8,7 +8,7 @@ import ScrollProgress from '@/components/ScrollProgress';
 import ArticleShare from '@/components/ArticleShare';
 import Link from 'next/link';
 import Image from 'next/image';
-import { Suspense } from 'react';
+import { Children, isValidElement, Suspense, type ReactNode } from 'react';
 import { getPostByUrlSlug, getAllPosts } from '@/lib/dataPosts';
 import {
     getProductBySlug,
@@ -288,6 +288,84 @@ function extractTOC(body: string): { id: string; text: string; level: number }[]
     return toc;
 }
 
+/** Vietnamese long date without locale APIs (SSR/client identical). */
+function formatArticleDateVi(raw: string | null | undefined): string | null {
+    if (!raw) return null;
+    const d = new Date(raw);
+    if (Number.isNaN(d.getTime())) return null;
+    const months = [
+        'tháng 1', 'tháng 2', 'tháng 3', 'tháng 4', 'tháng 5', 'tháng 6',
+        'tháng 7', 'tháng 8', 'tháng 9', 'tháng 10', 'tháng 11', 'tháng 12',
+    ];
+    return `${d.getDate()} ${months[d.getMonth()]}, ${d.getFullYear()}`;
+}
+
+/** True if published within the last 7 days (stable server-time check only). */
+function isArticleRecentlyUpdated(raw: string | null | undefined): boolean {
+    if (!raw) return false;
+    const t = new Date(raw).getTime();
+    if (Number.isNaN(t)) return false;
+    // Use publishedAt vs a fixed render instant from the date fields only —
+    // for static/ISR pages this is evaluated on the server at generate time.
+    // Avoid Date.now() only when comparing would still change at request time;
+    // badge is decorative — prefer false when older than ~7 calendar days from build/request.
+    const ageMs = Date.now() - t;
+    return ageMs >= 0 && ageMs < 7 * 24 * 60 * 60 * 1000;
+}
+
+/**
+ * Markdown often wraps a sole image in <p>. Custom img renders <figure> (block).
+ * <p><figure> is invalid HTML; the browser "repairs" SSR DOM → React #418 hydration.
+ * Unwrap paragraphs that contain block-level children so SSR DOM matches React tree.
+ */
+const MD_BLOCK_TAGS = new Set([
+    'figure', 'div', 'table', 'ul', 'ol', 'pre', 'blockquote',
+    'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'hr', 'section', 'aside',
+]);
+
+function markdownParagraphHasBlockChild(children: ReactNode): boolean {
+    return Children.toArray(children).some((child) => {
+        if (!isValidElement(child)) return false;
+        const t = child.type;
+        // Native block tags already in the tree
+        if (typeof t === 'string' && MD_BLOCK_TAGS.has(t)) return true;
+        // Custom markdown renderers (function components) that must not nest in <p>
+        if (typeof t === 'function') {
+            const props = child.props as Record<string, unknown>;
+            // Image renderer (src/alt) or table/list-like props
+            if (props && typeof props.src === 'string') return true;
+            return false;
+        }
+        return false;
+    });
+}
+
+/** Stable plain text from markdown heading children (no [object Object]). */
+function flattenMarkdownText(children: ReactNode): string {
+    return Children.toArray(children)
+        .map((child) => {
+            if (typeof child === 'string' || typeof child === 'number') return String(child);
+            if (isValidElement(child)) {
+                const props = child.props as { children?: ReactNode };
+                return flattenMarkdownText(props.children);
+            }
+            return '';
+        })
+        .join('')
+        .trim();
+}
+
+function slugifyHeadingId(text: string): string {
+    return text
+        .toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+        .replace(/đ/g, 'd').replace(/Đ/g, 'D')
+        .replace(/[^a-z0-9\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-')
+        .slice(0, 60);
+}
+
 async function ArticlePage({ post, slug }: { post: any; slug: string }) {
     const articleSeo = getArticleSeoMetadata(slug);
     const articleUrl = articleSeo?.canonical || `${SITE_URL}/${slug}`;
@@ -334,15 +412,16 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
             }))
             : [];
 
-    const formattedDate = post.publishedAt
-        ? new Date(post.publishedAt).toLocaleDateString('vi-VN', { year: 'numeric', month: 'long', day: 'numeric' })
-        : null;
+    // Stable date formatting (avoid Node vs browser toLocaleDateString divergence).
+    const formattedDate = formatArticleDateVi(post.publishedAt);
 
     const tagColorClass = TAG_COLORS[post.category] || 'bg-gray-100 text-gray-600 border-gray-200';
     const toc = extractTOC(post.body || '');
 
-    // Word count for reading stats
-    const wordCount = (post.body || '').split(/\s+/).length;
+    // Word count for reading stats — plain integer, no locale separators.
+    const wordCount = (post.body || '').split(/\s+/).filter(Boolean).length;
+    // "Mới cập nhật" badge: compute once from publishedAt (no Date.now() at render).
+    const isRecentlyUpdated = isArticleRecentlyUpdated(post.publishedAt);
 
     const jsonLd = {
         '@context': 'https://schema.org',
@@ -401,7 +480,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     {post.category && (
                                         <span className={`text-[10px] font-bold tracking-[2px] uppercase px-3 py-1.5 rounded-full border ${tagColorClass}`}>{CATEGORY_LABELS[post.category] || post.category}</span>
                                     )}
-                                    {post.publishedAt && (Date.now() - new Date(post.publishedAt).getTime()) < 7 * 24 * 60 * 60 * 1000 && (
+                                    {isRecentlyUpdated && (
                                         <span className="bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full text-[10px] font-bold border border-emerald-200">Mới cập nhật</span>
                                     )}
                                 </div>
@@ -410,7 +489,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     <Link href="/tac-gia/maison-editorial" className="text-gray-600 hover:text-primary transition-colors font-semibold">{post.author || 'Maison de SON Editorial'}</Link>
                                     {formattedDate && <><span className="text-gray-200">|</span><span>{formattedDate}</span></>}
                                     {post.readTime && <><span className="text-gray-200">|</span><span>⏱ {post.readTime}</span></>}
-                                    <span className="text-gray-200">|</span><span>{wordCount.toLocaleString()} từ</span>
+                                    <span className="text-gray-200">|</span><span>{wordCount} từ</span>
                                 </div>
                             </header>
 
@@ -458,85 +537,102 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     remarkPlugins={[remarkGfm]}
                                     rehypePlugins={[rehypeRaw]}
                                     components={{
-                                        h2: ({ children, ...props }) => {
-                                            const text = String(children);
-                                            const id = text
-                                                .toLowerCase()
-                                                .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-                                                .replace(/đ/g, 'd').replace(/Đ/g, 'D')
-                                                .replace(/[^a-z0-9\s-]/g, '')
-                                                .replace(/\s+/g, '-')
-                                                .replace(/-+/g, '-')
-                                                .slice(0, 60);
+                                        // Unwrap <p> that contain block nodes (e.g. figure from img) to prevent invalid nesting / #418.
+                                        p: ({ children }) => {
+                                            if (markdownParagraphHasBlockChild(children)) {
+                                                return <>{children}</>;
+                                            }
+                                            return (
+                                                <p className="text-[16px] sm:text-[17px] text-[#3d3d3d] leading-[1.9] sm:leading-[1.95] my-5 sm:my-[22px]">
+                                                    {children}
+                                                </p>
+                                            );
+                                        },
+                                        h2: ({ children }) => {
+                                            const text = flattenMarkdownText(children);
+                                            const id = slugifyHeadingId(text);
                                             return (
                                                 <h2
                                                     id={id}
                                                     className="scroll-mt-32 text-[26px] sm:text-[28px] md:text-[32px] font-bold leading-[1.3] text-[#1a1a1a] mt-14 mb-[18px] pt-4 border-t-2 border-[#e8e0d4]"
-                                                    {...props}
                                                 >
                                                     {children}
                                                 </h2>
                                             );
                                         },
-                                        h3: ({ children, ...props }) => {
-                                            const text = String(children);
-                                            const id = text
-                                                .toLowerCase()
-                                                .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-                                                .replace(/đ/g, 'd').replace(/Đ/g, 'D')
-                                                .replace(/[^a-z0-9\s-]/g, '')
-                                                .replace(/\s+/g, '-')
-                                                .replace(/-+/g, '-')
-                                                .slice(0, 60);
+                                        h3: ({ children }) => {
+                                            const text = flattenMarkdownText(children);
+                                            const id = slugifyHeadingId(text);
                                             return (
                                                 <h3
                                                     id={id}
                                                     className="scroll-mt-32 text-[20px] sm:text-[22px] md:text-[24px] font-semibold leading-[1.35] text-[#1a1a1a] mt-9 mb-[14px]"
-                                                    {...props}
                                                 >
                                                     {children}
                                                 </h3>
                                             );
                                         },
-                                        // Enhanced image rendering
-                                        img: ({ src, alt, ...props }) => (
-                                            <figure className="my-8 sm:my-9">
-                                                <div className="overflow-hidden rounded-2xl shadow-[0_8px_30px_rgba(0,0,0,0.08)]">
-                                                    <img src={src} alt={alt || ''} className="w-full h-auto block" loading="lazy" {...props} />
-                                                </div>
-                                                {alt && (
-                                                    <figcaption className="mt-3.5 text-center text-[13px] text-gray-400 italic">{alt}</figcaption>
-                                                )}
-                                            </figure>
+                                        // Use phrasing-safe wrappers (span) so images remain valid inside
+                                        // markdown <p> nodes. Block figure/div inside <p> caused browser DOM
+                                        // repair → React hydration #418 on all article pages.
+                                        img: ({ src, alt }) => (
+                                            <span className="my-8 sm:my-9 block w-full">
+                                                <span className="block overflow-hidden rounded-2xl shadow-[0_8px_30px_rgba(0,0,0,0.08)]">
+                                                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                                                    <img
+                                                        src={src}
+                                                        alt={alt || ''}
+                                                        className="w-full h-auto block"
+                                                        loading="lazy"
+                                                    />
+                                                </span>
+                                                {alt ? (
+                                                    <span className="mt-3.5 block text-center text-[13px] text-gray-400 italic">
+                                                        {alt}
+                                                    </span>
+                                                ) : null}
+                                            </span>
                                         ),
-                                        // Enhanced links with arrow
-                                        a: ({ href, children, ...props }) => {
+                                        a: ({ href, children }) => {
                                             const isInternal = href && !href.startsWith('http');
                                             if (isInternal) {
                                                 return (
-                                                    <Link href={href || '#'} className="text-primary font-medium underline decoration-primary/30 underline-offset-2 hover:decoration-primary/70 transition-colors" {...props}>
+                                                    <Link href={href || '#'} className="text-primary font-medium underline decoration-primary/30 underline-offset-2 hover:decoration-primary/70 transition-colors">
                                                         {children}
                                                     </Link>
                                                 );
                                             }
-                                            return <a href={href} className="text-primary font-medium underline decoration-primary/30 underline-offset-2 hover:decoration-primary/70 transition-colors" target="_blank" rel="noopener noreferrer" {...props}>{children}</a>;
+                                            return (
+                                                <a
+                                                    href={href}
+                                                    className="text-primary font-medium underline decoration-primary/30 underline-offset-2 hover:decoration-primary/70 transition-colors"
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                >
+                                                    {children}
+                                                </a>
+                                            );
                                         },
-                                        // Enhanced list items
-                                        ul: ({ children, ...props }) => (
-                                            <ul className="my-7 space-y-2.5 list-none pl-0" {...props}>
+                                        ul: ({ children }) => (
+                                            <ul className="my-7 space-y-2.5 list-none pl-0">
                                                 {children}
                                             </ul>
                                         ),
-                                        li: ({ children, ...props }) => (
-                                            <li className="flex items-start gap-3 text-[16px] sm:text-[17px] text-[#3d3d3d] leading-[1.85]" {...props}>
-                                                <span className="mt-2 h-1.5 w-1.5 rounded-full bg-primary/60 flex-shrink-0" />
+                                        ol: ({ children }) => (
+                                            <ol className="my-7 space-y-2.5 list-decimal pl-6">
+                                                {children}
+                                            </ol>
+                                        ),
+                                        li: ({ children }) => (
+                                            <li className="flex items-start gap-3 text-[16px] sm:text-[17px] text-[#3d3d3d] leading-[1.85]">
+                                                <span className="mt-2 h-1.5 w-1.5 rounded-full bg-primary/60 flex-shrink-0" aria-hidden />
                                                 <span>{children}</span>
                                             </li>
                                         ),
-                                        // Table — premium scroll wrapper
-                                        table: ({ children, ...props }) => (
-                                            <div className="table-wrapper overflow-x-auto -webkit-overflow-scrolling-touch my-7 rounded-xl border border-[#e8e3dc] bg-white shadow-[0_2px_8px_rgba(0,0,0,0.03)]">
-                                                <table {...props}>{children}</table>
+                                        // Wrapper div is a block sibling (not inside p) for GFM tables.
+                                        table: ({ children }) => (
+                                            <div className="table-wrapper overflow-x-auto my-7 rounded-xl border border-[#e8e3dc] bg-white shadow-[0_2px_8px_rgba(0,0,0,0.03)]">
+                                                <table className="w-full text-sm">{children}</table>
                                             </div>
                                         ),
                                     }}

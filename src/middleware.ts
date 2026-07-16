@@ -124,8 +124,13 @@ export function middleware(request: NextRequest) {
         })
     }
 
-    // ── 2. Rate limiting per IP ──
-    if (ip !== 'unknown' && isRateLimited(ip)) {
+    // ── 2. Rate limiting per IP (skip loopback so local prod/QA matrices do not self-throttle) ──
+    const isLoopback =
+        ip === '127.0.0.1' ||
+        ip === '::1' ||
+        ip === '::ffff:127.0.0.1' ||
+        ip.startsWith('127.')
+    if (ip !== 'unknown' && !isLoopback && isRateLimited(ip)) {
         return new NextResponse('Too Many Requests', {
             status: 429,
             headers: {
