@@ -1,92 +1,92 @@
-# Chanel - Bi?u Tu?ng C?a S? Thanh L?ch
-
-**Meta Description:** Kh·m ph· thuong hi?u nu?c hoa Chanel - T? N∞5 huy?n tho?i d?n Bleu de Chanel hi?n d?i. L?ch s?, top s?n ph?m v‡ d?c trung c?a nh‡ Chanel.
-
----
-
-## L?ch S? Thuong Hi?u Chanel
-
-Gabrielle "Coco" Chanel th‡nh l?p nh‡ m?t Chanel nam 1910 t?i Paris. Nam 1921, Chanel ra m?t N∞5 - chai nu?c hoa mang tÌnh c·ch m?ng v?i vi?c s? d?ng aldehyde, tr? th‡nh nu?c hoa n?i ti?ng nh?t th? gi?i.
-
-–?n nay, Chanel Parfums v?n gi? v?ng v? th? d?n d?u v?i c·c huy?n tho?i nhu N∞5, Coco Mademoiselle, v‡ Bleu de Chanel.
-
-Chanel Parfums thu?c s? h?u gia dÏnh Wertheimer v‡ v?n d?c l?p v?i t?p do‡n LVMH.
-
----
-
-## Vibe –?c Trung C?a Chanel
-
-- **Thanh l?ch, tinh t?:** –?c trung c?a th?i trang Ph·p
-- **C? di?n nhung hi?n d?i:** K?t h?p truy?n th?ng v‡ d?i m?i
-- **–?ng c?p:** NguyÍn li?u v‡ ch?t lu?ng d?nh cao
-- **T?i gi?n:** Thi?t k? don gi?n nhung sang tr?ng
-
----
-
-## Top 5 Best Sellers C?a Chanel
-
-### 1. Bleu de Chanel Parfum
-**Gi·:** 4.200.000d (100ml)
-**Vibe:** Thanh l?ch, tinh t?, d?ng c?p
-**–·nh gi·:** 9.5/10
-
-[Xem chi ti?t s?n ph?m](/product/bleu-de-chanel-parfum)
-
----
-
-### 2. Bleu de Chanel Eau de Parfum
-**Gi·:** 4.000.000d (100ml)
-**Vibe:** Thanh l?ch, hi?n d?i, nam tÌnh
-**–·nh gi·:** 9/10
-
-[Xem chi ti?t s?n ph?m](/nuoc-hoa-nam-chanel-bleu-de-chanel-eau-de-parfum)
-
----
-
-### 3. Chanel Coco Mademoiselle Parfum
-**Gi·:** 4.500.000d (90ml)
-**Vibe:** Thanh l?ch, hi?n d?i, d?c l?p
-**–·nh gi·:** 9.5/10
-
-[Xem chi ti?t s?n ph?m](/product/chanel-coco-mademoiselle-parfum)
-
----
-
-### 4. Chanel Coco Mademoiselle Eau de Parfum
-**Gi·:** 4.200.000d (100ml)
-**Vibe:** Thanh l?ch, tinh t?, n? tÌnh
-**–·nh gi·:** 9/10
-
-[Xem chi ti?t s?n ph?m](/product/chanel-coco-mademoiselle)
-
----
-
-### 5. Chanel N∞5 Eau de Parfum
-**Gi·:** 4.800.000d (100ml)
-**Vibe:** C? di?n, sang tr?ng, huy?n tho?i
-**–·nh gi·:** 9/10
-
-[Xem chi ti?t s?n ph?m](/product/chanel-no5)
-
----
-
-## C·c DÚng Nu?c Hoa ChÌnh C?a Chanel
-
-| DÚng | –?i tu?ng | Phong c·ch |
-|------|-----------|------------|
-| Bleu | Nam | Thanh l?ch, hi?n d?i |
-| Allure Homme | Nam | Th? thao, nam tÌnh |
-| Coco Mademoiselle | N? | Hi?n d?i, n? tÌnh |
-| N∞5 | N? | C? di?n, sang tr?ng |
-| Chance | N? | Tr? trung, nh? nh‡ng |
-| Les Exclusifs | Unisex | Niche, d?c d·o |
-
----
-
-## Xem T?t C? S?n Ph?m Chanel
-
-[Xem t?t c? nu?c hoa Chanel](/thuong-hieu/chanel)
-
----
-
-**T? khÛa:** nu?c hoa Chanel, Bleu de Chanel, Chanel N∞5, Coco Mademoiselle, thuong hi?u Chanel, l?ch s? Chanel
+# Chanel - Bi?u Tu?ng C?a S? Thanh L?ch
+
+**Meta Description:** Kh√°m ph√° thuong hi?u nu?c hoa Chanel - T? N¬∞5 huy?n tho?i d?n Bleu de Chanel hi?n d?i. L?ch s?, top s?n ph?m v√† d?c trung c?a nh√† Chanel.
+
+---
+
+## L?ch S? Thuong Hi?u Chanel
+
+Gabrielle "Coco" Chanel th√†nh l?p nh√† m?t Chanel nam 1910 t?i Paris. Nam 1921, Chanel ra m?t N¬∞5 - chai nu?c hoa mang t√≠nh c√°ch m?ng v?i vi?c s? d?ng aldehyde, tr? th√†nh nu?c hoa n?i ti?ng nh?t th? gi?i.
+
+ƒê?n nay, Chanel Parfums v?n gi? v?ng v? th? d?n d?u v?i c√°c huy?n tho?i nhu N¬∞5, Coco Mademoiselle, v√† Bleu de Chanel.
+
+Chanel Parfums thu?c s? h?u gia dÃÅnh Wertheimer v√† v?n d?c l?p v?i t?p do√†n LVMH.
+
+---
+
+## Vibe ƒê?c Trung C?a Chanel
+
+- **Thanh l?ch, tinh t?:** ƒê?c trung c?a th?i trang Ph√°p
+- **C? di?n nhung hi?n d?i:** K?t h?p truy?n th?ng v√† d?i m?i
+- **ƒê?ng c?p:** Nguy√™n li?u v√† ch?t lu?ng d?nh cao
+- **T?i gi?n:** Thi?t k? don gi?n nhung sang tr?ng
+
+---
+
+## Top 5 Best Sellers C?a Chanel
+
+### 1. Bleu de Chanel Parfum
+**Gi√°:** 4.200.000d (100ml)
+**Vibe:** Thanh l?ch, tinh t?, d?ng c?p
+**ƒê√°nh gi√°:** 9.5/10
+
+[Xem chi ti?t s?n ph?m](/product/bleu-de-chanel-parfum)
+
+---
+
+### 2. Bleu de Chanel Eau de Parfum
+**Gi√°:** 4.000.000d (100ml)
+**Vibe:** Thanh l?ch, hi?n d?i, nam t√≠nh
+**ƒê√°nh gi√°:** 9/10
+
+[Xem chi ti?t s?n ph?m](/nuoc-hoa-nam-chanel-bleu-de-chanel-eau-de-parfum)
+
+---
+
+### 3. Chanel Coco Mademoiselle Parfum
+**Gi√°:** 4.500.000d (90ml)
+**Vibe:** Thanh l?ch, hi?n d?i, d?c l?p
+**ƒê√°nh gi√°:** 9.5/10
+
+[Xem chi ti?t s?n ph?m](/product/chanel-coco-mademoiselle-parfum)
+
+---
+
+### 4. Chanel Coco Mademoiselle Eau de Parfum
+**Gi√°:** 4.200.000d (100ml)
+**Vibe:** Thanh l?ch, tinh t?, n? t√≠nh
+**ƒê√°nh gi√°:** 9/10
+
+[Xem chi ti?t s?n ph?m](/product/chanel-coco-mademoiselle)
+
+---
+
+### 5. Chanel N¬∞5 Eau de Parfum
+**Gi√°:** 4.800.000d (100ml)
+**Vibe:** C? di?n, sang tr?ng, huy?n tho?i
+**ƒê√°nh gi√°:** 9/10
+
+[Xem chi ti?t s?n ph?m](/product/chanel-no5)
+
+---
+
+## C√°c DÃ£ng Nu?c Hoa Ch√≠nh C?a Chanel
+
+| DÃ£ng | ƒê?i tu?ng | Phong c√°ch |
+|------|-----------|------------|
+| Bleu | Nam | Thanh l?ch, hi?n d?i |
+| Allure Homme | Nam | Th? thao, nam t√≠nh |
+| Coco Mademoiselle | N? | Hi?n d?i, n? t√≠nh |
+| N¬∞5 | N? | C? di?n, sang tr?ng |
+| Chance | N? | Tr? trung, nh? nh√†ng |
+| Les Exclusifs | Unisex | Niche, d?c d√°o |
+
+---
+
+## Xem T?t C? S?n Ph?m Chanel
+
+[Xem t?t c? nu?c hoa Chanel](/chanel)
+
+---
+
+**T? kh√≥a:** nu?c hoa Chanel, Bleu de Chanel, Chanel N¬∞5, Coco Mademoiselle, thuong hi?u Chanel, l?ch s? Chanel

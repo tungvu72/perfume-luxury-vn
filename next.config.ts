@@ -6,12 +6,24 @@ import { join } from "path";
  * Brand detail canonical = /[brandSlug] (owner-approved shallow URLs).
  * Nested /thuong-hieu/[brandSlug] is legacy only → permanent redirect.
  * Built from mockData brandSlug fields so unknown nested paths are not redirected.
+ *
+ * IMPORTANT: only canonical brand slugs — never product tokens or first-name
+ * fragments (that caused invalid /thuong-hieu/<token> soft pages in GSC).
  */
 function getKnownBrandSlugs(): string[] {
   try {
-    const mock = readFileSync(join(__dirname, "src/constants/mockData.ts"), "utf8");
+    // Prefer commercial brand SEO map (exactly 76 canonical brands)
+    const brandSeo = readFileSync(
+      join(__dirname, "src/lib/brandSeoMetadata.ts"),
+      "utf8",
+    );
     const slugs = new Set<string>();
-    // Only explicit brandSlug fields (same SoT used by getAllBrands / getBrandBySlug)
+    for (const m of brandSeo.matchAll(/^\s+"([a-z0-9]+(?:-[a-z0-9]+)*)":\s*\{/gm)) {
+      slugs.add(m[1].toLowerCase());
+    }
+    if (slugs.size > 0) return Array.from(slugs);
+
+    const mock = readFileSync(join(__dirname, "src/constants/mockData.ts"), "utf8");
     for (const m of mock.matchAll(/brandSlug:\s*"([^"]+)"/g)) {
       const slug = m[1];
       if (slug && /^[a-z0-9]+(?:-[a-z0-9]+)*$/i.test(slug)) {
@@ -30,6 +42,32 @@ const brandLegacyRedirects = getKnownBrandSlugs().map((slug) => ({
   permanent: true as const,
 }));
 
+/** GSC noindex audit dispositions — direct 308 to verified canonicals only */
+function getGscLegacyRedirects(): {
+  source: string;
+  destination: string;
+  permanent: true;
+}[] {
+  try {
+    const raw = readFileSync(
+      join(__dirname, "src/data/legacyUrlDispositions.json"),
+      "utf8",
+    );
+    const data = JSON.parse(raw) as {
+      redirects: { source: string; destination: string }[];
+    };
+    return (data.redirects || []).map((r) => ({
+      source: r.source,
+      destination: r.destination,
+      permanent: true as const,
+    }));
+  } catch {
+    return [];
+  }
+}
+
+const gscLegacyRedirects = getGscLegacyRedirects();
+
 const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
@@ -46,7 +84,12 @@ const nextConfig: NextConfig = {
     return [
       // ── Bot blocking moved to middleware.ts (runs at Edge, no quota cost) ──
 
+      // ── GSC noindex audit 64: direct permanent redirects to verified targets ──
+      // Must run before partial/legacy rules to avoid chains into dead paths.
+      ...gscLegacyRedirects,
+
       // ── Legacy nested brand detail → root-level canonical /[brandSlug] ──
+      // Only exact canonical brand slugs (76) — never product-token fragments.
       ...brandLegacyRedirects,
 
       // ── /bang-xep-hang → /nuoc-hoa-theo-nhu-cau (page replacement) ──
@@ -57,8 +100,8 @@ const nextConfig: NextConfig = {
 
       // ── Indexed URL redirects (from GSC) ──
       // baccarat-rouge-540 is the only indexed product — redirect to new URL format
-      { source: '/baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540', permanent: true },
-      { source: '/san-pham/baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540', permanent: true },
+      { source: '/baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-mfk-baccarat-54-edp', permanent: true },
+      { source: '/san-pham/baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-mfk-baccarat-54-edp', permanent: true },
 
       // ── Legacy route patterns ──
       // /san-pham/[id] → product pages now use /nuoc-hoa-* format, catch remaining old links
@@ -72,21 +115,23 @@ const nextConfig: NextConfig = {
       { source: '/top-7-nuoc-hoa-nam-di-lam-mua-he-2026', destination: '/nuoc-hoa-nam-di-lam-mua-he', permanent: true },
       { source: '/top-7-nuoc-hoa-nam-van-phong-lich-lam-2026', destination: '/nuoc-hoa-nam-di-lam-mua-he', permanent: true },
 
-      { source: '/bleu-de-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-chanel-edp', permanent: true },
-      { source: '/san-pham/bleu-de-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-chanel-edp', permanent: true },
-      { source: '/bleu-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-chanel-edp', permanent: true },
-      { source: '/armani-stronger-with-you', destination: '/nuoc-hoa-nam-armani-armani-stronger-with-you-intensely', permanent: true },
-      { source: '/san-pham/armani-stronger-with-you', destination: '/nuoc-hoa-nam-armani-armani-stronger-with-you-intensely', permanent: true },
-      { source: '/armani-stronger-with-you-intensely', destination: '/nuoc-hoa-nam-armani-armani-stronger-with-you-intensely', permanent: true },
-      { source: '/mfk-baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540', permanent: true },
-      { source: '/san-pham/mfk-baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540', permanent: true },
+      // Bleu de Chanel — always final canonical product (no intermediate dead slug)
+      { source: '/bleu-de-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-de-chanel-eau-de-parfum', permanent: true },
+      { source: '/san-pham/bleu-de-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-de-chanel-eau-de-parfum', permanent: true },
+      { source: '/bleu-chanel-edp', destination: '/nuoc-hoa-nam-chanel-bleu-de-chanel-eau-de-parfum', permanent: true },
+      { source: '/armani-stronger-with-you', destination: '/nuoc-hoa-nam-giorgio-armani-stronger-with-you-intensely', permanent: true },
+      { source: '/san-pham/armani-stronger-with-you', destination: '/nuoc-hoa-nam-giorgio-armani-stronger-with-you-intensely', permanent: true },
+      { source: '/armani-stronger-with-you-intensely', destination: '/nuoc-hoa-nam-giorgio-armani-stronger-with-you-intensely', permanent: true },
+      { source: '/mfk-baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-mfk-baccarat-54-edp', permanent: true },
+      { source: '/san-pham/mfk-baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-mfk-baccarat-54-edp', permanent: true },
       // Old product URLs for the 5 published products
       { source: '/sauvage-elixir', destination: '/nuoc-hoa-nam-dior-sauvage-elixir', permanent: true },
       { source: '/san-pham/sauvage-elixir', destination: '/nuoc-hoa-nam-dior-sauvage-elixir', permanent: true },
-      { source: '/lattafa-khamrah', destination: '/nuoc-hoa-unisex-lattafa-lattafa-khamrah', permanent: true },
-      { source: '/san-pham/lattafa-khamrah', destination: '/nuoc-hoa-unisex-lattafa-lattafa-khamrah', permanent: true },
-      { source: '/versace-eros-edp', destination: '/nuoc-hoa-nam-versace-versace-eros-edp', permanent: true },
-      { source: '/san-pham/versace-eros-edp', destination: '/nuoc-hoa-nam-versace-versace-eros-edp', permanent: true },
+      { source: '/lattafa-khamrah', destination: '/nuoc-hoa-unisex-lattafa-khamrah', permanent: true },
+      { source: '/san-pham/lattafa-khamrah', destination: '/nuoc-hoa-unisex-lattafa-khamrah', permanent: true },
+      // Note: eros-edp Product_ID URL is /nuoc-hoa-nam-versace-eros-edp (brand segment once)
+      { source: '/versace-eros-edp', destination: '/nuoc-hoa-nam-versace-eros-edp', permanent: true },
+      { source: '/san-pham/versace-eros-edp', destination: '/nuoc-hoa-nam-versace-eros-edp', permanent: true },
 
       // ── Duplicate merge redirects (2026-04-11) ──
       { source: '/nuoc-hoa-unisex-maison-francis-kurkdjian-baccarat-rouge-540', destination: '/nuoc-hoa-unisex-maison-francis-kurkdjian-mfk-baccarat-54-edp', permanent: true },

@@ -1,5 +1,11 @@
 import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
+import dispositions from '@/data/legacyUrlDispositions.json'
+
+/** Exact paths that must return HTTP 410 Gone (GSC noindex audit). */
+const GONE_PATHS = new Set(
+    (dispositions.gone || []).map((g: { source: string }) => g.source)
+)
 
 // ── Bot User-Agent patterns to block ──────────────────────────────────────
 const BLOCKED_BOTS = [
@@ -36,6 +42,27 @@ export function middleware(request: NextRequest) {
     const ip = request.headers.get('x-forwarded-for')?.split(',')[0]?.trim()
         || request.headers.get('x-real-ip')
         || 'unknown'
+
+    // ── 0. GSC disposition: permanent 410 for deleted/ambiguous legacy URLs ──
+    // Prefer real 410 over soft 200+noindex so Google drops invalid URLs.
+    const pathname = request.nextUrl.pathname
+    // Decode for unicode brand garbage paths; also match raw path
+    let decoded = pathname
+    try {
+        decoded = decodeURIComponent(pathname)
+    } catch {
+        /* keep raw */
+    }
+    if (GONE_PATHS.has(pathname) || GONE_PATHS.has(decoded)) {
+        return new NextResponse('Gone', {
+            status: 410,
+            headers: {
+                'Content-Type': 'text/plain; charset=utf-8',
+                'Cache-Control': 'public, max-age=86400',
+                'X-Robots-Tag': 'noindex, nofollow',
+            },
+        })
+    }
 
     // ── 1. Block known bad bots immediately ──
     const isBadBot = BLOCKED_BOTS.some(bot =>

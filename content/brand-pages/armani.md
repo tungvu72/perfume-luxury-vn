@@ -82,7 +82,7 @@ Armani Parfums ra mắt chai nước hoa đầu tiên năm 1982 - Armani Eau de 
 
 ## Xem Tất Cả Sản Phẩm Armani
 
-[Xem tất cả nước hoa Armani](/thuong-hieu/armani)
+[Xem tất cả nước hoa Armani](/giorgio-armani)
 
 ---
 

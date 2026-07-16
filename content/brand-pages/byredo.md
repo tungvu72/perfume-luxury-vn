@@ -82,7 +82,7 @@ Byredo nổi tiếng với thiết kế tối giản, mùi hương độc đáo 
 
 ## Xem Tất Cả Sản Phẩm Byredo
 
-[Xem tất cả nước hoa Byredo](/thuong-hieu/byredo)
+[Xem tất cả nước hoa Byredo](/byredo)
 
 ---
 
