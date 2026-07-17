@@ -128,12 +128,23 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         };
     }
     if (post) {
+        // Preview deployments must not index. Production main keeps normal indexing.
+        const isPreviewEnv =
+            process.env.VERCEL_ENV === 'preview' ||
+            process.env.OWNER_PREVIEW === '1' ||
+            process.env.NEXT_PUBLIC_OWNER_PREVIEW === '1';
+        const previewRobots = isPreviewEnv
+            ? ({ index: false, follow: false } as const)
+            : undefined;
+
         const approved = getArticleSeoMetadata(slug);
         if (approved) {
             return {
                 title: approved.title,
                 description: approved.description,
+                // Always use locked future production canonical — never preview host.
                 alternates: { canonical: approved.canonical },
+                ...(previewRobots ? { robots: previewRobots } : {}),
                 openGraph: {
                     title: approved.title,
                     description: approved.description,
@@ -148,6 +159,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
             title: `${post.title} | Maison de SON`,
             description: post.excerpt || `${post.title} — Maison de SON`,
             alternates: { canonical: `${CANONICAL_BASE}/${slug}` },
+            ...(previewRobots ? { robots: previewRobots } : {}),
             openGraph: {
                 title: post.title,
                 description: post.excerpt || '',
@@ -451,7 +463,11 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                     <div className="relative w-full" style={{ paddingTop: 'min(50%, 440px)' }}>
                         <Image
                             src={post.mainImage || PLACEHOLDER_IMAGE}
-                            alt={post.title}
+                            alt={
+                                slug === 'dior-sauvage-edp-vs-elixir'
+                                    ? 'So sánh editorial Sauvage EDP và Sauvage Elixir trên bề mặt đá slate, ánh sáng mát trái và ấm phải'
+                                    : post.title
+                            }
                             fill sizes="100vw"
                             className="object-cover object-center"
                             priority

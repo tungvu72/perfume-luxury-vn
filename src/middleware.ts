@@ -68,6 +68,15 @@ export function middleware(request: NextRequest) {
         || request.headers.get('x-real-ip')
         || 'unknown'
 
+    // Preview / owner-review deploys: always send X-Robots-Tag noindex (does not affect production).
+    const isPreviewDeploy =
+        process.env.VERCEL_ENV === 'preview' ||
+        process.env.OWNER_PREVIEW === '1' ||
+        process.env.NEXT_PUBLIC_OWNER_PREVIEW === '1'
+    // Host-based fallback for *.vercel.app preview URLs
+    const host = request.headers.get('host') || ''
+    const isVercelPreviewHost = host.endsWith('.vercel.app')
+
     // ── 0. GSC dispositions: 410 gone + exact-path 308 (incl. unicode mangled) ──
     const pathname = request.nextUrl.pathname
     let decoded = pathname
@@ -146,7 +155,11 @@ export function middleware(request: NextRequest) {
         return new NextResponse('Forbidden', { status: 403 })
     }
 
-    return NextResponse.next()
+    const response = NextResponse.next()
+    if (isPreviewDeploy || isVercelPreviewHost) {
+        response.headers.set('X-Robots-Tag', 'noindex, nofollow')
+    }
+    return response
 }
 
 // Chỉ apply cho page routes, không apply cho static files

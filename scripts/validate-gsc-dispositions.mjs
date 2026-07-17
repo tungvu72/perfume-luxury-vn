@@ -81,7 +81,8 @@ const pass =
   checks.badTargets === 0 &&
   checks.productMap === 276 &&
   checks.brandMap === 76 &&
-  checks.articleMap === 14 &&
+  // 14 production baseline + 1 Week-1 D01 owner preview article
+  checks.articleMap === 15 &&
   checks.invalidBrandGen === 0 &&
   checks.redirectCount + checks.goneCount >= 64;
 
