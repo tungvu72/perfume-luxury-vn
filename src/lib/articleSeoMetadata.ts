@@ -153,11 +153,11 @@ export const ARTICLE_SEO_METADATA: Record<string, ArticleSeoMetadata> = {
     intentClass: `COMMERCIAL_INVESTIGATION`,
     moduleProfile: `COMMERCIAL_FULL`,
   },
-  // Week-1 D01 owner preview — locked package SEO (05-seo.json). Preview robots handled env-aware in page metadata.
+  // Week-1 D01 owner preview — locked final rewrite SEO (editorial rescue).
   "dior-sauvage-edp-vs-elixir": {
-    title: `Dior Sauvage EDP vs Elixir: bản nào hợp bạn? | Maison de Son`,
-    description: `So sánh Dior Sauvage EDP và Sauvage Elixir theo văn phòng, máy lạnh, ngoài trời, hẹn hò và buổi tối. Không có bản luôn thắng — chọn theo bối cảnh thật.`,
-    h1: `Dior Sauvage EDP vs Elixir: chọn bản nào theo bối cảnh dùng?`,
+    title: `Dior Sauvage EDP vs Elixir: chọn đúng bản | Maison de Son`,
+    description: `Sauvage EDP linh hoạt, dễ dùng hằng ngày; Elixir đậm, cay và hợp buổi tối hơn. So sánh nhanh theo văn phòng, hẹn hò và thời tiết Việt Nam.`,
+    h1: `Dior Sauvage EDP vs Elixir: bản nào hợp bạn hơn?`,
     canonical: `https://www.maisondeson.com/dior-sauvage-edp-vs-elixir`,
     urlPath: `/dior-sauvage-edp-vs-elixir`,
     intentClass: `COMMERCIAL_INVESTIGATION`,

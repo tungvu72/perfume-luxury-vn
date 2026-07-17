@@ -33,6 +33,7 @@ import ProductCommercialGuide from '@/components/pdp/ProductCommercialGuide';
 import { getCanonicalBrandSlug } from '@/lib/brandCanonical';
 import { getArticleSeoMetadata } from '@/lib/articleSeoMetadata';
 import ArticleIntentSupport from '@/components/article/ArticleIntentSupport';
+import ArticleProductFocus from '@/components/article/ArticleProductFocus';
 
 // false = unknown slugs get a real HTTP 404 (not soft-404 200 under streaming/loading.tsx).
 // All valid product / article / brand paths are emitted by generateStaticParams at build.
@@ -435,6 +436,10 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
     // "Mới cập nhật" badge: compute once from publishedAt (no Date.now() at render).
     const isRecentlyUpdated = isArticleRecentlyUpdated(post.publishedAt);
 
+    const isD01Rescue = slug === 'dior-sauvage-edp-vs-elixir';
+    const d01HeroAlt =
+        'Dior Sauvage EDP và Sauvage Elixir trong hai vùng ánh sáng mát và ấm';
+
     const jsonLd = {
         '@context': 'https://schema.org',
         '@type': 'Article',
@@ -451,6 +456,205 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
         inLanguage: 'vi-VN',
     };
 
+    // Strip H1; D01 places hero/modules via placeholders in body.
+    const articleBodyRaw = (post.body || '').replace(/^#\s+.+\n*/m, '').trim();
+    const PLACEHOLDER_RE =
+        /(\[HERO_IMAGE\]|\[EDP_PRODUCT_FOCUS_MODULE\]|\[ELIXIR_PRODUCT_FOCUS_MODULE\])/g;
+    const bodyParts = isD01Rescue
+        ? articleBodyRaw.split(PLACEHOLDER_RE)
+        : [articleBodyRaw];
+
+    const markdownComponents = {
+        // Unwrap <p> that contain block nodes (e.g. figure from img) to prevent invalid nesting / #418.
+        p: ({ children }: { children?: ReactNode }) => {
+            if (markdownParagraphHasBlockChild(children)) {
+                return <>{children}</>;
+            }
+            return (
+                <p className="text-[16px] sm:text-[17px] text-[#3d3d3d] leading-[1.9] sm:leading-[1.95] my-5 sm:my-[22px]">
+                    {children}
+                </p>
+            );
+        },
+        h2: ({ children }: { children?: ReactNode }) => {
+            const text = flattenMarkdownText(children);
+            const id = slugifyHeadingId(text);
+            return (
+                <h2
+                    id={id}
+                    className="scroll-mt-32 text-[22px] sm:text-[26px] md:text-[28px] font-bold leading-[1.3] text-[#1a1a1a] mt-12 mb-4 pt-2 border-t border-[#ebe4da]"
+                >
+                    {children}
+                </h2>
+            );
+        },
+        h3: ({ children }: { children?: ReactNode }) => {
+            const text = flattenMarkdownText(children);
+            const id = slugifyHeadingId(text);
+            return (
+                <h3
+                    id={id}
+                    className="scroll-mt-32 text-[18px] sm:text-[20px] font-semibold leading-[1.35] text-[#1a1a1a] mt-8 mb-3"
+                >
+                    {children}
+                </h3>
+            );
+        },
+        img: ({ src, alt }: { src?: string; alt?: string }) => (
+            <span className="my-8 sm:my-9 block w-full">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                    src={src || ''}
+                    alt={alt || ''}
+                    className="w-full rounded-2xl shadow-[0_8px_30px_rgba(0,0,0,0.08)]"
+                />
+            </span>
+        ),
+        a: ({ href, children }: { href?: string; children?: ReactNode }) => {
+            if (!href) return <span>{children}</span>;
+            const isInternal = href.startsWith('/');
+            if (isInternal) {
+                return (
+                    <Link
+                        href={href}
+                        className="text-primary font-medium underline decoration-primary/30 underline-offset-2 hover:decoration-primary/70 transition-colors"
+                    >
+                        {children}
+                    </Link>
+                );
+            }
+            return (
+                <a
+                    href={href}
+                    className="text-primary font-medium underline decoration-primary/30 underline-offset-2 hover:decoration-primary/70 transition-colors"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    {children}
+                </a>
+            );
+        },
+        ul: ({ children }: { children?: ReactNode }) => (
+            <ul className="my-6 space-y-2 list-none pl-0">{children}</ul>
+        ),
+        ol: ({ children }: { children?: ReactNode }) => (
+            <ol className="my-6 space-y-2 list-decimal pl-6">{children}</ol>
+        ),
+        li: ({ children }: { children?: ReactNode }) => (
+            <li className="flex items-start gap-3 text-[16px] sm:text-[17px] text-[#3d3d3d] leading-[1.85]">
+                <span className="mt-2 h-1.5 w-1.5 rounded-full bg-primary/60 flex-shrink-0" aria-hidden />
+                <span>{children}</span>
+            </li>
+        ),
+        blockquote: ({ children }: { children?: ReactNode }) => {
+            const text = flattenMarkdownText(children);
+            const isQuick = /Chọn nhanh trong 20 giây/i.test(text);
+            const isTransparency = /Minh bạch biên tập/i.test(text);
+            if (isQuick) {
+                return (
+                    <aside
+                        className="my-8 not-prose rounded-2xl border-2 border-primary/25 bg-gradient-to-br from-[#fff9f2] to-[#f7f2eb] p-5 sm:p-6 shadow-[0_4px_20px_rgba(0,0,0,0.04)]"
+                        data-callout="quick-decision"
+                    >
+                        <div className="text-[15px] sm:text-[16px] text-[#2a2118] leading-[1.8] [&_strong]:font-bold [&_p]:my-2 [&_ul]:my-3 [&_li]:my-1.5">
+                            {children}
+                        </div>
+                    </aside>
+                );
+            }
+            if (isTransparency) {
+                return (
+                    <aside
+                        className="my-8 not-prose rounded-xl border border-[#e0d7ca] bg-[#faf8f5] px-5 py-4 text-[13px] sm:text-[14px] text-[#5a4f45] leading-relaxed"
+                        data-callout="transparency-note"
+                    >
+                        {children}
+                    </aside>
+                );
+            }
+            return (
+                <blockquote className="border-l-[3px] border-primary/40 pl-5 py-2 text-[#555] bg-[#faf8f5] rounded-r-xl not-italic my-8">
+                    {children}
+                </blockquote>
+            );
+        },
+        table: ({ children }: { children?: ReactNode }) => (
+            <div className="table-wrapper overflow-x-auto my-7 rounded-xl border border-[#e8e3dc] bg-white shadow-[0_2px_8px_rgba(0,0,0,0.03)]">
+                <table className="w-full min-w-[520px] text-sm">{children}</table>
+            </div>
+        ),
+    };
+
+    const renderMarkdownSegment = (md: string, key: string) => {
+        if (!md.trim()) return null;
+        return (
+            <ReactMarkdown
+                key={key}
+                remarkPlugins={[remarkGfm]}
+                rehypePlugins={[rehypeRaw]}
+                components={markdownComponents as any}
+            >
+                {md}
+            </ReactMarkdown>
+        );
+    };
+
+    const renderD01Body = () =>
+        bodyParts.map((part: string, i: number) => {
+            if (part === '[HERO_IMAGE]') {
+                return (
+                    <figure
+                        key={`hero-${i}`}
+                        className="my-8 sm:my-10 not-prose overflow-hidden rounded-2xl border border-[#e8e0d4] bg-[#0a0a0a] shadow-[0_8px_30px_rgba(0,0,0,0.08)]"
+                        data-visual="d01-hero"
+                    >
+                        <div className="relative w-full aspect-[16/9]">
+                            <Image
+                                src={post.mainImage || PLACEHOLDER_IMAGE}
+                                alt={d01HeroAlt}
+                                fill
+                                sizes="(max-width:768px) 100vw, 760px"
+                                className="object-cover object-center"
+                                priority
+                            />
+                        </div>
+                        <figcaption className="px-4 py-3 text-[12px] text-gray-500 bg-[#faf8f5] border-t border-[#ebe4da]">
+                            {d01HeroAlt}
+                        </figcaption>
+                    </figure>
+                );
+            }
+            if (part === '[EDP_PRODUCT_FOCUS_MODULE]') {
+                return (
+                    <ArticleProductFocus
+                        key={`edp-${i}`}
+                        tone="cool-day"
+                        productName="Dior Sauvage EDP"
+                        imageSrc="/images/products/077-sauvage-edp-main.webp"
+                        imageAlt="Dior Sauvage Eau de Parfum — chai catalog Maison de Son"
+                        caption="Sauvage EDP là lựa chọn dễ dùng hơn cho lịch trình ngày–tối."
+                        ctaLabel="Xem Dior Sauvage EDP"
+                        ctaHref="/nuoc-hoa-nam-dior-sauvage-edp"
+                    />
+                );
+            }
+            if (part === '[ELIXIR_PRODUCT_FOCUS_MODULE]') {
+                return (
+                    <ArticleProductFocus
+                        key={`elixir-${i}`}
+                        tone="warm-evening"
+                        productName="Dior Sauvage Elixir"
+                        imageSrc="/images/products/078-sauvage-elixir-main.jpg"
+                        imageAlt="Dior Sauvage Elixir — chai catalog Maison de Son"
+                        caption="Sauvage Elixir đậm hơn, hợp buổi tối và cần tay xịt nhẹ."
+                        ctaLabel="Xem Dior Sauvage Elixir"
+                        ctaHref="/nuoc-hoa-nam-dior-sauvage-elixir"
+                    />
+                );
+            }
+            return renderMarkdownSegment(part, `md-${i}`);
+        });
+
     return (
         <>
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
@@ -458,16 +662,13 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                 <ScrollProgress />
                 <Header />
 
-                {/* Hero Image Banner */}
+                {/* Default articles: top hero banner. D01 rescue: hero in-body after intro. */}
+                {!isD01Rescue ? (
                 <div className="w-full relative overflow-hidden" style={{ background: '#0a0a0a', minHeight: '220px' }}>
                     <div className="relative w-full" style={{ paddingTop: 'min(50%, 440px)' }}>
                         <Image
                             src={post.mainImage || PLACEHOLDER_IMAGE}
-                            alt={
-                                slug === 'dior-sauvage-edp-vs-elixir'
-                                    ? 'So sánh editorial Sauvage EDP và Sauvage Elixir trên bề mặt đá slate, ánh sáng mát trái và ấm phải'
-                                    : post.title
-                            }
+                            alt={post.title}
                             fill sizes="100vw"
                             className="object-cover object-center"
                             priority
@@ -476,6 +677,7 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
                     </div>
                 </div>
+                ) : null}
 
                 <div className="max-w-[1200px] mx-auto px-4 sm:px-6 py-6 sm:py-8">
                     <div className="flex flex-col lg:flex-row gap-10 xl:gap-14">
@@ -549,6 +751,9 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 prose-table:text-sm prose-table:my-8 prose-th:p-3.5 prose-th:border prose-th:border-gray-200 prose-th:bg-[#faf8f5] prose-th:font-semibold prose-th:text-left
                                 prose-td:p-3.5 prose-td:border prose-td:border-gray-100
                             ">
+                                {isD01Rescue ? (
+                                    renderD01Body()
+                                ) : (
                                 <ReactMarkdown
                                     remarkPlugins={[remarkGfm]}
                                     rehypePlugins={[rehypeRaw]}
@@ -656,10 +861,12 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                     {/* Strip any H1 from body — title is already rendered in article header */}
                                     {(post.body || '').replace(/^#\s+.+\n*/m, '').trim()}
                                 </ReactMarkdown>
+                                )}
                             </article>
 
-                            {/* Shared commercial/informational intent support (SSR) */}
-                            {articleSeo ? (
+                            {/* Shared commercial/informational intent support (SSR).
+                                D01 editorial rescue: transparency note is already in-body; skip extra disclosure stack. */}
+                            {articleSeo && !isD01Rescue ? (
                                 <ArticleIntentSupport
                                     profile={articleSeo.moduleProfile}
                                     relatedProducts={relatedProductsFinal}
@@ -700,8 +907,9 @@ async function ArticlePage({ post, slug }: { post: any; slug: string }) {
                                 </div>
                             </div>
 
-                            {/* CTA Box — commercial investigation only; no purchase CTA on informational */}
-                            {!isInformational ? (
+                            {/* CTA Box — commercial investigation only; no purchase CTA on informational.
+                                D01 rescue omits this extra seller-style box (one transparency note only in body). */}
+                            {!isInformational && !isD01Rescue ? (
                                 <section className="mt-8 rounded-2xl border border-[#e0d7ca] bg-gradient-to-br from-[#f7f2eb] to-[#faf8f5] p-6 sm:rounded-3xl sm:p-8">
                                     <h2 className="text-lg font-serif font-bold mb-2 text-[#1b120d]">Cần gợi ý mùi phù hợp sau khi đọc bài này?</h2>
                                     <p className="text-[14px] text-gray-600 mb-5 leading-[1.8]">Nếu bạn vẫn đang phân vân giữa vài lựa chọn, cứ nhắn Zalo. Maison de SON sẽ gợi ý theo gu mùi, ngân sách và hoàn cảnh dùng thực tế.</p>
